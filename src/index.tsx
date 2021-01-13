@@ -52,7 +52,9 @@ if (require.main === module) {
     <meta charset="UTF-8">
     <title>JSer.info item collections</title>
     <style>
-${baseCSS};
+${baseCSS}
+</style>
+<style>
 .Item-Main{
     display: flex;
 }
