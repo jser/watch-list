@@ -50,7 +50,7 @@ if (require.main === module) {
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>JSer.info item collections</title>
+    <title>JSer.info Watch List</title>
     <style>
 ${baseCSS}
 </style>
@@ -69,7 +69,7 @@ ${baseCSS}
 </head>
 <body>
 <header>
-    <h1>JSer.info Watch list</h1>
+    <h1>JSer.info Watch List</h1>
     <p>A collection of items that are explained in <a href="https://jser.info">JSer.info</a>.</p>
     <p>You can found JavaScript resource from <a href="https://jser.info">JSer.info</a> resources.</p>
     <p>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></p>
