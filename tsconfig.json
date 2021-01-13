@@ -9,7 +9,8 @@
     "target": "ES2015",
     "sourceMap": true,
     "declaration": true,
-    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "jsx": "react",
     "lib": [
       "esnext",
       "dom"
@@ -27,7 +28,7 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": [
-    "src/**/*"
+    "**/*"
   ],
   "exclude": [
     ".git",

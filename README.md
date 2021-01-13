@@ -1,32 +1,15 @@
-# @jser/item-collection
+# @jser/watch-list
 
-A collection of itmes that are explained in JSer.info.
-
-## Install
-
-Install with [npm](https://www.npmjs.com/):
-
-    npm install @jser/item-collection
+A collection of items that are explained in JSer.info.
 
 ## Usage
 
-- [ ] Write usage instructions
-
-## Changelog
-
-See [Releases page](https://github.com/jser/item-collection/releases).
-
-## Running tests
-
-Install devDependencies and Run `npm test`:
-
-    npm test
 
 ## Contributing
 
 Pull requests and stars are always welcome.
 
-For bugs and feature requests, [please create an issue](https://github.com/jser/item-collection/issues).
+For bugs and feature requests, [please create an issue](https://github.com/jser/watch-list/issues).
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`

@@ -2,6 +2,8 @@ import { fetchItems } from "@jser/data-fetcher";
 import type { JserItem } from "@jser/data-fetcher";
 import dayjs from "dayjs";
 import groupBy from "lodash.groupby";
+import * as fs from "fs";
+import path from "path";
 // Match →　title and url
 type RuleItem<T extends RegExpMatchArray = RegExpMatchArray> = {
     match: (item: JserItem) => T | null;
@@ -53,7 +55,14 @@ const Rules: RuleItem[] = [
         url: ({ match }) => match[0]
     }
 ];
-const ignoreDomains: string[] = ["github.com", "npmjs.com", "shop.oreilly.com", "oreilly.co.jp", "amazon.com"];
+const ignoreDomains: string[] = [
+    "github.com",
+    "npmjs.com",
+    "shop.oreilly.com",
+    "oreilly.co.jp",
+    "amazon.com",
+    "www.amazon.co.jp"
+];
 
 export const createInfo = (item: JserItem) => {
     for (const rule of Rules) {
@@ -91,15 +100,34 @@ export const collection = async ({ since }: { since: Date }) => {
 if (require.main === module) {
     (async function () {
         const r = await collection({ since: dayjs().subtract(2, "year").toDate() });
+        const results: {
+            count: number;
+            domain: string;
+            tags: string[];
+            example: {
+                title: string;
+                url: string;
+            };
+        }[] = [];
         Object.entries(r)
             .sort(([, aItems], [, bItems]) => {
                 return bItems.length - aItems.length;
             })
             .forEach(([domain, items]) => {
-                if (items.length < 3) {
-                    return;
-                }
                 console.log(items.length, domain);
+                results.push({
+                    count: items.length,
+                    domain: domain,
+                    tags: Array.from(new Set(items.flatMap((item) => item.item.tags || []))),
+                    example: {
+                        title: items[0].item.title,
+                        url: items[0].item.url
+                    }
+                });
             });
+        fs.mkdirSync(path.join(__dirname, "../build/"), {
+            recursive: true
+        });
+        fs.writeFileSync(path.join(__dirname, "../build/index.json"), JSON.stringify(results), "utf-8");
     })();
 }
