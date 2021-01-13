@@ -53,6 +53,15 @@ const Rules: RuleItem[] = [
         },
         title: ({ match }) => `Dev.to: ${match.groups?.name}`,
         url: ({ match }) => match[0]
+    },
+    // speakerdeck
+    // https://speakerdeck.com/jmblog
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/speakerdeck\.com\/(?<name>[-\w]+)\//);
+        },
+        title: ({ match }) => `Speakerdeck: ${match.groups?.name}`,
+        url: ({ match }) => match[0]
     }
 ];
 const ignoreDomains: string[] = [
