@@ -56,6 +56,14 @@ const Rules: RuleItem[] = [
             return item.url.match(/https:\/\/speakerdeck\.com\/(?<name>[-\w]+)\//);
         },
         url: ({ match }) => match[0]
+    },
+    // slideshare
+    // https://www2.slideshare.net/techblogyahoo
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/(www\d)\.slideshare\.net\/(?<name>[-\w]+)\//);
+        },
+        url: ({ match }) => match[0]
     }
 ];
 const ignoreDomains: string[] = [
