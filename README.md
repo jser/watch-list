@@ -9,6 +9,12 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 1. Visit <http://jser.info/watch-list>
 2. Found interesting JavaScript resource!
 
+## Building
+
+- Collect items in 2-years
+- Count by item's domain and sort it
+- Display items by count order
+
 ## Contributing
 
 Pull requests and stars are always welcome.
