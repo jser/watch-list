@@ -14,14 +14,15 @@ const Rules: RuleItem[] = [
     // Zenn
     {
         match: (item: JserItem) => {
-            return item.url.match(/https:\/\/zenn\.dev\/(?<name>\w+)\//);
+            return item.url.match(/https:\/\/zenn\.dev\/(?<name>[-\w]+)\//);
         },
         url: ({ match }) => match[0]
     },
-    // Qiita
+    // qiita
+    // https://qiita.com/koedamon/items/3e64612d22f3473f36a4
     {
         match: (item: JserItem) => {
-            return item.url.match(/https:\/\/qiita\.com\/(?<name>[-\w+])\//);
+            return item.url.match(/https:\/\/qiita\.com\/(?<name>[-\w]+)\//);
         },
         url: ({ match }) => match[0]
     },
@@ -37,7 +38,7 @@ const Rules: RuleItem[] = [
     // https://medium.com/@teh_builder/ref-objects-inside-useeffect-hooks-eb7c15198780
     {
         match: (item: JserItem) => {
-            return item.url.match(/https:\/\/medium\.com\/(?<name>[@-\w]+)\//);
+            return item.url.match(/https:\/\/medium\.com\/(?<name>[-@\w]+)\//);
         },
         url: ({ match }) => match[0]
     },
