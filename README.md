@@ -6,6 +6,7 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 
 ## Usage
 
+1. Visit <http://jser.info/watch-list>
 
 ## Contributing
 
