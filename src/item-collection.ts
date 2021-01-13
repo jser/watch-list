@@ -1,0 +1,105 @@
+import { fetchItems } from "@jser/data-fetcher";
+import type { JserItem } from "@jser/data-fetcher";
+import dayjs from "dayjs";
+import groupBy from "lodash.groupby";
+// Match →　title and url
+type RuleItem<T extends RegExpMatchArray = RegExpMatchArray> = {
+    match: (item: JserItem) => T | null;
+    title: ({ item, match }: { item: JserItem; match: T }) => string;
+    url: ({ item, match }: { item: JserItem; match: T }) => string;
+};
+const Rules: RuleItem[] = [
+    // Zenn
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/zenn\.dev\/(?<name>\w+)\//);
+        },
+        title: ({ match }) => `Zenn: ${match.groups?.name}`,
+        url: ({ match }) => match[0]
+    },
+    // Qiita
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/qiita\.com\/(?<name>[-\w+])\//);
+        },
+        title: ({ match }) => `Qiita: ${match.groups?.name}`,
+        url: ({ match }) => match[0]
+    },
+    // Note
+    // https://note.com/takamoso/n/n32c4e6904cf7
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/note\.com\/(?<name>[-\w+])\//);
+        },
+        title: ({ match }) => `Note.com: ${match.groups?.name}`,
+        url: ({ match }) => match[0]
+    },
+    // Medium
+    // https://medium.com/@teh_builder/ref-objects-inside-useeffect-hooks-eb7c15198780
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/medium\.com\/(?<name>[@-\w]+)\//);
+        },
+        title: ({ match }) => `Medium: ${match.groups?.name}`,
+        url: ({ match }) => match[0]
+    },
+    // https://dev.to
+    // https://dev.to/voraciousdev/a-practical-guide-to-the-web-cryptography-api-4o8n
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/dev\.to\/(?<name>[-\w]+)\//);
+        },
+        title: ({ match }) => `Dev.to: ${match.groups?.name}`,
+        url: ({ match }) => match[0]
+    }
+];
+const ignoreDomains: string[] = ["github.com", "npmjs.com", "shop.oreilly.com", "oreilly.co.jp", "amazon.com"];
+
+export const createInfo = (item: JserItem) => {
+    for (const rule of Rules) {
+        const matchRule = rule.match(item);
+        if (matchRule) {
+            return {
+                title: rule.title({ item, match: matchRule }),
+                domain: rule.url({ item, match: matchRule }),
+                item
+            };
+        }
+    }
+    // default
+    return {
+        title: item.title,
+        domain: new URL(item.url).origin.replace(/^https?/, "https"),
+        item
+    };
+};
+
+export const collection = async ({ since }: { since: Date }) => {
+    const items = await fetchItems();
+    const filterredItems = items.filter((item) => {
+        if (dayjs(item.date).isBefore(since)) {
+            return false;
+        }
+        return !ignoreDomains.some((domain) => new URL(item.url).origin.includes(domain));
+    });
+    return groupBy(
+        filterredItems.map((item) => createInfo(item)),
+        (r) => r.domain
+    );
+};
+
+if (require.main === module) {
+    (async function () {
+        const r = await collection({ since: dayjs().subtract(2, "year").toDate() });
+        Object.entries(r)
+            .sort(([, aItems], [, bItems]) => {
+                return bItems.length - aItems.length;
+            })
+            .forEach(([domain, items]) => {
+                if (items.length < 3) {
+                    return;
+                }
+                console.log(items.length, domain);
+            });
+    })();
+}
