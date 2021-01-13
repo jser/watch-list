@@ -15,7 +15,7 @@ export const Item = (props: typeof indexJSON[0]) => {
             </div>
             <footer>
                 <p>
-                    {props.tags.map((tag) => (
+                    {props.tags.map((tag: string) => (
                         <span key={tag} className={"Item-Tag"}>
                             {tag}
                         </span>
