@@ -1,6 +1,8 @@
 # @jser/watch-list
 
-A collection of items that are explained in JSer.info.
+A collection of items that are explained in [JSer.info][].
+
+You can found JavaScript resources from JSer.info [Dataset](https://github.com/jser/dataset).
 
 ## Usage
 
@@ -24,3 +26,5 @@ For bugs and feature requests, [please create an issue](https://github.com/jser/
 ## License
 
 MIT © azu
+
+[JSer.info]: https://jser.info
