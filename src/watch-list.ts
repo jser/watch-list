@@ -7,7 +7,7 @@ import path from "path";
 // Match →　title and url
 type RuleItem<T extends RegExpMatchArray = RegExpMatchArray> = {
     match: (item: JserItem) => T | null;
-    title: ({ item, match }: { item: JserItem; match: T }) => string;
+    // title: ({ item, match }: { item: JserItem; match: T }) => string;
     url: ({ item, match }: { item: JserItem; match: T }) => string;
 };
 const Rules: RuleItem[] = [
@@ -16,7 +16,6 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/zenn\.dev\/(?<name>\w+)\//);
         },
-        title: ({ match }) => `Zenn: ${match.groups?.name}`,
         url: ({ match }) => match[0]
     },
     // Qiita
@@ -24,7 +23,6 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/qiita\.com\/(?<name>[-\w+])\//);
         },
-        title: ({ match }) => `Qiita: ${match.groups?.name}`,
         url: ({ match }) => match[0]
     },
     // Note
@@ -33,7 +31,6 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/note\.com\/(?<name>[-\w+])\//);
         },
-        title: ({ match }) => `Note.com: ${match.groups?.name}`,
         url: ({ match }) => match[0]
     },
     // Medium
@@ -42,7 +39,6 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/medium\.com\/(?<name>[@-\w]+)\//);
         },
-        title: ({ match }) => `Medium: ${match.groups?.name}`,
         url: ({ match }) => match[0]
     },
     // https://dev.to
@@ -51,7 +47,6 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/dev\.to\/(?<name>[-\w]+)\//);
         },
-        title: ({ match }) => `Dev.to: ${match.groups?.name}`,
         url: ({ match }) => match[0]
     },
     // speakerdeck
@@ -60,7 +55,6 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/speakerdeck\.com\/(?<name>[-\w]+)\//);
         },
-        title: ({ match }) => `Speakerdeck: ${match.groups?.name}`,
         url: ({ match }) => match[0]
     }
 ];
@@ -78,7 +72,6 @@ export const createInfo = (item: JserItem) => {
         const matchRule = rule.match(item);
         if (matchRule) {
             return {
-                title: rule.title({ item, match: matchRule }),
                 domain: rule.url({ item, match: matchRule }),
                 item
             };
