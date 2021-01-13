@@ -68,8 +68,9 @@ ${baseCSS};
 <body>
 <header>
     <h1>JSer.info Watch list</h1>
-    <p>A collection of items that are explained in JSer.info.</p>
-    <p>You can found JavaScript resource from JSer.info resources.</p>
+    <p>A collection of items that are explained in <a href="https://jser.info">JSer.info</a>.</p>
+    <p>You can found JavaScript resource from <a href="https://jser.info">JSer.info</a> resources.</p>
+    <p>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></p>
 </header>
 ${html}
 </body>
