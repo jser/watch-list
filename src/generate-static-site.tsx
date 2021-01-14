@@ -29,9 +29,7 @@ export const generateStaticSite = () => {
                     <li>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></li>
                     </ul>
                 </header>
-                <main role="main" id="main">
-                    ${html}
-                </main>
+                <main role="main" id="main">${html}</main>
             </body>
         </html>
     `;
