@@ -1,7 +1,28 @@
-import React from "react";
+import React, { useState } from "react";
 import indexJSON from "../build/index.json";
 
-export const Item = (props: typeof indexJSON[0]) => {
+type ItemType = typeof indexJSON[0];
+
+interface TagsProps {
+    tags: string[];
+    toggleTag: (tag: string) => void;
+}
+
+const Tags: React.FC<TagsProps> = ({ tags, toggleTag }) => {
+    return (
+        <>
+            {tags.map((tag: string) => (
+                <span key={tag} className={"Item-Tag"} onClick={() => toggleTag(tag)}>
+                    {tag}
+                </span>
+            ))}
+        </>
+    );
+};
+
+type ItemProps = ItemType & TagsProps["toggleTag"];
+
+export const Item = (props: ItemProps) => {
     return (
         <div className={"Item"}>
             <div className={"Item-Main"}>
@@ -12,11 +33,7 @@ export const Item = (props: typeof indexJSON[0]) => {
             </div>
             <footer>
                 <p>
-                    {props.tags.map((tag: string) => (
-                        <span key={tag} className={"Item-Tag"}>
-                            {tag}
-                        </span>
-                    ))}
+                    <Tags tags={props.tags} toggleTag={props.toggleTag} />
                 </p>
                 <p>
                     Example: <a href={props.example.url}>{props.example.title}</a>
@@ -26,11 +43,39 @@ export const Item = (props: typeof indexJSON[0]) => {
     );
 };
 
+interface State {
+    items: ItemType[];
+    tags: string[];
+}
+
 export const App = () => {
+    const [state, setState] = useState<State>({ items: indexJSON, tags: [] });
+
+    const toggleTag = (tag: string) => {
+        const tags = [...state.tags];
+        const index = tags.findIndex((el) => el === tag);
+        if (index > -1) {
+            tags.splice(index, 1);
+        } else {
+            tags.push(tag);
+        }
+        const items = tags.length
+            ? indexJSON.filter((item) => tags.every((tag) => item.tags.includes(tag)))
+            : indexJSON;
+
+        setState({ items, tags });
+    };
+
     return (
         <div className={"App"}>
-            {indexJSON.map((item) => (
-                <Item {...item} key={item.domain} />
+            {state.tags.length ? (
+                <p>
+                    Selected Tags: <Tags tags={state.tags} toggleTag={toggleTag} />
+                </p>
+            ) : undefined}
+
+            {state.items.map((item) => (
+                <Item {...item} key={item.domain} toggleTag={toggleTag} />
             ))}
         </div>
     );
