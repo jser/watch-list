@@ -15,6 +15,10 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 - Count by item's domain and sort it
 - Display items by count order
 
+## Development
+
+`npm run main && npm run start`
+
 ## Contributing
 
 Pull requests and stars are always welcome.
