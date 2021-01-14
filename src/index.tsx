@@ -44,6 +44,7 @@ if (require.main === module) {
         recursive: true
     });
     const baseCSS = fs.readFileSync(path.join(__dirname, "index.css"), "utf-8");
+    const isoString = new Date().toISOString();
     fs.writeFileSync(
         path.join(__dirname, "../dist/index.html"),
         `<!DOCTYPE html>
@@ -70,9 +71,12 @@ ${baseCSS}
 <body>
 <header>
     <h1>JSer.info Watch List</h1>
-    <p>A collection of items that are explained in <a href="https://jser.info">JSer.info</a>.</p>
-    <p>You can found JavaScript resource from <a href="https://jser.info">JSer.info</a> resources.</p>
-    <p>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></p>
+    <p>A collection of items that are explained in <a href="https://jser.info">JSer.info</a>.<br/>
+    You can found JavaScript resource from <a href="https://jser.info">JSer.info</a> resources.</p>
+    <ul>
+    <li>Last Updated: <time datetime="${isoString}">${isoString}</time></li>
+    <li>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></li>
+    </ul>
 </header>
 ${html}
 </body>
