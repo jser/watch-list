@@ -8,4 +8,5 @@
     background: var(--nc-bg-1);
     color: var(--nc-tx-2);
     border: 1px solid var(--nc-lk-1);
+    cursor: pointer;
 }

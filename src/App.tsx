@@ -12,7 +12,7 @@ const Tags: React.FC<TagsProps> = ({ tags, toggleTag }) => {
     return (
         <>
             {tags.map((tag: string) => (
-                <span key={tag} className={"Item-Tag"} onClick={() => toggleTag(tag)}>
+                <span key={tag} role="button" className={"Item-Tag"} onClick={() => toggleTag(tag)}>
                     {tag}
                 </span>
             ))}

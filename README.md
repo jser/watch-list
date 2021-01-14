@@ -17,7 +17,11 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 
 ## Development
 
-`npm run main && npm run start`
+Run following command:
+
+```
+npm run main && npm run start
+```
 
 ## Contributing
 
