@@ -4,6 +4,8 @@ A collection of items that are explained in [JSer.info][].
 
 You can found JavaScript resources from JSer.info [Dataset](https://github.com/jser/dataset).
 
+<http://jser.info/watch-list> will be updated every day at 00:00.
+
 ## Usage
 
 1. Visit <http://jser.info/watch-list>
