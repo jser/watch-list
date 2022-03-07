@@ -20,7 +20,9 @@ const Tags: React.FC<TagsProps> = ({ tags, toggleTag }) => {
     );
 };
 
-type ItemProps = ItemType & TagsProps["toggleTag"];
+type ItemProps = ItemType & {
+    toggleTag: TagsProps["toggleTag"];
+};
 
 export const Item = (props: ItemProps) => {
     return (
