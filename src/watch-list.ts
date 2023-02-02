@@ -126,13 +126,17 @@ if (require.main === module) {
             })
             .forEach(([domain, items]) => {
                 console.log(items.length, domain);
+                const latestItem = items.at(-1);
+                if (!latestItem) {
+                    return;
+                }
                 results.push({
                     count: items.length,
                     domain: domain,
                     tags: Array.from(new Set(items.flatMap((item) => item.item.tags || []))),
                     example: {
-                        title: items[0].item.title,
-                        url: items[0].item.url
+                        title: latestItem.item.title,
+                        url: latestItem.item.url
                     }
                 });
             });
