@@ -1,5 +1,6 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import { App } from "./App";
-
-ReactDOM.hydrate(<App />, document.getElementById("main"));
+import { createRoot } from "react-dom/client";
+const container = document.getElementById("main") as HTMLDialogElement;
+const root = createRoot(container);
+root.render(<App />);
