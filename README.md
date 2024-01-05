@@ -22,7 +22,7 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 Run following command:
 
 ```
-npm run main && npm run start
+npm run dev
 ```
 
 ## Contributing
