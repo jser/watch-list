@@ -22,8 +22,8 @@ export const generateStaticSite = () => {
             <body>
                 <header>
                     <h1>JSer.info Watch List</h1>
-                    <p>A collection of items that are explained in <a href="https://jser.info">JSer.info</a>.<br/>
-                    You can found JavaScript resource from <a href="https://jser.info">JSer.info</a> resources.</p>
+                    <p><a href="https://jser.info">JSer.info</a>で2年以内に紹介したことがあるサイトの一覧です。<br/>
+                    生きているJavaScriptの情報源として利用できます。</p>
                     <ul>
                     <li>Last Updated: <time datetime="${isoString}">${isoString}</time></li>
                     <li>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></li>
