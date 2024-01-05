@@ -33,7 +33,7 @@
     "website": "npm run main && npm run build",
     "main": "ts-node src/watch-list.ts",
     "build": "webpack --mode production",
-    "start": "webpack serve --mode development",
+    "dev": "npm run main && webpack serve --mode development",
     "clean": "rimraf lib/ module/",
     "prepare": "git config --local core.hooksPath .githook",
     "prepublishOnly": "npm run clean && npm run build",

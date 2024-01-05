@@ -16,7 +16,7 @@ export const generateStaticSite = () => {
             <head>
                 <meta charset="UTF-8">
                 <title>JSer.info Watch List</title>
-                <meta name="description" content="JavaScript information source on JSer.info">
+                <meta name="description" content="JavaScript information source of JSer.info">
                 <style>${baseCSS}${appCSS}</style>
             </head>
             <body>

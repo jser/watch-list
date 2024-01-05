@@ -65,10 +65,17 @@ const Rules: RuleItem[] = [
             return item.url.match(/https:\/\/(www\d)\.slideshare\.net\/(?<name>[-\w]+)\//);
         },
         url: ({ match }) => match[0]
+    },
+    // GitHub
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/github\.com\/(?<name>[^/]+)\/(?<repo>[^/]+)\/?.*?/);
+        },
+        url: ({ match }) => `https://github.com/${match[1]}/${match[2]}`
     }
 ];
 const ignoreDomains: string[] = [
-    "github.com",
+    // "github.com",
     "npmjs.com",
     "shop.oreilly.com",
     "oreilly.co.jp",
