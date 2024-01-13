@@ -147,9 +147,9 @@ if (require.main === module) {
                     }
                 });
             });
-        fs.mkdirSync(path.join(__dirname, "../build/"), {
+        fs.mkdirSync(path.join(__dirname, "../data/"), {
             recursive: true
         });
-        fs.writeFileSync(path.join(__dirname, "../build/index.json"), JSON.stringify(results), "utf-8");
+        fs.writeFileSync(path.join(__dirname, "../data/watch-list.json"), JSON.stringify(results), "utf-8");
     })();
 }

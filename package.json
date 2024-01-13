@@ -30,10 +30,10 @@
     "module"
   ],
   "scripts": {
-    "website": "npm run main && npm run build",
-    "main": "ts-node src/watch-list.ts",
+    "website": "npm run gen:watch-list && npm run build",
+    "gen:watch-list": "ts-node src/watch-list.ts",
     "build": "webpack --mode production",
-    "dev": "npm run main && webpack serve --mode development",
+    "dev": "npm run gen:watch-list && webpack serve --mode development",
     "clean": "rimraf lib/ module/",
     "prepare": "git config --local core.hooksPath .githook",
     "prepublishOnly": "npm run clean && npm run build",

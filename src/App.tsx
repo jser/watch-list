@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import indexJSON from "../build/index.json";
+import indexJSON from "../data/watch-list.json";
 
-type ItemType = typeof indexJSON[0];
+type ItemType = (typeof indexJSON)[0];
 
 interface TagsProps {
     tags: string[];

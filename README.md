@@ -13,9 +13,18 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 
 ## Building
 
+### Watch List
+
 - Collect items in 2-years
 - Count by item's domain and sort it
+- Save to `data/watch-list.json`
 - Display items by count order
+
+### RSS Feeds
+
+- Generate Watch List
+- Visit each item's page and get RSS feeds
+- Save RSS feeds to `data/rss.json`
 
 ## Development
 
