@@ -26,6 +26,9 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 - Visit each item's page and get RSS feeds
 - Save RSS feeds to `data/feed-list.json` and `data/feed-list.opml`
 
+📝 `data/feed-list.json` を直接編集することで、RSSフィードを手動でも変更できる。
+更新時は一度入ったフィードはずっと残るので、変更は手動で対応する必要がある。
+
 ### Web List
 
 - Generate Watch List and RSS Feeds
