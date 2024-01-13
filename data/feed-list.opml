@@ -4,1170 +4,587 @@
     <title>JSer.info Watch List</title>
 </head>
 <body>
-
-    <outline text="https://nodejs.org" title="https://nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
-
-    <outline text="https://webkit.org" title="https://webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
-
-    <outline text="https://deno.com" title="https://deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
-
-    <outline text="https://bun.sh" title="https://bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
-
-    <outline text="https://devblogs.microsoft.com" title="https://devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/feed"/>
-
-    <outline text="https://github.com/pnpm/pnpm" title="https://github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
-
-    <outline text="https://astro.build" title="https://astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
-
-    <outline text="https://github.com/evanw/esbuild" title="https://github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
-
-    <outline text="https://github.com/microsoft/playwright" title="https://github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
-
-    <outline text="https://eslint.org" title="https://eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
-
-    <outline text="https://www.electronjs.org" title="https://www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
-
-    <outline text="https://2ality.com" title="https://2ality.com" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom"/>
-
-    <outline text="https://gihyo.jp" title="https://gihyo.jp" type="rss" xmlUrl="https://gihyo.jp/feed/rss1"/>
-
-    <outline text="https://github.com/zloirock/core-js" title="https://github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
-
-    <outline text="https://www.youtube.com" title="https://www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
-
-    <outline text="https://blog.chromium.org" title="https://blog.chromium.org" type="rss" xmlUrl="https://blog.chromium.org/feeds/posts/default"/>
-
-    <outline text="https://github.com/npm/cli" title="https://github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
-
-    <outline text="https://github.com/remix-run/remix" title="https://github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
-
-    <outline text="https://ecmascript-daily.github.io" title="https://ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
-
-    <outline text="https://blog.angular.io" title="https://blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
-
-    <outline text="https://reactnative.dev" title="https://reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
-
-    <outline text="https://github.com/honojs/hono" title="https://github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
-
-    <outline text="https://github.com/vitest-dev/vitest" title="https://github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
-
-    <outline text="https://blog.emberjs.com" title="https://blog.emberjs.com" type="rss" xmlUrl="https://blog.emberjs.com/rss.xml"/>
-
-    <outline text="https://prettier.io" title="https://prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
-
-    <outline text="https://storybook.js.org" title="https://storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss"/>
-
-    <outline text="https://github.com/vitejs/vite" title="https://github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
-
-    <outline text="https://github.com/lerna/lerna" title="https://github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
-
-    <outline text="https://calendar.perfplanet.com" title="https://calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
-
-    <outline text="https://blog.vuejs.org" title="https://blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
-
-    <outline text="https://github.com/webpack/webpack" title="https://github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
-
-    <outline text="https://babeljs.io" title="https://babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
-
-    <outline text="https://github.com/facebook/jest" title="https://github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
-
-    <outline text="https://github.com/reduxjs/redux-toolkit" title="https://github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
-
-    <outline text="https://vercel.com" title="https://vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
-
-    <outline text="https://github.blog" title="https://github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
-
-    <outline text="https://moonrepo.dev" title="https://moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
-
-    <outline text="https://www.builder.io" title="https://www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
-
-    <outline text="https://www.rspack.dev" title="https://www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
-
-    <outline text="https://github.com/web-infra-dev/rspack" title="https://github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
-
-    <outline text="https://css-tricks.com" title="https://css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
-
-    <outline text="https://github.com/parcel-bundler/parcel" title="https://github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
-
-    <outline text="https://hacks.mozilla.org" title="https://hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
-
-    <outline text="https://parceljs.org" title="https://parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
-
-    <outline text="https://github.com/reduxjs/react-redux" title="https://github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
-
-    <outline text="https://github.com/vercel/swr" title="https://github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
-
-    <outline text="https://www.smashingmagazine.com" title="https://www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
-
-    <outline text="https://github.com/capricorn86/happy-dom" title="https://github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
-
-    <outline text="https://github.com/solidjs/solid" title="https://github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
-
-    <outline text="https://efcl.info" title="https://efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
-
-    <outline text="https://blog.jquery.com" title="https://blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
-
-    <outline text="https://github.com/rollup/rollup" title="https://github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
-
-    <outline text="https://nuxt.com" title="https://nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
-
-    <outline text="https://svelte.dev" title="https://svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
-
-    <outline text="https://github.com/esm-dev/esm.sh" title="https://github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
-
-    <outline text="https://github.com/jestjs/jest" title="https://github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
-
-    <outline text="https://github.com/axios/axios" title="https://github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
-
-    <outline text="https://github.com/google/zx" title="https://github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
-
-    <outline text="https://github.com/ghiscoding/lerna-lite" title="https://github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
-
-    <outline text="https://github.com/styled-components/styled-components" title="https://github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
-
-    <outline text="https://github.com/vueuse/vueuse" title="https://github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
-
-    <outline text="https://github.com/remix-run/react-router" title="https://github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
-
-    <outline text="https://www.joshwcomeau.com" title="https://www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
-
-    <outline text="https://github.com/prisma/prisma" title="https://github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
-
-    <outline text="https://github.com/reduxjs/redux" title="https://github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
-
-    <outline text="https://www.shoeisha.co.jp" title="https://www.shoeisha.co.jp" type="rss" xmlUrl="https://www.shoeisha.co.jp/rss/index.xml"/>
-
-    <outline text="https://blog.jxck.io" title="https://blog.jxck.io" type="rss" xmlUrl="https://blog.jxck.io/feeds/atom.xml"/>
-
-    <outline text="https://github.com/redwoodjs/redwood" title="https://github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
-
-    <outline text="https://github.com/jsdom/jsdom" title="https://github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
-
-    <outline text="https://dwango.github.io" title="https://dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
-
-    <outline text="https://www.mitsue.co.jp" title="https://www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
-
-    <outline text="https://github.com/cloudflare/miniflare" title="https://github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
-
-    <outline text="https://bytecodealliance.org" title="https://bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
-
-    <outline text="https://www.totaltypescript.com" title="https://www.totaltypescript.com" type="rss" xmlUrl="https://www.totaltypescript.com/rss.xml"/>
-
-    <outline text="https://github.com/ije/esm.sh" title="https://github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
-
-    <outline text="https://vitejs.dev" title="https://vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
-
-    <outline text="https://www.webkit.org" title="https://www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
-
-    <outline text="https://biomejs.dev" title="https://biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
-
-    <outline text="https://eh-career.com" title="https://eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
-
-    <outline text="https://zenn.dev/qnighy/" title="https://zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
-
-    <outline text="https://github.com/expressjs/express" title="https://github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
-
-    <outline text="https://github.com/GoogleChrome/lighthouse" title="https://github.com/GoogleChrome/lighthouse" type="rss" xmlUrl="https://github.com/GoogleChrome/lighthouse/releases.atom"/>
-
-    <outline text="https://github.com/TypeStrong/ts-node" title="https://github.com/TypeStrong/ts-node" type="rss" xmlUrl="https://github.com/TypeStrong/ts-node/releases.atom"/>
-
-    <outline text="https://zenn.dev/morinokami/" title="https://zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
-
-    <outline text="https://www.packtpub.com" title="https://www.packtpub.com" type="rss" xmlUrl="https://hub.packtpub.com/feed/"/>
-
-    <outline text="https://github.com/faker-js/faker" title="https://github.com/faker-js/faker" type="rss" xmlUrl="https://github.com/faker-js/faker/releases.atom"/>
-
-    <outline text="https://github.com/tc39/ecma262" title="https://github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
-
-    <outline text="https://www.mizdra.net" title="https://www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
-
-    <outline text="https://www.zhenghao.io" title="https://www.zhenghao.io" type="rss" xmlUrl="https://www.zhenghao.io/rss.xml"/>
-
-    <outline text="https://github.com/facebook/lexical" title="https://github.com/facebook/lexical" type="rss" xmlUrl="https://github.com/facebook/lexical/releases.atom"/>
-
-    <outline text="https://github.com/nodejs/node" title="https://github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
-
-    <outline text="https://jestjs.io" title="https://jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
-
-    <outline text="https://github.com/facebook/react" title="https://github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
-
-    <outline text="https://cypress.io" title="https://cypress.io" type="rss" xmlUrl="https://cypress.io/feed.xml"/>
-
-    <outline text="https://github.com/mochajs/mocha" title="https://github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
-
-    <outline text="https://babylonjs.medium.com" title="https://babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
-
-    <outline text="https://github.com/puppeteer/puppeteer" title="https://github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
-
-    <outline text="https://github.com/storybookjs/storybook" title="https://github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
-
-    <outline text="https://github.com/electron/electron" title="https://github.com/electron/electron" type="rss" xmlUrl="https://github.com/electron/electron/releases.atom"/>
-
-    <outline text="https://nolanlawson.com" title="https://nolanlawson.com" type="rss" xmlUrl="https://nolanlawson.com/feed/"/>
-
-    <outline text="https://github.com/actions/setup-node" title="https://github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
-
-    <outline text="https://github.com/sverweij/dependency-cruiser" title="https://github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
-
-    <outline text="https://github.com/infernojs/inferno" title="https://github.com/infernojs/inferno" type="rss" xmlUrl="https://github.com/infernojs/inferno/releases.atom"/>
-
-    <outline text="https://blog.nrwl.io" title="https://blog.nrwl.io" type="rss" xmlUrl="https://blog.nrwl.io/feed"/>
-
-    <outline text="https://www.ecma-international.org" title="https://www.ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
-
-    <outline text="https://github.com/oven-sh/bun" title="https://github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
-
-    <outline text="https://blog.isquaredsoftware.com" title="https://blog.isquaredsoftware.com" type="rss" xmlUrl="https://blog.isquaredsoftware.com/index.xml"/>
-
-    <outline text="https://zenn.dev/teppeis/" title="https://zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
-
-    <outline text="https://github.com/riot/riot" title="https://github.com/riot/riot" type="rss" xmlUrl="https://github.com/riot/riot/releases.atom"/>
-
-    <outline text="https://www.honeybadger.io" title="https://www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
-
-    <outline text="https://buf.build" title="https://buf.build" type="rss" xmlUrl="https://buf.build/rss.xml"/>
-
-    <outline text="https://github.com/denoland/deno" title="https://github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
-
-    <outline text="https://github.com/httptoolkit/brotli-wasm" title="https://github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
-
-    <outline text="https://spidermonkey.dev" title="https://spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
-
-    <outline text="https://blog.tomayac.com" title="https://blog.tomayac.com" type="rss" xmlUrl="https://blog.tomayac.com/feed/feed.xml"/>
-
-    <outline text="https://github.com/avajs/ava" title="https://github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
-
-    <outline text="https://zenn.dev/sa2knight/" title="https://zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
-
-    <outline text="https://github.com/jasmine/jasmine" title="https://github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
-
-    <outline text="https://github.com/pixijs/pixijs" title="https://github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
-
-    <outline text="https://shopify.engineering" title="https://shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
-
-    <outline text="https://blog.bokken.io" title="https://blog.bokken.io" type="rss" xmlUrl="https://blog.bokken.io/feeds/atom.xml"/>
-
-    <outline text="https://tauri.app" title="https://tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>
-
-    <outline text="https://v2.vuejs.org" title="https://v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
-
-    <outline text="https://postd.cc" title="https://postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
-
-    <outline text="https://github.com/facebook/flow" title="https://github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
-
-    <outline text="https://github.com/nuxt/nuxt" title="https://github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
-
-    <outline text="https://github.com/kaleidawave/ezno" title="https://github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
-
-    <outline text="https://github.com/lerna-lite/lerna-lite" title="https://github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
-
-    <outline text="https://blog.stackblitz.com" title="https://blog.stackblitz.com" type="rss" xmlUrl="https://blog.stackblitz.com/rss.xml"/>
-
-    <outline text="https://github.com/markedjs/marked" title="https://github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
-
-    <outline text="https://lea.verou.me" title="https://lea.verou.me" type="rss" xmlUrl="https://lea.verou.me/feed.xml"/>
-
-    <outline text="https://github.com/vanjs-org/van" title="https://github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
-
-    <outline text="https://blog.getbootstrap.com" title="https://blog.getbootstrap.com" type="rss" xmlUrl="https://blog.getbootstrap.com/feed.xml"/>
-
-    <outline text="https://lit.dev" title="https://lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
-
-    <outline text="https://developer.mozilla.org" title="https://developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
-
-    <outline text="https://github.com/tapjs/tsimp" title="https://github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-
-    <outline text="https://tailwindcss.com" title="https://tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
-
-    <outline text="https://alexsidorenko.com" title="https://alexsidorenko.com" type="rss" xmlUrl="https://alexsidorenko.com/rss.xml"/>
-
-    <outline text="https://medium.com/@vueshenzhen/" title="https://medium.com/@vueshenzhen/" type="rss" xmlUrl="https://medium.com/feed/@vueshenzhen"/>
-
-    <outline text="https://github.com/fox1t/turborepo-remote-cache" title="https://github.com/fox1t/turborepo-remote-cache" type="rss" xmlUrl="https://github.com/fox1t/turborepo-remote-cache/releases.atom"/>
-
-    <outline text="https://github.com/ngneat/elf" title="https://github.com/ngneat/elf" type="rss" xmlUrl="https://github.com/ngneat/elf/releases.atom"/>
-
-    <outline text="https://github.com/mozilla/rhino" title="https://github.com/mozilla/rhino" type="rss" xmlUrl="https://github.com/mozilla/rhino/releases.atom"/>
-
-    <outline text="https://github.com/11ty/eleventy" title="https://github.com/11ty/eleventy" type="rss" xmlUrl="https://github.com/11ty/eleventy/releases.atom"/>
-
-    <outline text="https://github.com/facebook/relay" title="https://github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
-
-    <outline text="https://github.com/WebAppPentestGuidelines/graphQLGuideLine" title="https://github.com/WebAppPentestGuidelines/graphQLGuideLine" type="rss" xmlUrl="https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"/>
-
-    <outline text="https://mitpress.mit.edu" title="https://mitpress.mit.edu" type="rss" xmlUrl="https://mitpress.mit.edu/feed/"/>
-
-    <outline text="https://vanillalist.top" title="https://vanillalist.top" type="rss" xmlUrl="https://vanillalist.top/feed.xml"/>
-
-    <outline text="https://github.com/tinyplex/tinybase" title="https://github.com/tinyplex/tinybase" type="rss" xmlUrl="https://github.com/tinyplex/tinybase/releases.atom"/>
-
-    <outline text="https://github.com/webtoon/psd" title="https://github.com/webtoon/psd" type="rss" xmlUrl="https://github.com/webtoon/psd/releases.atom"/>
-
-    <outline text="https://github.com/DataDog/build-plugin" title="https://github.com/DataDog/build-plugin" type="rss" xmlUrl="https://github.com/DataDog/build-plugin/releases.atom"/>
-
-    <outline text="https://blog.plasmic.app" title="https://blog.plasmic.app" type="rss" xmlUrl="https://blog.plasmic.app/feed.xml"/>
-
-    <outline text="https://recoiljs.org" title="https://recoiljs.org" type="rss" xmlUrl="https://recoiljs.org/blog/rss.xml"/>
-
-    <outline text="https://github.com/nightwatchjs/nightwatch" title="https://github.com/nightwatchjs/nightwatch" type="rss" xmlUrl="https://github.com/nightwatchjs/nightwatch/releases.atom"/>
-
-    <outline text="https://www.amazon.science" title="https://www.amazon.science" type="rss" xmlUrl="https://www.amazon.science/index.rss"/>
-
-    <outline text="https://v8.dev" title="https://v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
-
-    <outline text="https://developers.cyberagent.co.jp" title="https://developers.cyberagent.co.jp" type="rss" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/"/>
-
-    <outline text="https://www.igalia.com" title="https://www.igalia.com" type="rss" xmlUrl="https://www.igalia.com/feed.xml"/>
-
-    <outline text="https://github.com/ngneat/falso" title="https://github.com/ngneat/falso" type="rss" xmlUrl="https://github.com/ngneat/falso/releases.atom"/>
-
-    <outline text="https://mdxjs.com" title="https://mdxjs.com" type="rss" xmlUrl="https://mdxjs.com/rss.xml"/>
-
-    <outline text="https://dev.to/atian25/" title="https://dev.to/atian25/" type="rss" xmlUrl="https://dev.to/feed/atian25"/>
-
-    <outline text="https://github.com/papyrs/stylo" title="https://github.com/papyrs/stylo" type="rss" xmlUrl="https://github.com/papyrs/stylo/releases.atom"/>
-
-    <outline text="https://github.com/hikerpig/pintora" title="https://github.com/hikerpig/pintora" type="rss" xmlUrl="https://github.com/hikerpig/pintora/releases.atom"/>
-
-    <outline text="https://github.com/checkly/puppeteer-to-playwright" title="https://github.com/checkly/puppeteer-to-playwright" type="rss" xmlUrl="https://github.com/checkly/puppeteer-to-playwright/releases.atom"/>
-
-    <outline text="https://github.com/Aslemammad/react-worker-components-plugin" title="https://github.com/Aslemammad/react-worker-components-plugin" type="rss" xmlUrl="https://github.com/Aslemammad/react-worker-components-plugin/releases.atom"/>
-
-    <outline text="https://blog.drsprime.com" title="https://blog.drsprime.com" type="rss" xmlUrl="https://blog.drsprime.com/feed"/>
-
-    <outline text="https://zenn.dev/inokawa/" title="https://zenn.dev/inokawa/" type="rss" xmlUrl="https://zenn.dev/inokawa/feed"/>
-
-    <outline text="https://dev.to/arcanis/" title="https://dev.to/arcanis/" type="rss" xmlUrl="https://dev.to/feed/arcanis"/>
-
-    <outline text="https://github.com/jimmywarting/native-file-system-adapter" title="https://github.com/jimmywarting/native-file-system-adapter" type="rss" xmlUrl="https://github.com/jimmywarting/native-file-system-adapter/releases.atom"/>
-
-    <outline text="https://github.com/JoshuaKGoldberg/TypeStat" title="https://github.com/JoshuaKGoldberg/TypeStat" type="rss" xmlUrl="https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"/>
-
-    <outline text="https://github.com/microsoft/TypeScript-Compiler-Notes" title="https://github.com/microsoft/TypeScript-Compiler-Notes" type="rss" xmlUrl="https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"/>
-
-    <outline text="https://github.com/vinodotdev/node-to-rust" title="https://github.com/vinodotdev/node-to-rust" type="rss" xmlUrl="https://github.com/vinodotdev/node-to-rust/releases.atom"/>
-
-    <outline text="https://github.com/xataio/screenshot" title="https://github.com/xataio/screenshot" type="rss" xmlUrl="https://github.com/xataio/screenshot/releases.atom"/>
-
-    <outline text="https://github.com/leafac/caxa" title="https://github.com/leafac/caxa" type="rss" xmlUrl="https://github.com/leafac/caxa/releases.atom"/>
-
-    <outline text="https://github.com/nodeshift/nodejs-reference-architecture" title="https://github.com/nodeshift/nodejs-reference-architecture" type="rss" xmlUrl="https://github.com/nodeshift/nodejs-reference-architecture/releases.atom"/>
-
-    <outline text="https://daisyui.com" title="https://daisyui.com" type="rss" xmlUrl="https://daisyui.com/blog/rss.xml"/>
-
-    <outline text="https://github.com/breejs/bree" title="https://github.com/breejs/bree" type="rss" xmlUrl="https://github.com/breejs/bree/releases.atom"/>
-
-    <outline text="https://surma.dev" title="https://surma.dev" type="rss" xmlUrl="https://surma.dev/index.xml"/>
-
-    <outline text="https://github.com/wilsonzlin/minify-html" title="https://github.com/wilsonzlin/minify-html" type="rss" xmlUrl="https://github.com/wilsonzlin/minify-html/releases.atom"/>
-
-    <outline text="https://github.com/twitterdev/twitter-api-typescript-sdk" title="https://github.com/twitterdev/twitter-api-typescript-sdk" type="rss" xmlUrl="https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"/>
-
-    <outline text="https://tech.hicustomer.jp" title="https://tech.hicustomer.jp" type="rss" xmlUrl="https://tech.hicustomer.jp/index.xml"/>
-
-    <outline text="https://github.com/tajo/ladle" title="https://github.com/tajo/ladle" type="rss" xmlUrl="https://github.com/tajo/ladle/releases.atom"/>
-
-    <outline text="https://www.ladle.dev" title="https://www.ladle.dev" type="rss" xmlUrl="https://www.ladle.dev/blog/rss.xml"/>
-
-    <outline text="https://github.com/MattiasBuelens/web-streams-polyfill" title="https://github.com/MattiasBuelens/web-streams-polyfill" type="rss" xmlUrl="https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"/>
-
-    <outline text="https://github.com/tc39/ecma402" title="https://github.com/tc39/ecma402" type="rss" xmlUrl="https://github.com/tc39/ecma402/releases.atom"/>
-
-    <outline text="https://github.com/tc39/proposals" title="https://github.com/tc39/proposals" type="rss" xmlUrl="https://github.com/tc39/proposals/releases.atom"/>
-
-    <outline text="https://speakerdeck.com/hgsgtk/" title="https://speakerdeck.com/hgsgtk/" type="rss" xmlUrl="https://speakerdeck.com/hgsgtk.atom"/>
-
-    <outline text="https://github.com/nuxodin/dialog-polyfill" title="https://github.com/nuxodin/dialog-polyfill" type="rss" xmlUrl="https://github.com/nuxodin/dialog-polyfill/releases.atom"/>
-
-    <outline text="https://github.com/facebookexperimental/Recoil" title="https://github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
-
-    <outline text="https://github.com/nicolo-ribaudo/jest-light-runner" title="https://github.com/nicolo-ribaudo/jest-light-runner" type="rss" xmlUrl="https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"/>
-
-    <outline text="https://elijahmanor.com" title="https://elijahmanor.com" type="rss" xmlUrl="https://feeds.feedburner.com/webdevnet"/>
-
-    <outline text="https://github.com/cucumber/cucumber-js" title="https://github.com/cucumber/cucumber-js" type="rss" xmlUrl="https://github.com/cucumber/cucumber-js/releases.atom"/>
-
-    <outline text="https://tom.preston-werner.com" title="https://tom.preston-werner.com" type="rss" xmlUrl="https://feeds.feedburner.com/tom-preston-werner"/>
-
-    <outline text="https://www.huy.rocks" title="https://www.huy.rocks" type="rss" xmlUrl="https://www.huy.rocks/rss.xml"/>
-
-    <outline text="https://github.com/agnosticui/agnosticui" title="https://github.com/agnosticui/agnosticui" type="rss" xmlUrl="https://github.com/agnosticui/agnosticui/releases.atom"/>
-
-    <outline text="https://turborepo.org" title="https://turborepo.org" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
-
-    <outline text="https://github.com/goldbergyoni/javascript-testing-best-practices" title="https://github.com/goldbergyoni/javascript-testing-best-practices" type="rss" xmlUrl="https://github.com/goldbergyoni/javascript-testing-best-practices/releases.atom"/>
-
-    <outline text="https://github.com/antfu/vue-starport" title="https://github.com/antfu/vue-starport" type="rss" xmlUrl="https://github.com/antfu/vue-starport/releases.atom"/>
-
-    <outline text="https://github.com/ThomasAribart/json-schema-to-ts" title="https://github.com/ThomasAribart/json-schema-to-ts" type="rss" xmlUrl="https://github.com/ThomasAribart/json-schema-to-ts/releases.atom"/>
-
-    <outline text="https://devblog.thebase.in" title="https://devblog.thebase.in" type="rss" xmlUrl="https://devblog.thebase.in/feed"/>
-
-    <outline text="https://github.com/Shopify/javy" title="https://github.com/Shopify/javy" type="rss" xmlUrl="https://github.com/Shopify/javy/releases.atom"/>
-
-    <outline text="https://github.com/ehmicky/wild-wild-path" title="https://github.com/ehmicky/wild-wild-path" type="rss" xmlUrl="https://github.com/ehmicky/wild-wild-path/releases.atom"/>
-
-    <outline text="https://github.com/testing-library/react-testing-library" title="https://github.com/testing-library/react-testing-library" type="rss" xmlUrl="https://github.com/testing-library/react-testing-library/releases.atom"/>
-
-    <outline text="https://github.com/worldzhao/blog" title="https://github.com/worldzhao/blog" type="rss" xmlUrl="https://github.com/worldzhao/blog/releases.atom"/>
-
-    <outline text="https://www.w3.org" title="https://www.w3.org" type="rss" xmlUrl="https://www.w3.org/blog/feed/"/>
-
-    <outline text="https://github.com/inikulin/parse5" title="https://github.com/inikulin/parse5" type="rss" xmlUrl="https://github.com/inikulin/parse5/releases.atom"/>
-
-    <outline text="https://github.com/milesj/packemon" title="https://github.com/milesj/packemon" type="rss" xmlUrl="https://github.com/milesj/packemon/releases.atom"/>
-
-    <outline text="https://blog.axlight.com" title="https://blog.axlight.com" type="rss" xmlUrl="https://blog.axlight.com/index.xml"/>
-
-    <outline text="https://github.com/unjs/nitro" title="https://github.com/unjs/nitro" type="rss" xmlUrl="https://github.com/unjs/nitro/releases.atom"/>
-
-    <outline text="https://dev.to/frolovdev/" title="https://dev.to/frolovdev/" type="rss" xmlUrl="https://dev.to/feed/frolovdev"/>
-
-    <outline text="https://github.com/plantain-00/type-coverage" title="https://github.com/plantain-00/type-coverage" type="rss" xmlUrl="https://github.com/plantain-00/type-coverage/releases.atom"/>
-
-    <outline text="https://github.com/eolme/i18nano" title="https://github.com/eolme/i18nano" type="rss" xmlUrl="https://github.com/eolme/i18nano/releases.atom"/>
-
-    <outline text="https://github.com/shuding/tilg" title="https://github.com/shuding/tilg" type="rss" xmlUrl="https://github.com/shuding/tilg/releases.atom"/>
-
-    <outline text="https://github.com/tdewolff/minify" title="https://github.com/tdewolff/minify" type="rss" xmlUrl="https://github.com/tdewolff/minify/releases.atom"/>
-
-    <outline text="https://www.remotion.dev" title="https://www.remotion.dev" type="rss" xmlUrl="https://www.remotion.dev/blog/rss.xml"/>
-
-    <outline text="https://github.com/frouriojs/notios" title="https://github.com/frouriojs/notios" type="rss" xmlUrl="https://github.com/frouriojs/notios/releases.atom"/>
-
-    <outline text="https://jqk.life" title="https://jqk.life" type="rss" xmlUrl="https://jqk.life/rss.xml"/>
-
-    <outline text="https://tsh.io" title="https://tsh.io" type="rss" xmlUrl="https://tsh.io/feed/"/>
-
-    <outline text="https://github.com/httptoolkit/mockrtc" title="https://github.com/httptoolkit/mockrtc" type="rss" xmlUrl="https://github.com/httptoolkit/mockrtc/releases.atom"/>
-
-    <outline text="https://quramy.medium.com" title="https://quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
-
-    <outline text="https://github.com/yisibl/resvg-js" title="https://github.com/yisibl/resvg-js" type="rss" xmlUrl="https://github.com/yisibl/resvg-js/releases.atom"/>
-
-    <outline text="https://github.com/kawamataryo/suppress-ts-errors" title="https://github.com/kawamataryo/suppress-ts-errors" type="rss" xmlUrl="https://github.com/kawamataryo/suppress-ts-errors/releases.atom"/>
-
-    <outline text="https://github.com/yarnpkg/yarn" title="https://github.com/yarnpkg/yarn" type="rss" xmlUrl="https://github.com/yarnpkg/yarn/releases.atom"/>
-
-    <outline text="https://github.com/i-net-software/JWebAssembly" title="https://github.com/i-net-software/JWebAssembly" type="rss" xmlUrl="https://github.com/i-net-software/JWebAssembly/releases.atom"/>
-
-    <outline text="https://github.com/wooorm/starry-night" title="https://github.com/wooorm/starry-night" type="rss" xmlUrl="https://github.com/wooorm/starry-night/releases.atom"/>
-
-    <outline text="https://discuss.httparchive.org" title="https://discuss.httparchive.org" type="rss" xmlUrl="https://discuss.httparchive.org/posts.rss"/>
-
-    <outline text="https://github.com/dflex-js/dflex" title="https://github.com/dflex-js/dflex" type="rss" xmlUrl="https://github.com/dflex-js/dflex/releases.atom"/>
-
-    <outline text="https://engineering.fb.com" title="https://engineering.fb.com" type="rss" xmlUrl="https://engineering.fb.com/feed/"/>
-
-    <outline text="https://github.com/alan2207/bulletproof-react" title="https://github.com/alan2207/bulletproof-react" type="rss" xmlUrl="https://github.com/alan2207/bulletproof-react/releases.atom"/>
-
-    <outline text="https://speakerdeck.com/mizchi/" title="https://speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
-
-    <outline text="https://github.com/esbuild-kit/tsx" title="https://github.com/esbuild-kit/tsx" type="rss" xmlUrl="https://github.com/esbuild-kit/tsx/releases.atom"/>
-
-    <outline text="https://github.com/markdoc/markdoc" title="https://github.com/markdoc/markdoc" type="rss" xmlUrl="https://github.com/markdoc/markdoc/releases.atom"/>
-
-    <outline text="https://github.com/MithrilJS/mithril.js" title="https://github.com/MithrilJS/mithril.js" type="rss" xmlUrl="https://github.com/MithrilJS/mithril.js/releases.atom"/>
-
-    <outline text="https://github.com/nvh95/jest-preview" title="https://github.com/nvh95/jest-preview" type="rss" xmlUrl="https://github.com/nvh95/jest-preview/releases.atom"/>
-
-    <outline text="https://github.com/adriancooney/puppeteer-heap-snapshot" title="https://github.com/adriancooney/puppeteer-heap-snapshot" type="rss" xmlUrl="https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"/>
-
-    <outline text="https://stripe.com" title="https://stripe.com" type="rss" xmlUrl="https://stripe.com/blog/feed.rss"/>
-
-    <outline text="https://github.com/Shopify/remote-ui" title="https://github.com/Shopify/remote-ui" type="rss" xmlUrl="https://github.com/Shopify/remote-ui/releases.atom"/>
-
-    <outline text="https://serpapi.com" title="https://serpapi.com" type="rss" xmlUrl="https://serpapi.com/blog/rss/"/>
-
-    <outline text="https://github.com/google/wireit" title="https://github.com/google/wireit" type="rss" xmlUrl="https://github.com/google/wireit/releases.atom"/>
-
-    <outline text="https://github.com/mdn/browser-compat-data" title="https://github.com/mdn/browser-compat-data" type="rss" xmlUrl="https://github.com/mdn/browser-compat-data/releases.atom"/>
-
-    <outline text="https://github.com/jridgewell/trace-mapping" title="https://github.com/jridgewell/trace-mapping" type="rss" xmlUrl="https://github.com/jridgewell/trace-mapping/releases.atom"/>
-
-    <outline text="https://browser.engineering" title="https://browser.engineering" type="rss" xmlUrl="https://browser.engineering/rss.xml"/>
-
-    <outline text="https://github.com/histoire-dev/histoire" title="https://github.com/histoire-dev/histoire" type="rss" xmlUrl="https://github.com/histoire-dev/histoire/releases.atom"/>
-
-    <outline text="https://github.com/mishoo/UglifyJS" title="https://github.com/mishoo/UglifyJS" type="rss" xmlUrl="https://github.com/mishoo/UglifyJS/releases.atom"/>
-
-    <outline text="https://github.com/vuejs/vue" title="https://github.com/vuejs/vue" type="rss" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
-
-    <outline text="https://blog.webpagetest.org" title="https://blog.webpagetest.org" type="rss" xmlUrl="https://blog.webpagetest.org/feed.xml"/>
-
-    <outline text="https://github.com/WebReflection/highlighted-code" title="https://github.com/WebReflection/highlighted-code" type="rss" xmlUrl="https://github.com/WebReflection/highlighted-code/releases.atom"/>
-
-    <outline text="https://github.com/cyco130/vavite" title="https://github.com/cyco130/vavite" type="rss" xmlUrl="https://github.com/cyco130/vavite/releases.atom"/>
-
-    <outline text="https://medium.com/@fastifyjs/" title="https://medium.com/@fastifyjs/" type="rss" xmlUrl="https://medium.com/feed/@fastifyjs"/>
-
-    <outline text="https://github.com/ranyitz/qnm" title="https://github.com/ranyitz/qnm" type="rss" xmlUrl="https://github.com/ranyitz/qnm/releases.atom"/>
-
-    <outline text="https://github.com/fastify/fastify-dx" title="https://github.com/fastify/fastify-dx" type="rss" xmlUrl="https://github.com/fastify/fastify-dx/releases.atom"/>
-
-    <outline text="https://github.com/PlasmoHQ/plasmo" title="https://github.com/PlasmoHQ/plasmo" type="rss" xmlUrl="https://github.com/PlasmoHQ/plasmo/releases.atom"/>
-
-    <outline text="https://github.com/preactjs/preact" title="https://github.com/preactjs/preact" type="rss" xmlUrl="https://github.com/preactjs/preact/releases.atom"/>
-
-    <outline text="https://github.com/taozhi8833998/node-sql-parser" title="https://github.com/taozhi8833998/node-sql-parser" type="rss" xmlUrl="https://github.com/taozhi8833998/node-sql-parser/releases.atom"/>
-
-    <outline text="https://www.gabe.pizza" title="https://www.gabe.pizza" type="rss" xmlUrl="https://www.gabe.pizza/rss.xml"/>
-
-    <outline text="https://github.com/sindresorhus/ow" title="https://github.com/sindresorhus/ow" type="rss" xmlUrl="https://github.com/sindresorhus/ow/releases.atom"/>
-
-    <outline text="https://whistlr.info" title="https://whistlr.info" type="rss" xmlUrl="https://samthor.au/rss.xml"/>
-
-    <outline text="https://github.com/coder-mike/microvium" title="https://github.com/coder-mike/microvium" type="rss" xmlUrl="https://github.com/coder-mike/microvium/releases.atom"/>
-
-    <outline text="https://marijnhaverbeke.nl" title="https://marijnhaverbeke.nl" type="rss" xmlUrl="https://marijnhaverbeke.nl/blog/feed.atom"/>
-
-    <outline text="https://github.com/socketio/socket.io" title="https://github.com/socketio/socket.io" type="rss" xmlUrl="https://github.com/socketio/socket.io/releases.atom"/>
-
-    <outline text="https://github.com/astoilkov/main-thread-scheduling" title="https://github.com/astoilkov/main-thread-scheduling" type="rss" xmlUrl="https://github.com/astoilkov/main-thread-scheduling/releases.atom"/>
-
-    <outline text="https://github.com/open-source-labs/reactime" title="https://github.com/open-source-labs/reactime" type="rss" xmlUrl="https://github.com/open-source-labs/reactime/releases.atom"/>
-
-    <outline text="https://github.com/foliojs/fontkit" title="https://github.com/foliojs/fontkit" type="rss" xmlUrl="https://github.com/foliojs/fontkit/releases.atom"/>
-
-    <outline text="https://github.com/angular-eslint/angular-eslint" title="https://github.com/angular-eslint/angular-eslint" type="rss" xmlUrl="https://github.com/angular-eslint/angular-eslint/releases.atom"/>
-
-    <outline text="https://github.com/timocov/dts-bundle-generator" title="https://github.com/timocov/dts-bundle-generator" type="rss" xmlUrl="https://github.com/timocov/dts-bundle-generator/releases.atom"/>
-
-    <outline text="https://github.com/WebKit/standards-positions" title="https://github.com/WebKit/standards-positions" type="rss" xmlUrl="https://github.com/WebKit/standards-positions/releases.atom"/>
-
-    <outline text="https://github.com/codemix/deprank" title="https://github.com/codemix/deprank" type="rss" xmlUrl="https://github.com/codemix/deprank/releases.atom"/>
-
-    <outline text="https://zenn.dev/dajiaji/" title="https://zenn.dev/dajiaji/" type="rss" xmlUrl="https://zenn.dev/dajiaji/feed"/>
-
-    <outline text="https://blog.nnn.dev" title="https://blog.nnn.dev" type="rss" xmlUrl="https://blog.nnn.dev/feed"/>
-
-    <outline text="https://github.com/samchon/typescript-json" title="https://github.com/samchon/typescript-json" type="rss" xmlUrl="https://github.com/samchon/typescript-json/releases.atom"/>
-
-    <outline text="https://github.com/jcubic/wayne" title="https://github.com/jcubic/wayne" type="rss" xmlUrl="https://github.com/jcubic/wayne/releases.atom"/>
-
-    <outline text="https://github.com/oguimbal/pg-mem" title="https://github.com/oguimbal/pg-mem" type="rss" xmlUrl="https://github.com/oguimbal/pg-mem/releases.atom"/>
-
-    <outline text="https://zenn.dev/mjhd/" title="https://zenn.dev/mjhd/" type="rss" xmlUrl="https://zenn.dev/mjhd/feed"/>
-
-    <outline text="https://katainaka0503.hatenablog.com" title="https://katainaka0503.hatenablog.com" type="rss" xmlUrl="https://katainaka0503.hatenablog.com/feed"/>
-
-    <outline text="https://github.com/moment/luxon" title="https://github.com/moment/luxon" type="rss" xmlUrl="https://github.com/moment/luxon/releases.atom"/>
-
-    <outline text="https://github.com/tuplo/numberfmt" title="https://github.com/tuplo/numberfmt" type="rss" xmlUrl="https://github.com/tuplo/numberfmt/releases.atom"/>
-
-    <outline text="https://github.com/nodejs/undici" title="https://github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-
-    <outline text="https://nodered.org" title="https://nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
-
-    <outline text="https://github.com/danielroe/magic-regexp" title="https://github.com/danielroe/magic-regexp" type="rss" xmlUrl="https://github.com/danielroe/magic-regexp/releases.atom"/>
-
-    <outline text="https://defensivecss.dev" title="https://defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
-
-    <outline text="https://github.com/yaakov123/hagana" title="https://github.com/yaakov123/hagana" type="rss" xmlUrl="https://github.com/yaakov123/hagana/releases.atom"/>
-
-    <outline text="https://github.com/modfy/nominal" title="https://github.com/modfy/nominal" type="rss" xmlUrl="https://github.com/modfy/nominal/releases.atom"/>
-
-    <outline text="https://dev.to/hemanth/" title="https://dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
-
-    <outline text="https://github.com/5t3ph/css-browser-support" title="https://github.com/5t3ph/css-browser-support" type="rss" xmlUrl="https://github.com/5t3ph/css-browser-support/releases.atom"/>
-
-    <outline text="https://ishadeed.com" title="https://ishadeed.com" type="rss" xmlUrl="http://ishadeed.com/feed.xml"/>
-
-    <outline text="https://jakearchibald.com" title="https://jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
-
-    <outline text="https://github.com/video-dev/hls.js" title="https://github.com/video-dev/hls.js" type="rss" xmlUrl="https://github.com/video-dev/hls.js/releases.atom"/>
-
-    <outline text="https://github.com/ronami/HypeScript" title="https://github.com/ronami/HypeScript" type="rss" xmlUrl="https://github.com/ronami/HypeScript/releases.atom"/>
-
-    <outline text="https://github.com/losfair/blueboat" title="https://github.com/losfair/blueboat" type="rss" xmlUrl="https://github.com/losfair/blueboat/releases.atom"/>
-
-    <outline text="https://github.com/ehmicky/safe-json-value" title="https://github.com/ehmicky/safe-json-value" type="rss" xmlUrl="https://github.com/ehmicky/safe-json-value/releases.atom"/>
-
-    <outline text="https://docusaurus.io" title="https://docusaurus.io" type="rss" xmlUrl="https://docusaurus.io/blog/rss.xml"/>
-
-    <outline text="https://github.com/sofn-xyz/mailing" title="https://github.com/sofn-xyz/mailing" type="rss" xmlUrl="https://github.com/sofn-xyz/mailing/releases.atom"/>
-
-    <outline text="https://github.com/mjmlio/mjml" title="https://github.com/mjmlio/mjml" type="rss" xmlUrl="https://github.com/mjmlio/mjml/releases.atom"/>
-
-    <outline text="https://orizens.com" title="https://orizens.com" type="rss" xmlUrl="https://orizens.com/rss.xml"/>
-
-    <outline text="https://mmazzarolo.com" title="https://mmazzarolo.com" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml"/>
-
-    <outline text="https://engineering.linecorp.com" title="https://engineering.linecorp.com" type="rss" xmlUrl="https://engineering.linecorp.com/en"/>
-
-    <outline text="https://www.learningtypescript.com" title="https://www.learningtypescript.com" type="rss" xmlUrl="https://www.learningtypescript.com/articles/rss.xml"/>
-
-    <outline text="https://github.com/pemistahl/grex-js" title="https://github.com/pemistahl/grex-js" type="rss" xmlUrl="https://github.com/pemistahl/grex-js/releases.atom"/>
-
-    <outline text="https://semaphoreci.com" title="https://semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
-
-    <outline text="https://github.com/prettier/prettier" title="https://github.com/prettier/prettier" type="rss" xmlUrl="https://github.com/prettier/prettier/releases.atom"/>
-
-    <outline text="https://www.matuzo.at" title="https://www.matuzo.at" type="rss" xmlUrl="https://www.matuzo.at/feed.xml"/>
-
-    <outline text="https://www.theverge.com" title="https://www.theverge.com" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
-
-    <outline text="https://github.com/react-pdf-viewer/react-pdf-viewer" title="https://github.com/react-pdf-viewer/react-pdf-viewer" type="rss" xmlUrl="https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"/>
-
-    <outline text="https://github.com/rayepps/radash" title="https://github.com/rayepps/radash" type="rss" xmlUrl="https://github.com/rayepps/radash/releases.atom"/>
-
-    <outline text="https://erock.prose.sh" title="https://erock.prose.sh" type="rss" xmlUrl="https://erock.prose.sh/rss"/>
-
-    <outline text="https://endtimes.dev" title="https://endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed/"/>
-
-    <outline text="https://github.com/apify/crawlee" title="https://github.com/apify/crawlee" type="rss" xmlUrl="https://github.com/apify/crawlee/releases.atom"/>
-
-    <outline text="https://github.com/nadeesha/ts-prune" title="https://github.com/nadeesha/ts-prune" type="rss" xmlUrl="https://github.com/nadeesha/ts-prune/releases.atom"/>
-
-    <outline text="https://textslashplain.com" title="https://textslashplain.com" type="rss" xmlUrl="https://textslashplain.com/feed/"/>
-
-    <outline text="https://tech.basicinc.jp" title="https://tech.basicinc.jp" type="rss" xmlUrl="https://tech.basicinc.jp/feed"/>
-
-    <outline text="https://github.com/frehner/modern-guide-to-packaging-js-library" title="https://github.com/frehner/modern-guide-to-packaging-js-library" type="rss" xmlUrl="https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"/>
-
-    <outline text="https://github.com/bluwy/whyframe" title="https://github.com/bluwy/whyframe" type="rss" xmlUrl="https://github.com/bluwy/whyframe/releases.atom"/>
-
-    <outline text="https://daverupert.com" title="https://daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml"/>
-
-    <outline text="https://github.com/layerhub-io/react-design-editor" title="https://github.com/layerhub-io/react-design-editor" type="rss" xmlUrl="https://github.com/layerhub-io/react-design-editor/releases.atom"/>
-
-    <outline text="https://github.com/ossf/package-manager-best-practices" title="https://github.com/ossf/package-manager-best-practices" type="rss" xmlUrl="https://github.com/ossf/package-manager-best-practices/releases.atom"/>
-
-    <outline text="https://github.com/tinylibs/tinyspy" title="https://github.com/tinylibs/tinyspy" type="rss" xmlUrl="https://github.com/tinylibs/tinyspy/releases.atom"/>
-
-    <outline text="https://github.com/flomesh-io/pipy" title="https://github.com/flomesh-io/pipy" type="rss" xmlUrl="https://github.com/flomesh-io/pipy/releases.atom"/>
-
-    <outline text="https://github.com/BetterTyped/hyper-fetch" title="https://github.com/BetterTyped/hyper-fetch" type="rss" xmlUrl="https://github.com/BetterTyped/hyper-fetch/releases.atom"/>
-
-    <outline text="https://yieldcode.blog" title="https://yieldcode.blog" type="rss" xmlUrl="https://yieldcode.blog/rss/feed.xml"/>
-
-    <outline text="https://www.wantedly.com" title="https://www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/projects.xml"/>
-
-    <outline text="https://github.com/preactjs/signals" title="https://github.com/preactjs/signals" type="rss" xmlUrl="https://github.com/preactjs/signals/releases.atom"/>
-
-    <outline text="https://github.com/nuxt/content" title="https://github.com/nuxt/content" type="rss" xmlUrl="https://github.com/nuxt/content/releases.atom"/>
-
-    <outline text="https://github.com/hand-dot/react-inspector" title="https://github.com/hand-dot/react-inspector" type="rss" xmlUrl="https://github.com/hand-dot/react-inspector/releases.atom"/>
-
-    <outline text="https://github.com/frameable/el" title="https://github.com/frameable/el" type="rss" xmlUrl="https://github.com/frameable/el/releases.atom"/>
-
-    <outline text="https://github.com/AlexeyBoiko/DgrmJS" title="https://github.com/AlexeyBoiko/DgrmJS" type="rss" xmlUrl="https://github.com/AlexeyBoiko/DgrmJS/releases.atom"/>
-
-    <outline text="https://github.com/facebookincubator/memlab" title="https://github.com/facebookincubator/memlab" type="rss" xmlUrl="https://github.com/facebookincubator/memlab/releases.atom"/>
-
-    <outline text="https://community.redwoodjs.com" title="https://community.redwoodjs.com" type="rss" xmlUrl="https://community.redwoodjs.com/posts.rss"/>
-
-    <outline text="https://github.com/skovhus/jest-codemods" title="https://github.com/skovhus/jest-codemods" type="rss" xmlUrl="https://github.com/skovhus/jest-codemods/releases.atom"/>
-
-    <outline text="https://github.com/TypeStrong/ts-loader" title="https://github.com/TypeStrong/ts-loader" type="rss" xmlUrl="https://github.com/TypeStrong/ts-loader/releases.atom"/>
-
-    <outline text="https://github.com/lost-pixel/lost-pixel" title="https://github.com/lost-pixel/lost-pixel" type="rss" xmlUrl="https://github.com/lost-pixel/lost-pixel/releases.atom"/>
-
-    <outline text="https://github.com/ts-safeql/safeql" title="https://github.com/ts-safeql/safeql" type="rss" xmlUrl="https://github.com/ts-safeql/safeql/releases.atom"/>
-
-    <outline text="https://github.com/tinylibs/tinybench" title="https://github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
-
-    <outline text="https://github.com/anonrig/fast-querystring" title="https://github.com/anonrig/fast-querystring" type="rss" xmlUrl="https://github.com/anonrig/fast-querystring/releases.atom"/>
-
-    <outline text="https://github.com/tokencss/tokencss" title="https://github.com/tokencss/tokencss" type="rss" xmlUrl="https://github.com/tokencss/tokencss/releases.atom"/>
-
-    <outline text="https://github.com/parcel-bundler/lightningcss" title="https://github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>
-
-    <outline text="https://github.com/gioboa/vite-module-federation" title="https://github.com/gioboa/vite-module-federation" type="rss" xmlUrl="https://github.com/gioboa/vite-module-federation/releases.atom"/>
-
-    <outline text="https://almanac.httparchive.org" title="https://almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
-
-    <outline text="https://www.docswell.com" title="https://www.docswell.com" type="rss" xmlUrl="https://www.docswell.com/feed/latest"/>
-
-    <outline text="https://github.com/mozilla/pdf.js" title="https://github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>
-
-    <outline text="https://sqlite.org" title="https://sqlite.org" type="rss" xmlUrl="https://sqlite.org/wasm/timeline.rss"/>
-
-    <outline text="https://github.com/dudykr/stc" title="https://github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
-
-    <outline text="https://dev.to/srmagura/" title="https://dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
-
-    <outline text="https://medium.com/airbnb-engineering/" title="https://medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
-
-    <outline text="https://zenn.dev/yukiyada/" title="https://zenn.dev/yukiyada/" type="rss" xmlUrl="https://zenn.dev/yukiyada/feed"/>
-
-    <outline text="https://github.com/vuetifyjs/vuetify" title="https://github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
-
-    <outline text="https://zenn.dev/panda_program/" title="https://zenn.dev/panda_program/" type="rss" xmlUrl="https://zenn.dev/panda_program/feed"/>
-
-    <outline text="https://github.com/hapijs/hapi" title="https://github.com/hapijs/hapi" type="rss" xmlUrl="https://github.com/hapijs/hapi/releases.atom"/>
-
-    <outline text="https://github.com/cypress-io/cypress" title="https://github.com/cypress-io/cypress" type="rss" xmlUrl="https://github.com/cypress-io/cypress/releases.atom"/>
-
-    <outline text="https://link-and-motivation.hatenablog.com" title="https://link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
-
-    <outline text="https://blog.maximeheckel.com" title="https://blog.maximeheckel.com" type="rss" xmlUrl="https://blog.maximeheckel.com/rss.xml"/>
-
-    <outline text="https://blog.mozilla.org" title="https://blog.mozilla.org" type="rss" xmlUrl="https://blog.mozilla.org/en/feed/"/>
-
-    <outline text="https://github.com/hadmean/hadmean" title="https://github.com/hadmean/hadmean" type="rss" xmlUrl="https://github.com/hadmean/hadmean/releases.atom"/>
-
-    <outline text="https://www.simoahava.com" title="https://www.simoahava.com" type="rss" xmlUrl="https://www.simoahava.com/index.xml"/>
-
-    <outline text="https://github.com/1Password/typeshare" title="https://github.com/1Password/typeshare" type="rss" xmlUrl="https://github.com/1Password/typeshare/releases.atom"/>
-
-    <outline text="https://github.com/es-meta/esmeta" title="https://github.com/es-meta/esmeta" type="rss" xmlUrl="https://github.com/es-meta/esmeta/releases.atom"/>
-
-    <outline text="https://zenn.dev/0kate/" title="https://zenn.dev/0kate/" type="rss" xmlUrl="https://zenn.dev/0kate/feed"/>
-
-    <outline text="https://trpc.io" title="https://trpc.io" type="rss" xmlUrl="https://trpc.io/blog/rss.xml"/>
-
-    <outline text="https://jrsinclair.com" title="https://jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
-
-    <outline text="https://github.com/shuding/nextra" title="https://github.com/shuding/nextra" type="rss" xmlUrl="https://github.com/shuding/nextra/releases.atom"/>
-
-    <outline text="https://github.com/primus/eventemitter3" title="https://github.com/primus/eventemitter3" type="rss" xmlUrl="https://github.com/primus/eventemitter3/releases.atom"/>
-
-    <outline text="https://www.debugbear.com" title="https://www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
-
-    <outline text="https://escape.tech" title="https://escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
-
-    <outline text="https://tkdodo.eu" title="https://tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
-
-    <outline text="https://marvinh.dev" title="https://marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
-
-    <outline text="https://github.com/elysiajs/elysia" title="https://github.com/elysiajs/elysia" type="rss" xmlUrl="https://github.com/elysiajs/elysia/releases.atom"/>
-
-    <outline text="https://github.com/socketsupply/socket" title="https://github.com/socketsupply/socket" type="rss" xmlUrl="https://github.com/socketsupply/socket/releases.atom"/>
-
-    <outline text="https://github.com/DanielXMoore/Civet" title="https://github.com/DanielXMoore/Civet" type="rss" xmlUrl="https://github.com/DanielXMoore/Civet/releases.atom"/>
-
-    <outline text="https://github.com/zenorocha/react-email" title="https://github.com/zenorocha/react-email" type="rss" xmlUrl="https://github.com/zenorocha/react-email/releases.atom"/>
-
-    <outline text="https://github.com/rafasofizada/pechkin" title="https://github.com/rafasofizada/pechkin" type="rss" xmlUrl="https://github.com/rafasofizada/pechkin/releases.atom"/>
-
-    <outline text="https://devtoolstips.org" title="https://devtoolstips.org" type="rss" xmlUrl="https://devtoolstips.org/feed.xml"/>
-
-    <outline text="https://github.com/bluwy/publint" title="https://github.com/bluwy/publint" type="rss" xmlUrl="https://github.com/bluwy/publint/releases.atom"/>
-
-    <outline text="https://github.com/ericclemmons/click-to-component" title="https://github.com/ericclemmons/click-to-component" type="rss" xmlUrl="https://github.com/ericclemmons/click-to-component/releases.atom"/>
-
-    <outline text="https://github.com/PuruVJ/neodrag" title="https://github.com/PuruVJ/neodrag" type="rss" xmlUrl="https://github.com/PuruVJ/neodrag/releases.atom"/>
-
-    <outline text="https://zenn.dev/yhatt/" title="https://zenn.dev/yhatt/" type="rss" xmlUrl="https://zenn.dev/yhatt/feed"/>
-
-    <outline text="https://zenn.dev/yend724/" title="https://zenn.dev/yend724/" type="rss" xmlUrl="https://zenn.dev/yend724/feed"/>
-
-    <outline text="https://github.com/advisories/GHSA-9c47-m6qq-7p4h" title="https://github.com/advisories/GHSA-9c47-m6qq-7p4h" type="rss" xmlUrl="https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"/>
-
-    <outline text="https://obyford.com" title="https://obyford.com" type="rss" xmlUrl="https://obyford.com/feed/feed.xml"/>
-
-    <outline text="https://accessibility.blog.gov.uk" title="https://accessibility.blog.gov.uk" type="rss" xmlUrl="https://accessibility.blog.gov.uk/feed/"/>
-
-    <outline text="https://github.com/Dunks1980/bay.js" title="https://github.com/Dunks1980/bay.js" type="rss" xmlUrl="https://github.com/Dunks1980/bay.js/releases.atom"/>
-
-    <outline text="https://yosuke-furukawa.hatenablog.com" title="https://yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
-
-    <outline text="https://github.com/isaacs/rimraf" title="https://github.com/isaacs/rimraf" type="rss" xmlUrl="https://github.com/isaacs/rimraf/releases.atom"/>
-
-    <outline text="https://github.com/tsmodule/tsmodule" title="https://github.com/tsmodule/tsmodule" type="rss" xmlUrl="https://github.com/tsmodule/tsmodule/releases.atom"/>
-
-    <outline text="https://github.com/GiuseppeRaso/structura.js" title="https://github.com/GiuseppeRaso/structura.js" type="rss" xmlUrl="https://github.com/GiuseppeRaso/structura.js/releases.atom"/>
-
-    <outline text="https://github.com/LyraSearch/lyra" title="https://github.com/LyraSearch/lyra" type="rss" xmlUrl="https://github.com/LyraSearch/lyra/releases.atom"/>
-
-    <outline text="https://github.com/azu/eslint-cjs-to-esm" title="https://github.com/azu/eslint-cjs-to-esm" type="rss" xmlUrl="https://github.com/azu/eslint-cjs-to-esm/releases.atom"/>
-
-    <outline text="https://github.com/shuding/react-wrap-balancer" title="https://github.com/shuding/react-wrap-balancer" type="rss" xmlUrl="https://github.com/shuding/react-wrap-balancer/releases.atom"/>
-
-    <outline text="https://github.com/azu/tsconfig-to-dual-package" title="https://github.com/azu/tsconfig-to-dual-package" type="rss" xmlUrl="https://github.com/azu/tsconfig-to-dual-package/releases.atom"/>
-
-    <outline text="https://zenn.dev/mkt/" title="https://zenn.dev/mkt/" type="rss" xmlUrl="https://zenn.dev/mkt/feed"/>
-
-    <outline text="https://csswizardry.com" title="https://csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
-
-    <outline text="https://blog.bitsrc.io" title="https://blog.bitsrc.io" type="rss" xmlUrl="https://blog.bitsrc.io/feed"/>
-
-    <outline text="https://kentcdodds.com" title="https://kentcdodds.com" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>
-
-    <outline text="https://github.com/Brooooooklyn/canvas" title="https://github.com/Brooooooklyn/canvas" type="rss" xmlUrl="https://github.com/Brooooooklyn/canvas/releases.atom"/>
-
-    <outline text="https://github.com/amandaghassaei/gpu-io" title="https://github.com/amandaghassaei/gpu-io" type="rss" xmlUrl="https://github.com/amandaghassaei/gpu-io/releases.atom"/>
-
-    <outline text="https://github.com/deca-org/deca-ui" title="https://github.com/deca-org/deca-ui" type="rss" xmlUrl="https://github.com/deca-org/deca-ui/releases.atom"/>
-
-    <outline text="https://www.11ty.dev" title="https://www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/blog/feed.xml"/>
-
-    <outline text="https://github.com/cyclic-software/s3fs" title="https://github.com/cyclic-software/s3fs" type="rss" xmlUrl="https://github.com/cyclic-software/s3fs/releases.atom"/>
-
-    <outline text="https://github.com/mswjs/msw" title="https://github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
-
-    <outline text="https://00f.net" title="https://00f.net" type="rss" xmlUrl="https://00f.net/rss.xml"/>
-
-    <outline text="https://github.com/jakebailey/hereby" title="https://github.com/jakebailey/hereby" type="rss" xmlUrl="https://github.com/jakebailey/hereby/releases.atom"/>
-
-    <outline text="https://github.com/reactjs/reactjs.org" title="https://github.com/reactjs/reactjs.org" type="rss" xmlUrl="https://github.com/reactjs/reactjs.org/releases.atom"/>
-
-    <outline text="https://zenn.dev/terrierscript/" title="https://zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
-
-    <outline text="https://github.com/pmndrs/jotai" title="https://github.com/pmndrs/jotai" type="rss" xmlUrl="https://github.com/pmndrs/jotai/releases.atom"/>
-
-    <outline text="https://github.com/CodeIntelligenceTesting/jazzer.js" title="https://github.com/CodeIntelligenceTesting/jazzer.js" type="rss" xmlUrl="https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"/>
-
-    <outline text="https://github.com/tanekloc/tmsg" title="https://github.com/tanekloc/tmsg" type="rss" xmlUrl="https://github.com/tanekloc/tmsg/releases.atom"/>
-
-    <outline text="https://www.codeflashbacks.com" title="https://www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
-
-    <outline text="https://github.com/upgradejs/depngn" title="https://github.com/upgradejs/depngn" type="rss" xmlUrl="https://github.com/upgradejs/depngn/releases.atom"/>
-
-    <outline text="https://github.com/jquense/yup" title="https://github.com/jquense/yup" type="rss" xmlUrl="https://github.com/jquense/yup/releases.atom"/>
-
-    <outline text="https://github.com/cure53/DOMPurify" title="https://github.com/cure53/DOMPurify" type="rss" xmlUrl="https://github.com/cure53/DOMPurify/releases.atom"/>
-
-    <outline text="https://the-guild.dev" title="https://the-guild.dev" type="rss" xmlUrl="https://the-guild.dev/feed.xml"/>
-
-    <outline text="https://www.zachleat.com" title="https://www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
-
-    <outline text="https://github.com/slashd-analytics/run" title="https://github.com/slashd-analytics/run" type="rss" xmlUrl="https://github.com/slashd-analytics/run/releases.atom"/>
-
-    <outline text="https://github.com/codesandbox/nodebox-runtime" title="https://github.com/codesandbox/nodebox-runtime" type="rss" xmlUrl="https://github.com/codesandbox/nodebox-runtime/releases.atom"/>
-
-    <outline text="https://github.com/chaijs/chai" title="https://github.com/chaijs/chai" type="rss" xmlUrl="https://github.com/chaijs/chai/releases.atom"/>
-
-    <outline text="https://zenn.dev/yusukehirao/" title="https://zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>
-
-    <outline text="https://github.com/natemoo-re/clack" title="https://github.com/natemoo-re/clack" type="rss" xmlUrl="https://github.com/natemoo-re/clack/releases.atom"/>
-
-    <outline text="https://dev.to/nicklucas/" title="https://dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
-
-    <outline text="https://www.akshaykhot.com" title="https://www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
-
-    <outline text="https://blog.sentry.io" title="https://blog.sentry.io" type="rss" xmlUrl="https://blog.sentry.io/feed.xml"/>
-
-    <outline text="https://dev.to/codux/" title="https://dev.to/codux/" type="rss" xmlUrl="https://dev.to/feed/codux"/>
-
-    <outline text="https://zenn.dev/tnyo43/" title="https://zenn.dev/tnyo43/" type="rss" xmlUrl="https://zenn.dev/tnyo43/feed"/>
-
-    <outline text="https://github.com/open-draft/event-contract" title="https://github.com/open-draft/event-contract" type="rss" xmlUrl="https://github.com/open-draft/event-contract/releases.atom"/>
-
-    <outline text="https://github.com/antonmedv/finder" title="https://github.com/antonmedv/finder" type="rss" xmlUrl="https://github.com/antonmedv/finder/releases.atom"/>
-
-    <outline text="https://github.com/total-typescript/ts-reset" title="https://github.com/total-typescript/ts-reset" type="rss" xmlUrl="https://github.com/total-typescript/ts-reset/releases.atom"/>
-
-    <outline text="https://github.com/lagonapp/lagon" title="https://github.com/lagonapp/lagon" type="rss" xmlUrl="https://github.com/lagonapp/lagon/releases.atom"/>
-
-    <outline text="https://socket.dev" title="https://socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
-
-    <outline text="https://github.com/gajus/turbowatch" title="https://github.com/gajus/turbowatch" type="rss" xmlUrl="https://github.com/gajus/turbowatch/releases.atom"/>
-
-    <outline text="https://bufferings.hatenablog.com" title="https://bufferings.hatenablog.com" type="rss" xmlUrl="https://bufferings.hatenablog.com/feed"/>
-
-    <outline text="https://github.com/styled-components/xstyled" title="https://github.com/styled-components/xstyled" type="rss" xmlUrl="https://github.com/styled-components/xstyled/releases.atom"/>
-
-    <outline text="https://github.com/anymaniax/orval" title="https://github.com/anymaniax/orval" type="rss" xmlUrl="https://github.com/anymaniax/orval/releases.atom"/>
-
-    <outline text="https://github.com/gvergnaud/hotscript" title="https://github.com/gvergnaud/hotscript" type="rss" xmlUrl="https://github.com/gvergnaud/hotscript/releases.atom"/>
-
-    <outline text="https://github.com/mamiksik/parrot-intellij" title="https://github.com/mamiksik/parrot-intellij" type="rss" xmlUrl="https://github.com/mamiksik/parrot-intellij/releases.atom"/>
-
-    <outline text="https://github.com/sinclairnick/brail" title="https://github.com/sinclairnick/brail" type="rss" xmlUrl="https://github.com/sinclairnick/brail/releases.atom"/>
-
-    <outline text="https://github.com/mayank99/ecsstatic" title="https://github.com/mayank99/ecsstatic" type="rss" xmlUrl="https://github.com/mayank99/ecsstatic/releases.atom"/>
-
-    <outline text="https://github.com/lxsmnsyc/seroval" title="https://github.com/lxsmnsyc/seroval" type="rss" xmlUrl="https://github.com/lxsmnsyc/seroval/releases.atom"/>
-
-    <outline text="https://tech.high-link.co.jp" title="https://tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
-
-    <outline text="https://github.com/wantedly/react-declassify" title="https://github.com/wantedly/react-declassify" type="rss" xmlUrl="https://github.com/wantedly/react-declassify/releases.atom"/>
-
-    <outline text="https://github.com/unjs/magicast" title="https://github.com/unjs/magicast" type="rss" xmlUrl="https://github.com/unjs/magicast/releases.atom"/>
-
-    <outline text="https://blog.s2n.tech" title="https://blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
-
-    <outline text="https://github.com/sveltejs/kit" title="https://github.com/sveltejs/kit" type="rss" xmlUrl="https://github.com/sveltejs/kit/releases.atom"/>
-
-    <outline text="https://www.nodejs-security.com" title="https://www.nodejs-security.com" type="rss" xmlUrl="https://www.nodejs-security.com/rss.xml"/>
-
-    <outline text="https://github.com/hexagon/croner" title="https://github.com/hexagon/croner" type="rss" xmlUrl="https://github.com/hexagon/croner/releases.atom"/>
-
-    <outline text="https://github.com/uhyo/nitrogql" title="https://github.com/uhyo/nitrogql" type="rss" xmlUrl="https://github.com/uhyo/nitrogql/releases.atom"/>
-
-    <outline text="https://github.com/liriliri/eruda" title="https://github.com/liriliri/eruda" type="rss" xmlUrl="https://github.com/liriliri/eruda/releases.atom"/>
-
-    <outline text="https://github.com/divriots/jampack" title="https://github.com/divriots/jampack" type="rss" xmlUrl="https://github.com/divriots/jampack/releases.atom"/>
-
-    <outline text="https://github.com/open-draft/logger" title="https://github.com/open-draft/logger" type="rss" xmlUrl="https://github.com/open-draft/logger/releases.atom"/>
-
-    <outline text="https://www.netlify.com" title="https://www.netlify.com" type="rss" xmlUrl="https://www.netlify.com/community-feed.xml/"/>
-
-    <outline text="https://htmx.org" title="https://htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
-
-    <outline text="https://github.com/immerjs/immer" title="https://github.com/immerjs/immer" type="rss" xmlUrl="https://github.com/immerjs/immer/releases.atom"/>
-
-    <outline text="https://github.com/yoavbls/pretty-ts-errors" title="https://github.com/yoavbls/pretty-ts-errors" type="rss" xmlUrl="https://github.com/yoavbls/pretty-ts-errors/releases.atom"/>
-
-    <outline text="https://timkadlec.com" title="https://timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/atom.xml"/>
-
-    <outline text="https://glebbahmutov.com" title="https://glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
-
-    <outline text="https://github.com/HeyPuter/kv.js" title="https://github.com/HeyPuter/kv.js" type="rss" xmlUrl="https://github.com/HeyPuter/kv.js/releases.atom"/>
-
-    <outline text="https://pawelgrzybek.com" title="https://pawelgrzybek.com" type="rss" xmlUrl="https://pawelgrzybek.com/feed.xml"/>
-
-    <outline text="https://bhch.github.io" title="https://bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
-
-    <outline text="https://speakerdeck.com/nichimu/" title="https://speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
-
-    <outline text="https://speakerdeck.com/sadnessojisan/" title="https://speakerdeck.com/sadnessojisan/" type="rss" xmlUrl="https://speakerdeck.com/sadnessojisan.atom"/>
-
-    <outline text="https://github.com/karma-runner/karma" title="https://github.com/karma-runner/karma" type="rss" xmlUrl="https://github.com/karma-runner/karma/releases.atom"/>
-
-    <outline text="https://github.com/SBoudrias/Inquirer.js" title="https://github.com/SBoudrias/Inquirer.js" type="rss" xmlUrl="https://github.com/SBoudrias/Inquirer.js/releases.atom"/>
-
-    <outline text="https://github.com/natemoo-re/ultramatter" title="https://github.com/natemoo-re/ultramatter" type="rss" xmlUrl="https://github.com/natemoo-re/ultramatter/releases.atom"/>
-
-    <outline text="https://github.com/vadimdemedes/ink-ui" title="https://github.com/vadimdemedes/ink-ui" type="rss" xmlUrl="https://github.com/vadimdemedes/ink-ui/releases.atom"/>
-
-    <outline text="https://www.inngest.com" title="https://www.inngest.com" type="rss" xmlUrl="https://www.inngest.com/api/rss.xml"/>
-
-    <outline text="https://www.jantrid.net" title="https://www.jantrid.net" type="rss" xmlUrl="https://www.jantrid.net/feeds/posts/default/index.xml"/>
-
-    <outline text="https://medium.com/dartlang/" title="https://medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>
-
-    <outline text="https://github.com/microsoft/deoptexplorer-vscode" title="https://github.com/microsoft/deoptexplorer-vscode" type="rss" xmlUrl="https://github.com/microsoft/deoptexplorer-vscode/releases.atom"/>
-
-    <outline text="https://github.com/microsoft/TypeScript" title="https://github.com/microsoft/TypeScript" type="rss" xmlUrl="https://github.com/microsoft/TypeScript/releases.atom"/>
-
-    <outline text="https://github.com/microsoft/devicescript" title="https://github.com/microsoft/devicescript" type="rss" xmlUrl="https://github.com/microsoft/devicescript/releases.atom"/>
-
-    <outline text="https://github.com/webpro/knip" title="https://github.com/webpro/knip" type="rss" xmlUrl="https://github.com/webpro/knip/releases.atom"/>
-
-    <outline text="https://blog.hog.as" title="https://blog.hog.as" type="rss" xmlUrl="https://blog.hog.as/feed"/>
-
-    <outline text="https://github.com/mizchi/lizod" title="https://github.com/mizchi/lizod" type="rss" xmlUrl="https://github.com/mizchi/lizod/releases.atom"/>
-
-    <outline text="https://github.com/stepci/garph" title="https://github.com/stepci/garph" type="rss" xmlUrl="https://github.com/stepci/garph/releases.atom"/>
-
-    <outline text="https://github.com/sveltejs/svelte" title="https://github.com/sveltejs/svelte" type="rss" xmlUrl="https://github.com/sveltejs/svelte/releases.atom"/>
-
-    <outline text="https://www.nray.dev" title="https://www.nray.dev" type="rss" xmlUrl="https://www.nray.dev/rss.xml"/>
-
-    <outline text="https://blog.rafaelgss.dev" title="https://blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
-
-    <outline text="https://marmooo.blogspot.com" title="https://marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
-
-    <outline text="https://github.com/tresjs/tres" title="https://github.com/tresjs/tres" type="rss" xmlUrl="https://github.com/tresjs/tres/releases.atom"/>
-
-    <outline text="https://github.com/reactwg/server-components" title="https://github.com/reactwg/server-components" type="rss" xmlUrl="https://github.com/reactwg/server-components/releases.atom"/>
-
-    <outline text="https://chriscoyier.net" title="https://chriscoyier.net" type="rss" xmlUrl="https://chriscoyier.net/feed/"/>
-
-    <outline text="https://github.com/evanw/polywasm" title="https://github.com/evanw/polywasm" type="rss" xmlUrl="https://github.com/evanw/polywasm/releases.atom"/>
-
-    <outline text="https://turbo.build" title="https://turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
-
-    <outline text="https://github.com/nestjs/nest" title="https://github.com/nestjs/nest" type="rss" xmlUrl="https://github.com/nestjs/nest/releases.atom"/>
-
-    <outline text="https://www.fermyon.com" title="https://www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
-
-    <outline text="https://moderncss.dev" title="https://moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
-
-    <outline text="https://github.com/gvergnaud/ts-pattern" title="https://github.com/gvergnaud/ts-pattern" type="rss" xmlUrl="https://github.com/gvergnaud/ts-pattern/releases.atom"/>
-
-    <outline text="https://kizu.dev" title="https://kizu.dev" type="rss" xmlUrl="https://feeds.feedburner.com/kizuruen"/>
-
-    <outline text="https://github.com/lquixada/cross-fetch" title="https://github.com/lquixada/cross-fetch" type="rss" xmlUrl="https://github.com/lquixada/cross-fetch/releases.atom"/>
-
-    <outline text="https://www.feelback.dev" title="https://www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
-
-    <outline text="https://github.com/giuseppelt/httpc" title="https://github.com/giuseppelt/httpc" type="rss" xmlUrl="https://github.com/giuseppelt/httpc/releases.atom"/>
-
-    <outline text="https://github.com/gibbok/typescript-book" title="https://github.com/gibbok/typescript-book" type="rss" xmlUrl="https://github.com/gibbok/typescript-book/releases.atom"/>
-
-    <outline text="https://typescript-eslint.io" title="https://typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>
-
-    <outline text="https://kurtextrem.de" title="https://kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
-
-    <outline text="https://boajs.dev" title="https://boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
-
-    <outline text="https://katashin.info" title="https://katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>
-
-    <outline text="https://github.com/mdx-editor/editor" title="https://github.com/mdx-editor/editor" type="rss" xmlUrl="https://github.com/mdx-editor/editor/releases.atom"/>
-
-    <outline text="https://github.com/patriksimek/vm2" title="https://github.com/patriksimek/vm2" type="rss" xmlUrl="https://github.com/patriksimek/vm2/releases.atom"/>
-
-    <outline text="https://davidwalsh.name" title="https://davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
-
-    <outline text="https://github.com/kamranahmedse/driver.js" title="https://github.com/kamranahmedse/driver.js" type="rss" xmlUrl="https://github.com/kamranahmedse/driver.js/releases.atom"/>
-
-    <outline text="https://github.com/coderaiser/putout" title="https://github.com/coderaiser/putout" type="rss" xmlUrl="https://github.com/coderaiser/putout/releases.atom"/>
-
-    <outline text="https://github.com/fabian-hiller/valibot" title="https://github.com/fabian-hiller/valibot" type="rss" xmlUrl="https://github.com/fabian-hiller/valibot/releases.atom"/>
-
-    <outline text="https://zenn.dev/wakamsha/" title="https://zenn.dev/wakamsha/" type="rss" xmlUrl="https://zenn.dev/wakamsha/feed"/>
-
-    <outline text="https://tech.repro.io" title="https://tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
-
-    <outline text="https://techblog.yahoo.co.jp" title="https://techblog.yahoo.co.jp" type="rss" xmlUrl="https://techblog.yahoo.co.jp/atom.xml"/>
-
-    <outline text="https://remotesynthesis.com" title="https://remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
-
-    <outline text="https://dagster.io" title="https://dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
-
-    <outline text="https://www.mux.com" title="https://www.mux.com" type="rss" xmlUrl="https://www.mux.com/blog/rss.xml"/>
-
-    <outline text="https://github.com/KittyGiraudel/a11y-dialog" title="https://github.com/KittyGiraudel/a11y-dialog" type="rss" xmlUrl="https://github.com/KittyGiraudel/a11y-dialog/releases.atom"/>
-
-    <outline text="https://practica.dev" title="https://practica.dev" type="rss" xmlUrl="https://practica.dev/blog/rss.xml"/>
-
-    <outline text="https://speakerdeck.com/kazupon/" title="https://speakerdeck.com/kazupon/" type="rss" xmlUrl="https://speakerdeck.com/kazupon.atom"/>
-
-    <outline text="https://blog.appsignal.com" title="https://blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
-
-    <outline text="https://gist.github.com" title="https://gist.github.com" type="rss" xmlUrl="https://gist.github.com/starred.atom"/>
-
-    <outline text="https://security.googleblog.com" title="https://security.googleblog.com" type="rss" xmlUrl="https://security.googleblog.com/feeds/posts/default"/>
-
-    <outline text="https://github.com/vega/ts-json-schema-generator" title="https://github.com/vega/ts-json-schema-generator" type="rss" xmlUrl="https://github.com/vega/ts-json-schema-generator/releases.atom"/>
-
-    <outline text="https://speakerdeck.com/recruitengineers/" title="https://speakerdeck.com/recruitengineers/" type="rss" xmlUrl="https://speakerdeck.com/recruitengineers.atom"/>
-
-    <outline text="https://github.com/vercel/next.js" title="https://github.com/vercel/next.js" type="rss" xmlUrl="https://github.com/vercel/next.js/releases.atom"/>
-
-    <outline text="https://github.com/alvarlagerlof/rsc-parser" title="https://github.com/alvarlagerlof/rsc-parser" type="rss" xmlUrl="https://github.com/alvarlagerlof/rsc-parser/releases.atom"/>
-
-    <outline text="https://alttexthalloffame.org" title="https://alttexthalloffame.org" type="rss" xmlUrl="https://alttexthalloffame.org/en/feed/"/>
-
-    <outline text="https://frontendmasters.com" title="https://frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
-
-    <outline text="https://github.com/parcel-bundler/watcher" title="https://github.com/parcel-bundler/watcher" type="rss" xmlUrl="https://github.com/parcel-bundler/watcher/releases.atom"/>
-
-    <outline text="https://github.com/nodejs/corepack" title="https://github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
-
-    <outline text="https://github.com/withastro/astro" title="https://github.com/withastro/astro" type="rss" xmlUrl="https://github.com/withastro/astro/releases.atom"/>
-
-    <outline text="https://github.com/aerotoad/neboa" title="https://github.com/aerotoad/neboa" type="rss" xmlUrl="https://github.com/aerotoad/neboa/releases.atom"/>
-
-    <outline text="https://maximorlov.com" title="https://maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
-
-    <outline text="https://github.com/web-infra-dev/wg" title="https://github.com/web-infra-dev/wg" type="rss" xmlUrl="https://github.com/web-infra-dev/wg/releases.atom"/>
-
-    <outline text="https://github.com/actions/checkout" title="https://github.com/actions/checkout" type="rss" xmlUrl="https://github.com/actions/checkout/releases.atom"/>
-
-    <outline text="https://github.com/measuredco/puck" title="https://github.com/measuredco/puck" type="rss" xmlUrl="https://github.com/measuredco/puck/releases.atom"/>
-
-    <outline text="https://github.com/nebrelbug/npm-to-yarn" title="https://github.com/nebrelbug/npm-to-yarn" type="rss" xmlUrl="https://github.com/nebrelbug/npm-to-yarn/releases.atom"/>
-
-    <outline text="https://github.com/nodejs/Release" title="https://github.com/nodejs/Release" type="rss" xmlUrl="https://github.com/nodejs/Release/releases.atom"/>
-
-    <outline text="https://github.com/isaacs/tshy" title="https://github.com/isaacs/tshy" type="rss" xmlUrl="https://github.com/isaacs/tshy/releases.atom"/>
-
-    <outline text="https://github.com/nuejs/nuejs" title="https://github.com/nuejs/nuejs" type="rss" xmlUrl="https://github.com/nuejs/nuejs/releases.atom"/>
-
-    <outline text="https://abduvik.medium.com" title="https://abduvik.medium.com" type="rss" xmlUrl="https://medium.com/feed/@abduvik"/>
-
-    <outline text="https://github.com/eslint-stylistic/eslint-stylistic" title="https://github.com/eslint-stylistic/eslint-stylistic" type="rss" xmlUrl="https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"/>
-
-    <outline text="https://ladle.dev" title="https://ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
-
-    <outline text="https://github.com/kurtextrem/awesome-performance-patches" title="https://github.com/kurtextrem/awesome-performance-patches" type="rss" xmlUrl="https://github.com/kurtextrem/awesome-performance-patches/releases.atom"/>
-
-    <outline text="https://www.sbcr.jp" title="https://www.sbcr.jp" type="rss" xmlUrl="https://www.sbcr.jp/product/4815619480/feed/"/>
-
-    <outline text="https://zenn.dev/taisei_13046/" title="https://zenn.dev/taisei_13046/" type="rss" xmlUrl="https://zenn.dev/taisei_13046/feed"/>
-
-    <outline text="https://github.com/runk/node-chardet" title="https://github.com/runk/node-chardet" type="rss" xmlUrl="https://github.com/runk/node-chardet/releases.atom"/>
-
-    <outline text="https://github.com/instant-dev/instant" title="https://github.com/instant-dev/instant" type="rss" xmlUrl="https://github.com/instant-dev/instant/releases.atom"/>
-
-    <outline text="https://github.com/aidenybai/pattycake" title="https://github.com/aidenybai/pattycake" type="rss" xmlUrl="https://github.com/aidenybai/pattycake/releases.atom"/>
-
-    <outline text="https://github.com/tldraw/tldraw" title="https://github.com/tldraw/tldraw" type="rss" xmlUrl="https://github.com/tldraw/tldraw/releases.atom"/>
-
-    <outline text="https://prateeksurana.me" title="https://prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
-
-    <outline text="https://github.com/nksaraf/vinxi" title="https://github.com/nksaraf/vinxi" type="rss" xmlUrl="https://github.com/nksaraf/vinxi/releases.atom"/>
-
-    <outline text="https://github.com/arktypeio/arktype" title="https://github.com/arktypeio/arktype" type="rss" xmlUrl="https://github.com/arktypeio/arktype/releases.atom"/>
-
-    <outline text="https://www.sonarsource.com" title="https://www.sonarsource.com" type="rss" xmlUrl="https://www.sonarsource.com/rss.xml"/>
-
-    <outline text="https://www.softwareatscale.dev" title="https://www.softwareatscale.dev" type="rss" xmlUrl="https://www.softwareatscale.dev/feed"/>
-
-    <outline text="https://github.com/react-hookz/web" title="https://github.com/react-hookz/web" type="rss" xmlUrl="https://github.com/react-hookz/web/releases.atom"/>
-
-    <outline text="https://github.com/elbywan/zap" title="https://github.com/elbywan/zap" type="rss" xmlUrl="https://github.com/elbywan/zap/releases.atom"/>
-
-    <outline text="https://zackoverflow.dev" title="https://zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
-
-    <outline text="https://github.com/orgs/web-infra-dev" title="https://github.com/orgs/web-infra-dev" type="rss" xmlUrl="https://github.com/orgs/web-infra-dev/releases.atom"/>
-
-    <outline text="https://blog.scottlogic.com" title="https://blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
-
-    <outline text="https://github.com/AlexSergey/rockpack" title="https://github.com/AlexSergey/rockpack" type="rss" xmlUrl="https://github.com/AlexSergey/rockpack/releases.atom"/>
-
-    <outline text="https://yarnpkg.com" title="https://yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
-
-    <outline text="https://sindresorhus.com" title="https://sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
-
-    <outline text="https://zenn.dev/nakaakist/" title="https://zenn.dev/nakaakist/" type="rss" xmlUrl="https://zenn.dev/nakaakist/feed"/>
-
-    <outline text="https://github.com/joshmarinacci/node-pureimage" title="https://github.com/joshmarinacci/node-pureimage" type="rss" xmlUrl="https://github.com/joshmarinacci/node-pureimage/releases.atom"/>
-
-    <outline text="https://zenn.dev/punkshiraishi/" title="https://zenn.dev/punkshiraishi/" type="rss" xmlUrl="https://zenn.dev/punkshiraishi/feed"/>
-
-    <outline text="https://github.com/facebook/docusaurus" title="https://github.com/facebook/docusaurus" type="rss" xmlUrl="https://github.com/facebook/docusaurus/releases.atom"/>
-
-    <outline text="https://github.com/farm-fe/farm" title="https://github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
-
-    <outline text="https://github.com/oxc-project/javascript-parser-in-rust" title="https://github.com/oxc-project/javascript-parser-in-rust" type="rss" xmlUrl="https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"/>
-
-    <outline text="https://medium.com/miro-engineering/" title="https://medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
-
-    <outline text="https://rviscomi.dev" title="https://rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
-
-    <outline text="https://github.com/vvo/iron-session" title="https://github.com/vvo/iron-session" type="rss" xmlUrl="https://github.com/vvo/iron-session/releases.atom"/>
-
-    <outline text="https://speakerdeck.com/sajikix/" title="https://speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
-
-    <outline text="https://github.com/css-hooks/css-hooks" title="https://github.com/css-hooks/css-hooks" type="rss" xmlUrl="https://github.com/css-hooks/css-hooks/releases.atom"/>
-
-    <outline text="https://github.com/cosmiconfig/cosmiconfig" title="https://github.com/cosmiconfig/cosmiconfig" type="rss" xmlUrl="https://github.com/cosmiconfig/cosmiconfig/releases.atom"/>
-
-    <outline text="https://github.com/architect/aws-lite" title="https://github.com/architect/aws-lite" type="rss" xmlUrl="https://github.com/architect/aws-lite/releases.atom"/>
-
-    <outline text="https://github.com/unjs/unenv" title="https://github.com/unjs/unenv" type="rss" xmlUrl="https://github.com/unjs/unenv/releases.atom"/>
-
-    <outline text="https://github.com/facebook/stylex" title="https://github.com/facebook/stylex" type="rss" xmlUrl="https://github.com/facebook/stylex/releases.atom"/>
-
-    <outline text="https://scrapbox.io" title="https://scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>
-
-    <outline text="https://github.com/sindresorhus/got" title="https://github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-
-    <outline text="https://zenn.dev/zawa_kyo/" title="https://zenn.dev/zawa_kyo/" type="rss" xmlUrl="https://zenn.dev/zawa_kyo/feed"/>
-
-    <outline text="https://github.com/BuilderIO/hydration-overlay" title="https://github.com/BuilderIO/hydration-overlay" type="rss" xmlUrl="https://github.com/BuilderIO/hydration-overlay/releases.atom"/>
-
-    <outline text="https://zenn.dev/urotea/" title="https://zenn.dev/urotea/" type="rss" xmlUrl="https://zenn.dev/urotea/feed"/>
-
-    <outline text="https://user-first.ikyu.co.jp" title="https://user-first.ikyu.co.jp" type="rss" xmlUrl="https://user-first.ikyu.co.jp/feed"/>
-
-    <outline text="https://developers.prtimes.jp" title="https://developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
-
-    <outline text="https://github.com/date-fns/date-fns" title="https://github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
-
-    <outline text="https://nsaunders.dev" title="https://nsaunders.dev" type="rss" xmlUrl="https://nsaunders.dev/rss.xml"/>
-
-    <outline text="https://github.com/webui-dev/webui" title="https://github.com/webui-dev/webui" type="rss" xmlUrl="https://github.com/webui-dev/webui/releases.atom"/>
-
-    <outline text="https://www.htmhell.dev" title="https://www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
-
-    <outline text="https://github.com/moment/moment" title="https://github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
-
-    <outline text="https://blog.osstech.co.jp" title="https://blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
-
-    <outline text="https://github.com/speed-highlight/core" title="https://github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
-
-    <outline text="https://quick-lint-js.com" title="https://quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
-
-    <outline text="https://zenn.dev/uki00a/" title="https://zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
-
-    <outline text="https://zenn.dev/yamachan0625/" title="https://zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
-
+<outline text="https://nodejs.org" title="https://nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
+<outline text="https://webkit.org" title="https://webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
+<outline text="https://deno.com" title="https://deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
+<outline text="https://bun.sh" title="https://bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
+<outline text="https://devblogs.microsoft.com" title="https://devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/feed"/>
+<outline text="https://github.com/pnpm/pnpm" title="https://github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
+<outline text="https://astro.build" title="https://astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
+<outline text="https://github.com/evanw/esbuild" title="https://github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
+<outline text="https://github.com/microsoft/playwright" title="https://github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
+<outline text="https://eslint.org" title="https://eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
+<outline text="https://www.electronjs.org" title="https://www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
+<outline text="https://2ality.com" title="https://2ality.com" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom"/>
+<outline text="https://gihyo.jp" title="https://gihyo.jp" type="rss" xmlUrl="https://gihyo.jp/feed/rss1"/>
+<outline text="https://github.com/zloirock/core-js" title="https://github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
+<outline text="https://www.youtube.com" title="https://www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
+<outline text="https://blog.chromium.org" title="https://blog.chromium.org" type="rss" xmlUrl="https://blog.chromium.org/feeds/posts/default"/>
+<outline text="https://github.com/npm/cli" title="https://github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
+<outline text="https://github.com/remix-run/remix" title="https://github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
+<outline text="https://ecmascript-daily.github.io" title="https://ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
+<outline text="https://blog.angular.io" title="https://blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
+<outline text="https://reactnative.dev" title="https://reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
+<outline text="https://github.com/honojs/hono" title="https://github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
+<outline text="https://github.com/vitest-dev/vitest" title="https://github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
+<outline text="https://blog.emberjs.com" title="https://blog.emberjs.com" type="rss" xmlUrl="https://blog.emberjs.com/rss.xml"/>
+<outline text="https://prettier.io" title="https://prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
+<outline text="https://storybook.js.org" title="https://storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss"/>
+<outline text="https://github.com/vitejs/vite" title="https://github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
+<outline text="https://github.com/lerna/lerna" title="https://github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
+<outline text="https://calendar.perfplanet.com" title="https://calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
+<outline text="https://blog.vuejs.org" title="https://blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
+<outline text="https://github.com/webpack/webpack" title="https://github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
+<outline text="https://babeljs.io" title="https://babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
+<outline text="https://github.com/facebook/jest" title="https://github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
+<outline text="https://github.com/reduxjs/redux-toolkit" title="https://github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
+<outline text="https://vercel.com" title="https://vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
+<outline text="https://github.blog" title="https://github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
+<outline text="https://moonrepo.dev" title="https://moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
+<outline text="https://www.builder.io" title="https://www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
+<outline text="https://www.rspack.dev" title="https://www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
+<outline text="https://github.com/web-infra-dev/rspack" title="https://github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
+<outline text="https://css-tricks.com" title="https://css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
+<outline text="https://github.com/parcel-bundler/parcel" title="https://github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
+<outline text="https://hacks.mozilla.org" title="https://hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
+<outline text="https://parceljs.org" title="https://parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
+<outline text="https://github.com/reduxjs/react-redux" title="https://github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
+<outline text="https://github.com/vercel/swr" title="https://github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
+<outline text="https://www.smashingmagazine.com" title="https://www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
+<outline text="https://github.com/capricorn86/happy-dom" title="https://github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
+<outline text="https://github.com/solidjs/solid" title="https://github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
+<outline text="https://efcl.info" title="https://efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
+<outline text="https://blog.jquery.com" title="https://blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
+<outline text="https://github.com/rollup/rollup" title="https://github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
+<outline text="https://nuxt.com" title="https://nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
+<outline text="https://svelte.dev" title="https://svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
+<outline text="https://github.com/esm-dev/esm.sh" title="https://github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
+<outline text="https://github.com/jestjs/jest" title="https://github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
+<outline text="https://github.com/axios/axios" title="https://github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
+<outline text="https://github.com/google/zx" title="https://github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
+<outline text="https://github.com/ghiscoding/lerna-lite" title="https://github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
+<outline text="https://github.com/styled-components/styled-components" title="https://github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
+<outline text="https://github.com/vueuse/vueuse" title="https://github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
+<outline text="https://github.com/remix-run/react-router" title="https://github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
+<outline text="https://www.joshwcomeau.com" title="https://www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
+<outline text="https://github.com/prisma/prisma" title="https://github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
+<outline text="https://github.com/reduxjs/redux" title="https://github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
+<outline text="https://www.shoeisha.co.jp" title="https://www.shoeisha.co.jp" type="rss" xmlUrl="https://www.shoeisha.co.jp/rss/index.xml"/>
+<outline text="https://blog.jxck.io" title="https://blog.jxck.io" type="rss" xmlUrl="https://blog.jxck.io/feeds/atom.xml"/>
+<outline text="https://github.com/redwoodjs/redwood" title="https://github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
+<outline text="https://github.com/jsdom/jsdom" title="https://github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
+<outline text="https://dwango.github.io" title="https://dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
+<outline text="https://www.mitsue.co.jp" title="https://www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
+<outline text="https://github.com/cloudflare/miniflare" title="https://github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
+<outline text="https://bytecodealliance.org" title="https://bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
+<outline text="https://www.totaltypescript.com" title="https://www.totaltypescript.com" type="rss" xmlUrl="https://www.totaltypescript.com/rss.xml"/>
+<outline text="https://github.com/ije/esm.sh" title="https://github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
+<outline text="https://vitejs.dev" title="https://vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
+<outline text="https://www.webkit.org" title="https://www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
+<outline text="https://biomejs.dev" title="https://biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
+<outline text="https://eh-career.com" title="https://eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
+<outline text="https://zenn.dev/qnighy/" title="https://zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
+<outline text="https://github.com/expressjs/express" title="https://github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
+<outline text="https://github.com/GoogleChrome/lighthouse" title="https://github.com/GoogleChrome/lighthouse" type="rss" xmlUrl="https://github.com/GoogleChrome/lighthouse/releases.atom"/>
+<outline text="https://github.com/TypeStrong/ts-node" title="https://github.com/TypeStrong/ts-node" type="rss" xmlUrl="https://github.com/TypeStrong/ts-node/releases.atom"/>
+<outline text="https://zenn.dev/morinokami/" title="https://zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
+<outline text="https://www.packtpub.com" title="https://www.packtpub.com" type="rss" xmlUrl="https://hub.packtpub.com/feed/"/>
+<outline text="https://github.com/faker-js/faker" title="https://github.com/faker-js/faker" type="rss" xmlUrl="https://github.com/faker-js/faker/releases.atom"/>
+<outline text="https://github.com/tc39/ecma262" title="https://github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
+<outline text="https://www.mizdra.net" title="https://www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
+<outline text="https://www.zhenghao.io" title="https://www.zhenghao.io" type="rss" xmlUrl="https://www.zhenghao.io/rss.xml"/>
+<outline text="https://github.com/facebook/lexical" title="https://github.com/facebook/lexical" type="rss" xmlUrl="https://github.com/facebook/lexical/releases.atom"/>
+<outline text="https://github.com/nodejs/node" title="https://github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
+<outline text="https://jestjs.io" title="https://jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
+<outline text="https://github.com/facebook/react" title="https://github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+<outline text="https://cypress.io" title="https://cypress.io" type="rss" xmlUrl="https://cypress.io/feed.xml"/>
+<outline text="https://github.com/mochajs/mocha" title="https://github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
+<outline text="https://babylonjs.medium.com" title="https://babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
+<outline text="https://github.com/puppeteer/puppeteer" title="https://github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
+<outline text="https://github.com/storybookjs/storybook" title="https://github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
+<outline text="https://github.com/electron/electron" title="https://github.com/electron/electron" type="rss" xmlUrl="https://github.com/electron/electron/releases.atom"/>
+<outline text="https://nolanlawson.com" title="https://nolanlawson.com" type="rss" xmlUrl="https://nolanlawson.com/feed/"/>
+<outline text="https://github.com/actions/setup-node" title="https://github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
+<outline text="https://github.com/sverweij/dependency-cruiser" title="https://github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
+<outline text="https://github.com/infernojs/inferno" title="https://github.com/infernojs/inferno" type="rss" xmlUrl="https://github.com/infernojs/inferno/releases.atom"/>
+<outline text="https://blog.nrwl.io" title="https://blog.nrwl.io" type="rss" xmlUrl="https://blog.nrwl.io/feed"/>
+<outline text="https://www.ecma-international.org" title="https://www.ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
+<outline text="https://github.com/oven-sh/bun" title="https://github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
+<outline text="https://blog.isquaredsoftware.com" title="https://blog.isquaredsoftware.com" type="rss" xmlUrl="https://blog.isquaredsoftware.com/index.xml"/>
+<outline text="https://zenn.dev/teppeis/" title="https://zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
+<outline text="https://github.com/riot/riot" title="https://github.com/riot/riot" type="rss" xmlUrl="https://github.com/riot/riot/releases.atom"/>
+<outline text="https://www.honeybadger.io" title="https://www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
+<outline text="https://buf.build" title="https://buf.build" type="rss" xmlUrl="https://buf.build/rss.xml"/>
+<outline text="https://github.com/denoland/deno" title="https://github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
+<outline text="https://github.com/httptoolkit/brotli-wasm" title="https://github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
+<outline text="https://spidermonkey.dev" title="https://spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
+<outline text="https://blog.tomayac.com" title="https://blog.tomayac.com" type="rss" xmlUrl="https://blog.tomayac.com/feed/feed.xml"/>
+<outline text="https://github.com/avajs/ava" title="https://github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
+<outline text="https://zenn.dev/sa2knight/" title="https://zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
+<outline text="https://github.com/jasmine/jasmine" title="https://github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
+<outline text="https://github.com/pixijs/pixijs" title="https://github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
+<outline text="https://shopify.engineering" title="https://shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
+<outline text="https://blog.bokken.io" title="https://blog.bokken.io" type="rss" xmlUrl="https://blog.bokken.io/feeds/atom.xml"/>
+<outline text="https://tauri.app" title="https://tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>
+<outline text="https://v2.vuejs.org" title="https://v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
+<outline text="https://postd.cc" title="https://postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
+<outline text="https://github.com/facebook/flow" title="https://github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
+<outline text="https://github.com/nuxt/nuxt" title="https://github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
+<outline text="https://github.com/kaleidawave/ezno" title="https://github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
+<outline text="https://github.com/lerna-lite/lerna-lite" title="https://github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
+<outline text="https://blog.stackblitz.com" title="https://blog.stackblitz.com" type="rss" xmlUrl="https://blog.stackblitz.com/rss.xml"/>
+<outline text="https://github.com/markedjs/marked" title="https://github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
+<outline text="https://lea.verou.me" title="https://lea.verou.me" type="rss" xmlUrl="https://lea.verou.me/feed.xml"/>
+<outline text="https://github.com/vanjs-org/van" title="https://github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
+<outline text="https://blog.getbootstrap.com" title="https://blog.getbootstrap.com" type="rss" xmlUrl="https://blog.getbootstrap.com/feed.xml"/>
+<outline text="https://lit.dev" title="https://lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
+<outline text="https://developer.mozilla.org" title="https://developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
+<outline text="https://github.com/tapjs/tsimp" title="https://github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
+<outline text="https://tailwindcss.com" title="https://tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
+<outline text="https://alexsidorenko.com" title="https://alexsidorenko.com" type="rss" xmlUrl="https://alexsidorenko.com/rss.xml"/>
+<outline text="https://medium.com/@vueshenzhen/" title="https://medium.com/@vueshenzhen/" type="rss" xmlUrl="https://medium.com/feed/@vueshenzhen"/>
+<outline text="https://github.com/fox1t/turborepo-remote-cache" title="https://github.com/fox1t/turborepo-remote-cache" type="rss" xmlUrl="https://github.com/fox1t/turborepo-remote-cache/releases.atom"/>
+<outline text="https://github.com/ngneat/elf" title="https://github.com/ngneat/elf" type="rss" xmlUrl="https://github.com/ngneat/elf/releases.atom"/>
+<outline text="https://github.com/mozilla/rhino" title="https://github.com/mozilla/rhino" type="rss" xmlUrl="https://github.com/mozilla/rhino/releases.atom"/>
+<outline text="https://github.com/11ty/eleventy" title="https://github.com/11ty/eleventy" type="rss" xmlUrl="https://github.com/11ty/eleventy/releases.atom"/>
+<outline text="https://github.com/facebook/relay" title="https://github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
+<outline text="https://github.com/WebAppPentestGuidelines/graphQLGuideLine" title="https://github.com/WebAppPentestGuidelines/graphQLGuideLine" type="rss" xmlUrl="https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"/>
+<outline text="https://mitpress.mit.edu" title="https://mitpress.mit.edu" type="rss" xmlUrl="https://mitpress.mit.edu/feed/"/>
+<outline text="https://vanillalist.top" title="https://vanillalist.top" type="rss" xmlUrl="https://vanillalist.top/feed.xml"/>
+<outline text="https://github.com/tinyplex/tinybase" title="https://github.com/tinyplex/tinybase" type="rss" xmlUrl="https://github.com/tinyplex/tinybase/releases.atom"/>
+<outline text="https://github.com/webtoon/psd" title="https://github.com/webtoon/psd" type="rss" xmlUrl="https://github.com/webtoon/psd/releases.atom"/>
+<outline text="https://github.com/DataDog/build-plugin" title="https://github.com/DataDog/build-plugin" type="rss" xmlUrl="https://github.com/DataDog/build-plugin/releases.atom"/>
+<outline text="https://blog.plasmic.app" title="https://blog.plasmic.app" type="rss" xmlUrl="https://blog.plasmic.app/feed.xml"/>
+<outline text="https://recoiljs.org" title="https://recoiljs.org" type="rss" xmlUrl="https://recoiljs.org/blog/rss.xml"/>
+<outline text="https://github.com/nightwatchjs/nightwatch" title="https://github.com/nightwatchjs/nightwatch" type="rss" xmlUrl="https://github.com/nightwatchjs/nightwatch/releases.atom"/>
+<outline text="https://www.amazon.science" title="https://www.amazon.science" type="rss" xmlUrl="https://www.amazon.science/index.rss"/>
+<outline text="https://v8.dev" title="https://v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
+<outline text="https://developers.cyberagent.co.jp" title="https://developers.cyberagent.co.jp" type="rss" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/"/>
+<outline text="https://www.igalia.com" title="https://www.igalia.com" type="rss" xmlUrl="https://www.igalia.com/feed.xml"/>
+<outline text="https://github.com/ngneat/falso" title="https://github.com/ngneat/falso" type="rss" xmlUrl="https://github.com/ngneat/falso/releases.atom"/>
+<outline text="https://mdxjs.com" title="https://mdxjs.com" type="rss" xmlUrl="https://mdxjs.com/rss.xml"/>
+<outline text="https://dev.to/atian25/" title="https://dev.to/atian25/" type="rss" xmlUrl="https://dev.to/feed/atian25"/>
+<outline text="https://github.com/papyrs/stylo" title="https://github.com/papyrs/stylo" type="rss" xmlUrl="https://github.com/papyrs/stylo/releases.atom"/>
+<outline text="https://github.com/hikerpig/pintora" title="https://github.com/hikerpig/pintora" type="rss" xmlUrl="https://github.com/hikerpig/pintora/releases.atom"/>
+<outline text="https://github.com/checkly/puppeteer-to-playwright" title="https://github.com/checkly/puppeteer-to-playwright" type="rss" xmlUrl="https://github.com/checkly/puppeteer-to-playwright/releases.atom"/>
+<outline text="https://github.com/Aslemammad/react-worker-components-plugin" title="https://github.com/Aslemammad/react-worker-components-plugin" type="rss" xmlUrl="https://github.com/Aslemammad/react-worker-components-plugin/releases.atom"/>
+<outline text="https://blog.drsprime.com" title="https://blog.drsprime.com" type="rss" xmlUrl="https://blog.drsprime.com/feed"/>
+<outline text="https://zenn.dev/inokawa/" title="https://zenn.dev/inokawa/" type="rss" xmlUrl="https://zenn.dev/inokawa/feed"/>
+<outline text="https://dev.to/arcanis/" title="https://dev.to/arcanis/" type="rss" xmlUrl="https://dev.to/feed/arcanis"/>
+<outline text="https://github.com/jimmywarting/native-file-system-adapter" title="https://github.com/jimmywarting/native-file-system-adapter" type="rss" xmlUrl="https://github.com/jimmywarting/native-file-system-adapter/releases.atom"/>
+<outline text="https://github.com/JoshuaKGoldberg/TypeStat" title="https://github.com/JoshuaKGoldberg/TypeStat" type="rss" xmlUrl="https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"/>
+<outline text="https://github.com/microsoft/TypeScript-Compiler-Notes" title="https://github.com/microsoft/TypeScript-Compiler-Notes" type="rss" xmlUrl="https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"/>
+<outline text="https://github.com/vinodotdev/node-to-rust" title="https://github.com/vinodotdev/node-to-rust" type="rss" xmlUrl="https://github.com/vinodotdev/node-to-rust/releases.atom"/>
+<outline text="https://github.com/xataio/screenshot" title="https://github.com/xataio/screenshot" type="rss" xmlUrl="https://github.com/xataio/screenshot/releases.atom"/>
+<outline text="https://github.com/leafac/caxa" title="https://github.com/leafac/caxa" type="rss" xmlUrl="https://github.com/leafac/caxa/releases.atom"/>
+<outline text="https://github.com/nodeshift/nodejs-reference-architecture" title="https://github.com/nodeshift/nodejs-reference-architecture" type="rss" xmlUrl="https://github.com/nodeshift/nodejs-reference-architecture/releases.atom"/>
+<outline text="https://daisyui.com" title="https://daisyui.com" type="rss" xmlUrl="https://daisyui.com/blog/rss.xml"/>
+<outline text="https://github.com/breejs/bree" title="https://github.com/breejs/bree" type="rss" xmlUrl="https://github.com/breejs/bree/releases.atom"/>
+<outline text="https://surma.dev" title="https://surma.dev" type="rss" xmlUrl="https://surma.dev/index.xml"/>
+<outline text="https://github.com/wilsonzlin/minify-html" title="https://github.com/wilsonzlin/minify-html" type="rss" xmlUrl="https://github.com/wilsonzlin/minify-html/releases.atom"/>
+<outline text="https://github.com/twitterdev/twitter-api-typescript-sdk" title="https://github.com/twitterdev/twitter-api-typescript-sdk" type="rss" xmlUrl="https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"/>
+<outline text="https://tech.hicustomer.jp" title="https://tech.hicustomer.jp" type="rss" xmlUrl="https://tech.hicustomer.jp/index.xml"/>
+<outline text="https://github.com/tajo/ladle" title="https://github.com/tajo/ladle" type="rss" xmlUrl="https://github.com/tajo/ladle/releases.atom"/>
+<outline text="https://www.ladle.dev" title="https://www.ladle.dev" type="rss" xmlUrl="https://www.ladle.dev/blog/rss.xml"/>
+<outline text="https://github.com/MattiasBuelens/web-streams-polyfill" title="https://github.com/MattiasBuelens/web-streams-polyfill" type="rss" xmlUrl="https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"/>
+<outline text="https://github.com/tc39/ecma402" title="https://github.com/tc39/ecma402" type="rss" xmlUrl="https://github.com/tc39/ecma402/releases.atom"/>
+<outline text="https://github.com/tc39/proposals" title="https://github.com/tc39/proposals" type="rss" xmlUrl="https://github.com/tc39/proposals/releases.atom"/>
+<outline text="https://speakerdeck.com/hgsgtk/" title="https://speakerdeck.com/hgsgtk/" type="rss" xmlUrl="https://speakerdeck.com/hgsgtk.atom"/>
+<outline text="https://github.com/nuxodin/dialog-polyfill" title="https://github.com/nuxodin/dialog-polyfill" type="rss" xmlUrl="https://github.com/nuxodin/dialog-polyfill/releases.atom"/>
+<outline text="https://github.com/facebookexperimental/Recoil" title="https://github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
+<outline text="https://github.com/nicolo-ribaudo/jest-light-runner" title="https://github.com/nicolo-ribaudo/jest-light-runner" type="rss" xmlUrl="https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"/>
+<outline text="https://elijahmanor.com" title="https://elijahmanor.com" type="rss" xmlUrl="https://feeds.feedburner.com/webdevnet"/>
+<outline text="https://github.com/cucumber/cucumber-js" title="https://github.com/cucumber/cucumber-js" type="rss" xmlUrl="https://github.com/cucumber/cucumber-js/releases.atom"/>
+<outline text="https://tom.preston-werner.com" title="https://tom.preston-werner.com" type="rss" xmlUrl="https://feeds.feedburner.com/tom-preston-werner"/>
+<outline text="https://www.huy.rocks" title="https://www.huy.rocks" type="rss" xmlUrl="https://www.huy.rocks/rss.xml"/>
+<outline text="https://github.com/agnosticui/agnosticui" title="https://github.com/agnosticui/agnosticui" type="rss" xmlUrl="https://github.com/agnosticui/agnosticui/releases.atom"/>
+<outline text="https://turborepo.org" title="https://turborepo.org" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
+<outline text="https://github.com/goldbergyoni/javascript-testing-best-practices" title="https://github.com/goldbergyoni/javascript-testing-best-practices" type="rss" xmlUrl="https://github.com/goldbergyoni/javascript-testing-best-practices/releases.atom"/>
+<outline text="https://github.com/antfu/vue-starport" title="https://github.com/antfu/vue-starport" type="rss" xmlUrl="https://github.com/antfu/vue-starport/releases.atom"/>
+<outline text="https://github.com/ThomasAribart/json-schema-to-ts" title="https://github.com/ThomasAribart/json-schema-to-ts" type="rss" xmlUrl="https://github.com/ThomasAribart/json-schema-to-ts/releases.atom"/>
+<outline text="https://devblog.thebase.in" title="https://devblog.thebase.in" type="rss" xmlUrl="https://devblog.thebase.in/feed"/>
+<outline text="https://github.com/Shopify/javy" title="https://github.com/Shopify/javy" type="rss" xmlUrl="https://github.com/Shopify/javy/releases.atom"/>
+<outline text="https://github.com/ehmicky/wild-wild-path" title="https://github.com/ehmicky/wild-wild-path" type="rss" xmlUrl="https://github.com/ehmicky/wild-wild-path/releases.atom"/>
+<outline text="https://github.com/testing-library/react-testing-library" title="https://github.com/testing-library/react-testing-library" type="rss" xmlUrl="https://github.com/testing-library/react-testing-library/releases.atom"/>
+<outline text="https://github.com/worldzhao/blog" title="https://github.com/worldzhao/blog" type="rss" xmlUrl="https://github.com/worldzhao/blog/releases.atom"/>
+<outline text="https://www.w3.org" title="https://www.w3.org" type="rss" xmlUrl="https://www.w3.org/blog/feed/"/>
+<outline text="https://github.com/inikulin/parse5" title="https://github.com/inikulin/parse5" type="rss" xmlUrl="https://github.com/inikulin/parse5/releases.atom"/>
+<outline text="https://github.com/milesj/packemon" title="https://github.com/milesj/packemon" type="rss" xmlUrl="https://github.com/milesj/packemon/releases.atom"/>
+<outline text="https://blog.axlight.com" title="https://blog.axlight.com" type="rss" xmlUrl="https://blog.axlight.com/index.xml"/>
+<outline text="https://github.com/unjs/nitro" title="https://github.com/unjs/nitro" type="rss" xmlUrl="https://github.com/unjs/nitro/releases.atom"/>
+<outline text="https://dev.to/frolovdev/" title="https://dev.to/frolovdev/" type="rss" xmlUrl="https://dev.to/feed/frolovdev"/>
+<outline text="https://github.com/plantain-00/type-coverage" title="https://github.com/plantain-00/type-coverage" type="rss" xmlUrl="https://github.com/plantain-00/type-coverage/releases.atom"/>
+<outline text="https://github.com/eolme/i18nano" title="https://github.com/eolme/i18nano" type="rss" xmlUrl="https://github.com/eolme/i18nano/releases.atom"/>
+<outline text="https://github.com/shuding/tilg" title="https://github.com/shuding/tilg" type="rss" xmlUrl="https://github.com/shuding/tilg/releases.atom"/>
+<outline text="https://github.com/tdewolff/minify" title="https://github.com/tdewolff/minify" type="rss" xmlUrl="https://github.com/tdewolff/minify/releases.atom"/>
+<outline text="https://www.remotion.dev" title="https://www.remotion.dev" type="rss" xmlUrl="https://www.remotion.dev/blog/rss.xml"/>
+<outline text="https://github.com/frouriojs/notios" title="https://github.com/frouriojs/notios" type="rss" xmlUrl="https://github.com/frouriojs/notios/releases.atom"/>
+<outline text="https://jqk.life" title="https://jqk.life" type="rss" xmlUrl="https://jqk.life/rss.xml"/>
+<outline text="https://tsh.io" title="https://tsh.io" type="rss" xmlUrl="https://tsh.io/feed/"/>
+<outline text="https://github.com/httptoolkit/mockrtc" title="https://github.com/httptoolkit/mockrtc" type="rss" xmlUrl="https://github.com/httptoolkit/mockrtc/releases.atom"/>
+<outline text="https://quramy.medium.com" title="https://quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
+<outline text="https://github.com/yisibl/resvg-js" title="https://github.com/yisibl/resvg-js" type="rss" xmlUrl="https://github.com/yisibl/resvg-js/releases.atom"/>
+<outline text="https://github.com/kawamataryo/suppress-ts-errors" title="https://github.com/kawamataryo/suppress-ts-errors" type="rss" xmlUrl="https://github.com/kawamataryo/suppress-ts-errors/releases.atom"/>
+<outline text="https://github.com/yarnpkg/yarn" title="https://github.com/yarnpkg/yarn" type="rss" xmlUrl="https://github.com/yarnpkg/yarn/releases.atom"/>
+<outline text="https://github.com/i-net-software/JWebAssembly" title="https://github.com/i-net-software/JWebAssembly" type="rss" xmlUrl="https://github.com/i-net-software/JWebAssembly/releases.atom"/>
+<outline text="https://github.com/wooorm/starry-night" title="https://github.com/wooorm/starry-night" type="rss" xmlUrl="https://github.com/wooorm/starry-night/releases.atom"/>
+<outline text="https://discuss.httparchive.org" title="https://discuss.httparchive.org" type="rss" xmlUrl="https://discuss.httparchive.org/posts.rss"/>
+<outline text="https://github.com/dflex-js/dflex" title="https://github.com/dflex-js/dflex" type="rss" xmlUrl="https://github.com/dflex-js/dflex/releases.atom"/>
+<outline text="https://engineering.fb.com" title="https://engineering.fb.com" type="rss" xmlUrl="https://engineering.fb.com/feed/"/>
+<outline text="https://github.com/alan2207/bulletproof-react" title="https://github.com/alan2207/bulletproof-react" type="rss" xmlUrl="https://github.com/alan2207/bulletproof-react/releases.atom"/>
+<outline text="https://speakerdeck.com/mizchi/" title="https://speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
+<outline text="https://github.com/esbuild-kit/tsx" title="https://github.com/esbuild-kit/tsx" type="rss" xmlUrl="https://github.com/esbuild-kit/tsx/releases.atom"/>
+<outline text="https://github.com/markdoc/markdoc" title="https://github.com/markdoc/markdoc" type="rss" xmlUrl="https://github.com/markdoc/markdoc/releases.atom"/>
+<outline text="https://github.com/MithrilJS/mithril.js" title="https://github.com/MithrilJS/mithril.js" type="rss" xmlUrl="https://github.com/MithrilJS/mithril.js/releases.atom"/>
+<outline text="https://github.com/nvh95/jest-preview" title="https://github.com/nvh95/jest-preview" type="rss" xmlUrl="https://github.com/nvh95/jest-preview/releases.atom"/>
+<outline text="https://github.com/adriancooney/puppeteer-heap-snapshot" title="https://github.com/adriancooney/puppeteer-heap-snapshot" type="rss" xmlUrl="https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"/>
+<outline text="https://stripe.com" title="https://stripe.com" type="rss" xmlUrl="https://stripe.com/blog/feed.rss"/>
+<outline text="https://github.com/Shopify/remote-ui" title="https://github.com/Shopify/remote-ui" type="rss" xmlUrl="https://github.com/Shopify/remote-ui/releases.atom"/>
+<outline text="https://serpapi.com" title="https://serpapi.com" type="rss" xmlUrl="https://serpapi.com/blog/rss/"/>
+<outline text="https://github.com/google/wireit" title="https://github.com/google/wireit" type="rss" xmlUrl="https://github.com/google/wireit/releases.atom"/>
+<outline text="https://github.com/mdn/browser-compat-data" title="https://github.com/mdn/browser-compat-data" type="rss" xmlUrl="https://github.com/mdn/browser-compat-data/releases.atom"/>
+<outline text="https://github.com/jridgewell/trace-mapping" title="https://github.com/jridgewell/trace-mapping" type="rss" xmlUrl="https://github.com/jridgewell/trace-mapping/releases.atom"/>
+<outline text="https://browser.engineering" title="https://browser.engineering" type="rss" xmlUrl="https://browser.engineering/rss.xml"/>
+<outline text="https://github.com/histoire-dev/histoire" title="https://github.com/histoire-dev/histoire" type="rss" xmlUrl="https://github.com/histoire-dev/histoire/releases.atom"/>
+<outline text="https://github.com/mishoo/UglifyJS" title="https://github.com/mishoo/UglifyJS" type="rss" xmlUrl="https://github.com/mishoo/UglifyJS/releases.atom"/>
+<outline text="https://github.com/vuejs/vue" title="https://github.com/vuejs/vue" type="rss" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
+<outline text="https://blog.webpagetest.org" title="https://blog.webpagetest.org" type="rss" xmlUrl="https://blog.webpagetest.org/feed.xml"/>
+<outline text="https://github.com/WebReflection/highlighted-code" title="https://github.com/WebReflection/highlighted-code" type="rss" xmlUrl="https://github.com/WebReflection/highlighted-code/releases.atom"/>
+<outline text="https://github.com/cyco130/vavite" title="https://github.com/cyco130/vavite" type="rss" xmlUrl="https://github.com/cyco130/vavite/releases.atom"/>
+<outline text="https://medium.com/@fastifyjs/" title="https://medium.com/@fastifyjs/" type="rss" xmlUrl="https://medium.com/feed/@fastifyjs"/>
+<outline text="https://github.com/ranyitz/qnm" title="https://github.com/ranyitz/qnm" type="rss" xmlUrl="https://github.com/ranyitz/qnm/releases.atom"/>
+<outline text="https://github.com/fastify/fastify-dx" title="https://github.com/fastify/fastify-dx" type="rss" xmlUrl="https://github.com/fastify/fastify-dx/releases.atom"/>
+<outline text="https://github.com/PlasmoHQ/plasmo" title="https://github.com/PlasmoHQ/plasmo" type="rss" xmlUrl="https://github.com/PlasmoHQ/plasmo/releases.atom"/>
+<outline text="https://github.com/preactjs/preact" title="https://github.com/preactjs/preact" type="rss" xmlUrl="https://github.com/preactjs/preact/releases.atom"/>
+<outline text="https://github.com/taozhi8833998/node-sql-parser" title="https://github.com/taozhi8833998/node-sql-parser" type="rss" xmlUrl="https://github.com/taozhi8833998/node-sql-parser/releases.atom"/>
+<outline text="https://www.gabe.pizza" title="https://www.gabe.pizza" type="rss" xmlUrl="https://www.gabe.pizza/rss.xml"/>
+<outline text="https://github.com/sindresorhus/ow" title="https://github.com/sindresorhus/ow" type="rss" xmlUrl="https://github.com/sindresorhus/ow/releases.atom"/>
+<outline text="https://whistlr.info" title="https://whistlr.info" type="rss" xmlUrl="https://samthor.au/rss.xml"/>
+<outline text="https://github.com/coder-mike/microvium" title="https://github.com/coder-mike/microvium" type="rss" xmlUrl="https://github.com/coder-mike/microvium/releases.atom"/>
+<outline text="https://marijnhaverbeke.nl" title="https://marijnhaverbeke.nl" type="rss" xmlUrl="https://marijnhaverbeke.nl/blog/feed.atom"/>
+<outline text="https://github.com/socketio/socket.io" title="https://github.com/socketio/socket.io" type="rss" xmlUrl="https://github.com/socketio/socket.io/releases.atom"/>
+<outline text="https://github.com/astoilkov/main-thread-scheduling" title="https://github.com/astoilkov/main-thread-scheduling" type="rss" xmlUrl="https://github.com/astoilkov/main-thread-scheduling/releases.atom"/>
+<outline text="https://github.com/open-source-labs/reactime" title="https://github.com/open-source-labs/reactime" type="rss" xmlUrl="https://github.com/open-source-labs/reactime/releases.atom"/>
+<outline text="https://github.com/foliojs/fontkit" title="https://github.com/foliojs/fontkit" type="rss" xmlUrl="https://github.com/foliojs/fontkit/releases.atom"/>
+<outline text="https://github.com/angular-eslint/angular-eslint" title="https://github.com/angular-eslint/angular-eslint" type="rss" xmlUrl="https://github.com/angular-eslint/angular-eslint/releases.atom"/>
+<outline text="https://github.com/timocov/dts-bundle-generator" title="https://github.com/timocov/dts-bundle-generator" type="rss" xmlUrl="https://github.com/timocov/dts-bundle-generator/releases.atom"/>
+<outline text="https://github.com/WebKit/standards-positions" title="https://github.com/WebKit/standards-positions" type="rss" xmlUrl="https://github.com/WebKit/standards-positions/releases.atom"/>
+<outline text="https://github.com/codemix/deprank" title="https://github.com/codemix/deprank" type="rss" xmlUrl="https://github.com/codemix/deprank/releases.atom"/>
+<outline text="https://zenn.dev/dajiaji/" title="https://zenn.dev/dajiaji/" type="rss" xmlUrl="https://zenn.dev/dajiaji/feed"/>
+<outline text="https://blog.nnn.dev" title="https://blog.nnn.dev" type="rss" xmlUrl="https://blog.nnn.dev/feed"/>
+<outline text="https://github.com/samchon/typescript-json" title="https://github.com/samchon/typescript-json" type="rss" xmlUrl="https://github.com/samchon/typescript-json/releases.atom"/>
+<outline text="https://github.com/jcubic/wayne" title="https://github.com/jcubic/wayne" type="rss" xmlUrl="https://github.com/jcubic/wayne/releases.atom"/>
+<outline text="https://github.com/oguimbal/pg-mem" title="https://github.com/oguimbal/pg-mem" type="rss" xmlUrl="https://github.com/oguimbal/pg-mem/releases.atom"/>
+<outline text="https://zenn.dev/mjhd/" title="https://zenn.dev/mjhd/" type="rss" xmlUrl="https://zenn.dev/mjhd/feed"/>
+<outline text="https://katainaka0503.hatenablog.com" title="https://katainaka0503.hatenablog.com" type="rss" xmlUrl="https://katainaka0503.hatenablog.com/feed"/>
+<outline text="https://github.com/moment/luxon" title="https://github.com/moment/luxon" type="rss" xmlUrl="https://github.com/moment/luxon/releases.atom"/>
+<outline text="https://github.com/tuplo/numberfmt" title="https://github.com/tuplo/numberfmt" type="rss" xmlUrl="https://github.com/tuplo/numberfmt/releases.atom"/>
+<outline text="https://github.com/nodejs/undici" title="https://github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
+<outline text="https://nodered.org" title="https://nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
+<outline text="https://github.com/danielroe/magic-regexp" title="https://github.com/danielroe/magic-regexp" type="rss" xmlUrl="https://github.com/danielroe/magic-regexp/releases.atom"/>
+<outline text="https://defensivecss.dev" title="https://defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
+<outline text="https://github.com/yaakov123/hagana" title="https://github.com/yaakov123/hagana" type="rss" xmlUrl="https://github.com/yaakov123/hagana/releases.atom"/>
+<outline text="https://github.com/modfy/nominal" title="https://github.com/modfy/nominal" type="rss" xmlUrl="https://github.com/modfy/nominal/releases.atom"/>
+<outline text="https://dev.to/hemanth/" title="https://dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
+<outline text="https://github.com/5t3ph/css-browser-support" title="https://github.com/5t3ph/css-browser-support" type="rss" xmlUrl="https://github.com/5t3ph/css-browser-support/releases.atom"/>
+<outline text="https://ishadeed.com" title="https://ishadeed.com" type="rss" xmlUrl="http://ishadeed.com/feed.xml"/>
+<outline text="https://jakearchibald.com" title="https://jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
+<outline text="https://github.com/video-dev/hls.js" title="https://github.com/video-dev/hls.js" type="rss" xmlUrl="https://github.com/video-dev/hls.js/releases.atom"/>
+<outline text="https://github.com/ronami/HypeScript" title="https://github.com/ronami/HypeScript" type="rss" xmlUrl="https://github.com/ronami/HypeScript/releases.atom"/>
+<outline text="https://github.com/losfair/blueboat" title="https://github.com/losfair/blueboat" type="rss" xmlUrl="https://github.com/losfair/blueboat/releases.atom"/>
+<outline text="https://github.com/ehmicky/safe-json-value" title="https://github.com/ehmicky/safe-json-value" type="rss" xmlUrl="https://github.com/ehmicky/safe-json-value/releases.atom"/>
+<outline text="https://docusaurus.io" title="https://docusaurus.io" type="rss" xmlUrl="https://docusaurus.io/blog/rss.xml"/>
+<outline text="https://github.com/sofn-xyz/mailing" title="https://github.com/sofn-xyz/mailing" type="rss" xmlUrl="https://github.com/sofn-xyz/mailing/releases.atom"/>
+<outline text="https://github.com/mjmlio/mjml" title="https://github.com/mjmlio/mjml" type="rss" xmlUrl="https://github.com/mjmlio/mjml/releases.atom"/>
+<outline text="https://orizens.com" title="https://orizens.com" type="rss" xmlUrl="https://orizens.com/rss.xml"/>
+<outline text="https://mmazzarolo.com" title="https://mmazzarolo.com" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml"/>
+<outline text="https://engineering.linecorp.com" title="https://engineering.linecorp.com" type="rss" xmlUrl="https://engineering.linecorp.com/en"/>
+<outline text="https://www.learningtypescript.com" title="https://www.learningtypescript.com" type="rss" xmlUrl="https://www.learningtypescript.com/articles/rss.xml"/>
+<outline text="https://github.com/pemistahl/grex-js" title="https://github.com/pemistahl/grex-js" type="rss" xmlUrl="https://github.com/pemistahl/grex-js/releases.atom"/>
+<outline text="https://semaphoreci.com" title="https://semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
+<outline text="https://github.com/prettier/prettier" title="https://github.com/prettier/prettier" type="rss" xmlUrl="https://github.com/prettier/prettier/releases.atom"/>
+<outline text="https://www.matuzo.at" title="https://www.matuzo.at" type="rss" xmlUrl="https://www.matuzo.at/feed.xml"/>
+<outline text="https://www.theverge.com" title="https://www.theverge.com" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+<outline text="https://github.com/react-pdf-viewer/react-pdf-viewer" title="https://github.com/react-pdf-viewer/react-pdf-viewer" type="rss" xmlUrl="https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"/>
+<outline text="https://github.com/rayepps/radash" title="https://github.com/rayepps/radash" type="rss" xmlUrl="https://github.com/rayepps/radash/releases.atom"/>
+<outline text="https://erock.prose.sh" title="https://erock.prose.sh" type="rss" xmlUrl="https://erock.prose.sh/rss"/>
+<outline text="https://endtimes.dev" title="https://endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed/"/>
+<outline text="https://github.com/apify/crawlee" title="https://github.com/apify/crawlee" type="rss" xmlUrl="https://github.com/apify/crawlee/releases.atom"/>
+<outline text="https://github.com/nadeesha/ts-prune" title="https://github.com/nadeesha/ts-prune" type="rss" xmlUrl="https://github.com/nadeesha/ts-prune/releases.atom"/>
+<outline text="https://textslashplain.com" title="https://textslashplain.com" type="rss" xmlUrl="https://textslashplain.com/feed/"/>
+<outline text="https://tech.basicinc.jp" title="https://tech.basicinc.jp" type="rss" xmlUrl="https://tech.basicinc.jp/feed"/>
+<outline text="https://github.com/frehner/modern-guide-to-packaging-js-library" title="https://github.com/frehner/modern-guide-to-packaging-js-library" type="rss" xmlUrl="https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"/>
+<outline text="https://github.com/bluwy/whyframe" title="https://github.com/bluwy/whyframe" type="rss" xmlUrl="https://github.com/bluwy/whyframe/releases.atom"/>
+<outline text="https://daverupert.com" title="https://daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml"/>
+<outline text="https://github.com/layerhub-io/react-design-editor" title="https://github.com/layerhub-io/react-design-editor" type="rss" xmlUrl="https://github.com/layerhub-io/react-design-editor/releases.atom"/>
+<outline text="https://github.com/ossf/package-manager-best-practices" title="https://github.com/ossf/package-manager-best-practices" type="rss" xmlUrl="https://github.com/ossf/package-manager-best-practices/releases.atom"/>
+<outline text="https://github.com/tinylibs/tinyspy" title="https://github.com/tinylibs/tinyspy" type="rss" xmlUrl="https://github.com/tinylibs/tinyspy/releases.atom"/>
+<outline text="https://github.com/flomesh-io/pipy" title="https://github.com/flomesh-io/pipy" type="rss" xmlUrl="https://github.com/flomesh-io/pipy/releases.atom"/>
+<outline text="https://github.com/BetterTyped/hyper-fetch" title="https://github.com/BetterTyped/hyper-fetch" type="rss" xmlUrl="https://github.com/BetterTyped/hyper-fetch/releases.atom"/>
+<outline text="https://yieldcode.blog" title="https://yieldcode.blog" type="rss" xmlUrl="https://yieldcode.blog/rss/feed.xml"/>
+<outline text="https://www.wantedly.com" title="https://www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/projects.xml"/>
+<outline text="https://github.com/preactjs/signals" title="https://github.com/preactjs/signals" type="rss" xmlUrl="https://github.com/preactjs/signals/releases.atom"/>
+<outline text="https://github.com/nuxt/content" title="https://github.com/nuxt/content" type="rss" xmlUrl="https://github.com/nuxt/content/releases.atom"/>
+<outline text="https://github.com/hand-dot/react-inspector" title="https://github.com/hand-dot/react-inspector" type="rss" xmlUrl="https://github.com/hand-dot/react-inspector/releases.atom"/>
+<outline text="https://github.com/frameable/el" title="https://github.com/frameable/el" type="rss" xmlUrl="https://github.com/frameable/el/releases.atom"/>
+<outline text="https://github.com/AlexeyBoiko/DgrmJS" title="https://github.com/AlexeyBoiko/DgrmJS" type="rss" xmlUrl="https://github.com/AlexeyBoiko/DgrmJS/releases.atom"/>
+<outline text="https://github.com/facebookincubator/memlab" title="https://github.com/facebookincubator/memlab" type="rss" xmlUrl="https://github.com/facebookincubator/memlab/releases.atom"/>
+<outline text="https://community.redwoodjs.com" title="https://community.redwoodjs.com" type="rss" xmlUrl="https://community.redwoodjs.com/posts.rss"/>
+<outline text="https://github.com/skovhus/jest-codemods" title="https://github.com/skovhus/jest-codemods" type="rss" xmlUrl="https://github.com/skovhus/jest-codemods/releases.atom"/>
+<outline text="https://github.com/TypeStrong/ts-loader" title="https://github.com/TypeStrong/ts-loader" type="rss" xmlUrl="https://github.com/TypeStrong/ts-loader/releases.atom"/>
+<outline text="https://github.com/lost-pixel/lost-pixel" title="https://github.com/lost-pixel/lost-pixel" type="rss" xmlUrl="https://github.com/lost-pixel/lost-pixel/releases.atom"/>
+<outline text="https://github.com/ts-safeql/safeql" title="https://github.com/ts-safeql/safeql" type="rss" xmlUrl="https://github.com/ts-safeql/safeql/releases.atom"/>
+<outline text="https://github.com/tinylibs/tinybench" title="https://github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
+<outline text="https://github.com/anonrig/fast-querystring" title="https://github.com/anonrig/fast-querystring" type="rss" xmlUrl="https://github.com/anonrig/fast-querystring/releases.atom"/>
+<outline text="https://github.com/tokencss/tokencss" title="https://github.com/tokencss/tokencss" type="rss" xmlUrl="https://github.com/tokencss/tokencss/releases.atom"/>
+<outline text="https://github.com/parcel-bundler/lightningcss" title="https://github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>
+<outline text="https://github.com/gioboa/vite-module-federation" title="https://github.com/gioboa/vite-module-federation" type="rss" xmlUrl="https://github.com/gioboa/vite-module-federation/releases.atom"/>
+<outline text="https://almanac.httparchive.org" title="https://almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
+<outline text="https://www.docswell.com" title="https://www.docswell.com" type="rss" xmlUrl="https://www.docswell.com/feed/latest"/>
+<outline text="https://github.com/mozilla/pdf.js" title="https://github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>
+<outline text="https://sqlite.org" title="https://sqlite.org" type="rss" xmlUrl="https://sqlite.org/wasm/timeline.rss"/>
+<outline text="https://github.com/dudykr/stc" title="https://github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
+<outline text="https://dev.to/srmagura/" title="https://dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
+<outline text="https://medium.com/airbnb-engineering/" title="https://medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
+<outline text="https://zenn.dev/yukiyada/" title="https://zenn.dev/yukiyada/" type="rss" xmlUrl="https://zenn.dev/yukiyada/feed"/>
+<outline text="https://github.com/vuetifyjs/vuetify" title="https://github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
+<outline text="https://zenn.dev/panda_program/" title="https://zenn.dev/panda_program/" type="rss" xmlUrl="https://zenn.dev/panda_program/feed"/>
+<outline text="https://github.com/hapijs/hapi" title="https://github.com/hapijs/hapi" type="rss" xmlUrl="https://github.com/hapijs/hapi/releases.atom"/>
+<outline text="https://github.com/cypress-io/cypress" title="https://github.com/cypress-io/cypress" type="rss" xmlUrl="https://github.com/cypress-io/cypress/releases.atom"/>
+<outline text="https://link-and-motivation.hatenablog.com" title="https://link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
+<outline text="https://blog.maximeheckel.com" title="https://blog.maximeheckel.com" type="rss" xmlUrl="https://blog.maximeheckel.com/rss.xml"/>
+<outline text="https://blog.mozilla.org" title="https://blog.mozilla.org" type="rss" xmlUrl="https://blog.mozilla.org/en/feed/"/>
+<outline text="https://github.com/hadmean/hadmean" title="https://github.com/hadmean/hadmean" type="rss" xmlUrl="https://github.com/hadmean/hadmean/releases.atom"/>
+<outline text="https://www.simoahava.com" title="https://www.simoahava.com" type="rss" xmlUrl="https://www.simoahava.com/index.xml"/>
+<outline text="https://github.com/1Password/typeshare" title="https://github.com/1Password/typeshare" type="rss" xmlUrl="https://github.com/1Password/typeshare/releases.atom"/>
+<outline text="https://github.com/es-meta/esmeta" title="https://github.com/es-meta/esmeta" type="rss" xmlUrl="https://github.com/es-meta/esmeta/releases.atom"/>
+<outline text="https://zenn.dev/0kate/" title="https://zenn.dev/0kate/" type="rss" xmlUrl="https://zenn.dev/0kate/feed"/>
+<outline text="https://trpc.io" title="https://trpc.io" type="rss" xmlUrl="https://trpc.io/blog/rss.xml"/>
+<outline text="https://jrsinclair.com" title="https://jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
+<outline text="https://github.com/shuding/nextra" title="https://github.com/shuding/nextra" type="rss" xmlUrl="https://github.com/shuding/nextra/releases.atom"/>
+<outline text="https://github.com/primus/eventemitter3" title="https://github.com/primus/eventemitter3" type="rss" xmlUrl="https://github.com/primus/eventemitter3/releases.atom"/>
+<outline text="https://www.debugbear.com" title="https://www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
+<outline text="https://escape.tech" title="https://escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
+<outline text="https://tkdodo.eu" title="https://tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
+<outline text="https://marvinh.dev" title="https://marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
+<outline text="https://github.com/elysiajs/elysia" title="https://github.com/elysiajs/elysia" type="rss" xmlUrl="https://github.com/elysiajs/elysia/releases.atom"/>
+<outline text="https://github.com/socketsupply/socket" title="https://github.com/socketsupply/socket" type="rss" xmlUrl="https://github.com/socketsupply/socket/releases.atom"/>
+<outline text="https://github.com/DanielXMoore/Civet" title="https://github.com/DanielXMoore/Civet" type="rss" xmlUrl="https://github.com/DanielXMoore/Civet/releases.atom"/>
+<outline text="https://github.com/zenorocha/react-email" title="https://github.com/zenorocha/react-email" type="rss" xmlUrl="https://github.com/zenorocha/react-email/releases.atom"/>
+<outline text="https://github.com/rafasofizada/pechkin" title="https://github.com/rafasofizada/pechkin" type="rss" xmlUrl="https://github.com/rafasofizada/pechkin/releases.atom"/>
+<outline text="https://devtoolstips.org" title="https://devtoolstips.org" type="rss" xmlUrl="https://devtoolstips.org/feed.xml"/>
+<outline text="https://github.com/bluwy/publint" title="https://github.com/bluwy/publint" type="rss" xmlUrl="https://github.com/bluwy/publint/releases.atom"/>
+<outline text="https://github.com/ericclemmons/click-to-component" title="https://github.com/ericclemmons/click-to-component" type="rss" xmlUrl="https://github.com/ericclemmons/click-to-component/releases.atom"/>
+<outline text="https://github.com/PuruVJ/neodrag" title="https://github.com/PuruVJ/neodrag" type="rss" xmlUrl="https://github.com/PuruVJ/neodrag/releases.atom"/>
+<outline text="https://zenn.dev/yhatt/" title="https://zenn.dev/yhatt/" type="rss" xmlUrl="https://zenn.dev/yhatt/feed"/>
+<outline text="https://zenn.dev/yend724/" title="https://zenn.dev/yend724/" type="rss" xmlUrl="https://zenn.dev/yend724/feed"/>
+<outline text="https://github.com/advisories/GHSA-9c47-m6qq-7p4h" title="https://github.com/advisories/GHSA-9c47-m6qq-7p4h" type="rss" xmlUrl="https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"/>
+<outline text="https://obyford.com" title="https://obyford.com" type="rss" xmlUrl="https://obyford.com/feed/feed.xml"/>
+<outline text="https://accessibility.blog.gov.uk" title="https://accessibility.blog.gov.uk" type="rss" xmlUrl="https://accessibility.blog.gov.uk/feed/"/>
+<outline text="https://github.com/Dunks1980/bay.js" title="https://github.com/Dunks1980/bay.js" type="rss" xmlUrl="https://github.com/Dunks1980/bay.js/releases.atom"/>
+<outline text="https://yosuke-furukawa.hatenablog.com" title="https://yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
+<outline text="https://github.com/isaacs/rimraf" title="https://github.com/isaacs/rimraf" type="rss" xmlUrl="https://github.com/isaacs/rimraf/releases.atom"/>
+<outline text="https://github.com/tsmodule/tsmodule" title="https://github.com/tsmodule/tsmodule" type="rss" xmlUrl="https://github.com/tsmodule/tsmodule/releases.atom"/>
+<outline text="https://github.com/GiuseppeRaso/structura.js" title="https://github.com/GiuseppeRaso/structura.js" type="rss" xmlUrl="https://github.com/GiuseppeRaso/structura.js/releases.atom"/>
+<outline text="https://github.com/LyraSearch/lyra" title="https://github.com/LyraSearch/lyra" type="rss" xmlUrl="https://github.com/LyraSearch/lyra/releases.atom"/>
+<outline text="https://github.com/azu/eslint-cjs-to-esm" title="https://github.com/azu/eslint-cjs-to-esm" type="rss" xmlUrl="https://github.com/azu/eslint-cjs-to-esm/releases.atom"/>
+<outline text="https://github.com/shuding/react-wrap-balancer" title="https://github.com/shuding/react-wrap-balancer" type="rss" xmlUrl="https://github.com/shuding/react-wrap-balancer/releases.atom"/>
+<outline text="https://github.com/azu/tsconfig-to-dual-package" title="https://github.com/azu/tsconfig-to-dual-package" type="rss" xmlUrl="https://github.com/azu/tsconfig-to-dual-package/releases.atom"/>
+<outline text="https://zenn.dev/mkt/" title="https://zenn.dev/mkt/" type="rss" xmlUrl="https://zenn.dev/mkt/feed"/>
+<outline text="https://csswizardry.com" title="https://csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
+<outline text="https://blog.bitsrc.io" title="https://blog.bitsrc.io" type="rss" xmlUrl="https://blog.bitsrc.io/feed"/>
+<outline text="https://kentcdodds.com" title="https://kentcdodds.com" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>
+<outline text="https://github.com/Brooooooklyn/canvas" title="https://github.com/Brooooooklyn/canvas" type="rss" xmlUrl="https://github.com/Brooooooklyn/canvas/releases.atom"/>
+<outline text="https://github.com/amandaghassaei/gpu-io" title="https://github.com/amandaghassaei/gpu-io" type="rss" xmlUrl="https://github.com/amandaghassaei/gpu-io/releases.atom"/>
+<outline text="https://github.com/deca-org/deca-ui" title="https://github.com/deca-org/deca-ui" type="rss" xmlUrl="https://github.com/deca-org/deca-ui/releases.atom"/>
+<outline text="https://www.11ty.dev" title="https://www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/blog/feed.xml"/>
+<outline text="https://github.com/cyclic-software/s3fs" title="https://github.com/cyclic-software/s3fs" type="rss" xmlUrl="https://github.com/cyclic-software/s3fs/releases.atom"/>
+<outline text="https://github.com/mswjs/msw" title="https://github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
+<outline text="https://00f.net" title="https://00f.net" type="rss" xmlUrl="https://00f.net/rss.xml"/>
+<outline text="https://github.com/jakebailey/hereby" title="https://github.com/jakebailey/hereby" type="rss" xmlUrl="https://github.com/jakebailey/hereby/releases.atom"/>
+<outline text="https://github.com/reactjs/reactjs.org" title="https://github.com/reactjs/reactjs.org" type="rss" xmlUrl="https://github.com/reactjs/reactjs.org/releases.atom"/>
+<outline text="https://zenn.dev/terrierscript/" title="https://zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
+<outline text="https://github.com/pmndrs/jotai" title="https://github.com/pmndrs/jotai" type="rss" xmlUrl="https://github.com/pmndrs/jotai/releases.atom"/>
+<outline text="https://github.com/CodeIntelligenceTesting/jazzer.js" title="https://github.com/CodeIntelligenceTesting/jazzer.js" type="rss" xmlUrl="https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"/>
+<outline text="https://github.com/tanekloc/tmsg" title="https://github.com/tanekloc/tmsg" type="rss" xmlUrl="https://github.com/tanekloc/tmsg/releases.atom"/>
+<outline text="https://www.codeflashbacks.com" title="https://www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
+<outline text="https://github.com/upgradejs/depngn" title="https://github.com/upgradejs/depngn" type="rss" xmlUrl="https://github.com/upgradejs/depngn/releases.atom"/>
+<outline text="https://github.com/jquense/yup" title="https://github.com/jquense/yup" type="rss" xmlUrl="https://github.com/jquense/yup/releases.atom"/>
+<outline text="https://github.com/cure53/DOMPurify" title="https://github.com/cure53/DOMPurify" type="rss" xmlUrl="https://github.com/cure53/DOMPurify/releases.atom"/>
+<outline text="https://the-guild.dev" title="https://the-guild.dev" type="rss" xmlUrl="https://the-guild.dev/feed.xml"/>
+<outline text="https://www.zachleat.com" title="https://www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
+<outline text="https://github.com/slashd-analytics/run" title="https://github.com/slashd-analytics/run" type="rss" xmlUrl="https://github.com/slashd-analytics/run/releases.atom"/>
+<outline text="https://github.com/codesandbox/nodebox-runtime" title="https://github.com/codesandbox/nodebox-runtime" type="rss" xmlUrl="https://github.com/codesandbox/nodebox-runtime/releases.atom"/>
+<outline text="https://github.com/chaijs/chai" title="https://github.com/chaijs/chai" type="rss" xmlUrl="https://github.com/chaijs/chai/releases.atom"/>
+<outline text="https://zenn.dev/yusukehirao/" title="https://zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>
+<outline text="https://github.com/natemoo-re/clack" title="https://github.com/natemoo-re/clack" type="rss" xmlUrl="https://github.com/natemoo-re/clack/releases.atom"/>
+<outline text="https://dev.to/nicklucas/" title="https://dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
+<outline text="https://www.akshaykhot.com" title="https://www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
+<outline text="https://blog.sentry.io" title="https://blog.sentry.io" type="rss" xmlUrl="https://blog.sentry.io/feed.xml"/>
+<outline text="https://dev.to/codux/" title="https://dev.to/codux/" type="rss" xmlUrl="https://dev.to/feed/codux"/>
+<outline text="https://zenn.dev/tnyo43/" title="https://zenn.dev/tnyo43/" type="rss" xmlUrl="https://zenn.dev/tnyo43/feed"/>
+<outline text="https://github.com/open-draft/event-contract" title="https://github.com/open-draft/event-contract" type="rss" xmlUrl="https://github.com/open-draft/event-contract/releases.atom"/>
+<outline text="https://github.com/antonmedv/finder" title="https://github.com/antonmedv/finder" type="rss" xmlUrl="https://github.com/antonmedv/finder/releases.atom"/>
+<outline text="https://github.com/total-typescript/ts-reset" title="https://github.com/total-typescript/ts-reset" type="rss" xmlUrl="https://github.com/total-typescript/ts-reset/releases.atom"/>
+<outline text="https://github.com/lagonapp/lagon" title="https://github.com/lagonapp/lagon" type="rss" xmlUrl="https://github.com/lagonapp/lagon/releases.atom"/>
+<outline text="https://socket.dev" title="https://socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
+<outline text="https://github.com/gajus/turbowatch" title="https://github.com/gajus/turbowatch" type="rss" xmlUrl="https://github.com/gajus/turbowatch/releases.atom"/>
+<outline text="https://bufferings.hatenablog.com" title="https://bufferings.hatenablog.com" type="rss" xmlUrl="https://bufferings.hatenablog.com/feed"/>
+<outline text="https://github.com/styled-components/xstyled" title="https://github.com/styled-components/xstyled" type="rss" xmlUrl="https://github.com/styled-components/xstyled/releases.atom"/>
+<outline text="https://github.com/anymaniax/orval" title="https://github.com/anymaniax/orval" type="rss" xmlUrl="https://github.com/anymaniax/orval/releases.atom"/>
+<outline text="https://github.com/gvergnaud/hotscript" title="https://github.com/gvergnaud/hotscript" type="rss" xmlUrl="https://github.com/gvergnaud/hotscript/releases.atom"/>
+<outline text="https://github.com/mamiksik/parrot-intellij" title="https://github.com/mamiksik/parrot-intellij" type="rss" xmlUrl="https://github.com/mamiksik/parrot-intellij/releases.atom"/>
+<outline text="https://github.com/sinclairnick/brail" title="https://github.com/sinclairnick/brail" type="rss" xmlUrl="https://github.com/sinclairnick/brail/releases.atom"/>
+<outline text="https://github.com/mayank99/ecsstatic" title="https://github.com/mayank99/ecsstatic" type="rss" xmlUrl="https://github.com/mayank99/ecsstatic/releases.atom"/>
+<outline text="https://github.com/lxsmnsyc/seroval" title="https://github.com/lxsmnsyc/seroval" type="rss" xmlUrl="https://github.com/lxsmnsyc/seroval/releases.atom"/>
+<outline text="https://tech.high-link.co.jp" title="https://tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
+<outline text="https://github.com/wantedly/react-declassify" title="https://github.com/wantedly/react-declassify" type="rss" xmlUrl="https://github.com/wantedly/react-declassify/releases.atom"/>
+<outline text="https://github.com/unjs/magicast" title="https://github.com/unjs/magicast" type="rss" xmlUrl="https://github.com/unjs/magicast/releases.atom"/>
+<outline text="https://blog.s2n.tech" title="https://blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
+<outline text="https://github.com/sveltejs/kit" title="https://github.com/sveltejs/kit" type="rss" xmlUrl="https://github.com/sveltejs/kit/releases.atom"/>
+<outline text="https://www.nodejs-security.com" title="https://www.nodejs-security.com" type="rss" xmlUrl="https://www.nodejs-security.com/rss.xml"/>
+<outline text="https://github.com/hexagon/croner" title="https://github.com/hexagon/croner" type="rss" xmlUrl="https://github.com/hexagon/croner/releases.atom"/>
+<outline text="https://github.com/uhyo/nitrogql" title="https://github.com/uhyo/nitrogql" type="rss" xmlUrl="https://github.com/uhyo/nitrogql/releases.atom"/>
+<outline text="https://github.com/liriliri/eruda" title="https://github.com/liriliri/eruda" type="rss" xmlUrl="https://github.com/liriliri/eruda/releases.atom"/>
+<outline text="https://github.com/divriots/jampack" title="https://github.com/divriots/jampack" type="rss" xmlUrl="https://github.com/divriots/jampack/releases.atom"/>
+<outline text="https://github.com/open-draft/logger" title="https://github.com/open-draft/logger" type="rss" xmlUrl="https://github.com/open-draft/logger/releases.atom"/>
+<outline text="https://www.netlify.com" title="https://www.netlify.com" type="rss" xmlUrl="https://www.netlify.com/community-feed.xml/"/>
+<outline text="https://htmx.org" title="https://htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
+<outline text="https://github.com/immerjs/immer" title="https://github.com/immerjs/immer" type="rss" xmlUrl="https://github.com/immerjs/immer/releases.atom"/>
+<outline text="https://github.com/yoavbls/pretty-ts-errors" title="https://github.com/yoavbls/pretty-ts-errors" type="rss" xmlUrl="https://github.com/yoavbls/pretty-ts-errors/releases.atom"/>
+<outline text="https://timkadlec.com" title="https://timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/atom.xml"/>
+<outline text="https://glebbahmutov.com" title="https://glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
+<outline text="https://github.com/HeyPuter/kv.js" title="https://github.com/HeyPuter/kv.js" type="rss" xmlUrl="https://github.com/HeyPuter/kv.js/releases.atom"/>
+<outline text="https://pawelgrzybek.com" title="https://pawelgrzybek.com" type="rss" xmlUrl="https://pawelgrzybek.com/feed.xml"/>
+<outline text="https://bhch.github.io" title="https://bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
+<outline text="https://speakerdeck.com/nichimu/" title="https://speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
+<outline text="https://speakerdeck.com/sadnessojisan/" title="https://speakerdeck.com/sadnessojisan/" type="rss" xmlUrl="https://speakerdeck.com/sadnessojisan.atom"/>
+<outline text="https://github.com/karma-runner/karma" title="https://github.com/karma-runner/karma" type="rss" xmlUrl="https://github.com/karma-runner/karma/releases.atom"/>
+<outline text="https://github.com/SBoudrias/Inquirer.js" title="https://github.com/SBoudrias/Inquirer.js" type="rss" xmlUrl="https://github.com/SBoudrias/Inquirer.js/releases.atom"/>
+<outline text="https://github.com/natemoo-re/ultramatter" title="https://github.com/natemoo-re/ultramatter" type="rss" xmlUrl="https://github.com/natemoo-re/ultramatter/releases.atom"/>
+<outline text="https://github.com/vadimdemedes/ink-ui" title="https://github.com/vadimdemedes/ink-ui" type="rss" xmlUrl="https://github.com/vadimdemedes/ink-ui/releases.atom"/>
+<outline text="https://www.inngest.com" title="https://www.inngest.com" type="rss" xmlUrl="https://www.inngest.com/api/rss.xml"/>
+<outline text="https://www.jantrid.net" title="https://www.jantrid.net" type="rss" xmlUrl="https://www.jantrid.net/feeds/posts/default/index.xml"/>
+<outline text="https://medium.com/dartlang/" title="https://medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>
+<outline text="https://github.com/microsoft/deoptexplorer-vscode" title="https://github.com/microsoft/deoptexplorer-vscode" type="rss" xmlUrl="https://github.com/microsoft/deoptexplorer-vscode/releases.atom"/>
+<outline text="https://github.com/microsoft/TypeScript" title="https://github.com/microsoft/TypeScript" type="rss" xmlUrl="https://github.com/microsoft/TypeScript/releases.atom"/>
+<outline text="https://github.com/microsoft/devicescript" title="https://github.com/microsoft/devicescript" type="rss" xmlUrl="https://github.com/microsoft/devicescript/releases.atom"/>
+<outline text="https://github.com/webpro/knip" title="https://github.com/webpro/knip" type="rss" xmlUrl="https://github.com/webpro/knip/releases.atom"/>
+<outline text="https://blog.hog.as" title="https://blog.hog.as" type="rss" xmlUrl="https://blog.hog.as/feed"/>
+<outline text="https://github.com/mizchi/lizod" title="https://github.com/mizchi/lizod" type="rss" xmlUrl="https://github.com/mizchi/lizod/releases.atom"/>
+<outline text="https://github.com/stepci/garph" title="https://github.com/stepci/garph" type="rss" xmlUrl="https://github.com/stepci/garph/releases.atom"/>
+<outline text="https://github.com/sveltejs/svelte" title="https://github.com/sveltejs/svelte" type="rss" xmlUrl="https://github.com/sveltejs/svelte/releases.atom"/>
+<outline text="https://www.nray.dev" title="https://www.nray.dev" type="rss" xmlUrl="https://www.nray.dev/rss.xml"/>
+<outline text="https://blog.rafaelgss.dev" title="https://blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
+<outline text="https://marmooo.blogspot.com" title="https://marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
+<outline text="https://github.com/tresjs/tres" title="https://github.com/tresjs/tres" type="rss" xmlUrl="https://github.com/tresjs/tres/releases.atom"/>
+<outline text="https://github.com/reactwg/server-components" title="https://github.com/reactwg/server-components" type="rss" xmlUrl="https://github.com/reactwg/server-components/releases.atom"/>
+<outline text="https://chriscoyier.net" title="https://chriscoyier.net" type="rss" xmlUrl="https://chriscoyier.net/feed/"/>
+<outline text="https://github.com/evanw/polywasm" title="https://github.com/evanw/polywasm" type="rss" xmlUrl="https://github.com/evanw/polywasm/releases.atom"/>
+<outline text="https://turbo.build" title="https://turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
+<outline text="https://github.com/nestjs/nest" title="https://github.com/nestjs/nest" type="rss" xmlUrl="https://github.com/nestjs/nest/releases.atom"/>
+<outline text="https://www.fermyon.com" title="https://www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
+<outline text="https://moderncss.dev" title="https://moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
+<outline text="https://github.com/gvergnaud/ts-pattern" title="https://github.com/gvergnaud/ts-pattern" type="rss" xmlUrl="https://github.com/gvergnaud/ts-pattern/releases.atom"/>
+<outline text="https://kizu.dev" title="https://kizu.dev" type="rss" xmlUrl="https://feeds.feedburner.com/kizuruen"/>
+<outline text="https://github.com/lquixada/cross-fetch" title="https://github.com/lquixada/cross-fetch" type="rss" xmlUrl="https://github.com/lquixada/cross-fetch/releases.atom"/>
+<outline text="https://www.feelback.dev" title="https://www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
+<outline text="https://github.com/giuseppelt/httpc" title="https://github.com/giuseppelt/httpc" type="rss" xmlUrl="https://github.com/giuseppelt/httpc/releases.atom"/>
+<outline text="https://github.com/gibbok/typescript-book" title="https://github.com/gibbok/typescript-book" type="rss" xmlUrl="https://github.com/gibbok/typescript-book/releases.atom"/>
+<outline text="https://typescript-eslint.io" title="https://typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>
+<outline text="https://kurtextrem.de" title="https://kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
+<outline text="https://boajs.dev" title="https://boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
+<outline text="https://katashin.info" title="https://katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>
+<outline text="https://github.com/mdx-editor/editor" title="https://github.com/mdx-editor/editor" type="rss" xmlUrl="https://github.com/mdx-editor/editor/releases.atom"/>
+<outline text="https://github.com/patriksimek/vm2" title="https://github.com/patriksimek/vm2" type="rss" xmlUrl="https://github.com/patriksimek/vm2/releases.atom"/>
+<outline text="https://davidwalsh.name" title="https://davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
+<outline text="https://github.com/kamranahmedse/driver.js" title="https://github.com/kamranahmedse/driver.js" type="rss" xmlUrl="https://github.com/kamranahmedse/driver.js/releases.atom"/>
+<outline text="https://github.com/coderaiser/putout" title="https://github.com/coderaiser/putout" type="rss" xmlUrl="https://github.com/coderaiser/putout/releases.atom"/>
+<outline text="https://github.com/fabian-hiller/valibot" title="https://github.com/fabian-hiller/valibot" type="rss" xmlUrl="https://github.com/fabian-hiller/valibot/releases.atom"/>
+<outline text="https://zenn.dev/wakamsha/" title="https://zenn.dev/wakamsha/" type="rss" xmlUrl="https://zenn.dev/wakamsha/feed"/>
+<outline text="https://tech.repro.io" title="https://tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
+<outline text="https://techblog.yahoo.co.jp" title="https://techblog.yahoo.co.jp" type="rss" xmlUrl="https://techblog.yahoo.co.jp/atom.xml"/>
+<outline text="https://remotesynthesis.com" title="https://remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
+<outline text="https://dagster.io" title="https://dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
+<outline text="https://www.mux.com" title="https://www.mux.com" type="rss" xmlUrl="https://www.mux.com/blog/rss.xml"/>
+<outline text="https://github.com/KittyGiraudel/a11y-dialog" title="https://github.com/KittyGiraudel/a11y-dialog" type="rss" xmlUrl="https://github.com/KittyGiraudel/a11y-dialog/releases.atom"/>
+<outline text="https://practica.dev" title="https://practica.dev" type="rss" xmlUrl="https://practica.dev/blog/rss.xml"/>
+<outline text="https://speakerdeck.com/kazupon/" title="https://speakerdeck.com/kazupon/" type="rss" xmlUrl="https://speakerdeck.com/kazupon.atom"/>
+<outline text="https://blog.appsignal.com" title="https://blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
+<outline text="https://gist.github.com" title="https://gist.github.com" type="rss" xmlUrl="https://gist.github.com/starred.atom"/>
+<outline text="https://security.googleblog.com" title="https://security.googleblog.com" type="rss" xmlUrl="https://security.googleblog.com/feeds/posts/default"/>
+<outline text="https://github.com/vega/ts-json-schema-generator" title="https://github.com/vega/ts-json-schema-generator" type="rss" xmlUrl="https://github.com/vega/ts-json-schema-generator/releases.atom"/>
+<outline text="https://speakerdeck.com/recruitengineers/" title="https://speakerdeck.com/recruitengineers/" type="rss" xmlUrl="https://speakerdeck.com/recruitengineers.atom"/>
+<outline text="https://github.com/vercel/next.js" title="https://github.com/vercel/next.js" type="rss" xmlUrl="https://github.com/vercel/next.js/releases.atom"/>
+<outline text="https://github.com/alvarlagerlof/rsc-parser" title="https://github.com/alvarlagerlof/rsc-parser" type="rss" xmlUrl="https://github.com/alvarlagerlof/rsc-parser/releases.atom"/>
+<outline text="https://alttexthalloffame.org" title="https://alttexthalloffame.org" type="rss" xmlUrl="https://alttexthalloffame.org/en/feed/"/>
+<outline text="https://frontendmasters.com" title="https://frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
+<outline text="https://github.com/parcel-bundler/watcher" title="https://github.com/parcel-bundler/watcher" type="rss" xmlUrl="https://github.com/parcel-bundler/watcher/releases.atom"/>
+<outline text="https://github.com/nodejs/corepack" title="https://github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
+<outline text="https://github.com/withastro/astro" title="https://github.com/withastro/astro" type="rss" xmlUrl="https://github.com/withastro/astro/releases.atom"/>
+<outline text="https://github.com/aerotoad/neboa" title="https://github.com/aerotoad/neboa" type="rss" xmlUrl="https://github.com/aerotoad/neboa/releases.atom"/>
+<outline text="https://maximorlov.com" title="https://maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
+<outline text="https://github.com/web-infra-dev/wg" title="https://github.com/web-infra-dev/wg" type="rss" xmlUrl="https://github.com/web-infra-dev/wg/releases.atom"/>
+<outline text="https://github.com/actions/checkout" title="https://github.com/actions/checkout" type="rss" xmlUrl="https://github.com/actions/checkout/releases.atom"/>
+<outline text="https://github.com/measuredco/puck" title="https://github.com/measuredco/puck" type="rss" xmlUrl="https://github.com/measuredco/puck/releases.atom"/>
+<outline text="https://github.com/nebrelbug/npm-to-yarn" title="https://github.com/nebrelbug/npm-to-yarn" type="rss" xmlUrl="https://github.com/nebrelbug/npm-to-yarn/releases.atom"/>
+<outline text="https://github.com/nodejs/Release" title="https://github.com/nodejs/Release" type="rss" xmlUrl="https://github.com/nodejs/Release/releases.atom"/>
+<outline text="https://github.com/isaacs/tshy" title="https://github.com/isaacs/tshy" type="rss" xmlUrl="https://github.com/isaacs/tshy/releases.atom"/>
+<outline text="https://github.com/nuejs/nuejs" title="https://github.com/nuejs/nuejs" type="rss" xmlUrl="https://github.com/nuejs/nuejs/releases.atom"/>
+<outline text="https://abduvik.medium.com" title="https://abduvik.medium.com" type="rss" xmlUrl="https://medium.com/feed/@abduvik"/>
+<outline text="https://github.com/eslint-stylistic/eslint-stylistic" title="https://github.com/eslint-stylistic/eslint-stylistic" type="rss" xmlUrl="https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"/>
+<outline text="https://ladle.dev" title="https://ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
+<outline text="https://github.com/kurtextrem/awesome-performance-patches" title="https://github.com/kurtextrem/awesome-performance-patches" type="rss" xmlUrl="https://github.com/kurtextrem/awesome-performance-patches/releases.atom"/>
+<outline text="https://www.sbcr.jp" title="https://www.sbcr.jp" type="rss" xmlUrl="https://www.sbcr.jp/product/4815619480/feed/"/>
+<outline text="https://zenn.dev/taisei_13046/" title="https://zenn.dev/taisei_13046/" type="rss" xmlUrl="https://zenn.dev/taisei_13046/feed"/>
+<outline text="https://github.com/runk/node-chardet" title="https://github.com/runk/node-chardet" type="rss" xmlUrl="https://github.com/runk/node-chardet/releases.atom"/>
+<outline text="https://github.com/instant-dev/instant" title="https://github.com/instant-dev/instant" type="rss" xmlUrl="https://github.com/instant-dev/instant/releases.atom"/>
+<outline text="https://github.com/aidenybai/pattycake" title="https://github.com/aidenybai/pattycake" type="rss" xmlUrl="https://github.com/aidenybai/pattycake/releases.atom"/>
+<outline text="https://github.com/tldraw/tldraw" title="https://github.com/tldraw/tldraw" type="rss" xmlUrl="https://github.com/tldraw/tldraw/releases.atom"/>
+<outline text="https://prateeksurana.me" title="https://prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
+<outline text="https://github.com/nksaraf/vinxi" title="https://github.com/nksaraf/vinxi" type="rss" xmlUrl="https://github.com/nksaraf/vinxi/releases.atom"/>
+<outline text="https://github.com/arktypeio/arktype" title="https://github.com/arktypeio/arktype" type="rss" xmlUrl="https://github.com/arktypeio/arktype/releases.atom"/>
+<outline text="https://www.sonarsource.com" title="https://www.sonarsource.com" type="rss" xmlUrl="https://www.sonarsource.com/rss.xml"/>
+<outline text="https://www.softwareatscale.dev" title="https://www.softwareatscale.dev" type="rss" xmlUrl="https://www.softwareatscale.dev/feed"/>
+<outline text="https://github.com/react-hookz/web" title="https://github.com/react-hookz/web" type="rss" xmlUrl="https://github.com/react-hookz/web/releases.atom"/>
+<outline text="https://github.com/elbywan/zap" title="https://github.com/elbywan/zap" type="rss" xmlUrl="https://github.com/elbywan/zap/releases.atom"/>
+<outline text="https://zackoverflow.dev" title="https://zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
+<outline text="https://github.com/orgs/web-infra-dev" title="https://github.com/orgs/web-infra-dev" type="rss" xmlUrl="https://github.com/orgs/web-infra-dev/releases.atom"/>
+<outline text="https://blog.scottlogic.com" title="https://blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
+<outline text="https://github.com/AlexSergey/rockpack" title="https://github.com/AlexSergey/rockpack" type="rss" xmlUrl="https://github.com/AlexSergey/rockpack/releases.atom"/>
+<outline text="https://yarnpkg.com" title="https://yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
+<outline text="https://sindresorhus.com" title="https://sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
+<outline text="https://zenn.dev/nakaakist/" title="https://zenn.dev/nakaakist/" type="rss" xmlUrl="https://zenn.dev/nakaakist/feed"/>
+<outline text="https://github.com/joshmarinacci/node-pureimage" title="https://github.com/joshmarinacci/node-pureimage" type="rss" xmlUrl="https://github.com/joshmarinacci/node-pureimage/releases.atom"/>
+<outline text="https://zenn.dev/punkshiraishi/" title="https://zenn.dev/punkshiraishi/" type="rss" xmlUrl="https://zenn.dev/punkshiraishi/feed"/>
+<outline text="https://github.com/facebook/docusaurus" title="https://github.com/facebook/docusaurus" type="rss" xmlUrl="https://github.com/facebook/docusaurus/releases.atom"/>
+<outline text="https://github.com/farm-fe/farm" title="https://github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
+<outline text="https://github.com/oxc-project/javascript-parser-in-rust" title="https://github.com/oxc-project/javascript-parser-in-rust" type="rss" xmlUrl="https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"/>
+<outline text="https://medium.com/miro-engineering/" title="https://medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
+<outline text="https://rviscomi.dev" title="https://rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
+<outline text="https://github.com/vvo/iron-session" title="https://github.com/vvo/iron-session" type="rss" xmlUrl="https://github.com/vvo/iron-session/releases.atom"/>
+<outline text="https://speakerdeck.com/sajikix/" title="https://speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
+<outline text="https://github.com/css-hooks/css-hooks" title="https://github.com/css-hooks/css-hooks" type="rss" xmlUrl="https://github.com/css-hooks/css-hooks/releases.atom"/>
+<outline text="https://github.com/cosmiconfig/cosmiconfig" title="https://github.com/cosmiconfig/cosmiconfig" type="rss" xmlUrl="https://github.com/cosmiconfig/cosmiconfig/releases.atom"/>
+<outline text="https://github.com/architect/aws-lite" title="https://github.com/architect/aws-lite" type="rss" xmlUrl="https://github.com/architect/aws-lite/releases.atom"/>
+<outline text="https://github.com/unjs/unenv" title="https://github.com/unjs/unenv" type="rss" xmlUrl="https://github.com/unjs/unenv/releases.atom"/>
+<outline text="https://github.com/facebook/stylex" title="https://github.com/facebook/stylex" type="rss" xmlUrl="https://github.com/facebook/stylex/releases.atom"/>
+<outline text="https://scrapbox.io" title="https://scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>
+<outline text="https://github.com/sindresorhus/got" title="https://github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
+<outline text="https://zenn.dev/zawa_kyo/" title="https://zenn.dev/zawa_kyo/" type="rss" xmlUrl="https://zenn.dev/zawa_kyo/feed"/>
+<outline text="https://github.com/BuilderIO/hydration-overlay" title="https://github.com/BuilderIO/hydration-overlay" type="rss" xmlUrl="https://github.com/BuilderIO/hydration-overlay/releases.atom"/>
+<outline text="https://zenn.dev/urotea/" title="https://zenn.dev/urotea/" type="rss" xmlUrl="https://zenn.dev/urotea/feed"/>
+<outline text="https://user-first.ikyu.co.jp" title="https://user-first.ikyu.co.jp" type="rss" xmlUrl="https://user-first.ikyu.co.jp/feed"/>
+<outline text="https://developers.prtimes.jp" title="https://developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
+<outline text="https://github.com/date-fns/date-fns" title="https://github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
+<outline text="https://nsaunders.dev" title="https://nsaunders.dev" type="rss" xmlUrl="https://nsaunders.dev/rss.xml"/>
+<outline text="https://github.com/webui-dev/webui" title="https://github.com/webui-dev/webui" type="rss" xmlUrl="https://github.com/webui-dev/webui/releases.atom"/>
+<outline text="https://www.htmhell.dev" title="https://www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
+<outline text="https://github.com/moment/moment" title="https://github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
+<outline text="https://blog.osstech.co.jp" title="https://blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
+<outline text="https://github.com/speed-highlight/core" title="https://github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
+<outline text="https://quick-lint-js.com" title="https://quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
+<outline text="https://zenn.dev/uki00a/" title="https://zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
+<outline text="https://zenn.dev/yamachan0625/" title="https://zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
 </body>
 </opml>
