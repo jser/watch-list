@@ -30,9 +30,12 @@
     "module"
   ],
   "scripts": {
-    "website": "npm run gen:watch-list && npm run build",
+    "website": "npm run build",
     "gen:watch-list": "ts-node src/watch-list.ts",
-    "build": "webpack --mode production",
+    "gen:rss-list": "ts-node src/rss-list.ts",
+    "gen:web-list": "ts-node src/web-list.ts",
+    "update-data": "npm run gen:watch-list && npm run gen:rss-list && npm run gen:web-list",
+    "build": "webpack --mode production && cp -r data/ dist/data/",
     "dev": "npm run gen:watch-list && webpack serve --mode development",
     "clean": "rimraf lib/ module/",
     "prepare": "git config --local core.hooksPath .githook",
@@ -55,7 +58,7 @@
   "devDependencies": {
     "@types/lodash.groupby": "^4.6.7",
     "@types/mocha": "^10.0.1",
-    "@types/node": "^18.11.18",
+    "@types/node": "^20.11.0",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "html-webpack-plugin": "^5.5.0",
@@ -79,6 +82,7 @@
     "@jser/stat": "^1.2.1",
     "dayjs": "^1.11.7",
     "lodash.groupby": "^4.6.0",
+    "playwright": "^1.40.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }

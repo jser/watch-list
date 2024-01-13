@@ -4,11 +4,23 @@ import dayjs from "dayjs";
 import groupBy from "lodash.groupby";
 import * as fs from "fs";
 import path from "path";
+
+export type WatchItem = {
+    count: number;
+    domain: string;
+    tags: string[];
+    example: {
+        title: string;
+        url: string;
+    };
+    rssUrl?: string;
+};
 // Match →　title and url
 type RuleItem<T extends RegExpMatchArray = RegExpMatchArray> = {
     match: (item: JserItem) => T | null;
     // title: ({ item, match }: { item: JserItem; match: T }) => string;
     url: ({ item, match }: { item: JserItem; match: T }) => string;
+    rssUrl?: ({ item, match }: { item: JserItem; match: T }) => string;
 };
 const Rules: RuleItem[] = [
     // Zenn
@@ -71,7 +83,9 @@ const Rules: RuleItem[] = [
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/github\.com\/(?<name>[^/]+)\/(?<repo>[^/]+)\/?.*?/);
         },
-        url: ({ match }) => `https://github.com/${match[1]}/${match[2]}`
+        url: ({ match }) => `https://github.com/${match[1]}/${match[2]}`,
+        // e.g. https://github.com/vuejs/core/releases.atom
+        rssUrl: ({ match }) => `https://github.com/${match[1]}/${match[2]}/releases.atom`
     }
 ];
 const ignoreDomains: string[] = [
@@ -89,7 +103,8 @@ export const createInfo = (item: JserItem) => {
         if (matchRule) {
             return {
                 domain: rule.url({ item, match: matchRule }),
-                item
+                item,
+                rssUrl: rule.rssUrl ? rule.rssUrl({ item, match: matchRule }) : undefined
             };
         }
     }
@@ -103,14 +118,14 @@ export const createInfo = (item: JserItem) => {
 
 export const collection = async ({ since }: { since: Date }) => {
     const items = await fetchItems();
-    const filterredItems = items.filter((item) => {
+    const filteredItems = items.filter((item) => {
         if (dayjs(item.date).isBefore(since)) {
             return false;
         }
         return !ignoreDomains.some((domain) => new URL(item.url).origin.includes(domain));
     });
     return groupBy(
-        filterredItems.map((item) => createInfo(item)),
+        filteredItems.map((item) => createInfo(item)),
         (r) => r.domain
     );
 };
@@ -118,15 +133,7 @@ export const collection = async ({ since }: { since: Date }) => {
 if (require.main === module) {
     (async function () {
         const r = await collection({ since: dayjs().subtract(2, "year").toDate() });
-        const results: {
-            count: number;
-            domain: string;
-            tags: string[];
-            example: {
-                title: string;
-                url: string;
-            };
-        }[] = [];
+        const results: WatchItem[] = [];
         Object.entries(r)
             .sort(([, aItems], [, bItems]) => {
                 return bItems.length - aItems.length;
@@ -144,12 +151,13 @@ if (require.main === module) {
                     example: {
                         title: latestItem.item.title,
                         url: latestItem.item.url
-                    }
+                    },
+                    rssUrl: latestItem.rssUrl
                 });
             });
         fs.mkdirSync(path.join(__dirname, "../data/"), {
             recursive: true
         });
-        fs.writeFileSync(path.join(__dirname, "../data/watch-list.json"), JSON.stringify(results), "utf-8");
+        fs.writeFileSync(path.join(__dirname, "../data/watch-list.json"), JSON.stringify(results, null, 2), "utf-8");
     })();
 }
