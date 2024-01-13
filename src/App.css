@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.Item-Count {
+    font-size: 1em;
+}
+
 .Item-Tag {
     border-radius: 12px;
     padding: 4px 8px;
