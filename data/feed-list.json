@@ -1,0 +1,3606 @@
+[
+  {
+    "domain": "https://nodejs.org",
+    "feeds": [
+      "https://nodejs.org/en/feed/blog.xml"
+    ]
+  },
+  {
+    "domain": "https://webkit.org",
+    "feeds": [
+      "https://webkit.org/feed/",
+      "https://webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "domain": "https://deno.com",
+    "feeds": [
+      "https://deno.com/feed"
+    ]
+  },
+  {
+    "domain": "https://bun.sh",
+    "feeds": [
+      "https://bun.sh/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://devblogs.microsoft.com",
+    "feeds": [
+      "https://devblogs.microsoft.com/feed",
+      "https://devblogs.microsoft.com/comments/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/pnpm/pnpm",
+    "feeds": [
+      "https://github.com/pnpm/pnpm/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://astro.build",
+    "feeds": [
+      "https://astro.build/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://eslint.org",
+    "feeds": [
+      "https://eslint.org/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://www.electronjs.org",
+    "feeds": [
+      "https://www.electronjs.org/blog/rss.xml",
+      "https://www.electronjs.org/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://2ality.com",
+    "feeds": [
+      "https://2ality.com/feeds/posts.atom"
+    ]
+  },
+  {
+    "domain": "https://gihyo.jp",
+    "feeds": [
+      "https://gihyo.jp/feed/rss1",
+      "https://gihyo.jp/feed/rss2",
+      "https://gihyo.jp/feed/atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.youtube.com",
+    "feeds": [
+      "https://www.youtube.com/feed/subscriptions",
+      "https://www.youtube.com/feed/you",
+      "https://www.youtube.com/feed/history",
+      "https://www.youtube.com/feed/trending"
+    ]
+  },
+  {
+    "domain": "https://blog.chromium.org",
+    "feeds": [
+      "https://blog.chromium.org/feeds/posts/default",
+      "https://blog.chromium.org/feeds/posts/default?alt=rss",
+      "https://draft.blogger.com/feeds/2471378914199150966/posts/default",
+      "http://blog.chromium.org/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://ecmascript-daily.github.io",
+    "feeds": [
+      "https://ecmascript-daily.github.io/atom.xml",
+      "https://ecmascript-daily.github.io/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://blog.angular.io",
+    "feeds": [
+      "https://blog.angular.io/feed"
+    ]
+  },
+  {
+    "domain": "https://reactnative.dev",
+    "feeds": [
+      "https://reactnative.dev/blog/rss.xml",
+      "https://reactnative.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.emberjs.com",
+    "feeds": [
+      "https://blog.emberjs.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://prettier.io",
+    "feeds": [
+      "https://prettier.io/blog/atom.xml",
+      "https://prettier.io/blog/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://storybook.js.org",
+    "feeds": [
+      "https://storybook.js.org/blog/rss",
+      "https://storybook.js.org/blog/rss-releases",
+      "https://storybook.js.org/blog/rss/"
+    ]
+  },
+  {
+    "domain": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://calendar.perfplanet.com",
+    "feeds": [
+      "https://calendar.perfplanet.com/feed/"
+    ]
+  },
+  {
+    "domain": "https://blog.vuejs.org",
+    "feeds": [
+      "https://blog.vuejs.org/feed.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://babeljs.io",
+    "feeds": [
+      "https://babeljs.io/blog/rss.xml",
+      "https://babeljs.io/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/jest",
+    "feeds": [
+      "https://github.com/facebook/jest/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://vercel.com",
+    "feeds": [
+      "https://vercel.com/atom"
+    ]
+  },
+  {
+    "domain": "https://github.blog",
+    "feeds": [
+      "https://github.blog/feed/",
+      "https://github.blog/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://moonrepo.dev",
+    "feeds": [
+      "https://moonrepo.dev/blog/rss.xml",
+      "https://moonrepo.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://www.builder.io",
+    "feeds": [
+      "https://www.builder.io/blog/feed.xml",
+      "https://www.builder.io/blog/feed.atom"
+    ]
+  },
+  {
+    "domain": "https://www.rspack.dev",
+    "feeds": [
+      "https://www.rspack.dev/rss/blog-en.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://css-tricks.com",
+    "feeds": [
+      "https://css-tricks.com/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/parcel-bundler/parcel",
+    "feeds": [
+      "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://hacks.mozilla.org",
+    "feeds": [
+      "https://hacks.mozilla.org/feed/",
+      "https://hacks.mozilla.org/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://parceljs.org",
+    "feeds": [
+      "https://parceljs.org/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/reduxjs/react-redux",
+    "feeds": [
+      "https://github.com/reduxjs/react-redux/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/vercel/swr",
+    "feeds": [
+      "https://github.com/vercel/swr/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.smashingmagazine.com",
+    "feeds": [
+      "https://www.smashingmagazine.com/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/capricorn86/happy-dom",
+    "feeds": [
+      "https://github.com/capricorn86/happy-dom/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://efcl.info",
+    "feeds": [
+      "https://efcl.info/feed/"
+    ]
+  },
+  {
+    "domain": "https://blog.jquery.com",
+    "feeds": [
+      "https://blog.jquery.com/feed/",
+      "https://blog.jquery.com/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/rollup/rollup",
+    "feeds": [
+      "https://github.com/rollup/rollup/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://nuxt.com",
+    "feeds": [
+      "https://nuxt.com/blog/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://svelte.dev",
+    "feeds": [
+      "https://svelte.dev/blog/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/esm-dev/esm.sh",
+    "feeds": [
+      "https://github.com/esm-dev/esm.sh/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/jestjs/jest",
+    "feeds": [
+      "https://github.com/jestjs/jest/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/google/zx",
+    "feeds": [
+      "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ghiscoding/lerna-lite",
+    "feeds": [
+      "https://github.com/ghiscoding/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/styled-components/styled-components",
+    "feeds": [
+      "https://github.com/styled-components/styled-components/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/remix-run/react-router",
+    "feeds": [
+      "https://github.com/remix-run/react-router/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.joshwcomeau.com",
+    "feeds": [
+      "https://www.joshwcomeau.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/reduxjs/redux",
+    "feeds": [
+      "https://github.com/reduxjs/redux/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.shoeisha.co.jp",
+    "feeds": [
+      "https://www.shoeisha.co.jp/rss/index.xml",
+      "https://www.shoeisha.co.jp/rss/book/index.xml"
+    ]
+  },
+  {
+    "domain": "https://blog.jxck.io",
+    "feeds": [
+      "https://blog.jxck.io/feeds/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/redwoodjs/redwood",
+    "feeds": [
+      "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://dwango.github.io",
+    "feeds": [
+      "https://dwango.github.io/index.xml"
+    ]
+  },
+  {
+    "domain": "https://www.mitsue.co.jp",
+    "feeds": [
+      "https://www.mitsue.co.jp/index.rdf"
+    ]
+  },
+  {
+    "domain": "https://github.com/cloudflare/miniflare",
+    "feeds": [
+      "https://github.com/cloudflare/miniflare/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://bytecodealliance.org",
+    "feeds": [
+      "https://bytecodealliance.org/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://www.totaltypescript.com",
+    "feeds": [
+      "https://www.totaltypescript.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/ije/esm.sh",
+    "feeds": [
+      "https://github.com/ije/esm.sh/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://vitejs.dev",
+    "feeds": [
+      "https://vitejs.dev/blog.rss"
+    ]
+  },
+  {
+    "domain": "https://www.webkit.org",
+    "feeds": [
+      "https://www.webkit.org/feed/",
+      "https://www.webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "domain": "https://biomejs.dev",
+    "feeds": [
+      "https://biomejs.dev/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://eh-career.com",
+    "feeds": [
+      "https://eh-career.com/feed/index.xml"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/qnighy/",
+    "feeds": [
+      "https://zenn.dev/qnighy/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/GoogleChrome/lighthouse",
+    "feeds": [
+      "https://github.com/GoogleChrome/lighthouse/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/TypeStrong/ts-node",
+    "feeds": [
+      "https://github.com/TypeStrong/ts-node/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
+    ]
+  },
+  {
+    "domain": "https://www.packtpub.com",
+    "feeds": [
+      "https://hub.packtpub.com/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/faker-js/faker",
+    "feeds": [
+      "https://github.com/faker-js/faker/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.mizdra.net",
+    "feeds": [
+      "https://www.mizdra.net/feed",
+      "https://www.mizdra.net/rss"
+    ]
+  },
+  {
+    "domain": "https://www.zhenghao.io",
+    "feeds": [
+      "https://www.zhenghao.io/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/lexical",
+    "feeds": [
+      "https://github.com/facebook/lexical/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nodejs/node",
+    "feeds": [
+      "https://github.com/nodejs/node/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://jestjs.io",
+    "feeds": [
+      "https://jestjs.io/blog/rss.xml",
+      "https://jestjs.io/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://cypress.io",
+    "feeds": [
+      "https://cypress.io/feed.xml",
+      "https://www.cypress.io/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/mochajs/mocha",
+    "feeds": [
+      "https://github.com/mochajs/mocha/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://babylonjs.medium.com",
+    "feeds": [
+      "https://medium.com/feed/@babylonjs"
+    ]
+  },
+  {
+    "domain": "https://github.com/puppeteer/puppeteer",
+    "feeds": [
+      "https://github.com/puppeteer/puppeteer/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/electron/electron",
+    "feeds": [
+      "https://github.com/electron/electron/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://nolanlawson.com",
+    "feeds": [
+      "https://nolanlawson.com/feed/",
+      "https://nolanlawson.com/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/actions/setup-node",
+    "feeds": [
+      "https://github.com/actions/setup-node/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/sverweij/dependency-cruiser",
+    "feeds": [
+      "https://github.com/sverweij/dependency-cruiser/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/infernojs/inferno",
+    "feeds": [
+      "https://github.com/infernojs/inferno/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.nrwl.io",
+    "feeds": [
+      "https://blog.nrwl.io/feed"
+    ]
+  },
+  {
+    "domain": "https://www.ecma-international.org",
+    "feeds": [
+      "https://ecma-international.org/feed/",
+      "https://ecma-international.org/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/oven-sh/bun",
+    "feeds": [
+      "https://github.com/oven-sh/bun/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.isquaredsoftware.com",
+    "feeds": [
+      "https://blog.isquaredsoftware.com/index.xml"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/teppeis/",
+    "feeds": [
+      "https://zenn.dev/teppeis/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/riot/riot",
+    "feeds": [
+      "https://github.com/riot/riot/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.honeybadger.io",
+    "feeds": [
+      "https://www.honeybadger.io/blog/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://buf.build",
+    "feeds": [
+      "https://buf.build/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/denoland/deno",
+    "feeds": [
+      "https://github.com/denoland/deno/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/httptoolkit/brotli-wasm",
+    "feeds": [
+      "https://github.com/httptoolkit/brotli-wasm/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://spidermonkey.dev",
+    "feeds": [
+      "https://spidermonkey.dev/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://blog.tomayac.com",
+    "feeds": [
+      "https://blog.tomayac.com/feed/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/avajs/ava",
+    "feeds": [
+      "https://github.com/avajs/ava/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/sa2knight/",
+    "feeds": [
+      "https://zenn.dev/sa2knight/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/jasmine/jasmine",
+    "feeds": [
+      "https://github.com/jasmine/jasmine/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/pixijs/pixijs",
+    "feeds": [
+      "https://github.com/pixijs/pixijs/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://shopify.engineering",
+    "feeds": [
+      "https://shopify.engineering/blog.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.bokken.io",
+    "feeds": [
+      "https://blog.bokken.io/feeds/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://tauri.app",
+    "feeds": [
+      "https://tauri.app/blog/rss.xml",
+      "https://tauri.app/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://v2.vuejs.org",
+    "feeds": [
+      "https://v2.vuejs.org/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://postd.cc",
+    "feeds": [
+      "https://postd.cc/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/flow",
+    "feeds": [
+      "https://github.com/facebook/flow/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/kaleidawave/ezno",
+    "feeds": [
+      "https://github.com/kaleidawave/ezno/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/lerna-lite/lerna-lite",
+    "feeds": [
+      "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.stackblitz.com",
+    "feeds": [
+      "https://blog.stackblitz.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/markedjs/marked",
+    "feeds": [
+      "https://github.com/markedjs/marked/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://lea.verou.me",
+    "feeds": [
+      "https://lea.verou.me/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/vanjs-org/van",
+    "feeds": [
+      "https://github.com/vanjs-org/van/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.getbootstrap.com",
+    "feeds": [
+      "https://blog.getbootstrap.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://lit.dev",
+    "feeds": [
+      "https://lit.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://developer.mozilla.org",
+    "feeds": [
+      "https://developer.mozilla.org/en-US/blog/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/tapjs/tsimp",
+    "feeds": [
+      "https://github.com/tapjs/tsimp/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://tailwindcss.com",
+    "feeds": [
+      "https://tailwindcss.com/feeds/feed.xml",
+      "https://tailwindcss.com/feeds/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://alexsidorenko.com",
+    "feeds": [
+      "https://alexsidorenko.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://medium.com/@vueshenzhen/",
+    "feeds": [
+      "https://medium.com/feed/@vueshenzhen"
+    ]
+  },
+  {
+    "domain": "https://github.com/fox1t/turborepo-remote-cache",
+    "feeds": [
+      "https://github.com/fox1t/turborepo-remote-cache/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ngneat/elf",
+    "feeds": [
+      "https://github.com/ngneat/elf/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mozilla/rhino",
+    "feeds": [
+      "https://github.com/mozilla/rhino/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/11ty/eleventy",
+    "feeds": [
+      "https://github.com/11ty/eleventy/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/relay",
+    "feeds": [
+      "https://github.com/facebook/relay/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine",
+    "feeds": [
+      "https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://mitpress.mit.edu",
+    "feeds": [
+      "https://mitpress.mit.edu/feed/",
+      "https://mitpress.mit.edu/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://vanillalist.top",
+    "feeds": [
+      "https://vanillalist.top/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/tinyplex/tinybase",
+    "feeds": [
+      "https://github.com/tinyplex/tinybase/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/webtoon/psd",
+    "feeds": [
+      "https://github.com/webtoon/psd/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/DataDog/build-plugin",
+    "feeds": [
+      "https://github.com/DataDog/build-plugin/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.plasmic.app",
+    "feeds": [
+      "https://blog.plasmic.app/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://recoiljs.org",
+    "feeds": [
+      "https://recoiljs.org/blog/rss.xml",
+      "https://recoiljs.org/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/nightwatchjs/nightwatch",
+    "feeds": [
+      "https://github.com/nightwatchjs/nightwatch/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.amazon.science",
+    "feeds": [
+      "https://www.amazon.science/index.rss"
+    ]
+  },
+  {
+    "domain": "https://v8.dev",
+    "feeds": [
+      "https://v8.dev/blog.atom",
+      "https://v8.dev/features.atom"
+    ]
+  },
+  {
+    "domain": "https://developers.cyberagent.co.jp",
+    "feeds": [
+      "https://developers.cyberagent.co.jp/blog/feed/"
+    ]
+  },
+  {
+    "domain": "https://www.igalia.com",
+    "feeds": [
+      "https://www.igalia.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/ngneat/falso",
+    "feeds": [
+      "https://github.com/ngneat/falso/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://mdxjs.com",
+    "feeds": [
+      "https://mdxjs.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://dev.to/atian25/",
+    "feeds": [
+      "https://dev.to/feed/atian25"
+    ]
+  },
+  {
+    "domain": "https://github.com/papyrs/stylo",
+    "feeds": [
+      "https://github.com/papyrs/stylo/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/hikerpig/pintora",
+    "feeds": [
+      "https://github.com/hikerpig/pintora/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/checkly/puppeteer-to-playwright",
+    "feeds": [
+      "https://github.com/checkly/puppeteer-to-playwright/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/Aslemammad/react-worker-components-plugin",
+    "feeds": [
+      "https://github.com/Aslemammad/react-worker-components-plugin/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.drsprime.com",
+    "feeds": [
+      "https://blog.drsprime.com/feed",
+      "https://blog.drsprime.com/rss"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/inokawa/",
+    "feeds": [
+      "https://zenn.dev/inokawa/feed"
+    ]
+  },
+  {
+    "domain": "https://dev.to/arcanis/",
+    "feeds": [
+      "https://dev.to/feed/arcanis"
+    ]
+  },
+  {
+    "domain": "https://github.com/jimmywarting/native-file-system-adapter",
+    "feeds": [
+      "https://github.com/jimmywarting/native-file-system-adapter/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/JoshuaKGoldberg/TypeStat",
+    "feeds": [
+      "https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/microsoft/TypeScript-Compiler-Notes",
+    "feeds": [
+      "https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/vinodotdev/node-to-rust",
+    "feeds": [
+      "https://github.com/vinodotdev/node-to-rust/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/xataio/screenshot",
+    "feeds": [
+      "https://github.com/xataio/screenshot/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/leafac/caxa",
+    "feeds": [
+      "https://github.com/leafac/caxa/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nodeshift/nodejs-reference-architecture",
+    "feeds": [
+      "https://github.com/nodeshift/nodejs-reference-architecture/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://daisyui.com",
+    "feeds": [
+      "https://daisyui.com/blog/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/breejs/bree",
+    "feeds": [
+      "https://github.com/breejs/bree/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://surma.dev",
+    "feeds": [
+      "https://surma.dev/index.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/wilsonzlin/minify-html",
+    "feeds": [
+      "https://github.com/wilsonzlin/minify-html/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/twitterdev/twitter-api-typescript-sdk",
+    "feeds": [
+      "https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://tech.hicustomer.jp",
+    "feeds": [
+      "https://tech.hicustomer.jp/index.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/tajo/ladle",
+    "feeds": [
+      "https://github.com/tajo/ladle/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.ladle.dev",
+    "feeds": [
+      "https://www.ladle.dev/blog/rss.xml",
+      "https://www.ladle.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/MattiasBuelens/web-streams-polyfill",
+    "feeds": [
+      "https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tc39/ecma402",
+    "feeds": [
+      "https://github.com/tc39/ecma402/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tc39/proposals",
+    "feeds": [
+      "https://github.com/tc39/proposals/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/hgsgtk/",
+    "feeds": [
+      "https://speakerdeck.com/hgsgtk.atom",
+      "https://speakerdeck.com/hgsgtk.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/nuxodin/dialog-polyfill",
+    "feeds": [
+      "https://github.com/nuxodin/dialog-polyfill/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebookexperimental/Recoil",
+    "feeds": [
+      "https://github.com/facebookexperimental/Recoil/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nicolo-ribaudo/jest-light-runner",
+    "feeds": [
+      "https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://elijahmanor.com",
+    "feeds": [
+      "https://feeds.feedburner.com/webdevnet",
+      "https://elijahmanor.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/cucumber/cucumber-js",
+    "feeds": [
+      "https://github.com/cucumber/cucumber-js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://tom.preston-werner.com",
+    "feeds": [
+      "https://feeds.feedburner.com/tom-preston-werner"
+    ]
+  },
+  {
+    "domain": "https://www.huy.rocks",
+    "feeds": [
+      "https://www.huy.rocks/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/agnosticui/agnosticui",
+    "feeds": [
+      "https://github.com/agnosticui/agnosticui/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://turborepo.org",
+    "feeds": [
+      "https://turbo.build/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "feeds": [
+      "https://github.com/goldbergyoni/javascript-testing-best-practices/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/antfu/vue-starport",
+    "feeds": [
+      "https://github.com/antfu/vue-starport/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ThomasAribart/json-schema-to-ts",
+    "feeds": [
+      "https://github.com/ThomasAribart/json-schema-to-ts/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://devblog.thebase.in",
+    "feeds": [
+      "https://devblog.thebase.in/feed",
+      "https://devblog.thebase.in/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/Shopify/javy",
+    "feeds": [
+      "https://github.com/Shopify/javy/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ehmicky/wild-wild-path",
+    "feeds": [
+      "https://github.com/ehmicky/wild-wild-path/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/testing-library/react-testing-library",
+    "feeds": [
+      "https://github.com/testing-library/react-testing-library/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/worldzhao/blog",
+    "feeds": [
+      "https://github.com/worldzhao/blog/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.w3.org",
+    "feeds": [
+      "https://www.w3.org/blog/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/inikulin/parse5",
+    "feeds": [
+      "https://github.com/inikulin/parse5/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/milesj/packemon",
+    "feeds": [
+      "https://github.com/milesj/packemon/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.axlight.com",
+    "feeds": [
+      "https://blog.axlight.com/index.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/unjs/nitro",
+    "feeds": [
+      "https://github.com/unjs/nitro/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://dev.to/frolovdev/",
+    "feeds": [
+      "https://dev.to/feed/frolovdev"
+    ]
+  },
+  {
+    "domain": "https://github.com/plantain-00/type-coverage",
+    "feeds": [
+      "https://github.com/plantain-00/type-coverage/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/eolme/i18nano",
+    "feeds": [
+      "https://github.com/eolme/i18nano/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/shuding/tilg",
+    "feeds": [
+      "https://github.com/shuding/tilg/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tdewolff/minify",
+    "feeds": [
+      "https://github.com/tdewolff/minify/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.remotion.dev",
+    "feeds": [
+      "https://www.remotion.dev/blog/rss.xml",
+      "https://www.remotion.dev/blog/atom.xml",
+      "https://www.remotion.dev/success-stories/rss.xml",
+      "https://www.remotion.dev/success-stories/atom.xml",
+      "https://www.remotion.dev/learn/rss.xml",
+      "https://www.remotion.dev/learn/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/frouriojs/notios",
+    "feeds": [
+      "https://github.com/frouriojs/notios/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://jqk.life",
+    "feeds": [
+      "https://jqk.life/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://tsh.io",
+    "feeds": [
+      "https://tsh.io/feed/",
+      "https://tsh.io/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/httptoolkit/mockrtc",
+    "feeds": [
+      "https://github.com/httptoolkit/mockrtc/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://quramy.medium.com",
+    "feeds": [
+      "https://medium.com/feed/@quramy"
+    ]
+  },
+  {
+    "domain": "https://github.com/yisibl/resvg-js",
+    "feeds": [
+      "https://github.com/yisibl/resvg-js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/kawamataryo/suppress-ts-errors",
+    "feeds": [
+      "https://github.com/kawamataryo/suppress-ts-errors/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/yarnpkg/yarn",
+    "feeds": [
+      "https://github.com/yarnpkg/yarn/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/i-net-software/JWebAssembly",
+    "feeds": [
+      "https://github.com/i-net-software/JWebAssembly/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/wooorm/starry-night",
+    "feeds": [
+      "https://github.com/wooorm/starry-night/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://discuss.httparchive.org",
+    "feeds": [
+      "https://discuss.httparchive.org/posts.rss",
+      "https://discuss.httparchive.org/latest.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/dflex-js/dflex",
+    "feeds": [
+      "https://github.com/dflex-js/dflex/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://engineering.fb.com",
+    "feeds": [
+      "https://engineering.fb.com/feed/",
+      "https://engineering.fb.com/comments/feed/",
+      "https://code.facebook.com/posts/rss/"
+    ]
+  },
+  {
+    "domain": "https://github.com/alan2207/bulletproof-react",
+    "feeds": [
+      "https://github.com/alan2207/bulletproof-react/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/mizchi/",
+    "feeds": [
+      "https://speakerdeck.com/mizchi.atom",
+      "https://speakerdeck.com/mizchi.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/esbuild-kit/tsx",
+    "feeds": [
+      "https://github.com/esbuild-kit/tsx/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/markdoc/markdoc",
+    "feeds": [
+      "https://github.com/markdoc/markdoc/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/MithrilJS/mithril.js",
+    "feeds": [
+      "https://github.com/MithrilJS/mithril.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nvh95/jest-preview",
+    "feeds": [
+      "https://github.com/nvh95/jest-preview/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/adriancooney/puppeteer-heap-snapshot",
+    "feeds": [
+      "https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://stripe.com",
+    "feeds": [
+      "https://stripe.com/blog/feed.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/Shopify/remote-ui",
+    "feeds": [
+      "https://github.com/Shopify/remote-ui/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://serpapi.com",
+    "feeds": [
+      "https://serpapi.com/blog/rss/"
+    ]
+  },
+  {
+    "domain": "https://github.com/google/wireit",
+    "feeds": [
+      "https://github.com/google/wireit/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mdn/browser-compat-data",
+    "feeds": [
+      "https://github.com/mdn/browser-compat-data/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/jridgewell/trace-mapping",
+    "feeds": [
+      "https://github.com/jridgewell/trace-mapping/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://browser.engineering",
+    "feeds": [
+      "https://browser.engineering/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/histoire-dev/histoire",
+    "feeds": [
+      "https://github.com/histoire-dev/histoire/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mishoo/UglifyJS",
+    "feeds": [
+      "https://github.com/mishoo/UglifyJS/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/vuejs/vue",
+    "feeds": [
+      "https://github.com/vuejs/vue/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.webpagetest.org",
+    "feeds": [
+      "https://blog.webpagetest.org/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/WebReflection/highlighted-code",
+    "feeds": [
+      "https://github.com/WebReflection/highlighted-code/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/cyco130/vavite",
+    "feeds": [
+      "https://github.com/cyco130/vavite/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://medium.com/@fastifyjs/",
+    "feeds": [
+      "https://medium.com/feed/@fastifyjs"
+    ]
+  },
+  {
+    "domain": "https://github.com/ranyitz/qnm",
+    "feeds": [
+      "https://github.com/ranyitz/qnm/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/fastify/fastify-dx",
+    "feeds": [
+      "https://github.com/fastify/fastify-dx/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/PlasmoHQ/plasmo",
+    "feeds": [
+      "https://github.com/PlasmoHQ/plasmo/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/preactjs/preact",
+    "feeds": [
+      "https://github.com/preactjs/preact/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/taozhi8833998/node-sql-parser",
+    "feeds": [
+      "https://github.com/taozhi8833998/node-sql-parser/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.gabe.pizza",
+    "feeds": [
+      "https://www.gabe.pizza/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/sindresorhus/ow",
+    "feeds": [
+      "https://github.com/sindresorhus/ow/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://whistlr.info",
+    "feeds": [
+      "https://samthor.au/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/coder-mike/microvium",
+    "feeds": [
+      "https://github.com/coder-mike/microvium/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://marijnhaverbeke.nl",
+    "feeds": [
+      "https://marijnhaverbeke.nl/blog/feed.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/socketio/socket.io",
+    "feeds": [
+      "https://github.com/socketio/socket.io/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/astoilkov/main-thread-scheduling",
+    "feeds": [
+      "https://github.com/astoilkov/main-thread-scheduling/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/open-source-labs/reactime",
+    "feeds": [
+      "https://github.com/open-source-labs/reactime/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/foliojs/fontkit",
+    "feeds": [
+      "https://github.com/foliojs/fontkit/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/angular-eslint/angular-eslint",
+    "feeds": [
+      "https://github.com/angular-eslint/angular-eslint/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/timocov/dts-bundle-generator",
+    "feeds": [
+      "https://github.com/timocov/dts-bundle-generator/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/WebKit/standards-positions",
+    "feeds": [
+      "https://github.com/WebKit/standards-positions/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/codemix/deprank",
+    "feeds": [
+      "https://github.com/codemix/deprank/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/dajiaji/",
+    "feeds": [
+      "https://zenn.dev/dajiaji/feed"
+    ]
+  },
+  {
+    "domain": "https://blog.nnn.dev",
+    "feeds": [
+      "https://blog.nnn.dev/feed",
+      "https://blog.nnn.dev/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/samchon/typescript-json",
+    "feeds": [
+      "https://github.com/samchon/typescript-json/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/jcubic/wayne",
+    "feeds": [
+      "https://github.com/jcubic/wayne/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/oguimbal/pg-mem",
+    "feeds": [
+      "https://github.com/oguimbal/pg-mem/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/mjhd/",
+    "feeds": [
+      "https://zenn.dev/mjhd/feed"
+    ]
+  },
+  {
+    "domain": "https://katainaka0503.hatenablog.com",
+    "feeds": [
+      "https://katainaka0503.hatenablog.com/feed",
+      "https://katainaka0503.hatenablog.com/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/moment/luxon",
+    "feeds": [
+      "https://github.com/moment/luxon/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tuplo/numberfmt",
+    "feeds": [
+      "https://github.com/tuplo/numberfmt/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nodejs/undici",
+    "feeds": [
+      "https://github.com/nodejs/undici/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://nodered.org",
+    "feeds": [
+      "https://nodered.org/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/danielroe/magic-regexp",
+    "feeds": [
+      "https://github.com/danielroe/magic-regexp/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://defensivecss.dev",
+    "feeds": [
+      "https://defensivecss.dev/feed/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/yaakov123/hagana",
+    "feeds": [
+      "https://github.com/yaakov123/hagana/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/modfy/nominal",
+    "feeds": [
+      "https://github.com/modfy/nominal/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://dev.to/hemanth/",
+    "feeds": [
+      "https://dev.to/feed/hemanth"
+    ]
+  },
+  {
+    "domain": "https://github.com/5t3ph/css-browser-support",
+    "feeds": [
+      "https://github.com/5t3ph/css-browser-support/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://ishadeed.com",
+    "feeds": [
+      "http://ishadeed.com/feed.xml",
+      "https://ishadeed.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://jakearchibald.com",
+    "feeds": [
+      "https://jakearchibald.com/posts.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/video-dev/hls.js",
+    "feeds": [
+      "https://github.com/video-dev/hls.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ronami/HypeScript",
+    "feeds": [
+      "https://github.com/ronami/HypeScript/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/losfair/blueboat",
+    "feeds": [
+      "https://github.com/losfair/blueboat/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ehmicky/safe-json-value",
+    "feeds": [
+      "https://github.com/ehmicky/safe-json-value/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://docusaurus.io",
+    "feeds": [
+      "https://docusaurus.io/blog/rss.xml",
+      "https://docusaurus.io/blog/atom.xml",
+      "https://docusaurus.io/changelog/rss.xml",
+      "https://docusaurus.io/changelog/atom.xml",
+      "https://docusaurus.io/tests/blog/rss.xml",
+      "https://docusaurus.io/tests/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/sofn-xyz/mailing",
+    "feeds": [
+      "https://github.com/sofn-xyz/mailing/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mjmlio/mjml",
+    "feeds": [
+      "https://github.com/mjmlio/mjml/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://orizens.com",
+    "feeds": [
+      "https://orizens.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://mmazzarolo.com",
+    "feeds": [
+      "https://mmazzarolo.com/blog/index.xml"
+    ]
+  },
+  {
+    "domain": "https://engineering.linecorp.com",
+    "feeds": [
+      "https://engineering.linecorp.com/en"
+    ]
+  },
+  {
+    "domain": "https://www.learningtypescript.com",
+    "feeds": [
+      "https://www.learningtypescript.com/articles/rss.xml",
+      "https://www.learningtypescript.com/articles/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/pemistahl/grex-js",
+    "feeds": [
+      "https://github.com/pemistahl/grex-js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://semaphoreci.com",
+    "feeds": [
+      "https://semaphoreci.com/feed",
+      "https://semaphoreci.com/comments/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/prettier/prettier",
+    "feeds": [
+      "https://github.com/prettier/prettier/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.matuzo.at",
+    "feeds": [
+      "https://www.matuzo.at/feed.xml",
+      "https://www.matuzo.at/feed_til.xml",
+      "https://www.matuzo.at/feed_all.xml",
+      "https://www.matuzo.at/feed_100dayscss.xml"
+    ]
+  },
+  {
+    "domain": "https://www.theverge.com",
+    "feeds": [
+      "https://www.theverge.com/rss/index.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/react-pdf-viewer/react-pdf-viewer",
+    "feeds": [
+      "https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/rayepps/radash",
+    "feeds": [
+      "https://github.com/rayepps/radash/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://erock.prose.sh",
+    "feeds": [
+      "https://erock.prose.sh/rss"
+    ]
+  },
+  {
+    "domain": "https://endtimes.dev",
+    "feeds": [
+      "https://endtimes.dev/feed/",
+      "https://endtimes.dev/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/apify/crawlee",
+    "feeds": [
+      "https://github.com/apify/crawlee/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nadeesha/ts-prune",
+    "feeds": [
+      "https://github.com/nadeesha/ts-prune/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://textslashplain.com",
+    "feeds": [
+      "https://textslashplain.com/feed/",
+      "https://textslashplain.com/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://tech.basicinc.jp",
+    "feeds": [
+      "https://tech.basicinc.jp/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/frehner/modern-guide-to-packaging-js-library",
+    "feeds": [
+      "https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/bluwy/whyframe",
+    "feeds": [
+      "https://github.com/bluwy/whyframe/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://daverupert.com",
+    "feeds": [
+      "https://daverupert.com/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/layerhub-io/react-design-editor",
+    "feeds": [
+      "https://github.com/layerhub-io/react-design-editor/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ossf/package-manager-best-practices",
+    "feeds": [
+      "https://github.com/ossf/package-manager-best-practices/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tinylibs/tinyspy",
+    "feeds": [
+      "https://github.com/tinylibs/tinyspy/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/flomesh-io/pipy",
+    "feeds": [
+      "https://github.com/flomesh-io/pipy/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/BetterTyped/hyper-fetch",
+    "feeds": [
+      "https://github.com/BetterTyped/hyper-fetch/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://yieldcode.blog",
+    "feeds": [
+      "https://yieldcode.blog/rss/feed.xml",
+      "https://www.yieldcode.blog/rss/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://www.wantedly.com",
+    "feeds": [
+      "https://www.wantedly.com/projects.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/preactjs/signals",
+    "feeds": [
+      "https://github.com/preactjs/signals/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nuxt/content",
+    "feeds": [
+      "https://github.com/nuxt/content/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/hand-dot/react-inspector",
+    "feeds": [
+      "https://github.com/hand-dot/react-inspector/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/frameable/el",
+    "feeds": [
+      "https://github.com/frameable/el/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/AlexeyBoiko/DgrmJS",
+    "feeds": [
+      "https://github.com/AlexeyBoiko/DgrmJS/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebookincubator/memlab",
+    "feeds": [
+      "https://github.com/facebookincubator/memlab/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://community.redwoodjs.com",
+    "feeds": [
+      "https://community.redwoodjs.com/posts.rss",
+      "https://community.redwoodjs.com/latest.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/skovhus/jest-codemods",
+    "feeds": [
+      "https://github.com/skovhus/jest-codemods/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/TypeStrong/ts-loader",
+    "feeds": [
+      "https://github.com/TypeStrong/ts-loader/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/lost-pixel/lost-pixel",
+    "feeds": [
+      "https://github.com/lost-pixel/lost-pixel/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ts-safeql/safeql",
+    "feeds": [
+      "https://github.com/ts-safeql/safeql/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tinylibs/tinybench",
+    "feeds": [
+      "https://github.com/tinylibs/tinybench/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/anonrig/fast-querystring",
+    "feeds": [
+      "https://github.com/anonrig/fast-querystring/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tokencss/tokencss",
+    "feeds": [
+      "https://github.com/tokencss/tokencss/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/parcel-bundler/lightningcss",
+    "feeds": [
+      "https://github.com/parcel-bundler/lightningcss/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/gioboa/vite-module-federation",
+    "feeds": [
+      "https://github.com/gioboa/vite-module-federation/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://almanac.httparchive.org",
+    "feeds": [
+      "https://almanac.httparchive.org/en/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://www.docswell.com",
+    "feeds": [
+      "https://www.docswell.com/feed/latest"
+    ]
+  },
+  {
+    "domain": "https://github.com/mozilla/pdf.js",
+    "feeds": [
+      "https://github.com/mozilla/pdf.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://sqlite.org",
+    "feeds": [
+      "https://sqlite.org/wasm/timeline.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/dudykr/stc",
+    "feeds": [
+      "https://github.com/dudykr/stc/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://dev.to/srmagura/",
+    "feeds": [
+      "https://dev.to/feed/srmagura"
+    ]
+  },
+  {
+    "domain": "https://medium.com/airbnb-engineering/",
+    "feeds": [
+      "https://medium.com/feed/airbnb-engineering"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/yukiyada/",
+    "feeds": [
+      "https://zenn.dev/yukiyada/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/vuetifyjs/vuetify",
+    "feeds": [
+      "https://github.com/vuetifyjs/vuetify/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/panda_program/",
+    "feeds": [
+      "https://zenn.dev/panda_program/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/hapijs/hapi",
+    "feeds": [
+      "https://github.com/hapijs/hapi/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/cypress-io/cypress",
+    "feeds": [
+      "https://github.com/cypress-io/cypress/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://link-and-motivation.hatenablog.com",
+    "feeds": [
+      "https://link-and-motivation.hatenablog.com/feed",
+      "https://link-and-motivation.hatenablog.com/rss"
+    ]
+  },
+  {
+    "domain": "https://blog.maximeheckel.com",
+    "feeds": [
+      "https://blog.maximeheckel.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://blog.mozilla.org",
+    "feeds": [
+      "https://blog.mozilla.org/en/feed/",
+      "https://blog.mozilla.org/en/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/hadmean/hadmean",
+    "feeds": [
+      "https://github.com/hadmean/hadmean/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.simoahava.com",
+    "feeds": [
+      "https://www.simoahava.com/index.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/1Password/typeshare",
+    "feeds": [
+      "https://github.com/1Password/typeshare/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/es-meta/esmeta",
+    "feeds": [
+      "https://github.com/es-meta/esmeta/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/0kate/",
+    "feeds": [
+      "https://zenn.dev/0kate/feed"
+    ]
+  },
+  {
+    "domain": "https://trpc.io",
+    "feeds": [
+      "https://trpc.io/blog/rss.xml",
+      "https://trpc.io/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://jrsinclair.com",
+    "feeds": [
+      "https://jrsinclair.com/index.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/shuding/nextra",
+    "feeds": [
+      "https://github.com/shuding/nextra/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/primus/eventemitter3",
+    "feeds": [
+      "https://github.com/primus/eventemitter3/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.debugbear.com",
+    "feeds": [
+      "https://www.debugbear.com/blog/rss.xml",
+      "https://www.debugbear.com/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://escape.tech",
+    "feeds": [
+      "https://escape.tech/blog/rss/"
+    ]
+  },
+  {
+    "domain": "https://tkdodo.eu",
+    "feeds": [
+      "https://tkdodo.eu/blog/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://marvinh.dev",
+    "feeds": [
+      "https://marvinh.dev/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/elysiajs/elysia",
+    "feeds": [
+      "https://github.com/elysiajs/elysia/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/socketsupply/socket",
+    "feeds": [
+      "https://github.com/socketsupply/socket/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/DanielXMoore/Civet",
+    "feeds": [
+      "https://github.com/DanielXMoore/Civet/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/zenorocha/react-email",
+    "feeds": [
+      "https://github.com/zenorocha/react-email/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/rafasofizada/pechkin",
+    "feeds": [
+      "https://github.com/rafasofizada/pechkin/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://devtoolstips.org",
+    "feeds": [
+      "https://devtoolstips.org/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/bluwy/publint",
+    "feeds": [
+      "https://github.com/bluwy/publint/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/ericclemmons/click-to-component",
+    "feeds": [
+      "https://github.com/ericclemmons/click-to-component/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/PuruVJ/neodrag",
+    "feeds": [
+      "https://github.com/PuruVJ/neodrag/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/yhatt/",
+    "feeds": [
+      "https://zenn.dev/yhatt/feed"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/yend724/",
+    "feeds": [
+      "https://zenn.dev/yend724/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
+    "feeds": [
+      "https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://obyford.com",
+    "feeds": [
+      "https://obyford.com/feed/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://accessibility.blog.gov.uk",
+    "feeds": [
+      "https://accessibility.blog.gov.uk/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/Dunks1980/bay.js",
+    "feeds": [
+      "https://github.com/Dunks1980/bay.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://yosuke-furukawa.hatenablog.com",
+    "feeds": [
+      "https://yosuke-furukawa.hatenablog.com/feed",
+      "https://yosuke-furukawa.hatenablog.com/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/isaacs/rimraf",
+    "feeds": [
+      "https://github.com/isaacs/rimraf/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tsmodule/tsmodule",
+    "feeds": [
+      "https://github.com/tsmodule/tsmodule/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/GiuseppeRaso/structura.js",
+    "feeds": [
+      "https://github.com/GiuseppeRaso/structura.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/LyraSearch/lyra",
+    "feeds": [
+      "https://github.com/LyraSearch/lyra/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/azu/eslint-cjs-to-esm",
+    "feeds": [
+      "https://github.com/azu/eslint-cjs-to-esm/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/shuding/react-wrap-balancer",
+    "feeds": [
+      "https://github.com/shuding/react-wrap-balancer/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/azu/tsconfig-to-dual-package",
+    "feeds": [
+      "https://github.com/azu/tsconfig-to-dual-package/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/mkt/",
+    "feeds": [
+      "https://zenn.dev/mkt/feed"
+    ]
+  },
+  {
+    "domain": "https://csswizardry.com",
+    "feeds": [
+      "https://feeds.feedburner.com/csswizardry"
+    ]
+  },
+  {
+    "domain": "https://blog.bitsrc.io",
+    "feeds": [
+      "https://blog.bitsrc.io/feed"
+    ]
+  },
+  {
+    "domain": "https://kentcdodds.com",
+    "feeds": [
+      "https://kentcdodds.com/blog/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/Brooooooklyn/canvas",
+    "feeds": [
+      "https://github.com/Brooooooklyn/canvas/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/amandaghassaei/gpu-io",
+    "feeds": [
+      "https://github.com/amandaghassaei/gpu-io/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/deca-org/deca-ui",
+    "feeds": [
+      "https://github.com/deca-org/deca-ui/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.11ty.dev",
+    "feeds": [
+      "https://www.11ty.dev/blog/feed.xml",
+      "https://www.11ty.dev/firehose/firehose.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/cyclic-software/s3fs",
+    "feeds": [
+      "https://github.com/cyclic-software/s3fs/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mswjs/msw",
+    "feeds": [
+      "https://github.com/mswjs/msw/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://00f.net",
+    "feeds": [
+      "https://00f.net/rss.xml",
+      "https://00f.net/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/jakebailey/hereby",
+    "feeds": [
+      "https://github.com/jakebailey/hereby/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/reactjs/reactjs.org",
+    "feeds": [
+      "https://github.com/reactjs/reactjs.org/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/terrierscript/",
+    "feeds": [
+      "https://zenn.dev/terrierscript/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/pmndrs/jotai",
+    "feeds": [
+      "https://github.com/pmndrs/jotai/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/CodeIntelligenceTesting/jazzer.js",
+    "feeds": [
+      "https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tanekloc/tmsg",
+    "feeds": [
+      "https://github.com/tanekloc/tmsg/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.codeflashbacks.com",
+    "feeds": [
+      "https://www.codeflashbacks.com/rss/"
+    ]
+  },
+  {
+    "domain": "https://github.com/upgradejs/depngn",
+    "feeds": [
+      "https://github.com/upgradejs/depngn/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/jquense/yup",
+    "feeds": [
+      "https://github.com/jquense/yup/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/cure53/DOMPurify",
+    "feeds": [
+      "https://github.com/cure53/DOMPurify/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://the-guild.dev",
+    "feeds": [
+      "https://the-guild.dev/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://www.zachleat.com",
+    "feeds": [
+      "https://www.zachleat.com/web/feed/",
+      "https://www.zachleat.com/follow/"
+    ]
+  },
+  {
+    "domain": "https://github.com/slashd-analytics/run",
+    "feeds": [
+      "https://github.com/slashd-analytics/run/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/codesandbox/nodebox-runtime",
+    "feeds": [
+      "https://github.com/codesandbox/nodebox-runtime/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/chaijs/chai",
+    "feeds": [
+      "https://github.com/chaijs/chai/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/yusukehirao/",
+    "feeds": [
+      "https://zenn.dev/yusukehirao/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/natemoo-re/clack",
+    "feeds": [
+      "https://github.com/natemoo-re/clack/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://dev.to/nicklucas/",
+    "feeds": [
+      "https://dev.to/feed/nicklucas"
+    ]
+  },
+  {
+    "domain": "https://www.akshaykhot.com",
+    "feeds": [
+      "https://www.writesoftwarewell.com/rss/"
+    ]
+  },
+  {
+    "domain": "https://blog.sentry.io",
+    "feeds": [
+      "https://blog.sentry.io/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://dev.to/codux/",
+    "feeds": [
+      "https://dev.to/feed/codux"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/tnyo43/",
+    "feeds": [
+      "https://zenn.dev/tnyo43/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/open-draft/event-contract",
+    "feeds": [
+      "https://github.com/open-draft/event-contract/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/antonmedv/finder",
+    "feeds": [
+      "https://github.com/antonmedv/finder/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/total-typescript/ts-reset",
+    "feeds": [
+      "https://github.com/total-typescript/ts-reset/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/lagonapp/lagon",
+    "feeds": [
+      "https://github.com/lagonapp/lagon/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://socket.dev",
+    "feeds": [
+      "https://socket.dev/api/feed.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/gajus/turbowatch",
+    "feeds": [
+      "https://github.com/gajus/turbowatch/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://bufferings.hatenablog.com",
+    "feeds": [
+      "https://bufferings.hatenablog.com/feed",
+      "https://bufferings.hatenablog.com/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/styled-components/xstyled",
+    "feeds": [
+      "https://github.com/styled-components/xstyled/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/anymaniax/orval",
+    "feeds": [
+      "https://github.com/anymaniax/orval/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/gvergnaud/hotscript",
+    "feeds": [
+      "https://github.com/gvergnaud/hotscript/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mamiksik/parrot-intellij",
+    "feeds": [
+      "https://github.com/mamiksik/parrot-intellij/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/sinclairnick/brail",
+    "feeds": [
+      "https://github.com/sinclairnick/brail/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/mayank99/ecsstatic",
+    "feeds": [
+      "https://github.com/mayank99/ecsstatic/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/lxsmnsyc/seroval",
+    "feeds": [
+      "https://github.com/lxsmnsyc/seroval/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://tech.high-link.co.jp",
+    "feeds": [
+      "https://tech.high-link.co.jp/feed",
+      "https://tech.high-link.co.jp/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/wantedly/react-declassify",
+    "feeds": [
+      "https://github.com/wantedly/react-declassify/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/unjs/magicast",
+    "feeds": [
+      "https://github.com/unjs/magicast/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.s2n.tech",
+    "feeds": [
+      "https://blog.s2n.tech/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/sveltejs/kit",
+    "feeds": [
+      "https://github.com/sveltejs/kit/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.nodejs-security.com",
+    "feeds": [
+      "https://www.nodejs-security.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/hexagon/croner",
+    "feeds": [
+      "https://github.com/hexagon/croner/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/uhyo/nitrogql",
+    "feeds": [
+      "https://github.com/uhyo/nitrogql/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/liriliri/eruda",
+    "feeds": [
+      "https://github.com/liriliri/eruda/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/divriots/jampack",
+    "feeds": [
+      "https://github.com/divriots/jampack/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/open-draft/logger",
+    "feeds": [
+      "https://github.com/open-draft/logger/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.netlify.com",
+    "feeds": [
+      "https://www.netlify.com/community-feed.xml/"
+    ]
+  },
+  {
+    "domain": "https://htmx.org",
+    "feeds": [
+      "https://htmx.org/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/immerjs/immer",
+    "feeds": [
+      "https://github.com/immerjs/immer/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/yoavbls/pretty-ts-errors",
+    "feeds": [
+      "https://github.com/yoavbls/pretty-ts-errors/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://timkadlec.com",
+    "feeds": [
+      "https://timkadlec.com/atom.xml",
+      "https://timkadlec.com/remembers/atom.xml",
+      "https://timkadlec.com/read/atom.xml",
+      "https://timkadlec.com/saved/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://glebbahmutov.com",
+    "feeds": [
+      "https://glebbahmutov.com/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/HeyPuter/kv.js",
+    "feeds": [
+      "https://github.com/HeyPuter/kv.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://pawelgrzybek.com",
+    "feeds": [
+      "https://pawelgrzybek.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://bhch.github.io",
+    "feeds": [
+      "https://bhch.github.io/feeds/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/nichimu/",
+    "feeds": [
+      "https://speakerdeck.com/nichimu.atom",
+      "https://speakerdeck.com/nichimu.rss"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/sadnessojisan/",
+    "feeds": [
+      "https://speakerdeck.com/sadnessojisan.atom",
+      "https://speakerdeck.com/sadnessojisan.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/karma-runner/karma",
+    "feeds": [
+      "https://github.com/karma-runner/karma/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/SBoudrias/Inquirer.js",
+    "feeds": [
+      "https://github.com/SBoudrias/Inquirer.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/natemoo-re/ultramatter",
+    "feeds": [
+      "https://github.com/natemoo-re/ultramatter/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/vadimdemedes/ink-ui",
+    "feeds": [
+      "https://github.com/vadimdemedes/ink-ui/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.inngest.com",
+    "feeds": [
+      "https://www.inngest.com/api/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://www.jantrid.net",
+    "feeds": [
+      "https://www.jantrid.net/feeds/posts/default/index.xml"
+    ]
+  },
+  {
+    "domain": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
+    ]
+  },
+  {
+    "domain": "https://github.com/microsoft/deoptexplorer-vscode",
+    "feeds": [
+      "https://github.com/microsoft/deoptexplorer-vscode/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/microsoft/TypeScript",
+    "feeds": [
+      "https://github.com/microsoft/TypeScript/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/microsoft/devicescript",
+    "feeds": [
+      "https://github.com/microsoft/devicescript/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/webpro/knip",
+    "feeds": [
+      "https://github.com/webpro/knip/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.hog.as",
+    "feeds": [
+      "https://blog.hog.as/feed",
+      "https://blog.hog.as/rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/mizchi/lizod",
+    "feeds": [
+      "https://github.com/mizchi/lizod/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/stepci/garph",
+    "feeds": [
+      "https://github.com/stepci/garph/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/sveltejs/svelte",
+    "feeds": [
+      "https://github.com/sveltejs/svelte/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.nray.dev",
+    "feeds": [
+      "https://www.nray.dev/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://blog.rafaelgss.dev",
+    "feeds": [
+      "https://blog.rafaelgss.dev/rss"
+    ]
+  },
+  {
+    "domain": "https://marmooo.blogspot.com",
+    "feeds": [
+      "https://marmooo.blogspot.com/feeds/posts/default",
+      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
+    ]
+  },
+  {
+    "domain": "https://github.com/tresjs/tres",
+    "feeds": [
+      "https://github.com/tresjs/tres/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/reactwg/server-components",
+    "feeds": [
+      "https://github.com/reactwg/server-components/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://chriscoyier.net",
+    "feeds": [
+      "https://chriscoyier.net/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/evanw/polywasm",
+    "feeds": [
+      "https://github.com/evanw/polywasm/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://turbo.build",
+    "feeds": [
+      "https://turbo.build/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/nestjs/nest",
+    "feeds": [
+      "https://github.com/nestjs/nest/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.fermyon.com",
+    "feeds": [
+      "https://www.fermyon.com/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://moderncss.dev",
+    "feeds": [
+      "https://moderncss.dev/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/gvergnaud/ts-pattern",
+    "feeds": [
+      "https://github.com/gvergnaud/ts-pattern/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://kizu.dev",
+    "feeds": [
+      "https://feeds.feedburner.com/kizuruen"
+    ]
+  },
+  {
+    "domain": "https://github.com/lquixada/cross-fetch",
+    "feeds": [
+      "https://github.com/lquixada/cross-fetch/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.feelback.dev",
+    "feeds": [
+      "https://www.feelback.dev/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/giuseppelt/httpc",
+    "feeds": [
+      "https://github.com/giuseppelt/httpc/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/gibbok/typescript-book",
+    "feeds": [
+      "https://github.com/gibbok/typescript-book/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://typescript-eslint.io",
+    "feeds": [
+      "https://typescript-eslint.io/blog/rss.xml",
+      "https://typescript-eslint.io/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://kurtextrem.de",
+    "feeds": [
+      "https://kurtextrem.de/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://boajs.dev",
+    "feeds": [
+      "https://boajs.dev/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://katashin.info",
+    "feeds": [
+      "https://katashin.info/feed/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/mdx-editor/editor",
+    "feeds": [
+      "https://github.com/mdx-editor/editor/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/patriksimek/vm2",
+    "feeds": [
+      "https://github.com/patriksimek/vm2/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://davidwalsh.name",
+    "feeds": [
+      "https://davidwalsh.name/feed/atom",
+      "https://davidwalsh.name/feed",
+      "https://davidwalsh.name/comments/feed",
+      "https://davidwalsh.name/feed/rdf"
+    ]
+  },
+  {
+    "domain": "https://github.com/kamranahmedse/driver.js",
+    "feeds": [
+      "https://github.com/kamranahmedse/driver.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/coderaiser/putout",
+    "feeds": [
+      "https://github.com/coderaiser/putout/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/fabian-hiller/valibot",
+    "feeds": [
+      "https://github.com/fabian-hiller/valibot/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/wakamsha/",
+    "feeds": [
+      "https://zenn.dev/wakamsha/feed"
+    ]
+  },
+  {
+    "domain": "https://tech.repro.io",
+    "feeds": [
+      "https://tech.repro.io/feed",
+      "https://tech.repro.io/rss"
+    ]
+  },
+  {
+    "domain": "https://techblog.yahoo.co.jp",
+    "feeds": [
+      "https://techblog.yahoo.co.jp/atom.xml",
+      "https://techblog.yahoo.co.jp/index.xml",
+      "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
+    ]
+  },
+  {
+    "domain": "https://remotesynthesis.com",
+    "feeds": [
+      "https://remotesynthesis.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://dagster.io",
+    "feeds": [
+      "https://dagster.io/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://www.mux.com",
+    "feeds": [
+      "https://www.mux.com/blog/rss.xml",
+      "https://www.mux.com/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/KittyGiraudel/a11y-dialog",
+    "feeds": [
+      "https://github.com/KittyGiraudel/a11y-dialog/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://practica.dev",
+    "feeds": [
+      "https://practica.dev/blog/rss.xml",
+      "https://practica.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/kazupon/",
+    "feeds": [
+      "https://speakerdeck.com/kazupon.atom",
+      "https://speakerdeck.com/kazupon.rss"
+    ]
+  },
+  {
+    "domain": "https://blog.appsignal.com",
+    "feeds": [
+      "https://blog.appsignal.com//feed.xml"
+    ]
+  },
+  {
+    "domain": "https://gist.github.com",
+    "feeds": [
+      "https://gist.github.com/starred.atom"
+    ]
+  },
+  {
+    "domain": "https://security.googleblog.com",
+    "feeds": [
+      "https://security.googleblog.com/feeds/posts/default",
+      "https://security.googleblog.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/1176949257541686127/posts/default",
+      "https://googleonlinesecurity.blogspot.com/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/vega/ts-json-schema-generator",
+    "feeds": [
+      "https://github.com/vega/ts-json-schema-generator/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/recruitengineers/",
+    "feeds": [
+      "https://speakerdeck.com/recruitengineers.atom",
+      "https://speakerdeck.com/recruitengineers.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/vercel/next.js",
+    "feeds": [
+      "https://github.com/vercel/next.js/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/alvarlagerlof/rsc-parser",
+    "feeds": [
+      "https://github.com/alvarlagerlof/rsc-parser/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://alttexthalloffame.org",
+    "feeds": [
+      "https://alttexthalloffame.org/en/feed/",
+      "https://alttexthalloffame.org/en/comments/feed/",
+      "https://alttexthalloffame.org/sample-page/feed/"
+    ]
+  },
+  {
+    "domain": "https://frontendmasters.com",
+    "feeds": [
+      "https://frontendmasters.com/blog/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/parcel-bundler/watcher",
+    "feeds": [
+      "https://github.com/parcel-bundler/watcher/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nodejs/corepack",
+    "feeds": [
+      "https://github.com/nodejs/corepack/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/withastro/astro",
+    "feeds": [
+      "https://github.com/withastro/astro/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/aerotoad/neboa",
+    "feeds": [
+      "https://github.com/aerotoad/neboa/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://maximorlov.com",
+    "feeds": [
+      "https://maximorlov.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/web-infra-dev/wg",
+    "feeds": [
+      "https://github.com/web-infra-dev/wg/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/actions/checkout",
+    "feeds": [
+      "https://github.com/actions/checkout/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/measuredco/puck",
+    "feeds": [
+      "https://github.com/measuredco/puck/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nebrelbug/npm-to-yarn",
+    "feeds": [
+      "https://github.com/nebrelbug/npm-to-yarn/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nodejs/Release",
+    "feeds": [
+      "https://github.com/nodejs/Release/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/isaacs/tshy",
+    "feeds": [
+      "https://github.com/isaacs/tshy/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/nuejs/nuejs",
+    "feeds": [
+      "https://github.com/nuejs/nuejs/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://abduvik.medium.com",
+    "feeds": [
+      "https://medium.com/feed/@abduvik"
+    ]
+  },
+  {
+    "domain": "https://github.com/eslint-stylistic/eslint-stylistic",
+    "feeds": [
+      "https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://ladle.dev",
+    "feeds": [
+      "https://ladle.dev/blog/rss.xml",
+      "https://ladle.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/kurtextrem/awesome-performance-patches",
+    "feeds": [
+      "https://github.com/kurtextrem/awesome-performance-patches/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.sbcr.jp",
+    "feeds": [
+      "https://www.sbcr.jp/product/4815619480/feed/"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/taisei_13046/",
+    "feeds": [
+      "https://zenn.dev/taisei_13046/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/runk/node-chardet",
+    "feeds": [
+      "https://github.com/runk/node-chardet/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/instant-dev/instant",
+    "feeds": [
+      "https://github.com/instant-dev/instant/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/aidenybai/pattycake",
+    "feeds": [
+      "https://github.com/aidenybai/pattycake/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/tldraw/tldraw",
+    "feeds": [
+      "https://github.com/tldraw/tldraw/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://prateeksurana.me",
+    "feeds": [
+      "https://prateeksurana.me/blog/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/nksaraf/vinxi",
+    "feeds": [
+      "https://github.com/nksaraf/vinxi/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/arktypeio/arktype",
+    "feeds": [
+      "https://github.com/arktypeio/arktype/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.sonarsource.com",
+    "feeds": [
+      "https://www.sonarsource.com/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://www.softwareatscale.dev",
+    "feeds": [
+      "https://www.softwareatscale.dev/feed",
+      "https://api.substack.com/feed/podcast/55725.rss",
+      "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc29mdHdhcmVhdHNjYWxlLmRldi9mZWVkLw"
+    ]
+  },
+  {
+    "domain": "https://github.com/react-hookz/web",
+    "feeds": [
+      "https://github.com/react-hookz/web/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/elbywan/zap",
+    "feeds": [
+      "https://github.com/elbywan/zap/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zackoverflow.dev",
+    "feeds": [
+      "https://zackoverflow.dev/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/orgs/web-infra-dev",
+    "feeds": [
+      "https://github.com/orgs/web-infra-dev/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.scottlogic.com",
+    "feeds": [
+      "https://blog.scottlogic.com/atom.xml",
+      "https://blog.scottlogic.com/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/AlexSergey/rockpack",
+    "feeds": [
+      "https://github.com/AlexSergey/rockpack/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://yarnpkg.com",
+    "feeds": [
+      "https://yarnpkg.com/blog/rss.xml",
+      "https://yarnpkg.com/blog/atom.xml"
+    ]
+  },
+  {
+    "domain": "https://sindresorhus.com",
+    "feeds": [
+      "https://sindresorhus.com/rss.xml",
+      "https://sindresorhus.com/rss-apps.xml"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/nakaakist/",
+    "feeds": [
+      "https://zenn.dev/nakaakist/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/joshmarinacci/node-pureimage",
+    "feeds": [
+      "https://github.com/joshmarinacci/node-pureimage/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/punkshiraishi/",
+    "feeds": [
+      "https://zenn.dev/punkshiraishi/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/docusaurus",
+    "feeds": [
+      "https://github.com/facebook/docusaurus/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/farm-fe/farm",
+    "feeds": [
+      "https://github.com/farm-fe/farm/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/oxc-project/javascript-parser-in-rust",
+    "feeds": [
+      "https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://medium.com/miro-engineering/",
+    "feeds": [
+      "https://medium.com/feed/miro-engineering"
+    ]
+  },
+  {
+    "domain": "https://rviscomi.dev",
+    "feeds": [
+      "https://rviscomi.dev/feed/",
+      "https://rviscomi.dev/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/vvo/iron-session",
+    "feeds": [
+      "https://github.com/vvo/iron-session/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://speakerdeck.com/sajikix/",
+    "feeds": [
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
+    ]
+  },
+  {
+    "domain": "https://github.com/css-hooks/css-hooks",
+    "feeds": [
+      "https://github.com/css-hooks/css-hooks/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/cosmiconfig/cosmiconfig",
+    "feeds": [
+      "https://github.com/cosmiconfig/cosmiconfig/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/architect/aws-lite",
+    "feeds": [
+      "https://github.com/architect/aws-lite/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/unjs/unenv",
+    "feeds": [
+      "https://github.com/unjs/unenv/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://github.com/facebook/stylex",
+    "feeds": [
+      "https://github.com/facebook/stylex/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://scrapbox.io",
+    "feeds": [
+      "https://scrapbox.io/api/feed/yamanoku"
+    ]
+  },
+  {
+    "domain": "https://github.com/sindresorhus/got",
+    "feeds": [
+      "https://github.com/sindresorhus/got/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/zawa_kyo/",
+    "feeds": [
+      "https://zenn.dev/zawa_kyo/feed"
+    ]
+  },
+  {
+    "domain": "https://github.com/BuilderIO/hydration-overlay",
+    "feeds": [
+      "https://github.com/BuilderIO/hydration-overlay/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/urotea/",
+    "feeds": [
+      "https://zenn.dev/urotea/feed"
+    ]
+  },
+  {
+    "domain": "https://user-first.ikyu.co.jp",
+    "feeds": [
+      "https://user-first.ikyu.co.jp/feed",
+      "https://user-first.ikyu.co.jp/rss"
+    ]
+  },
+  {
+    "domain": "https://developers.prtimes.jp",
+    "feeds": [
+      "https://developers.prtimes.jp/feed/",
+      "https://developers.prtimes.jp/comments/feed/"
+    ]
+  },
+  {
+    "domain": "https://github.com/date-fns/date-fns",
+    "feeds": [
+      "https://github.com/date-fns/date-fns/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://nsaunders.dev",
+    "feeds": [
+      "https://nsaunders.dev/rss.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/webui-dev/webui",
+    "feeds": [
+      "https://github.com/webui-dev/webui/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://www.htmhell.dev",
+    "feeds": [
+      "https://www.htmhell.dev/feed.xml",
+      "https://www.htmhell.dev/feed_tips.xml",
+      "https://www.htmhell.dev/feed_advent.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/moment/moment",
+    "feeds": [
+      "https://github.com/moment/moment/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://blog.osstech.co.jp",
+    "feeds": [
+      "https://blog.osstech.co.jp/posts/index.xml"
+    ]
+  },
+  {
+    "domain": "https://github.com/speed-highlight/core",
+    "feeds": [
+      "https://github.com/speed-highlight/core/releases.atom"
+    ]
+  },
+  {
+    "domain": "https://quick-lint-js.com",
+    "feeds": [
+      "https://quick-lint-js.com/blog/feed.xml"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/uki00a/",
+    "feeds": [
+      "https://zenn.dev/uki00a/feed"
+    ]
+  },
+  {
+    "domain": "https://zenn.dev/yamachan0625/",
+    "feeds": [
+      "https://zenn.dev/yamachan0625/feed"
+    ]
+  }
+]
