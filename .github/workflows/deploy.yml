@@ -8,8 +8,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-data:
-    name: "update data"
+  deploy:
+    name: deploy
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -22,6 +22,7 @@ jobs:
         run: yarn install
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
+      # update data
       - name: Generate data
         run: yarn run update-data
       - name: Commit and push
