@@ -20,6 +20,8 @@ jobs:
           node-version: 20
       - name: Install
         run: yarn install
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
       - name: Generate data
         run: yarn run update-data
       - name: Commit and push
