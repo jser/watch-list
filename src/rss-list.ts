@@ -99,7 +99,8 @@ const createOPML = (feeds: FeedItem[]) => {
     };
     const body = feeds
         .map((feed) => {
-            const title = feed.domain;
+            // remove https:// or http://
+            const title = feed.domain.replace(/^https?:\/\//, "");
             const xmlUrl = feed.feeds[0];
             return `<outline text="${escapeXML(title)}" title="${escapeXML(title)}" type="rss" xmlUrl="${xmlUrl}"/>`;
         })
