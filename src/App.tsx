@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import indexJSON from "../data/watch-list.json";
+import indexJSON from "../data/web-list.json";
 
 type ItemType = (typeof indexJSON)[0];
 
@@ -32,6 +32,11 @@ export const Item = (props: ItemProps) => {
                     <a href={props.domain}>{props.domain}</a>
                 </h3>
                 <span>{props.count}+</span>
+                {props.rssUrl ? (
+                    <a href={props.rssUrl} target={"_blank"}>
+                        RSS
+                    </a>
+                ) : undefined}
             </div>
             <footer>
                 <p>
