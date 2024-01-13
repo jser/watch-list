@@ -24,7 +24,13 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 
 - Generate Watch List
 - Visit each item's page and get RSS feeds
-- Save RSS feeds to `data/rss.json`
+- Save RSS feeds to `data/feed-list.json` and `data/feed-list.opml`
+
+### Web List
+
+- Generate Watch List and RSS Feeds
+- Merge Watch List and RSS Feeds to `data/web-list.json`
+- It is optimized for Web Page
 
 ## Development
 
