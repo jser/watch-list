@@ -140,6 +140,7 @@ const main = async () => {
                 feeds: [rssUrl]
             };
         }
+        console.debug("try feed from domain", domain);
         const feeds = await getFeeds(domain).catch(() => []);
         if (feeds.length > 0) {
             console.debug("Got feeds", domain, feeds);
@@ -158,7 +159,7 @@ const main = async () => {
             return url;
         };
         const normalizedExampleUrl = normalizeExample(item.example.url);
-        console.debug("try example", normalizedExampleUrl);
+        console.debug("try feed from example", normalizedExampleUrl);
         const feedsForExample = await getFeeds(normalizedExampleUrl).catch(() => []);
         if (feedsForExample.length > 0) {
             console.debug("Got feeds for example", item.example.url, feedsForExample);
