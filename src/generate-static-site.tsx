@@ -18,15 +18,6 @@ export const generateStaticSite = () => {
                 <title>JSer.info Watch List</title>
                 <meta name="description" content="JavaScript information source of JSer.info">
                 <style>${baseCSS}${appCSS}</style>
-                <!-- JSONLD: last updated-->
-                <script type="application/ld+json">
-                {
-                    "@context": "http://schema.org",
-                    "@type": "WebSite",
-                    "url": "https://jser.info/watch-list/",
-                    "dateModified": "${isoString}"
-                }
-                </script>
             </head>
             <body>
                 <header>
@@ -35,7 +26,8 @@ export const generateStaticSite = () => {
                     生きているJavaScriptの情報源として利用できます。<br/>
                     OPML Feedを使い、サイトのRSSフィードをまとめて購読できます。</p>
                     <ul>
-                    <li>OPML Feed: <a href="https://jser.info/watch-list/data/opml-list.opml">opml-list.opml</a></li>
+                    <li>OPML Feed(ALL): <a href="https://jser.info/watch-list/data/feed-list.opml">feed-list.opml</a></li>
+                    <li>OPML Feed(流量調整済): <a href="https://jser.info/watch-list/data/opml-list.opml">opml-list.opml</a></li>
                     <li>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></li>
                     <li>Last Updated: <time datetime="${isoString}">${isoString}</time></li>
                     </ul>
