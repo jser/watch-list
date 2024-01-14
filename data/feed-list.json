@@ -3376,6 +3376,12 @@
     ]
   },
   {
+    "url": "https://www.wantedly.com",
+    "feeds": [
+      "https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.webkit.org",
     "feeds": [
       "https://www.webkit.org/feed/",
