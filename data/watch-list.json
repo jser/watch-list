@@ -1280,23 +1280,6 @@
   },
   {
     "count": 3,
-    "url": "https://www.shoeisha.co.jp",
-    "tags": [
-      "JavaScript",
-      "bok",
-      "security",
-      "browser",
-      "book",
-      "debug",
-      "testing"
-    ],
-    "example": {
-      "title": "フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識 電子書籍｜翔泳社の本",
-      "url": "https://www.shoeisha.co.jp/book/detail/9784798178639"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://blog.jxck.io",
     "tags": [
       "JavaScript",
@@ -9301,19 +9284,6 @@
     "example": {
       "title": "Vike",
       "url": "https://vike.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.sbcr.jp",
-    "tags": [
-      "React",
-      "Next.js",
-      "book"
-    ],
-    "example": {
-      "title": "これからはじめるReact実践入門 | SBクリエイティブ",
-      "url": "https://www.sbcr.jp/product/4815619480/"
     }
   },
   {

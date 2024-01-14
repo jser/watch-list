@@ -3333,19 +3333,6 @@
     ]
   },
   {
-    "url": "https://www.sbcr.jp",
-    "feeds": [
-      "https://www.sbcr.jp/product/4815619480/feed/"
-    ]
-  },
-  {
-    "url": "https://www.shoeisha.co.jp",
-    "feeds": [
-      "https://www.shoeisha.co.jp/rss/index.xml",
-      "https://www.shoeisha.co.jp/rss/book/index.xml"
-    ]
-  },
-  {
     "url": "https://www.simoahava.com",
     "feeds": [
       "https://www.simoahava.com/index.xml"
