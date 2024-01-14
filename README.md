@@ -53,9 +53,10 @@ graph TD
 
 ### Web List
 
-- Generate Watch List and RSS Feeds
-- Merge Watch List and RSS Feeds to `data/web-list.json`
-- It is optimized for Web Page
+1. Generate Watch List and Feed List
+2. Merge Watch List and RSS Feeds to `data/web-list.json`
+
+📝 It is optimized for Web Page
 
 ## Development
 
