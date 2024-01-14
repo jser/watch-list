@@ -3376,12 +3376,6 @@
     ]
   },
   {
-    "url": "https://www.wantedly.com",
-    "feeds": [
-      "https://www.wantedly.com/projects.xml"
-    ]
-  },
-  {
     "url": "https://www.webkit.org",
     "feeds": [
       "https://www.webkit.org/feed/",

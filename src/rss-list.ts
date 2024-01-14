@@ -120,16 +120,8 @@ const main = async () => {
                 return;
             }
         }
-        console.debug(`[${meta.logNamespace}] try feed from url`, url);
-        const feeds = await getFeeds(url).catch(() => []);
-        if (feeds.length > 0) {
-            console.debug(`[${meta.logNamespace}] Got feeds`, url, feeds);
-            return {
-                url,
-                feeds
-            };
-        }
-        // example
+        // 1. Try to get feed from example url
+        // 記事のRSSとドメインのRSSで範囲が違うので、範囲が狭い方を優先する
         const normalizeExample = (url: string) => {
             // if /blog/ included, remove it
             // https://example.com/blog/<title> => https://example.com/blog/
@@ -151,6 +143,16 @@ const main = async () => {
             return {
                 url,
                 feeds: feedsForExample
+            };
+        }
+        // 2. Try to get feed from url(domain page)
+        console.debug(`[${meta.logNamespace}] try feed from url`, url);
+        const feeds = await getFeeds(url).catch(() => []);
+        if (feeds.length > 0) {
+            console.debug(`[${meta.logNamespace}] Got feeds`, url, feeds);
+            return {
+                url,
+                feeds
             };
         }
         console.debug(`[${meta.logNamespace}] No feeds`, url);
