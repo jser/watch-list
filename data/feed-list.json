@@ -3378,7 +3378,7 @@
   {
     "url": "https://www.wantedly.com",
     "feeds": [
-      "https://www.wantedly.com/projects.xml"
+      "https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"
     ]
   },
   {
