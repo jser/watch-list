@@ -3136,9 +3136,9 @@
     ]
   },
   {
-    "domain": "https://gist.github.com",
+    "domain": "https://gist.github.com/andrewbranch",
     "feeds": [
-      "https://gist.github.com/starred.atom"
+      "https://gist.github.com/andrewbranch.atom"
     ]
   },
   {
