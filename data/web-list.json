@@ -16,7 +16,8 @@
     "example": {
       "title": "Node v20.11.0 (LTS) | Node.js",
       "url": "https://nodejs.org/en/blog/release/v20.11.0"
-    }
+    },
+    "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
     "count": 41,
@@ -67,7 +68,8 @@
     "example": {
       "title": "CSS Nesting and the Cascade | WebKit",
       "url": "https://webkit.org/blog/14571/css-nesting-and-the-cascade/"
-    }
+    },
+    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 32,
@@ -89,7 +91,8 @@
     "example": {
       "title": "Deno 1.39: The Return of WebGPU",
       "url": "https://deno.com/blog/v1.39"
-    }
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 31,
@@ -182,7 +185,8 @@
     "example": {
       "title": "Astro 4.1 | Astro",
       "url": "https://astro.build/blog/astro-410/"
-    }
+    },
+    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 14,
@@ -257,7 +261,8 @@
     "example": {
       "title": "Deprecation of formatting rules - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2023/10/deprecating-formatting-rules/"
-    }
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 10,
@@ -270,7 +275,8 @@
     "example": {
       "title": "Ecosystem 2023 Recap | Electron",
       "url": "https://www.electronjs.org/blog/ecosystem-2023-eoy-recap"
-    }
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 10,
@@ -289,7 +295,8 @@
     "example": {
       "title": "TypeScript and native ESM on Node.js",
       "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
-    }
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
   },
   {
     "count": 10,
@@ -311,7 +318,8 @@
     "example": {
       "title": "Tailwind CSS実践入門：書籍案内｜技術評論社",
       "url": "https://gihyo.jp/book/2024/978-4-297-13943-8"
-    }
+    },
+    "rssUrl": "https://gihyo.jp/feed/rss1"
   },
   {
     "count": 10,
@@ -413,7 +421,8 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2023-11 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2023/12/10/ecmascript-proposal-update"
-    }
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 8,
@@ -432,7 +441,8 @@
     "example": {
       "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
       "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
+    },
+    "rssUrl": "https://blog.angular.io/feed"
   },
   {
     "count": 8,
@@ -449,7 +459,8 @@
     "example": {
       "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
       "url": "https://reactnative.dev/blog/2023/01/12/version-071"
-    }
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 8,
@@ -518,7 +529,8 @@
     "example": {
       "title": "Ember 5.0 Released",
       "url": "https://blog.emberjs.com/ember-5-0-released/"
-    }
+    },
+    "rssUrl": "https://blog.emberjs.com/rss.xml"
   },
   {
     "count": 7,
@@ -534,7 +546,8 @@
     "example": {
       "title": "Prettier 3.2: Support JSONC and Angular’s ICU expression · Prettier",
       "url": "https://prettier.io/blog/2024/01/12/3.2.0.html"
-    }
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 7,
@@ -646,7 +659,8 @@
     "example": {
       "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
-    }
+    },
+    "rssUrl": "https://calendar.perfplanet.com/feed/"
   },
   {
     "count": 5,
@@ -687,7 +701,8 @@
     "example": {
       "title": "7.23.0 Released: Decorator Metadata and many new `import` features! · Babel",
       "url": "https://babeljs.io/blog/2023/09/25/7.23.0"
-    }
+    },
+    "rssUrl": "https://babeljs.io/blog/rss.xml"
   },
   {
     "count": 5,
@@ -733,7 +748,8 @@
     "example": {
       "title": "How React 18 Improves Application Performance – Vercel",
       "url": "https://vercel.com/blog/how-react-18-improves-application-performance"
-    }
+    },
+    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 5,
@@ -762,7 +778,8 @@
     "example": {
       "title": "npm provenance general availability - The GitHub Blog",
       "url": "https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/"
-    }
+    },
+    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 5,
@@ -782,7 +799,8 @@
     "example": {
       "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
       "url": "https://moonrepo.dev/blog/moon-v1.0"
-    }
+    },
+    "rssUrl": "https://moonrepo.dev/blog/rss.xml"
   },
   {
     "count": 5,
@@ -800,7 +818,8 @@
     "example": {
       "title": "Qwik Reaches v1.0",
       "url": "https://www.builder.io/blog/qwik-v1"
-    }
+    },
+    "rssUrl": "https://www.builder.io/blog/feed.xml"
   },
   {
     "count": 5,
@@ -817,7 +836,8 @@
     "example": {
       "title": "Rspack 0.5 Release Announcement - Rspack",
       "url": "https://www.rspack.dev/blog/announcing-0.5.html"
-    }
+    },
+    "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
   },
   {
     "count": 5,
@@ -849,7 +869,8 @@
     "example": {
       "title": "Everything You Need to Know About the Gap After the List Marker | CSS-Tricks - CSS-Tricks",
       "url": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/"
-    }
+    },
+    "rssUrl": "https://css-tricks.com/feed/"
   },
   {
     "count": 4,
@@ -896,7 +917,8 @@
     "example": {
       "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
       "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
-    }
+    },
+    "rssUrl": "https://hacks.mozilla.org/feed/"
   },
   {
     "count": 4,
@@ -911,7 +933,8 @@
     "example": {
       "title": "Parcel v2.9.0",
       "url": "https://parceljs.org/blog/v2-9-0/"
-    }
+    },
+    "rssUrl": "https://parceljs.org/feed.xml"
   },
   {
     "count": 4,
@@ -959,7 +982,8 @@
     "example": {
       "title": "Useful DevTools Tips and Tricks — Smashing Magazine",
       "url": "https://www.smashingmagazine.com/2023/06/popular-devtools-tips/"
-    }
+    },
+    "rssUrl": "https://www.smashingmagazine.com/feed/"
   },
   {
     "count": 4,
@@ -1008,7 +1032,8 @@
     "example": {
       "title": "JavaScript Primer v5.0.0: ES2023の対応/CC BYライセンスに変更/Open Collectiveで支援できるようになりました | Web Scratch",
       "url": "https://efcl.info/2023/08/31/jsprimer-v5/"
-    }
+    },
+    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 4,
@@ -1021,7 +1046,8 @@
     "example": {
       "title": "jQuery 3.7.0 Released: Staying in Order | Official jQuery Blog",
       "url": "https://blog.jquery.com/2023/05/11/jquery-3-7-0-released-staying-in-order/"
-    }
+    },
+    "rssUrl": "https://blog.jquery.com/feed/"
   },
   {
     "count": 4,
@@ -1049,7 +1075,8 @@
     "example": {
       "title": "Nuxt 3.7 · Nuxt",
       "url": "https://nuxt.com/blog/v3-7"
-    }
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1078,7 +1105,8 @@
     "example": {
       "title": "Announcing SvelteKit 2",
       "url": "https://svelte.dev/blog/sveltekit-2"
-    }
+    },
+    "rssUrl": "https://svelte.dev/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1300,7 +1328,8 @@
     "example": {
       "title": "フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識 電子書籍｜翔泳社の本",
       "url": "https://www.shoeisha.co.jp/book/detail/9784798178639"
-    }
+    },
+    "rssUrl": "https://www.shoeisha.co.jp/rss/index.xml"
   },
   {
     "count": 3,
@@ -1314,7 +1343,8 @@
     "example": {
       "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
       "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
-    }
+    },
+    "rssUrl": "https://blog.jxck.io/feeds/atom.xml"
   },
   {
     "count": 3,
@@ -1363,7 +1393,8 @@
     "example": {
       "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
       "url": "https://dwango.github.io/articles/html-loading-attribute/"
-    }
+    },
+    "rssUrl": "https://dwango.github.io/index.xml"
   },
   {
     "count": 3,
@@ -1377,7 +1408,8 @@
     "example": {
       "title": "CSS Containmentの仕組みを理解してレンダリングパフォーマンスをアップする１ 概要 | フロントエンドBlog | ミツエーリンクス",
       "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202311/28_1448.html"
-    }
+    },
+    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
   },
   {
     "count": 3,
@@ -1421,7 +1453,8 @@
     "example": {
       "title": "Bytecode Alliance — Welcoming Javy: A new hosted project",
       "url": "https://bytecodealliance.org/articles/javy-hosted-project"
-    }
+    },
+    "rssUrl": "https://bytecodealliance.org/feed.xml"
   },
   {
     "count": 3,
@@ -1439,7 +1472,8 @@
     "example": {
       "title": "How to Pass a Component as a Prop in React | Total TypeScript",
       "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
-    }
+    },
+    "rssUrl": "https://www.totaltypescript.com/rss.xml"
   },
   {
     "count": 3,
@@ -1484,7 +1518,8 @@
     "example": {
       "title": "Vite 5.0 is out! | Vite",
       "url": "https://vitejs.dev/blog/announcing-vite5"
-    }
+    },
+    "rssUrl": "https://vitejs.dev/blog.rss"
   },
   {
     "count": 3,
@@ -1498,7 +1533,8 @@
     "example": {
       "title": "WebKit Features in Safari 17.2 | WebKit",
       "url": "https://www.webkit.org/blog/14787/webkit-features-in-safari-17-2/"
-    }
+    },
+    "rssUrl": "https://www.webkit.org/feed/"
   },
   {
     "count": 3,
@@ -1513,7 +1549,8 @@
     "example": {
       "title": "Biome v1.5 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-5/"
-    }
+    },
+    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 2,
@@ -1544,7 +1581,8 @@
     "example": {
       "title": "`*.d.ts` ファイルをコミットする前に知ってほしい4つのこと",
       "url": "https://zenn.dev/qnighy/articles/9a6a0041f2a1aa"
-    }
+    },
+    "rssUrl": "https://zenn.dev/qnighy/feed"
   },
   {
     "count": 2,
@@ -1634,7 +1672,8 @@
     "example": {
       "title": "Astro ゆく年くる年",
       "url": "https://zenn.dev/morinokami/articles/astro-2023-2024"
-    }
+    },
+    "rssUrl": "https://zenn.dev/morinokami/feed"
   },
   {
     "count": 2,
@@ -1646,7 +1685,8 @@
     "example": {
       "title": "React v18.0 – React Blog",
       "url": "https://reactjs.org/blog/2022/03/29/react-v18.html"
-    }
+    },
+    "rssUrl": "https://reactjs.org/feed.xml"
   },
   {
     "count": 2,
@@ -1704,7 +1744,8 @@
     "example": {
       "title": "コードジャンプ可能な CSS Modules を実現する happy-css-modules の紹介 - mizdra's blog",
       "url": "https://www.mizdra.net/entry/2022/11/14/102506"
-    }
+    },
+    "rssUrl": "https://www.mizdra.net/feed"
   },
   {
     "count": 2,
@@ -1765,7 +1806,8 @@
     "example": {
       "title": "Jest 29: Snapshot format changes · Jest",
       "url": "https://jestjs.io/blog/2022/08/25/jest-29"
-    }
+    },
+    "rssUrl": "https://jestjs.io/blog/rss.xml"
   },
   {
     "count": 2,
@@ -1829,7 +1871,8 @@
     "example": {
       "title": "Announcing Babylon.js 6.0. Our mission is to build one of the most… | by Babylon.js | Apr, 2023 | Medium",
       "url": "https://babylonjs.medium.com/announcing-babylon-js-6-0-dcb5f1662e3a"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/@babylonjs"
   },
   {
     "count": 2,
@@ -1889,7 +1932,8 @@
     "example": {
       "title": "My talk on CSS runtime performance | Read the Tea Leaves",
       "url": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"
-    }
+    },
+    "rssUrl": "https://nolanlawson.com/feed/"
   },
   {
     "count": 2,
@@ -1950,7 +1994,8 @@
     "example": {
       "title": "What’s New With Lerna 6.5?. In case you missed it, Lerna version… | by Zack DeRose | Feb, 2023 | Nx Devtools",
       "url": "https://blog.nrwl.io/whats-new-with-lerna-6-5-4a4f69371504"
-    }
+    },
+    "rssUrl": "https://blog.nrwl.io/feed"
   },
   {
     "count": 2,
@@ -1962,7 +2007,8 @@
     "example": {
       "title": "Ecma International approves new standards - Ecma International",
       "url": "https://www.ecma-international.org/news/ecma-international-approves-new-standards-at-the-125th-general-assembly-27-june-2023/"
-    }
+    },
+    "rssUrl": "https://ecma-international.org/feed/"
   },
   {
     "count": 2,
@@ -2009,7 +2055,8 @@
     "example": {
       "title": "Blogged Answers: My Experience Modernizing Packages to ESM · Mark's Dev Blog",
       "url": "https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/"
-    }
+    },
+    "rssUrl": "https://blog.isquaredsoftware.com/index.xml"
   },
   {
     "count": 2,
@@ -2024,7 +2071,8 @@
     "example": {
       "title": "TypeScript 5.0 で追加された verbatimModuleSyntax とは何か？",
       "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax"
-    }
+    },
+    "rssUrl": "https://zenn.dev/teppeis/feed"
   },
   {
     "count": 2,
@@ -2081,7 +2129,8 @@
     "example": {
       "title": "Regular expressions in JavaScript - Honeybadger Developer Blog",
       "url": "https://www.honeybadger.io/blog/javascript-regular-expressions/"
-    }
+    },
+    "rssUrl": "https://www.honeybadger.io/blog/feed.xml"
   },
   {
     "count": 2,
@@ -2143,7 +2192,8 @@
     "example": {
       "title": "JavaScript Import maps, Part 1: Introduction | SpiderMonkey JavaScript/WebAssembly Engine",
       "url": "https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html"
-    }
+    },
+    "rssUrl": "https://spidermonkey.dev/feed.xml"
   },
   {
     "count": 2,
@@ -2158,7 +2208,8 @@
     "example": {
       "title": "Web Apps on macOS Sonoma 14 Beta",
       "url": "https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/"
-    }
+    },
+    "rssUrl": "https://blog.tomayac.com/feed/feed.xml"
   },
   {
     "count": 2,
@@ -2190,7 +2241,8 @@
     "example": {
       "title": "Vite は使ってないけど Jest を Vitest に移行する",
       "url": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest"
-    }
+    },
+    "rssUrl": "https://zenn.dev/sa2knight/feed"
   },
   {
     "count": 2,
@@ -2265,7 +2317,8 @@
     "example": {
       "title": "Bringing Javascript to WebAssembly for Shopify Functions (2023)",
       "url": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions"
-    }
+    },
+    "rssUrl": "https://shopify.engineering/blog.atom"
   },
   {
     "count": 2,
@@ -2337,7 +2390,8 @@
     "example": {
       "title": "Announcing Tauri 1.3.0 | Tauri Apps",
       "url": "https://tauri.app/blog/2023/05/03/tauri-1-3/"
-    }
+    },
+    "rssUrl": "https://tauri.app/blog/rss.xml"
   },
   {
     "count": 2,
@@ -2350,7 +2404,8 @@
     "example": {
       "title": "Vue.js",
       "url": "https://v2.vuejs.org/eol/"
-    }
+    },
+    "rssUrl": "https://v2.vuejs.org/atom.xml"
   },
   {
     "count": 2,
@@ -2364,7 +2419,8 @@
     "example": {
       "title": "Next.jsを4年間使用してたどりついた、エンタープライズアプリケーションのフロントエンド開発・構築手法 | POSTD",
       "url": "https://postd.cc/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs/"
-    }
+    },
+    "rssUrl": "https://postd.cc/feed/"
   },
   {
     "count": 2,
@@ -2536,7 +2592,8 @@
     "example": {
       "title": "Bootstrap 5.3.2 | Bootstrap Blog",
       "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
-    }
+    },
+    "rssUrl": "https://blog.getbootstrap.com/feed.xml"
   },
   {
     "count": 2,
@@ -2550,7 +2607,8 @@
     "example": {
       "title": "Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more! – Lit",
       "url": "https://lit.dev/blog/2023-10-10-lit-3.0/"
-    }
+    },
+    "rssUrl": "https://lit.dev/blog/atom.xml"
   },
   {
     "count": 2,
@@ -2563,7 +2621,8 @@
     "example": {
       "title": "Baseline's evolution on MDN | MDN Blog",
       "url": "https://developer.mozilla.org/en-US/blog/baseline-evolution-on-mdn/"
-    }
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 2,
@@ -2593,7 +2652,8 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
+    },
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
     "count": 1,
@@ -2619,7 +2679,8 @@
     "example": {
       "title": "A brief introduction of vite-plugin-federation | by Vueshenzhen | Jan, 2022 | Medium",
       "url": "https://medium.com/@vueshenzhen/a-brief-introduction-of-vite-plugin-federation-9e998b2e43b"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/@vueshenzhen"
   },
   {
     "count": 1,
@@ -2781,7 +2842,8 @@
     "example": {
       "title": "Structure and Interpretation of Computer Programs | The MIT Press",
       "url": "https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1"
-    }
+    },
+    "rssUrl": "https://mitpress.mit.edu/feed/"
   },
   {
     "count": 1,
@@ -2795,7 +2857,8 @@
     "example": {
       "title": "Vanilla List • The Vanilla JavaScript Repository",
       "url": "https://vanillalist.top/"
-    }
+    },
+    "rssUrl": "https://vanillalist.top/feed.xml"
   },
   {
     "count": 1,
@@ -2875,7 +2938,8 @@
     "example": {
       "title": "How React server components work: an in-depth guide",
       "url": "https://blog.plasmic.app/posts/how-react-server-components-work/"
-    }
+    },
+    "rssUrl": "https://blog.plasmic.app/feed.xml"
   },
   {
     "count": 1,
@@ -2888,7 +2952,8 @@
     "example": {
       "title": "Recoil 0.6 | Recoil",
       "url": "https://recoiljs.org/blog/2022/01/28/0.6.0-release"
-    }
+    },
+    "rssUrl": "https://recoiljs.org/blog/rss.xml"
   },
   {
     "count": 1,
@@ -2916,7 +2981,8 @@
     "example": {
       "title": "How Prime Video updates its app for more than 8,000 device types - Amazon Science",
       "url": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"
-    }
+    },
+    "rssUrl": "https://www.amazon.science/index.rss"
   },
   {
     "count": 1,
@@ -2928,7 +2994,8 @@
     "example": {
       "title": "V8 release v9.9 · V8",
       "url": "https://v8.dev/blog/v8-release-99"
-    }
+    },
+    "rssUrl": "https://v8.dev/blog.atom"
   },
   {
     "count": 1,
@@ -2941,7 +3008,8 @@
     "example": {
       "title": "100万行の大規模なJavaScript製システムをTypeScriptに移行するためにやったこと | CyberAgent Developers Blog",
       "url": "https://developers.cyberagent.co.jp/blog/archives/34364/"
-    }
+    },
+    "rssUrl": "https://developers.cyberagent.co.jp/blog/feed/"
   },
   {
     "count": 1,
@@ -2954,7 +3022,8 @@
     "example": {
       "title": "Introducing Wolvic | Igalia",
       "url": "https://www.igalia.com/2022/02/03/Introducing-Wolvic.html"
-    }
+    },
+    "rssUrl": "https://www.igalia.com/feed.xml"
   },
   {
     "count": 1,
@@ -2980,7 +3049,8 @@
     "example": {
       "title": "MDX 2 | MDX",
       "url": "https://mdxjs.com/blog/v2/"
-    }
+    },
+    "rssUrl": "https://mdxjs.com/rss.xml"
   },
   {
     "count": 1,
@@ -3007,7 +3077,8 @@
     "example": {
       "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm - DEV Community 👩‍💻👨‍💻",
       "url": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/atian25"
   },
   {
     "count": 1,
@@ -3077,7 +3148,8 @@
     "example": {
       "title": "Web パフォーマンスとプロダクト KPI の相関を可視化する話 2022ver - ドクターズプライム Official Blog",
       "url": "https://blog.drsprime.com/entry/2022/02/10/170000"
-    }
+    },
+    "rssUrl": "https://blog.drsprime.com/feed"
   },
   {
     "count": 1,
@@ -3102,7 +3174,8 @@
     "example": {
       "title": "textareaをカスタマイズできるReact用のライブラリを作成しました",
       "url": "https://zenn.dev/inokawa/articles/946ba7be927f44"
-    }
+    },
+    "rssUrl": "https://zenn.dev/inokawa/feed"
   },
   {
     "count": 1,
@@ -3126,7 +3199,8 @@
     "example": {
       "title": "Yarn 3.2 🚢🔮 Libc, Yarn Explain, Next Major, ... - DEV Community 👩‍💻👨‍💻",
       "url": "https://dev.to/arcanis/yarn-32-libc-yarn-explain-next-major--o22"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/arcanis"
   },
   {
     "count": 1,
@@ -3249,7 +3323,8 @@
     "example": {
       "title": "daisyUI — Tailwind CSS Components",
       "url": "https://daisyui.com/"
-    }
+    },
+    "rssUrl": "https://daisyui.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -3275,7 +3350,8 @@
     "example": {
       "title": "WebGPU — All of the cores, none of the canvas — surma.dev",
       "url": "https://surma.dev/things/webgpu/"
-    }
+    },
+    "rssUrl": "https://surma.dev/index.xml"
   },
   {
     "count": 1,
@@ -3345,7 +3421,8 @@
     "example": {
       "title": "PgTyped - Node.jsで型安全にSQLを管理するには | HiCustomer Lab - HiCustomer Developer's Blog",
       "url": "https://tech.hicustomer.jp/posts/type-safe-sql-library-for-nodejs/"
-    }
+    },
+    "rssUrl": "https://tech.hicustomer.jp/index.xml"
   },
   {
     "count": 1,
@@ -3376,7 +3453,8 @@
     "example": {
       "title": "Introducing Ladle | Ladle",
       "url": "https://www.ladle.dev/blog/introducing-ladle/"
-    }
+    },
+    "rssUrl": "https://www.ladle.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -3445,7 +3523,8 @@
     "example": {
       "title": "ブラウザ自動操作技術の深層へ、直接触れて学ぶ WebDriver と Chrome DevTools Protocol - Speaker Deck",
       "url": "https://speakerdeck.com/hgsgtk/webdriver-cdp-using-php"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/hgsgtk.atom"
   },
   {
     "count": 1,
@@ -3545,7 +3624,8 @@
     "example": {
       "title": "Announcing RedwoodJS 1.0 and $1M Funding",
       "url": "https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html"
-    }
+    },
+    "rssUrl": "https://feeds.feedburner.com/tom-preston-werner"
   },
   {
     "count": 1,
@@ -3584,7 +3664,8 @@
     "example": {
       "title": "Turborepo 1.2 | Turborepo",
       "url": "https://turborepo.org/blog/turbo-1-2-0"
-    }
+    },
+    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 1,
@@ -3650,7 +3731,8 @@
     "example": {
       "title": "なぜ我々はsession.cookieを変更しなければならなかったのか - BASEプロダクトチームブログ",
       "url": "https://devblog.thebase.in/entry/2022/04/13/114714"
-    }
+    },
+    "rssUrl": "https://devblog.thebase.in/feed"
   },
   {
     "count": 1,
@@ -3719,7 +3801,8 @@
     "example": {
       "title": "WebAssembly 2.0 First Public Working Drafts | W3C News",
       "url": "https://www.w3.org/blog/news/archives/9509"
-    }
+    },
+    "rssUrl": "https://www.w3.org/blog/feed/"
   },
   {
     "count": 1,
@@ -3761,7 +3844,8 @@
     "example": {
       "title": "How Jotai Specifies Package Entry Points · Daishi Kato's blog",
       "url": "https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/"
-    }
+    },
+    "rssUrl": "https://blog.axlight.com/index.xml"
   },
   {
     "count": 1,
@@ -3801,7 +3885,8 @@
     "example": {
       "title": "How We Migrated from Javascript and Flow to TypeScript at Osome - DEV Community 👩‍💻👨‍💻",
       "url": "https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/frolovdev"
   },
   {
     "count": 1,
@@ -3872,7 +3957,8 @@
     "example": {
       "title": "Remotion 3.0 | Remotion",
       "url": "https://www.remotion.dev/blog/3-0"
-    }
+    },
+    "rssUrl": "https://www.remotion.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -3915,7 +4001,8 @@
     "example": {
       "title": "The State of Frontend 2022",
       "url": "https://tsh.io/state-of-frontend/"
-    }
+    },
+    "rssUrl": "https://tsh.io/feed/"
   },
   {
     "count": 1,
@@ -3956,7 +4043,8 @@
     "example": {
       "title": "TypeScript におけるモジュール関連オプションの整理. TypeScript 4.7 で “module” という名前で始まる… | by Yosuke Kurami | May, 2022 | Medium",
       "url": "https://quramy.medium.com/typescript-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E9%96%A2%E9%80%A3%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%95%B4%E7%90%86-efdf860a7c4"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/@quramy"
   },
   {
     "count": 1,
@@ -4064,7 +4152,8 @@
     "example": {
       "title": "Improving the HTTP Archive pipeline and dataset by 10x - Announcements - HTTP Archive",
       "url": "https://discuss.httparchive.org/t/improving-the-http-archive-pipeline-and-dataset-by-10x/2372"
-    }
+    },
+    "rssUrl": "https://discuss.httparchive.org/posts.rss"
   },
   {
     "count": 1,
@@ -4120,7 +4209,8 @@
     "example": {
       "title": "バンドル最適化マニアクス at tfconf - Speaker Deck",
       "url": "https://speakerdeck.com/mizchi/bandoruzui-shi-hua-maniakusu-at-tfconf"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/mizchi.atom"
   },
   {
     "count": 1,
@@ -4250,7 +4340,8 @@
     "example": {
       "title": "Avoiding Puppeteer Antipatterns",
       "url": "https://serpapi.com/blog/puppeteer-antipatterns/"
-    }
+    },
+    "rssUrl": "https://serpapi.com/blog/rss/"
   },
   {
     "count": 1,
@@ -4319,7 +4410,8 @@
     "example": {
       "title": "Web Browser Engineering",
       "url": "https://browser.engineering/"
-    }
+    },
+    "rssUrl": "https://browser.engineering/rss.xml"
   },
   {
     "count": 1,
@@ -4428,7 +4520,8 @@
     "example": {
       "title": "Fastify v4 GA. After two years we are excited to… | by Fastify | Jun, 2022 | Medium",
       "url": "https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/@fastifyjs"
   },
   {
     "count": 1,
@@ -4509,7 +4602,8 @@
     "example": {
       "title": "Notes on maintaining an internal React component library | Gabe's blog",
       "url": "https://www.gabe.pizza/notes-on-component-libraries/"
-    }
+    },
+    "rssUrl": "https://www.gabe.pizza/rss.xml"
   },
   {
     "count": 1,
@@ -4536,7 +4630,8 @@
     "example": {
       "title": "AbortController is your friend",
       "url": "https://whistlr.info/2022/abortcontroller-is-your-friend/"
-    }
+    },
+    "rssUrl": "https://samthor.au/rss.xml"
   },
   {
     "count": 1,
@@ -4577,7 +4672,8 @@
     "example": {
       "title": "CodeMirror 6.0",
       "url": "https://marijnhaverbeke.nl/blog/codemirror-6.html"
-    }
+    },
+    "rssUrl": "https://marijnhaverbeke.nl/blog/feed.atom"
   },
   {
     "count": 1,
@@ -4721,7 +4817,8 @@
     "example": {
       "title": "ブラウザ, Node, Cloudflareでも動くDenoモジュール開発",
       "url": "https://zenn.dev/dajiaji/articles/c5340c38d11d4d"
-    }
+    },
+    "rssUrl": "https://zenn.dev/dajiaji/feed"
   },
   {
     "count": 1,
@@ -4749,7 +4846,8 @@
     "example": {
       "title": "縦書きHTMLにおける文字の向きはどのように定まるか - ドワンゴ教育サービス開発者ブログ",
       "url": "https://blog.nnn.dev/entry/2022/07/01/180000"
-    }
+    },
+    "rssUrl": "https://blog.nnn.dev/feed"
   },
   {
     "count": 1,
@@ -4807,7 +4905,8 @@
     "example": {
       "title": "Flutter前史: ChromeがFlutterになるまで",
       "url": "https://zenn.dev/mjhd/articles/680a19ae893c1e"
-    }
+    },
+    "rssUrl": "https://zenn.dev/mjhd/feed"
   },
   {
     "count": 1,
@@ -4820,7 +4919,8 @@
     "example": {
       "title": "NestJS製GraphQLサーバの起動が遅かったので調査した話 - もうずっといなかぐらし",
       "url": "https://katainaka0503.hatenablog.com/entry/2022/07/09/190340"
-    }
+    },
+    "rssUrl": "https://katainaka0503.hatenablog.com/feed"
   },
   {
     "count": 1,
@@ -4901,7 +5001,8 @@
     "example": {
       "title": "Version 3.0 released : Node-RED",
       "url": "https://nodered.org/blog/2022/07/14/version-3-0-released"
-    }
+    },
+    "rssUrl": "https://nodered.org/feed.xml"
   },
   {
     "count": 1,
@@ -4966,7 +5067,8 @@
     "example": {
       "title": "Defensive CSS",
       "url": "https://defensivecss.dev/"
-    }
+    },
+    "rssUrl": "https://defensivecss.dev/feed/feed.xml"
   },
   {
     "count": 1,
@@ -5032,7 +5134,8 @@
     "example": {
       "title": "Updates from the 91st TC39 meeting - DEV Community 👩‍💻👨‍💻",
       "url": "https://dev.to/hemanth/updates-from-the-91th-tc39-meeting-779"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/hemanth"
   },
   {
     "count": 1,
@@ -5073,7 +5176,8 @@
     "example": {
       "title": "Avoiding <img> layout shifts: aspect-ratio vs width & height attributes - JakeArchibald.com",
       "url": "https://jakearchibald.com/2022/img-aspect-ratio/"
-    }
+    },
+    "rssUrl": "https://jakearchibald.com/posts.rss"
   },
   {
     "count": 1,
@@ -5156,7 +5260,8 @@
     "example": {
       "title": "Announcing Docusaurus 2.0 | Docusaurus",
       "url": "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0"
-    }
+    },
+    "rssUrl": "https://docusaurus.io/blog/rss.xml"
   },
   {
     "count": 1,
@@ -5198,7 +5303,8 @@
     "example": {
       "title": "500ms to 1.7ms In React: A Journey And A Checklist | Orizens",
       "url": "https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/"
-    }
+    },
+    "rssUrl": "https://orizens.com/rss.xml"
   },
   {
     "count": 1,
@@ -5210,7 +5316,8 @@
     "example": {
       "title": "Checking if a JavaScript native function is monkey patched · mmazzarolo.com",
       "url": "https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/"
-    }
+    },
+    "rssUrl": "https://mmazzarolo.com/blog/index.xml"
   },
   {
     "count": 1,
@@ -5224,7 +5331,8 @@
     "example": {
       "title": "LINE MUSIC のパフォーマンスを向上させた Vue3 マイグレーション",
       "url": "https://engineering.linecorp.com/ja/blog/vue3-migration-with-improved-line-music-performance/"
-    }
+    },
+    "rssUrl": "https://engineering.linecorp.com/en"
   },
   {
     "count": 1,
@@ -5236,7 +5344,8 @@
     "example": {
       "title": "Objects, Functions, and Type Narrowing | Learning TypeScript",
       "url": "https://www.learningtypescript.com/articles/objects-functions-and-type-narrowing?s=t"
-    }
+    },
+    "rssUrl": "https://www.learningtypescript.com/articles/rss.xml"
   },
   {
     "count": 1,
@@ -5266,7 +5375,8 @@
     "example": {
       "title": "Will Bun JavaScript Take Node's Crown",
       "url": "https://semaphoreci.com/blog/javascript-bun"
-    }
+    },
+    "rssUrl": "https://semaphoreci.com/feed"
   },
   {
     "count": 1,
@@ -5292,7 +5402,8 @@
     "example": {
       "title": "outline is your friend - Manuel Matuzović",
       "url": "https://www.matuzo.at/blog/2022/focus-outline/"
-    }
+    },
+    "rssUrl": "https://www.matuzo.at/feed.xml"
   },
   {
     "count": 1,
@@ -5306,7 +5417,8 @@
     "example": {
       "title": "The blind programmers who created screen readers - The Verge",
       "url": "https://www.theverge.com/23203911/screen-readers-history-blind-henter-curran-teh-nvda"
-    }
+    },
+    "rssUrl": "https://www.theverge.com/rss/index.xml"
   },
   {
     "count": 1,
@@ -5373,7 +5485,8 @@
     "example": {
       "title": "Typescipt is terrible for library developers: We spend a disproportionate amount of time on types",
       "url": "https://erock.prose.sh/typescript-terrible-for-library-developers"
-    }
+    },
+    "rssUrl": "https://erock.prose.sh/rss"
   },
   {
     "count": 1,
@@ -5441,7 +5554,8 @@
     "example": {
       "title": "New Recipes for 3rd Party Cookies – text/plain",
       "url": "https://textslashplain.com/2022/07/27/new-recipes-for-cookies/"
-    }
+    },
+    "rssUrl": "https://textslashplain.com/feed/"
   },
   {
     "count": 1,
@@ -5454,7 +5568,8 @@
     "example": {
       "title": "今時の CSRF 対策ってなにをすればいいの？ | Basicinc Enjoy Hacking!",
       "url": "https://tech.basicinc.jp/articles/231"
-    }
+    },
+    "rssUrl": "https://tech.basicinc.jp/feed"
   },
   {
     "count": 1,
@@ -5496,7 +5611,8 @@
     "example": {
       "title": "Modern alternatives to BEM - daverupert.com",
       "url": "https://daverupert.com/2022/08/modern-alternatives-to-bem/"
-    }
+    },
+    "rssUrl": "https://daverupert.com/atom.xml"
   },
   {
     "count": 1,
@@ -5609,7 +5725,8 @@
     "example": {
       "title": "実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog",
       "url": "https://www.wantedly.com/companies/wantedly/post_articles/410531"
-    }
+    },
+    "rssUrl": "https://www.wantedly.com/projects.xml"
   },
   {
     "count": 1,
@@ -5721,7 +5838,8 @@
     "example": {
       "title": "Redwood 3.0.0 is now available! - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
       "url": "https://community.redwoodjs.com/t/redwood-3-0-0-is-now-available/3989"
-    }
+    },
+    "rssUrl": "https://community.redwoodjs.com/posts.rss"
   },
   {
     "count": 1,
@@ -5882,7 +6000,8 @@
     "example": {
       "title": "The 2022 Web Almanac",
       "url": "https://almanac.httparchive.org/en/2022/"
-    }
+    },
+    "rssUrl": "https://almanac.httparchive.org/en/rss.xml"
   },
   {
     "count": 1,
@@ -5941,7 +6060,8 @@
     "example": {
       "title": "sqlite3 wasm docs: About the sqlite3 WASM/JS Subproject",
       "url": "https://sqlite.org/wasm/doc/trunk/about.md"
-    }
+    },
+    "rssUrl": "https://sqlite.org/wasm/timeline.rss"
   },
   {
     "count": 1,
@@ -5968,7 +6088,8 @@
     "example": {
       "title": "Why We're Breaking Up with CSS-in-JS - DEV Community 👩‍💻👨‍💻",
       "url": "https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/srmagura"
   },
   {
     "count": 1,
@@ -5981,7 +6102,8 @@
     "example": {
       "title": "Airbnb's Trip to Linaria | The Airbnb Tech Blog",
       "url": "https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/airbnb-engineering"
   },
   {
     "count": 1,
@@ -5994,7 +6116,8 @@
     "example": {
       "title": "【脱ランタイムCSS in JS】styled-componentsを別のCSS in JSに自動置換するCLIツールの開発",
       "url": "https://zenn.dev/yukiyada/articles/0ac6ef8d566b96"
-    }
+    },
+    "rssUrl": "https://zenn.dev/yukiyada/feed"
   },
   {
     "count": 1,
@@ -6048,7 +6171,8 @@
     "example": {
       "title": "個人ブログの Next.js v13 移行でやったことまとめ",
       "url": "https://zenn.dev/panda_program/scraps/6c66f160636969"
-    }
+    },
+    "rssUrl": "https://zenn.dev/panda_program/feed"
   },
   {
     "count": 1,
@@ -6144,7 +6268,8 @@
     "example": {
       "title": "LernaとGithub Actionsでmonorepoライブラリのリリースを楽にする - Link and Motivation Developers' Blog",
       "url": "https://link-and-motivation.hatenablog.com/entry/2022/11/16/190305"
-    }
+    },
+    "rssUrl": "https://link-and-motivation.hatenablog.com/feed"
   },
   {
     "count": 1,
@@ -6158,7 +6283,8 @@
     "example": {
       "title": "The magical world of Particles with React Three Fiber and Shaders - Maxime Heckel's Blog",
       "url": "https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/"
-    }
+    },
+    "rssUrl": "https://blog.maximeheckel.com/rss.xml"
   },
   {
     "count": 1,
@@ -6171,7 +6297,8 @@
     "example": {
       "title": "Manifest v3 signing available November 21 on Firefox Nightly | Mozilla Add-ons Community Blog",
       "url": "https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/"
-    }
+    },
+    "rssUrl": "https://blog.mozilla.org/en/feed/"
   },
   {
     "count": 1,
@@ -6213,7 +6340,8 @@
     "example": {
       "title": "Expiration Cap Removed From JavaScript Cookies In WebKit Browsers | Simo Ahava's blog",
       "url": "https://www.simoahava.com/privacy/first-party-cookies-webkit-revisited/"
-    }
+    },
+    "rssUrl": "https://www.simoahava.com/index.xml"
   },
   {
     "count": 1,
@@ -6271,7 +6399,8 @@
     "example": {
       "title": "Wasmはなぜセキュアなのか？",
       "url": "https://zenn.dev/0kate/articles/83e48c177ff709"
-    }
+    },
+    "rssUrl": "https://zenn.dev/0kate/feed"
   },
   {
     "count": 1,
@@ -6284,7 +6413,8 @@
     "example": {
       "title": "Announcing tRPC v10 | tRPC",
       "url": "https://trpc.io/blog/announcing-trpc-10"
-    }
+    },
+    "rssUrl": "https://trpc.io/blog/rss.xml"
   },
   {
     "count": 1,
@@ -6297,7 +6427,8 @@
     "example": {
       "title": "A Skeptic’s Guide to Functional Programming with JavaScript",
       "url": "https://jrsinclair.com/skeptics-guide"
-    }
+    },
+    "rssUrl": "https://jrsinclair.com/index.rss"
   },
   {
     "count": 1,
@@ -6364,7 +6495,8 @@
     "example": {
       "title": "Image Formats for the Web | DebugBear",
       "url": "https://www.debugbear.com/blog/image-formats"
-    }
+    },
+    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -6390,7 +6522,8 @@
     "example": {
       "title": "Working with Zustand | TkDodo's blog",
       "url": "https://tkdodo.eu/blog/working-with-zustand"
-    }
+    },
+    "rssUrl": "https://tkdodo.eu/blog/rss.xml"
   },
   {
     "count": 1,
@@ -6403,7 +6536,8 @@
     "example": {
       "title": "Speeding up the JavaScript ecosystem - one library at a time",
       "url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/"
-    }
+    },
+    "rssUrl": "https://marvinh.dev/feed.xml"
   },
   {
     "count": 1,
@@ -6513,7 +6647,8 @@
     "example": {
       "title": "Find the most expensive CSS selectors",
       "url": "https://devtoolstips.org/tips/en/find-expensive-selectors/"
-    }
+    },
+    "rssUrl": "https://devtoolstips.org/feed.xml"
   },
   {
     "count": 1,
@@ -6596,7 +6731,8 @@
     "example": {
       "title": "Twemojiが2023年になると表示されなくなる(かもしれない)問題に対処する",
       "url": "https://zenn.dev/yhatt/articles/60ce0c3ca79994"
-    }
+    },
+    "rssUrl": "https://zenn.dev/yhatt/feed"
   },
   {
     "count": 1,
@@ -6622,7 +6758,8 @@
     "example": {
       "title": "そろそろカスケードレイヤー(@layer)と向き合う",
       "url": "https://zenn.dev/yend724/articles/20221227-fcz1jh70bhnqof2v"
-    }
+    },
+    "rssUrl": "https://zenn.dev/yend724/feed"
   },
   {
     "count": 1,
@@ -6679,7 +6816,8 @@
     "example": {
       "title": "The Safari bug that never was",
       "url": "https://obyford.com/posts/the-safari-bug-that-never-was/"
-    }
+    },
+    "rssUrl": "https://obyford.com/feed/feed.xml"
   },
   {
     "count": 1,
@@ -6715,7 +6853,8 @@
     "example": {
       "title": "A new accessibility strategy for the GOV.UK Design System - Accessibility in government",
       "url": "https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/"
-    }
+    },
+    "rssUrl": "https://accessibility.blog.gov.uk/feed/"
   },
   {
     "count": 1,
@@ -6743,7 +6882,8 @@
     "example": {
       "title": "Node.js にプロセスレベルの Permission が入りそうな話 - from scratch",
       "url": "https://yosuke-furukawa.hatenablog.com/entry/2023/01/12/160406"
-    }
+    },
+    "rssUrl": "https://yosuke-furukawa.hatenablog.com/feed"
   },
   {
     "count": 1,
@@ -6858,7 +6998,8 @@
     "example": {
       "title": "Next.js製アプリケーションのコンパイルを約100倍高速化した話",
       "url": "https://zenn.dev/mkt/articles/543669021d9a1e"
-    }
+    },
+    "rssUrl": "https://zenn.dev/mkt/feed"
   },
   {
     "count": 1,
@@ -6871,7 +7012,8 @@
     "example": {
       "title": "Why Not document.write()? – CSS Wizardry – Web Performance Optimisation",
       "url": "https://csswizardry.com/2023/01/why-not-document-write/"
-    }
+    },
+    "rssUrl": "https://feeds.feedburner.com/csswizardry"
   },
   {
     "count": 1,
@@ -6885,7 +7027,8 @@
     "example": {
       "title": "Why Is My Jest Test Suite So Slow? | by Steven Lemon | Jan, 2023 | Bits and Pieces",
       "url": "https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0"
-    }
+    },
+    "rssUrl": "https://blog.bitsrc.io/feed"
   },
   {
     "count": 1,
@@ -7010,7 +7153,8 @@
     "example": {
       "title": "Performance of WebAssembly runtimes in 2023 | Frank DENIS random thoughts.",
       "url": "https://00f.net/2023/01/04/webassembly-benchmark-2023/"
-    }
+    },
+    "rssUrl": "https://00f.net/rss.xml"
   },
   {
     "count": 1,
@@ -7049,7 +7193,8 @@
     "example": {
       "title": "逆引き 型ファースト Zod",
       "url": "https://zenn.dev/terrierscript/books/2023-01-typed-zod"
-    }
+    },
+    "rssUrl": "https://zenn.dev/terrierscript/feed"
   },
   {
     "count": 1,
@@ -7130,7 +7275,8 @@
     "example": {
       "title": "On building the enterprise-grade Node.js applications | Code Flashbacks",
       "url": "https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/"
-    }
+    },
+    "rssUrl": "https://www.codeflashbacks.com/rss/"
   },
   {
     "count": 1,
@@ -7212,7 +7358,8 @@
     "example": {
       "title": "Nextra 2 – Next.js Static Site Generator – The Guild",
       "url": "https://the-guild.dev/blog/nextra-2"
-    }
+    },
+    "rssUrl": "https://the-guild.dev/feed.xml"
   },
   {
     "count": 1,
@@ -7225,7 +7372,8 @@
     "example": {
       "title": "A Historical Reference of React Criticism—zachleat.com",
       "url": "https://www.zachleat.com/web/react-criticism/"
-    }
+    },
+    "rssUrl": "https://www.zachleat.com/web/feed/"
   },
   {
     "count": 1,
@@ -7322,7 +7470,8 @@
     "example": {
       "title": "Popover API - JavaScript不要、HTMLのみでポップオーバーUI",
       "url": "https://zenn.dev/yusukehirao/articles/popover-api-and-attributes"
-    }
+    },
+    "rssUrl": "https://zenn.dev/yusukehirao/feed"
   },
   {
     "count": 1,
@@ -7349,7 +7498,8 @@
     "example": {
       "title": "Typescript Runtime Validators and DX, a type-checking performance analysis of zod/superstruct/yup/typebox - DEV Community",
       "url": "https://dev.to/nicklucas/typescript-runtime-validators-and-dx-a-type-checking-performance-analysis-of-zodsuperstructyuptypebox-5416"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/nicklucas"
   },
   {
     "count": 1,
@@ -7375,7 +7525,8 @@
     "example": {
       "title": "You Don't Need Rails to Start Using Hotwire",
       "url": "https://www.akshaykhot.com/using-hotwire-without-rails/"
-    }
+    },
+    "rssUrl": "https://www.writesoftwarewell.com/rss/"
   },
   {
     "count": 1,
@@ -7389,7 +7540,8 @@
     "example": {
       "title": "Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library | Product Blog • Sentry",
       "url": "https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/"
-    }
+    },
+    "rssUrl": "https://blog.sentry.io/feed.xml"
   },
   {
     "count": 1,
@@ -7426,7 +7578,8 @@
     "example": {
       "title": "Experiments with the JavaScript Garbage Collector - DEV Community",
       "url": "https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3"
-    }
+    },
+    "rssUrl": "https://dev.to/feed/codux"
   },
   {
     "count": 1,
@@ -7441,7 +7594,8 @@
     "example": {
       "title": "testing-library でユーザの気持ちになって書くフロントエンドのテスト",
       "url": "https://zenn.dev/tnyo43/articles/39e4caa321d0aa"
-    }
+    },
+    "rssUrl": "https://zenn.dev/tnyo43/feed"
   },
   {
     "count": 1,
@@ -7534,7 +7688,8 @@
     "example": {
       "title": "Introducing \"safe npm\", a Socket npm Wrapper - Socket",
       "url": "https://socket.dev/blog/introducing-safe-npm"
-    }
+    },
+    "rssUrl": "https://socket.dev/api/feed.atom"
   },
   {
     "count": 1,
@@ -7574,7 +7729,8 @@
     "example": {
       "title": "npm installとnpm ciの動作確認を簡単にやっておいた - Mitsuyuki.Shiiba",
       "url": "https://bufferings.hatenablog.com/entry/2023/03/21/145023"
-    }
+    },
+    "rssUrl": "https://bufferings.hatenablog.com/feed"
   },
   {
     "count": 1,
@@ -7713,7 +7869,8 @@
     "example": {
       "title": "RailsアプリのフロントエンドをじわじわとNext.jsにリプレースした話と、その振り返り - High Link テックブログ",
       "url": "https://tech.high-link.co.jp/entry/Rails-application-replace-Next.js"
-    }
+    },
+    "rssUrl": "https://tech.high-link.co.jp/feed"
   },
   {
     "count": 1,
@@ -7753,7 +7910,8 @@
     "example": {
       "title": "TypeScript で\"moduleResolution\": \"Node\"は使わないほうがいい",
       "url": "https://blog.s2n.tech/articles/dont-use-moduleresolution-node"
-    }
+    },
+    "rssUrl": "https://blog.s2n.tech/feed"
   },
   {
     "count": 1,
@@ -7877,7 +8035,8 @@
     "example": {
       "title": "Popularity of top frameworks on Netlify: Next.js, Gatsby, create-react-app",
       "url": "https://www.netlify.com/blog/framework-popularity-on-netlify/"
-    }
+    },
+    "rssUrl": "https://www.netlify.com/community-feed.xml/"
   },
   {
     "count": 1,
@@ -7891,7 +8050,8 @@
     "example": {
       "title": "</> htmx ~ htmx 1.9.0 has been released!",
       "url": "https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/"
-    }
+    },
+    "rssUrl": "https://htmx.org/atom.xml"
   },
   {
     "count": 1,
@@ -7945,7 +8105,8 @@
     "example": {
       "title": "Trying Node.js Test Runner | Better world by better software",
       "url": "https://glebbahmutov.com/blog/trying-node-test-runner/"
-    }
+    },
+    "rssUrl": "https://glebbahmutov.com/blog/atom.xml"
   },
   {
     "count": 1,
@@ -7985,7 +8146,8 @@
     "example": {
       "title": "What's new in ECMAScript 2023 | pawelgrzybek.com",
       "url": "https://pawelgrzybek.com/whats-new-in-ecmascript-2023/"
-    }
+    },
+    "rssUrl": "https://pawelgrzybek.com/feed.xml"
   },
   {
     "count": 1,
@@ -8024,7 +8186,8 @@
     "example": {
       "title": "これから先も戦えるサードパーティスクリプト - Speaker Deck",
       "url": "https://speakerdeck.com/nichimu/korekaraxian-mozhan-erusadopateisukuriputo"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/nichimu.atom"
   },
   {
     "count": 1,
@@ -8037,7 +8200,8 @@
     "example": {
       "title": "現実世界におけるスキーマ設計の妥協 - Speaker Deck",
       "url": "https://speakerdeck.com/sadnessojisan/xian-shi-shi-jie-niokerusukimashe-ji-notuo-xie"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/sadnessojisan.atom"
   },
   {
     "count": 1,
@@ -8149,7 +8313,8 @@
     "example": {
       "title": "Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability | Jantrid",
       "url": "https://www.jantrid.net/2022/12/22/Cache-the-World/"
-    }
+    },
+    "rssUrl": "https://www.jantrid.net/feeds/posts/default/index.xml"
   },
   {
     "count": 1,
@@ -8161,7 +8326,8 @@
     "example": {
       "title": "Announcing Dart 3. 100% sound null safety. Records… | by Michael Thomsen | Dart | May, 2023 | Medium",
       "url": "https://medium.com/dartlang/announcing-dart-3-53f065a10635"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/dartlang"
   },
   {
     "count": 1,
@@ -8228,7 +8394,8 @@
     "example": {
       "title": "Chrome113でHTTPヘッダを上書きしていろんな状態をお試しできる - hogashi.*",
       "url": "https://blog.hog.as/entry/2023/05/11/181952"
-    }
+    },
+    "rssUrl": "https://blog.hog.as/feed"
   },
   {
     "count": 1,
@@ -8306,7 +8473,8 @@
     "example": {
       "title": "State of Node.js Performance 2023",
       "url": "https://blog.rafaelgss.dev/state-of-nodejs-performance-2023"
-    }
+    },
+    "rssUrl": "https://blog.rafaelgss.dev/rss"
   },
   {
     "count": 1,
@@ -8319,7 +8487,8 @@
     "example": {
       "title": "HTML 全体の CSS を取得して Shadow DOM に適用する | marmooo's blog",
       "url": "https://marmooo.blogspot.com/2023/06/html-css-shadow-dom.html"
-    }
+    },
+    "rssUrl": "https://marmooo.blogspot.com/feeds/posts/default"
   },
   {
     "count": 1,
@@ -8372,7 +8541,8 @@
     "example": {
       "title": "Modern CSS in Real Life - Chris Coyier",
       "url": "https://chriscoyier.net/2023/06/06/modern-css-in-real-life/"
-    }
+    },
+    "rssUrl": "https://chriscoyier.net/feed/"
   },
   {
     "count": 1,
@@ -8400,7 +8570,8 @@
     "example": {
       "title": "Turborepo 1.10 – Turbo",
       "url": "https://turbo.build/blog/turbo-1-10-0"
-    }
+    },
+    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 1,
@@ -8426,7 +8597,8 @@
     "example": {
       "title": "Fermyon • Experience the next wave of cloud computing. | Fermyon • Experience the next wave of cloud computing.",
       "url": "https://www.fermyon.com/"
-    }
+    },
+    "rssUrl": "https://www.fermyon.com/atom.xml"
   },
   {
     "count": 1,
@@ -8438,7 +8610,8 @@
     "example": {
       "title": "Modern CSS For Dynamic Component-Based Architecture | Modern CSS Solutions",
       "url": "https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/"
-    }
+    },
+    "rssUrl": "https://moderncss.dev/feed/"
   },
   {
     "count": 1,
@@ -8490,7 +8663,8 @@
     "example": {
       "title": "Cyclic Dependency Space Toggles",
       "url": "https://kizu.dev/cyclic-toggles/"
-    }
+    },
+    "rssUrl": "https://feeds.feedburner.com/kizuruen"
   },
   {
     "count": 1,
@@ -8532,7 +8706,8 @@
     "example": {
       "title": "Architecture of an early stage SAAS | Feelback Blog",
       "url": "https://www.feelback.dev/blog/feelback-saas-launch-architecture/"
-    }
+    },
+    "rssUrl": "https://www.feelback.dev/rss.xml"
   },
   {
     "count": 1,
@@ -8574,7 +8749,8 @@
     "example": {
       "title": "Announcing typescript-eslint v6 | typescript-eslint",
       "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v6/"
-    }
+    },
+    "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
   },
   {
     "count": 1,
@@ -8602,7 +8778,8 @@
     "example": {
       "title": "Boa release v0.17 - Boa",
       "url": "https://boajs.dev/posts/2023-07-08-boa-release-17/"
-    }
+    },
+    "rssUrl": "https://boajs.dev/feed.xml"
   },
   {
     "count": 1,
@@ -8616,7 +8793,8 @@
     "example": {
       "title": "アニメーションの実装が劇的に簡単になるFLIPテクニック",
       "url": "https://katashin.info/posts/flip-animation/"
-    }
+    },
+    "rssUrl": "https://katashin.info/feed/feed.xml"
   },
   {
     "count": 1,
@@ -8673,7 +8851,8 @@
     "example": {
       "title": "URL.canParse",
       "url": "https://davidwalsh.name/url-canparse"
-    }
+    },
+    "rssUrl": "https://davidwalsh.name/feed/atom"
   },
   {
     "count": 1,
@@ -8739,7 +8918,8 @@
     "example": {
       "title": "ESLint を使って JSDoc / TSDoc の記述を必須化する",
       "url": "https://zenn.dev/wakamsha/articles/setup-eslint-plugin-jsdoc"
-    }
+    },
+    "rssUrl": "https://zenn.dev/wakamsha/feed"
   },
   {
     "count": 1,
@@ -8752,7 +8932,8 @@
     "example": {
       "title": "ServiceWorkerの落とし穴8選 - Repro Tech Blog",
       "url": "https://tech.repro.io/entry/2023/07/27/105218"
-    }
+    },
+    "rssUrl": "https://tech.repro.io/feed"
   },
   {
     "count": 1,
@@ -8805,7 +8986,8 @@
     "example": {
       "title": "We migrated 50,000 lines of code to React Server Components | Mux",
       "url": "https://www.mux.com/blog/what-are-react-server-components"
-    }
+    },
+    "rssUrl": "https://www.mux.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -8846,7 +9028,8 @@
     "example": {
       "title": "A compilation of outstanding testing articles (with JavaScript) | Practica.js",
       "url": "https://practica.dev/blog/a-compilation-of-outstanding-testing-articles-with-javaScript/"
-    }
+    },
+    "rssUrl": "https://practica.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -8858,7 +9041,8 @@
     "example": {
       "title": "Vue.jsエコシステム動向2023 - Speaker Deck",
       "url": "https://speakerdeck.com/kazupon/vue-dot-jsekosisutemudong-xiang-2023"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/kazupon.atom"
   },
   {
     "count": 1,
@@ -8870,7 +9054,8 @@
     "example": {
       "title": "Puppeteer in Node.js: Common Mistakes to Avoid | AppSignal Blog",
       "url": "https://blog.appsignal.com/2023/02/08/puppeteer-in-nodejs-common-mistakes-to-avoid.html"
-    }
+    },
+    "rssUrl": "https://blog.appsignal.com//feed.xml"
   },
   {
     "count": 1,
@@ -8948,7 +9133,8 @@
     "example": {
       "title": "React - Speaker Deck",
       "url": "https://speakerdeck.com/recruitengineers/react"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/recruitengineers.atom"
   },
   {
     "count": 1,
@@ -8989,7 +9175,8 @@
     "example": {
       "title": "Alt Text Hall of Fame – Celebrating well-written image descriptions.",
       "url": "https://alttexthalloffame.org/"
-    }
+    },
+    "rssUrl": "https://alttexthalloffame.org/en/feed/"
   },
   {
     "count": 1,
@@ -9001,7 +9188,8 @@
     "example": {
       "title": "Patterns for Reactivity with Modern Vanilla JavaScript | Frontend Masters",
       "url": "https://frontendmasters.com/blog/vanilla-javascript-reactivity/"
-    }
+    },
+    "rssUrl": "https://frontendmasters.com/blog/feed/"
   },
   {
     "count": 1,
@@ -9086,7 +9274,8 @@
     "example": {
       "title": "14 Linting Rules To Help You Write Asynchronous Code in JavaScript - Maxim Orlov",
       "url": "https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/"
-    }
+    },
+    "rssUrl": "https://maximorlov.com/feed.xml"
   },
   {
     "count": 1,
@@ -9281,7 +9470,8 @@
     "example": {
       "title": "How to Find the Exact Line of an Infinite Loop Bug in the code | by Abdu Tawfik | Medium",
       "url": "https://abduvik.medium.com/how-to-find-infinite-loops-in-javascript-using-devtools-ea5fc84aec73"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/@abduvik"
   },
   {
     "count": 1,
@@ -9308,7 +9498,8 @@
     "example": {
       "title": "Ladle v3 | Ladle",
       "url": "https://ladle.dev/blog/ladle-v3"
-    }
+    },
+    "rssUrl": "https://ladle.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -9350,7 +9541,8 @@
     "example": {
       "title": "これからはじめるReact実践入門 | SBクリエイティブ",
       "url": "https://www.sbcr.jp/product/4815619480/"
-    }
+    },
+    "rssUrl": "https://www.sbcr.jp/product/4815619480/feed/"
   },
   {
     "count": 1,
@@ -9363,7 +9555,8 @@
     "example": {
       "title": "【2023年】SWR & TanStack Query比較",
       "url": "https://zenn.dev/taisei_13046/articles/288e4470cfc45e"
-    }
+    },
+    "rssUrl": "https://zenn.dev/taisei_13046/feed"
   },
   {
     "count": 1,
@@ -9501,7 +9694,8 @@
     "example": {
       "title": "A comprehensive guide to the dangers of Regular Expressions in JavaScript | Sonar",
       "url": "https://www.sonarsource.com/blog/vulnerable-regular-expressions-javascript/"
-    }
+    },
+    "rssUrl": "https://www.sonarsource.com/rss.xml"
   },
   {
     "count": 1,
@@ -9584,7 +9778,8 @@
     "example": {
       "title": "The State of WebAssembly 2023",
       "url": "https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html"
-    }
+    },
+    "rssUrl": "https://blog.scottlogic.com/atom.xml"
   },
   {
     "count": 1,
@@ -9641,7 +9836,8 @@
     "example": {
       "title": "Release: Yarn 4.0 🪄⚗️ | Yarn",
       "url": "https://yarnpkg.com/blog/release/4.0"
-    }
+    },
+    "rssUrl": "https://yarnpkg.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -9654,7 +9850,8 @@
     "example": {
       "title": "Goodbye, Node.js Buffer — Sindre Sorhus",
       "url": "https://sindresorhus.com/blog/goodbye-nodejs-buffer"
-    }
+    },
+    "rssUrl": "https://sindresorhus.com/rss.xml"
   },
   {
     "count": 1,
@@ -9685,7 +9882,8 @@
     "example": {
       "title": "JavaScriptビルドツールの整理 各ツールの機能と依存関係",
       "url": "https://zenn.dev/nakaakist/articles/86457bf2908379"
-    }
+    },
+    "rssUrl": "https://zenn.dev/nakaakist/feed"
   },
   {
     "count": 1,
@@ -9726,7 +9924,8 @@
     "example": {
       "title": "Vue Fes Japan 2023 資料 X ポストまとめ",
       "url": "https://zenn.dev/punkshiraishi/scraps/bf3829dc79466b"
-    }
+    },
+    "rssUrl": "https://zenn.dev/punkshiraishi/feed"
   },
   {
     "count": 1,
@@ -9826,7 +10025,8 @@
     "example": {
       "title": "The end of third-party cookies and its impact on Miro apps and integrations | by Darren | Miro Engineering | Nov, 2023 | Medium",
       "url": "https://medium.com/miro-engineering/the-end-of-third-party-cookies-and-its-impact-on-miro-apps-and-integrations-ee73358cda1e"
-    }
+    },
+    "rssUrl": "https://medium.com/feed/miro-engineering"
   },
   {
     "count": 1,
@@ -9839,7 +10039,8 @@
     "example": {
       "title": "A faster web in 2024 - rviscomi.dev",
       "url": "https://rviscomi.dev/2023/11/a-faster-web-in-2024/"
-    }
+    },
+    "rssUrl": "https://rviscomi.dev/feed/"
   },
   {
     "count": 1,
@@ -9881,7 +10082,8 @@
     "example": {
       "title": "Intlの今までとこれから - Speaker Deck",
       "url": "https://speakerdeck.com/sajikix/intlnojin-madetokorekara"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/sajikix.atom"
   },
   {
     "count": 1,
@@ -10005,7 +10207,8 @@
     "example": {
       "title": "2020年から2023年までのCSSの変遷を振り返る - yamaScrapbox",
       "url": "https://scrapbox.io/yamanoku/2020%E5%B9%B4%E3%81%8B%E3%82%892023%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AECSS%E3%81%AE%E5%A4%89%E9%81%B7%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B"
-    }
+    },
+    "rssUrl": "https://scrapbox.io/api/feed/yamanoku"
   },
   {
     "count": 1,
@@ -10032,7 +10235,8 @@
     "example": {
       "title": "npm install --productionみたいなの色々ありすぎ問題",
       "url": "https://zenn.dev/zawa_kyo/articles/d671e0935ae0c0"
-    }
+    },
+    "rssUrl": "https://zenn.dev/zawa_kyo/feed"
   },
   {
     "count": 1,
@@ -10085,7 +10289,8 @@
     "example": {
       "title": "1年かけてNext.jsのapp routerへ完全移行した話",
       "url": "https://zenn.dev/urotea/articles/3fbaa77d77b788"
-    }
+    },
+    "rssUrl": "https://zenn.dev/urotea/feed"
   },
   {
     "count": 1,
@@ -10098,7 +10303,8 @@
     "example": {
       "title": "一休レストランで Next.js App Router から Remix に乗り換えた話 - 一休.com Developers Blog",
       "url": "https://user-first.ikyu.co.jp/entry/2023/12/15/093427"
-    }
+    },
+    "rssUrl": "https://user-first.ikyu.co.jp/feed"
   },
   {
     "count": 1,
@@ -10110,7 +10316,8 @@
     "example": {
       "title": "【月間9000万PVのPR TIMES】プレスリリース掲載ページの Next.js 移行でやったこと | PR TIMES 開発者ブログ",
       "url": "https://developers.prtimes.jp/2023/12/13/replace-press-release-page-with-nextjs/"
-    }
+    },
+    "rssUrl": "https://developers.prtimes.jp/feed/"
   },
   {
     "count": 1,
@@ -10190,7 +10397,8 @@
     "example": {
       "title": "Getting started with Web Performance 🚀 - HTMHell",
       "url": "https://www.htmhell.dev/adventcalendar/2023/14/"
-    }
+    },
+    "rssUrl": "https://www.htmhell.dev/feed.xml"
   },
   {
     "count": 1,
@@ -10217,7 +10425,8 @@
     "example": {
       "title": "SvelteKit はどのようにコンパイルしているのか？",
       "url": "https://blog.osstech.co.jp/posts/2023/11/how-sveltekit-compiles/"
-    }
+    },
+    "rssUrl": "https://blog.osstech.co.jp/posts/index.xml"
   },
   {
     "count": 1,
@@ -10244,7 +10453,8 @@
     "example": {
       "title": "TypeScript Clearly & Quickly",
       "url": "https://quick-lint-js.com/blog/version-3.0/"
-    }
+    },
+    "rssUrl": "https://quick-lint-js.com/blog/feed.xml"
   },
   {
     "count": 1,
@@ -10271,7 +10481,8 @@
     "example": {
       "title": "2023年のDenoの変更点やできごとのまとめ",
       "url": "https://zenn.dev/uki00a/articles/whats-new-for-deno-in-2023"
-    }
+    },
+    "rssUrl": "https://zenn.dev/uki00a/feed"
   },
   {
     "count": 1,
@@ -10296,7 +10507,8 @@
     "example": {
       "title": "【DDD入門】TypeScript × ドメイン駆動設計ハンズオン",
       "url": "https://zenn.dev/yamachan0625/books/ddd-hands-on"
-    }
+    },
+    "rssUrl": "https://zenn.dev/yamachan0625/feed"
   },
   {
     "count": 1,
