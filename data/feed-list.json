@@ -1,5 +1,24 @@
 [
   {
+    "url": "https://nodejs.org",
+    "feeds": [
+      "https://nodejs.org/en/feed/blog.xml"
+    ]
+  },
+  {
+    "url": "https://webkit.org",
+    "feeds": [
+      "https://webkit.org/feed/",
+      "https://webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "url": "https://deno.com",
+    "feeds": [
+      "https://deno.com/feed"
+    ]
+  },
+  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
@@ -18,15 +37,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://astro.build",
     "feeds": [
       "https://astro.build/rss.xml"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -36,28 +55,30 @@
     ]
   },
   {
-    "url": "https://nodejs.org",
-    "feeds": [
-      "https://nodejs.org/en/feed/blog.xml"
-    ]
-  },
-  {
-    "url": "https://webkit.org",
-    "feeds": [
-      "https://webkit.org/feed/",
-      "https://webkit.org/feed/atom/"
-    ]
-  },
-  {
     "url": "https://eslint.org",
     "feeds": [
       "https://eslint.org/feed.xml"
     ]
   },
   {
+    "url": "https://www.electronjs.org",
+    "feeds": [
+      "https://www.electronjs.org/blog/rss.xml",
+      "https://www.electronjs.org/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://2ality.com",
     "feeds": [
       "https://2ality.com/feeds/posts.atom"
+    ]
+  },
+  {
+    "url": "https://gihyo.jp",
+    "feeds": [
+      "https://gihyo.jp/feed/rss1",
+      "https://gihyo.jp/feed/rss2",
+      "https://gihyo.jp/feed/atom"
     ]
   },
   {
@@ -95,16 +116,23 @@
     ]
   },
   {
-    "url": "https://www.electronjs.org",
+    "url": "https://ecmascript-daily.github.io",
     "feeds": [
-      "https://www.electronjs.org/blog/rss.xml",
-      "https://www.electronjs.org/blog/atom.xml"
+      "https://ecmascript-daily.github.io/atom.xml",
+      "https://ecmascript-daily.github.io/rss.xml"
     ]
   },
   {
-    "url": "https://deno.com",
+    "url": "https://blog.angular.io",
     "feeds": [
-      "https://deno.com/feed"
+      "https://blog.angular.io/feed"
+    ]
+  },
+  {
+    "url": "https://reactnative.dev",
+    "feeds": [
+      "https://reactnative.dev/blog/rss.xml",
+      "https://reactnative.dev/blog/atom.xml"
     ]
   },
   {
@@ -120,22 +148,16 @@
     ]
   },
   {
-    "url": "https://ecmascript-daily.github.io",
-    "feeds": [
-      "https://ecmascript-daily.github.io/atom.xml",
-      "https://ecmascript-daily.github.io/rss.xml"
-    ]
-  },
-  {
     "url": "https://blog.emberjs.com",
     "feeds": [
       "https://blog.emberjs.com/rss.xml"
     ]
   },
   {
-    "url": "https://blog.angular.io",
+    "url": "https://prettier.io",
     "feeds": [
-      "https://blog.angular.io/feed"
+      "https://prettier.io/blog/atom.xml",
+      "https://prettier.io/blog/feed.xml"
     ]
   },
   {
@@ -157,11 +179,9 @@
     ]
   },
   {
-    "url": "https://gihyo.jp",
+    "url": "https://calendar.perfplanet.com",
     "feeds": [
-      "https://gihyo.jp/feed/rss1",
-      "https://gihyo.jp/feed/rss2",
-      "https://gihyo.jp/feed/atom"
+      "https://calendar.perfplanet.com/feed/"
     ]
   },
   {
@@ -177,10 +197,10 @@
     ]
   },
   {
-    "url": "https://prettier.io",
+    "url": "https://babeljs.io",
     "feeds": [
-      "https://prettier.io/blog/atom.xml",
-      "https://prettier.io/blog/feed.xml"
+      "https://babeljs.io/blog/rss.xml",
+      "https://babeljs.io/blog/atom.xml"
     ]
   },
   {
@@ -196,35 +216,9 @@
     ]
   },
   {
-    "url": "https://calendar.perfplanet.com",
+    "url": "https://vercel.com",
     "feeds": [
-      "https://calendar.perfplanet.com/feed/"
-    ]
-  },
-  {
-    "url": "https://reactnative.dev",
-    "feeds": [
-      "https://reactnative.dev/blog/rss.xml",
-      "https://reactnative.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://babeljs.io",
-    "feeds": [
-      "https://babeljs.io/blog/rss.xml",
-      "https://babeljs.io/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/parcel-bundler/parcel",
-    "feeds": [
-      "https://github.com/parcel-bundler/parcel/releases.atom"
+      "https://vercel.com/atom"
     ]
   },
   {
@@ -242,6 +236,50 @@
     ]
   },
   {
+    "url": "https://www.builder.io",
+    "feeds": [
+      "https://www.builder.io/blog/feed.xml",
+      "https://www.builder.io/blog/feed.atom"
+    ]
+  },
+  {
+    "url": "https://www.rspack.dev",
+    "feeds": [
+      "https://www.rspack.dev/rss/blog-en.rss"
+    ]
+  },
+  {
+    "url": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://css-tricks.com",
+    "feeds": [
+      "https://css-tricks.com/feed/"
+    ]
+  },
+  {
+    "url": "https://github.com/parcel-bundler/parcel",
+    "feeds": [
+      "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "url": "https://hacks.mozilla.org",
+    "feeds": [
+      "https://hacks.mozilla.org/feed/",
+      "https://hacks.mozilla.org/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://parceljs.org",
+    "feeds": [
+      "https://parceljs.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
@@ -254,9 +292,9 @@
     ]
   },
   {
-    "url": "https://www.rspack.dev",
+    "url": "https://www.smashingmagazine.com",
     "feeds": [
-      "https://www.rspack.dev/rss/blog-en.rss"
+      "https://www.smashingmagazine.com/feed/"
     ]
   },
   {
@@ -272,16 +310,16 @@
     ]
   },
   {
-    "url": "https://hacks.mozilla.org",
+    "url": "https://efcl.info",
     "feeds": [
-      "https://hacks.mozilla.org/feed/",
-      "https://hacks.mozilla.org/comments/feed/"
+      "https://efcl.info/feed/"
     ]
   },
   {
-    "url": "https://css-tricks.com",
+    "url": "https://blog.jquery.com",
     "feeds": [
-      "https://css-tricks.com/feed/"
+      "https://blog.jquery.com/feed/",
+      "https://blog.jquery.com/comments/feed/"
     ]
   },
   {
@@ -291,28 +329,15 @@
     ]
   },
   {
-    "url": "https://efcl.info",
+    "url": "https://nuxt.com",
     "feeds": [
-      "https://efcl.info/feed/"
+      "https://nuxt.com/blog/rss.xml"
     ]
   },
   {
-    "url": "https://www.smashingmagazine.com",
+    "url": "https://svelte.dev",
     "feeds": [
-      "https://www.smashingmagazine.com/feed/"
-    ]
-  },
-  {
-    "url": "https://parceljs.org",
-    "feeds": [
-      "https://parceljs.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://blog.jquery.com",
-    "feeds": [
-      "https://blog.jquery.com/feed/",
-      "https://blog.jquery.com/comments/feed/"
+      "https://svelte.dev/blog/rss.xml"
     ]
   },
   {
@@ -331,13 +356,6 @@
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
-    "url": "https://www.builder.io",
-    "feeds": [
-      "https://www.builder.io/blog/feed.xml",
-      "https://www.builder.io/blog/feed.atom"
     ]
   },
   {
@@ -389,9 +407,16 @@
     ]
   },
   {
-    "url": "https://vercel.com",
+    "url": "https://www.shoeisha.co.jp",
     "feeds": [
-      "https://vercel.com/atom"
+      "https://www.shoeisha.co.jp/rss/index.xml",
+      "https://www.shoeisha.co.jp/rss/book/index.xml"
+    ]
+  },
+  {
+    "url": "https://blog.jxck.io",
+    "feeds": [
+      "https://blog.jxck.io/feeds/atom.xml"
     ]
   },
   {
@@ -407,21 +432,15 @@
     ]
   },
   {
-    "url": "https://svelte.dev",
-    "feeds": [
-      "https://svelte.dev/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://dwango.github.io",
     "feeds": [
       "https://dwango.github.io/index.xml"
     ]
   },
   {
-    "url": "https://blog.jxck.io",
+    "url": "https://www.mitsue.co.jp",
     "feeds": [
-      "https://blog.jxck.io/feeds/atom.xml"
+      "https://www.mitsue.co.jp/index.rdf"
     ]
   },
   {
@@ -431,15 +450,15 @@
     ]
   },
   {
-    "url": "https://nuxt.com",
-    "feeds": [
-      "https://nuxt.com/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://bytecodealliance.org",
     "feeds": [
       "https://bytecodealliance.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://www.totaltypescript.com",
+    "feeds": [
+      "https://www.totaltypescript.com/rss.xml"
     ]
   },
   {
@@ -455,18 +474,6 @@
     ]
   },
   {
-    "url": "https://www.mitsue.co.jp",
-    "feeds": [
-      "https://www.mitsue.co.jp/index.rdf"
-    ]
-  },
-  {
-    "url": "https://eh-career.com",
-    "feeds": [
-      "https://eh-career.com/feed/index.xml"
-    ]
-  },
-  {
     "url": "https://www.webkit.org",
     "feeds": [
       "https://www.webkit.org/feed/",
@@ -477,6 +484,18 @@
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://eh-career.com",
+    "feeds": [
+      "https://eh-career.com/feed/index.xml"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/qnighy/",
+    "feeds": [
+      "https://zenn.dev/qnighy/feed"
     ]
   },
   {
@@ -498,9 +517,15 @@
     ]
   },
   {
-    "url": "https://www.totaltypescript.com",
+    "url": "https://zenn.dev/morinokami/",
     "feeds": [
-      "https://www.totaltypescript.com/rss.xml"
+      "https://zenn.dev/morinokami/feed"
+    ]
+  },
+  {
+    "url": "https://reactjs.org",
+    "feeds": [
+      "https://reactjs.org/feed.xml"
     ]
   },
   {
@@ -522,9 +547,10 @@
     ]
   },
   {
-    "url": "https://zenn.dev/qnighy/",
+    "url": "https://www.mizdra.net",
     "feeds": [
-      "https://zenn.dev/qnighy/feed"
+      "https://www.mizdra.net/feed",
+      "https://www.mizdra.net/rss"
     ]
   },
   {
@@ -546,9 +572,10 @@
     ]
   },
   {
-    "url": "https://zenn.dev/morinokami/",
+    "url": "https://jestjs.io",
     "feeds": [
-      "https://zenn.dev/morinokami/feed"
+      "https://jestjs.io/blog/rss.xml",
+      "https://jestjs.io/blog/atom.xml"
     ]
   },
   {
@@ -571,10 +598,9 @@
     ]
   },
   {
-    "url": "https://jestjs.io",
+    "url": "https://babylonjs.medium.com",
     "feeds": [
-      "https://jestjs.io/blog/rss.xml",
-      "https://jestjs.io/blog/atom.xml"
+      "https://medium.com/feed/@babylonjs"
     ]
   },
   {
@@ -596,6 +622,13 @@
     ]
   },
   {
+    "url": "https://nolanlawson.com",
+    "feeds": [
+      "https://nolanlawson.com/feed/",
+      "https://nolanlawson.com/comments/feed/"
+    ]
+  },
+  {
     "url": "https://github.com/actions/setup-node",
     "feeds": [
       "https://github.com/actions/setup-node/releases.atom"
@@ -614,34 +647,22 @@
     ]
   },
   {
-    "url": "https://reactjs.org",
-    "feeds": [
-      "https://reactjs.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://www.shoeisha.co.jp",
-    "feeds": [
-      "https://www.shoeisha.co.jp/rss/index.xml",
-      "https://www.shoeisha.co.jp/rss/book/index.xml"
-    ]
-  },
-  {
     "url": "https://blog.nrwl.io",
     "feeds": [
       "https://blog.nrwl.io/feed"
     ]
   },
   {
-    "url": "https://github.com/oven-sh/bun",
+    "url": "https://www.ecma-international.org",
     "feeds": [
-      "https://github.com/oven-sh/bun/releases.atom"
+      "https://ecma-international.org/feed/",
+      "https://ecma-international.org/comments/feed/"
     ]
   },
   {
-    "url": "https://babylonjs.medium.com",
+    "url": "https://github.com/oven-sh/bun",
     "feeds": [
-      "https://medium.com/feed/@babylonjs"
+      "https://github.com/oven-sh/bun/releases.atom"
     ]
   },
   {
@@ -663,10 +684,9 @@
     ]
   },
   {
-    "url": "https://www.ecma-international.org",
+    "url": "https://www.honeybadger.io",
     "feeds": [
-      "https://ecma-international.org/feed/",
-      "https://ecma-international.org/comments/feed/"
+      "https://www.honeybadger.io/blog/feed.xml"
     ]
   },
   {
@@ -688,52 +708,9 @@
     ]
   },
   {
-    "url": "https://nolanlawson.com",
-    "feeds": [
-      "https://nolanlawson.com/feed/",
-      "https://nolanlawson.com/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://github.com/avajs/ava",
-    "feeds": [
-      "https://github.com/avajs/ava/releases.atom"
-    ]
-  },
-  {
     "url": "https://spidermonkey.dev",
     "feeds": [
       "https://spidermonkey.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://github.com/jasmine/jasmine",
-    "feeds": [
-      "https://github.com/jasmine/jasmine/releases.atom"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/sa2knight/",
-    "feeds": [
-      "https://zenn.dev/sa2knight/feed"
-    ]
-  },
-  {
-    "url": "https://github.com/pixijs/pixijs",
-    "feeds": [
-      "https://github.com/pixijs/pixijs/releases.atom"
-    ]
-  },
-  {
-    "url": "https://blog.bokken.io",
-    "feeds": [
-      "https://blog.bokken.io/feeds/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.honeybadger.io",
-    "feeds": [
-      "https://www.honeybadger.io/blog/feed.xml"
     ]
   },
   {
@@ -743,9 +720,39 @@
     ]
   },
   {
+    "url": "https://github.com/avajs/ava",
+    "feeds": [
+      "https://github.com/avajs/ava/releases.atom"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/sa2knight/",
+    "feeds": [
+      "https://zenn.dev/sa2knight/feed"
+    ]
+  },
+  {
+    "url": "https://github.com/jasmine/jasmine",
+    "feeds": [
+      "https://github.com/jasmine/jasmine/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/pixijs/pixijs",
+    "feeds": [
+      "https://github.com/pixijs/pixijs/releases.atom"
+    ]
+  },
+  {
     "url": "https://shopify.engineering",
     "feeds": [
       "https://shopify.engineering/blog.atom"
+    ]
+  },
+  {
+    "url": "https://blog.bokken.io",
+    "feeds": [
+      "https://blog.bokken.io/feeds/atom.xml"
     ]
   },
   {
@@ -759,6 +766,12 @@
     "url": "https://v2.vuejs.org",
     "feeds": [
       "https://v2.vuejs.org/atom.xml"
+    ]
+  },
+  {
+    "url": "https://postd.cc",
+    "feeds": [
+      "https://postd.cc/feed/"
     ]
   },
   {
@@ -798,12 +811,6 @@
     ]
   },
   {
-    "url": "https://postd.cc",
-    "feeds": [
-      "https://postd.cc/feed/"
-    ]
-  },
-  {
     "url": "https://lea.verou.me",
     "feeds": [
       "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29",
@@ -815,13 +822,6 @@
     "url": "https://github.com/vanjs-org/van",
     "feeds": [
       "https://github.com/vanjs-org/van/releases.atom"
-    ]
-  },
-  {
-    "url": "https://www.mizdra.net",
-    "feeds": [
-      "https://www.mizdra.net/feed",
-      "https://www.mizdra.net/rss"
     ]
   },
   {
@@ -837,15 +837,28 @@
     ]
   },
   {
+    "url": "https://developer.mozilla.org",
+    "feeds": [
+      "https://developer.mozilla.org/en-US/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
     ]
   },
   {
-    "url": "https://developer.mozilla.org",
+    "url": "https://tailwindcss.com",
     "feeds": [
-      "https://developer.mozilla.org/en-US/blog/rss.xml"
+      "https://tailwindcss.com/feeds/feed.xml",
+      "https://tailwindcss.com/feeds/atom.xml"
+    ]
+  },
+  {
+    "url": "https://medium.com/@vueshenzhen/",
+    "feeds": [
+      "https://medium.com/feed/@vueshenzhen"
     ]
   },
   {
@@ -867,13 +880,6 @@
     ]
   },
   {
-    "url": "https://tailwindcss.com",
-    "feeds": [
-      "https://tailwindcss.com/feeds/feed.xml",
-      "https://tailwindcss.com/feeds/atom.xml"
-    ]
-  },
-  {
     "url": "https://github.com/11ty/eleventy",
     "feeds": [
       "https://github.com/11ty/eleventy/releases.atom"
@@ -892,9 +898,10 @@
     ]
   },
   {
-    "url": "https://medium.com/@vueshenzhen/",
+    "url": "https://mitpress.mit.edu",
     "feeds": [
-      "https://medium.com/feed/@vueshenzhen"
+      "https://mitpress.mit.edu/feed/",
+      "https://mitpress.mit.edu/comments/feed/"
     ]
   },
   {
@@ -922,10 +929,16 @@
     ]
   },
   {
-    "url": "https://mitpress.mit.edu",
+    "url": "https://blog.plasmic.app",
     "feeds": [
-      "https://mitpress.mit.edu/feed/",
-      "https://mitpress.mit.edu/comments/feed/"
+      "https://blog.plasmic.app/feed.xml"
+    ]
+  },
+  {
+    "url": "https://recoiljs.org",
+    "feeds": [
+      "https://recoiljs.org/blog/rss.xml",
+      "https://recoiljs.org/blog/atom.xml"
     ]
   },
   {
@@ -935,9 +948,9 @@
     ]
   },
   {
-    "url": "https://blog.plasmic.app",
+    "url": "https://www.amazon.science",
     "feeds": [
-      "https://blog.plasmic.app/feed.xml"
+      "https://www.amazon.science/index.rss"
     ]
   },
   {
@@ -948,15 +961,33 @@
     ]
   },
   {
+    "url": "https://developers.cyberagent.co.jp",
+    "feeds": [
+      "https://developers.cyberagent.co.jp/blog/feed/"
+    ]
+  },
+  {
+    "url": "https://www.igalia.com",
+    "feeds": [
+      "https://www.igalia.com/feed.xml"
+    ]
+  },
+  {
     "url": "https://github.com/ngneat/falso",
     "feeds": [
       "https://github.com/ngneat/falso/releases.atom"
     ]
   },
   {
-    "url": "https://www.amazon.science",
+    "url": "https://mdxjs.com",
     "feeds": [
-      "https://www.amazon.science/index.rss"
+      "https://mdxjs.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://dev.to/atian25/",
+    "feeds": [
+      "https://dev.to/feed/atian25"
     ]
   },
   {
@@ -984,22 +1015,10 @@
     ]
   },
   {
-    "url": "https://mdxjs.com",
+    "url": "https://blog.drsprime.com",
     "feeds": [
-      "https://mdxjs.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://recoiljs.org",
-    "feeds": [
-      "https://recoiljs.org/blog/rss.xml",
-      "https://recoiljs.org/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://dev.to/atian25/",
-    "feeds": [
-      "https://dev.to/feed/atian25"
+      "https://blog.drsprime.com/feed",
+      "https://blog.drsprime.com/rss"
     ]
   },
   {
@@ -1009,10 +1028,9 @@
     ]
   },
   {
-    "url": "https://blog.drsprime.com",
+    "url": "https://dev.to/arcanis/",
     "feeds": [
-      "https://blog.drsprime.com/feed",
-      "https://blog.drsprime.com/rss"
+      "https://dev.to/feed/arcanis"
     ]
   },
   {
@@ -1058,15 +1076,21 @@
     ]
   },
   {
+    "url": "https://daisyui.com",
+    "feeds": [
+      "https://daisyui.com/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://github.com/breejs/bree",
     "feeds": [
       "https://github.com/breejs/bree/releases.atom"
     ]
   },
   {
-    "url": "https://dev.to/arcanis/",
+    "url": "https://surma.dev",
     "feeds": [
-      "https://dev.to/feed/arcanis"
+      "https://surma.dev/index.xml"
     ]
   },
   {
@@ -1082,15 +1106,9 @@
     ]
   },
   {
-    "url": "https://developers.cyberagent.co.jp",
+    "url": "https://tech.hicustomer.jp",
     "feeds": [
-      "https://developers.cyberagent.co.jp/blog/feed/"
-    ]
-  },
-  {
-    "url": "https://surma.dev",
-    "feeds": [
-      "https://surma.dev/index.xml"
+      "https://tech.hicustomer.jp/index.xml"
     ]
   },
   {
@@ -1100,9 +1118,10 @@
     ]
   },
   {
-    "url": "https://daisyui.com",
+    "url": "https://www.ladle.dev",
     "feeds": [
-      "https://daisyui.com/blog/rss.xml"
+      "https://www.ladle.dev/blog/rss.xml",
+      "https://www.ladle.dev/blog/atom.xml"
     ]
   },
   {
@@ -1124,9 +1143,10 @@
     ]
   },
   {
-    "url": "https://www.igalia.com",
+    "url": "https://speakerdeck.com/hgsgtk/",
     "feeds": [
-      "https://www.igalia.com/feed.xml"
+      "https://speakerdeck.com/hgsgtk.atom",
+      "https://speakerdeck.com/hgsgtk.rss"
     ]
   },
   {
@@ -1148,12 +1168,6 @@
     ]
   },
   {
-    "url": "https://tech.hicustomer.jp",
-    "feeds": [
-      "https://tech.hicustomer.jp/index.xml"
-    ]
-  },
-  {
     "url": "https://elijahmanor.com",
     "feeds": [
       "https://elijahmanor.com/rss.xml"
@@ -1166,10 +1180,9 @@
     ]
   },
   {
-    "url": "https://www.ladle.dev",
+    "url": "https://tom.preston-werner.com",
     "feeds": [
-      "https://www.ladle.dev/blog/rss.xml",
-      "https://www.ladle.dev/blog/atom.xml"
+      "https://feeds.feedburner.com/tom-preston-werner"
     ]
   },
   {
@@ -1185,9 +1198,9 @@
     ]
   },
   {
-    "url": "https://tom.preston-werner.com",
+    "url": "https://turborepo.org",
     "feeds": [
-      "https://feeds.feedburner.com/tom-preston-werner"
+      "https://turbo.build/feed.xml"
     ]
   },
   {
@@ -1209,10 +1222,10 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/hgsgtk/",
+    "url": "https://devblog.thebase.in",
     "feeds": [
-      "https://speakerdeck.com/hgsgtk.atom",
-      "https://speakerdeck.com/hgsgtk.rss"
+      "https://devblog.thebase.in/feed",
+      "https://devblog.thebase.in/rss"
     ]
   },
   {
@@ -1240,9 +1253,9 @@
     ]
   },
   {
-    "url": "https://turborepo.org",
+    "url": "https://www.w3.org",
     "feeds": [
-      "https://turbo.build/feed.xml"
+      "https://www.w3.org/blog/feed/"
     ]
   },
   {
@@ -1258,15 +1271,21 @@
     ]
   },
   {
+    "url": "https://blog.axlight.com",
+    "feeds": [
+      "https://blog.axlight.com/index.xml"
+    ]
+  },
+  {
     "url": "https://github.com/unjs/nitro",
     "feeds": [
       "https://github.com/unjs/nitro/releases.atom"
     ]
   },
   {
-    "url": "https://blog.axlight.com",
+    "url": "https://dev.to/frolovdev/",
     "feeds": [
-      "https://blog.axlight.com/index.xml"
+      "https://dev.to/feed/frolovdev"
     ]
   },
   {
@@ -1294,9 +1313,14 @@
     ]
   },
   {
-    "url": "https://www.w3.org",
+    "url": "https://www.remotion.dev",
     "feeds": [
-      "https://www.w3.org/blog/feed/"
+      "https://www.remotion.dev/blog/rss.xml",
+      "https://www.remotion.dev/blog/atom.xml",
+      "https://www.remotion.dev/success-stories/rss.xml",
+      "https://www.remotion.dev/success-stories/atom.xml",
+      "https://www.remotion.dev/learn/rss.xml",
+      "https://www.remotion.dev/learn/atom.xml"
     ]
   },
   {
@@ -1313,16 +1337,10 @@
     ]
   },
   {
-    "url": "https://dev.to/frolovdev/",
+    "url": "https://tsh.io",
     "feeds": [
-      "https://dev.to/feed/frolovdev"
-    ]
-  },
-  {
-    "url": "https://devblog.thebase.in",
-    "feeds": [
-      "https://devblog.thebase.in/feed",
-      "https://devblog.thebase.in/rss"
+      "https://tsh.io/feed/",
+      "https://tsh.io/comments/feed/"
     ]
   },
   {
@@ -1332,14 +1350,9 @@
     ]
   },
   {
-    "url": "https://www.remotion.dev",
+    "url": "https://quramy.medium.com",
     "feeds": [
-      "https://www.remotion.dev/blog/rss.xml",
-      "https://www.remotion.dev/blog/atom.xml",
-      "https://www.remotion.dev/success-stories/rss.xml",
-      "https://www.remotion.dev/success-stories/atom.xml",
-      "https://www.remotion.dev/learn/rss.xml",
-      "https://www.remotion.dev/learn/atom.xml"
+      "https://medium.com/feed/@quramy"
     ]
   },
   {
@@ -1361,13 +1374,6 @@
     ]
   },
   {
-    "url": "https://tsh.io",
-    "feeds": [
-      "https://tsh.io/feed/",
-      "https://tsh.io/comments/feed/"
-    ]
-  },
-  {
     "url": "https://github.com/i-net-software/JWebAssembly",
     "feeds": [
       "https://github.com/i-net-software/JWebAssembly/releases.atom"
@@ -1377,6 +1383,13 @@
     "url": "https://github.com/wooorm/starry-night",
     "feeds": [
       "https://github.com/wooorm/starry-night/releases.atom"
+    ]
+  },
+  {
+    "url": "https://discuss.httparchive.org",
+    "feeds": [
+      "https://discuss.httparchive.org/posts.rss",
+      "https://discuss.httparchive.org/latest.rss"
     ]
   },
   {
@@ -1395,6 +1408,13 @@
     "url": "https://github.com/alan2207/bulletproof-react",
     "feeds": [
       "https://github.com/alan2207/bulletproof-react/releases.atom"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/mizchi/",
+    "feeds": [
+      "https://speakerdeck.com/mizchi.atom",
+      "https://speakerdeck.com/mizchi.rss"
     ]
   },
   {
@@ -1440,9 +1460,9 @@
     ]
   },
   {
-    "url": "https://quramy.medium.com",
+    "url": "https://serpapi.com",
     "feeds": [
-      "https://medium.com/feed/@quramy"
+      "https://serpapi.com/blog/rss/"
     ]
   },
   {
@@ -1464,17 +1484,9 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/mizchi/",
+    "url": "https://browser.engineering",
     "feeds": [
-      "https://speakerdeck.com/mizchi.atom",
-      "https://speakerdeck.com/mizchi.rss"
-    ]
-  },
-  {
-    "url": "https://discuss.httparchive.org",
-    "feeds": [
-      "https://discuss.httparchive.org/posts.rss",
-      "https://discuss.httparchive.org/latest.rss"
+      "https://browser.engineering/rss.xml"
     ]
   },
   {
@@ -1511,6 +1523,12 @@
     "url": "https://github.com/cyco130/vavite",
     "feeds": [
       "https://github.com/cyco130/vavite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://medium.com/@fastifyjs/",
+    "feeds": [
+      "https://medium.com/feed/@fastifyjs"
     ]
   },
   {
@@ -1556,9 +1574,9 @@
     ]
   },
   {
-    "url": "https://browser.engineering",
+    "url": "https://whistlr.info",
     "feeds": [
-      "https://browser.engineering/rss.xml"
+      "https://samthor.au/rss.xml"
     ]
   },
   {
@@ -1568,9 +1586,9 @@
     ]
   },
   {
-    "url": "https://whistlr.info",
+    "url": "https://marijnhaverbeke.nl",
     "feeds": [
-      "https://samthor.au/rss.xml"
+      "https://marijnhaverbeke.nl/blog/feed.atom"
     ]
   },
   {
@@ -1622,15 +1640,16 @@
     ]
   },
   {
-    "url": "https://medium.com/@fastifyjs/",
+    "url": "https://zenn.dev/dajiaji/",
     "feeds": [
-      "https://medium.com/feed/@fastifyjs"
+      "https://zenn.dev/dajiaji/feed"
     ]
   },
   {
-    "url": "https://serpapi.com",
+    "url": "https://blog.nnn.dev",
     "feeds": [
-      "https://serpapi.com/blog/rss/"
+      "https://blog.nnn.dev/feed",
+      "https://blog.nnn.dev/rss"
     ]
   },
   {
@@ -1652,21 +1671,22 @@
     ]
   },
   {
-    "url": "https://marijnhaverbeke.nl",
+    "url": "https://zenn.dev/mjhd/",
     "feeds": [
-      "https://marijnhaverbeke.nl/blog/feed.atom"
+      "https://zenn.dev/mjhd/feed"
+    ]
+  },
+  {
+    "url": "https://katainaka0503.hatenablog.com",
+    "feeds": [
+      "https://katainaka0503.hatenablog.com/feed",
+      "https://katainaka0503.hatenablog.com/rss"
     ]
   },
   {
     "url": "https://github.com/moment/luxon",
     "feeds": [
       "https://github.com/moment/luxon/releases.atom"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/dajiaji/",
-    "feeds": [
-      "https://zenn.dev/dajiaji/feed"
     ]
   },
   {
@@ -1682,9 +1702,9 @@
     ]
   },
   {
-    "url": "https://zenn.dev/mjhd/",
+    "url": "https://nodered.org",
     "feeds": [
-      "https://zenn.dev/mjhd/feed"
+      "https://nodered.org/feed.xml"
     ]
   },
   {
@@ -1694,16 +1714,9 @@
     ]
   },
   {
-    "url": "https://blog.nnn.dev",
+    "url": "https://defensivecss.dev",
     "feeds": [
-      "https://blog.nnn.dev/feed",
-      "https://blog.nnn.dev/rss"
-    ]
-  },
-  {
-    "url": "https://nodered.org",
-    "feeds": [
-      "https://nodered.org/feed.xml"
+      "https://defensivecss.dev/feed/feed.xml"
     ]
   },
   {
@@ -1713,15 +1726,15 @@
     ]
   },
   {
-    "url": "https://defensivecss.dev",
-    "feeds": [
-      "https://defensivecss.dev/feed/feed.xml"
-    ]
-  },
-  {
     "url": "https://github.com/modfy/nominal",
     "feeds": [
       "https://github.com/modfy/nominal/releases.atom"
+    ]
+  },
+  {
+    "url": "https://dev.to/hemanth/",
+    "feeds": [
+      "https://dev.to/feed/hemanth"
     ]
   },
   {
@@ -1734,6 +1747,12 @@
     "url": "https://ishadeed.com",
     "feeds": [
       "https://ishadeed.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://jakearchibald.com",
+    "feeds": [
+      "https://jakearchibald.com/posts.rss"
     ]
   },
   {
@@ -1761,9 +1780,14 @@
     ]
   },
   {
-    "url": "https://dev.to/hemanth/",
+    "url": "https://docusaurus.io",
     "feeds": [
-      "https://dev.to/feed/hemanth"
+      "https://docusaurus.io/blog/rss.xml",
+      "https://docusaurus.io/blog/atom.xml",
+      "https://docusaurus.io/changelog/rss.xml",
+      "https://docusaurus.io/changelog/atom.xml",
+      "https://docusaurus.io/tests/blog/rss.xml",
+      "https://docusaurus.io/tests/blog/atom.xml"
     ]
   },
   {
@@ -1779,9 +1803,9 @@
     ]
   },
   {
-    "url": "https://jakearchibald.com",
+    "url": "https://orizens.com",
     "feeds": [
-      "https://jakearchibald.com/posts.rss"
+      "https://orizens.com/rss.xml"
     ]
   },
   {
@@ -1791,45 +1815,9 @@
     ]
   },
   {
-    "url": "https://github.com/pemistahl/grex-js",
+    "url": "https://engineering.linecorp.com",
     "feeds": [
-      "https://github.com/pemistahl/grex-js/releases.atom"
-    ]
-  },
-  {
-    "url": "https://orizens.com",
-    "feeds": [
-      "https://orizens.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://github.com/prettier/prettier",
-    "feeds": [
-      "https://github.com/prettier/prettier/releases.atom"
-    ]
-  },
-  {
-    "url": "https://katainaka0503.hatenablog.com",
-    "feeds": [
-      "https://katainaka0503.hatenablog.com/feed",
-      "https://katainaka0503.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://docusaurus.io",
-    "feeds": [
-      "https://docusaurus.io/blog/rss.xml",
-      "https://docusaurus.io/blog/atom.xml",
-      "https://docusaurus.io/changelog/rss.xml",
-      "https://docusaurus.io/changelog/atom.xml",
-      "https://docusaurus.io/tests/blog/rss.xml",
-      "https://docusaurus.io/tests/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
-    "feeds": [
-      "https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"
+      "https://engineering.linecorp.com/en"
     ]
   },
   {
@@ -1840,9 +1828,9 @@
     ]
   },
   {
-    "url": "https://github.com/rayepps/radash",
+    "url": "https://github.com/pemistahl/grex-js",
     "feeds": [
-      "https://github.com/rayepps/radash/releases.atom"
+      "https://github.com/pemistahl/grex-js/releases.atom"
     ]
   },
   {
@@ -1853,12 +1841,42 @@
     ]
   },
   {
+    "url": "https://github.com/prettier/prettier",
+    "feeds": [
+      "https://github.com/prettier/prettier/releases.atom"
+    ]
+  },
+  {
     "url": "https://www.matuzo.at",
     "feeds": [
       "https://www.matuzo.at/feed.xml",
       "https://www.matuzo.at/feed_til.xml",
       "https://www.matuzo.at/feed_all.xml",
       "https://www.matuzo.at/feed_100dayscss.xml"
+    ]
+  },
+  {
+    "url": "https://www.theverge.com",
+    "feeds": [
+      "https://www.theverge.com/rss/index.xml"
+    ]
+  },
+  {
+    "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
+    "feeds": [
+      "https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/rayepps/radash",
+    "feeds": [
+      "https://github.com/rayepps/radash/releases.atom"
+    ]
+  },
+  {
+    "url": "https://erock.prose.sh",
+    "feeds": [
+      "https://erock.prose.sh/rss"
     ]
   },
   {
@@ -1880,9 +1898,16 @@
     ]
   },
   {
-    "url": "https://erock.prose.sh",
+    "url": "https://textslashplain.com",
     "feeds": [
-      "https://erock.prose.sh/rss"
+      "https://textslashplain.com/feed/",
+      "https://textslashplain.com/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://tech.basicinc.jp",
+    "feeds": [
+      "https://tech.basicinc.jp/feed"
     ]
   },
   {
@@ -1898,9 +1923,9 @@
     ]
   },
   {
-    "url": "https://engineering.linecorp.com",
+    "url": "https://daverupert.com",
     "feeds": [
-      "https://engineering.linecorp.com/en"
+      "https://daverupert.com/atom.xml"
     ]
   },
   {
@@ -1941,6 +1966,12 @@
     ]
   },
   {
+    "url": "https://www.wantedly.com",
+    "feeds": [
+      "https://www.wantedly.com/projects.xml"
+    ]
+  },
+  {
     "url": "https://github.com/preactjs/signals",
     "feeds": [
       "https://github.com/preactjs/signals/releases.atom"
@@ -1956,12 +1987,6 @@
     "url": "https://github.com/hand-dot/react-inspector",
     "feeds": [
       "https://github.com/hand-dot/react-inspector/releases.atom"
-    ]
-  },
-  {
-    "url": "https://daverupert.com",
-    "feeds": [
-      "https://daverupert.com/atom.xml"
     ]
   },
   {
@@ -1983,9 +2008,10 @@
     ]
   },
   {
-    "url": "https://tech.basicinc.jp",
+    "url": "https://community.redwoodjs.com",
     "feeds": [
-      "https://tech.basicinc.jp/feed"
+      "https://community.redwoodjs.com/posts.rss",
+      "https://community.redwoodjs.com/latest.rss"
     ]
   },
   {
@@ -2043,13 +2069,6 @@
     ]
   },
   {
-    "url": "https://textslashplain.com",
-    "feeds": [
-      "https://textslashplain.com/feed/",
-      "https://textslashplain.com/comments/feed/"
-    ]
-  },
-  {
     "url": "https://almanac.httparchive.org",
     "feeds": [
       "https://almanac.httparchive.org/en/rss.xml"
@@ -2068,34 +2087,15 @@
     ]
   },
   {
-    "url": "https://github.com/dudykr/stc",
-    "feeds": [
-      "https://github.com/dudykr/stc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://community.redwoodjs.com",
-    "feeds": [
-      "https://community.redwoodjs.com/posts.rss",
-      "https://community.redwoodjs.com/latest.rss"
-    ]
-  },
-  {
-    "url": "https://www.wantedly.com",
-    "feeds": [
-      "https://www.wantedly.com/projects.xml"
-    ]
-  },
-  {
-    "url": "https://github.com/vuetifyjs/vuetify",
-    "feeds": [
-      "https://github.com/vuetifyjs/vuetify/releases.atom"
-    ]
-  },
-  {
     "url": "https://sqlite.org",
     "feeds": [
       "https://sqlite.org/wasm/timeline.rss"
+    ]
+  },
+  {
+    "url": "https://github.com/dudykr/stc",
+    "feeds": [
+      "https://github.com/dudykr/stc/releases.atom"
     ]
   },
   {
@@ -2105,21 +2105,9 @@
     ]
   },
   {
-    "url": "https://github.com/hapijs/hapi",
-    "feeds": [
-      "https://github.com/hapijs/hapi/releases.atom"
-    ]
-  },
-  {
     "url": "https://medium.com/airbnb-engineering/",
     "feeds": [
       "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
-    "url": "https://www.theverge.com",
-    "feeds": [
-      "https://www.theverge.com/rss/index.xml"
     ]
   },
   {
@@ -2129,9 +2117,9 @@
     ]
   },
   {
-    "url": "https://github.com/cypress-io/cypress",
+    "url": "https://github.com/vuetifyjs/vuetify",
     "feeds": [
-      "https://github.com/cypress-io/cypress/releases.atom"
+      "https://github.com/vuetifyjs/vuetify/releases.atom"
     ]
   },
   {
@@ -2141,15 +2129,47 @@
     ]
   },
   {
+    "url": "https://github.com/hapijs/hapi",
+    "feeds": [
+      "https://github.com/hapijs/hapi/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/cypress-io/cypress",
+    "feeds": [
+      "https://github.com/cypress-io/cypress/releases.atom"
+    ]
+  },
+  {
+    "url": "https://link-and-motivation.hatenablog.com",
+    "feeds": [
+      "https://link-and-motivation.hatenablog.com/feed",
+      "https://link-and-motivation.hatenablog.com/rss"
+    ]
+  },
+  {
     "url": "https://blog.maximeheckel.com",
     "feeds": [
       "https://blog.maximeheckel.com/rss.xml"
     ]
   },
   {
+    "url": "https://blog.mozilla.org",
+    "feeds": [
+      "https://blog.mozilla.org/en/feed/",
+      "https://blog.mozilla.org/en/comments/feed/"
+    ]
+  },
+  {
     "url": "https://github.com/hadmean/hadmean",
     "feeds": [
       "https://github.com/hadmean/hadmean/releases.atom"
+    ]
+  },
+  {
+    "url": "https://www.simoahava.com",
+    "feeds": [
+      "https://www.simoahava.com/index.xml"
     ]
   },
   {
@@ -2165,29 +2185,22 @@
     ]
   },
   {
-    "url": "https://blog.mozilla.org",
-    "feeds": [
-      "https://blog.mozilla.org/en/feed/",
-      "https://blog.mozilla.org/en/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://link-and-motivation.hatenablog.com",
-    "feeds": [
-      "https://link-and-motivation.hatenablog.com/feed",
-      "https://link-and-motivation.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://www.simoahava.com",
-    "feeds": [
-      "https://www.simoahava.com/index.xml"
-    ]
-  },
-  {
     "url": "https://zenn.dev/0kate/",
     "feeds": [
       "https://zenn.dev/0kate/feed"
+    ]
+  },
+  {
+    "url": "https://trpc.io",
+    "feeds": [
+      "https://trpc.io/blog/rss.xml",
+      "https://trpc.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://jrsinclair.com",
+    "feeds": [
+      "https://jrsinclair.com/index.rss"
     ]
   },
   {
@@ -2203,16 +2216,22 @@
     ]
   },
   {
-    "url": "https://jrsinclair.com",
-    "feeds": [
-      "https://jrsinclair.com/index.rss"
-    ]
-  },
-  {
     "url": "https://www.debugbear.com",
     "feeds": [
       "https://www.debugbear.com/blog/rss.xml",
       "https://www.debugbear.com/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://tkdodo.eu",
+    "feeds": [
+      "https://tkdodo.eu/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://marvinh.dev",
+    "feeds": [
+      "https://marvinh.dev/feed.xml"
     ]
   },
   {
@@ -2246,27 +2265,15 @@
     ]
   },
   {
-    "url": "https://tkdodo.eu",
-    "feeds": [
-      "https://tkdodo.eu/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://github.com/bluwy/publint",
-    "feeds": [
-      "https://github.com/bluwy/publint/releases.atom"
-    ]
-  },
-  {
     "url": "https://devtoolstips.org",
     "feeds": [
       "https://devtoolstips.org/feed.xml"
     ]
   },
   {
-    "url": "https://marvinh.dev",
+    "url": "https://github.com/bluwy/publint",
     "feeds": [
-      "https://marvinh.dev/feed.xml"
+      "https://github.com/bluwy/publint/releases.atom"
     ]
   },
   {
@@ -2282,21 +2289,9 @@
     ]
   },
   {
-    "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
-    "feeds": [
-      "https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"
-    ]
-  },
-  {
     "url": "https://zenn.dev/yhatt/",
     "feeds": [
       "https://zenn.dev/yhatt/feed"
-    ]
-  },
-  {
-    "url": "https://obyford.com",
-    "feeds": [
-      "https://obyford.com/feed/feed.xml"
     ]
   },
   {
@@ -2306,16 +2301,34 @@
     ]
   },
   {
-    "url": "https://trpc.io",
+    "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
     "feeds": [
-      "https://trpc.io/blog/rss.xml",
-      "https://trpc.io/blog/atom.xml"
+      "https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"
+    ]
+  },
+  {
+    "url": "https://obyford.com",
+    "feeds": [
+      "https://obyford.com/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://accessibility.blog.gov.uk",
+    "feeds": [
+      "https://accessibility.blog.gov.uk/feed/"
     ]
   },
   {
     "url": "https://github.com/Dunks1980/bay.js",
     "feeds": [
       "https://github.com/Dunks1980/bay.js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://yosuke-furukawa.hatenablog.com",
+    "feeds": [
+      "https://yosuke-furukawa.hatenablog.com/feed",
+      "https://yosuke-furukawa.hatenablog.com/rss"
     ]
   },
   {
@@ -2361,9 +2374,21 @@
     ]
   },
   {
-    "url": "https://accessibility.blog.gov.uk",
+    "url": "https://zenn.dev/mkt/",
     "feeds": [
-      "https://accessibility.blog.gov.uk/feed/"
+      "https://zenn.dev/mkt/feed"
+    ]
+  },
+  {
+    "url": "https://csswizardry.com",
+    "feeds": [
+      "https://feeds.feedburner.com/csswizardry"
+    ]
+  },
+  {
+    "url": "https://blog.bitsrc.io",
+    "feeds": [
+      "https://blog.bitsrc.io/feed"
     ]
   },
   {
@@ -2409,9 +2434,10 @@
     ]
   },
   {
-    "url": "https://zenn.dev/mkt/",
+    "url": "https://00f.net",
     "feeds": [
-      "https://zenn.dev/mkt/feed"
+      "https://00f.net/rss.xml",
+      "https://00f.net/atom.xml"
     ]
   },
   {
@@ -2427,22 +2453,15 @@
     ]
   },
   {
-    "url": "https://csswizardry.com",
+    "url": "https://zenn.dev/terrierscript/",
     "feeds": [
-      "https://feeds.feedburner.com/csswizardry"
+      "https://zenn.dev/terrierscript/feed"
     ]
   },
   {
     "url": "https://github.com/pmndrs/jotai",
     "feeds": [
       "https://github.com/pmndrs/jotai/releases.atom"
-    ]
-  },
-  {
-    "url": "https://00f.net",
-    "feeds": [
-      "https://00f.net/rss.xml",
-      "https://00f.net/atom.xml"
     ]
   },
   {
@@ -2458,9 +2477,9 @@
     ]
   },
   {
-    "url": "https://blog.bitsrc.io",
+    "url": "https://www.codeflashbacks.com",
     "feeds": [
-      "https://blog.bitsrc.io/feed"
+      "https://www.codeflashbacks.com/rss/"
     ]
   },
   {
@@ -2482,15 +2501,9 @@
     ]
   },
   {
-    "url": "https://zenn.dev/terrierscript/",
+    "url": "https://the-guild.dev",
     "feeds": [
-      "https://zenn.dev/terrierscript/feed"
-    ]
-  },
-  {
-    "url": "https://www.codeflashbacks.com",
-    "feeds": [
-      "https://www.codeflashbacks.com/rss/"
+      "https://the-guild.dev/feed.xml"
     ]
   },
   {
@@ -2513,27 +2526,21 @@
     ]
   },
   {
-    "url": "https://the-guild.dev",
-    "feeds": [
-      "https://the-guild.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://github.com/chaijs/chai",
     "feeds": [
       "https://github.com/chaijs/chai/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/natemoo-re/clack",
-    "feeds": [
-      "https://github.com/natemoo-re/clack/releases.atom"
-    ]
-  },
-  {
     "url": "https://zenn.dev/yusukehirao/",
     "feeds": [
       "https://zenn.dev/yusukehirao/feed"
+    ]
+  },
+  {
+    "url": "https://github.com/natemoo-re/clack",
+    "feeds": [
+      "https://github.com/natemoo-re/clack/releases.atom"
     ]
   },
   {
@@ -2555,6 +2562,18 @@
     ]
   },
   {
+    "url": "https://dev.to/codux/",
+    "feeds": [
+      "https://dev.to/feed/codux"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/tnyo43/",
+    "feeds": [
+      "https://zenn.dev/tnyo43/feed"
+    ]
+  },
+  {
     "url": "https://github.com/open-draft/event-contract",
     "feeds": [
       "https://github.com/open-draft/event-contract/releases.atom"
@@ -2564,12 +2583,6 @@
     "url": "https://github.com/antonmedv/finder",
     "feeds": [
       "https://github.com/antonmedv/finder/releases.atom"
-    ]
-  },
-  {
-    "url": "https://dev.to/codux/",
-    "feeds": [
-      "https://dev.to/feed/codux"
     ]
   },
   {
@@ -2585,15 +2598,22 @@
     ]
   },
   {
+    "url": "https://socket.dev",
+    "feeds": [
+      "https://socket.dev/api/feed.atom"
+    ]
+  },
+  {
     "url": "https://github.com/gajus/turbowatch",
     "feeds": [
       "https://github.com/gajus/turbowatch/releases.atom"
     ]
   },
   {
-    "url": "https://zenn.dev/tnyo43/",
+    "url": "https://bufferings.hatenablog.com",
     "feeds": [
-      "https://zenn.dev/tnyo43/feed"
+      "https://bufferings.hatenablog.com/feed",
+      "https://bufferings.hatenablog.com/rss"
     ]
   },
   {
@@ -2639,6 +2659,13 @@
     ]
   },
   {
+    "url": "https://tech.high-link.co.jp",
+    "feeds": [
+      "https://tech.high-link.co.jp/feed",
+      "https://tech.high-link.co.jp/rss"
+    ]
+  },
+  {
     "url": "https://github.com/wantedly/react-declassify",
     "feeds": [
       "https://github.com/wantedly/react-declassify/releases.atom"
@@ -2651,22 +2678,15 @@
     ]
   },
   {
-    "url": "https://socket.dev",
+    "url": "https://blog.s2n.tech",
     "feeds": [
-      "https://socket.dev/api/feed.atom"
+      "https://blog.s2n.tech/feed"
     ]
   },
   {
     "url": "https://github.com/sveltejs/kit",
     "feeds": [
       "https://github.com/sveltejs/kit/releases.atom"
-    ]
-  },
-  {
-    "url": "https://tech.high-link.co.jp",
-    "feeds": [
-      "https://tech.high-link.co.jp/feed",
-      "https://tech.high-link.co.jp/rss"
     ]
   },
   {
@@ -2706,9 +2726,15 @@
     ]
   },
   {
-    "url": "https://blog.s2n.tech",
+    "url": "https://www.netlify.com",
     "feeds": [
-      "https://blog.s2n.tech/feed"
+      "https://www.netlify.com/community-feed.xml/"
+    ]
+  },
+  {
+    "url": "https://htmx.org",
+    "feeds": [
+      "https://htmx.org/atom.xml"
     ]
   },
   {
@@ -2732,9 +2758,9 @@
     ]
   },
   {
-    "url": "https://htmx.org",
+    "url": "https://glebbahmutov.com",
     "feeds": [
-      "https://htmx.org/atom.xml"
+      "https://glebbahmutov.com/blog/atom.xml"
     ]
   },
   {
@@ -2744,21 +2770,15 @@
     ]
   },
   {
-    "url": "https://bhch.github.io",
-    "feeds": [
-      "https://bhch.github.io/feeds/atom.xml"
-    ]
-  },
-  {
     "url": "https://pawelgrzybek.com",
     "feeds": [
       "https://pawelgrzybek.com/feed.xml"
     ]
   },
   {
-    "url": "https://glebbahmutov.com",
+    "url": "https://bhch.github.io",
     "feeds": [
-      "https://glebbahmutov.com/blog/atom.xml"
+      "https://bhch.github.io/feeds/atom.xml"
     ]
   },
   {
@@ -2766,6 +2786,13 @@
     "feeds": [
       "https://speakerdeck.com/nichimu.atom",
       "https://speakerdeck.com/nichimu.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/sadnessojisan/",
+    "feeds": [
+      "https://speakerdeck.com/sadnessojisan.atom",
+      "https://speakerdeck.com/sadnessojisan.rss"
     ]
   },
   {
@@ -2778,13 +2805,6 @@
     "url": "https://github.com/SBoudrias/Inquirer.js",
     "feeds": [
       "https://github.com/SBoudrias/Inquirer.js/releases.atom"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sadnessojisan/",
-    "feeds": [
-      "https://speakerdeck.com/sadnessojisan.atom",
-      "https://speakerdeck.com/sadnessojisan.rss"
     ]
   },
   {
@@ -2806,9 +2826,15 @@
     ]
   },
   {
-    "url": "https://www.netlify.com",
+    "url": "https://www.jantrid.net",
     "feeds": [
-      "https://www.netlify.com/community-feed.xml/"
+      "https://www.jantrid.net/feeds/posts/default/index.xml"
+    ]
+  },
+  {
+    "url": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
     ]
   },
   {
@@ -2836,10 +2862,10 @@
     ]
   },
   {
-    "url": "https://bufferings.hatenablog.com",
+    "url": "https://blog.hog.as",
     "feeds": [
-      "https://bufferings.hatenablog.com/feed",
-      "https://bufferings.hatenablog.com/rss"
+      "https://blog.hog.as/feed",
+      "https://blog.hog.as/rss"
     ]
   },
   {
@@ -2861,27 +2887,23 @@
     ]
   },
   {
-    "url": "https://www.jantrid.net",
-    "feeds": [
-      "https://www.jantrid.net/feeds/posts/default/index.xml"
-    ]
-  },
-  {
     "url": "https://www.nray.dev",
     "feeds": [
       "https://www.nray.dev/rss.xml"
     ]
   },
   {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
-    ]
-  },
-  {
     "url": "https://blog.rafaelgss.dev",
     "feeds": [
       "https://blog.rafaelgss.dev/rss"
+    ]
+  },
+  {
+    "url": "https://marmooo.blogspot.com",
+    "feeds": [
+      "https://marmooo.blogspot.com/feeds/posts/default",
+      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
     ]
   },
   {
@@ -2897,35 +2919,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/polywasm",
-    "feeds": [
-      "https://github.com/evanw/polywasm/releases.atom"
-    ]
-  },
-  {
-    "url": "https://marmooo.blogspot.com",
-    "feeds": [
-      "https://marmooo.blogspot.com/feeds/posts/default",
-      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
-    ]
-  },
-  {
-    "url": "https://github.com/nestjs/nest",
-    "feeds": [
-      "https://github.com/nestjs/nest/releases.atom"
-    ]
-  },
-  {
     "url": "https://chriscoyier.net",
     "feeds": [
       "https://chriscoyier.net/feed/"
     ]
   },
   {
-    "url": "https://github.com/gvergnaud/ts-pattern",
+    "url": "https://github.com/evanw/polywasm",
     "feeds": [
-      "https://github.com/gvergnaud/ts-pattern/releases.atom"
+      "https://github.com/evanw/polywasm/releases.atom"
     ]
   },
   {
@@ -2935,9 +2937,33 @@
     ]
   },
   {
+    "url": "https://github.com/nestjs/nest",
+    "feeds": [
+      "https://github.com/nestjs/nest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://www.fermyon.com",
+    "feeds": [
+      "https://www.fermyon.com/atom.xml"
+    ]
+  },
+  {
     "url": "https://moderncss.dev",
     "feeds": [
       "https://moderncss.dev/feed/"
+    ]
+  },
+  {
+    "url": "https://github.com/gvergnaud/ts-pattern",
+    "feeds": [
+      "https://github.com/gvergnaud/ts-pattern/releases.atom"
+    ]
+  },
+  {
+    "url": "https://kizu.dev",
+    "feeds": [
+      "https://feeds.feedburner.com/kizuruen"
     ]
   },
   {
@@ -2947,9 +2973,9 @@
     ]
   },
   {
-    "url": "https://www.fermyon.com",
+    "url": "https://www.feelback.dev",
     "feeds": [
-      "https://www.fermyon.com/atom.xml"
+      "https://www.feelback.dev/rss.xml"
     ]
   },
   {
@@ -2965,9 +2991,10 @@
     ]
   },
   {
-    "url": "https://kizu.dev",
+    "url": "https://typescript-eslint.io",
     "feeds": [
-      "https://feeds.feedburner.com/kizuruen"
+      "https://typescript-eslint.io/blog/rss.xml",
+      "https://typescript-eslint.io/blog/atom.xml"
     ]
   },
   {
@@ -2977,23 +3004,15 @@
     ]
   },
   {
-    "url": "https://blog.hog.as",
+    "url": "https://boajs.dev",
     "feeds": [
-      "https://blog.hog.as/feed",
-      "https://blog.hog.as/rss"
+      "https://boajs.dev/feed.xml"
     ]
   },
   {
-    "url": "https://yosuke-furukawa.hatenablog.com",
+    "url": "https://katashin.info",
     "feeds": [
-      "https://yosuke-furukawa.hatenablog.com/feed",
-      "https://yosuke-furukawa.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://www.feelback.dev",
-    "feeds": [
-      "https://www.feelback.dev/rss.xml"
+      "https://katashin.info/feed/feed.xml"
     ]
   },
   {
@@ -3009,6 +3028,15 @@
     ]
   },
   {
+    "url": "https://davidwalsh.name",
+    "feeds": [
+      "https://davidwalsh.name/feed/atom",
+      "https://davidwalsh.name/feed",
+      "https://davidwalsh.name/comments/feed",
+      "https://davidwalsh.name/feed/rdf"
+    ]
+  },
+  {
     "url": "https://github.com/kamranahmedse/driver.js",
     "feeds": [
       "https://github.com/kamranahmedse/driver.js/releases.atom"
@@ -3021,22 +3049,22 @@
     ]
   },
   {
-    "url": "https://typescript-eslint.io",
-    "feeds": [
-      "https://typescript-eslint.io/blog/rss.xml",
-      "https://typescript-eslint.io/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://github.com/fabian-hiller/valibot",
     "feeds": [
       "https://github.com/fabian-hiller/valibot/releases.atom"
     ]
   },
   {
-    "url": "https://katashin.info",
+    "url": "https://zenn.dev/wakamsha/",
     "feeds": [
-      "https://katashin.info/feed/feed.xml"
+      "https://zenn.dev/wakamsha/feed"
+    ]
+  },
+  {
+    "url": "https://tech.repro.io",
+    "feeds": [
+      "https://tech.repro.io/feed",
+      "https://tech.repro.io/rss"
     ]
   },
   {
@@ -3058,44 +3086,42 @@
     ]
   },
   {
+    "url": "https://www.mux.com",
+    "feeds": [
+      "https://www.mux.com/blog/rss.xml",
+      "https://www.mux.com/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://github.com/KittyGiraudel/a11y-dialog",
     "feeds": [
       "https://github.com/KittyGiraudel/a11y-dialog/releases.atom"
     ]
   },
   {
-    "url": "https://davidwalsh.name",
+    "url": "https://practica.dev",
     "feeds": [
-      "https://davidwalsh.name/feed/atom",
-      "https://davidwalsh.name/feed",
-      "https://davidwalsh.name/comments/feed",
-      "https://davidwalsh.name/feed/rdf"
+      "https://practica.dev/blog/rss.xml",
+      "https://practica.dev/blog/atom.xml"
     ]
   },
   {
-    "url": "https://zenn.dev/wakamsha/",
+    "url": "https://speakerdeck.com/kazupon/",
     "feeds": [
-      "https://zenn.dev/wakamsha/feed"
+      "https://speakerdeck.com/kazupon.atom",
+      "https://speakerdeck.com/kazupon.rss"
     ]
   },
   {
-    "url": "https://tech.repro.io",
+    "url": "https://blog.appsignal.com",
     "feeds": [
-      "https://tech.repro.io/feed",
-      "https://tech.repro.io/rss"
+      "https://blog.appsignal.com//feed.xml"
     ]
   },
   {
     "url": "https://gist.github.com/andrewbranch",
     "feeds": [
       "https://gist.github.com/andrewbranch.atom"
-    ]
-  },
-  {
-    "url": "https://www.mux.com",
-    "feeds": [
-      "https://www.mux.com/blog/rss.xml",
-      "https://www.mux.com/blog/atom.xml"
     ]
   },
   {
@@ -3111,6 +3137,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/recruitengineers/",
+    "feeds": [
+      "https://speakerdeck.com/recruitengineers.atom",
+      "https://speakerdeck.com/recruitengineers.rss"
+    ]
+  },
+  {
     "url": "https://github.com/vercel/next.js",
     "feeds": [
       "https://github.com/vercel/next.js/releases.atom"
@@ -3123,16 +3156,17 @@
     ]
   },
   {
-    "url": "https://practica.dev",
+    "url": "https://alttexthalloffame.org",
     "feeds": [
-      "https://practica.dev/blog/rss.xml",
-      "https://practica.dev/blog/atom.xml"
+      "https://alttexthalloffame.org/en/feed/",
+      "https://alttexthalloffame.org/en/comments/feed/",
+      "https://alttexthalloffame.org/sample-page/feed/"
     ]
   },
   {
-    "url": "https://blog.appsignal.com",
+    "url": "https://frontendmasters.com",
     "feeds": [
-      "https://blog.appsignal.com//feed.xml"
+      "https://frontendmasters.com/blog/feed/"
     ]
   },
   {
@@ -3160,34 +3194,15 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/kazupon/",
+    "url": "https://maximorlov.com",
     "feeds": [
-      "https://speakerdeck.com/kazupon.atom",
-      "https://speakerdeck.com/kazupon.rss"
-    ]
-  },
-  {
-    "url": "https://boajs.dev",
-    "feeds": [
-      "https://boajs.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://frontendmasters.com",
-    "feeds": [
-      "https://frontendmasters.com/blog/feed/"
+      "https://maximorlov.com/feed.xml"
     ]
   },
   {
     "url": "https://github.com/web-infra-dev/wg",
     "feeds": [
       "https://github.com/web-infra-dev/wg/releases.atom"
-    ]
-  },
-  {
-    "url": "https://maximorlov.com",
-    "feeds": [
-      "https://maximorlov.com/feed.xml"
     ]
   },
   {
@@ -3203,24 +3218,9 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/recruitengineers/",
-    "feeds": [
-      "https://speakerdeck.com/recruitengineers.atom",
-      "https://speakerdeck.com/recruitengineers.rss"
-    ]
-  },
-  {
     "url": "https://github.com/nebrelbug/npm-to-yarn",
     "feeds": [
       "https://github.com/nebrelbug/npm-to-yarn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://alttexthalloffame.org",
-    "feeds": [
-      "https://alttexthalloffame.org/en/feed/",
-      "https://alttexthalloffame.org/en/comments/feed/",
-      "https://alttexthalloffame.org/sample-page/feed/"
     ]
   },
   {
@@ -3242,9 +3242,22 @@
     ]
   },
   {
+    "url": "https://abduvik.medium.com",
+    "feeds": [
+      "https://medium.com/feed/@abduvik"
+    ]
+  },
+  {
     "url": "https://github.com/eslint-stylistic/eslint-stylistic",
     "feeds": [
       "https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"
+    ]
+  },
+  {
+    "url": "https://ladle.dev",
+    "feeds": [
+      "https://ladle.dev/blog/rss.xml",
+      "https://ladle.dev/blog/atom.xml"
     ]
   },
   {
@@ -3254,10 +3267,15 @@
     ]
   },
   {
-    "url": "https://ladle.dev",
+    "url": "https://www.sbcr.jp",
     "feeds": [
-      "https://ladle.dev/blog/rss.xml",
-      "https://ladle.dev/blog/atom.xml"
+      "https://www.sbcr.jp/product/4815619480/feed/"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/taisei_13046/",
+    "feeds": [
+      "https://zenn.dev/taisei_13046/feed"
     ]
   },
   {
@@ -3304,6 +3322,12 @@
     ]
   },
   {
+    "url": "https://www.sonarsource.com",
+    "feeds": [
+      "https://www.sonarsource.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.softwareatscale.dev",
     "feeds": [
       "https://api.substack.com/feed/podcast/55725.rss",
@@ -3335,24 +3359,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/taisei_13046/",
-    "feeds": [
-      "https://zenn.dev/taisei_13046/feed"
-    ]
-  },
-  {
-    "url": "https://abduvik.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@abduvik"
-    ]
-  },
-  {
-    "url": "https://github.com/AlexSergey/rockpack",
-    "feeds": [
-      "https://github.com/AlexSergey/rockpack/releases.atom"
-    ]
-  },
-  {
     "url": "https://blog.scottlogic.com",
     "feeds": [
       "https://blog.scottlogic.com/atom.xml",
@@ -3360,10 +3366,9 @@
     ]
   },
   {
-    "url": "https://sindresorhus.com",
+    "url": "https://github.com/AlexSergey/rockpack",
     "feeds": [
-      "https://sindresorhus.com/rss.xml",
-      "https://sindresorhus.com/rss-apps.xml"
+      "https://github.com/AlexSergey/rockpack/releases.atom"
     ]
   },
   {
@@ -3374,9 +3379,28 @@
     ]
   },
   {
+    "url": "https://sindresorhus.com",
+    "feeds": [
+      "https://sindresorhus.com/rss.xml",
+      "https://sindresorhus.com/rss-apps.xml"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/nakaakist/",
+    "feeds": [
+      "https://zenn.dev/nakaakist/feed"
+    ]
+  },
+  {
     "url": "https://github.com/joshmarinacci/node-pureimage",
     "feeds": [
       "https://github.com/joshmarinacci/node-pureimage/releases.atom"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/punkshiraishi/",
+    "feeds": [
+      "https://zenn.dev/punkshiraishi/feed"
     ]
   },
   {
@@ -3398,27 +3422,9 @@
     ]
   },
   {
-    "url": "https://www.sonarsource.com",
+    "url": "https://medium.com/miro-engineering/",
     "feeds": [
-      "https://www.sonarsource.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/nakaakist/",
-    "feeds": [
-      "https://zenn.dev/nakaakist/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/punkshiraishi/",
-    "feeds": [
-      "https://zenn.dev/punkshiraishi/feed"
-    ]
-  },
-  {
-    "url": "https://github.com/vvo/iron-session",
-    "feeds": [
-      "https://github.com/vvo/iron-session/releases.atom"
+      "https://medium.com/feed/miro-engineering"
     ]
   },
   {
@@ -3429,9 +3435,16 @@
     ]
   },
   {
-    "url": "https://www.sbcr.jp",
+    "url": "https://github.com/vvo/iron-session",
     "feeds": [
-      "https://www.sbcr.jp/product/4815619480/feed/"
+      "https://github.com/vvo/iron-session/releases.atom"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/sajikix/",
+    "feeds": [
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {
@@ -3465,9 +3478,9 @@
     ]
   },
   {
-    "url": "https://medium.com/miro-engineering/",
+    "url": "https://scrapbox.io",
     "feeds": [
-      "https://medium.com/feed/miro-engineering"
+      "https://scrapbox.io/api/feed/yamanoku"
     ]
   },
   {
@@ -3477,10 +3490,9 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/sajikix/",
+    "url": "https://zenn.dev/zawa_kyo/",
     "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
+      "https://zenn.dev/zawa_kyo/feed"
     ]
   },
   {
@@ -3490,9 +3502,23 @@
     ]
   },
   {
-    "url": "https://zenn.dev/zawa_kyo/",
+    "url": "https://zenn.dev/urotea/",
     "feeds": [
-      "https://zenn.dev/zawa_kyo/feed"
+      "https://zenn.dev/urotea/feed"
+    ]
+  },
+  {
+    "url": "https://user-first.ikyu.co.jp",
+    "feeds": [
+      "https://user-first.ikyu.co.jp/feed",
+      "https://user-first.ikyu.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://developers.prtimes.jp",
+    "feeds": [
+      "https://developers.prtimes.jp/feed/",
+      "https://developers.prtimes.jp/comments/feed/"
     ]
   },
   {
@@ -3514,9 +3540,11 @@
     ]
   },
   {
-    "url": "https://zenn.dev/urotea/",
+    "url": "https://www.htmhell.dev",
     "feeds": [
-      "https://zenn.dev/urotea/feed"
+      "https://www.htmhell.dev/feed.xml",
+      "https://www.htmhell.dev/feed_tips.xml",
+      "https://www.htmhell.dev/feed_advent.xml"
     ]
   },
   {
@@ -3526,11 +3554,9 @@
     ]
   },
   {
-    "url": "https://www.htmhell.dev",
+    "url": "https://blog.osstech.co.jp",
     "feeds": [
-      "https://www.htmhell.dev/feed.xml",
-      "https://www.htmhell.dev/feed_tips.xml",
-      "https://www.htmhell.dev/feed_advent.xml"
+      "https://blog.osstech.co.jp/posts/index.xml"
     ]
   },
   {
@@ -3540,16 +3566,9 @@
     ]
   },
   {
-    "url": "https://developers.prtimes.jp",
+    "url": "https://quick-lint-js.com",
     "feeds": [
-      "https://developers.prtimes.jp/feed/",
-      "https://developers.prtimes.jp/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://blog.osstech.co.jp",
-    "feeds": [
-      "https://blog.osstech.co.jp/posts/index.xml"
+      "https://quick-lint-js.com/blog/feed.xml"
     ]
   },
   {
@@ -3559,28 +3578,15 @@
     ]
   },
   {
-    "url": "https://quick-lint-js.com",
-    "feeds": [
-      "https://quick-lint-js.com/blog/feed.xml"
-    ]
-  },
-  {
-    "url": "https://scrapbox.io",
-    "feeds": [
-      "https://scrapbox.io/api/feed/yamanoku"
-    ]
-  },
-  {
     "url": "https://zenn.dev/yamachan0625/",
     "feeds": [
       "https://zenn.dev/yamachan0625/feed"
     ]
   },
   {
-    "url": "https://user-first.ikyu.co.jp",
+    "url": "https://nuxtjs.org",
     "feeds": [
-      "https://user-first.ikyu.co.jp/feed",
-      "https://user-first.ikyu.co.jp/rss"
+      "https://nuxt.com/blog/rss.xml"
     ]
   }
 ]

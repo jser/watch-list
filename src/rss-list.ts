@@ -3,6 +3,8 @@ import path from "node:path";
 import type { WatchItem } from "./watch-list";
 import { chromium } from "playwright";
 import { createOPML } from "./libs/to-opml";
+
+const DEBUG_DOMAIN = process.env.DEBUG_DOMAIN;
 // get RSS feed from the url
 const DATA_DIR = path.join(__dirname, "../data");
 const RSS_LINK_TYPES = [
@@ -110,6 +112,14 @@ const main = async () => {
             console.debug(`[${meta.logNamespace}] Hit cache`, url, cached.feeds);
             return cached;
         }
+        // if DEBUG_DOMAIN is set, only process the domain
+        if (DEBUG_DOMAIN) {
+            const urlObj = new URL(url);
+            if (urlObj.hostname !== DEBUG_DOMAIN) {
+                console.debug(`[${meta.logNamespace}][DEBUG MODE] Skip`, url);
+                return;
+            }
+        }
         console.debug(`[${meta.logNamespace}] try feed from url`, url);
         const feeds = await getFeeds(url).catch(() => []);
         if (feeds.length > 0) {
@@ -125,6 +135,11 @@ const main = async () => {
             // https://example.com/blog/<title> => https://example.com/blog/
             if (url.includes("/blog/")) {
                 return url.replace(/\/blog\/.*/, "/blog/");
+            }
+            // if /announcements/ included, remove it
+            // https://example.com/announcements/<title> => https://example.com/announcements/
+            if (url.includes("/announcements/")) {
+                return url.replace(/\/announcements\/.*/, "/announcements/");
             }
             return url;
         };
@@ -152,7 +167,12 @@ const main = async () => {
         };
     });
     await pAll(promises, { concurrency: 8 });
-    await storage.set(newFeeds);
+    const sortedFeeds = newFeeds.sort((a, b) => {
+        const hostA = new URL(a.url).hostname;
+        const hostB = new URL(b.url).hostname;
+        return hostA.localeCompare(hostB);
+    });
+    await storage.set(sortedFeeds);
 };
 
 if (require.main === module) {

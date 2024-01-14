@@ -21,8 +21,9 @@ export type WatchItem = {
 // Match →　title and url
 type RuleItem<T extends RegExpMatchArray = RegExpMatchArray> = {
     match: (item: JserItem) => T | null;
-    // title: ({ item, match }: { item: JserItem; match: T }) => string;
+    // unique url for each site
     url: ({ item, match }: { item: JserItem; match: T }) => string;
+    // rss url for each site
     rssUrl?: ({ item, match }: { item: JserItem; match: T }) => string;
     // tests for url and rssUrl
     tests?: {

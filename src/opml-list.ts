@@ -43,13 +43,18 @@ async function main() {
         return !EXCLUDE_OPML_FEEDS.includes(domain);
     });
     const withoutDuplicate = filterDuplicate(filteredList);
+    const sortedList = withoutDuplicate.sort((a, b) => {
+        const domainA = new URL(a.url).hostname;
+        const domainB = new URL(b.url).hostname;
+        return domainA.localeCompare(domainB);
+    });
     console.debug("Feed Count:", feeds.length);
-    console.debug("Filtered Feed Count:", filteredList.length);
-    const opml = createOPML(withoutDuplicate);
+    console.debug("Filtered Feed Count:", sortedList.length);
+    const opml = createOPML(sortedList);
     // write to data/opml-list.opml
     fs.writeFileSync(path.join(DATA_DIR, "opml-list.opml"), opml);
     // write to data/opml-list.json
-    fs.writeFileSync(path.join(DATA_DIR, "opml-list.json"), JSON.stringify(withoutDuplicate, null, 2));
+    fs.writeFileSync(path.join(DATA_DIR, "opml-list.json"), JSON.stringify(sortedList, null, 2));
 }
 
 if (require.main === module) {
