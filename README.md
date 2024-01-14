@@ -14,10 +14,12 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 ## Building
 
 ```mermaid
-graph LR
+graph TD
     A[Watch List] --> B[Feed List]
+    B --> E[OPML List]
     B --> C[Web List]
     C --> D[Web Page]
+    D --> E
 ```
 
 ### Watch List
@@ -37,6 +39,15 @@ graph LR
 
 📝 `data/feed-list.json` を直接編集することで、RSSフィードを手動でも変更できる。
 更新時は一度入ったフィードはずっと残るので、変更は手動で対応する必要がある。
+
+### OPML List
+
+- Generate OPML file from `data/feed-list.json`
+- Save OPML file to `data/feed-list.opml`
+- FILTER: 
+  - 汎用サイトは除外
+  - 流量が多いサイトは除外
+  - 重複しているサイトは除外
 
 ### Web List
 

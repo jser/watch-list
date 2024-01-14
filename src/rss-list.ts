@@ -2,19 +2,8 @@ import * as fs from "node:fs/promises";
 import path from "node:path";
 import type { WatchItem } from "./watch-list";
 import { chromium } from "playwright";
-
-const DATA_DIR = path.join(__dirname, "../data");
-// RSSとしては扱わないサイト
-// ニュースサイト、RSS向きではないサイト、フォーラム、流量が多すぎるサイトは除外する
-const IGNORE_RSS_DOMAINS = [
-    // 汎用ニュースサイト
-    "www.theverge.com",
-    // コミュニティ
-    "community.redwoodjs.com",
-    // 流量が多い
-    "scrapbox.io"
-];
 // get RSS feed from the url
+const DATA_DIR = path.join(__dirname, "../data");
 const RSS_LINK_TYPES = [
     "application/rss+xml",
     "application/atom+xml",
@@ -73,49 +62,9 @@ export const getFeeds = async (url: string) => {
         return feedUrl && feedUrl !== url && !feedLinks.includes(feedUrl);
     });
 };
-type FeedItem = {
+export type FeedItem = {
     url: string;
     feeds: string[];
-};
-// data/feed-list.json as storage
-const createOPML = (feeds: FeedItem[]) => {
-    const header = `<?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
-<head>
-    <title>JSer.info Watch List</title>
-</head>
-<body>
-`;
-    const footer = `
-</body>
-</opml>
-`;
-    const escapeXML = (text: string) => {
-        return text.replace(/[<>&'"]/g, (c) => {
-            switch (c) {
-                case "<":
-                    return "&lt;";
-                case ">":
-                    return "&gt;";
-                case "&":
-                    return "&amp;";
-                case "'":
-                    return "&apos;";
-                case '"':
-                    return "&quot;";
-            }
-            return c;
-        });
-    };
-    const body = feeds
-        .map((feed) => {
-            // remove https:// or http://
-            const title = feed.url.replace(/^https?:\/\//, "");
-            const xmlUrl = feed.feeds[0];
-            return `<outline text="${escapeXML(title)}" title="${escapeXML(title)}" type="rss" xmlUrl="${xmlUrl}"/>`;
-        })
-        .join("\n");
-    return header + body + footer;
 };
 
 export const storage = {
@@ -128,7 +77,6 @@ export const storage = {
     },
     set: async (feeds: FeedItem[]) => {
         await fs.writeFile(path.join(DATA_DIR, "feed-list.json"), JSON.stringify(feeds, null, 2));
-        await fs.writeFile(path.join(DATA_DIR, "feed-list.opml"), createOPML(feeds));
     }
 };
 const main = async () => {
@@ -144,22 +92,17 @@ const main = async () => {
         }
     ) => {
         const { url, rssUrl } = item;
-        const domain = new URL(url).hostname;
-        if (IGNORE_RSS_DOMAINS.includes(domain)) {
-            console.debug(`[${meta.logNamespace}] Ignore domain`, url);
-            return;
-        }
-        const cached = feedsMap.get(url);
-        if (cached) {
-            console.debug(`[${meta.logNamespace}] Hit cache`, url, cached.feeds);
-            return cached;
-        }
         if (rssUrl) {
             console.debug(`[${meta.logNamespace}] Hit rssUrl`, url, rssUrl);
             return {
                 url,
                 feeds: [rssUrl]
             };
+        }
+        const cached = feedsMap.get(url);
+        if (cached) {
+            console.debug(`[${meta.logNamespace}] Hit cache`, url, cached.feeds);
+            return cached;
         }
         console.debug(`[${meta.logNamespace}] try feed from url`, url);
         const feeds = await getFeeds(url).catch(() => []);
