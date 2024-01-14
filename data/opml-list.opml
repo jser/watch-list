@@ -350,6 +350,7 @@
 <outline text="prateeksurana.me" title="prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
 <outline text="github.com/nksaraf/vinxi" title="github.com/nksaraf/vinxi" type="rss" xmlUrl="https://github.com/nksaraf/vinxi/releases.atom"/>
 <outline text="github.com/arktypeio/arktype" title="github.com/arktypeio/arktype" type="rss" xmlUrl="https://github.com/arktypeio/arktype/releases.atom"/>
+<outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
 <outline text="github.com/react-hookz/web" title="github.com/react-hookz/web" type="rss" xmlUrl="https://github.com/react-hookz/web/releases.atom"/>
 <outline text="github.com/elbywan/zap" title="github.com/elbywan/zap" type="rss" xmlUrl="https://github.com/elbywan/zap/releases.atom"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
@@ -360,7 +361,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/oxc-project/javascript-parser-in-rust" title="github.com/oxc-project/javascript-parser-in-rust" type="rss" xmlUrl="https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"/>
 <outline text="github.com/vvo/iron-session" title="github.com/vvo/iron-session" type="rss" xmlUrl="https://github.com/vvo/iron-session/releases.atom"/>
-<outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
 <outline text="github.com/css-hooks/css-hooks" title="github.com/css-hooks/css-hooks" type="rss" xmlUrl="https://github.com/css-hooks/css-hooks/releases.atom"/>
 <outline text="github.com/cosmiconfig/cosmiconfig" title="github.com/cosmiconfig/cosmiconfig" type="rss" xmlUrl="https://github.com/cosmiconfig/cosmiconfig/releases.atom"/>
 <outline text="github.com/architect/aws-lite" title="github.com/architect/aws-lite" type="rss" xmlUrl="https://github.com/architect/aws-lite/releases.atom"/>
