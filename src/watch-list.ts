@@ -14,7 +14,8 @@ const ignoreDomains: string[] = [
     "amazon.com",
     "www.amazon.co.jp",
     "www.shoeisha.co.jp",
-    "www.sbcr.jp"
+    "www.sbcr.jp",
+    "hub.packtpub.com"
 ];
 
 export type WatchItem = {
