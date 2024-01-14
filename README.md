@@ -45,8 +45,10 @@ graph TD
 - Generate OPML file from `data/feed-list.json`
 - Save OPML file to `data/feed-list.opml`
 - FILTER: 
-  - 汎用サイトは除外
+  - RSS向きのサイトのみに絞る 
+  - 汎用ニュースは除外
   - 流量が多いサイトは除外
+  - フォーラムは除外
   - 重複しているサイトは除外
 
 ### Web List
