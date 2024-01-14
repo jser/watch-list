@@ -373,5 +373,6 @@
 <outline text="github.com/webui-dev/webui" title="github.com/webui-dev/webui" type="rss" xmlUrl="https://github.com/webui-dev/webui/releases.atom"/>
 <outline text="github.com/moment/moment" title="github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
 <outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
+<outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 </body>
 </opml>

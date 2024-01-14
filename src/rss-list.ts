@@ -58,10 +58,13 @@ export const getFeeds = async (url: string) => {
     });
     await page.close();
     await browser.close();
-    return [...feedLinks, ...feedLinks2].filter((feedUrl) => {
-        // remove empty and self url and duplicated
-        return feedUrl && feedUrl !== url && !feedLinks.includes(feedUrl);
+    const mergeLinks = [...feedLinks, ...feedLinks2].filter((feedUrl) => {
+        // remove empty and self url
+        return feedUrl && feedUrl !== url;
     });
+    // remove duplicated
+    const withoutDuplicated = [...new Set(mergeLinks)];
+    return withoutDuplicated;
 };
 export type FeedItem = {
     url: string;

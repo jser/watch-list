@@ -44,6 +44,7 @@ async function main() {
     });
     const withoutDuplicate = filterDuplicate(filteredList);
     console.debug("Feed Count:", feeds.length);
+    console.debug("Filtered Feed Count:", filteredList.length);
     const opml = createOPML(withoutDuplicate);
     // write to data/opml-list.opml
     fs.writeFileSync(path.join(DATA_DIR, "opml-list.opml"), opml);

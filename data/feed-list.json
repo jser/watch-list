@@ -2225,5 +2225,11 @@
     "feeds": [
       "https://github.com/speed-highlight/core/releases.atom"
     ]
+  },
+  {
+    "url": "https://vitejs.dev",
+    "feeds": [
+      "https://vitejs.dev/blog.rss"
+    ]
   }
 ]
