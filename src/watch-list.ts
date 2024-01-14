@@ -86,6 +86,17 @@ const Rules: RuleItem[] = [
         url: ({ match }) => `https://github.com/${match[1]}/${match[2]}`,
         // e.g. https://github.com/vuejs/core/releases.atom
         rssUrl: ({ match }) => `https://github.com/${match[1]}/${match[2]}/releases.atom`
+    },
+    // docswell
+    // RSS
+    // https://www.docswell.com/s/takuyaot/5DE47L-entraid ->
+    // -> https://www.docswell.com/user/takuyaot/feed
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/www\.docswell\.com\/s\/(?<name>[^/]+)\/[^/]+/);
+        },
+        url: ({ match }) => match[0],
+        rssUrl: ({ match }) => `https://www.docswell.com/user/${match[1]}/feed`
     }
 ];
 const ignoreDomains: string[] = [
