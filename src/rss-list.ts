@@ -127,24 +127,29 @@ const main = async () => {
     const pAll = await import("p-all").then((m) => m.default);
     const feedsMap = new Map(feeds.map((feed) => [feed.domain, feed]));
     const newFeeds: FeedItem[] = [];
-    const processItem = async (item: WatchItem) => {
+    const processItem = async (
+        item: WatchItem,
+        meta: {
+            logNamespace: string;
+        }
+    ) => {
         const { domain, rssUrl } = item;
         const cached = feedsMap.get(domain);
         if (cached) {
-            console.debug("Hit cache", domain, cached.feeds);
+            console.debug(`[${meta.logNamespace}] Hit cache`, domain, cached.feeds);
             return cached;
         }
         if (rssUrl) {
-            console.debug("Hit rssUrl", domain, rssUrl);
+            console.debug(`[${meta.logNamespace}] Hit rssUrl`, domain, rssUrl);
             return {
                 domain: domain,
                 feeds: [rssUrl]
             };
         }
-        console.debug("try feed from domain", domain);
+        console.debug(`[${meta.logNamespace}] try feed from domain`, domain);
         const feeds = await getFeeds(domain).catch(() => []);
         if (feeds.length > 0) {
-            console.debug("Got feeds", domain, feeds);
+            console.debug(`[${meta.logNamespace}] Got feeds`, domain, feeds);
             return {
                 domain: domain,
                 feeds
@@ -160,21 +165,23 @@ const main = async () => {
             return url;
         };
         const normalizedExampleUrl = normalizeExample(item.example.url);
-        console.debug("try feed from example", normalizedExampleUrl);
+        console.debug(`[${meta.logNamespace}] try feed from example`, normalizedExampleUrl);
         const feedsForExample = await getFeeds(normalizedExampleUrl).catch(() => []);
         if (feedsForExample.length > 0) {
-            console.debug("Got feeds for example", item.example.url, feedsForExample);
+            console.debug(`[${meta.logNamespace}] Got feeds for example`, item.example.url, feedsForExample);
             return {
                 domain: item.domain,
                 feeds: feedsForExample
             };
         }
-        console.debug("No feeds", domain);
+        console.debug(`[${meta.logNamespace}] No feeds`, domain);
         return;
     };
-    const promises = watchList.map((item) => {
+    const promises = watchList.map((item, index) => {
         return async function processWork() {
-            const feedItem = await processItem(item);
+            const feedItem = await processItem(item, {
+                logNamespace: `${index + 1}/${watchList.length}`
+            });
             if (feedItem) {
                 newFeeds.push(feedItem);
             }
