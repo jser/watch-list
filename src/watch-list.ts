@@ -87,9 +87,22 @@ const Rules: RuleItem[] = [
         // e.g. https://github.com/vuejs/core/releases.atom
         rssUrl: ({ match }) => `https://github.com/${match[1]}/${match[2]}/releases.atom`
     },
+    // gist.github.com
+    // https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6
+    // url
+    // https://gist.github.com/andrewbranch
+    // RSS
+    // https://gist.github.com/andrewbranch.atom
+    {
+        match: (item: JserItem) => {
+            return item.url.match(/https:\/\/gist\.github\.com\/(?<name>[^/]+)\/?.*?/);
+        },
+        url: ({ match }) => `https://gist.github.com/${match[1]}`,
+        rssUrl: ({ match }) => `https://gist.github.com/${match[1]}.atom`
+    },
     // docswell
     // e.g. https://www.docswell.com/s/takuyaot/5DE47L-entraid
-    // User
+    // url
     // https://www.docswell.com/user/takuyaot
     // RSS
     // https://www.docswell.com/user/takuyaot/feed

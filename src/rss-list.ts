@@ -187,7 +187,7 @@ const main = async () => {
             }
         };
     });
-    await pAll(promises, { concurrency: 8 });
+    await pAll(promises, { concurrency: 24 });
     await storage.set(newFeeds);
 };
 
