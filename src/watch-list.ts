@@ -88,14 +88,16 @@ const Rules: RuleItem[] = [
         rssUrl: ({ match }) => `https://github.com/${match[1]}/${match[2]}/releases.atom`
     },
     // docswell
+    // e.g. https://www.docswell.com/s/takuyaot/5DE47L-entraid
+    // User
+    // https://www.docswell.com/user/takuyaot
     // RSS
-    // https://www.docswell.com/s/takuyaot/5DE47L-entraid ->
-    // -> https://www.docswell.com/user/takuyaot/feed
+    // https://www.docswell.com/user/takuyaot/feed
     {
         match: (item: JserItem) => {
             return item.url.match(/https:\/\/www\.docswell\.com\/s\/(?<name>[^/]+)\/[^/]+/);
         },
-        url: ({ match }) => match[0],
+        url: ({ match }) => `https://www.docswell.com/user/${match[1]}`,
         rssUrl: ({ match }) => `https://www.docswell.com/user/${match[1]}/feed`
     }
 ];

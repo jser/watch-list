@@ -2082,12 +2082,6 @@
     ]
   },
   {
-    "domain": "https://www.docswell.com",
-    "feeds": [
-      "https://www.docswell.com/feed/latest"
-    ]
-  },
-  {
     "domain": "https://github.com/mozilla/pdf.js",
     "feeds": [
       "https://github.com/mozilla/pdf.js/releases.atom"
