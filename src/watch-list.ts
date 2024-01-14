@@ -21,6 +21,14 @@ type RuleItem<T extends RegExpMatchArray = RegExpMatchArray> = {
     // title: ({ item, match }: { item: JserItem; match: T }) => string;
     url: ({ item, match }: { item: JserItem; match: T }) => string;
     rssUrl?: ({ item, match }: { item: JserItem; match: T }) => string;
+    // tests for url and rssUrl
+    tests?: {
+        input: string;
+        expected: {
+            url: string;
+            rssUrl?: string;
+        };
+    }[];
 };
 const Rules: RuleItem[] = [
     // Zenn
@@ -98,7 +106,16 @@ const Rules: RuleItem[] = [
             return item.url.match(/https:\/\/gist\.github\.com\/(?<name>[^/]+)\/?.*?/);
         },
         url: ({ match }) => `https://gist.github.com/${match[1]}`,
-        rssUrl: ({ match }) => `https://gist.github.com/${match[1]}.atom`
+        rssUrl: ({ match }) => `https://gist.github.com/${match[1]}.atom`,
+        tests: [
+            {
+                input: "https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6",
+                expected: {
+                    url: "https://gist.github.com/andrewbranch",
+                    rssUrl: "https://gist.github.com/andrewbranch.atom"
+                }
+            }
+        ]
     },
     // docswell
     // e.g. https://www.docswell.com/s/takuyaot/5DE47L-entraid
@@ -111,7 +128,16 @@ const Rules: RuleItem[] = [
             return item.url.match(/https:\/\/www\.docswell\.com\/s\/(?<name>[^/]+)\/[^/]+/);
         },
         url: ({ match }) => `https://www.docswell.com/user/${match[1]}`,
-        rssUrl: ({ match }) => `https://www.docswell.com/user/${match[1]}/feed`
+        rssUrl: ({ match }) => `https://www.docswell.com/user/${match[1]}/feed`,
+        tests: [
+            {
+                input: "https://www.docswell.com/s/takuyaot/5DE47L-entraid",
+                expected: {
+                    url: "https://www.docswell.com/user/takuyaot",
+                    rssUrl: "https://www.docswell.com/user/takuyaot/feed"
+                }
+            }
+        ]
     }
 ];
 const ignoreDomains: string[] = [
@@ -156,8 +182,34 @@ export const collection = async ({ since }: { since: Date }) => {
     );
 };
 
+const assertRules = () => {
+    for (const rule of Rules) {
+        if (!rule.tests) {
+            continue;
+        }
+        for (const test of rule.tests) {
+            const info = createInfo({
+                url: test.input,
+                title: "dummy",
+                date: new Date().toISOString(),
+                tags: [],
+                content: ""
+            });
+            // assert
+            const { domain, rssUrl } = info;
+            if (domain !== test.expected.url) {
+                throw new Error(`url not match: ${domain} !== ${test.expected.url}`);
+            }
+            if (rssUrl !== test.expected.rssUrl) {
+                throw new Error(`rssUrl not match: ${rssUrl} !== ${test.expected.rssUrl}`);
+            }
+        }
+    }
+};
+
 if (require.main === module) {
     (async function () {
+        assertRules();
         const r = await collection({ since: dayjs().subtract(2, "year").toDate() });
         const results: WatchItem[] = [];
         Object.entries(r)
