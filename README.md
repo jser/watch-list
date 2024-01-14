@@ -13,12 +13,21 @@ You can found JavaScript resources from JSer.info [Dataset](https://github.com/j
 
 ## Building
 
+```mermaid
+graph LR
+    A[Watch List] --> B[Feed List]
+    B --> C[Web List]
+    C --> D[Web Page]
+```
+
 ### Watch List
 
 - Collect items in 2-years
 - Count by item's domain and sort it
 - Save to `data/watch-list.json`
 - Display items by count order
+- FILTER: 
+  - 汎用サイトは除外
 
 ### RSS Feeds
 
