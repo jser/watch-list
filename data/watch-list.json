@@ -1,7 +1,7 @@
 [
   {
     "count": 56,
-    "domain": "https://nodejs.org",
+    "url": "https://nodejs.org",
     "tags": [
       "node.js",
       "ReleaseNote",
@@ -20,7 +20,7 @@
   },
   {
     "count": 41,
-    "domain": "https://developer.chrome.com",
+    "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
       "article",
@@ -48,7 +48,7 @@
   },
   {
     "count": 37,
-    "domain": "https://webkit.org",
+    "url": "https://webkit.org",
     "tags": [
       "safari",
       "webkit",
@@ -71,7 +71,7 @@
   },
   {
     "count": 32,
-    "domain": "https://deno.com",
+    "url": "https://deno.com",
     "tags": [
       "deno",
       "ReleaseNote",
@@ -93,7 +93,7 @@
   },
   {
     "count": 31,
-    "domain": "https://bun.sh",
+    "url": "https://bun.sh",
     "tags": [
       "Bun",
       "ReleaseNote",
@@ -113,7 +113,7 @@
   },
   {
     "count": 27,
-    "domain": "https://devblogs.microsoft.com",
+    "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
       "ReleaseNote",
@@ -129,7 +129,7 @@
   },
   {
     "count": 18,
-    "domain": "https://github.com/pnpm/pnpm",
+    "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "npm",
       "pnpm",
@@ -144,7 +144,7 @@
   },
   {
     "count": 17,
-    "domain": "https://web.dev",
+    "url": "https://web.dev",
     "tags": [
       "PWA",
       "tutorial",
@@ -169,7 +169,7 @@
   },
   {
     "count": 16,
-    "domain": "https://astro.build",
+    "url": "https://astro.build",
     "tags": [
       "JavaScript",
       "library",
@@ -184,7 +184,7 @@
   },
   {
     "count": 14,
-    "domain": "https://github.com/evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
       "bundler",
@@ -201,7 +201,7 @@
   },
   {
     "count": 11,
-    "domain": "https://www.mozilla.org",
+    "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
@@ -213,7 +213,7 @@
   },
   {
     "count": 11,
-    "domain": "https://nextjs.org",
+    "url": "https://nextjs.org",
     "tags": [
       "Next.js",
       "ReleaseNote",
@@ -228,7 +228,7 @@
   },
   {
     "count": 11,
-    "domain": "https://github.com/microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
     "tags": [
       "browser",
       "library",
@@ -245,7 +245,7 @@
   },
   {
     "count": 10,
-    "domain": "https://eslint.org",
+    "url": "https://eslint.org",
     "tags": [
       "ESLint",
       "ReleaseNote",
@@ -259,7 +259,7 @@
   },
   {
     "count": 10,
-    "domain": "https://www.electronjs.org",
+    "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
       "ReleaseNote",
@@ -272,7 +272,7 @@
   },
   {
     "count": 10,
-    "domain": "https://2ality.com",
+    "url": "https://2ality.com",
     "tags": [
       "JavaScript",
       "ECMAScript",
@@ -291,7 +291,7 @@
   },
   {
     "count": 10,
-    "domain": "https://gihyo.jp",
+    "url": "https://gihyo.jp",
     "tags": [
       "TypeScript",
       "book",
@@ -313,7 +313,7 @@
   },
   {
     "count": 10,
-    "domain": "https://github.com/zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
       "polyfill",
@@ -332,7 +332,7 @@
   },
   {
     "count": 10,
-    "domain": "https://www.youtube.com",
+    "url": "https://www.youtube.com",
     "tags": [
       "google",
       "web ",
@@ -356,7 +356,7 @@
   },
   {
     "count": 9,
-    "domain": "https://blog.chromium.org",
+    "url": "https://blog.chromium.org",
     "tags": [
       "Chrome",
       "ReleaseNote",
@@ -370,7 +370,7 @@
   },
   {
     "count": 9,
-    "domain": "https://github.com/npm/cli",
+    "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
       "ReleaseNote"
@@ -383,7 +383,7 @@
   },
   {
     "count": 9,
-    "domain": "https://github.com/remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
     "tags": [
       "React",
       "server",
@@ -400,7 +400,7 @@
   },
   {
     "count": 9,
-    "domain": "https://ecmascript-daily.github.io",
+    "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
       "proposal",
@@ -413,7 +413,7 @@
   },
   {
     "count": 8,
-    "domain": "https://blog.angular.io",
+    "url": "https://blog.angular.io",
     "tags": [
       "Angular",
       "JavaScript",
@@ -432,7 +432,7 @@
   },
   {
     "count": 8,
-    "domain": "https://reactnative.dev",
+    "url": "https://reactnative.dev",
     "tags": [
       "React",
       "Native",
@@ -449,7 +449,7 @@
   },
   {
     "count": 8,
-    "domain": "https://blog.cloudflare.com",
+    "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
       "ReleaseNote",
@@ -472,7 +472,7 @@
   },
   {
     "count": 8,
-    "domain": "https://github.com/honojs/hono",
+    "url": "https://github.com/honojs/hono",
     "tags": [
       "cloudflare",
       "library",
@@ -488,7 +488,7 @@
   },
   {
     "count": 8,
-    "domain": "https://github.com/vitest-dev/vitest",
+    "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
       "testing",
@@ -504,7 +504,7 @@
   },
   {
     "count": 7,
-    "domain": "https://blog.emberjs.com",
+    "url": "https://blog.emberjs.com",
     "tags": [
       "Ember",
       "TypeScript",
@@ -518,7 +518,7 @@
   },
   {
     "count": 7,
-    "domain": "https://prettier.io",
+    "url": "https://prettier.io",
     "tags": [
       "JavaScript",
       "Tools",
@@ -534,7 +534,7 @@
   },
   {
     "count": 7,
-    "domain": "https://docs.google.com",
+    "url": "https://docs.google.com",
     "tags": [
       "DOM",
       "API",
@@ -561,7 +561,7 @@
   },
   {
     "count": 7,
-    "domain": "https://storybook.js.org",
+    "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
       "debug",
@@ -581,7 +581,7 @@
   },
   {
     "count": 6,
-    "domain": "https://remix.run",
+    "url": "https://remix.run",
     "tags": [
       "JavaScript",
       "React",
@@ -599,7 +599,7 @@
   },
   {
     "count": 6,
-    "domain": "https://github.com/vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
     "tags": [
       "vite",
       "ReleaseNote"
@@ -612,7 +612,7 @@
   },
   {
     "count": 6,
-    "domain": "https://github.com/lerna/lerna",
+    "url": "https://github.com/lerna/lerna",
     "tags": [
       "monorepo",
       "Tools",
@@ -628,7 +628,7 @@
   },
   {
     "count": 6,
-    "domain": "https://calendar.perfplanet.com",
+    "url": "https://calendar.perfplanet.com",
     "tags": [
       "Next.js",
       "performance",
@@ -645,7 +645,7 @@
   },
   {
     "count": 5,
-    "domain": "https://blog.vuejs.org",
+    "url": "https://blog.vuejs.org",
     "tags": [
       "Vue",
       "news",
@@ -659,7 +659,7 @@
   },
   {
     "count": 5,
-    "domain": "https://github.com/webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
       "ReleaseNote"
@@ -672,7 +672,7 @@
   },
   {
     "count": 5,
-    "domain": "https://babeljs.io",
+    "url": "https://babeljs.io",
     "tags": [
       "babel",
       "ReleaseNote",
@@ -685,7 +685,7 @@
   },
   {
     "count": 5,
-    "domain": "https://github.com/facebook/jest",
+    "url": "https://github.com/facebook/jest",
     "tags": [
       "JavaScript",
       "testing",
@@ -701,7 +701,7 @@
   },
   {
     "count": 5,
-    "domain": "https://github.com/reduxjs/redux-toolkit",
+    "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "redux",
       "library",
@@ -716,7 +716,7 @@
   },
   {
     "count": 5,
-    "domain": "https://vercel.com",
+    "url": "https://vercel.com",
     "tags": [
       "Next.js",
       "article",
@@ -731,7 +731,7 @@
   },
   {
     "count": 5,
-    "domain": "https://rome.tools",
+    "url": "https://rome.tools",
     "tags": [
       "JavaScript",
       "Rust",
@@ -745,7 +745,7 @@
   },
   {
     "count": 5,
-    "domain": "https://github.blog",
+    "url": "https://github.blog",
     "tags": [
       "npm",
       "security",
@@ -760,7 +760,7 @@
   },
   {
     "count": 5,
-    "domain": "https://moonrepo.dev",
+    "url": "https://moonrepo.dev",
     "tags": [
       "monorepo",
       "Tools",
@@ -780,7 +780,7 @@
   },
   {
     "count": 5,
-    "domain": "https://www.builder.io",
+    "url": "https://www.builder.io",
     "tags": [
       "JavaScript",
       "library",
@@ -798,7 +798,7 @@
   },
   {
     "count": 5,
-    "domain": "https://www.rspack.dev",
+    "url": "https://www.rspack.dev",
     "tags": [
       "webpack",
       "Rust",
@@ -815,7 +815,7 @@
   },
   {
     "count": 5,
-    "domain": "https://github.com/web-infra-dev/rspack",
+    "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "webpack",
       "rspack",
@@ -831,7 +831,7 @@
   },
   {
     "count": 4,
-    "domain": "https://css-tricks.com",
+    "url": "https://css-tricks.com",
     "tags": [
       "npm",
       "tutorial",
@@ -847,7 +847,7 @@
   },
   {
     "count": 4,
-    "domain": "https://learning.oreilly.com",
+    "url": "https://learning.oreilly.com",
     "tags": [
       "TypeScript",
       "book",
@@ -863,7 +863,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/parcel-bundler/parcel",
+    "url": "https://github.com/parcel-bundler/parcel",
     "tags": [
       "JavaScript",
       "bundler",
@@ -879,7 +879,7 @@
   },
   {
     "count": 4,
-    "domain": "https://hacks.mozilla.org",
+    "url": "https://hacks.mozilla.org",
     "tags": [
       "mdn",
       "article",
@@ -894,7 +894,7 @@
   },
   {
     "count": 4,
-    "domain": "https://parceljs.org",
+    "url": "https://parceljs.org",
     "tags": [
       "JavaScript",
       "Tools",
@@ -909,7 +909,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/reduxjs/react-redux",
+    "url": "https://github.com/reduxjs/react-redux",
     "tags": [
       "React",
       "redux",
@@ -924,7 +924,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/vercel/swr",
+    "url": "https://github.com/vercel/swr",
     "tags": [
       "React",
       "library",
@@ -939,7 +939,7 @@
   },
   {
     "count": 4,
-    "domain": "https://www.smashingmagazine.com",
+    "url": "https://www.smashingmagazine.com",
     "tags": [
       "HTML",
       "performance",
@@ -957,7 +957,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/capricorn86/happy-dom",
+    "url": "https://github.com/capricorn86/happy-dom",
     "tags": [
       "DOM",
       "library",
@@ -972,7 +972,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
     "tags": [
       "JavaScript",
       "library",
@@ -989,7 +989,7 @@
   },
   {
     "count": 4,
-    "domain": "https://efcl.info",
+    "url": "https://efcl.info",
     "tags": [
       "JavaScript",
       "ECMAScript",
@@ -1006,7 +1006,7 @@
   },
   {
     "count": 4,
-    "domain": "https://blog.jquery.com",
+    "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
       "ReleaseNote",
@@ -1019,7 +1019,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/rollup/rollup",
+    "url": "https://github.com/rollup/rollup",
     "tags": [
       "rollup",
       "ReleaseNote",
@@ -1033,7 +1033,7 @@
   },
   {
     "count": 4,
-    "domain": "https://nuxt.com",
+    "url": "https://nuxt.com",
     "tags": [
       "Vue",
       "library",
@@ -1047,7 +1047,7 @@
   },
   {
     "count": 4,
-    "domain": "https://wasmer.io",
+    "url": "https://wasmer.io",
     "tags": [
       "WebAssembly",
       "ReleaseNote",
@@ -1063,7 +1063,7 @@
   },
   {
     "count": 4,
-    "domain": "https://svelte.dev",
+    "url": "https://svelte.dev",
     "tags": [
       "Svelte",
       "ReleaseNote",
@@ -1076,7 +1076,7 @@
   },
   {
     "count": 4,
-    "domain": "https://react.dev",
+    "url": "https://react.dev",
     "tags": [
       "React",
       "document",
@@ -1091,7 +1091,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/esm-dev/esm.sh",
+    "url": "https://github.com/esm-dev/esm.sh",
     "tags": [
       "cdn",
       "JavaScript",
@@ -1106,7 +1106,7 @@
   },
   {
     "count": 4,
-    "domain": "https://github.com/jestjs/jest",
+    "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
       "JavaScript",
@@ -1122,7 +1122,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/axios/axios",
+    "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
       "JavaScript",
@@ -1138,7 +1138,7 @@
   },
   {
     "count": 3,
-    "domain": "https://fusebit.io",
+    "url": "https://fusebit.io",
     "tags": [
       "JavaScript",
       "testing",
@@ -1153,7 +1153,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/google/zx",
+    "url": "https://github.com/google/zx",
     "tags": [
       "ShellScript",
       "JavaScript",
@@ -1170,7 +1170,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/ghiscoding/lerna-lite",
+    "url": "https://github.com/ghiscoding/lerna-lite",
     "tags": [
       "monorepo",
       "Tools",
@@ -1187,7 +1187,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/styled-components/styled-components",
+    "url": "https://github.com/styled-components/styled-components",
     "tags": [
       "React",
       "CSS",
@@ -1204,7 +1204,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/vueuse/vueuse",
+    "url": "https://github.com/vueuse/vueuse",
     "tags": [
       "Vue",
       "library",
@@ -1218,7 +1218,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
     "tags": [
       "React",
       "library",
@@ -1232,7 +1232,7 @@
   },
   {
     "count": 3,
-    "domain": "https://www.joshwcomeau.com",
+    "url": "https://www.joshwcomeau.com",
     "tags": [
       "CSS",
       "article",
@@ -1247,7 +1247,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
       "MongoDB",
@@ -1265,7 +1265,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/reduxjs/redux",
+    "url": "https://github.com/reduxjs/redux",
     "tags": [
       "redux",
       "library",
@@ -1280,7 +1280,7 @@
   },
   {
     "count": 3,
-    "domain": "https://www.shoeisha.co.jp",
+    "url": "https://www.shoeisha.co.jp",
     "tags": [
       "JavaScript",
       "bok",
@@ -1297,7 +1297,7 @@
   },
   {
     "count": 3,
-    "domain": "https://blog.jxck.io",
+    "url": "https://blog.jxck.io",
     "tags": [
       "JavaScript",
       "article",
@@ -1311,7 +1311,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/redwoodjs/redwood",
+    "url": "https://github.com/redwoodjs/redwood",
     "tags": [
       "node.js",
       "JavaScript",
@@ -1327,7 +1327,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/jsdom/jsdom",
+    "url": "https://github.com/jsdom/jsdom",
     "tags": [
       "JavaScript",
       "DOM",
@@ -1342,7 +1342,7 @@
   },
   {
     "count": 3,
-    "domain": "https://dwango.github.io",
+    "url": "https://dwango.github.io",
     "tags": [
       "kubernetes",
       "document",
@@ -1360,7 +1360,7 @@
   },
   {
     "count": 3,
-    "domain": "https://www.mitsue.co.jp",
+    "url": "https://www.mitsue.co.jp",
     "tags": [
       "JavaScript",
       "performance",
@@ -1374,7 +1374,7 @@
   },
   {
     "count": 3,
-    "domain": "https://developer.apple.com",
+    "url": "https://developer.apple.com",
     "tags": [
       "safari",
       "ReleaseNote"
@@ -1386,7 +1386,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/cloudflare/miniflare",
+    "url": "https://github.com/cloudflare/miniflare",
     "tags": [
       "cloudflare",
       "node.js",
@@ -1403,7 +1403,7 @@
   },
   {
     "count": 3,
-    "domain": "https://bytecodealliance.org",
+    "url": "https://bytecodealliance.org",
     "tags": [
       "WebAssembly",
       "article",
@@ -1418,7 +1418,7 @@
   },
   {
     "count": 3,
-    "domain": "https://www.totaltypescript.com",
+    "url": "https://www.totaltypescript.com",
     "tags": [
       "TypeScript",
       "tutorial",
@@ -1436,7 +1436,7 @@
   },
   {
     "count": 3,
-    "domain": "https://docs.cypress.io",
+    "url": "https://docs.cypress.io",
     "tags": [
       "JavaScript",
       "browser",
@@ -1452,7 +1452,7 @@
   },
   {
     "count": 3,
-    "domain": "https://github.com/ije/esm.sh",
+    "url": "https://github.com/ije/esm.sh",
     "tags": [
       "ECMAScript",
       "module",
@@ -1469,7 +1469,7 @@
   },
   {
     "count": 3,
-    "domain": "https://vitejs.dev",
+    "url": "https://vitejs.dev",
     "tags": [
       "vite",
       "ReleaseNote"
@@ -1481,7 +1481,7 @@
   },
   {
     "count": 3,
-    "domain": "https://www.webkit.org",
+    "url": "https://www.webkit.org",
     "tags": [
       "WebComponents",
       "article",
@@ -1495,7 +1495,7 @@
   },
   {
     "count": 3,
-    "domain": "https://biomejs.dev",
+    "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
       "Tools",
@@ -1510,7 +1510,7 @@
   },
   {
     "count": 2,
-    "domain": "https://eh-career.com",
+    "url": "https://eh-career.com",
     "tags": [
       "React",
       "JavaScript",
@@ -1525,7 +1525,7 @@
   },
   {
     "count": 2,
-    "domain": "https://zenn.dev/qnighy/",
+    "url": "https://zenn.dev/qnighy/",
     "tags": [
       "ECMAScript",
       "browser",
@@ -1540,7 +1540,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blogs.windows.com",
+    "url": "https://blogs.windows.com",
     "tags": [
       "MSEdge",
       "IE",
@@ -1554,7 +1554,7 @@
   },
   {
     "count": 2,
-    "domain": "https://leanpub.com",
+    "url": "https://leanpub.com",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -1569,7 +1569,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/expressjs/express",
+    "url": "https://github.com/expressjs/express",
     "tags": [
       "node.js",
       "express",
@@ -1584,7 +1584,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/GoogleChrome/lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
     "tags": [
       "Chrome",
       "performance",
@@ -1599,7 +1599,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/TypeStrong/ts-node",
+    "url": "https://github.com/TypeStrong/ts-node",
     "tags": [
       "TypeScript",
       "ReleaseNote",
@@ -1614,7 +1614,7 @@
   },
   {
     "count": 2,
-    "domain": "https://zenn.dev/morinokami/",
+    "url": "https://zenn.dev/morinokami/",
     "tags": [
       "JavaScript",
       "architecture",
@@ -1630,7 +1630,7 @@
   },
   {
     "count": 2,
-    "domain": "https://reactjs.org",
+    "url": "https://reactjs.org",
     "tags": [
       "React",
       "ReleaseNote"
@@ -1642,7 +1642,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.packtpub.com",
+    "url": "https://www.packtpub.com",
     "tags": [
       "React",
       "library",
@@ -1655,7 +1655,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
     "tags": [
       "JavaScript",
       "library",
@@ -1670,7 +1670,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/tc39/ecma262",
+    "url": "https://github.com/tc39/ecma262",
     "tags": [
       "ECMAScript",
       "ReleaseNote",
@@ -1684,7 +1684,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.mizdra.net",
+    "url": "https://www.mizdra.net",
     "tags": [
       "npm",
       "node.js",
@@ -1699,7 +1699,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.zhenghao.io",
+    "url": "https://www.zhenghao.io",
     "tags": [
       "React",
       "article",
@@ -1713,7 +1713,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/facebook/lexical",
+    "url": "https://github.com/facebook/lexical",
     "tags": [
       "JavaScript",
       "editor",
@@ -1729,7 +1729,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/nodejs/node",
+    "url": "https://github.com/nodejs/node",
     "tags": [
       "node.js",
       "proposal",
@@ -1745,7 +1745,7 @@
   },
   {
     "count": 2,
-    "domain": "https://jestjs.io",
+    "url": "https://jestjs.io",
     "tags": [
       "JavaScript",
       "testing",
@@ -1759,7 +1759,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/facebook/react",
+    "url": "https://github.com/facebook/react",
     "tags": [
       "React",
       "ReleaseNote",
@@ -1773,7 +1773,7 @@
   },
   {
     "count": 2,
-    "domain": "https://cypress.io",
+    "url": "https://cypress.io",
     "tags": [
       "browser",
       "testing",
@@ -1788,7 +1788,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/mochajs/mocha",
+    "url": "https://github.com/mochajs/mocha",
     "tags": [
       "JavaScript",
       "testing",
@@ -1806,7 +1806,7 @@
   },
   {
     "count": 2,
-    "domain": "https://babylonjs.medium.com",
+    "url": "https://babylonjs.medium.com",
     "tags": [
       "WebGL",
       "WebGPU",
@@ -1822,7 +1822,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
     "tags": [
       "puppeteer",
       "ReleaseNote",
@@ -1836,7 +1836,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
     "tags": [
       "JavaScript",
       "debug",
@@ -1852,7 +1852,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/electron/electron",
+    "url": "https://github.com/electron/electron",
     "tags": [
       "Electron",
       "ReleaseNote"
@@ -1865,7 +1865,7 @@
   },
   {
     "count": 2,
-    "domain": "https://nolanlawson.com",
+    "url": "https://nolanlawson.com",
     "tags": [
       "JavaScript",
       "HTML",
@@ -1882,7 +1882,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/actions/setup-node",
+    "url": "https://github.com/actions/setup-node",
     "tags": [
       "Github",
       "Actions",
@@ -1897,7 +1897,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/sverweij/dependency-cruiser",
+    "url": "https://github.com/sverweij/dependency-cruiser",
     "tags": [
       "JavaScript",
       "library",
@@ -1913,7 +1913,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/infernojs/inferno",
+    "url": "https://github.com/infernojs/inferno",
     "tags": [
       "JavaScript",
       "library",
@@ -1928,7 +1928,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.nrwl.io",
+    "url": "https://blog.nrwl.io",
     "tags": [
       "JavaScript",
       "Tools",
@@ -1943,7 +1943,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.ecma-international.org",
+    "url": "https://www.ecma-international.org",
     "tags": [
       "ECMAScript",
       "ReleaseNote"
@@ -1955,7 +1955,7 @@
   },
   {
     "count": 2,
-    "domain": "https://react-spectrum.adobe.com",
+    "url": "https://react-spectrum.adobe.com",
     "tags": [
       "JavaScript",
       "React",
@@ -1970,7 +1970,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
     "tags": [
       "JavaScript",
       "Tools",
@@ -1986,7 +1986,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.isquaredsoftware.com",
+    "url": "https://blog.isquaredsoftware.com",
     "tags": [
       "npm",
       "React",
@@ -2002,7 +2002,7 @@
   },
   {
     "count": 2,
-    "domain": "https://zenn.dev/teppeis/",
+    "url": "https://zenn.dev/teppeis/",
     "tags": [
       "ECMAScript",
       "vite",
@@ -2017,7 +2017,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.google",
+    "url": "https://blog.google",
     "tags": [
       "Chrome",
       "privacy",
@@ -2030,7 +2030,7 @@
   },
   {
     "count": 2,
-    "domain": "https://azu.github.io",
+    "url": "https://azu.github.io",
     "tags": [
       "monorepo",
       "Tools",
@@ -2046,7 +2046,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/riot/riot",
+    "url": "https://github.com/riot/riot",
     "tags": [
       "JavaScript",
       "library",
@@ -2060,7 +2060,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.honeybadger.io",
+    "url": "https://www.honeybadger.io",
     "tags": [
       "ECMAScript",
       "JavaScript",
@@ -2074,7 +2074,7 @@
   },
   {
     "count": 2,
-    "domain": "https://buf.build",
+    "url": "https://buf.build",
     "tags": [
       "grpc",
       "TypeScript",
@@ -2091,7 +2091,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/denoland/deno",
+    "url": "https://github.com/denoland/deno",
     "tags": [
       "deno",
       "ReleaseNote",
@@ -2106,7 +2106,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/httptoolkit/brotli-wasm",
+    "url": "https://github.com/httptoolkit/brotli-wasm",
     "tags": [
       "JavaScript",
       "library",
@@ -2120,7 +2120,7 @@
   },
   {
     "count": 2,
-    "domain": "https://spidermonkey.dev",
+    "url": "https://spidermonkey.dev",
     "tags": [
       "Firefox",
       "JavaScript",
@@ -2135,7 +2135,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.tomayac.com",
+    "url": "https://blog.tomayac.com",
     "tags": [
       "JavaScript",
       "browser",
@@ -2150,7 +2150,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/avajs/ava",
+    "url": "https://github.com/avajs/ava",
     "tags": [
       "JavaScript",
       "node.js",
@@ -2167,7 +2167,7 @@
   },
   {
     "count": 2,
-    "domain": "https://zenn.dev/sa2knight/",
+    "url": "https://zenn.dev/sa2knight/",
     "tags": [
       "JavaScript",
       "node.js",
@@ -2182,7 +2182,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/jasmine/jasmine",
+    "url": "https://github.com/jasmine/jasmine",
     "tags": [
       "JavaScript",
       "testing",
@@ -2197,7 +2197,7 @@
   },
   {
     "count": 2,
-    "domain": "https://japa.dev",
+    "url": "https://japa.dev",
     "tags": [
       "JavaScript",
       "node.js",
@@ -2213,7 +2213,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.oreilly.com",
+    "url": "https://www.oreilly.com",
     "tags": [
       "React",
       "book",
@@ -2226,7 +2226,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/pixijs/pixijs",
+    "url": "https://github.com/pixijs/pixijs",
     "tags": [
       "JavaScript",
       "canvas",
@@ -2242,7 +2242,7 @@
   },
   {
     "count": 2,
-    "domain": "https://shopify.engineering",
+    "url": "https://shopify.engineering",
     "tags": [
       "Remix",
       "news",
@@ -2257,7 +2257,7 @@
   },
   {
     "count": 2,
-    "domain": "https://survey.devographics.com",
+    "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
       "Survey",
@@ -2270,7 +2270,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.bokken.io",
+    "url": "https://blog.bokken.io",
     "tags": [
       "Chrome",
       "article",
@@ -2283,7 +2283,7 @@
   },
   {
     "count": 2,
-    "domain": "https://zenn.dev/yumemi_inc/",
+    "url": "https://zenn.dev/yumemi_inc/",
     "tags": [
       "JavaScript",
       "Conference",
@@ -2300,7 +2300,7 @@
   },
   {
     "count": 2,
-    "domain": "https://www.prisma.io",
+    "url": "https://www.prisma.io",
     "tags": [
       "TypeScript",
       "article",
@@ -2314,7 +2314,7 @@
   },
   {
     "count": 2,
-    "domain": "https://tauri.app",
+    "url": "https://tauri.app",
     "tags": [
       "JavaScript",
       "Rust",
@@ -2328,7 +2328,7 @@
   },
   {
     "count": 2,
-    "domain": "https://v2.vuejs.org",
+    "url": "https://v2.vuejs.org",
     "tags": [
       "Vue",
       "document",
@@ -2341,7 +2341,7 @@
   },
   {
     "count": 2,
-    "domain": "https://postd.cc",
+    "url": "https://postd.cc",
     "tags": [
       "JavaScript",
       "article",
@@ -2355,7 +2355,7 @@
   },
   {
     "count": 2,
-    "domain": "https://risingstars.js.org",
+    "url": "https://risingstars.js.org",
     "tags": [
       "JavaScript",
       "library",
@@ -2369,7 +2369,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/facebook/flow",
+    "url": "https://github.com/facebook/flow",
     "tags": [
       "flowtype",
       "ReleaseNote"
@@ -2382,7 +2382,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
     "tags": [
       "Vue",
       "ReleaseNote",
@@ -2396,7 +2396,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/kaleidawave/ezno",
+    "url": "https://github.com/kaleidawave/ezno",
     "tags": [
       "TypeScript",
       "Rust",
@@ -2410,7 +2410,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/lerna-lite/lerna-lite",
+    "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
       "monorepo",
@@ -2425,7 +2425,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.stackblitz.com",
+    "url": "https://blog.stackblitz.com",
     "tags": [
       "JavaScript",
       "webservice",
@@ -2440,7 +2440,7 @@
   },
   {
     "count": 2,
-    "domain": "https://shisama.hatenablog.com",
+    "url": "https://shisama.hatenablog.com",
     "tags": [
       "node.js",
       "article",
@@ -2453,7 +2453,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/markedjs/marked",
+    "url": "https://github.com/markedjs/marked",
     "tags": [
       "Markdown",
       "JavaScript",
@@ -2468,7 +2468,7 @@
   },
   {
     "count": 2,
-    "domain": "https://zenn.dev/cybozu_frontend/",
+    "url": "https://zenn.dev/cybozu_frontend/",
     "tags": [
       "JavaScript",
       "article",
@@ -2482,7 +2482,7 @@
   },
   {
     "count": 2,
-    "domain": "https://lea.verou.me",
+    "url": "https://lea.verou.me",
     "tags": [
       "JavaScript",
       "article",
@@ -2496,7 +2496,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/vanjs-org/van",
+    "url": "https://github.com/vanjs-org/van",
     "tags": [
       "JavaScript",
       "library",
@@ -2511,7 +2511,7 @@
   },
   {
     "count": 2,
-    "domain": "https://blog.getbootstrap.com",
+    "url": "https://blog.getbootstrap.com",
     "tags": [
       "CSP",
       "library",
@@ -2525,7 +2525,7 @@
   },
   {
     "count": 2,
-    "domain": "https://lit.dev",
+    "url": "https://lit.dev",
     "tags": [
       "JavaScript",
       "UI",
@@ -2539,7 +2539,7 @@
   },
   {
     "count": 2,
-    "domain": "https://developer.mozilla.org",
+    "url": "https://developer.mozilla.org",
     "tags": [
       "CSS",
       "article",
@@ -2552,7 +2552,7 @@
   },
   {
     "count": 2,
-    "domain": "https://github.com/tapjs/tsimp",
+    "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
       "nodejs",
@@ -2567,7 +2567,7 @@
   },
   {
     "count": 2,
-    "domain": "https://tailwindcss.com",
+    "url": "https://tailwindcss.com",
     "tags": [
       "CSS",
       "library",
@@ -2582,19 +2582,7 @@
   },
   {
     "count": 1,
-    "domain": "https://alexsidorenko.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "A Visual Guide to useEffect | Alex Sidorenko",
-      "url": "https://alexsidorenko.com/blog/useeffect/"
-    }
-  },
-  {
-    "count": 1,
-    "domain": "https://ebooks.humanwhocodes.com",
+    "url": "https://ebooks.humanwhocodes.com",
     "tags": [
       "Promises",
       "book",
@@ -2607,7 +2595,7 @@
   },
   {
     "count": 1,
-    "domain": "https://medium.com/@vueshenzhen/",
+    "url": "https://medium.com/@vueshenzhen/",
     "tags": [
       "vite",
       "plugin",
@@ -2620,7 +2608,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/fox1t/turborepo-remote-cache",
+    "url": "https://github.com/fox1t/turborepo-remote-cache",
     "tags": [
       "monorepo",
       "node.js",
@@ -2634,7 +2622,7 @@
   },
   {
     "count": 1,
-    "domain": "https://fakerjs.dev",
+    "url": "https://fakerjs.dev",
     "tags": [
       "JavaScript",
       "library",
@@ -2647,7 +2635,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.replit.com",
+    "url": "https://blog.replit.com",
     "tags": [
       "JavaScript",
       "editor",
@@ -2661,7 +2649,7 @@
   },
   {
     "count": 1,
-    "domain": "https://typescriptbook.jp",
+    "url": "https://typescriptbook.jp",
     "tags": [
       "TypeScript",
       "Tools",
@@ -2674,7 +2662,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ngneat/elf",
+    "url": "https://github.com/ngneat/elf",
     "tags": [
       "JavaScript",
       "library"
@@ -2687,7 +2675,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mozilla/rhino",
+    "url": "https://github.com/mozilla/rhino",
     "tags": [
       "Java",
       "JavaScript",
@@ -2701,7 +2689,7 @@
   },
   {
     "count": 1,
-    "domain": "https://napi.rs",
+    "url": "https://napi.rs",
     "tags": [
       "Rust",
       "node.js",
@@ -2715,7 +2703,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.openreplay.com",
+    "url": "https://blog.openreplay.com",
     "tags": [
       "JavaScript",
       "HTML",
@@ -2728,7 +2716,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/11ty/eleventy",
+    "url": "https://github.com/11ty/eleventy",
     "tags": [
       "Tools",
       "ReleaseNote"
@@ -2741,7 +2729,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/facebook/relay",
+    "url": "https://github.com/facebook/relay",
     "tags": [
       "GraphQL",
       "library",
@@ -2755,7 +2743,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine",
+    "url": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine",
     "tags": [
       "GraphQL",
       "security",
@@ -2769,7 +2757,7 @@
   },
   {
     "count": 1,
-    "domain": "https://mitpress.mit.edu",
+    "url": "https://mitpress.mit.edu",
     "tags": [
       "JavaScript",
       "program",
@@ -2782,7 +2770,7 @@
   },
   {
     "count": 1,
-    "domain": "https://vanillalist.top",
+    "url": "https://vanillalist.top",
     "tags": [
       "npm",
       "JavaScript",
@@ -2796,7 +2784,7 @@
   },
   {
     "count": 1,
-    "domain": "https://mojs.github.io",
+    "url": "https://mojs.github.io",
     "tags": [
       "JavaScript",
       "animation",
@@ -2809,7 +2797,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tinyplex/tinybase",
+    "url": "https://github.com/tinyplex/tinybase",
     "tags": [
       "JavaScript",
       "database",
@@ -2823,7 +2811,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.typescriptlang.org",
+    "url": "https://www.typescriptlang.org",
     "tags": [
       "TypeScript",
       "cheatsheet"
@@ -2835,7 +2823,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/webtoon/psd",
+    "url": "https://github.com/webtoon/psd",
     "tags": [
       "JavaScript",
       "photoshop",
@@ -2849,7 +2837,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/DataDog/build-plugin",
+    "url": "https://github.com/DataDog/build-plugin",
     "tags": [
       "webpack",
       "bundler",
@@ -2864,7 +2852,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.plasmic.app",
+    "url": "https://blog.plasmic.app",
     "tags": [
       "React",
       "article"
@@ -2876,7 +2864,7 @@
   },
   {
     "count": 1,
-    "domain": "https://recoiljs.org",
+    "url": "https://recoiljs.org",
     "tags": [
       "React",
       "library",
@@ -2889,7 +2877,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nightwatchjs/nightwatch",
+    "url": "https://github.com/nightwatchjs/nightwatch",
     "tags": [
       "E2E",
       "testing",
@@ -2904,7 +2892,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.amazon.science",
+    "url": "https://www.amazon.science",
     "tags": [
       "JavaScript",
       "WebAssembly",
@@ -2917,7 +2905,7 @@
   },
   {
     "count": 1,
-    "domain": "https://v8.dev",
+    "url": "https://v8.dev",
     "tags": [
       "V8",
       "ReleaseNote"
@@ -2929,7 +2917,7 @@
   },
   {
     "count": 1,
-    "domain": "https://developers.cyberagent.co.jp",
+    "url": "https://developers.cyberagent.co.jp",
     "tags": [
       "TypeScript",
       "article",
@@ -2942,7 +2930,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.igalia.com",
+    "url": "https://www.igalia.com",
     "tags": [
       "browser",
       "news",
@@ -2955,7 +2943,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ngneat/falso",
+    "url": "https://github.com/ngneat/falso",
     "tags": [
       "JavaScript",
       "library"
@@ -2968,7 +2956,7 @@
   },
   {
     "count": 1,
-    "domain": "https://mdxjs.com",
+    "url": "https://mdxjs.com",
     "tags": [
       "Markdown",
       "jsx",
@@ -2981,7 +2969,7 @@
   },
   {
     "count": 1,
-    "domain": "https://solidbook.io",
+    "url": "https://solidbook.io",
     "tags": [
       "JavaScript",
       "book",
@@ -2995,7 +2983,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/atian25/",
+    "url": "https://dev.to/atian25/",
     "tags": [
       "npm",
       "article",
@@ -3008,7 +2996,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/papyrs/stylo",
+    "url": "https://github.com/papyrs/stylo",
     "tags": [
       "WebComponents",
       "library",
@@ -3022,7 +3010,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/hikerpig/pintora",
+    "url": "https://github.com/hikerpig/pintora",
     "tags": [
       "JavaScript",
       "library",
@@ -3036,7 +3024,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/checkly/puppeteer-to-playwright",
+    "url": "https://github.com/checkly/puppeteer-to-playwright",
     "tags": [
       "puppeteer",
       "Tools",
@@ -3050,7 +3038,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/Aslemammad/react-worker-components-plugin",
+    "url": "https://github.com/Aslemammad/react-worker-components-plugin",
     "tags": [
       "React",
       "vite",
@@ -3064,7 +3052,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.drsprime.com",
+    "url": "https://blog.drsprime.com",
     "tags": [
       "performance",
       "JavaScript",
@@ -3078,7 +3066,7 @@
   },
   {
     "count": 1,
-    "domain": "https://2021.stateofjs.com",
+    "url": "https://2021.stateofjs.com",
     "tags": [
       "JavaScript",
       "Survey"
@@ -3090,7 +3078,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/inokawa/",
+    "url": "https://zenn.dev/inokawa/",
     "tags": [
       "JavaScript",
       "React",
@@ -3103,7 +3091,7 @@
   },
   {
     "count": 1,
-    "domain": "https://minze.dev",
+    "url": "https://minze.dev",
     "tags": [
       "WebComponents",
       "library"
@@ -3115,7 +3103,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/arcanis/",
+    "url": "https://dev.to/arcanis/",
     "tags": [
       "yarn",
       "ReleaseNote"
@@ -3127,7 +3115,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/jimmywarting/native-file-system-adapter",
+    "url": "https://github.com/jimmywarting/native-file-system-adapter",
     "tags": [
       "node.js",
       "library",
@@ -3141,7 +3129,7 @@
   },
   {
     "count": 1,
-    "domain": "https://monorepo.tools",
+    "url": "https://monorepo.tools",
     "tags": [
       "monorepo",
       "Tools",
@@ -3155,7 +3143,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/JoshuaKGoldberg/TypeStat",
+    "url": "https://github.com/JoshuaKGoldberg/TypeStat",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -3169,7 +3157,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/microsoft/TypeScript-Compiler-Notes",
+    "url": "https://github.com/microsoft/TypeScript-Compiler-Notes",
     "tags": [
       "TypeScript",
       "document"
@@ -3182,7 +3170,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vinodotdev/node-to-rust",
+    "url": "https://github.com/vinodotdev/node-to-rust",
     "tags": [
       "JavaScript",
       "Rust",
@@ -3196,7 +3184,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/xataio/screenshot",
+    "url": "https://github.com/xataio/screenshot",
     "tags": [
       "JavaScript",
       "library",
@@ -3211,7 +3199,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/leafac/caxa",
+    "url": "https://github.com/leafac/caxa",
     "tags": [
       "node.js",
       "Tools"
@@ -3224,7 +3212,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nodeshift/nodejs-reference-architecture",
+    "url": "https://github.com/nodeshift/nodejs-reference-architecture",
     "tags": [
       "node.js",
       "document",
@@ -3238,7 +3226,7 @@
   },
   {
     "count": 1,
-    "domain": "https://daisyui.com",
+    "url": "https://daisyui.com",
     "tags": [
       "CSS",
       "library"
@@ -3250,7 +3238,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/breejs/bree",
+    "url": "https://github.com/breejs/bree",
     "tags": [
       "node.js",
       "library",
@@ -3264,7 +3252,7 @@
   },
   {
     "count": 1,
-    "domain": "https://surma.dev",
+    "url": "https://surma.dev",
     "tags": [
       "WebGPU",
       "article"
@@ -3276,7 +3264,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/wilsonzlin/minify-html",
+    "url": "https://github.com/wilsonzlin/minify-html",
     "tags": [
       "HTML",
       "Bluetooth",
@@ -3291,7 +3279,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/twitterdev/twitter-api-typescript-sdk",
+    "url": "https://github.com/twitterdev/twitter-api-typescript-sdk",
     "tags": [
       "twitter",
       "node.js",
@@ -3307,7 +3295,7 @@
   },
   {
     "count": 1,
-    "domain": "https://a11y-automation.dev",
+    "url": "https://a11y-automation.dev",
     "tags": [
       "accessibility",
       "document",
@@ -3320,7 +3308,7 @@
   },
   {
     "count": 1,
-    "domain": "https://shaderpark.com",
+    "url": "https://shaderpark.com",
     "tags": [
       "WebGL",
       "webservice",
@@ -3333,7 +3321,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tech.hicustomer.jp",
+    "url": "https://tech.hicustomer.jp",
     "tags": [
       "PostgreSQL",
       "TypeScript",
@@ -3346,7 +3334,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tajo/ladle",
+    "url": "https://github.com/tajo/ladle",
     "tags": [
       "JavaScript",
       "React",
@@ -3362,7 +3350,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.ladle.dev",
+    "url": "https://www.ladle.dev",
     "tags": [
       "JavaScript",
       "React",
@@ -3377,7 +3365,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/MattiasBuelens/web-streams-polyfill",
+    "url": "https://github.com/MattiasBuelens/web-streams-polyfill",
     "tags": [
       "browser",
       "stream",
@@ -3391,7 +3379,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tc39/ecma402",
+    "url": "https://github.com/tc39/ecma402",
     "tags": [
       "ECMAScript",
       "i18n",
@@ -3405,7 +3393,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tc39/proposals",
+    "url": "https://github.com/tc39/proposals",
     "tags": [
       "ECMAScript",
       "proposal",
@@ -3419,7 +3407,7 @@
   },
   {
     "count": 1,
-    "domain": "https://alexkondov.com",
+    "url": "https://alexkondov.com",
     "tags": [
       "node.js",
       "article"
@@ -3431,7 +3419,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/hgsgtk/",
+    "url": "https://speakerdeck.com/hgsgtk/",
     "tags": [
       "testing",
       "webdriver",
@@ -3446,7 +3434,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nuxodin/dialog-polyfill",
+    "url": "https://github.com/nuxodin/dialog-polyfill",
     "tags": [
       "HTML",
       "polyfill",
@@ -3460,7 +3448,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
     "tags": [
       "React",
       "library",
@@ -3474,7 +3462,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nicolo-ribaudo/jest-light-runner",
+    "url": "https://github.com/nicolo-ribaudo/jest-light-runner",
     "tags": [
       "jest",
       "node.js",
@@ -3488,7 +3476,7 @@
   },
   {
     "count": 1,
-    "domain": "https://shakerphobia.netlify.app",
+    "url": "https://shakerphobia.netlify.app",
     "tags": [
       "JavaScript",
       "Tools",
@@ -3501,7 +3489,7 @@
   },
   {
     "count": 1,
-    "domain": "https://elijahmanor.com",
+    "url": "https://elijahmanor.com",
     "tags": [
       "i18n",
       "JavaScript",
@@ -3514,7 +3502,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/cucumber/cucumber-js",
+    "url": "https://github.com/cucumber/cucumber-js",
     "tags": [
       "JavaScript",
       "testing",
@@ -3528,7 +3516,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tom.preston-werner.com",
+    "url": "https://tom.preston-werner.com",
     "tags": [
       "JavaScript",
       "library",
@@ -3545,7 +3533,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.huy.rocks",
+    "url": "https://www.huy.rocks",
     "tags": [
       "TypeScript",
       "article"
@@ -3557,7 +3545,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/agnosticui/agnosticui",
+    "url": "https://github.com/agnosticui/agnosticui",
     "tags": [
       "UI",
       "library"
@@ -3570,7 +3558,7 @@
   },
   {
     "count": 1,
-    "domain": "https://turborepo.org",
+    "url": "https://turborepo.org",
     "tags": [
       "monorepo",
       "Tools",
@@ -3583,7 +3571,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
     "tags": [
       "JavaScript",
       "testing",
@@ -3597,7 +3585,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/antfu/vue-starport",
+    "url": "https://github.com/antfu/vue-starport",
     "tags": [
       "Vue",
       "library"
@@ -3610,7 +3598,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ThomasAribart/json-schema-to-ts",
+    "url": "https://github.com/ThomasAribart/json-schema-to-ts",
     "tags": [
       "JSON",
       "TypeScript",
@@ -3624,7 +3612,7 @@
   },
   {
     "count": 1,
-    "domain": "https://xebia.com",
+    "url": "https://xebia.com",
     "tags": [
       "React",
       "article"
@@ -3636,7 +3624,7 @@
   },
   {
     "count": 1,
-    "domain": "https://devblog.thebase.in",
+    "url": "https://devblog.thebase.in",
     "tags": [
       "browser",
       "privacy",
@@ -3649,7 +3637,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/Shopify/javy",
+    "url": "https://github.com/Shopify/javy",
     "tags": [
       "JavaScript",
       "WebAssembly",
@@ -3663,7 +3651,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ehmicky/wild-wild-path",
+    "url": "https://github.com/ehmicky/wild-wild-path",
     "tags": [
       "JavaScript",
       "library"
@@ -3676,7 +3664,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/testing-library/react-testing-library",
+    "url": "https://github.com/testing-library/react-testing-library",
     "tags": [
       "React",
       "testing",
@@ -3691,7 +3679,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/worldzhao/blog",
+    "url": "https://github.com/worldzhao/blog",
     "tags": [
       "monorepo",
       "article",
@@ -3705,7 +3693,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.w3.org",
+    "url": "https://www.w3.org",
     "tags": [
       "WebAssembly",
       "proposal",
@@ -3718,7 +3706,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/inikulin/parse5",
+    "url": "https://github.com/inikulin/parse5",
     "tags": [
       "HTML",
       "JavaScript",
@@ -3733,7 +3721,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/milesj/packemon",
+    "url": "https://github.com/milesj/packemon",
     "tags": [
       "npm",
       "library",
@@ -3747,7 +3735,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.axlight.com",
+    "url": "https://blog.axlight.com",
     "tags": [
       "node.js",
       "library",
@@ -3760,7 +3748,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nuxtjs.org",
+    "url": "https://nuxtjs.org",
     "tags": [
       "Vue",
       "library",
@@ -3773,7 +3761,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/unjs/nitro",
+    "url": "https://github.com/unjs/nitro",
     "tags": [
       "server",
       "JavaScript",
@@ -3787,7 +3775,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/frolovdev/",
+    "url": "https://dev.to/frolovdev/",
     "tags": [
       "TypeScript",
       "flowtype",
@@ -3800,7 +3788,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/plantain-00/type-coverage",
+    "url": "https://github.com/plantain-00/type-coverage",
     "tags": [
       "TypeScript",
       "Tools"
@@ -3813,7 +3801,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/eolme/i18nano",
+    "url": "https://github.com/eolme/i18nano",
     "tags": [
       "React",
       "i18n",
@@ -3827,7 +3815,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/shuding/tilg",
+    "url": "https://github.com/shuding/tilg",
     "tags": [
       "React",
       "debug",
@@ -3841,7 +3829,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tdewolff/minify",
+    "url": "https://github.com/tdewolff/minify",
     "tags": [
       "HTML",
       "JavaScript",
@@ -3858,7 +3846,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.remotion.dev",
+    "url": "https://www.remotion.dev",
     "tags": [
       "React",
       "library",
@@ -3871,7 +3859,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/frouriojs/notios",
+    "url": "https://github.com/frouriojs/notios",
     "tags": [
       "npm",
       "Tools",
@@ -3885,7 +3873,7 @@
   },
   {
     "count": 1,
-    "domain": "https://jqk.life",
+    "url": "https://jqk.life",
     "tags": [
       "node.js",
       "article",
@@ -3898,7 +3886,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tsh.io",
+    "url": "https://tsh.io",
     "tags": [
       "Survey",
       "web ",
@@ -3913,7 +3901,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.radix-ui.com",
+    "url": "https://www.radix-ui.com",
     "tags": [
       "UI",
       "React",
@@ -3927,7 +3915,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/httptoolkit/mockrtc",
+    "url": "https://github.com/httptoolkit/mockrtc",
     "tags": [
       "WebRTC",
       "testing",
@@ -3942,7 +3930,7 @@
   },
   {
     "count": 1,
-    "domain": "https://quramy.medium.com",
+    "url": "https://quramy.medium.com",
     "tags": [
       "TypeScript",
       "article"
@@ -3954,7 +3942,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/yisibl/resvg-js",
+    "url": "https://github.com/yisibl/resvg-js",
     "tags": [
       "Rust",
       "JavaScript",
@@ -3968,7 +3956,7 @@
   },
   {
     "count": 1,
-    "domain": "https://wintercg.org",
+    "url": "https://wintercg.org",
     "tags": [
       "deno",
       "node.js",
@@ -3982,7 +3970,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/kawamataryo/suppress-ts-errors",
+    "url": "https://github.com/kawamataryo/suppress-ts-errors",
     "tags": [
       "TypeScript",
       "Tools",
@@ -3996,7 +3984,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/yarnpkg/yarn",
+    "url": "https://github.com/yarnpkg/yarn",
     "tags": [
       "yarn",
       "ReleaseNote"
@@ -4009,7 +3997,7 @@
   },
   {
     "count": 1,
-    "domain": "https://javascriptdb.com",
+    "url": "https://javascriptdb.com",
     "tags": [
       "JavaScript",
       "SQLite",
@@ -4022,7 +4010,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/i-net-software/JWebAssembly",
+    "url": "https://github.com/i-net-software/JWebAssembly",
     "tags": [
       "Java",
       "WebAssembly"
@@ -4035,7 +4023,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/wooorm/starry-night",
+    "url": "https://github.com/wooorm/starry-night",
     "tags": [
       "JavaScript",
       "library"
@@ -4048,7 +4036,7 @@
   },
   {
     "count": 1,
-    "domain": "https://discuss.httparchive.org",
+    "url": "https://discuss.httparchive.org",
     "tags": [
       "HTTP",
       "web ",
@@ -4062,7 +4050,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/dflex-js/dflex",
+    "url": "https://github.com/dflex-js/dflex",
     "tags": [
       "JavaScript",
       "library"
@@ -4075,7 +4063,7 @@
   },
   {
     "count": 1,
-    "domain": "https://engineering.fb.com",
+    "url": "https://engineering.fb.com",
     "tags": [
       "JavaScript",
       "testing",
@@ -4090,7 +4078,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
     "tags": [
       "React",
       "architecture",
@@ -4104,7 +4092,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/mizchi/",
+    "url": "https://speakerdeck.com/mizchi/",
     "tags": [
       "JavaScript",
       "performance",
@@ -4117,7 +4105,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/esbuild-kit/tsx",
+    "url": "https://github.com/esbuild-kit/tsx",
     "tags": [
       "TypeScript",
       "jsx",
@@ -4132,7 +4120,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/markdoc/markdoc",
+    "url": "https://github.com/markdoc/markdoc",
     "tags": [
       "Markdown",
       "document",
@@ -4146,7 +4134,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/MithrilJS/mithril.js",
+    "url": "https://github.com/MithrilJS/mithril.js",
     "tags": [
       "JavaScript",
       "library",
@@ -4160,7 +4148,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nvh95/jest-preview",
+    "url": "https://github.com/nvh95/jest-preview",
     "tags": [
       "jest",
       "browser",
@@ -4175,7 +4163,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/adriancooney/puppeteer-heap-snapshot",
+    "url": "https://github.com/adriancooney/puppeteer-heap-snapshot",
     "tags": [
       "puppeteer",
       "library",
@@ -4189,7 +4177,7 @@
   },
   {
     "count": 1,
-    "domain": "https://stripe.com",
+    "url": "https://stripe.com",
     "tags": [
       "flowtype",
       "TypeScript",
@@ -4202,7 +4190,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/Shopify/remote-ui",
+    "url": "https://github.com/Shopify/remote-ui",
     "tags": [
       "JavaScript",
       "React",
@@ -4219,7 +4207,7 @@
   },
   {
     "count": 1,
-    "domain": "https://sandpack.codesandbox.io",
+    "url": "https://sandpack.codesandbox.io",
     "tags": [
       "JavaScript",
       "bundler",
@@ -4233,7 +4221,7 @@
   },
   {
     "count": 1,
-    "domain": "https://serpapi.com",
+    "url": "https://serpapi.com",
     "tags": [
       "JavaScript",
       "puppeteer",
@@ -4246,7 +4234,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/google/wireit",
+    "url": "https://github.com/google/wireit",
     "tags": [
       "npm",
       "Tools"
@@ -4259,7 +4247,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mdn/browser-compat-data",
+    "url": "https://github.com/mdn/browser-compat-data",
     "tags": [
       "JavaScript",
       "JSON",
@@ -4275,7 +4263,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/jridgewell/trace-mapping",
+    "url": "https://github.com/jridgewell/trace-mapping",
     "tags": [
       "sourcemap",
       "JavaScript",
@@ -4289,7 +4277,7 @@
   },
   {
     "count": 1,
-    "domain": "https://pkg.land",
+    "url": "https://pkg.land",
     "tags": [
       "npm",
       "search",
@@ -4302,7 +4290,7 @@
   },
   {
     "count": 1,
-    "domain": "https://browser.engineering",
+    "url": "https://browser.engineering",
     "tags": [
       "browser",
       "python",
@@ -4315,7 +4303,7 @@
   },
   {
     "count": 1,
-    "domain": "https://svelvet.io",
+    "url": "https://svelvet.io",
     "tags": [
       "Svelte",
       "diagram",
@@ -4328,7 +4316,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/histoire-dev/histoire",
+    "url": "https://github.com/histoire-dev/histoire",
     "tags": [
       "vite",
       "Vue",
@@ -4342,7 +4330,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mishoo/UglifyJS",
+    "url": "https://github.com/mishoo/UglifyJS",
     "tags": [
       "JavaScript",
       "library",
@@ -4356,7 +4344,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
     "tags": [
       "Vue",
       "ReleaseNote"
@@ -4369,7 +4357,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.webpagetest.org",
+    "url": "https://blog.webpagetest.org",
     "tags": [
       "performance",
       "article"
@@ -4381,7 +4369,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/WebReflection/highlighted-code",
+    "url": "https://github.com/WebReflection/highlighted-code",
     "tags": [
       "JavaScript",
       "library"
@@ -4394,7 +4382,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/cyco130/vavite",
+    "url": "https://github.com/cyco130/vavite",
     "tags": [
       "vite",
       "node.js",
@@ -4409,7 +4397,7 @@
   },
   {
     "count": 1,
-    "domain": "https://medium.com/@fastifyjs/",
+    "url": "https://medium.com/@fastifyjs/",
     "tags": [
       "node.js",
       "server",
@@ -4423,7 +4411,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ranyitz/qnm",
+    "url": "https://github.com/ranyitz/qnm",
     "tags": [
       "npm",
       "Tools"
@@ -4436,7 +4424,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/fastify/fastify-dx",
+    "url": "https://github.com/fastify/fastify-dx",
     "tags": [
       "node.js",
       "debug",
@@ -4450,7 +4438,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/PlasmoHQ/plasmo",
+    "url": "https://github.com/PlasmoHQ/plasmo",
     "tags": [
       "browser",
       "Extension",
@@ -4464,7 +4452,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/preactjs/preact",
+    "url": "https://github.com/preactjs/preact",
     "tags": [
       "JavaScript",
       "React",
@@ -4478,7 +4466,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/taozhi8833998/node-sql-parser",
+    "url": "https://github.com/taozhi8833998/node-sql-parser",
     "tags": [
       "JavaScript",
       "SQL",
@@ -4492,7 +4480,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.gabe.pizza",
+    "url": "https://www.gabe.pizza",
     "tags": [
       "React",
       "article"
@@ -4504,7 +4492,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/sindresorhus/ow",
+    "url": "https://github.com/sindresorhus/ow",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -4519,7 +4507,7 @@
   },
   {
     "count": 1,
-    "domain": "https://whistlr.info",
+    "url": "https://whistlr.info",
     "tags": [
       "JavaScript",
       "article"
@@ -4531,7 +4519,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/coder-mike/microvium",
+    "url": "https://github.com/coder-mike/microvium",
     "tags": [
       "JavaScript",
       "Tools",
@@ -4545,7 +4533,7 @@
   },
   {
     "count": 1,
-    "domain": "https://lists.webkit.org",
+    "url": "https://lists.webkit.org",
     "tags": [
       "webkit",
       "Github",
@@ -4558,7 +4546,7 @@
   },
   {
     "count": 1,
-    "domain": "https://marijnhaverbeke.nl",
+    "url": "https://marijnhaverbeke.nl",
     "tags": [
       "JavaScript",
       "editor",
@@ -4572,7 +4560,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/socketio/socket.io",
+    "url": "https://github.com/socketio/socket.io",
     "tags": [
       "WebSocket",
       "library",
@@ -4587,7 +4575,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/astoilkov/main-thread-scheduling",
+    "url": "https://github.com/astoilkov/main-thread-scheduling",
     "tags": [
       "JavaScript",
       "library"
@@ -4600,7 +4588,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/open-source-labs/reactime",
+    "url": "https://github.com/open-source-labs/reactime",
     "tags": [
       "React",
       "library",
@@ -4615,7 +4603,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/foliojs/fontkit",
+    "url": "https://github.com/foliojs/fontkit",
     "tags": [
       "fonts",
       "JavaScript",
@@ -4631,7 +4619,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/angular-eslint/angular-eslint",
+    "url": "https://github.com/angular-eslint/angular-eslint",
     "tags": [
       "Angular",
       "ESLint",
@@ -4645,7 +4633,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/timocov/dts-bundle-generator",
+    "url": "https://github.com/timocov/dts-bundle-generator",
     "tags": [
       "TypeScript",
       "Tools"
@@ -4658,7 +4646,7 @@
   },
   {
     "count": 1,
-    "domain": "https://alexkrupp.typepad.com",
+    "url": "https://alexkrupp.typepad.com",
     "tags": [
       "Angular",
       "React",
@@ -4673,7 +4661,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/WebKit/standards-positions",
+    "url": "https://github.com/WebKit/standards-positions",
     "tags": [
       "webkit",
       "proposal",
@@ -4688,7 +4676,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/codemix/deprank",
+    "url": "https://github.com/codemix/deprank",
     "tags": [
       "JavaScript",
       "Tools"
@@ -4701,7 +4689,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/dajiaji/",
+    "url": "https://zenn.dev/dajiaji/",
     "tags": [
       "deno",
       "node.js",
@@ -4716,7 +4704,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.koh.dev",
+    "url": "https://blog.koh.dev",
     "tags": [
       "JavaScript",
       "testing",
@@ -4730,7 +4718,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.nnn.dev",
+    "url": "https://blog.nnn.dev",
     "tags": [
       "HTML",
       "CSS",
@@ -4744,7 +4732,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/samchon/typescript-json",
+    "url": "https://github.com/samchon/typescript-json",
     "tags": [
       "TypeScript",
       "JSON",
@@ -4759,7 +4747,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/jcubic/wayne",
+    "url": "https://github.com/jcubic/wayne",
     "tags": [
       "ServiceWorker",
       "library"
@@ -4772,7 +4760,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/oguimbal/pg-mem",
+    "url": "https://github.com/oguimbal/pg-mem",
     "tags": [
       "JavaScript",
       "node.js",
@@ -4789,7 +4777,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/mjhd/",
+    "url": "https://zenn.dev/mjhd/",
     "tags": [
       "Flutter",
       "history",
@@ -4802,7 +4790,7 @@
   },
   {
     "count": 1,
-    "domain": "https://katainaka0503.hatenablog.com",
+    "url": "https://katainaka0503.hatenablog.com",
     "tags": [
       "TypeScript",
       "Tools",
@@ -4815,7 +4803,7 @@
   },
   {
     "count": 1,
-    "domain": "https://gimli.app",
+    "url": "https://gimli.app",
     "tags": [
       "Chrome",
       "Extension",
@@ -4829,7 +4817,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/moment/luxon",
+    "url": "https://github.com/moment/luxon",
     "tags": [
       "JavaScript",
       "library",
@@ -4843,7 +4831,7 @@
   },
   {
     "count": 1,
-    "domain": "https://trilon.io",
+    "url": "https://trilon.io",
     "tags": [
       "node.js",
       "library",
@@ -4856,7 +4844,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tuplo/numberfmt",
+    "url": "https://github.com/tuplo/numberfmt",
     "tags": [
       "JavaScript",
       "library"
@@ -4869,7 +4857,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
     "tags": [
       "node.js",
       "library",
@@ -4883,7 +4871,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nodered.org",
+    "url": "https://nodered.org",
     "tags": [
       "node.js",
       "library",
@@ -4896,7 +4884,7 @@
   },
   {
     "count": 1,
-    "domain": "https://konstantinlebedev.com",
+    "url": "https://konstantinlebedev.com",
     "tags": [
       "React",
       "article"
@@ -4908,7 +4896,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/danielroe/magic-regexp",
+    "url": "https://github.com/danielroe/magic-regexp",
     "tags": [
       "RegExp",
       "JavaScript",
@@ -4922,7 +4910,7 @@
   },
   {
     "count": 1,
-    "domain": "https://cloudscape.design",
+    "url": "https://cloudscape.design",
     "tags": [
       "aws",
       "Design",
@@ -4936,7 +4924,7 @@
   },
   {
     "count": 1,
-    "domain": "https://rety.verou.me",
+    "url": "https://rety.verou.me",
     "tags": [
       "JavaScript",
       "library",
@@ -4949,7 +4937,7 @@
   },
   {
     "count": 1,
-    "domain": "https://defensivecss.dev",
+    "url": "https://defensivecss.dev",
     "tags": [
       "CSS",
       "document"
@@ -4961,7 +4949,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/yaakov123/hagana",
+    "url": "https://github.com/yaakov123/hagana",
     "tags": [
       "node.js",
       "security",
@@ -4975,7 +4963,7 @@
   },
   {
     "count": 1,
-    "domain": "https://docs.nest-book.jp",
+    "url": "https://docs.nest-book.jp",
     "tags": [
       "node.js",
       "library",
@@ -4989,7 +4977,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/modfy/nominal",
+    "url": "https://github.com/modfy/nominal",
     "tags": [
       "TypeScript",
       "library"
@@ -5002,7 +4990,7 @@
   },
   {
     "count": 1,
-    "domain": "https://payloadcms.com",
+    "url": "https://payloadcms.com",
     "tags": [
       "CMS",
       "ReleaseNote"
@@ -5014,7 +5002,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/hemanth/",
+    "url": "https://dev.to/hemanth/",
     "tags": [
       "ECMAScript",
       "proposal",
@@ -5027,7 +5015,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/5t3ph/css-browser-support",
+    "url": "https://github.com/5t3ph/css-browser-support",
     "tags": [
       "CSS",
       "mdn",
@@ -5042,7 +5030,7 @@
   },
   {
     "count": 1,
-    "domain": "https://ishadeed.com",
+    "url": "https://ishadeed.com",
     "tags": [
       "CSS",
       "figma",
@@ -5055,7 +5043,7 @@
   },
   {
     "count": 1,
-    "domain": "https://jakearchibald.com",
+    "url": "https://jakearchibald.com",
     "tags": [
       "HTML",
       "article"
@@ -5067,7 +5055,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/video-dev/hls.js",
+    "url": "https://github.com/video-dev/hls.js",
     "tags": [
       "HLS",
       "JavaScript",
@@ -5082,7 +5070,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ronami/HypeScript",
+    "url": "https://github.com/ronami/HypeScript",
     "tags": [
       "TypeScript",
       "Tools"
@@ -5095,7 +5083,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/losfair/blueboat",
+    "url": "https://github.com/losfair/blueboat",
     "tags": [
       "JavaScript",
       "serverless",
@@ -5110,7 +5098,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ehmicky/safe-json-value",
+    "url": "https://github.com/ehmicky/safe-json-value",
     "tags": [
       "JavaScript",
       "library",
@@ -5124,7 +5112,7 @@
   },
   {
     "count": 1,
-    "domain": "https://skeleton.brainandbonesllc.com",
+    "url": "https://skeleton.brainandbonesllc.com",
     "tags": [
       "Svelte",
       "CSS",
@@ -5137,7 +5125,7 @@
   },
   {
     "count": 1,
-    "domain": "https://docusaurus.io",
+    "url": "https://docusaurus.io",
     "tags": [
       "React",
       "document",
@@ -5150,7 +5138,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/sofn-xyz/mailing",
+    "url": "https://github.com/sofn-xyz/mailing",
     "tags": [
       "JavaScript",
       "React",
@@ -5165,7 +5153,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mjmlio/mjml",
+    "url": "https://github.com/mjmlio/mjml",
     "tags": [
       "mail",
       "JavaScript",
@@ -5179,7 +5167,7 @@
   },
   {
     "count": 1,
-    "domain": "https://orizens.com",
+    "url": "https://orizens.com",
     "tags": [
       "React",
       "performance",
@@ -5192,7 +5180,7 @@
   },
   {
     "count": 1,
-    "domain": "https://mmazzarolo.com",
+    "url": "https://mmazzarolo.com",
     "tags": [
       "JavaScript",
       "article"
@@ -5204,7 +5192,7 @@
   },
   {
     "count": 1,
-    "domain": "https://engineering.linecorp.com",
+    "url": "https://engineering.linecorp.com",
     "tags": [
       "Vue",
       "performance",
@@ -5218,7 +5206,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.learningtypescript.com",
+    "url": "https://www.learningtypescript.com",
     "tags": [
       "TypeScript",
       "article"
@@ -5230,7 +5218,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/pemistahl/grex-js",
+    "url": "https://github.com/pemistahl/grex-js",
     "tags": [
       "JavaScript",
       "RegExp",
@@ -5244,7 +5232,7 @@
   },
   {
     "count": 1,
-    "domain": "https://semaphoreci.com",
+    "url": "https://semaphoreci.com",
     "tags": [
       "node.js",
       "deno",
@@ -5260,7 +5248,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
     "tags": [
       "JavaScript",
       "Tools",
@@ -5274,7 +5262,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.matuzo.at",
+    "url": "https://www.matuzo.at",
     "tags": [
       "CSS",
       "article"
@@ -5286,7 +5274,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.theverge.com",
+    "url": "https://www.theverge.com",
     "tags": [
       "accessibility",
       "software",
@@ -5300,7 +5288,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/react-pdf-viewer/react-pdf-viewer",
+    "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
     "tags": [
       "React",
       "PDF",
@@ -5314,7 +5302,7 @@
   },
   {
     "count": 1,
-    "domain": "https://wasmlabs.dev",
+    "url": "https://wasmlabs.dev",
     "tags": [
       "wordpress",
       "SQLite",
@@ -5328,7 +5316,7 @@
   },
   {
     "count": 1,
-    "domain": "https://oven.sh",
+    "url": "https://oven.sh",
     "tags": [
       "Bun",
       "news",
@@ -5341,7 +5329,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/rayepps/radash",
+    "url": "https://github.com/rayepps/radash",
     "tags": [
       "JavaScript",
       "library"
@@ -5354,7 +5342,7 @@
   },
   {
     "count": 1,
-    "domain": "https://erock.prose.sh",
+    "url": "https://erock.prose.sh",
     "tags": [
       "TypeScript",
       "article",
@@ -5367,7 +5355,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.dmitrysoshnikov.education",
+    "url": "https://www.dmitrysoshnikov.education",
     "tags": [
       "TypeScript",
       "video",
@@ -5380,7 +5368,7 @@
   },
   {
     "count": 1,
-    "domain": "https://endtimes.dev",
+    "url": "https://endtimes.dev",
     "tags": [
       "HTTP",
       "performance",
@@ -5393,7 +5381,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
     "tags": [
       "JavaScript",
       "browser",
@@ -5408,7 +5396,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nadeesha/ts-prune",
+    "url": "https://github.com/nadeesha/ts-prune",
     "tags": [
       "TypeScript",
       "Tools"
@@ -5421,7 +5409,7 @@
   },
   {
     "count": 1,
-    "domain": "https://textslashplain.com",
+    "url": "https://textslashplain.com",
     "tags": [
       "browser",
       "privacy",
@@ -5434,7 +5422,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tech.basicinc.jp",
+    "url": "https://tech.basicinc.jp",
     "tags": [
       "browser",
       "security",
@@ -5447,7 +5435,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/frehner/modern-guide-to-packaging-js-library",
+    "url": "https://github.com/frehner/modern-guide-to-packaging-js-library",
     "tags": [
       "node.js",
       "JavaScript",
@@ -5462,7 +5450,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/bluwy/whyframe",
+    "url": "https://github.com/bluwy/whyframe",
     "tags": [
       "JavaScript",
       "library",
@@ -5476,7 +5464,7 @@
   },
   {
     "count": 1,
-    "domain": "https://daverupert.com",
+    "url": "https://daverupert.com",
     "tags": [
       "CSS",
       "architecture",
@@ -5489,7 +5477,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/layerhub-io/react-design-editor",
+    "url": "https://github.com/layerhub-io/react-design-editor",
     "tags": [
       "React",
       "video",
@@ -5504,7 +5492,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ossf/package-manager-best-practices",
+    "url": "https://github.com/ossf/package-manager-best-practices",
     "tags": [
       "npm",
       "security",
@@ -5518,7 +5506,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tinylibs/tinyspy",
+    "url": "https://github.com/tinylibs/tinyspy",
     "tags": [
       "JavaScript",
       "testing",
@@ -5532,7 +5520,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/flomesh-io/pipy",
+    "url": "https://github.com/flomesh-io/pipy",
     "tags": [
       "JavaScript",
       "proxy",
@@ -5547,7 +5535,7 @@
   },
   {
     "count": 1,
-    "domain": "https://testcafe.io",
+    "url": "https://testcafe.io",
     "tags": [
       "browser",
       "testing",
@@ -5561,7 +5549,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/BetterTyped/hyper-fetch",
+    "url": "https://github.com/BetterTyped/hyper-fetch",
     "tags": [
       "JavaScript",
       "library",
@@ -5575,7 +5563,7 @@
   },
   {
     "count": 1,
-    "domain": "https://yieldcode.blog",
+    "url": "https://yieldcode.blog",
     "tags": [
       "JavaScript",
       "article"
@@ -5587,7 +5575,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.wantedly.com",
+    "url": "https://www.wantedly.com",
     "tags": [
       "node.js",
       "ECMAScript",
@@ -5601,7 +5589,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/preactjs/signals",
+    "url": "https://github.com/preactjs/signals",
     "tags": [
       "JavaScript",
       "React",
@@ -5616,7 +5604,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nuxt/content",
+    "url": "https://github.com/nuxt/content",
     "tags": [
       "Vue",
       "library",
@@ -5630,7 +5618,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/hand-dot/react-inspector",
+    "url": "https://github.com/hand-dot/react-inspector",
     "tags": [
       "React",
       "debug",
@@ -5644,7 +5632,7 @@
   },
   {
     "count": 1,
-    "domain": "https://gradejs.com",
+    "url": "https://gradejs.com",
     "tags": [
       "webpack",
       "Tools",
@@ -5657,7 +5645,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/frameable/el",
+    "url": "https://github.com/frameable/el",
     "tags": [
       "WebComponents",
       "library"
@@ -5670,7 +5658,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/AlexeyBoiko/DgrmJS",
+    "url": "https://github.com/AlexeyBoiko/DgrmJS",
     "tags": [
       "SVG",
       "diagram",
@@ -5685,7 +5673,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/facebookincubator/memlab",
+    "url": "https://github.com/facebookincubator/memlab",
     "tags": [
       "JavaScript",
       "debug",
@@ -5700,7 +5688,7 @@
   },
   {
     "count": 1,
-    "domain": "https://community.redwoodjs.com",
+    "url": "https://community.redwoodjs.com",
     "tags": [
       "JavaScript",
       "node.js",
@@ -5713,7 +5701,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/skovhus/jest-codemods",
+    "url": "https://github.com/skovhus/jest-codemods",
     "tags": [
       "jest",
       "JavaScript",
@@ -5728,7 +5716,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/TypeStrong/ts-loader",
+    "url": "https://github.com/TypeStrong/ts-loader",
     "tags": [
       "TypeScript",
       "webpack",
@@ -5742,7 +5730,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/lost-pixel/lost-pixel",
+    "url": "https://github.com/lost-pixel/lost-pixel",
     "tags": [
       "JavaScript",
       "testing",
@@ -5758,7 +5746,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ts-safeql/safeql",
+    "url": "https://github.com/ts-safeql/safeql",
     "tags": [
       "SQL",
       "ESLint",
@@ -5774,7 +5762,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tinylibs/tinybench",
+    "url": "https://github.com/tinylibs/tinybench",
     "tags": [
       "JavaScript",
       "benchmark",
@@ -5788,7 +5776,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/anonrig/fast-querystring",
+    "url": "https://github.com/anonrig/fast-querystring",
     "tags": [
       "JavaScript",
       "node.js",
@@ -5802,7 +5790,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tokencss/tokencss",
+    "url": "https://github.com/tokencss/tokencss",
     "tags": [
       "CSS",
       "Tools",
@@ -5817,7 +5805,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/parcel-bundler/lightningcss",
+    "url": "https://github.com/parcel-bundler/lightningcss",
     "tags": [
       "Rust",
       "CSS",
@@ -5831,7 +5819,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/gioboa/vite-module-federation",
+    "url": "https://github.com/gioboa/vite-module-federation",
     "tags": [
       "vite",
       "plugin"
@@ -5844,7 +5832,7 @@
   },
   {
     "count": 1,
-    "domain": "https://kaleidawave.github.io",
+    "url": "https://kaleidawave.github.io",
     "tags": [
       "Rust",
       "TypeScript",
@@ -5858,7 +5846,7 @@
   },
   {
     "count": 1,
-    "domain": "https://almanac.httparchive.org",
+    "url": "https://almanac.httparchive.org",
     "tags": [
       "web ",
       "book",
@@ -5874,7 +5862,7 @@
   },
   {
     "count": 1,
-    "domain": "https://exploringjs.com",
+    "url": "https://exploringjs.com",
     "tags": [
       "node.js",
       "book",
@@ -5887,7 +5875,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.docswell.com/user/ockeghem",
+    "url": "https://www.docswell.com/user/ockeghem",
     "tags": [
       "JavaScript",
       "browser",
@@ -5904,7 +5892,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mozilla/pdf.js",
+    "url": "https://github.com/mozilla/pdf.js",
     "tags": [
       "PDF",
       "JavaScript",
@@ -5919,7 +5907,7 @@
   },
   {
     "count": 1,
-    "domain": "https://sqlite.org",
+    "url": "https://sqlite.org",
     "tags": [
       "SQLite",
       "JavaScript",
@@ -5933,7 +5921,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/dudykr/stc",
+    "url": "https://github.com/dudykr/stc",
     "tags": [
       "TypeScript",
       "Rust"
@@ -5946,7 +5934,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/srmagura/",
+    "url": "https://dev.to/srmagura/",
     "tags": [
       "CSS",
       "JavaScript",
@@ -5960,7 +5948,7 @@
   },
   {
     "count": 1,
-    "domain": "https://medium.com/airbnb-engineering/",
+    "url": "https://medium.com/airbnb-engineering/",
     "tags": [
       "CSS",
       "article",
@@ -5973,7 +5961,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/yukiyada/",
+    "url": "https://zenn.dev/yukiyada/",
     "tags": [
       "CSS",
       "article",
@@ -5986,7 +5974,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
     "tags": [
       "Vue",
       "library",
@@ -6000,7 +5988,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.epicweb.dev",
+    "url": "https://www.epicweb.dev",
     "tags": [
       "Remix",
       "React",
@@ -6013,7 +6001,7 @@
   },
   {
     "count": 1,
-    "domain": "https://weizman.github.io",
+    "url": "https://weizman.github.io",
     "tags": [
       "JavaScript",
       "ECMAScript",
@@ -6027,7 +6015,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/panda_program/",
+    "url": "https://zenn.dev/panda_program/",
     "tags": [
       "Next.js",
       "JavaScript",
@@ -6040,7 +6028,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/hapijs/hapi",
+    "url": "https://github.com/hapijs/hapi",
     "tags": [
       "node.js",
       "server",
@@ -6055,7 +6043,7 @@
   },
   {
     "count": 1,
-    "domain": "https://rfcs.emberjs.com",
+    "url": "https://rfcs.emberjs.com",
     "tags": [
       "Ember",
       "proposal"
@@ -6067,7 +6055,7 @@
   },
   {
     "count": 1,
-    "domain": "https://portswigger.net",
+    "url": "https://portswigger.net",
     "tags": [
       "browser",
       "security",
@@ -6080,7 +6068,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.gatsbyjs.com",
+    "url": "https://www.gatsbyjs.com",
     "tags": [
       "React",
       "ReleaseNote",
@@ -6093,7 +6081,7 @@
   },
   {
     "count": 1,
-    "domain": "https://frontendmastery.com",
+    "url": "https://frontendmastery.com",
     "tags": [
       "CSS",
       "article"
@@ -6105,7 +6093,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
     "tags": [
       "JavaScript",
       "browser",
@@ -6121,7 +6109,7 @@
   },
   {
     "count": 1,
-    "domain": "https://link-and-motivation.hatenablog.com",
+    "url": "https://link-and-motivation.hatenablog.com",
     "tags": [
       "JavaScript",
       "Github",
@@ -6136,7 +6124,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.maximeheckel.com",
+    "url": "https://blog.maximeheckel.com",
     "tags": [
       "React",
       "WebGL",
@@ -6150,7 +6138,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.mozilla.org",
+    "url": "https://blog.mozilla.org",
     "tags": [
       "Firefox",
       "Extension",
@@ -6163,7 +6151,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.coursera.org",
+    "url": "https://www.coursera.org",
     "tags": [
       "HTML",
       "CSS",
@@ -6179,7 +6167,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/hadmean/hadmean",
+    "url": "https://github.com/hadmean/hadmean",
     "tags": [
       "node.js",
       "Tools"
@@ -6192,7 +6180,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.simoahava.com",
+    "url": "https://www.simoahava.com",
     "tags": [
       "browser",
       "safari",
@@ -6205,7 +6193,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.techpit.jp",
+    "url": "https://www.techpit.jp",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -6218,7 +6206,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/1Password/typeshare",
+    "url": "https://github.com/1Password/typeshare",
     "tags": [
       "Rust",
       "TypeScript",
@@ -6236,7 +6224,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/es-meta/esmeta",
+    "url": "https://github.com/es-meta/esmeta",
     "tags": [
       "ECMAScript",
       "JavaScript",
@@ -6250,7 +6238,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/0kate/",
+    "url": "https://zenn.dev/0kate/",
     "tags": [
       "WebAssembly",
       "article",
@@ -6263,7 +6251,7 @@
   },
   {
     "count": 1,
-    "domain": "https://trpc.io",
+    "url": "https://trpc.io",
     "tags": [
       "TypeScript",
       "library",
@@ -6276,7 +6264,7 @@
   },
   {
     "count": 1,
-    "domain": "https://jrsinclair.com",
+    "url": "https://jrsinclair.com",
     "tags": [
       "JavaScript",
       "functional",
@@ -6289,7 +6277,7 @@
   },
   {
     "count": 1,
-    "domain": "https://note.com",
+    "url": "https://note.com",
     "tags": [
       "Design",
       "article",
@@ -6302,7 +6290,7 @@
   },
   {
     "count": 1,
-    "domain": "https://hyperstackjs.io",
+    "url": "https://hyperstackjs.io",
     "tags": [
       "node.js",
       "JavaScript",
@@ -6316,7 +6304,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/shuding/nextra",
+    "url": "https://github.com/shuding/nextra",
     "tags": [
       "Next.js",
       "library"
@@ -6329,7 +6317,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/primus/eventemitter3",
+    "url": "https://github.com/primus/eventemitter3",
     "tags": [
       "JavaScript",
       "library",
@@ -6343,7 +6331,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.debugbear.com",
+    "url": "https://www.debugbear.com",
     "tags": [
       "Image",
       "performance",
@@ -6356,7 +6344,7 @@
   },
   {
     "count": 1,
-    "domain": "https://escape.tech",
+    "url": "https://escape.tech",
     "tags": [
       "Vue",
       "Svelte",
@@ -6369,7 +6357,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tkdodo.eu",
+    "url": "https://tkdodo.eu",
     "tags": [
       "JavaScript",
       "React",
@@ -6382,7 +6370,7 @@
   },
   {
     "count": 1,
-    "domain": "https://marvinh.dev",
+    "url": "https://marvinh.dev",
     "tags": [
       "JavaScript",
       "performance",
@@ -6395,7 +6383,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/elysiajs/elysia",
+    "url": "https://github.com/elysiajs/elysia",
     "tags": [
       "Bun",
       "library",
@@ -6409,7 +6397,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/socketsupply/socket",
+    "url": "https://github.com/socketsupply/socket",
     "tags": [
       "HTML",
       "CSS",
@@ -6424,7 +6412,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/DanielXMoore/Civet",
+    "url": "https://github.com/DanielXMoore/Civet",
     "tags": [
       "CoffeeScript",
       "TypeScript",
@@ -6439,7 +6427,7 @@
   },
   {
     "count": 1,
-    "domain": "https://swr.vercel.app",
+    "url": "https://swr.vercel.app",
     "tags": [
       "React",
       "library",
@@ -6452,7 +6440,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/zenorocha/react-email",
+    "url": "https://github.com/zenorocha/react-email",
     "tags": [
       "React",
       "mail",
@@ -6466,7 +6454,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/rafasofizada/pechkin",
+    "url": "https://github.com/rafasofizada/pechkin",
     "tags": [
       "node.js",
       "library"
@@ -6479,7 +6467,7 @@
   },
   {
     "count": 1,
-    "domain": "https://riffle.systems",
+    "url": "https://riffle.systems",
     "tags": [
       "JavaScript",
       "SQLite",
@@ -6492,7 +6480,7 @@
   },
   {
     "count": 1,
-    "domain": "https://devtoolstips.org",
+    "url": "https://devtoolstips.org",
     "tags": [
       "CSS",
       "performance",
@@ -6505,7 +6493,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/bluwy/publint",
+    "url": "https://github.com/bluwy/publint",
     "tags": [
       "node.js",
       "Tools",
@@ -6519,7 +6507,7 @@
   },
   {
     "count": 1,
-    "domain": "https://rumarchive.com",
+    "url": "https://rumarchive.com",
     "tags": [
       "browser",
       "performance",
@@ -6533,7 +6521,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/moneyforward/",
+    "url": "https://zenn.dev/moneyforward/",
     "tags": [
       "TypeScript",
       "article"
@@ -6545,7 +6533,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/ericclemmons/click-to-component",
+    "url": "https://github.com/ericclemmons/click-to-component",
     "tags": [
       "React",
       "debug",
@@ -6559,7 +6547,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/PuruVJ/neodrag",
+    "url": "https://github.com/PuruVJ/neodrag",
     "tags": [
       "JavaScript",
       "Svelte",
@@ -6575,7 +6563,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/yhatt/",
+    "url": "https://zenn.dev/yhatt/",
     "tags": [
       "cdn",
       "news",
@@ -6588,7 +6576,7 @@
   },
   {
     "count": 1,
-    "domain": "https://authjs.dev",
+    "url": "https://authjs.dev",
     "tags": [
       "JavaScript",
       "WebAuthentication",
@@ -6602,7 +6590,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/yend724/",
+    "url": "https://zenn.dev/yend724/",
     "tags": [
       "CSS",
       "article"
@@ -6614,7 +6602,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
+    "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
     "tags": [
       "JSON",
       "JavaScript",
@@ -6630,7 +6618,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tamagui.dev",
+    "url": "https://tamagui.dev",
     "tags": [
       "React",
       "library",
@@ -6643,7 +6631,7 @@
   },
   {
     "count": 1,
-    "domain": "https://gluonjs.org",
+    "url": "https://gluonjs.org",
     "tags": [
       "browser",
       "node.js",
@@ -6658,7 +6646,7 @@
   },
   {
     "count": 1,
-    "domain": "https://obyford.com",
+    "url": "https://obyford.com",
     "tags": [
       "webkit",
       "issue",
@@ -6671,7 +6659,7 @@
   },
   {
     "count": 1,
-    "domain": "https://2022.stateofjs.com",
+    "url": "https://2022.stateofjs.com",
     "tags": [
       "JavaScript",
       "Survey"
@@ -6683,7 +6671,7 @@
   },
   {
     "count": 1,
-    "domain": "https://npm-kiosk.remotion.dev",
+    "url": "https://npm-kiosk.remotion.dev",
     "tags": [
       "npm",
       "article"
@@ -6695,7 +6683,7 @@
   },
   {
     "count": 1,
-    "domain": "https://accessibility.blog.gov.uk",
+    "url": "https://accessibility.blog.gov.uk",
     "tags": [
       "accessibility",
       "article"
@@ -6707,7 +6695,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/Dunks1980/bay.js",
+    "url": "https://github.com/Dunks1980/bay.js",
     "tags": [
       "JavaScript",
       "template",
@@ -6722,7 +6710,7 @@
   },
   {
     "count": 1,
-    "domain": "https://yosuke-furukawa.hatenablog.com",
+    "url": "https://yosuke-furukawa.hatenablog.com",
     "tags": [
       "node.js",
       "security",
@@ -6735,7 +6723,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/isaacs/rimraf",
+    "url": "https://github.com/isaacs/rimraf",
     "tags": [
       "node.js",
       "library",
@@ -6749,7 +6737,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tsmodule/tsmodule",
+    "url": "https://github.com/tsmodule/tsmodule",
     "tags": [
       "TypeScript",
       "ECMAScript",
@@ -6763,7 +6751,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/GiuseppeRaso/structura.js",
+    "url": "https://github.com/GiuseppeRaso/structura.js",
     "tags": [
       "JavaScript",
       "library"
@@ -6776,7 +6764,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/LyraSearch/lyra",
+    "url": "https://github.com/LyraSearch/lyra",
     "tags": [
       "TypeScript",
       "search ",
@@ -6790,7 +6778,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/azu/eslint-cjs-to-esm",
+    "url": "https://github.com/azu/eslint-cjs-to-esm",
     "tags": [
       "node.js",
       "JavaScript",
@@ -6807,7 +6795,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/shuding/react-wrap-balancer",
+    "url": "https://github.com/shuding/react-wrap-balancer",
     "tags": [
       "JavaScript",
       "React",
@@ -6823,7 +6811,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/azu/tsconfig-to-dual-package",
+    "url": "https://github.com/azu/tsconfig-to-dual-package",
     "tags": [
       "TypeScript",
       "library",
@@ -6837,7 +6825,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/mkt/",
+    "url": "https://zenn.dev/mkt/",
     "tags": [
       "Next.js",
       "article",
@@ -6850,7 +6838,7 @@
   },
   {
     "count": 1,
-    "domain": "https://csswizardry.com",
+    "url": "https://csswizardry.com",
     "tags": [
       "JavaScript",
       "article",
@@ -6863,7 +6851,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.bitsrc.io",
+    "url": "https://blog.bitsrc.io",
     "tags": [
       "JavaScript",
       "testing",
@@ -6877,7 +6865,7 @@
   },
   {
     "count": 1,
-    "domain": "https://kentcdodds.com",
+    "url": "https://kentcdodds.com",
     "tags": [
       "node.js",
       "JavaScript",
@@ -6892,7 +6880,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/Brooooooklyn/canvas",
+    "url": "https://github.com/Brooooooklyn/canvas",
     "tags": [
       "node.js",
       "canvas",
@@ -6906,7 +6894,7 @@
   },
   {
     "count": 1,
-    "domain": "https://fffuel.co",
+    "url": "https://fffuel.co",
     "tags": [
       "SVG",
       "tutorial"
@@ -6918,7 +6906,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/amandaghassaei/gpu-io",
+    "url": "https://github.com/amandaghassaei/gpu-io",
     "tags": [
       "WebGL",
       "JavaScript",
@@ -6932,7 +6920,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/deca-org/deca-ui",
+    "url": "https://github.com/deca-org/deca-ui",
     "tags": [
       "React",
       "library"
@@ -6945,7 +6933,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.11ty.dev",
+    "url": "https://www.11ty.dev",
     "tags": [
       "JavaScript",
       "template",
@@ -6958,7 +6946,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/cyclic-software/s3fs",
+    "url": "https://github.com/cyclic-software/s3fs",
     "tags": [
       "aws",
       "node.js",
@@ -6972,7 +6960,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mswjs/msw",
+    "url": "https://github.com/mswjs/msw",
     "tags": [
       "ServiceWorker",
       "library",
@@ -6986,7 +6974,7 @@
   },
   {
     "count": 1,
-    "domain": "https://00f.net",
+    "url": "https://00f.net",
     "tags": [
       "WebAssembly",
       "article",
@@ -7000,7 +6988,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/jakebailey/hereby",
+    "url": "https://github.com/jakebailey/hereby",
     "tags": [
       "TypeScript",
       "Tools"
@@ -7013,7 +7001,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
     "tags": [
       "React",
       "proposal",
@@ -7027,7 +7015,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/terrierscript/",
+    "url": "https://zenn.dev/terrierscript/",
     "tags": [
       "TypeScript",
       "book"
@@ -7039,7 +7027,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/pmndrs/jotai",
+    "url": "https://github.com/pmndrs/jotai",
     "tags": [
       "JavaScript",
       "library",
@@ -7053,7 +7041,7 @@
   },
   {
     "count": 1,
-    "domain": "https://wpt.fyi",
+    "url": "https://wpt.fyi",
     "tags": [
       "browser",
       "testing",
@@ -7066,7 +7054,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/CodeIntelligenceTesting/jazzer.js",
+    "url": "https://github.com/CodeIntelligenceTesting/jazzer.js",
     "tags": [
       "JavaScript",
       "testing",
@@ -7080,7 +7068,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tanekloc/tmsg",
+    "url": "https://github.com/tanekloc/tmsg",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -7095,7 +7083,7 @@
   },
   {
     "count": 1,
-    "domain": "https://ui.shadcn.com",
+    "url": "https://ui.shadcn.com",
     "tags": [
       "React",
       "UI",
@@ -7108,7 +7096,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.codeflashbacks.com",
+    "url": "https://www.codeflashbacks.com",
     "tags": [
       "node.js",
       "article"
@@ -7120,7 +7108,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/upgradejs/depngn",
+    "url": "https://github.com/upgradejs/depngn",
     "tags": [
       "node.js",
       "Tools"
@@ -7133,7 +7121,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/jquense/yup",
+    "url": "https://github.com/jquense/yup",
     "tags": [
       "TypeScript",
       "library",
@@ -7147,7 +7135,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/cure53/DOMPurify",
+    "url": "https://github.com/cure53/DOMPurify",
     "tags": [
       "DOM",
       "security",
@@ -7162,7 +7150,7 @@
   },
   {
     "count": 1,
-    "domain": "https://webcontainers.io",
+    "url": "https://webcontainers.io",
     "tags": [
       "node.js",
       "JavaScript",
@@ -7176,7 +7164,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nhiroki.jp",
+    "url": "https://nhiroki.jp",
     "tags": [
       "Chrome",
       "performance",
@@ -7189,7 +7177,7 @@
   },
   {
     "count": 1,
-    "domain": "https://the-guild.dev",
+    "url": "https://the-guild.dev",
     "tags": [
       "Next.js",
       "library",
@@ -7202,7 +7190,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.zachleat.com",
+    "url": "https://www.zachleat.com",
     "tags": [
       "React",
       "article",
@@ -7215,7 +7203,7 @@
   },
   {
     "count": 1,
-    "domain": "https://refactoring.guru",
+    "url": "https://refactoring.guru",
     "tags": [
       "TypeScript",
       "document",
@@ -7228,7 +7216,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/slashd-analytics/run",
+    "url": "https://github.com/slashd-analytics/run",
     "tags": [
       "JavaScript",
       "webworker",
@@ -7242,7 +7230,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/codesandbox/nodebox-runtime",
+    "url": "https://github.com/codesandbox/nodebox-runtime",
     "tags": [
       "node.js",
       "browser",
@@ -7257,7 +7245,7 @@
   },
   {
     "count": 1,
-    "domain": "https://codesandbox.io",
+    "url": "https://codesandbox.io",
     "tags": [
       "JavaScript",
       "node.js",
@@ -7271,7 +7259,7 @@
   },
   {
     "count": 1,
-    "domain": "https://results.stateofreactnative.com",
+    "url": "https://results.stateofreactnative.com",
     "tags": [
       "React",
       "Native",
@@ -7284,7 +7272,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/chaijs/chai",
+    "url": "https://github.com/chaijs/chai",
     "tags": [
       "JavaScript",
       "testing",
@@ -7299,7 +7287,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/yusukehirao/",
+    "url": "https://zenn.dev/yusukehirao/",
     "tags": [
       "HTML",
       "accessibility",
@@ -7312,7 +7300,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/natemoo-re/clack",
+    "url": "https://github.com/natemoo-re/clack",
     "tags": [
       "node.js",
       "JavaScript",
@@ -7326,7 +7314,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/nicklucas/",
+    "url": "https://dev.to/nicklucas/",
     "tags": [
       "TypeScript",
       "article",
@@ -7339,7 +7327,7 @@
   },
   {
     "count": 1,
-    "domain": "https://ts-rest.com",
+    "url": "https://ts-rest.com",
     "tags": [
       "TypeScript",
       "library"
@@ -7351,7 +7339,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.akshaykhot.com",
+    "url": "https://www.akshaykhot.com",
     "tags": [
       "JavaScript",
       "rails",
@@ -7365,7 +7353,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.sentry.io",
+    "url": "https://blog.sentry.io",
     "tags": [
       "React",
       "JavaScript",
@@ -7379,7 +7367,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nodejstoolbox.com",
+    "url": "https://nodejstoolbox.com",
     "tags": [
       "node.js",
       "library",
@@ -7392,7 +7380,7 @@
   },
   {
     "count": 1,
-    "domain": "https://sandworm.dev",
+    "url": "https://sandworm.dev",
     "tags": [
       "npm",
       "webservice"
@@ -7404,7 +7392,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dev.to/codux/",
+    "url": "https://dev.to/codux/",
     "tags": [
       "JavaScript",
       "article"
@@ -7416,7 +7404,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/tnyo43/",
+    "url": "https://zenn.dev/tnyo43/",
     "tags": [
       "JavaScript",
       "testing",
@@ -7431,7 +7419,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/open-draft/event-contract",
+    "url": "https://github.com/open-draft/event-contract",
     "tags": [
       "TypeScript",
       "library"
@@ -7444,7 +7432,7 @@
   },
   {
     "count": 1,
-    "domain": "https://betterstack.com",
+    "url": "https://betterstack.com",
     "tags": [
       "node.js",
       "article"
@@ -7456,7 +7444,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/antonmedv/finder",
+    "url": "https://github.com/antonmedv/finder",
     "tags": [
       "JavaScript",
       "CSS",
@@ -7470,7 +7458,7 @@
   },
   {
     "count": 1,
-    "domain": "https://openjsf.org",
+    "url": "https://openjsf.org",
     "tags": [
       "node.js",
       "security",
@@ -7483,7 +7471,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/total-typescript/ts-reset",
+    "url": "https://github.com/total-typescript/ts-reset",
     "tags": [
       "TypeScript",
       "library"
@@ -7496,7 +7484,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/lagonapp/lagon",
+    "url": "https://github.com/lagonapp/lagon",
     "tags": [
       "V8",
       "Rust",
@@ -7511,7 +7499,7 @@
   },
   {
     "count": 1,
-    "domain": "https://socket.dev",
+    "url": "https://socket.dev",
     "tags": [
       "npm",
       "article",
@@ -7524,7 +7512,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/gajus/turbowatch",
+    "url": "https://github.com/gajus/turbowatch",
     "tags": [
       "node.js",
       "library"
@@ -7537,7 +7525,7 @@
   },
   {
     "count": 1,
-    "domain": "https://xenova.github.io",
+    "url": "https://xenova.github.io",
     "tags": [
       "browser",
       "JavaScript",
@@ -7551,7 +7539,7 @@
   },
   {
     "count": 1,
-    "domain": "https://bufferings.hatenablog.com",
+    "url": "https://bufferings.hatenablog.com",
     "tags": [
       "npm",
       "article",
@@ -7564,7 +7552,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/styled-components/xstyled",
+    "url": "https://github.com/styled-components/xstyled",
     "tags": [
       "JavaScript",
       "CSS",
@@ -7578,7 +7566,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/anymaniax/orval",
+    "url": "https://github.com/anymaniax/orval",
     "tags": [
       "OpenAPI",
       "TypeScript",
@@ -7594,7 +7582,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/gvergnaud/hotscript",
+    "url": "https://github.com/gvergnaud/hotscript",
     "tags": [
       "TypeScript",
       "library"
@@ -7607,7 +7595,7 @@
   },
   {
     "count": 1,
-    "domain": "https://superflare.dev",
+    "url": "https://superflare.dev",
     "tags": [
       "cloudflare",
       "node.js",
@@ -7621,7 +7609,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mamiksik/parrot-intellij",
+    "url": "https://github.com/mamiksik/parrot-intellij",
     "tags": [
       "JetBrains",
       "plugin",
@@ -7635,7 +7623,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/sinclairnick/brail",
+    "url": "https://github.com/sinclairnick/brail",
     "tags": [
       "React",
       "mail",
@@ -7650,7 +7638,7 @@
   },
   {
     "count": 1,
-    "domain": "https://peaks.cc",
+    "url": "https://peaks.cc",
     "tags": [
       "JavaScript",
       "testing",
@@ -7663,7 +7651,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mayank99/ecsstatic",
+    "url": "https://github.com/mayank99/ecsstatic",
     "tags": [
       "CSS",
       "vite"
@@ -7676,7 +7664,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/lxsmnsyc/seroval",
+    "url": "https://github.com/lxsmnsyc/seroval",
     "tags": [
       "JavaScript",
       "library"
@@ -7689,7 +7677,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tech.high-link.co.jp",
+    "url": "https://tech.high-link.co.jp",
     "tags": [
       "Next.js",
       "rails",
@@ -7703,7 +7691,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/wantedly/react-declassify",
+    "url": "https://github.com/wantedly/react-declassify",
     "tags": [
       "React",
       "JavaScript",
@@ -7717,7 +7705,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/unjs/magicast",
+    "url": "https://github.com/unjs/magicast",
     "tags": [
       "JavaScript",
       "AST",
@@ -7731,7 +7719,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.s2n.tech",
+    "url": "https://blog.s2n.tech",
     "tags": [
       "TypeScript",
       "article"
@@ -7743,7 +7731,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
     "tags": [
       "Svelte",
       "ReleaseNote"
@@ -7756,7 +7744,7 @@
   },
   {
     "count": 1,
-    "domain": "https://jspm.org",
+    "url": "https://jspm.org",
     "tags": [
       "JavaScript",
       "module",
@@ -7770,7 +7758,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.nodejs-security.com",
+    "url": "https://www.nodejs-security.com",
     "tags": [
       "node.js",
       "book",
@@ -7783,7 +7771,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/hexagon/croner",
+    "url": "https://github.com/hexagon/croner",
     "tags": [
       "JavaScript",
       "library"
@@ -7796,7 +7784,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/uhyo/nitrogql",
+    "url": "https://github.com/uhyo/nitrogql",
     "tags": [
       "TypeScript",
       "GraphQL",
@@ -7810,7 +7798,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/liriliri/eruda",
+    "url": "https://github.com/liriliri/eruda",
     "tags": [
       "browser",
       "debug",
@@ -7825,7 +7813,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/divriots/jampack",
+    "url": "https://github.com/divriots/jampack",
     "tags": [
       "JavaScript",
       "performance",
@@ -7840,7 +7828,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/open-draft/logger",
+    "url": "https://github.com/open-draft/logger",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -7854,7 +7842,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.netlify.com",
+    "url": "https://www.netlify.com",
     "tags": [
       "article",
       "JavaScript"
@@ -7866,7 +7854,7 @@
   },
   {
     "count": 1,
-    "domain": "https://htmx.org",
+    "url": "https://htmx.org",
     "tags": [
       "HTML",
       "JavaScript",
@@ -7880,7 +7868,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/immerjs/immer",
+    "url": "https://github.com/immerjs/immer",
     "tags": [
       "JavaScript",
       "library",
@@ -7894,7 +7882,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/yoavbls/pretty-ts-errors",
+    "url": "https://github.com/yoavbls/pretty-ts-errors",
     "tags": [
       "TypeScript",
       "VSCode",
@@ -7908,7 +7896,7 @@
   },
   {
     "count": 1,
-    "domain": "https://timkadlec.com",
+    "url": "https://timkadlec.com",
     "tags": [
       "article",
       "performance"
@@ -7920,7 +7908,7 @@
   },
   {
     "count": 1,
-    "domain": "https://glebbahmutov.com",
+    "url": "https://glebbahmutov.com",
     "tags": [
       "node.js",
       "article",
@@ -7933,7 +7921,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/HeyPuter/kv.js",
+    "url": "https://github.com/HeyPuter/kv.js",
     "tags": [
       "JavaScript",
       "library"
@@ -7946,7 +7934,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.alxolr.com",
+    "url": "https://www.alxolr.com",
     "tags": [
       "csv",
       "node.js",
@@ -7960,7 +7948,7 @@
   },
   {
     "count": 1,
-    "domain": "https://pawelgrzybek.com",
+    "url": "https://pawelgrzybek.com",
     "tags": [
       "ECMAScript",
       "JavaScript",
@@ -7973,7 +7961,7 @@
   },
   {
     "count": 1,
-    "domain": "https://bhch.github.io",
+    "url": "https://bhch.github.io",
     "tags": [
       "JavaScript",
       "JSON",
@@ -7987,7 +7975,7 @@
   },
   {
     "count": 1,
-    "domain": "https://matthiasott.com",
+    "url": "https://matthiasott.com",
     "tags": [
       "CSS",
       "article"
@@ -7999,7 +7987,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/nichimu/",
+    "url": "https://speakerdeck.com/nichimu/",
     "tags": [
       "JavaScript",
       "slide"
@@ -8011,7 +7999,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/sadnessojisan/",
+    "url": "https://speakerdeck.com/sadnessojisan/",
     "tags": [
       "JSON",
       "JavaScript",
@@ -8024,7 +8012,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/chot/",
+    "url": "https://zenn.dev/chot/",
     "tags": [
       "Chrome",
       "performance",
@@ -8037,7 +8025,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/karma-runner/karma",
+    "url": "https://github.com/karma-runner/karma",
     "tags": [
       "news",
       "JavaScript",
@@ -8052,7 +8040,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/SBoudrias/Inquirer.js",
+    "url": "https://github.com/SBoudrias/Inquirer.js",
     "tags": [
       "node.js",
       "library",
@@ -8066,7 +8054,7 @@
   },
   {
     "count": 1,
-    "domain": "https://unlighthouse.dev",
+    "url": "https://unlighthouse.dev",
     "tags": [
       "browser",
       "JavaScript",
@@ -8081,7 +8069,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/natemoo-re/ultramatter",
+    "url": "https://github.com/natemoo-re/ultramatter",
     "tags": [
       "JavaScript",
       "library"
@@ -8094,7 +8082,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vadimdemedes/ink-ui",
+    "url": "https://github.com/vadimdemedes/ink-ui",
     "tags": [
       "JavaScript",
       "React",
@@ -8109,7 +8097,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.inngest.com",
+    "url": "https://www.inngest.com",
     "tags": [
       "React",
       "Next.js",
@@ -8122,7 +8110,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.jantrid.net",
+    "url": "https://www.jantrid.net",
     "tags": [
       "Firefox",
       "accessibility",
@@ -8135,7 +8123,7 @@
   },
   {
     "count": 1,
-    "domain": "https://medium.com/dartlang/",
+    "url": "https://medium.com/dartlang/",
     "tags": [
       "dart",
       "ReleaseNote"
@@ -8147,7 +8135,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/microsoft/deoptexplorer-vscode",
+    "url": "https://github.com/microsoft/deoptexplorer-vscode",
     "tags": [
       "VSCode",
       "node.js",
@@ -8161,7 +8149,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
     "tags": [
       "TypeScript",
       "issue"
@@ -8174,7 +8162,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/microsoft/devicescript",
+    "url": "https://github.com/microsoft/devicescript",
     "tags": [
       "TypeScript",
       "Tools"
@@ -8187,7 +8175,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/webpro/knip",
+    "url": "https://github.com/webpro/knip",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -8201,7 +8189,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.hog.as",
+    "url": "https://blog.hog.as",
     "tags": [
       "Chrome",
       "article",
@@ -8214,7 +8202,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mizchi/lizod",
+    "url": "https://github.com/mizchi/lizod",
     "tags": [
       "TypeScript",
       "library"
@@ -8227,7 +8215,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/stepci/garph",
+    "url": "https://github.com/stepci/garph",
     "tags": [
       "TypeScript",
       "GraphQL",
@@ -8241,7 +8229,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
     "tags": [
       "Svelte",
       "ReleaseNote"
@@ -8254,7 +8242,7 @@
   },
   {
     "count": 1,
-    "domain": "https://reacthandbook.dev",
+    "url": "https://reacthandbook.dev",
     "tags": [
       "React",
       "document"
@@ -8266,7 +8254,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.nray.dev",
+    "url": "https://www.nray.dev",
     "tags": [
       "performance",
       "article"
@@ -8278,7 +8266,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.rafaelgss.dev",
+    "url": "https://blog.rafaelgss.dev",
     "tags": [
       "node.js",
       "performance",
@@ -8291,7 +8279,7 @@
   },
   {
     "count": 1,
-    "domain": "https://marmooo.blogspot.com",
+    "url": "https://marmooo.blogspot.com",
     "tags": [
       "CSS",
       "WebComponents",
@@ -8304,7 +8292,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tresjs/tres",
+    "url": "https://github.com/tresjs/tres",
     "tags": [
       "Vue",
       "WebGL",
@@ -8318,7 +8306,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nakedjsx.org",
+    "url": "https://nakedjsx.org",
     "tags": [
       "jsx",
       "JavaScript",
@@ -8331,7 +8319,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/reactwg/server-components",
+    "url": "https://github.com/reactwg/server-components",
     "tags": [
       "React",
       "tutorial"
@@ -8344,7 +8332,7 @@
   },
   {
     "count": 1,
-    "domain": "https://chriscoyier.net",
+    "url": "https://chriscoyier.net",
     "tags": [
       "CSS",
       "article",
@@ -8357,7 +8345,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/evanw/polywasm",
+    "url": "https://github.com/evanw/polywasm",
     "tags": [
       "WebAssembly",
       "JavaScript",
@@ -8372,7 +8360,7 @@
   },
   {
     "count": 1,
-    "domain": "https://turbo.build",
+    "url": "https://turbo.build",
     "tags": [
       "JavaScript",
       "Tools",
@@ -8385,7 +8373,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
     "tags": [
       "node.js",
       "library",
@@ -8399,7 +8387,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.fermyon.com",
+    "url": "https://www.fermyon.com",
     "tags": [
       "WebAssembly",
       "webservice"
@@ -8411,7 +8399,7 @@
   },
   {
     "count": 1,
-    "domain": "https://moderncss.dev",
+    "url": "https://moderncss.dev",
     "tags": [
       "CSS",
       "article"
@@ -8423,7 +8411,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/gvergnaud/ts-pattern",
+    "url": "https://github.com/gvergnaud/ts-pattern",
     "tags": [
       "TypeScript",
       "ReleaseNote",
@@ -8437,7 +8425,7 @@
   },
   {
     "count": 1,
-    "domain": "https://panda-css.com",
+    "url": "https://panda-css.com",
     "tags": [
       "CSS",
       "TypeScript",
@@ -8450,7 +8438,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.codux.com",
+    "url": "https://www.codux.com",
     "tags": [
       "React",
       "editor",
@@ -8463,7 +8451,7 @@
   },
   {
     "count": 1,
-    "domain": "https://kizu.dev",
+    "url": "https://kizu.dev",
     "tags": [
       "CSS",
       "article"
@@ -8475,7 +8463,7 @@
   },
   {
     "count": 1,
-    "domain": "https://module-federation.io",
+    "url": "https://module-federation.io",
     "tags": [
       "JavaScript",
       "MicroFrontend",
@@ -8488,7 +8476,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/lquixada/cross-fetch",
+    "url": "https://github.com/lquixada/cross-fetch",
     "tags": [
       "JavaScript",
       "browser",
@@ -8504,7 +8492,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.feelback.dev",
+    "url": "https://www.feelback.dev",
     "tags": [
       "webservice",
       "article",
@@ -8517,7 +8505,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/giuseppelt/httpc",
+    "url": "https://github.com/giuseppelt/httpc",
     "tags": [
       "TypeScript",
       "JavaScript",
@@ -8532,7 +8520,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/gibbok/typescript-book",
+    "url": "https://github.com/gibbok/typescript-book",
     "tags": [
       "TypeScript",
       "book",
@@ -8546,7 +8534,7 @@
   },
   {
     "count": 1,
-    "domain": "https://typescript-eslint.io",
+    "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
       "ESLint",
@@ -8559,7 +8547,7 @@
   },
   {
     "count": 1,
-    "domain": "https://kurtextrem.de",
+    "url": "https://kurtextrem.de",
     "tags": [
       "JavaScript",
       "SVG",
@@ -8573,7 +8561,7 @@
   },
   {
     "count": 1,
-    "domain": "https://boajs.dev",
+    "url": "https://boajs.dev",
     "tags": [
       "JavaScript",
       "Rust",
@@ -8586,7 +8574,7 @@
   },
   {
     "count": 1,
-    "domain": "https://katashin.info",
+    "url": "https://katashin.info",
     "tags": [
       "JavaScript",
       "CSS",
@@ -8600,7 +8588,7 @@
   },
   {
     "count": 1,
-    "domain": "https://scroll-driven-animations.style",
+    "url": "https://scroll-driven-animations.style",
     "tags": [
       "JavaScript",
       "CSS",
@@ -8614,7 +8602,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/mdx-editor/editor",
+    "url": "https://github.com/mdx-editor/editor",
     "tags": [
       "Markdown",
       "JavaScript",
@@ -8628,7 +8616,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/patriksimek/vm2",
+    "url": "https://github.com/patriksimek/vm2",
     "tags": [
       "node.js",
       "security",
@@ -8644,7 +8632,7 @@
   },
   {
     "count": 1,
-    "domain": "https://davidwalsh.name",
+    "url": "https://davidwalsh.name",
     "tags": [
       "JavaScript",
       "URL",
@@ -8657,7 +8645,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/kamranahmedse/driver.js",
+    "url": "https://github.com/kamranahmedse/driver.js",
     "tags": [
       "JavaScript",
       "ReleaseNote",
@@ -8671,7 +8659,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/coderaiser/putout",
+    "url": "https://github.com/coderaiser/putout",
     "tags": [
       "JavaScript",
       "AST",
@@ -8685,7 +8673,7 @@
   },
   {
     "count": 1,
-    "domain": "https://pkg-size.dev",
+    "url": "https://pkg-size.dev",
     "tags": [
       "npm",
       "webservice",
@@ -8698,7 +8686,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/fabian-hiller/valibot",
+    "url": "https://github.com/fabian-hiller/valibot",
     "tags": [
       "TypeScript",
       "library"
@@ -8711,7 +8699,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/wakamsha/",
+    "url": "https://zenn.dev/wakamsha/",
     "tags": [
       "ESLint",
       "article"
@@ -8723,7 +8711,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tech.repro.io",
+    "url": "https://tech.repro.io",
     "tags": [
       "ServiceWorker",
       "article",
@@ -8736,7 +8724,7 @@
   },
   {
     "count": 1,
-    "domain": "https://techblog.yahoo.co.jp",
+    "url": "https://techblog.yahoo.co.jp",
     "tags": [
       "browser",
       "performance"
@@ -8748,7 +8736,7 @@
   },
   {
     "count": 1,
-    "domain": "https://remotesynthesis.com",
+    "url": "https://remotesynthesis.com",
     "tags": [
       "community",
       "JavaScript",
@@ -8761,7 +8749,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dagster.io",
+    "url": "https://dagster.io",
     "tags": [
       "React",
       "performance",
@@ -8774,7 +8762,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.mux.com",
+    "url": "https://www.mux.com",
     "tags": [
       "React",
       "article"
@@ -8786,7 +8774,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/KittyGiraudel/a11y-dialog",
+    "url": "https://github.com/KittyGiraudel/a11y-dialog",
     "tags": [
       "UI",
       "accessibility",
@@ -8800,7 +8788,7 @@
   },
   {
     "count": 1,
-    "domain": "https://npmgraph.js.org",
+    "url": "https://npmgraph.js.org",
     "tags": [
       "npm",
       "webservice",
@@ -8813,7 +8801,7 @@
   },
   {
     "count": 1,
-    "domain": "https://practica.dev",
+    "url": "https://practica.dev",
     "tags": [
       "JavaScript",
       "program",
@@ -8827,7 +8815,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/kazupon/",
+    "url": "https://speakerdeck.com/kazupon/",
     "tags": [
       "Vue",
       "slide"
@@ -8839,7 +8827,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.appsignal.com",
+    "url": "https://blog.appsignal.com",
     "tags": [
       "puppeteer",
       "article"
@@ -8851,7 +8839,7 @@
   },
   {
     "count": 1,
-    "domain": "https://gist.github.com/andrewbranch",
+    "url": "https://gist.github.com/andrewbranch",
     "tags": [
       "TypeScript",
       "article"
@@ -8864,7 +8852,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.getcontrast.io",
+    "url": "https://www.getcontrast.io",
     "tags": [
       "JavaScript",
       "Chrome",
@@ -8877,7 +8865,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.patrickweaver.net",
+    "url": "https://www.patrickweaver.net",
     "tags": [
       "HTML",
       "article"
@@ -8889,7 +8877,7 @@
   },
   {
     "count": 1,
-    "domain": "https://security.googleblog.com",
+    "url": "https://security.googleblog.com",
     "tags": [
       "Chrome",
       "security",
@@ -8902,7 +8890,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vega/ts-json-schema-generator",
+    "url": "https://github.com/vega/ts-json-schema-generator",
     "tags": [
       "TypeScript",
       "library",
@@ -8916,7 +8904,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/recruitengineers/",
+    "url": "https://speakerdeck.com/recruitengineers/",
     "tags": [
       "React",
       "slide"
@@ -8928,7 +8916,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
     "tags": [
       "Next.js",
       "ReleaseNote"
@@ -8941,7 +8929,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/alvarlagerlof/rsc-parser",
+    "url": "https://github.com/alvarlagerlof/rsc-parser",
     "tags": [
       "Chrome",
       "Extension",
@@ -8956,7 +8944,7 @@
   },
   {
     "count": 1,
-    "domain": "https://alttexthalloffame.org",
+    "url": "https://alttexthalloffame.org",
     "tags": [
       "accessibility",
       "HTML",
@@ -8969,7 +8957,7 @@
   },
   {
     "count": 1,
-    "domain": "https://frontendmasters.com",
+    "url": "https://frontendmasters.com",
     "tags": [
       "JavaScript",
       "article"
@@ -8981,7 +8969,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/parcel-bundler/watcher",
+    "url": "https://github.com/parcel-bundler/watcher",
     "tags": [
       "nodejs",
       "C++",
@@ -8996,7 +8984,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nodejs/corepack",
+    "url": "https://github.com/nodejs/corepack",
     "tags": [
       "nodejs",
       "Tools",
@@ -9010,7 +8998,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/withastro/astro",
+    "url": "https://github.com/withastro/astro",
     "tags": [
       "astro",
       "JavaScript",
@@ -9025,7 +9013,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/aerotoad/neboa",
+    "url": "https://github.com/aerotoad/neboa",
     "tags": [
       "nodejs",
       "SQLite",
@@ -9040,7 +9028,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.specfy.io",
+    "url": "https://www.specfy.io",
     "tags": [
       "Docker",
       "article",
@@ -9053,7 +9041,7 @@
   },
   {
     "count": 1,
-    "domain": "https://maximorlov.com",
+    "url": "https://maximorlov.com",
     "tags": [
       "JavaScript",
       "ESLint",
@@ -9066,7 +9054,7 @@
   },
   {
     "count": 1,
-    "domain": "https://modernjs.dev",
+    "url": "https://modernjs.dev",
     "tags": [
       "JavaScript",
       "library",
@@ -9079,7 +9067,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/web-infra-dev/wg",
+    "url": "https://github.com/web-infra-dev/wg",
     "tags": [
       "JavaScript",
       "bundler",
@@ -9094,7 +9082,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nitrogql.vercel.app",
+    "url": "https://nitrogql.vercel.app",
     "tags": [
       "GraphQL",
       "Tools",
@@ -9110,7 +9098,7 @@
   },
   {
     "count": 1,
-    "domain": "https://mofi.loud.red",
+    "url": "https://mofi.loud.red",
     "tags": [
       "WebAssembly",
       "webworker",
@@ -9124,7 +9112,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/actions/checkout",
+    "url": "https://github.com/actions/checkout",
     "tags": [
       "Github",
       "Actions",
@@ -9139,7 +9127,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/measuredco/puck",
+    "url": "https://github.com/measuredco/puck",
     "tags": [
       "React",
       "editor ",
@@ -9153,7 +9141,7 @@
   },
   {
     "count": 1,
-    "domain": "https://dropbox.tech",
+    "url": "https://dropbox.tech",
     "tags": [
       "JavaScript",
       "bundler",
@@ -9166,7 +9154,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nebrelbug/npm-to-yarn",
+    "url": "https://github.com/nebrelbug/npm-to-yarn",
     "tags": [
       "npm",
       "yarn",
@@ -9182,7 +9170,7 @@
   },
   {
     "count": 1,
-    "domain": "https://2023.stateofcss.com",
+    "url": "https://2023.stateofcss.com",
     "tags": [
       "CSS",
       "Survey"
@@ -9194,7 +9182,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nodejs/Release",
+    "url": "https://github.com/nodejs/Release",
     "tags": [
       "nodejs",
       "news"
@@ -9207,7 +9195,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/isaacs/tshy",
+    "url": "https://github.com/isaacs/tshy",
     "tags": [
       "TypeScript",
       "Tools"
@@ -9220,7 +9208,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.next-nav.com",
+    "url": "https://www.next-nav.com",
     "tags": [
       "Next.js",
       "VSCode",
@@ -9233,7 +9221,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nuejs/nuejs",
+    "url": "https://github.com/nuejs/nuejs",
     "tags": [
       "JavaScript",
       "UI",
@@ -9248,7 +9236,7 @@
   },
   {
     "count": 1,
-    "domain": "https://abduvik.medium.com",
+    "url": "https://abduvik.medium.com",
     "tags": [
       "Chrome",
       "debug",
@@ -9261,7 +9249,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/eslint-stylistic/eslint-stylistic",
+    "url": "https://github.com/eslint-stylistic/eslint-stylistic",
     "tags": [
       "ESLint",
       "plugin"
@@ -9274,7 +9262,7 @@
   },
   {
     "count": 1,
-    "domain": "https://ladle.dev",
+    "url": "https://ladle.dev",
     "tags": [
       "JavaScript",
       "testing",
@@ -9288,7 +9276,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/kurtextrem/awesome-performance-patches",
+    "url": "https://github.com/kurtextrem/awesome-performance-patches",
     "tags": [
       "JavaScript",
       "HTML",
@@ -9304,7 +9292,7 @@
   },
   {
     "count": 1,
-    "domain": "https://vike.dev",
+    "url": "https://vike.dev",
     "tags": [
       "vite",
       "plugin",
@@ -9317,7 +9305,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.sbcr.jp",
+    "url": "https://www.sbcr.jp",
     "tags": [
       "React",
       "Next.js",
@@ -9330,7 +9318,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/taisei_13046/",
+    "url": "https://zenn.dev/taisei_13046/",
     "tags": [
       "React",
       "article",
@@ -9343,7 +9331,7 @@
   },
   {
     "count": 1,
-    "domain": "https://taro.codes",
+    "url": "https://taro.codes",
     "tags": [
       "JavaScript",
       "ECMAScript",
@@ -9356,7 +9344,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/runk/node-chardet",
+    "url": "https://github.com/runk/node-chardet",
     "tags": [
       "JavaScript",
       "library"
@@ -9369,7 +9357,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/instant-dev/instant",
+    "url": "https://github.com/instant-dev/instant",
     "tags": [
       "JavaScript",
       "library",
@@ -9383,7 +9371,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/aidenybai/pattycake",
+    "url": "https://github.com/aidenybai/pattycake",
     "tags": [
       "TypeScript",
       "Tools",
@@ -9397,7 +9385,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/tldraw/tldraw",
+    "url": "https://github.com/tldraw/tldraw",
     "tags": [
       "JavaScript",
       "library",
@@ -9413,7 +9401,7 @@
   },
   {
     "count": 1,
-    "domain": "https://prateeksurana.me",
+    "url": "https://prateeksurana.me",
     "tags": [
       "React",
       "Remix",
@@ -9427,7 +9415,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/nksaraf/vinxi",
+    "url": "https://github.com/nksaraf/vinxi",
     "tags": [
       "vite",
       "server",
@@ -9441,7 +9429,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/arktypeio/arktype",
+    "url": "https://github.com/arktypeio/arktype",
     "tags": [
       "TypeScript",
       "library"
@@ -9454,7 +9442,7 @@
   },
   {
     "count": 1,
-    "domain": "https://viteconf.org",
+    "url": "https://viteconf.org",
     "tags": [
       "vite",
       "Conference",
@@ -9467,7 +9455,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.sonarsource.com",
+    "url": "https://www.sonarsource.com",
     "tags": [
       "JavaScript",
       "RegExp",
@@ -9480,7 +9468,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.softwareatscale.dev",
+    "url": "https://www.softwareatscale.dev",
     "tags": [
       "nodejs",
       "Promises",
@@ -9494,7 +9482,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/react-hookz/web",
+    "url": "https://github.com/react-hookz/web",
     "tags": [
       "React",
       "library"
@@ -9507,7 +9495,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/elbywan/zap",
+    "url": "https://github.com/elbywan/zap",
     "tags": [
       "npm",
       "package",
@@ -9522,7 +9510,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zackoverflow.dev",
+    "url": "https://zackoverflow.dev",
     "tags": [
       "TypeScript",
       "article"
@@ -9534,7 +9522,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/orgs/web-infra-dev",
+    "url": "https://github.com/orgs/web-infra-dev",
     "tags": [
       "Rust",
       "document",
@@ -9549,7 +9537,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.scottlogic.com",
+    "url": "https://blog.scottlogic.com",
     "tags": [
       "WebAssembly",
       "Survey"
@@ -9561,7 +9549,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tanstack.com",
+    "url": "https://tanstack.com",
     "tags": [
       "React",
       "Vue",
@@ -9578,7 +9566,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/AlexSergey/rockpack",
+    "url": "https://github.com/AlexSergey/rockpack",
     "tags": [
       "React",
       "Tools",
@@ -9593,7 +9581,7 @@
   },
   {
     "count": 1,
-    "domain": "https://portal.gitnation.org",
+    "url": "https://portal.gitnation.org",
     "tags": [
       "TypeScript",
       "video",
@@ -9606,7 +9594,7 @@
   },
   {
     "count": 1,
-    "domain": "https://yarnpkg.com",
+    "url": "https://yarnpkg.com",
     "tags": [
       "yarn",
       "ReleaseNote"
@@ -9618,7 +9606,7 @@
   },
   {
     "count": 1,
-    "domain": "https://sindresorhus.com",
+    "url": "https://sindresorhus.com",
     "tags": [
       "nodejs",
       "opinion",
@@ -9631,7 +9619,7 @@
   },
   {
     "count": 1,
-    "domain": "https://binary-studio.com",
+    "url": "https://binary-studio.com",
     "tags": [
       "JavaScript",
       "ECMAScript",
@@ -9645,7 +9633,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/nakaakist/",
+    "url": "https://zenn.dev/nakaakist/",
     "tags": [
       "vite",
       "parcel",
@@ -9662,7 +9650,7 @@
   },
   {
     "count": 1,
-    "domain": "https://mswjs.io",
+    "url": "https://mswjs.io",
     "tags": [
       "JavaScript",
       "testing",
@@ -9676,7 +9664,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/joshmarinacci/node-pureimage",
+    "url": "https://github.com/joshmarinacci/node-pureimage",
     "tags": [
       "nodejs",
       "JavaScript",
@@ -9690,7 +9678,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/punkshiraishi/",
+    "url": "https://zenn.dev/punkshiraishi/",
     "tags": [
       "Vue",
       "Conference",
@@ -9703,7 +9691,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/facebook/docusaurus",
+    "url": "https://github.com/facebook/docusaurus",
     "tags": [
       "React",
       "document",
@@ -9718,7 +9706,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/farm-fe/farm",
+    "url": "https://github.com/farm-fe/farm",
     "tags": [
       "vite",
       "rollup",
@@ -9735,7 +9723,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/oxc-project/javascript-parser-in-rust",
+    "url": "https://github.com/oxc-project/javascript-parser-in-rust",
     "tags": [
       "JavaScript",
       "AST",
@@ -9750,7 +9738,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nodesource.com",
+    "url": "https://nodesource.com",
     "tags": [
       "nodejs",
       "OpenSource",
@@ -9763,7 +9751,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speedvitals.com",
+    "url": "https://speedvitals.com",
     "tags": [
       "webservice",
       "performance",
@@ -9776,7 +9764,7 @@
   },
   {
     "count": 1,
-    "domain": "https://phuoc.ng",
+    "url": "https://phuoc.ng",
     "tags": [
       "JavaScript",
       "DOM",
@@ -9790,7 +9778,7 @@
   },
   {
     "count": 1,
-    "domain": "https://medium.com/miro-engineering/",
+    "url": "https://medium.com/miro-engineering/",
     "tags": [
       "browser",
       "security",
@@ -9803,7 +9791,7 @@
   },
   {
     "count": 1,
-    "domain": "https://rviscomi.dev",
+    "url": "https://rviscomi.dev",
     "tags": [
       "Chrome",
       "performance",
@@ -9816,7 +9804,7 @@
   },
   {
     "count": 1,
-    "domain": "https://daily.dev",
+    "url": "https://daily.dev",
     "tags": [
       "React",
       "article",
@@ -9829,7 +9817,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/vvo/iron-session",
+    "url": "https://github.com/vvo/iron-session",
     "tags": [
       "JavaScript",
       "Next.js",
@@ -9844,7 +9832,7 @@
   },
   {
     "count": 1,
-    "domain": "https://speakerdeck.com/sajikix/",
+    "url": "https://speakerdeck.com/sajikix/",
     "tags": [
       "i18n",
       "JavaScript",
@@ -9858,7 +9846,7 @@
   },
   {
     "count": 1,
-    "domain": "https://majors.nullvoxpopuli.com",
+    "url": "https://majors.nullvoxpopuli.com",
     "tags": [
       "npm",
       "webservice",
@@ -9871,7 +9859,7 @@
   },
   {
     "count": 1,
-    "domain": "https://thevalleyofcode.com",
+    "url": "https://thevalleyofcode.com",
     "tags": [
       "JavaScript",
       "CSS",
@@ -9886,7 +9874,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/css-hooks/css-hooks",
+    "url": "https://github.com/css-hooks/css-hooks",
     "tags": [
       "JavaScript",
       "CSS",
@@ -9901,7 +9889,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/cosmiconfig/cosmiconfig",
+    "url": "https://github.com/cosmiconfig/cosmiconfig",
     "tags": [
       "nodejs",
       "library",
@@ -9915,7 +9903,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nodedownloads.nodeland.dev",
+    "url": "https://nodedownloads.nodeland.dev",
     "tags": [
       "nodejs",
       "webservice"
@@ -9927,7 +9915,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/architect/aws-lite",
+    "url": "https://github.com/architect/aws-lite",
     "tags": [
       "aws",
       "JavaScript",
@@ -9941,7 +9929,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/unjs/unenv",
+    "url": "https://github.com/unjs/unenv",
     "tags": [
       "nodejs",
       "JavaScript",
@@ -9956,7 +9944,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/facebook/stylex",
+    "url": "https://github.com/facebook/stylex",
     "tags": [
       "JavaScript",
       "CSS",
@@ -9970,7 +9958,7 @@
   },
   {
     "count": 1,
-    "domain": "https://scrapbox.io",
+    "url": "https://scrapbox.io",
     "tags": [
       "CSS",
       "slide"
@@ -9982,7 +9970,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/sindresorhus/got",
+    "url": "https://github.com/sindresorhus/got",
     "tags": [
       "nodejs",
       "HTTP",
@@ -9997,7 +9985,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/zawa_kyo/",
+    "url": "https://zenn.dev/zawa_kyo/",
     "tags": [
       "npm",
       "article"
@@ -10009,7 +9997,7 @@
   },
   {
     "count": 1,
-    "domain": "https://oxc-project.github.io",
+    "url": "https://oxc-project.github.io",
     "tags": [
       "ESLint",
       "JavaScript",
@@ -10023,7 +10011,7 @@
   },
   {
     "count": 1,
-    "domain": "https://onyxlang.io",
+    "url": "https://onyxlang.io",
     "tags": [
       "WebAssembly",
       "program"
@@ -10035,7 +10023,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/BuilderIO/hydration-overlay",
+    "url": "https://github.com/BuilderIO/hydration-overlay",
     "tags": [
       "React",
       "debug",
@@ -10049,7 +10037,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/urotea/",
+    "url": "https://zenn.dev/urotea/",
     "tags": [
       "Next.js",
       "GraphQL",
@@ -10062,7 +10050,7 @@
   },
   {
     "count": 1,
-    "domain": "https://user-first.ikyu.co.jp",
+    "url": "https://user-first.ikyu.co.jp",
     "tags": [
       "Next.js",
       "Remix",
@@ -10075,7 +10063,7 @@
   },
   {
     "count": 1,
-    "domain": "https://developers.prtimes.jp",
+    "url": "https://developers.prtimes.jp",
     "tags": [
       "Next.js",
       "article"
@@ -10087,7 +10075,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tastejs.com",
+    "url": "https://tastejs.com",
     "tags": [
       "JavaScript",
       "library",
@@ -10100,7 +10088,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/date-fns/date-fns",
+    "url": "https://github.com/date-fns/date-fns",
     "tags": [
       "JavaScript",
       "library",
@@ -10114,7 +10102,7 @@
   },
   {
     "count": 1,
-    "domain": "https://nsaunders.dev",
+    "url": "https://nsaunders.dev",
     "tags": [
       "CSS",
       "article"
@@ -10126,7 +10114,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/webui-dev/webui",
+    "url": "https://github.com/webui-dev/webui",
     "tags": [
       "webview",
       "browser",
@@ -10140,7 +10128,7 @@
   },
   {
     "count": 1,
-    "domain": "https://tsdocs.dev",
+    "url": "https://tsdocs.dev",
     "tags": [
       "TypeScript",
       "npm",
@@ -10154,7 +10142,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.htmhell.dev",
+    "url": "https://www.htmhell.dev",
     "tags": [
       "performance",
       "article"
@@ -10166,7 +10154,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/moment/moment",
+    "url": "https://github.com/moment/moment",
     "tags": [
       "JavaScript",
       "library",
@@ -10180,7 +10168,7 @@
   },
   {
     "count": 1,
-    "domain": "https://blog.osstech.co.jp",
+    "url": "https://blog.osstech.co.jp",
     "tags": [
       "Svelte",
       "vite",
@@ -10193,7 +10181,7 @@
   },
   {
     "count": 1,
-    "domain": "https://github.com/speed-highlight/core",
+    "url": "https://github.com/speed-highlight/core",
     "tags": [
       "JavaScript",
       "library"
@@ -10206,7 +10194,7 @@
   },
   {
     "count": 1,
-    "domain": "https://quick-lint-js.com",
+    "url": "https://quick-lint-js.com",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -10220,7 +10208,7 @@
   },
   {
     "count": 1,
-    "domain": "https://pagefind.app",
+    "url": "https://pagefind.app",
     "tags": [
       "JavaScript",
       "Rust",
@@ -10235,7 +10223,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/uki00a/",
+    "url": "https://zenn.dev/uki00a/",
     "tags": [
       "deno",
       "article"
@@ -10247,7 +10235,7 @@
   },
   {
     "count": 1,
-    "domain": "https://julesblom.com",
+    "url": "https://julesblom.com",
     "tags": [
       "React",
       "article"
@@ -10259,7 +10247,7 @@
   },
   {
     "count": 1,
-    "domain": "https://zenn.dev/yamachan0625/",
+    "url": "https://zenn.dev/yamachan0625/",
     "tags": [
       "DDD",
       "TypeScript",
@@ -10272,7 +10260,7 @@
   },
   {
     "count": 1,
-    "domain": "https://ubugeeei.github.io",
+    "url": "https://ubugeeei.github.io",
     "tags": [
       "Vue",
       "JavaScript",
