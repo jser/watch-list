@@ -29,7 +29,7 @@ export const Item = (props: ItemProps) => {
         <div className={"Item"}>
             <div className={"Item-Main"}>
                 <h3>
-                    <a href={props.domain}>{props.domain}</a>
+                    <a href={props.url}>{props.url}</a>
                     {props.rssUrl ? (
                         <a href={props.rssUrl} className={"Item-RSS"}>
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -87,7 +87,7 @@ export const App = () => {
             ) : undefined}
 
             {state.items.map((item) => (
-                <Item {...item} key={item.domain} toggleTag={toggleTag} />
+                <Item {...item} key={item.url} toggleTag={toggleTag} />
             ))}
         </div>
     );

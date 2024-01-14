@@ -7,7 +7,7 @@ import * as fs from "fs";
 const DATA_DIR = path.join(__dirname, "../data");
 export type WebItem = {
     count: number;
-    domain: string;
+    url: string;
     tags: string[];
     example: {
         title: string;
@@ -18,11 +18,11 @@ export type WebItem = {
 const main = async () => {
     const webList: WebItem[] = [];
     for (const item of watchList) {
-        const rssItem = rssList.find((rss) => rss.domain === item.domain);
+        const rssItem = rssList.find((rss) => rss.url === item.url);
         const rssUrl = rssItem?.feeds[0];
         const webItem: WebItem = {
             count: item.count,
-            domain: item.domain,
+            url: item.url,
             tags: item.tags,
             example: item.example,
             rssUrl

@@ -4,6 +4,16 @@ import type { WatchItem } from "./watch-list";
 import { chromium } from "playwright";
 
 const DATA_DIR = path.join(__dirname, "../data");
+// RSSとしては扱わないサイト
+// ニュースサイト、RSS向きではないサイト、フォーラム、流量が多すぎるサイトは除外する
+const IGNORE_RSS_DOMAINS = [
+    // 汎用ニュースサイト
+    "www.theverge.com",
+    // コミュニティ
+    "community.redwoodjs.com",
+    // 流量が多い
+    "scrapbox.io"
+];
 // get RSS feed from the url
 const RSS_LINK_TYPES = [
     "application/rss+xml",
@@ -64,7 +74,7 @@ export const getFeeds = async (url: string) => {
     });
 };
 type FeedItem = {
-    domain: string;
+    url: string;
     feeds: string[];
 };
 // data/feed-list.json as storage
@@ -100,7 +110,7 @@ const createOPML = (feeds: FeedItem[]) => {
     const body = feeds
         .map((feed) => {
             // remove https:// or http://
-            const title = feed.domain.replace(/^https?:\/\//, "");
+            const title = feed.url.replace(/^https?:\/\//, "");
             const xmlUrl = feed.feeds[0];
             return `<outline text="${escapeXML(title)}" title="${escapeXML(title)}" type="rss" xmlUrl="${xmlUrl}"/>`;
         })
@@ -125,7 +135,7 @@ const main = async () => {
     const watchList: WatchItem[] = JSON.parse(await fs.readFile(path.join(DATA_DIR, "watch-list.json"), "utf8"));
     const feeds = await storage.get();
     const pAll = await import("p-all").then((m) => m.default);
-    const feedsMap = new Map(feeds.map((feed) => [feed.domain, feed]));
+    const feedsMap = new Map(feeds.map((feed) => [feed.url, feed]));
     const newFeeds: FeedItem[] = [];
     const processItem = async (
         item: WatchItem,
@@ -133,25 +143,30 @@ const main = async () => {
             logNamespace: string;
         }
     ) => {
-        const { domain, rssUrl } = item;
-        const cached = feedsMap.get(domain);
+        const { url, rssUrl } = item;
+        const domain = new URL(url).hostname;
+        if (IGNORE_RSS_DOMAINS.includes(domain)) {
+            console.debug(`[${meta.logNamespace}] Ignore domain`, url);
+            return;
+        }
+        const cached = feedsMap.get(url);
         if (cached) {
-            console.debug(`[${meta.logNamespace}] Hit cache`, domain, cached.feeds);
+            console.debug(`[${meta.logNamespace}] Hit cache`, url, cached.feeds);
             return cached;
         }
         if (rssUrl) {
-            console.debug(`[${meta.logNamespace}] Hit rssUrl`, domain, rssUrl);
+            console.debug(`[${meta.logNamespace}] Hit rssUrl`, url, rssUrl);
             return {
-                domain: domain,
+                url,
                 feeds: [rssUrl]
             };
         }
-        console.debug(`[${meta.logNamespace}] try feed from domain`, domain);
-        const feeds = await getFeeds(domain).catch(() => []);
+        console.debug(`[${meta.logNamespace}] try feed from url`, url);
+        const feeds = await getFeeds(url).catch(() => []);
         if (feeds.length > 0) {
-            console.debug(`[${meta.logNamespace}] Got feeds`, domain, feeds);
+            console.debug(`[${meta.logNamespace}] Got feeds`, url, feeds);
             return {
-                domain: domain,
+                url,
                 feeds
             };
         }
@@ -170,11 +185,11 @@ const main = async () => {
         if (feedsForExample.length > 0) {
             console.debug(`[${meta.logNamespace}] Got feeds for example`, item.example.url, feedsForExample);
             return {
-                domain: item.domain,
+                url,
                 feeds: feedsForExample
             };
         }
-        console.debug(`[${meta.logNamespace}] No feeds`, domain);
+        console.debug(`[${meta.logNamespace}] No feeds`, url);
         return;
     };
     const promises = watchList.map((item, index) => {

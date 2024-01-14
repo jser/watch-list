@@ -5,9 +5,12 @@ import groupBy from "lodash.groupby";
 import * as fs from "fs";
 import path from "path";
 
+// 汎用的すぎるサイトは除外
+const ignoreDomains: string[] = ["npmjs.com", "shop.oreilly.com", "oreilly.co.jp", "amazon.com", "www.amazon.co.jp"];
+
 export type WatchItem = {
     count: number;
-    domain: string;
+    url: string;
     tags: string[];
     example: {
         title: string;
@@ -140,21 +143,12 @@ const Rules: RuleItem[] = [
         ]
     }
 ];
-const ignoreDomains: string[] = [
-    // "github.com",
-    "npmjs.com",
-    "shop.oreilly.com",
-    "oreilly.co.jp",
-    "amazon.com",
-    "www.amazon.co.jp"
-];
-
 export const createInfo = (item: JserItem) => {
     for (const rule of Rules) {
         const matchRule = rule.match(item);
         if (matchRule) {
             return {
-                domain: rule.url({ item, match: matchRule }),
+                url: rule.url({ item, match: matchRule }),
                 item,
                 rssUrl: rule.rssUrl ? rule.rssUrl({ item, match: matchRule }) : undefined
             };
@@ -163,7 +157,7 @@ export const createInfo = (item: JserItem) => {
     // default
     return {
         title: item.title,
-        domain: new URL(item.url).origin.replace(/^https?/, "https"),
+        url: new URL(item.url).origin.replace(/^https?/, "https"),
         item
     };
 };
@@ -178,7 +172,7 @@ export const collection = async ({ since }: { since: Date }) => {
     });
     return groupBy(
         filteredItems.map((item) => createInfo(item)),
-        (r) => r.domain
+        (r) => r.url
     );
 };
 
@@ -196,9 +190,9 @@ const assertRules = () => {
                 content: ""
             });
             // assert
-            const { domain, rssUrl } = info;
-            if (domain !== test.expected.url) {
-                throw new Error(`url not match: ${domain} !== ${test.expected.url}`);
+            const { url, rssUrl } = info;
+            if (url !== test.expected.url) {
+                throw new Error(`url not match: ${url} !== ${test.expected.url}`);
             }
             if (rssUrl !== test.expected.rssUrl) {
                 throw new Error(`rssUrl not match: ${rssUrl} !== ${test.expected.rssUrl}`);
@@ -224,7 +218,7 @@ if (require.main === module) {
                 }
                 results.push({
                     count: items.length,
-                    domain: domain,
+                    url: domain,
                     tags: Array.from(new Set(items.flatMap((item) => item.item.tags || []))),
                     example: {
                         title: latestItem.item.title,
