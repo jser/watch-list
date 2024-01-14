@@ -124,6 +124,7 @@ export const storage = {
 const main = async () => {
     const watchList: WatchItem[] = JSON.parse(await fs.readFile(path.join(DATA_DIR, "watch-list.json"), "utf8"));
     const feeds = await storage.get();
+    const pAll = await import("p-all").then((m) => m.default);
     const feedsMap = new Map(feeds.map((feed) => [feed.domain, feed]));
     const newFeeds: FeedItem[] = [];
     const processItem = async (item: WatchItem) => {
@@ -171,12 +172,15 @@ const main = async () => {
         console.debug("No feeds", domain);
         return;
     };
-    for (const item of watchList) {
-        const feedItem = await processItem(item);
-        if (feedItem) {
-            newFeeds.push(feedItem);
-        }
-    }
+    const promises = watchList.map((item) => {
+        return async function processWork() {
+            const feedItem = await processItem(item);
+            if (feedItem) {
+                newFeeds.push(feedItem);
+            }
+        };
+    });
+    await pAll(promises, { concurrency: 8 });
     await storage.set(newFeeds);
 };
 
