@@ -25,11 +25,16 @@ jobs:
         run: yarn install
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
+      - name: Prev Summary
+        run: node summary.js --title "Prev SUMMARY" >> $GITHUB_STEP_SUMMARY
       # update data
       - name: Generate data
         run: yarn run update-data
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
+      # summary to GITHUB_SUMMARY
+      - name: Post Generated summary
+        run: node summary.js --title "Post SUMMARY" >> $GITHUB_STEP_SUMMARY
       # deploy
       - name: Generate website
         run: yarn run website

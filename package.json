@@ -36,6 +36,7 @@
     "gen:web-list": "ts-node src/web-list.ts",
     "gen:opml-list": "ts-node src/opml-list.ts",
     "update-data": "npm run gen:watch-list && npm run gen:rss-list && npm run gen:opml-list && npm run gen:web-list",
+    "summary": "node summary.mjs",
     "build": "webpack --mode production && cp -r data/ dist/data/",
     "dev": "npm run gen:watch-list && webpack serve --mode development",
     "clean": "rimraf lib/ module/",
