@@ -24,27 +24,26 @@ graph TD
 
 ### Watch List
 
-- Collect items in 2-years
-- Count by item's domain and sort it
-- Save to `data/watch-list.json`
-- Display items by count order
+1. Collect items in 2-years
+2. Count by item's domain and sort it
+3. Save to `data/watch-list.json`
 - FILTER: 
   - 汎用サイトは除外
 
-### RSS Feeds
+### Feed List
 
-- Generate Watch List
-- Visit each item's page and get RSS feeds
-- Save RSS feeds to `data/feed-list.json` and `data/feed-list.opml`
+1. Generate Watch List
+2. Visit each item's page and get RSS feeds
+3. Save RSS feeds to `data/feed-list.json` and `data/feed-list.opml`
 
 📝 `data/feed-list.json` を直接編集することで、RSSフィードを手動でも変更できる。
 更新時は一度入ったフィードはずっと残るので、変更は手動で対応する必要がある。
 
 ### OPML List
 
-- Generate OPML file from `data/feed-list.json`
-- Save OPML file to `data/opml-list.opml`
-- Save OPML as JSON to `data/opml-list.json`
+1. Generate OPML data from `data/feed-list.json`
+2. Save OPML file to `data/opml-list.opml`
+3. Save OPML as JSON to `data/opml-list.json`
 - FILTER: 
   - 購読向きのサイトのみに絞る 
   - 汎用ニュースは除外
