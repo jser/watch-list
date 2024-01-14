@@ -2082,6 +2082,12 @@
     ]
   },
   {
+    "domain": "https://www.docswell.com/user/ockeghem",
+    "feeds": [
+      "https://www.docswell.com/user/ockeghem/feed"
+    ]
+  },
+  {
     "domain": "https://github.com/mozilla/pdf.js",
     "feeds": [
       "https://github.com/mozilla/pdf.js/releases.atom"

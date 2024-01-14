@@ -5887,7 +5887,7 @@
   },
   {
     "count": 1,
-    "domain": "https://www.docswell.com",
+    "domain": "https://www.docswell.com/user/ockeghem",
     "tags": [
       "JavaScript",
       "browser",
@@ -5899,7 +5899,8 @@
     "example": {
       "title": "SPAセキュリティ超入門 | ドクセル",
       "url": "https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022"
-    }
+    },
+    "rssUrl": "https://www.docswell.com/user/ockeghem/feed"
   },
   {
     "count": 1,
