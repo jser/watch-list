@@ -2082,9 +2082,9 @@
     ]
   },
   {
-    "domain": "https://www.docswell.com",
+    "domain": "https://www.docswell.com/user/ockeghem",
     "feeds": [
-      "https://www.docswell.com/feed/latest"
+      "https://www.docswell.com/user/ockeghem/feed"
     ]
   },
   {
