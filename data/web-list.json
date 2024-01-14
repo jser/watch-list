@@ -9515,7 +9515,8 @@
     "example": {
       "title": "The Hidden Performance Cost of NodeJS and GraphQL",
       "url": "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs"
-    }
+    },
+    "rssUrl": "https://api.substack.com/feed/podcast/55725.rss"
   },
   {
     "count": 1,
