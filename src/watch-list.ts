@@ -6,7 +6,15 @@ import * as fs from "fs";
 import path from "path";
 
 // 汎用的すぎるサイトは除外
-const ignoreDomains: string[] = ["npmjs.com", "shop.oreilly.com", "oreilly.co.jp", "amazon.com", "www.amazon.co.jp"];
+// 出版社やショッピングサイトなど
+const ignoreDomains: string[] = [
+    "npmjs.com",
+    "shop.oreilly.com",
+    "oreilly.co.jp",
+    "amazon.com",
+    "www.amazon.co.jp",
+    "www.shoeisha.co.jp"
+];
 
 export type WatchItem = {
     count: number;
