@@ -22,7 +22,14 @@ graph TD
     D --> E
 ```
 
+- Watch List: 2年間のJSer.infoの記事を集計したもの
+- Feed List: Watch Listに対応するRSSフィード
+- OPML List: 流量を調整したOPML
+- Web List: ウェブサイト用
+
 ### Watch List
+
+JSer.infoの記事を集計して、ウェブサイトのリストを生成する。
 
 1. Collect items in 2-years
 2. Count by item's domain and sort it
@@ -32,6 +39,8 @@ graph TD
 
 ### Feed List
 
+Watch Listから、各サイトのRSSフィードを取得してマッピングしたリストを生成する。
+
 1. Generate Watch List
 2. Visit each item's page and get RSS feeds
 3. Save RSS feeds to `data/feed-list.json` and `data/feed-list.opml`
@@ -40,6 +49,8 @@ graph TD
 更新時は一度入ったフィードはずっと残るので、変更は手動で対応する必要がある。
 
 ### OPML List
+
+Feed Listから、流量を調整したOPMLファイルを生成する。
 
 1. Generate OPML data from `data/feed-list.json`
 2. Save OPML file to `data/opml-list.opml`
@@ -53,12 +64,18 @@ graph TD
 
 ### Web List
 
+<https://jser.info/watch-list/> で利用するウェブサイト用のリストを生成する。
+
 1. Generate Watch List and Feed List
 2. Merge Watch List and RSS Feeds to `data/web-list.json`
 
-📝 It is optimized for Web Page
-
 ## Development
+
+Update Data:
+
+```
+npm run update-data
+```
 
 Run following command:
 

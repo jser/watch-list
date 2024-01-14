@@ -2,6 +2,7 @@ import * as fs from "node:fs/promises";
 import path from "node:path";
 import type { WatchItem } from "./watch-list";
 import { chromium } from "playwright";
+import { createOPML } from "./libs/to-opml";
 // get RSS feed from the url
 const DATA_DIR = path.join(__dirname, "../data");
 const RSS_LINK_TYPES = [
@@ -76,7 +77,9 @@ export const storage = {
         }
     },
     set: async (feeds: FeedItem[]) => {
-        await fs.writeFile(path.join(DATA_DIR, "feed-list.json"), JSON.stringify(feeds, null, 2));
+        await fs.writeFile(path.join(DATA_DIR, "feed-list.json"), JSON.stringify(feeds, null, 2), "utf8");
+        // opml - raw data for feed-list
+        await fs.writeFile(path.join(DATA_DIR, "feed-list.opml"), createOPML(feeds), "utf8");
     }
 };
 const main = async () => {
@@ -145,7 +148,7 @@ const main = async () => {
             }
         };
     });
-    await pAll(promises, { concurrency: 24 });
+    await pAll(promises, { concurrency: 8 });
     await storage.set(newFeeds);
 };
 

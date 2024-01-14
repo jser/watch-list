@@ -18,6 +18,15 @@ export const generateStaticSite = () => {
                 <title>JSer.info Watch List</title>
                 <meta name="description" content="JavaScript information source of JSer.info">
                 <style>${baseCSS}${appCSS}</style>
+                <!-- JSONLD: last updated-->
+                <script type="application/ld+json">
+                {
+                    "@context": "http://schema.org",
+                    "@type": "WebSite",
+                    "url": "https://jser.info/watch-list/",
+                    "dateModified": "${isoString}"
+                }
+                </script>
             </head>
             <body>
                 <header>

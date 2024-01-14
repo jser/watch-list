@@ -4,49 +4,7 @@ import { FeedItem } from "./rss-list";
 import FeedList from "../data/feed-list.json";
 import * as fs from "fs";
 import path from "path";
-
-const DATA_DIR = path.join(__dirname, "..", "data");
-const createOPML = (feeds: FeedItem[]) => {
-    const header = `<?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
-<head>
-    <title>JSer.info Watch List</title>
-</head>
-<body>
-`;
-    const footer = `
-</body>
-</opml>
-`;
-    const escapeXML = (text: string) => {
-        return text.replace(/[<>&'"]/g, (c) => {
-            switch (c) {
-                case "<":
-                    return "&lt;";
-                case ">":
-                    return "&gt;";
-                case "&":
-                    return "&amp;";
-                case "'":
-                    return "&apos;";
-                case '"':
-                    return "&quot;";
-            }
-            return c;
-        });
-    };
-    const body = feeds
-        .map((feed) => {
-            // remove https:// or http://
-            const title = feed.url.replace(/^https?:\/\//, "");
-            // 先頭のフィードがRSSフィードとして扱われる
-            // 本文、コメントとなってるケースが多いため
-            const xmlUrl = feed.feeds[0];
-            return `<outline text="${escapeXML(title)}" title="${escapeXML(title)}" type="rss" xmlUrl="${xmlUrl}"/>`;
-        })
-        .join("\n");
-    return header + body + footer;
-};
+import { createOPML } from "./libs/to-opml";
 
 // OPMLフィードには含めないサイト
 // ニュースサイト、RSS向きではないサイト、フォーラム、流量が多すぎるサイトは除外する
@@ -56,9 +14,11 @@ const EXCLUDE_OPML_FEEDS = [
     // コミュニティ
     "community.redwoodjs.com",
     // 流量が多い
-    "scrapbox.io"
+    "scrapbox.io",
+    // リリースノートの粒度にばらつきがあるので、流量が多い
+    "github.com"
 ];
-
+const DATA_DIR = path.join(__dirname, "..", "data");
 // フィードの重複を取り除く
 const filterDuplicate = (feeds: FeedItem[]) => {
     const usedFeedUrlSet = new Set<string>();
