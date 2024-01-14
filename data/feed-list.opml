@@ -511,7 +511,7 @@
 <outline text="practica.dev" title="practica.dev" type="rss" xmlUrl="https://practica.dev/blog/rss.xml"/>
 <outline text="speakerdeck.com/kazupon/" title="speakerdeck.com/kazupon/" type="rss" xmlUrl="https://speakerdeck.com/kazupon.atom"/>
 <outline text="blog.appsignal.com" title="blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
-<outline text="gist.github.com" title="gist.github.com" type="rss" xmlUrl="https://gist.github.com/starred.atom"/>
+<outline text="gist.github.com/andrewbranch" title="gist.github.com/andrewbranch" type="rss" xmlUrl="https://gist.github.com/andrewbranch.atom"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://security.googleblog.com/feeds/posts/default"/>
 <outline text="github.com/vega/ts-json-schema-generator" title="github.com/vega/ts-json-schema-generator" type="rss" xmlUrl="https://github.com/vega/ts-json-schema-generator/releases.atom"/>
 <outline text="speakerdeck.com/recruitengineers/" title="speakerdeck.com/recruitengineers/" type="rss" xmlUrl="https://speakerdeck.com/recruitengineers.atom"/>
