@@ -3858,7 +3858,8 @@
     "example": {
       "title": "Nuxt - Announcing Nuxt 3 Release Candidate",
       "url": "https://nuxtjs.org/announcements/nuxt3-rc/"
-    }
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -6509,7 +6510,8 @@
     "example": {
       "title": "Migrating from Vue 2 to Svelte",
       "url": "https://escape.tech/blog/from-vue2-to-svelte/"
-    }
+    },
+    "rssUrl": "https://escape.tech/blog/rss/"
   },
   {
     "count": 1,

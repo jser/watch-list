@@ -1,39 +1,9 @@
 [
   {
-    "url": "https://bun.sh",
+    "url": "https://00f.net",
     "feeds": [
-      "https://bun.sh/rss.xml"
-    ]
-  },
-  {
-    "url": "https://devblogs.microsoft.com",
-    "feeds": [
-      "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-    ]
-  },
-  {
-    "url": "https://astro.build",
-    "feeds": [
-      "https://astro.build/rss.xml"
-    ]
-  },
-  {
-    "url": "https://nodejs.org",
-    "feeds": [
-      "https://nodejs.org/en/feed/blog.xml"
-    ]
-  },
-  {
-    "url": "https://webkit.org",
-    "feeds": [
-      "https://webkit.org/feed/",
-      "https://webkit.org/feed/atom/"
-    ]
-  },
-  {
-    "url": "https://eslint.org",
-    "feeds": [
-      "https://eslint.org/feed.xml"
+      "https://00f.net/rss.xml",
+      "https://00f.net/atom.xml"
     ]
   },
   {
@@ -43,91 +13,35 @@
     ]
   },
   {
-    "url": "https://www.youtube.com",
+    "url": "https://abduvik.medium.com",
     "feeds": [
-      "https://www.youtube.com/feed/subscriptions",
-      "https://www.youtube.com/feed/you",
-      "https://www.youtube.com/feed/history",
-      "https://www.youtube.com/feed/trending",
-      "https://www.youtube.com/feed/trending"
+      "https://medium.com/feed/@abduvik"
     ]
   },
   {
-    "url": "https://blog.chromium.org",
+    "url": "https://accessibility.blog.gov.uk",
     "feeds": [
-      "http://blog.chromium.org/atom.xml"
+      "https://accessibility.blog.gov.uk/feed/"
     ]
   },
   {
-    "url": "https://www.electronjs.org",
+    "url": "https://almanac.httparchive.org",
     "feeds": [
-      "https://www.electronjs.org/blog/rss.xml",
-      "https://www.electronjs.org/blog/atom.xml"
+      "https://almanac.httparchive.org/en/rss.xml"
     ]
   },
   {
-    "url": "https://deno.com",
+    "url": "https://alttexthalloffame.org",
     "feeds": [
-      "https://deno.com/feed"
+      "https://alttexthalloffame.org/en/feed/",
+      "https://alttexthalloffame.org/en/comments/feed/",
+      "https://alttexthalloffame.org/sample-page/feed/"
     ]
   },
   {
-    "url": "https://ecmascript-daily.github.io",
+    "url": "https://astro.build",
     "feeds": [
-      "https://ecmascript-daily.github.io/atom.xml",
-      "https://ecmascript-daily.github.io/rss.xml"
-    ]
-  },
-  {
-    "url": "https://blog.emberjs.com",
-    "feeds": [
-      "https://blog.emberjs.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://blog.angular.io",
-    "feeds": [
-      "https://blog.angular.io/feed"
-    ]
-  },
-  {
-    "url": "https://storybook.js.org",
-    "feeds": [
-      "https://storybook.js.org/blog/rss/"
-    ]
-  },
-  {
-    "url": "https://gihyo.jp",
-    "feeds": [
-      "https://gihyo.jp/feed/rss1",
-      "https://gihyo.jp/feed/rss2",
-      "https://gihyo.jp/feed/atom"
-    ]
-  },
-  {
-    "url": "https://blog.vuejs.org",
-    "feeds": [
-      "https://blog.vuejs.org/feed.rss"
-    ]
-  },
-  {
-    "url": "https://prettier.io",
-    "feeds": [
-      "https://prettier.io/blog/atom.xml",
-      "https://prettier.io/blog/feed.xml"
-    ]
-  },
-  {
-    "url": "https://calendar.perfplanet.com",
-    "feeds": [
-      "https://calendar.perfplanet.com/feed/"
-    ]
-  },
-  {
-    "url": "https://reactnative.dev",
-    "feeds": [
-      "https://reactnative.dev/blog/rss.xml",
-      "https://reactnative.dev/blog/atom.xml"
+      "https://astro.build/rss.xml"
     ]
   },
   {
@@ -138,135 +52,15 @@
     ]
   },
   {
-    "url": "https://github.blog",
+    "url": "https://babylonjs.medium.com",
     "feeds": [
-      "https://github.blog/feed/",
-      "https://github.blog/comments/feed/"
+      "https://medium.com/feed/@babylonjs"
     ]
   },
   {
-    "url": "https://moonrepo.dev",
+    "url": "https://bhch.github.io",
     "feeds": [
-      "https://moonrepo.dev/blog/rss.xml",
-      "https://moonrepo.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.rspack.dev",
-    "feeds": [
-      "https://www.rspack.dev/rss/blog-en.rss"
-    ]
-  },
-  {
-    "url": "https://hacks.mozilla.org",
-    "feeds": [
-      "https://hacks.mozilla.org/feed/",
-      "https://hacks.mozilla.org/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://css-tricks.com",
-    "feeds": [
-      "https://css-tricks.com/feed/"
-    ]
-  },
-  {
-    "url": "https://efcl.info",
-    "feeds": [
-      "https://efcl.info/feed/"
-    ]
-  },
-  {
-    "url": "https://www.smashingmagazine.com",
-    "feeds": [
-      "https://www.smashingmagazine.com/feed/"
-    ]
-  },
-  {
-    "url": "https://parceljs.org",
-    "feeds": [
-      "https://parceljs.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://blog.jquery.com",
-    "feeds": [
-      "https://blog.jquery.com/feed/",
-      "https://blog.jquery.com/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://www.builder.io",
-    "feeds": [
-      "https://www.builder.io/blog/feed.xml",
-      "https://www.builder.io/blog/feed.atom"
-    ]
-  },
-  {
-    "url": "https://www.joshwcomeau.com",
-    "feeds": [
-      "https://www.joshwcomeau.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://vercel.com",
-    "feeds": [
-      "https://vercel.com/atom"
-    ]
-  },
-  {
-    "url": "https://svelte.dev",
-    "feeds": [
-      "https://svelte.dev/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://dwango.github.io",
-    "feeds": [
-      "https://dwango.github.io/index.xml"
-    ]
-  },
-  {
-    "url": "https://blog.jxck.io",
-    "feeds": [
-      "https://blog.jxck.io/feeds/atom.xml"
-    ]
-  },
-  {
-    "url": "https://nuxt.com",
-    "feeds": [
-      "https://nuxt.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://bytecodealliance.org",
-    "feeds": [
-      "https://bytecodealliance.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://vitejs.dev",
-    "feeds": [
-      "https://vitejs.dev/blog.rss"
-    ]
-  },
-  {
-    "url": "https://www.mitsue.co.jp",
-    "feeds": [
-      "https://www.mitsue.co.jp/index.rdf"
-    ]
-  },
-  {
-    "url": "https://eh-career.com",
-    "feeds": [
-      "https://eh-career.com/feed/index.xml"
-    ]
-  },
-  {
-    "url": "https://www.webkit.org",
-    "feeds": [
-      "https://www.webkit.org/feed/",
-      "https://www.webkit.org/feed/atom/"
+      "https://bhch.github.io/feeds/atom.xml"
     ]
   },
   {
@@ -276,116 +70,27 @@
     ]
   },
   {
-    "url": "https://www.totaltypescript.com",
+    "url": "https://blog.angular.io",
     "feeds": [
-      "https://www.totaltypescript.com/rss.xml"
+      "https://blog.angular.io/feed"
     ]
   },
   {
-    "url": "https://www.packtpub.com",
+    "url": "https://blog.appsignal.com",
     "feeds": [
-      "https://hub.packtpub.com/feed/"
+      "https://blog.appsignal.com//feed.xml"
     ]
   },
   {
-    "url": "https://zenn.dev/qnighy/",
+    "url": "https://blog.axlight.com",
     "feeds": [
-      "https://zenn.dev/qnighy/feed"
+      "https://blog.axlight.com/index.xml"
     ]
   },
   {
-    "url": "https://www.zhenghao.io",
+    "url": "https://blog.bitsrc.io",
     "feeds": [
-      "https://www.zhenghao.io/rss.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
-    "url": "https://cypress.io",
-    "feeds": [
-      "https://www.cypress.io/feed.xml",
-      "https://www.cypress.io/feed.xml"
-    ]
-  },
-  {
-    "url": "https://jestjs.io",
-    "feeds": [
-      "https://jestjs.io/blog/rss.xml",
-      "https://jestjs.io/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://reactjs.org",
-    "feeds": [
-      "https://reactjs.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://www.shoeisha.co.jp",
-    "feeds": [
-      "https://www.shoeisha.co.jp/rss/index.xml",
-      "https://www.shoeisha.co.jp/rss/book/index.xml"
-    ]
-  },
-  {
-    "url": "https://blog.nrwl.io",
-    "feeds": [
-      "https://blog.nrwl.io/feed"
-    ]
-  },
-  {
-    "url": "https://babylonjs.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@babylonjs"
-    ]
-  },
-  {
-    "url": "https://blog.isquaredsoftware.com",
-    "feeds": [
-      "https://blog.isquaredsoftware.com/index.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/teppeis/",
-    "feeds": [
-      "https://zenn.dev/teppeis/feed"
-    ]
-  },
-  {
-    "url": "https://www.ecma-international.org",
-    "feeds": [
-      "https://ecma-international.org/feed/",
-      "https://ecma-international.org/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://buf.build",
-    "feeds": [
-      "https://buf.build/rss.xml"
-    ]
-  },
-  {
-    "url": "https://nolanlawson.com",
-    "feeds": [
-      "https://nolanlawson.com/feed/",
-      "https://nolanlawson.com/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://spidermonkey.dev",
-    "feeds": [
-      "https://spidermonkey.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/sa2knight/",
-    "feeds": [
-      "https://zenn.dev/sa2knight/feed"
+      "https://blog.bitsrc.io/feed"
     ]
   },
   {
@@ -395,149 +100,9 @@
     ]
   },
   {
-    "url": "https://www.honeybadger.io",
+    "url": "https://blog.chromium.org",
     "feeds": [
-      "https://www.honeybadger.io/blog/feed.xml"
-    ]
-  },
-  {
-    "url": "https://blog.tomayac.com",
-    "feeds": [
-      "https://blog.tomayac.com/feed/feed.xml"
-    ]
-  },
-  {
-    "url": "https://shopify.engineering",
-    "feeds": [
-      "https://shopify.engineering/blog.atom"
-    ]
-  },
-  {
-    "url": "https://tauri.app",
-    "feeds": [
-      "https://tauri.app/blog/rss.xml",
-      "https://tauri.app/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://v2.vuejs.org",
-    "feeds": [
-      "https://v2.vuejs.org/atom.xml"
-    ]
-  },
-  {
-    "url": "https://blog.stackblitz.com",
-    "feeds": [
-      "https://blog.stackblitz.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://postd.cc",
-    "feeds": [
-      "https://postd.cc/feed/"
-    ]
-  },
-  {
-    "url": "https://lea.verou.me",
-    "feeds": [
-      "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29",
-      "https://www.linkedin.com/feed/update/urn:li:activity:7143508856587911169?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7143508856587911169%2C7144244558615269376%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287144244558615269376%2Curn%3Ali%3Aactivity%3A7143508856587911169%29",
-      "https://www.linkedin.com/feed/update/urn:li:ugcPost:7148246579894800384?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7148246579894800384%2C7148248066465193984%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287148248066465193984%2Curn%3Ali%3AugcPost%3A7148246579894800384%29"
-    ]
-  },
-  {
-    "url": "https://www.mizdra.net",
-    "feeds": [
-      "https://www.mizdra.net/feed",
-      "https://www.mizdra.net/rss"
-    ]
-  },
-  {
-    "url": "https://blog.getbootstrap.com",
-    "feeds": [
-      "https://blog.getbootstrap.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://lit.dev",
-    "feeds": [
-      "https://lit.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://developer.mozilla.org",
-    "feeds": [
-      "https://developer.mozilla.org/en-US/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://tailwindcss.com",
-    "feeds": [
-      "https://tailwindcss.com/feeds/feed.xml",
-      "https://tailwindcss.com/feeds/atom.xml"
-    ]
-  },
-  {
-    "url": "https://medium.com/@vueshenzhen/",
-    "feeds": [
-      "https://medium.com/feed/@vueshenzhen"
-    ]
-  },
-  {
-    "url": "https://vanillalist.top",
-    "feeds": [
-      "https://vanillalist.top/feed.xml"
-    ]
-  },
-  {
-    "url": "https://mitpress.mit.edu",
-    "feeds": [
-      "https://mitpress.mit.edu/feed/",
-      "https://mitpress.mit.edu/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://blog.plasmic.app",
-    "feeds": [
-      "https://blog.plasmic.app/feed.xml"
-    ]
-  },
-  {
-    "url": "https://v8.dev",
-    "feeds": [
-      "https://v8.dev/blog.atom",
-      "https://v8.dev/features.atom"
-    ]
-  },
-  {
-    "url": "https://www.amazon.science",
-    "feeds": [
-      "https://www.amazon.science/index.rss"
-    ]
-  },
-  {
-    "url": "https://mdxjs.com",
-    "feeds": [
-      "https://mdxjs.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://recoiljs.org",
-    "feeds": [
-      "https://recoiljs.org/blog/rss.xml",
-      "https://recoiljs.org/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://dev.to/atian25/",
-    "feeds": [
-      "https://dev.to/feed/atian25"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/inokawa/",
-    "feeds": [
-      "https://zenn.dev/inokawa/feed"
+      "http://blog.chromium.org/atom.xml"
     ]
   },
   {
@@ -548,395 +113,41 @@
     ]
   },
   {
-    "url": "https://dev.to/arcanis/",
+    "url": "https://blog.emberjs.com",
     "feeds": [
-      "https://dev.to/feed/arcanis"
+      "https://blog.emberjs.com/rss.xml"
     ]
   },
   {
-    "url": "https://developers.cyberagent.co.jp",
+    "url": "https://blog.getbootstrap.com",
     "feeds": [
-      "https://developers.cyberagent.co.jp/blog/feed/"
+      "https://blog.getbootstrap.com/feed.xml"
     ]
   },
   {
-    "url": "https://surma.dev",
+    "url": "https://blog.hog.as",
     "feeds": [
-      "https://surma.dev/index.xml"
+      "https://blog.hog.as/feed",
+      "https://blog.hog.as/rss"
     ]
   },
   {
-    "url": "https://daisyui.com",
+    "url": "https://blog.isquaredsoftware.com",
     "feeds": [
-      "https://daisyui.com/blog/rss.xml"
+      "https://blog.isquaredsoftware.com/index.xml"
     ]
   },
   {
-    "url": "https://www.igalia.com",
+    "url": "https://blog.jquery.com",
     "feeds": [
-      "https://www.igalia.com/feed.xml"
+      "https://blog.jquery.com/feed/",
+      "https://blog.jquery.com/comments/feed/"
     ]
   },
   {
-    "url": "https://tech.hicustomer.jp",
+    "url": "https://blog.jxck.io",
     "feeds": [
-      "https://tech.hicustomer.jp/index.xml"
-    ]
-  },
-  {
-    "url": "https://elijahmanor.com",
-    "feeds": [
-      "https://elijahmanor.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.ladle.dev",
-    "feeds": [
-      "https://www.ladle.dev/blog/rss.xml",
-      "https://www.ladle.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.huy.rocks",
-    "feeds": [
-      "https://www.huy.rocks/rss.xml"
-    ]
-  },
-  {
-    "url": "https://tom.preston-werner.com",
-    "feeds": [
-      "https://feeds.feedburner.com/tom-preston-werner"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/hgsgtk/",
-    "feeds": [
-      "https://speakerdeck.com/hgsgtk.atom",
-      "https://speakerdeck.com/hgsgtk.rss"
-    ]
-  },
-  {
-    "url": "https://turborepo.org",
-    "feeds": [
-      "https://turbo.build/feed.xml"
-    ]
-  },
-  {
-    "url": "https://blog.axlight.com",
-    "feeds": [
-      "https://blog.axlight.com/index.xml"
-    ]
-  },
-  {
-    "url": "https://www.w3.org",
-    "feeds": [
-      "https://www.w3.org/blog/feed/"
-    ]
-  },
-  {
-    "url": "https://jqk.life",
-    "feeds": [
-      "https://jqk.life/rss.xml",
-      "https://jqk.life/rss.xml"
-    ]
-  },
-  {
-    "url": "https://dev.to/frolovdev/",
-    "feeds": [
-      "https://dev.to/feed/frolovdev"
-    ]
-  },
-  {
-    "url": "https://devblog.thebase.in",
-    "feeds": [
-      "https://devblog.thebase.in/feed",
-      "https://devblog.thebase.in/rss"
-    ]
-  },
-  {
-    "url": "https://www.remotion.dev",
-    "feeds": [
-      "https://www.remotion.dev/blog/rss.xml",
-      "https://www.remotion.dev/blog/atom.xml",
-      "https://www.remotion.dev/success-stories/rss.xml",
-      "https://www.remotion.dev/success-stories/atom.xml",
-      "https://www.remotion.dev/learn/rss.xml",
-      "https://www.remotion.dev/learn/atom.xml"
-    ]
-  },
-  {
-    "url": "https://tsh.io",
-    "feeds": [
-      "https://tsh.io/feed/",
-      "https://tsh.io/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://engineering.fb.com",
-    "feeds": [
-      "https://code.facebook.com/posts/rss/"
-    ]
-  },
-  {
-    "url": "https://stripe.com",
-    "feeds": [
-      "https://stripe.com/blog/feed.rss"
-    ]
-  },
-  {
-    "url": "https://quramy.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@quramy"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/mizchi/",
-    "feeds": [
-      "https://speakerdeck.com/mizchi.atom",
-      "https://speakerdeck.com/mizchi.rss"
-    ]
-  },
-  {
-    "url": "https://discuss.httparchive.org",
-    "feeds": [
-      "https://discuss.httparchive.org/posts.rss",
-      "https://discuss.httparchive.org/latest.rss"
-    ]
-  },
-  {
-    "url": "https://blog.webpagetest.org",
-    "feeds": [
-      "https://blog.webpagetest.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://www.gabe.pizza",
-    "feeds": [
-      "https://www.gabe.pizza/rss.xml"
-    ]
-  },
-  {
-    "url": "https://browser.engineering",
-    "feeds": [
-      "https://browser.engineering/rss.xml"
-    ]
-  },
-  {
-    "url": "https://whistlr.info",
-    "feeds": [
-      "https://samthor.au/rss.xml"
-    ]
-  },
-  {
-    "url": "https://medium.com/@fastifyjs/",
-    "feeds": [
-      "https://medium.com/feed/@fastifyjs"
-    ]
-  },
-  {
-    "url": "https://serpapi.com",
-    "feeds": [
-      "https://serpapi.com/blog/rss/"
-    ]
-  },
-  {
-    "url": "https://marijnhaverbeke.nl",
-    "feeds": [
-      "https://marijnhaverbeke.nl/blog/feed.atom"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/dajiaji/",
-    "feeds": [
-      "https://zenn.dev/dajiaji/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mjhd/",
-    "feeds": [
-      "https://zenn.dev/mjhd/feed"
-    ]
-  },
-  {
-    "url": "https://blog.nnn.dev",
-    "feeds": [
-      "https://blog.nnn.dev/feed",
-      "https://blog.nnn.dev/rss"
-    ]
-  },
-  {
-    "url": "https://nodered.org",
-    "feeds": [
-      "https://nodered.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://defensivecss.dev",
-    "feeds": [
-      "https://defensivecss.dev/feed/feed.xml"
-    ]
-  },
-  {
-    "url": "https://ishadeed.com",
-    "feeds": [
-      "https://ishadeed.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://dev.to/hemanth/",
-    "feeds": [
-      "https://dev.to/feed/hemanth"
-    ]
-  },
-  {
-    "url": "https://jakearchibald.com",
-    "feeds": [
-      "https://jakearchibald.com/posts.rss"
-    ]
-  },
-  {
-    "url": "https://mmazzarolo.com",
-    "feeds": [
-      "https://mmazzarolo.com/blog/index.xml"
-    ]
-  },
-  {
-    "url": "https://orizens.com",
-    "feeds": [
-      "https://orizens.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://katainaka0503.hatenablog.com",
-    "feeds": [
-      "https://katainaka0503.hatenablog.com/feed",
-      "https://katainaka0503.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://docusaurus.io",
-    "feeds": [
-      "https://docusaurus.io/blog/rss.xml",
-      "https://docusaurus.io/blog/atom.xml",
-      "https://docusaurus.io/changelog/rss.xml",
-      "https://docusaurus.io/changelog/atom.xml",
-      "https://docusaurus.io/tests/blog/rss.xml",
-      "https://docusaurus.io/tests/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.learningtypescript.com",
-    "feeds": [
-      "https://www.learningtypescript.com/articles/rss.xml",
-      "https://www.learningtypescript.com/articles/atom.xml"
-    ]
-  },
-  {
-    "url": "https://semaphoreci.com",
-    "feeds": [
-      "https://semaphoreci.com/feed",
-      "https://semaphoreci.com/comments/feed"
-    ]
-  },
-  {
-    "url": "https://www.matuzo.at",
-    "feeds": [
-      "https://www.matuzo.at/feed.xml",
-      "https://www.matuzo.at/feed_til.xml",
-      "https://www.matuzo.at/feed_all.xml",
-      "https://www.matuzo.at/feed_100dayscss.xml"
-    ]
-  },
-  {
-    "url": "https://endtimes.dev",
-    "feeds": [
-      "https://endtimes.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://erock.prose.sh",
-    "feeds": [
-      "https://erock.prose.sh/rss"
-    ]
-  },
-  {
-    "url": "https://engineering.linecorp.com",
-    "feeds": [
-      "https://engineering.linecorp.com/en"
-    ]
-  },
-  {
-    "url": "https://yieldcode.blog",
-    "feeds": [
-      "https://www.yieldcode.blog/rss/feed.xml",
-      "https://www.yieldcode.blog/rss/feed.xml"
-    ]
-  },
-  {
-    "url": "https://daverupert.com",
-    "feeds": [
-      "https://daverupert.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://tech.basicinc.jp",
-    "feeds": [
-      "https://tech.basicinc.jp/feed"
-    ]
-  },
-  {
-    "url": "https://textslashplain.com",
-    "feeds": [
-      "https://textslashplain.com/feed/",
-      "https://textslashplain.com/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://almanac.httparchive.org",
-    "feeds": [
-      "https://almanac.httparchive.org/en/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.docswell.com/user/ockeghem",
-    "feeds": [
-      "https://www.docswell.com/user/ockeghem/feed"
-    ]
-  },
-  {
-    "url": "https://www.wantedly.com",
-    "feeds": [
-      "https://www.wantedly.com/projects.xml"
-    ]
-  },
-  {
-    "url": "https://sqlite.org",
-    "feeds": [
-      "https://sqlite.org/wasm/timeline.rss"
-    ]
-  },
-  {
-    "url": "https://dev.to/srmagura/",
-    "feeds": [
-      "https://dev.to/feed/srmagura"
-    ]
-  },
-  {
-    "url": "https://medium.com/airbnb-engineering/",
-    "feeds": [
-      "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yukiyada/",
-    "feeds": [
-      "https://zenn.dev/yukiyada/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/panda_program/",
-    "feeds": [
-      "https://zenn.dev/panda_program/feed"
+      "https://blog.jxck.io/feeds/atom.xml"
     ]
   },
   {
@@ -953,201 +164,34 @@
     ]
   },
   {
-    "url": "https://link-and-motivation.hatenablog.com",
+    "url": "https://blog.nnn.dev",
     "feeds": [
-      "https://link-and-motivation.hatenablog.com/feed",
-      "https://link-and-motivation.hatenablog.com/rss"
+      "https://blog.nnn.dev/feed",
+      "https://blog.nnn.dev/rss"
     ]
   },
   {
-    "url": "https://www.simoahava.com",
+    "url": "https://blog.nrwl.io",
     "feeds": [
-      "https://www.simoahava.com/index.xml"
+      "https://blog.nrwl.io/feed"
     ]
   },
   {
-    "url": "https://zenn.dev/0kate/",
+    "url": "https://blog.osstech.co.jp",
     "feeds": [
-      "https://zenn.dev/0kate/feed"
+      "https://blog.osstech.co.jp/posts/index.xml"
     ]
   },
   {
-    "url": "https://jrsinclair.com",
+    "url": "https://blog.plasmic.app",
     "feeds": [
-      "https://jrsinclair.com/index.rss"
+      "https://blog.plasmic.app/feed.xml"
     ]
   },
   {
-    "url": "https://www.debugbear.com",
+    "url": "https://blog.rafaelgss.dev",
     "feeds": [
-      "https://www.debugbear.com/blog/rss.xml",
-      "https://www.debugbear.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://tkdodo.eu",
-    "feeds": [
-      "https://tkdodo.eu/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://devtoolstips.org",
-    "feeds": [
-      "https://devtoolstips.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://marvinh.dev",
-    "feeds": [
-      "https://marvinh.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yhatt/",
-    "feeds": [
-      "https://zenn.dev/yhatt/feed"
-    ]
-  },
-  {
-    "url": "https://obyford.com",
-    "feeds": [
-      "https://obyford.com/feed/feed.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yend724/",
-    "feeds": [
-      "https://zenn.dev/yend724/feed"
-    ]
-  },
-  {
-    "url": "https://trpc.io",
-    "feeds": [
-      "https://trpc.io/blog/rss.xml",
-      "https://trpc.io/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://accessibility.blog.gov.uk",
-    "feeds": [
-      "https://accessibility.blog.gov.uk/feed/"
-    ]
-  },
-  {
-    "url": "https://kentcdodds.com",
-    "feeds": [
-      "https://kentcdodds.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.11ty.dev",
-    "feeds": [
-      "https://www.11ty.dev/docs/plugins/rss/"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mkt/",
-    "feeds": [
-      "https://zenn.dev/mkt/feed"
-    ]
-  },
-  {
-    "url": "https://csswizardry.com",
-    "feeds": [
-      "https://feeds.feedburner.com/csswizardry"
-    ]
-  },
-  {
-    "url": "https://00f.net",
-    "feeds": [
-      "https://00f.net/rss.xml",
-      "https://00f.net/atom.xml"
-    ]
-  },
-  {
-    "url": "https://blog.bitsrc.io",
-    "feeds": [
-      "https://blog.bitsrc.io/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/terrierscript/",
-    "feeds": [
-      "https://zenn.dev/terrierscript/feed"
-    ]
-  },
-  {
-    "url": "https://www.codeflashbacks.com",
-    "feeds": [
-      "https://www.codeflashbacks.com/rss/"
-    ]
-  },
-  {
-    "url": "https://www.zachleat.com",
-    "feeds": [
-      "https://www.zachleat.com/web/feed/",
-      "https://www.zachleat.com/follow/"
-    ]
-  },
-  {
-    "url": "https://the-guild.dev",
-    "feeds": [
-      "https://the-guild.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yusukehirao/",
-    "feeds": [
-      "https://zenn.dev/yusukehirao/feed"
-    ]
-  },
-  {
-    "url": "https://dev.to/nicklucas/",
-    "feeds": [
-      "https://dev.to/feed/nicklucas"
-    ]
-  },
-  {
-    "url": "https://www.akshaykhot.com",
-    "feeds": [
-      "https://www.writesoftwarewell.com/rss/"
-    ]
-  },
-  {
-    "url": "https://blog.sentry.io",
-    "feeds": [
-      "https://blog.sentry.io/feed.xml"
-    ]
-  },
-  {
-    "url": "https://dev.to/codux/",
-    "feeds": [
-      "https://dev.to/feed/codux"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/tnyo43/",
-    "feeds": [
-      "https://zenn.dev/tnyo43/feed"
-    ]
-  },
-  {
-    "url": "https://socket.dev",
-    "feeds": [
-      "https://socket.dev/api/feed.atom"
-    ]
-  },
-  {
-    "url": "https://tech.high-link.co.jp",
-    "feeds": [
-      "https://tech.high-link.co.jp/feed",
-      "https://tech.high-link.co.jp/rss"
-    ]
-  },
-  {
-    "url": "https://www.nodejs-security.com",
-    "feeds": [
-      "https://www.nodejs-security.com/rss.xml"
+      "https://blog.rafaelgss.dev/rss"
     ]
   },
   {
@@ -1157,11 +201,352 @@
     ]
   },
   {
-    "url": "https://timkadlec.com",
+    "url": "https://blog.scottlogic.com",
     "feeds": [
-      "https://timkadlec.com/remembers/atom.xml",
-      "https://timkadlec.com/read/atom.xml",
-      "https://timkadlec.com/saved/atom.xml"
+      "https://blog.scottlogic.com/atom.xml",
+      "https://blog.scottlogic.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://blog.sentry.io",
+    "feeds": [
+      "https://blog.sentry.io/feed.xml"
+    ]
+  },
+  {
+    "url": "https://blog.stackblitz.com",
+    "feeds": [
+      "https://blog.stackblitz.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://blog.tomayac.com",
+    "feeds": [
+      "https://blog.tomayac.com/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://blog.vuejs.org",
+    "feeds": [
+      "https://blog.vuejs.org/feed.rss"
+    ]
+  },
+  {
+    "url": "https://blog.webpagetest.org",
+    "feeds": [
+      "https://blog.webpagetest.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://boajs.dev",
+    "feeds": [
+      "https://boajs.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://browser.engineering",
+    "feeds": [
+      "https://browser.engineering/rss.xml"
+    ]
+  },
+  {
+    "url": "https://buf.build",
+    "feeds": [
+      "https://buf.build/rss.xml"
+    ]
+  },
+  {
+    "url": "https://bufferings.hatenablog.com",
+    "feeds": [
+      "https://bufferings.hatenablog.com/feed",
+      "https://bufferings.hatenablog.com/rss"
+    ]
+  },
+  {
+    "url": "https://bun.sh",
+    "feeds": [
+      "https://bun.sh/rss.xml"
+    ]
+  },
+  {
+    "url": "https://bytecodealliance.org",
+    "feeds": [
+      "https://bytecodealliance.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://calendar.perfplanet.com",
+    "feeds": [
+      "https://calendar.perfplanet.com/feed/"
+    ]
+  },
+  {
+    "url": "https://chriscoyier.net",
+    "feeds": [
+      "https://chriscoyier.net/feed/"
+    ]
+  },
+  {
+    "url": "https://css-tricks.com",
+    "feeds": [
+      "https://css-tricks.com/feed/"
+    ]
+  },
+  {
+    "url": "https://csswizardry.com",
+    "feeds": [
+      "https://feeds.feedburner.com/csswizardry"
+    ]
+  },
+  {
+    "url": "https://cypress.io",
+    "feeds": [
+      "https://www.cypress.io/feed.xml",
+      "https://www.cypress.io/feed.xml"
+    ]
+  },
+  {
+    "url": "https://dagster.io",
+    "feeds": [
+      "https://dagster.io/rss.xml"
+    ]
+  },
+  {
+    "url": "https://daisyui.com",
+    "feeds": [
+      "https://daisyui.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://daverupert.com",
+    "feeds": [
+      "https://daverupert.com/atom.xml"
+    ]
+  },
+  {
+    "url": "https://davidwalsh.name",
+    "feeds": [
+      "https://davidwalsh.name/feed/atom",
+      "https://davidwalsh.name/feed",
+      "https://davidwalsh.name/comments/feed",
+      "https://davidwalsh.name/feed/rdf"
+    ]
+  },
+  {
+    "url": "https://defensivecss.dev",
+    "feeds": [
+      "https://defensivecss.dev/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://deno.com",
+    "feeds": [
+      "https://deno.com/feed"
+    ]
+  },
+  {
+    "url": "https://dev.to/atian25/",
+    "feeds": [
+      "https://dev.to/feed/atian25"
+    ]
+  },
+  {
+    "url": "https://dev.to/arcanis/",
+    "feeds": [
+      "https://dev.to/feed/arcanis"
+    ]
+  },
+  {
+    "url": "https://dev.to/frolovdev/",
+    "feeds": [
+      "https://dev.to/feed/frolovdev"
+    ]
+  },
+  {
+    "url": "https://dev.to/hemanth/",
+    "feeds": [
+      "https://dev.to/feed/hemanth"
+    ]
+  },
+  {
+    "url": "https://dev.to/srmagura/",
+    "feeds": [
+      "https://dev.to/feed/srmagura"
+    ]
+  },
+  {
+    "url": "https://dev.to/nicklucas/",
+    "feeds": [
+      "https://dev.to/feed/nicklucas"
+    ]
+  },
+  {
+    "url": "https://dev.to/codux/",
+    "feeds": [
+      "https://dev.to/feed/codux"
+    ]
+  },
+  {
+    "url": "https://devblog.thebase.in",
+    "feeds": [
+      "https://devblog.thebase.in/feed",
+      "https://devblog.thebase.in/rss"
+    ]
+  },
+  {
+    "url": "https://devblogs.microsoft.com",
+    "feeds": [
+      "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+    ]
+  },
+  {
+    "url": "https://developer.mozilla.org",
+    "feeds": [
+      "https://developer.mozilla.org/en-US/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://developers.cyberagent.co.jp",
+    "feeds": [
+      "https://developers.cyberagent.co.jp/blog/feed/"
+    ]
+  },
+  {
+    "url": "https://developers.prtimes.jp",
+    "feeds": [
+      "https://developers.prtimes.jp/feed/",
+      "https://developers.prtimes.jp/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://devtoolstips.org",
+    "feeds": [
+      "https://devtoolstips.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://discuss.httparchive.org",
+    "feeds": [
+      "https://discuss.httparchive.org/posts.rss",
+      "https://discuss.httparchive.org/latest.rss"
+    ]
+  },
+  {
+    "url": "https://docusaurus.io",
+    "feeds": [
+      "https://docusaurus.io/blog/rss.xml",
+      "https://docusaurus.io/blog/atom.xml",
+      "https://docusaurus.io/changelog/rss.xml",
+      "https://docusaurus.io/changelog/atom.xml",
+      "https://docusaurus.io/tests/blog/rss.xml",
+      "https://docusaurus.io/tests/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://dwango.github.io",
+    "feeds": [
+      "https://dwango.github.io/index.xml"
+    ]
+  },
+  {
+    "url": "https://ecmascript-daily.github.io",
+    "feeds": [
+      "https://ecmascript-daily.github.io/atom.xml",
+      "https://ecmascript-daily.github.io/rss.xml"
+    ]
+  },
+  {
+    "url": "https://efcl.info",
+    "feeds": [
+      "https://efcl.info/feed/"
+    ]
+  },
+  {
+    "url": "https://eh-career.com",
+    "feeds": [
+      "https://eh-career.com/feed/index.xml"
+    ]
+  },
+  {
+    "url": "https://elijahmanor.com",
+    "feeds": [
+      "https://elijahmanor.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://endtimes.dev",
+    "feeds": [
+      "https://endtimes.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://engineering.fb.com",
+    "feeds": [
+      "https://code.facebook.com/posts/rss/"
+    ]
+  },
+  {
+    "url": "https://engineering.linecorp.com",
+    "feeds": [
+      "https://engineering.linecorp.com/en"
+    ]
+  },
+  {
+    "url": "https://erock.prose.sh",
+    "feeds": [
+      "https://erock.prose.sh/rss"
+    ]
+  },
+  {
+    "url": "https://escape.tech",
+    "feeds": [
+      "https://escape.tech/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://eslint.org",
+    "feeds": [
+      "https://eslint.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://frontendmasters.com",
+    "feeds": [
+      "https://frontendmasters.com/blog/feed/"
+    ]
+  },
+  {
+    "url": "https://gihyo.jp",
+    "feeds": [
+      "https://gihyo.jp/feed/rss1",
+      "https://gihyo.jp/feed/rss2",
+      "https://gihyo.jp/feed/atom"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/andrewbranch",
+    "feeds": [
+      "https://gist.github.com/andrewbranch.atom"
+    ]
+  },
+  {
+    "url": "https://github.blog",
+    "feeds": [
+      "https://github.blog/feed/",
+      "https://github.blog/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://glebbahmutov.com",
+    "feeds": [
+      "https://glebbahmutov.com/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://hacks.mozilla.org",
+    "feeds": [
+      "https://hacks.mozilla.org/feed/",
+      "https://hacks.mozilla.org/comments/feed/"
     ]
   },
   {
@@ -1171,9 +556,231 @@
     ]
   },
   {
-    "url": "https://bhch.github.io",
+    "url": "https://ishadeed.com",
     "feeds": [
-      "https://bhch.github.io/feeds/atom.xml"
+      "https://ishadeed.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://jakearchibald.com",
+    "feeds": [
+      "https://jakearchibald.com/posts.rss"
+    ]
+  },
+  {
+    "url": "https://jestjs.io",
+    "feeds": [
+      "https://jestjs.io/blog/rss.xml",
+      "https://jestjs.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://jqk.life",
+    "feeds": [
+      "https://jqk.life/rss.xml",
+      "https://jqk.life/rss.xml"
+    ]
+  },
+  {
+    "url": "https://jrsinclair.com",
+    "feeds": [
+      "https://jrsinclair.com/index.rss"
+    ]
+  },
+  {
+    "url": "https://katainaka0503.hatenablog.com",
+    "feeds": [
+      "https://katainaka0503.hatenablog.com/feed",
+      "https://katainaka0503.hatenablog.com/rss"
+    ]
+  },
+  {
+    "url": "https://katashin.info",
+    "feeds": [
+      "https://katashin.info/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://kentcdodds.com",
+    "feeds": [
+      "https://kentcdodds.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://kizu.dev",
+    "feeds": [
+      "https://feeds.feedburner.com/kizuruen"
+    ]
+  },
+  {
+    "url": "https://kurtextrem.de",
+    "feeds": [
+      "https://kurtextrem.de/rss.xml"
+    ]
+  },
+  {
+    "url": "https://ladle.dev",
+    "feeds": [
+      "https://ladle.dev/blog/rss.xml",
+      "https://ladle.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://lea.verou.me",
+    "feeds": [
+      "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7143508856587911169?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7143508856587911169%2C7144244558615269376%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287144244558615269376%2Curn%3Ali%3Aactivity%3A7143508856587911169%29",
+      "https://www.linkedin.com/feed/update/urn:li:ugcPost:7148246579894800384?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7148246579894800384%2C7148248066465193984%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287148248066465193984%2Curn%3Ali%3AugcPost%3A7148246579894800384%29"
+    ]
+  },
+  {
+    "url": "https://link-and-motivation.hatenablog.com",
+    "feeds": [
+      "https://link-and-motivation.hatenablog.com/feed",
+      "https://link-and-motivation.hatenablog.com/rss"
+    ]
+  },
+  {
+    "url": "https://lit.dev",
+    "feeds": [
+      "https://lit.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://marijnhaverbeke.nl",
+    "feeds": [
+      "https://marijnhaverbeke.nl/blog/feed.atom"
+    ]
+  },
+  {
+    "url": "https://marmooo.blogspot.com",
+    "feeds": [
+      "https://marmooo.blogspot.com/feeds/posts/default",
+      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
+      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
+    ]
+  },
+  {
+    "url": "https://marvinh.dev",
+    "feeds": [
+      "https://marvinh.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://maximorlov.com",
+    "feeds": [
+      "https://maximorlov.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://mdxjs.com",
+    "feeds": [
+      "https://mdxjs.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://medium.com/@vueshenzhen/",
+    "feeds": [
+      "https://medium.com/feed/@vueshenzhen"
+    ]
+  },
+  {
+    "url": "https://medium.com/@fastifyjs/",
+    "feeds": [
+      "https://medium.com/feed/@fastifyjs"
+    ]
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/",
+    "feeds": [
+      "https://medium.com/feed/airbnb-engineering"
+    ]
+  },
+  {
+    "url": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
+    ]
+  },
+  {
+    "url": "https://medium.com/miro-engineering/",
+    "feeds": [
+      "https://medium.com/feed/miro-engineering"
+    ]
+  },
+  {
+    "url": "https://mitpress.mit.edu",
+    "feeds": [
+      "https://mitpress.mit.edu/feed/",
+      "https://mitpress.mit.edu/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://mmazzarolo.com",
+    "feeds": [
+      "https://mmazzarolo.com/blog/index.xml"
+    ]
+  },
+  {
+    "url": "https://moderncss.dev",
+    "feeds": [
+      "https://moderncss.dev/feed/"
+    ]
+  },
+  {
+    "url": "https://moonrepo.dev",
+    "feeds": [
+      "https://moonrepo.dev/blog/rss.xml",
+      "https://moonrepo.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://nodejs.org",
+    "feeds": [
+      "https://nodejs.org/en/feed/blog.xml"
+    ]
+  },
+  {
+    "url": "https://nodered.org",
+    "feeds": [
+      "https://nodered.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://nolanlawson.com",
+    "feeds": [
+      "https://nolanlawson.com/feed/",
+      "https://nolanlawson.com/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://nsaunders.dev",
+    "feeds": [
+      "https://nsaunders.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://nuxt.com",
+    "feeds": [
+      "https://nuxt.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://obyford.com",
+    "feeds": [
+      "https://obyford.com/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://orizens.com",
+    "feeds": [
+      "https://orizens.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://parceljs.org",
+    "feeds": [
+      "https://parceljs.org/feed.xml"
     ]
   },
   {
@@ -1183,9 +790,127 @@
     ]
   },
   {
-    "url": "https://glebbahmutov.com",
+    "url": "https://postd.cc",
     "feeds": [
-      "https://glebbahmutov.com/blog/atom.xml"
+      "https://postd.cc/feed/"
+    ]
+  },
+  {
+    "url": "https://practica.dev",
+    "feeds": [
+      "https://practica.dev/blog/rss.xml",
+      "https://practica.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://prateeksurana.me",
+    "feeds": [
+      "https://prateeksurana.me/blog/feed.xml",
+      "https://prateeksurana.me/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://prettier.io",
+    "feeds": [
+      "https://prettier.io/blog/atom.xml",
+      "https://prettier.io/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://quick-lint-js.com",
+    "feeds": [
+      "https://quick-lint-js.com/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://quramy.medium.com",
+    "feeds": [
+      "https://medium.com/feed/@quramy"
+    ]
+  },
+  {
+    "url": "https://reactjs.org",
+    "feeds": [
+      "https://reactjs.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://reactnative.dev",
+    "feeds": [
+      "https://reactnative.dev/blog/rss.xml",
+      "https://reactnative.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://recoiljs.org",
+    "feeds": [
+      "https://recoiljs.org/blog/rss.xml",
+      "https://recoiljs.org/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://remotesynthesis.com",
+    "feeds": [
+      "https://remotesynthesis.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://rviscomi.dev",
+    "feeds": [
+      "https://rviscomi.dev/feed/",
+      "https://rviscomi.dev/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://security.googleblog.com",
+    "feeds": [
+      "https://googleonlinesecurity.blogspot.com/atom.xml"
+    ]
+  },
+  {
+    "url": "https://semaphoreci.com",
+    "feeds": [
+      "https://semaphoreci.com/feed",
+      "https://semaphoreci.com/comments/feed"
+    ]
+  },
+  {
+    "url": "https://serpapi.com",
+    "feeds": [
+      "https://serpapi.com/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://shopify.engineering",
+    "feeds": [
+      "https://shopify.engineering/blog.atom"
+    ]
+  },
+  {
+    "url": "https://sindresorhus.com",
+    "feeds": [
+      "https://sindresorhus.com/rss.xml",
+      "https://sindresorhus.com/rss-apps.xml"
+    ]
+  },
+  {
+    "url": "https://socket.dev",
+    "feeds": [
+      "https://socket.dev/api/feed.atom"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/hgsgtk/",
+    "feeds": [
+      "https://speakerdeck.com/hgsgtk.atom",
+      "https://speakerdeck.com/hgsgtk.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/mizchi/",
+    "feeds": [
+      "https://speakerdeck.com/mizchi.atom",
+      "https://speakerdeck.com/mizchi.rss"
     ]
   },
   {
@@ -1203,214 +928,10 @@
     ]
   },
   {
-    "url": "https://www.inngest.com",
-    "feeds": [
-      "https://www.inngest.com/api/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.netlify.com",
-    "feeds": [
-      "https://www.netlify.com/community-feed.xml/"
-    ]
-  },
-  {
-    "url": "https://bufferings.hatenablog.com",
-    "feeds": [
-      "https://bufferings.hatenablog.com/feed",
-      "https://bufferings.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://www.jantrid.net",
-    "feeds": [
-      "https://www.jantrid.net/feeds/posts/default/index.xml"
-    ]
-  },
-  {
-    "url": "https://www.nray.dev",
-    "feeds": [
-      "https://www.nray.dev/rss.xml"
-    ]
-  },
-  {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
-    ]
-  },
-  {
-    "url": "https://blog.rafaelgss.dev",
-    "feeds": [
-      "https://blog.rafaelgss.dev/rss"
-    ]
-  },
-  {
-    "url": "https://marmooo.blogspot.com",
-    "feeds": [
-      "https://marmooo.blogspot.com/feeds/posts/default",
-      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
-    ]
-  },
-  {
-    "url": "https://chriscoyier.net",
-    "feeds": [
-      "https://chriscoyier.net/feed/"
-    ]
-  },
-  {
-    "url": "https://moderncss.dev",
-    "feeds": [
-      "https://moderncss.dev/feed/"
-    ]
-  },
-  {
-    "url": "https://www.fermyon.com",
-    "feeds": [
-      "https://www.fermyon.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://kizu.dev",
-    "feeds": [
-      "https://feeds.feedburner.com/kizuruen"
-    ]
-  },
-  {
-    "url": "https://kurtextrem.de",
-    "feeds": [
-      "https://kurtextrem.de/rss.xml"
-    ]
-  },
-  {
-    "url": "https://blog.hog.as",
-    "feeds": [
-      "https://blog.hog.as/feed",
-      "https://blog.hog.as/rss"
-    ]
-  },
-  {
-    "url": "https://yosuke-furukawa.hatenablog.com",
-    "feeds": [
-      "https://yosuke-furukawa.hatenablog.com/feed",
-      "https://yosuke-furukawa.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://www.feelback.dev",
-    "feeds": [
-      "https://www.feelback.dev/rss.xml"
-    ]
-  },
-  {
-    "url": "https://typescript-eslint.io",
-    "feeds": [
-      "https://typescript-eslint.io/blog/rss.xml",
-      "https://typescript-eslint.io/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://katashin.info",
-    "feeds": [
-      "https://katashin.info/feed/feed.xml"
-    ]
-  },
-  {
-    "url": "https://techblog.yahoo.co.jp",
-    "feeds": [
-      "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
-    ]
-  },
-  {
-    "url": "https://remotesynthesis.com",
-    "feeds": [
-      "https://remotesynthesis.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://dagster.io",
-    "feeds": [
-      "https://dagster.io/rss.xml"
-    ]
-  },
-  {
-    "url": "https://davidwalsh.name",
-    "feeds": [
-      "https://davidwalsh.name/feed/atom",
-      "https://davidwalsh.name/feed",
-      "https://davidwalsh.name/comments/feed",
-      "https://davidwalsh.name/feed/rdf"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/wakamsha/",
-    "feeds": [
-      "https://zenn.dev/wakamsha/feed"
-    ]
-  },
-  {
-    "url": "https://tech.repro.io",
-    "feeds": [
-      "https://tech.repro.io/feed",
-      "https://tech.repro.io/rss"
-    ]
-  },
-  {
-    "url": "https://gist.github.com/andrewbranch",
-    "feeds": [
-      "https://gist.github.com/andrewbranch.atom"
-    ]
-  },
-  {
-    "url": "https://www.mux.com",
-    "feeds": [
-      "https://www.mux.com/blog/rss.xml",
-      "https://www.mux.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://security.googleblog.com",
-    "feeds": [
-      "https://googleonlinesecurity.blogspot.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://practica.dev",
-    "feeds": [
-      "https://practica.dev/blog/rss.xml",
-      "https://practica.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://blog.appsignal.com",
-    "feeds": [
-      "https://blog.appsignal.com//feed.xml"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/kazupon/",
     "feeds": [
       "https://speakerdeck.com/kazupon.atom",
       "https://speakerdeck.com/kazupon.rss"
-    ]
-  },
-  {
-    "url": "https://boajs.dev",
-    "feeds": [
-      "https://boajs.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://frontendmasters.com",
-    "feeds": [
-      "https://frontendmasters.com/blog/feed/"
-    ]
-  },
-  {
-    "url": "https://maximorlov.com",
-    "feeds": [
-      "https://maximorlov.com/feed.xml"
     ]
   },
   {
@@ -1421,25 +942,432 @@
     ]
   },
   {
-    "url": "https://alttexthalloffame.org",
+    "url": "https://speakerdeck.com/sajikix/",
     "feeds": [
-      "https://alttexthalloffame.org/en/feed/",
-      "https://alttexthalloffame.org/en/comments/feed/",
-      "https://alttexthalloffame.org/sample-page/feed/"
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {
-    "url": "https://ladle.dev",
+    "url": "https://spidermonkey.dev",
     "feeds": [
-      "https://ladle.dev/blog/rss.xml",
-      "https://ladle.dev/blog/atom.xml"
+      "https://spidermonkey.dev/feed.xml"
     ]
   },
   {
-    "url": "https://prateeksurana.me",
+    "url": "https://sqlite.org",
     "feeds": [
-      "https://prateeksurana.me/blog/feed.xml",
-      "https://prateeksurana.me/blog/feed.xml"
+      "https://sqlite.org/wasm/timeline.rss"
+    ]
+  },
+  {
+    "url": "https://storybook.js.org",
+    "feeds": [
+      "https://storybook.js.org/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://stripe.com",
+    "feeds": [
+      "https://stripe.com/blog/feed.rss"
+    ]
+  },
+  {
+    "url": "https://surma.dev",
+    "feeds": [
+      "https://surma.dev/index.xml"
+    ]
+  },
+  {
+    "url": "https://svelte.dev",
+    "feeds": [
+      "https://svelte.dev/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://tailwindcss.com",
+    "feeds": [
+      "https://tailwindcss.com/feeds/feed.xml",
+      "https://tailwindcss.com/feeds/atom.xml"
+    ]
+  },
+  {
+    "url": "https://tauri.app",
+    "feeds": [
+      "https://tauri.app/blog/rss.xml",
+      "https://tauri.app/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://tech.basicinc.jp",
+    "feeds": [
+      "https://tech.basicinc.jp/feed"
+    ]
+  },
+  {
+    "url": "https://tech.hicustomer.jp",
+    "feeds": [
+      "https://tech.hicustomer.jp/index.xml"
+    ]
+  },
+  {
+    "url": "https://tech.high-link.co.jp",
+    "feeds": [
+      "https://tech.high-link.co.jp/feed",
+      "https://tech.high-link.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://tech.repro.io",
+    "feeds": [
+      "https://tech.repro.io/feed",
+      "https://tech.repro.io/rss"
+    ]
+  },
+  {
+    "url": "https://techblog.yahoo.co.jp",
+    "feeds": [
+      "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
+    ]
+  },
+  {
+    "url": "https://textslashplain.com",
+    "feeds": [
+      "https://textslashplain.com/feed/",
+      "https://textslashplain.com/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://the-guild.dev",
+    "feeds": [
+      "https://the-guild.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://timkadlec.com",
+    "feeds": [
+      "https://timkadlec.com/remembers/atom.xml",
+      "https://timkadlec.com/read/atom.xml",
+      "https://timkadlec.com/saved/atom.xml"
+    ]
+  },
+  {
+    "url": "https://tkdodo.eu",
+    "feeds": [
+      "https://tkdodo.eu/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://tom.preston-werner.com",
+    "feeds": [
+      "https://feeds.feedburner.com/tom-preston-werner"
+    ]
+  },
+  {
+    "url": "https://trpc.io",
+    "feeds": [
+      "https://trpc.io/blog/rss.xml",
+      "https://trpc.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://tsh.io",
+    "feeds": [
+      "https://tsh.io/feed/",
+      "https://tsh.io/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://turbo.build",
+    "feeds": [
+      "https://turbo.build/feed.xml"
+    ]
+  },
+  {
+    "url": "https://typescript-eslint.io",
+    "feeds": [
+      "https://typescript-eslint.io/blog/rss.xml",
+      "https://typescript-eslint.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://user-first.ikyu.co.jp",
+    "feeds": [
+      "https://user-first.ikyu.co.jp/feed",
+      "https://user-first.ikyu.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://v2.vuejs.org",
+    "feeds": [
+      "https://v2.vuejs.org/atom.xml"
+    ]
+  },
+  {
+    "url": "https://v8.dev",
+    "feeds": [
+      "https://v8.dev/blog.atom",
+      "https://v8.dev/features.atom"
+    ]
+  },
+  {
+    "url": "https://vanillalist.top",
+    "feeds": [
+      "https://vanillalist.top/feed.xml"
+    ]
+  },
+  {
+    "url": "https://vercel.com",
+    "feeds": [
+      "https://vercel.com/atom"
+    ]
+  },
+  {
+    "url": "https://vitejs.dev",
+    "feeds": [
+      "https://vitejs.dev/blog.rss"
+    ]
+  },
+  {
+    "url": "https://webkit.org",
+    "feeds": [
+      "https://webkit.org/feed/",
+      "https://webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "url": "https://whistlr.info",
+    "feeds": [
+      "https://samthor.au/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.11ty.dev",
+    "feeds": [
+      "https://www.11ty.dev/docs/plugins/rss/"
+    ]
+  },
+  {
+    "url": "https://www.akshaykhot.com",
+    "feeds": [
+      "https://www.writesoftwarewell.com/rss/"
+    ]
+  },
+  {
+    "url": "https://www.amazon.science",
+    "feeds": [
+      "https://www.amazon.science/index.rss"
+    ]
+  },
+  {
+    "url": "https://www.builder.io",
+    "feeds": [
+      "https://www.builder.io/blog/feed.xml",
+      "https://www.builder.io/blog/feed.atom"
+    ]
+  },
+  {
+    "url": "https://www.codeflashbacks.com",
+    "feeds": [
+      "https://www.codeflashbacks.com/rss/"
+    ]
+  },
+  {
+    "url": "https://www.debugbear.com",
+    "feeds": [
+      "https://www.debugbear.com/blog/rss.xml",
+      "https://www.debugbear.com/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.docswell.com/user/ockeghem",
+    "feeds": [
+      "https://www.docswell.com/user/ockeghem/feed"
+    ]
+  },
+  {
+    "url": "https://www.ecma-international.org",
+    "feeds": [
+      "https://ecma-international.org/feed/",
+      "https://ecma-international.org/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://www.electronjs.org",
+    "feeds": [
+      "https://www.electronjs.org/blog/rss.xml",
+      "https://www.electronjs.org/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.feelback.dev",
+    "feeds": [
+      "https://www.feelback.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.fermyon.com",
+    "feeds": [
+      "https://www.fermyon.com/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.gabe.pizza",
+    "feeds": [
+      "https://www.gabe.pizza/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.honeybadger.io",
+    "feeds": [
+      "https://www.honeybadger.io/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://www.htmhell.dev",
+    "feeds": [
+      "https://www.htmhell.dev/feed.xml",
+      "https://www.htmhell.dev/feed_tips.xml",
+      "https://www.htmhell.dev/feed_advent.xml"
+    ]
+  },
+  {
+    "url": "https://www.huy.rocks",
+    "feeds": [
+      "https://www.huy.rocks/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.igalia.com",
+    "feeds": [
+      "https://www.igalia.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://www.inngest.com",
+    "feeds": [
+      "https://www.inngest.com/api/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.jantrid.net",
+    "feeds": [
+      "https://www.jantrid.net/feeds/posts/default/index.xml"
+    ]
+  },
+  {
+    "url": "https://www.joshwcomeau.com",
+    "feeds": [
+      "https://www.joshwcomeau.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.ladle.dev",
+    "feeds": [
+      "https://www.ladle.dev/blog/rss.xml",
+      "https://www.ladle.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.learningtypescript.com",
+    "feeds": [
+      "https://www.learningtypescript.com/articles/rss.xml",
+      "https://www.learningtypescript.com/articles/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.matuzo.at",
+    "feeds": [
+      "https://www.matuzo.at/feed.xml",
+      "https://www.matuzo.at/feed_til.xml",
+      "https://www.matuzo.at/feed_all.xml",
+      "https://www.matuzo.at/feed_100dayscss.xml"
+    ]
+  },
+  {
+    "url": "https://www.mitsue.co.jp",
+    "feeds": [
+      "https://www.mitsue.co.jp/index.rdf"
+    ]
+  },
+  {
+    "url": "https://www.mizdra.net",
+    "feeds": [
+      "https://www.mizdra.net/feed",
+      "https://www.mizdra.net/rss"
+    ]
+  },
+  {
+    "url": "https://www.mux.com",
+    "feeds": [
+      "https://www.mux.com/blog/rss.xml",
+      "https://www.mux.com/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.netlify.com",
+    "feeds": [
+      "https://www.netlify.com/community-feed.xml/"
+    ]
+  },
+  {
+    "url": "https://www.nodejs-security.com",
+    "feeds": [
+      "https://www.nodejs-security.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.nray.dev",
+    "feeds": [
+      "https://www.nray.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.packtpub.com",
+    "feeds": [
+      "https://hub.packtpub.com/feed/"
+    ]
+  },
+  {
+    "url": "https://www.remotion.dev",
+    "feeds": [
+      "https://www.remotion.dev/blog/rss.xml",
+      "https://www.remotion.dev/blog/atom.xml",
+      "https://www.remotion.dev/success-stories/rss.xml",
+      "https://www.remotion.dev/success-stories/atom.xml",
+      "https://www.remotion.dev/learn/rss.xml",
+      "https://www.remotion.dev/learn/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.rspack.dev",
+    "feeds": [
+      "https://www.rspack.dev/rss/blog-en.rss"
+    ]
+  },
+  {
+    "url": "https://www.sbcr.jp",
+    "feeds": [
+      "https://www.sbcr.jp/product/4815619480/feed/"
+    ]
+  },
+  {
+    "url": "https://www.shoeisha.co.jp",
+    "feeds": [
+      "https://www.shoeisha.co.jp/rss/index.xml",
+      "https://www.shoeisha.co.jp/rss/book/index.xml"
+    ]
+  },
+  {
+    "url": "https://www.simoahava.com",
+    "feeds": [
+      "https://www.simoahava.com/index.xml"
+    ]
+  },
+  {
+    "url": "https://www.smashingmagazine.com",
+    "feeds": [
+      "https://www.smashingmagazine.com/feed/"
     ]
   },
   {
@@ -1450,35 +1378,57 @@
     ]
   },
   {
-    "url": "https://zackoverflow.dev",
+    "url": "https://www.sonarsource.com",
     "feeds": [
-      "https://zackoverflow.dev/rss.xml"
+      "https://www.sonarsource.com/rss.xml"
     ]
   },
   {
-    "url": "https://zenn.dev/taisei_13046/",
+    "url": "https://www.totaltypescript.com",
     "feeds": [
-      "https://zenn.dev/taisei_13046/feed"
+      "https://www.totaltypescript.com/rss.xml"
     ]
   },
   {
-    "url": "https://abduvik.medium.com",
+    "url": "https://www.w3.org",
     "feeds": [
-      "https://medium.com/feed/@abduvik"
+      "https://www.w3.org/blog/feed/"
     ]
   },
   {
-    "url": "https://blog.scottlogic.com",
+    "url": "https://www.wantedly.com",
     "feeds": [
-      "https://blog.scottlogic.com/atom.xml",
-      "https://blog.scottlogic.com/feed.xml"
+      "https://www.wantedly.com/projects.xml"
     ]
   },
   {
-    "url": "https://sindresorhus.com",
+    "url": "https://www.webkit.org",
     "feeds": [
-      "https://sindresorhus.com/rss.xml",
-      "https://sindresorhus.com/rss-apps.xml"
+      "https://www.webkit.org/feed/",
+      "https://www.webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "url": "https://www.youtube.com",
+    "feeds": [
+      "https://www.youtube.com/feed/subscriptions",
+      "https://www.youtube.com/feed/you",
+      "https://www.youtube.com/feed/history",
+      "https://www.youtube.com/feed/trending",
+      "https://www.youtube.com/feed/trending"
+    ]
+  },
+  {
+    "url": "https://www.zachleat.com",
+    "feeds": [
+      "https://www.zachleat.com/web/feed/",
+      "https://www.zachleat.com/follow/"
+    ]
+  },
+  {
+    "url": "https://www.zhenghao.io",
+    "feeds": [
+      "https://www.zhenghao.io/rss.xml"
     ]
   },
   {
@@ -1489,9 +1439,131 @@
     ]
   },
   {
-    "url": "https://www.sonarsource.com",
+    "url": "https://yieldcode.blog",
     "feeds": [
-      "https://www.sonarsource.com/rss.xml"
+      "https://www.yieldcode.blog/rss/feed.xml",
+      "https://www.yieldcode.blog/rss/feed.xml"
+    ]
+  },
+  {
+    "url": "https://yosuke-furukawa.hatenablog.com",
+    "feeds": [
+      "https://yosuke-furukawa.hatenablog.com/feed",
+      "https://yosuke-furukawa.hatenablog.com/rss"
+    ]
+  },
+  {
+    "url": "https://zackoverflow.dev",
+    "feeds": [
+      "https://zackoverflow.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/qnighy/",
+    "feeds": [
+      "https://zenn.dev/qnighy/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/teppeis/",
+    "feeds": [
+      "https://zenn.dev/teppeis/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/sa2knight/",
+    "feeds": [
+      "https://zenn.dev/sa2knight/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/inokawa/",
+    "feeds": [
+      "https://zenn.dev/inokawa/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/dajiaji/",
+    "feeds": [
+      "https://zenn.dev/dajiaji/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/mjhd/",
+    "feeds": [
+      "https://zenn.dev/mjhd/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yukiyada/",
+    "feeds": [
+      "https://zenn.dev/yukiyada/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/panda_program/",
+    "feeds": [
+      "https://zenn.dev/panda_program/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/0kate/",
+    "feeds": [
+      "https://zenn.dev/0kate/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yhatt/",
+    "feeds": [
+      "https://zenn.dev/yhatt/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yend724/",
+    "feeds": [
+      "https://zenn.dev/yend724/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/mkt/",
+    "feeds": [
+      "https://zenn.dev/mkt/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/terrierscript/",
+    "feeds": [
+      "https://zenn.dev/terrierscript/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yusukehirao/",
+    "feeds": [
+      "https://zenn.dev/yusukehirao/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/tnyo43/",
+    "feeds": [
+      "https://zenn.dev/tnyo43/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/wakamsha/",
+    "feeds": [
+      "https://zenn.dev/wakamsha/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/taisei_13046/",
+    "feeds": [
+      "https://zenn.dev/taisei_13046/feed"
     ]
   },
   {
@@ -1507,41 +1579,9 @@
     ]
   },
   {
-    "url": "https://rviscomi.dev",
-    "feeds": [
-      "https://rviscomi.dev/feed/",
-      "https://rviscomi.dev/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://www.sbcr.jp",
-    "feeds": [
-      "https://www.sbcr.jp/product/4815619480/feed/"
-    ]
-  },
-  {
-    "url": "https://medium.com/miro-engineering/",
-    "feeds": [
-      "https://medium.com/feed/miro-engineering"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sajikix/",
-    "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
-    ]
-  },
-  {
     "url": "https://zenn.dev/zawa_kyo/",
     "feeds": [
       "https://zenn.dev/zawa_kyo/feed"
-    ]
-  },
-  {
-    "url": "https://nsaunders.dev",
-    "feeds": [
-      "https://nsaunders.dev/rss.xml"
     ]
   },
   {
@@ -1551,49 +1591,15 @@
     ]
   },
   {
-    "url": "https://www.htmhell.dev",
-    "feeds": [
-      "https://www.htmhell.dev/feed.xml",
-      "https://www.htmhell.dev/feed_tips.xml",
-      "https://www.htmhell.dev/feed_advent.xml"
-    ]
-  },
-  {
-    "url": "https://developers.prtimes.jp",
-    "feeds": [
-      "https://developers.prtimes.jp/feed/",
-      "https://developers.prtimes.jp/comments/feed/"
-    ]
-  },
-  {
-    "url": "https://blog.osstech.co.jp",
-    "feeds": [
-      "https://blog.osstech.co.jp/posts/index.xml"
-    ]
-  },
-  {
     "url": "https://zenn.dev/uki00a/",
     "feeds": [
       "https://zenn.dev/uki00a/feed"
     ]
   },
   {
-    "url": "https://quick-lint-js.com",
-    "feeds": [
-      "https://quick-lint-js.com/blog/feed.xml"
-    ]
-  },
-  {
     "url": "https://zenn.dev/yamachan0625/",
     "feeds": [
       "https://zenn.dev/yamachan0625/feed"
-    ]
-  },
-  {
-    "url": "https://user-first.ikyu.co.jp",
-    "feeds": [
-      "https://user-first.ikyu.co.jp/feed",
-      "https://user-first.ikyu.co.jp/rss"
     ]
   }
 ]
