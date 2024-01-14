@@ -85,8 +85,10 @@ async function main() {
     const withoutDuplicate = filterDuplicate(filteredList);
     console.debug("Feed Count:", feeds.length);
     const opml = createOPML(withoutDuplicate);
-    // write to data/feed-list.opml
-    fs.writeFileSync(path.join(DATA_DIR, "feed-list.opml"), opml);
+    // write to data/opml-list.opml
+    fs.writeFileSync(path.join(DATA_DIR, "opml-list.opml"), opml);
+    // write to data/opml-list.json
+    fs.writeFileSync(path.join(DATA_DIR, "opml-list.json"), JSON.stringify(withoutDuplicate, null, 2));
 }
 
 if (require.main === module) {

@@ -43,9 +43,10 @@ graph TD
 ### OPML List
 
 - Generate OPML file from `data/feed-list.json`
-- Save OPML file to `data/feed-list.opml`
+- Save OPML file to `data/opml-list.opml`
+- Save OPML as JSON to `data/opml-list.json`
 - FILTER: 
-  - RSS向きのサイトのみに絞る 
+  - 購読向きのサイトのみに絞る 
   - 汎用ニュースは除外
   - 流量が多いサイトは除外
   - フォーラムは除外

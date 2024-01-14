@@ -26,7 +26,7 @@ export const generateStaticSite = () => {
                     生きているJavaScriptの情報源として利用できます。<br/>
                     OPML Feedを使い、サイトのRSSフィードをまとめて購読できます。</p>
                     <ul>
-                    <li>OPML Feed: <a href="https://jser.info/watch-list/data/feed-list.opml">feed-list.opml</a></li>
+                    <li>OPML Feed: <a href="https://jser.info/watch-list/data/opml-list.opml">opml-list.opml</a></li>
                     <li>Source: <a href="https://github.com/jser/watch-list">@jser/watch-list</a></li>
                     <li>Last Updated: <time datetime="${isoString}">${isoString}</time></li>
                     </ul>
