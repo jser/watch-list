@@ -25,6 +25,7 @@ export const generateStaticSite = () => {
                     <p><a href="https://jser.info">JSer.info</a>で2年以内に紹介したことがあるサイトの一覧です。<br/>
                     生きているJavaScriptの情報源として利用できます。<br/>
                     OPML Feedを使い、サイトのRSSフィードをまとめて購読できます。</p>
+                    <p>また、<a title="JSer.info Watch List RSS" href="https://jser.info/watch-list-rss/">JSer.info Watch List RSS</a>ではサイトのRSSフィードを一つのRSSフィードとしてまとめたものを公開しています。</p>
                     <ul>
                     <li>OPML Feed(ALL): <a href="https://jser.info/watch-list/data/feed-list.opml">feed-list.opml</a></li>
                     <li>OPML Feed(流量調整済): <a href="https://jser.info/watch-list/data/opml-list.opml">opml-list.opml</a></li>
