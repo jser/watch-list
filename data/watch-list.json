@@ -413,25 +413,6 @@
   },
   {
     "count": 8,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "Angular",
-      "JavaScript",
-      "news",
-      "TypeScript",
-      "article",
-      "ReleaseNote",
-      "browser",
-      "testing",
-      "document"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -514,6 +495,24 @@
     "example": {
       "title": "Ember 5.0 Released",
       "url": "https://blog.emberjs.com/ember-5-0-released/"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://blog.angular.io",
+    "tags": [
+      "Angular",
+      "TypeScript",
+      "article",
+      "ReleaseNote",
+      "JavaScript",
+      "browser",
+      "testing",
+      "document"
+    ],
+    "example": {
+      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
     }
   },
   {
@@ -2561,19 +2560,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://ebooks.humanwhocodes.com",
-    "tags": [
-      "Promises",
-      "book",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Understanding JavaScript Promises",
-      "url": "https://ebooks.humanwhocodes.com/promises"
     }
   },
   {
@@ -10240,6 +10226,18 @@
     "example": {
       "title": "The chibivue Book | The chibivue Book",
       "url": "https://ubugeeei.github.io/chibivue/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://mwskwong.com",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Migrating from Zod to Valibot: A Comparative Experience | Matthew Kwong",
+      "url": "https://mwskwong.com/blog/migrating-from-zod-to-valibot-a-comparative-experience"
     }
   }
 ]
