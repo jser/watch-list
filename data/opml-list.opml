@@ -86,7 +86,6 @@
 <outline text="escape.tech" title="escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
-<outline text="gihyo.jp" title="gihyo.jp" type="rss" xmlUrl="https://gihyo.jp/feed/rss1"/>
 <outline text="gist.github.com/andrewbranch" title="gist.github.com/andrewbranch" type="rss" xmlUrl="https://gist.github.com/andrewbranch.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
@@ -111,7 +110,6 @@
 <outline text="marvinh.dev" title="marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
 <outline text="maximorlov.com" title="maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
 <outline text="mdxjs.com" title="mdxjs.com" type="rss" xmlUrl="https://mdxjs.com/rss.xml"/>
-<outline text="medium.com/@vueshenzhen/" title="medium.com/@vueshenzhen/" type="rss" xmlUrl="https://medium.com/feed/@vueshenzhen"/>
 <outline text="medium.com/@fastifyjs/" title="medium.com/@fastifyjs/" type="rss" xmlUrl="https://medium.com/feed/@fastifyjs"/>
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/dartlang/" title="medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>

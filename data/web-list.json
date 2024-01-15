@@ -300,29 +300,6 @@
   },
   {
     "count": 10,
-    "url": "https://gihyo.jp",
-    "tags": [
-      "TypeScript",
-      "book",
-      "Next.js",
-      "node.js",
-      "JavaScript",
-      "accessibility",
-      "Svelte",
-      "Vue",
-      "library",
-      "HTML",
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Tailwind CSS実践入門：書籍案内｜技術評論社",
-      "url": "https://gihyo.jp/book/2024/978-4-297-13943-8"
-    },
-    "rssUrl": "https://gihyo.jp/feed/rss1"
-  },
-  {
-    "count": 10,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -2635,20 +2612,6 @@
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://medium.com/@vueshenzhen/",
-    "tags": [
-      "vite",
-      "plugin",
-      "article"
-    ],
-    "example": {
-      "title": "A brief introduction of vite-plugin-federation | by Vueshenzhen | Jan, 2022 | Medium",
-      "url": "https://medium.com/@vueshenzhen/a-brief-introduction-of-vite-plugin-federation-9e998b2e43b"
-    },
-    "rssUrl": "https://medium.com/feed/@vueshenzhen"
   },
   {
     "count": 1,
@@ -10490,6 +10453,20 @@
     "example": {
       "title": "Migrating from Zod to Valibot: A Comparative Experience | Matthew Kwong",
       "url": "https://mwskwong.com/blog/migrating-from-zod-to-valibot-a-comparative-experience"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://idraw.js.org",
+    "tags": [
+      "JavaScript",
+      "canvas",
+      "library",
+      "editor"
+    ],
+    "example": {
+      "title": "iDraw.js | iDraw.js",
+      "url": "https://idraw.js.org/docs/en-US/"
     }
   }
 ]
