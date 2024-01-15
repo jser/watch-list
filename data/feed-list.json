@@ -523,14 +523,6 @@
     ]
   },
   {
-    "url": "https://gihyo.jp",
-    "feeds": [
-      "https://gihyo.jp/feed/rss1",
-      "https://gihyo.jp/feed/rss2",
-      "https://gihyo.jp/feed/atom"
-    ]
-  },
-  {
     "url": "https://gist.github.com/andrewbranch",
     "feeds": [
       "https://gist.github.com/andrewbranch.atom"
@@ -2645,12 +2637,6 @@
     "url": "https://mdxjs.com",
     "feeds": [
       "https://mdxjs.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://medium.com/@vueshenzhen/",
-    "feeds": [
-      "https://medium.com/feed/@vueshenzhen"
     ]
   },
   {
