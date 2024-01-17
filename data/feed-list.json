@@ -914,12 +914,6 @@
     ]
   },
   {
-    "url": "https://github.com/fox1t/turborepo-remote-cache",
-    "feeds": [
-      "https://github.com/fox1t/turborepo-remote-cache/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ngneat/elf",
     "feeds": [
       "https://github.com/ngneat/elf/releases.atom"
