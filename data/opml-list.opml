@@ -227,7 +227,6 @@
 <outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
 <outline text="yosuke-furukawa.hatenablog.com" title="yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
-<outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
@@ -239,6 +238,7 @@
 <outline text="zenn.dev/0kate/" title="zenn.dev/0kate/" type="rss" xmlUrl="https://zenn.dev/0kate/feed"/>
 <outline text="zenn.dev/yhatt/" title="zenn.dev/yhatt/" type="rss" xmlUrl="https://zenn.dev/yhatt/feed"/>
 <outline text="zenn.dev/yend724/" title="zenn.dev/yend724/" type="rss" xmlUrl="https://zenn.dev/yend724/feed"/>
+<outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/mkt/" title="zenn.dev/mkt/" type="rss" xmlUrl="https://zenn.dev/mkt/feed"/>
 <outline text="zenn.dev/terrierscript/" title="zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
 <outline text="zenn.dev/yusukehirao/" title="zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>

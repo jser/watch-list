@@ -1512,38 +1512,6 @@
   },
   {
     "count": 2,
-    "url": "https://eh-career.com",
-    "tags": [
-      "React",
-      "JavaScript",
-      "article",
-      "Next.js",
-      "tutorial"
-    ],
-    "example": {
-      "title": "新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう - エンジニアHub｜Webエンジニアのキャリアを考える！",
-      "url": "https://eh-career.com/engineerhub/entry/2023/04/18/093000"
-    },
-    "rssUrl": "https://eh-career.com/feed/index.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/qnighy/",
-    "tags": [
-      "ECMAScript",
-      "browser",
-      "spec",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "`*.d.ts` ファイルをコミットする前に知ってほしい4つのこと",
-      "url": "https://zenn.dev/qnighy/articles/9a6a0041f2a1aa"
-    },
-    "rssUrl": "https://zenn.dev/qnighy/feed"
-  },
-  {
-    "count": 2,
     "url": "https://blogs.windows.com",
     "tags": [
       "MSEdge",
@@ -2612,100 +2580,6 @@
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://fakerjs.dev",
-    "tags": [
-      "JavaScript",
-      "library",
-      "news"
-    ],
-    "example": {
-      "title": "An update from the Faker team | Faker",
-      "url": "https://fakerjs.dev/update.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.replit.com",
-    "tags": [
-      "JavaScript",
-      "editor",
-      "library",
-      "article"
-    ],
-    "example": {
-      "title": "Replit - Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in the Browser",
-      "url": "https://blog.replit.com/code-editors"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://typescriptbook.jp",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "document"
-    ],
-    "example": {
-      "title": "TypeScript解読アシスタント | TypeScript入門『サバイバルTypeScript』",
-      "url": "https://typescriptbook.jp/code-reading-assistant"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ngneat/elf",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "ngneat/elf: 🧙‍♀️ A Reactive Store with Magical Powers",
-      "url": "https://github.com/ngneat/elf"
-    },
-    "rssUrl": "https://github.com/ngneat/elf/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mozilla/rhino",
-    "tags": [
-      "Java",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "Release Rhino 1.7.14 · mozilla/rhino",
-      "url": "https://github.com/mozilla/rhino/releases/tag/Rhino1_7_14_Release"
-    },
-    "rssUrl": "https://github.com/mozilla/rhino/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://napi.rs",
-    "tags": [
-      "Rust",
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing NAPI-RS v2 | NAPI-RS Docs",
-      "url": "https://napi.rs/blog/announce-v2"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.openreplay.com",
-    "tags": [
-      "JavaScript",
-      "HTML",
-      "article"
-    ],
-    "example": {
-      "title": "Form Validation Using JavaScript's Constraint Validation API",
-      "url": "https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api"
-    }
   },
   {
     "count": 1,
@@ -6894,6 +6768,19 @@
   },
   {
     "count": 1,
+    "url": "https://zenn.dev/qnighy/",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "`*.d.ts` ファイルをコミットする前に知ってほしい4つのこと",
+      "url": "https://zenn.dev/qnighy/articles/9a6a0041f2a1aa"
+    },
+    "rssUrl": "https://zenn.dev/qnighy/feed"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/azu/tsconfig-to-dual-package",
     "tags": [
       "TypeScript",
@@ -8039,6 +7926,20 @@
       "url": "https://github.com/HeyPuter/kv.js"
     },
     "rssUrl": "https://github.com/HeyPuter/kv.js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://eh-career.com",
+    "tags": [
+      "Next.js",
+      "tutorial",
+      "article"
+    ],
+    "example": {
+      "title": "新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう - エンジニアHub｜Webエンジニアのキャリアを考える！",
+      "url": "https://eh-career.com/engineerhub/entry/2023/04/18/093000"
+    },
+    "rssUrl": "https://eh-career.com/feed/index.xml"
   },
   {
     "count": 1,
@@ -10454,5 +10355,18 @@
       "title": "iDraw.js | iDraw.js",
       "url": "https://idraw.js.org/docs/en-US/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/cloudflare/next-on-pages",
+    "tags": [
+      "cloudflare",
+      "Next.js"
+    ],
+    "example": {
+      "title": "cloudflare/next-on-pages: CLI to build and develop Next.js apps for Cloudflare Pages",
+      "url": "https://github.com/cloudflare/next-on-pages"
+    },
+    "rssUrl": "https://github.com/cloudflare/next-on-pages/releases.atom"
   }
 ]
