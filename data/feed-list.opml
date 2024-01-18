@@ -152,8 +152,6 @@
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/ngneat/elf" title="github.com/ngneat/elf" type="rss" xmlUrl="https://github.com/ngneat/elf/releases.atom"/>
-<outline text="github.com/mozilla/rhino" title="github.com/mozilla/rhino" type="rss" xmlUrl="https://github.com/mozilla/rhino/releases.atom"/>
 <outline text="github.com/11ty/eleventy" title="github.com/11ty/eleventy" type="rss" xmlUrl="https://github.com/11ty/eleventy/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
 <outline text="github.com/WebAppPentestGuidelines/graphQLGuideLine" title="github.com/WebAppPentestGuidelines/graphQLGuideLine" type="rss" xmlUrl="https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"/>
@@ -415,6 +413,7 @@
 <outline text="github.com/webui-dev/webui" title="github.com/webui-dev/webui" type="rss" xmlUrl="https://github.com/webui-dev/webui/releases.atom"/>
 <outline text="github.com/moment/moment" title="github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
 <outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
+<outline text="github.com/cloudflare/next-on-pages" title="github.com/cloudflare/next-on-pages" type="rss" xmlUrl="https://github.com/cloudflare/next-on-pages/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -558,7 +557,6 @@
 <outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
 <outline text="yosuke-furukawa.hatenablog.com" title="yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
-<outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
@@ -570,6 +568,7 @@
 <outline text="zenn.dev/0kate/" title="zenn.dev/0kate/" type="rss" xmlUrl="https://zenn.dev/0kate/feed"/>
 <outline text="zenn.dev/yhatt/" title="zenn.dev/yhatt/" type="rss" xmlUrl="https://zenn.dev/yhatt/feed"/>
 <outline text="zenn.dev/yend724/" title="zenn.dev/yend724/" type="rss" xmlUrl="https://zenn.dev/yend724/feed"/>
+<outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/mkt/" title="zenn.dev/mkt/" type="rss" xmlUrl="https://zenn.dev/mkt/feed"/>
 <outline text="zenn.dev/terrierscript/" title="zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
 <outline text="zenn.dev/yusukehirao/" title="zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>

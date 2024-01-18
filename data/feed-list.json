@@ -914,18 +914,6 @@
     ]
   },
   {
-    "url": "https://github.com/ngneat/elf",
-    "feeds": [
-      "https://github.com/ngneat/elf/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mozilla/rhino",
-    "feeds": [
-      "https://github.com/mozilla/rhino/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/11ty/eleventy",
     "feeds": [
       "https://github.com/11ty/eleventy/releases.atom"
@@ -2492,6 +2480,12 @@
     ]
   },
   {
+    "url": "https://github.com/cloudflare/next-on-pages",
+    "feeds": [
+      "https://github.com/cloudflare/next-on-pages/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3419,12 +3413,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/qnighy/",
-    "feeds": [
-      "https://zenn.dev/qnighy/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/morinokami/",
     "feeds": [
       "https://zenn.dev/morinokami/feed"
@@ -3488,6 +3476,12 @@
     "url": "https://zenn.dev/yend724/",
     "feeds": [
       "https://zenn.dev/yend724/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/qnighy/",
+    "feeds": [
+      "https://zenn.dev/qnighy/feed"
     ]
   },
   {
