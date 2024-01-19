@@ -45,6 +45,12 @@
     ]
   },
   {
+    "url": "https://azukiazusa.dev",
+    "feeds": [
+      "https://azukiazusa.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://babeljs.io",
     "feeds": [
       "https://babeljs.io/blog/rss.xml",
@@ -668,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
@@ -812,6 +812,12 @@
     ]
   },
   {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/actions/setup-node",
     "feeds": [
       "https://github.com/actions/setup-node/releases.atom"
@@ -911,24 +917,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/11ty/eleventy",
-    "feeds": [
-      "https://github.com/11ty/eleventy/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/relay",
-    "feeds": [
-      "https://github.com/facebook/relay/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine",
-    "feeds": [
-      "https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"
     ]
   },
   {
@@ -2486,6 +2474,12 @@
     ]
   },
   {
+    "url": "https://github.com/wevm/vocs",
+    "feeds": [
+      "https://github.com/wevm/vocs/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2675,6 +2669,12 @@
     "feeds": [
       "https://moonrepo.dev/blog/rss.xml",
       "https://moonrepo.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://mwskwong.com",
+    "feeds": [
+      "https://mwskwong.com/blog/rss.xml"
     ]
   },
   {

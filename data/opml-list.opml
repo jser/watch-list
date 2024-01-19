@@ -11,6 +11,7 @@
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="alttexthalloffame.org" title="alttexthalloffame.org" type="rss" xmlUrl="https://alttexthalloffame.org/en/feed/"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
+<outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
 <outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
 <outline text="bhch.github.io" title="bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
@@ -118,6 +119,7 @@
 <outline text="mmazzarolo.com" title="mmazzarolo.com" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml"/>
 <outline text="moderncss.dev" title="moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
+<outline text="mwskwong.com" title="mwskwong.com" type="rss" xmlUrl="https://mwskwong.com/blog/rss.xml"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
 <outline text="nolanlawson.com" title="nolanlawson.com" type="rss" xmlUrl="https://nolanlawson.com/feed/"/>
