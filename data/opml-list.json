@@ -45,6 +45,12 @@
     ]
   },
   {
+    "url": "https://azukiazusa.dev",
+    "feeds": [
+      "https://azukiazusa.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://babeljs.io",
     "feeds": [
       "https://babeljs.io/blog/rss.xml",
@@ -718,6 +724,12 @@
     "feeds": [
       "https://moonrepo.dev/blog/rss.xml",
       "https://moonrepo.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://mwskwong.com",
+    "feeds": [
+      "https://mwskwong.com/blog/rss.xml"
     ]
   },
   {

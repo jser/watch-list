@@ -1132,22 +1132,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release Release v1.6.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.6.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://fusebit.io",
     "tags": [
       "JavaScript",
@@ -1842,6 +1826,21 @@
       "url": "https://github.com/electron/electron/releases/tag/v20.0.0"
     },
     "rssUrl": "https://github.com/electron/electron/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release Release v1.6.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.6.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 2,
@@ -2580,47 +2579,6 @@
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/11ty/eleventy",
-    "tags": [
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Eleventy v1.0.0: First! · 11ty/eleventy",
-      "url": "https://github.com/11ty/eleventy/releases/tag/v1.0.0"
-    },
-    "rssUrl": "https://github.com/11ty/eleventy/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/relay",
-    "tags": [
-      "GraphQL",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · facebook/relay",
-      "url": "https://github.com/facebook/relay/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/facebook/relay/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine",
-    "tags": [
-      "GraphQL",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "WebAppPentestGuidelines/graphQLGuideLine",
-      "url": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine"
-    },
-    "rssUrl": "https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"
   },
   {
     "count": 1,
@@ -10340,7 +10298,8 @@
     "example": {
       "title": "Migrating from Zod to Valibot: A Comparative Experience | Matthew Kwong",
       "url": "https://mwskwong.com/blog/migrating-from-zod-to-valibot-a-comparative-experience"
-    }
+    },
+    "rssUrl": "https://mwskwong.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -10368,5 +10327,33 @@
       "url": "https://github.com/cloudflare/next-on-pages"
     },
     "rssUrl": "https://github.com/cloudflare/next-on-pages/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/wevm/vocs",
+    "tags": [
+      "React",
+      "vite",
+      "document",
+      "Tools"
+    ],
+    "example": {
+      "title": "wevm/vocs: Minimal Documentation Framework, powered by React + Vite.",
+      "url": "https://github.com/wevm/vocs"
+    },
+    "rssUrl": "https://github.com/wevm/vocs/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://azukiazusa.dev",
+    "tags": [
+      "Remix",
+      "article"
+    ],
+    "example": {
+      "title": "Remix の SPA モード",
+      "url": "https://azukiazusa.dev/blog/remix-spa-mode/"
+    },
+    "rssUrl": "https://azukiazusa.dev/rss.xml"
   }
 ]

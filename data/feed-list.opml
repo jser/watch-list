@@ -11,6 +11,7 @@
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="alttexthalloffame.org" title="alttexthalloffame.org" type="rss" xmlUrl="https://alttexthalloffame.org/en/feed/"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
+<outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
 <outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
 <outline text="bhch.github.io" title="bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
@@ -111,7 +112,6 @@
 <outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
-<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/ghiscoding/lerna-lite" title="github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
@@ -135,6 +135,7 @@
 <outline text="github.com/puppeteer/puppeteer" title="github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/electron/electron" title="github.com/electron/electron" type="rss" xmlUrl="https://github.com/electron/electron/releases.atom"/>
+<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
 <outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
 <outline text="github.com/infernojs/inferno" title="github.com/infernojs/inferno" type="rss" xmlUrl="https://github.com/infernojs/inferno/releases.atom"/>
@@ -152,9 +153,6 @@
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/11ty/eleventy" title="github.com/11ty/eleventy" type="rss" xmlUrl="https://github.com/11ty/eleventy/releases.atom"/>
-<outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
-<outline text="github.com/WebAppPentestGuidelines/graphQLGuideLine" title="github.com/WebAppPentestGuidelines/graphQLGuideLine" type="rss" xmlUrl="https://github.com/WebAppPentestGuidelines/graphQLGuideLine/releases.atom"/>
 <outline text="github.com/tinyplex/tinybase" title="github.com/tinyplex/tinybase" type="rss" xmlUrl="https://github.com/tinyplex/tinybase/releases.atom"/>
 <outline text="github.com/webtoon/psd" title="github.com/webtoon/psd" type="rss" xmlUrl="https://github.com/webtoon/psd/releases.atom"/>
 <outline text="github.com/DataDog/build-plugin" title="github.com/DataDog/build-plugin" type="rss" xmlUrl="https://github.com/DataDog/build-plugin/releases.atom"/>
@@ -414,6 +412,7 @@
 <outline text="github.com/moment/moment" title="github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
 <outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
 <outline text="github.com/cloudflare/next-on-pages" title="github.com/cloudflare/next-on-pages" type="rss" xmlUrl="https://github.com/cloudflare/next-on-pages/releases.atom"/>
+<outline text="github.com/wevm/vocs" title="github.com/wevm/vocs" type="rss" xmlUrl="https://github.com/wevm/vocs/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -444,6 +443,7 @@
 <outline text="mmazzarolo.com" title="mmazzarolo.com" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml"/>
 <outline text="moderncss.dev" title="moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
+<outline text="mwskwong.com" title="mwskwong.com" type="rss" xmlUrl="https://mwskwong.com/blog/rss.xml"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
 <outline text="nolanlawson.com" title="nolanlawson.com" type="rss" xmlUrl="https://nolanlawson.com/feed/"/>
