@@ -1338,6 +1338,12 @@
     ]
   },
   {
+    "url": "https://www.robinwieruch.de",
+    "feeds": [
+      "https://www.robinwieruch.de/index.xml"
+    ]
+  },
+  {
     "url": "https://www.rspack.dev",
     "feeds": [
       "https://www.rspack.dev/rss/blog-en.rss"

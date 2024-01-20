@@ -1,6 +1,6 @@
 [
   {
-    "count": 57,
+    "count": 56,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -1998,6 +1998,22 @@
       "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax"
     },
     "rssUrl": "https://zenn.dev/teppeis/feed"
+  },
+  {
+    "count": 2,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "CSS",
+      "figma",
+      "article",
+      "Design",
+      "mobile"
+    ],
+    "example": {
+      "title": "Designing better target sizes",
+      "url": "https://ishadeed.com/article/target-size"
+    },
+    "rssUrl": "https://ishadeed.com/feed.xml"
   },
   {
     "count": 2,
@@ -4901,20 +4917,6 @@
       "url": "https://github.com/5t3ph/css-browser-support"
     },
     "rssUrl": "https://github.com/5t3ph/css-browser-support/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "figma",
-      "article"
-    ],
-    "example": {
-      "title": "The CSS behind Figma - Ahmad Shadeed",
-      "url": "https://ishadeed.com/article/figma-css/"
-    },
-    "rssUrl": "https://ishadeed.com/feed.xml"
   },
   {
     "count": 1,
@@ -10355,5 +10357,32 @@
       "url": "https://azukiazusa.dev/blog/remix-spa-mode/"
     },
     "rssUrl": "https://azukiazusa.dev/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://www.robinwieruch.de",
+    "tags": [
+      "React",
+      "article",
+      "library"
+    ],
+    "example": {
+      "title": "React Libraries for 2024",
+      "url": "https://www.robinwieruch.de/react-libraries/"
+    },
+    "rssUrl": "https://www.robinwieruch.de/index.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/penrose/penrose",
+    "tags": [
+      "diagram",
+      "library"
+    ],
+    "example": {
+      "title": "penrose/penrose: Create beautiful diagrams just by typing notation in plain text.",
+      "url": "https://github.com/penrose/penrose"
+    },
+    "rssUrl": "https://github.com/penrose/penrose/releases.atom"
   }
 ]

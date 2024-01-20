@@ -213,6 +213,7 @@
 <outline text="www.nray.dev" title="www.nray.dev" type="rss" xmlUrl="https://www.nray.dev/rss.xml"/>
 <outline text="www.packtpub.com" title="www.packtpub.com" type="rss" xmlUrl="https://hub.packtpub.com/feed/"/>
 <outline text="www.remotion.dev" title="www.remotion.dev" type="rss" xmlUrl="https://www.remotion.dev/blog/rss.xml"/>
+<outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
 <outline text="www.simoahava.com" title="www.simoahava.com" type="rss" xmlUrl="https://www.simoahava.com/index.xml"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
