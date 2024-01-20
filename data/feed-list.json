@@ -2480,6 +2480,12 @@
     ]
   },
   {
+    "url": "https://github.com/penrose/penrose",
+    "feeds": [
+      "https://github.com/penrose/penrose/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3298,6 +3304,12 @@
       "https://www.remotion.dev/success-stories/atom.xml",
       "https://www.remotion.dev/learn/rss.xml",
       "https://www.remotion.dev/learn/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.robinwieruch.de",
+    "feeds": [
+      "https://www.robinwieruch.de/index.xml"
     ]
   },
   {
