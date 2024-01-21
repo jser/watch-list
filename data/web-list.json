@@ -95,7 +95,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 31,
+    "count": 32,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -110,8 +110,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Bun v1.0.22 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.22"
+      "title": "Bun v1.0.24 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.0.24"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -149,6 +149,22 @@
   },
   {
     "count": 17,
+    "url": "https://astro.build",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "Tools",
+      "astro"
+    ],
+    "example": {
+      "title": "Astro 4.2 | Astro",
+      "url": "https://astro.build/blog/astro-420/"
+    },
+    "rssUrl": "https://astro.build/rss.xml"
+  },
+  {
+    "count": 17,
     "url": "https://web.dev",
     "tags": [
       "PWA",
@@ -171,22 +187,6 @@
       "title": "CSS Subgrid",
       "url": "https://web.dev/css-subgrid/"
     }
-  },
-  {
-    "count": 16,
-    "url": "https://astro.build",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "Tools",
-      "astro"
-    ],
-    "example": {
-      "title": "Astro 4.1 | Astro",
-      "url": "https://astro.build/blog/astro-410/"
-    },
-    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 14,
@@ -403,24 +403,6 @@
   },
   {
     "count": 8,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "ReleaseNote",
-      "article",
-      "iOS",
-      "Android",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
-      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
-  },
-  {
-    "count": 8,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -524,6 +506,24 @@
       "url": "https://prettier.io/blog/2024/01/12/3.2.0.html"
     },
     "rssUrl": "https://prettier.io/blog/atom.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "article",
+      "iOS",
+      "Android",
+      "ReleaseNote",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
+      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 7,
