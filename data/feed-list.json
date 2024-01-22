@@ -2486,6 +2486,12 @@
     ]
   },
   {
+    "url": "https://github.com/volarjs/volar.js",
+    "feeds": [
+      "https://github.com/volarjs/volar.js/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2502,6 +2508,14 @@
     "url": "https://htmx.org",
     "feeds": [
       "https://htmx.org/atom.xml"
+    ]
+  },
+  {
+    "url": "https://humanwhocodes.com",
+    "feeds": [
+      "https://humanwhocodes.com/feeds/blog.xml",
+      "https://humanwhocodes.com/feeds/snippets.xml",
+      "https://humanwhocodes.com/feeds/all.xml"
     ]
   },
   {
@@ -2649,13 +2663,6 @@
     "url": "https://medium.com/miro-engineering/",
     "feeds": [
       "https://medium.com/feed/miro-engineering"
-    ]
-  },
-  {
-    "url": "https://mitpress.mit.edu",
-    "feeds": [
-      "https://mitpress.mit.edu/feed/",
-      "https://mitpress.mit.edu/comments/feed/"
     ]
   },
   {
@@ -2907,6 +2914,13 @@
     "feeds": [
       "https://speakerdeck.com/sajikix.atom",
       "https://speakerdeck.com/sajikix.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/brn/",
+    "feeds": [
+      "https://speakerdeck.com/brn.atom",
+      "https://speakerdeck.com/brn.rss"
     ]
   },
   {

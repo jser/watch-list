@@ -47,19 +47,19 @@
     }
   },
   {
-    "count": 37,
+    "count": 36,
     "url": "https://webkit.org",
     "tags": [
       "safari",
-      "webkit",
-      "ReleaseNote",
       "article",
       "HTML",
+      "ReleaseNote",
       "JavaScript",
       "IndexedDB",
       "browser",
       "testing",
       "WebPlatformAPI",
+      "webkit",
       "CSS",
       "serverless",
       "アンケート"
@@ -67,28 +67,6 @@
     "example": {
       "title": "CSS Nesting and the Cascade | WebKit",
       "url": "https://webkit.org/blog/14571/css-nesting-and-the-cascade/"
-    }
-  },
-  {
-    "count": 32,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "article",
-      "WebPlatformAPI",
-      "node.js",
-      "npm",
-      "React",
-      "news",
-      "V8",
-      "JavaScript",
-      "library",
-      "denoe"
-    ],
-    "example": {
-      "title": "Deno 1.39: The Return of WebGPU",
-      "url": "https://deno.com/blog/v1.39"
     }
   },
   {
@@ -109,6 +87,28 @@
     "example": {
       "title": "Bun v1.0.24 | Bun Blog",
       "url": "https://bun.sh/blog/bun-v1.0.24"
+    }
+  },
+  {
+    "count": 31,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "article",
+      "WebPlatformAPI",
+      "ReleaseNote",
+      "node.js",
+      "npm",
+      "React",
+      "news",
+      "V8",
+      "JavaScript",
+      "library",
+      "denoe"
+    ],
+    "example": {
+      "title": "Deno 1.39: The Return of WebGPU",
+      "url": "https://deno.com/blog/v1.39"
     }
   },
   {
@@ -622,20 +622,6 @@
   },
   {
     "count": 5,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "news",
-      "ReleaseNote",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Announcing Vue 3.4 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vue-3-4"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -963,6 +949,19 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "Vue",
+      "ReleaseNote",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Announcing Vue 3.4 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vue-3-4"
+    }
   },
   {
     "count": 4,
@@ -2354,6 +2353,19 @@
   },
   {
     "count": 2,
+    "url": "https://socket.dev",
+    "tags": [
+      "npm",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "npm in Review: A 2023 Retrospective on Growth, Security, and Quirky Facts - Socket",
+      "url": "https://socket.dev/blog/2023-npm-retrospective"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
@@ -2522,19 +2534,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://mitpress.mit.edu",
-    "tags": [
-      "JavaScript",
-      "program",
-      "book"
-    ],
-    "example": {
-      "title": "Structure and Interpretation of Computer Programs | The MIT Press",
-      "url": "https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1"
     }
   },
   {
@@ -7267,19 +7266,6 @@
   },
   {
     "count": 1,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Introducing \"safe npm\", a Socket npm Wrapper - Socket",
-      "url": "https://socket.dev/blog/introducing-safe-npm"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/gajus/turbowatch",
     "tags": [
       "node.js",
@@ -10131,5 +10117,46 @@
       "url": "https://github.com/penrose/penrose"
     },
     "rssUrl": "https://github.com/penrose/penrose/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/brn/",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "slide"
+    ],
+    "example": {
+      "title": "Parsing Javascript - Speaker Deck",
+      "url": "https://speakerdeck.com/brn/parsing-javascript"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://humanwhocodes.com",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "deno",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing fsx: A modern filesystem API for JavaScript - Human Who Codes",
+      "url": "https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/volarjs/volar.js",
+    "tags": [
+      "TypeScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · volarjs/volar.js",
+      "url": "https://github.com/volarjs/volar.js/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/volarjs/volar.js/releases.atom"
   }
 ]
