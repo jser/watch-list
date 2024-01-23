@@ -640,19 +640,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.80.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.80.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://babeljs.io",
     "tags": [
       "babel",
@@ -864,6 +851,19 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.80.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.80.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
