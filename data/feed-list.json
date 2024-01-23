@@ -602,12 +602,6 @@
     ]
   },
   {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/jest",
     "feeds": [
       "https://github.com/facebook/jest/releases.atom"
@@ -629,6 +623,12 @@
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
