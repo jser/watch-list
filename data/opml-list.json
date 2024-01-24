@@ -1117,12 +1117,6 @@
     ]
   },
   {
-    "url": "https://vanillalist.top",
-    "feeds": [
-      "https://vanillalist.top/feed.xml"
-    ]
-  },
-  {
     "url": "https://vercel.com",
     "feeds": [
       "https://vercel.com/atom"
