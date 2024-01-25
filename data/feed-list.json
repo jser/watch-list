@@ -614,6 +614,12 @@
     ]
   },
   {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
@@ -623,12 +629,6 @@
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -2483,6 +2483,12 @@
     "url": "https://github.com/volarjs/volar.js",
     "feeds": [
       "https://github.com/volarjs/volar.js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/chrisguttandin/worker-timers",
+    "feeds": [
+      "https://github.com/chrisguttandin/worker-timers/releases.atom"
     ]
   },
   {
