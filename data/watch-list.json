@@ -112,7 +112,7 @@
     }
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -200,15 +200,15 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 121.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/121.0/releasenotes/"
+      "title": "Firefox 122.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/122.0/releasenotes/"
     }
   },
   {
@@ -648,6 +648,19 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.90.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://vercel.com",
     "tags": [
       "Next.js",
@@ -810,19 +823,6 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.80.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.80.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
@@ -2530,18 +2530,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.typescriptlang.org",
-    "tags": [
-      "TypeScript",
-      "cheatsheet"
-    ],
-    "example": {
-      "title": "TypeScript: Cheat Sheets",
-      "url": "https://www.typescriptlang.org/cheatsheets"
     }
   },
   {
@@ -10113,5 +10101,33 @@
       "url": "https://github.com/volarjs/volar.js/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/volarjs/volar.js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://ahastack.dev",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "document"
+    ],
+    "example": {
+      "title": "The AHA Stack | AHA",
+      "url": "https://ahastack.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/chrisguttandin/worker-timers",
+    "tags": [
+      "browser",
+      "webworker",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "chrisguttandin/worker-timers: A replacement for setInterval() and setTimeout() which works in unfocused windows.",
+      "url": "https://github.com/chrisguttandin/worker-timers"
+    },
+    "rssUrl": "https://github.com/chrisguttandin/worker-timers/releases.atom"
   }
 ]

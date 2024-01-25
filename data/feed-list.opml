@@ -102,9 +102,9 @@
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
+<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
-<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
@@ -414,6 +414,7 @@
 <outline text="github.com/wevm/vocs" title="github.com/wevm/vocs" type="rss" xmlUrl="https://github.com/wevm/vocs/releases.atom"/>
 <outline text="github.com/penrose/penrose" title="github.com/penrose/penrose" type="rss" xmlUrl="https://github.com/penrose/penrose/releases.atom"/>
 <outline text="github.com/volarjs/volar.js" title="github.com/volarjs/volar.js" type="rss" xmlUrl="https://github.com/volarjs/volar.js/releases.atom"/>
+<outline text="github.com/chrisguttandin/worker-timers" title="github.com/chrisguttandin/worker-timers" type="rss" xmlUrl="https://github.com/chrisguttandin/worker-timers/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
