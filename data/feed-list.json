@@ -920,18 +920,6 @@
     ]
   },
   {
-    "url": "https://github.com/webtoon/psd",
-    "feeds": [
-      "https://github.com/webtoon/psd/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/DataDog/build-plugin",
-    "feeds": [
-      "https://github.com/DataDog/build-plugin/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nightwatchjs/nightwatch",
     "feeds": [
       "https://github.com/nightwatchjs/nightwatch/releases.atom"
