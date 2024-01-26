@@ -71,26 +71,6 @@
   },
   {
     "count": 32,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bundler",
-      "article",
-      "CommonJS",
-      "ECMAScript",
-      "module",
-      "yarn",
-      "npm",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Bun v1.0.24 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.24"
-    }
-  },
-  {
-    "count": 31,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -107,8 +87,28 @@
       "denoe"
     ],
     "example": {
-      "title": "Deno 1.39: The Return of WebGPU",
-      "url": "https://deno.com/blog/v1.39"
+      "title": "Deno 1.40: Temporal API",
+      "url": "https://deno.com/blog/v1.40"
+    }
+  },
+  {
+    "count": 32,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bundler",
+      "article",
+      "CommonJS",
+      "ECMAScript",
+      "module",
+      "yarn",
+      "npm",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Bun v1.0.24 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.0.24"
     }
   },
   {
@@ -2531,35 +2531,6 @@
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/webtoon/psd",
-    "tags": [
-      "JavaScript",
-      "photoshop",
-      "library"
-    ],
-    "example": {
-      "title": "webtoon/psd: A lightweight Adobe Photoshop .psd/.psb file parser in typescript with zero-dependency for WebBrowser and NodeJS",
-      "url": "https://github.com/webtoon/psd"
-    },
-    "rssUrl": "https://github.com/webtoon/psd/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/DataDog/build-plugin",
-    "tags": [
-      "webpack",
-      "bundler",
-      "performance",
-      "plugin"
-    ],
-    "example": {
-      "title": "DataDog/build-plugin: Track your build performances like never before.",
-      "url": "https://github.com/DataDog/build-plugin"
-    },
-    "rssUrl": "https://github.com/DataDog/build-plugin/releases.atom"
   },
   {
     "count": 1,
