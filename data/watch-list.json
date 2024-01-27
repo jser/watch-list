@@ -446,20 +446,6 @@
   },
   {
     "count": 7,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "TypeScript",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ember 5.0 Released",
-      "url": "https://blog.emberjs.com/ember-5-0-released/"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://blog.angular.io",
     "tags": [
       "Angular",
@@ -568,6 +554,20 @@
       "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
     },
     "rssUrl": "https://github.com/vitejs/vite/releases.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "TypeScript",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ember 5.0 Released",
+      "url": "https://blog.emberjs.com/ember-5-0-released/"
+    }
   },
   {
     "count": 6,
@@ -966,6 +966,18 @@
   },
   {
     "count": 4,
+    "url": "https://developer.apple.com",
+    "tags": [
+      "safari",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1296,18 +1308,6 @@
     "example": {
       "title": "CSS Containmentの仕組みを理解してレンダリングパフォーマンスをアップする１ 概要 | フロントエンドBlog | ミツエーリンクス",
       "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202311/28_1448.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://developer.apple.com",
-    "tags": [
-      "safari",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Safari 16.4 Beta Release Notes | Apple Developer Documentation",
-      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_4-release-notes"
     }
   },
   {
