@@ -244,6 +244,31 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
+    "count": 11,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "google",
+      "web ",
+      "video",
+      "Conference",
+      "playwright",
+      "JavaScript",
+      "browser",
+      "testing",
+      "React",
+      "performance",
+      "TypeScript",
+      "blink",
+      "Chrome",
+      "C++",
+      "Next.js"
+    ],
+    "example": {
+      "title": "Next.js App Router Caching: Explained! - YouTube",
+      "url": "https://www.youtube.com/watch?v=VBlSe8tvg4U"
+    }
+  },
+  {
     "count": 10,
     "url": "https://eslint.org",
     "tags": [
@@ -307,30 +332,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.35.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "google",
-      "web ",
-      "video",
-      "Conference",
-      "playwright",
-      "JavaScript",
-      "browser",
-      "testing",
-      "React",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "C++"
-    ],
-    "example": {
-      "title": "JetBrains JavaScript Day 2023 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLQ176FUIyIUZmRHOyz_n9iy2qfHo4_GRT"
-    }
   },
   {
     "count": 9,
@@ -10100,5 +10101,21 @@
       "url": "https://github.com/chrisguttandin/worker-timers"
     },
     "rssUrl": "https://github.com/chrisguttandin/worker-timers/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://mozilla.github.io",
+    "tags": [
+      "browser",
+      "Mozilla",
+      "apple",
+      "google",
+      "Microsoft",
+      "document"
+    ],
+    "example": {
+      "title": "Platform Tilt - Mozilla",
+      "url": "https://mozilla.github.io/platform-tilt/"
+    }
   }
 ]
