@@ -183,7 +183,7 @@
     }
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -194,8 +194,8 @@
       "esbuild"
     ],
     "example": {
-      "title": "Release v0.19.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.19.0"
+      "title": "Release v0.20.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.20.0"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
@@ -10116,6 +10116,45 @@
     "example": {
       "title": "Platform Tilt - Mozilla",
       "url": "https://mozilla.github.io/platform-tilt/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://bellard.org",
+    "tags": [
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "QuickJS Javascript Engine",
+      "url": "https://bellard.org/quickjs/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://adonisjs.com",
+    "tags": [
+      "JavaScript",
+      "nodejs",
+      "ReleaseNote",
+      "server"
+    ],
+    "example": {
+      "title": "Announcing AdonisJS v6",
+      "url": "https://adonisjs.com/blog/adonisjs-v6-announcement"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://bentocache.dev",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "Introduction",
+      "url": "https://bentocache.dev/docs/introduction"
     }
   }
 ]
