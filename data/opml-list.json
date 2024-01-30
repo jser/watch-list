@@ -189,12 +189,6 @@
     ]
   },
   {
-    "url": "https://blog.plasmic.app",
-    "feeds": [
-      "https://blog.plasmic.app/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.rafaelgss.dev",
     "feeds": [
       "https://blog.rafaelgss.dev/rss"
@@ -838,13 +832,6 @@
     "feeds": [
       "https://reactnative.dev/blog/rss.xml",
       "https://reactnative.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://recoiljs.org",
-    "feeds": [
-      "https://recoiljs.org/blog/rss.xml",
-      "https://recoiljs.org/blog/atom.xml"
     ]
   },
   {
