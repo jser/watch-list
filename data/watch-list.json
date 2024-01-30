@@ -270,20 +270,6 @@
   },
   {
     "count": 10,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "Deprecation of formatting rules - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2023/10/deprecating-formatting-rules/"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -359,6 +345,20 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "Deprecation of formatting rules - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2023/10/deprecating-formatting-rules/"
+    }
   },
   {
     "count": 9,
@@ -2532,46 +2532,6 @@
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.plasmic.app",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "How React server components work: an in-depth guide",
-      "url": "https://blog.plasmic.app/posts/how-react-server-components-work/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://recoiljs.org",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Recoil 0.6 | Recoil",
-      "url": "https://recoiljs.org/blog/2022/01/28/0.6.0-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nightwatchjs/nightwatch",
-    "tags": [
-      "E2E",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · nightwatchjs/nightwatch",
-      "url": "https://github.com/nightwatchjs/nightwatch/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/nightwatchjs/nightwatch/releases.atom"
   },
   {
     "count": 1,

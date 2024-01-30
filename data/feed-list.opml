@@ -34,7 +34,6 @@
 <outline text="blog.nnn.dev" title="blog.nnn.dev" type="rss" xmlUrl="https://blog.nnn.dev/feed"/>
 <outline text="blog.nrwl.io" title="blog.nrwl.io" type="rss" xmlUrl="https://blog.nrwl.io/feed"/>
 <outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
-<outline text="blog.plasmic.app" title="blog.plasmic.app" type="rss" xmlUrl="https://blog.plasmic.app/feed.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.s2n.tech" title="blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
 <outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
@@ -153,7 +152,6 @@
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/nightwatchjs/nightwatch" title="github.com/nightwatchjs/nightwatch" type="rss" xmlUrl="https://github.com/nightwatchjs/nightwatch/releases.atom"/>
 <outline text="github.com/ngneat/falso" title="github.com/ngneat/falso" type="rss" xmlUrl="https://github.com/ngneat/falso/releases.atom"/>
 <outline text="github.com/papyrs/stylo" title="github.com/papyrs/stylo" type="rss" xmlUrl="https://github.com/papyrs/stylo/releases.atom"/>
 <outline text="github.com/hikerpig/pintora" title="github.com/hikerpig/pintora" type="rss" xmlUrl="https://github.com/hikerpig/pintora/releases.atom"/>
@@ -462,7 +460,6 @@
 <outline text="quramy.medium.com" title="quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
 <outline text="reactjs.org" title="reactjs.org" type="rss" xmlUrl="https://reactjs.org/feed.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
-<outline text="recoiljs.org" title="recoiljs.org" type="rss" xmlUrl="https://recoiljs.org/blog/rss.xml"/>
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="scrapbox.io" title="scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>

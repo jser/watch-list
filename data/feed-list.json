@@ -189,12 +189,6 @@
     ]
   },
   {
-    "url": "https://blog.plasmic.app",
-    "feeds": [
-      "https://blog.plasmic.app/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.rafaelgss.dev",
     "feeds": [
       "https://blog.rafaelgss.dev/rss"
@@ -917,12 +911,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nightwatchjs/nightwatch",
-    "feeds": [
-      "https://github.com/nightwatchjs/nightwatch/releases.atom"
     ]
   },
   {
@@ -2789,13 +2777,6 @@
     "feeds": [
       "https://reactnative.dev/blog/rss.xml",
       "https://reactnative.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://recoiljs.org",
-    "feeds": [
-      "https://recoiljs.org/blog/rss.xml",
-      "https://recoiljs.org/blog/atom.xml"
     ]
   },
   {

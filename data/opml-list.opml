@@ -34,7 +34,6 @@
 <outline text="blog.nnn.dev" title="blog.nnn.dev" type="rss" xmlUrl="https://blog.nnn.dev/feed"/>
 <outline text="blog.nrwl.io" title="blog.nrwl.io" type="rss" xmlUrl="https://blog.nrwl.io/feed"/>
 <outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
-<outline text="blog.plasmic.app" title="blog.plasmic.app" type="rss" xmlUrl="https://blog.plasmic.app/feed.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.s2n.tech" title="blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
 <outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
@@ -137,7 +136,6 @@
 <outline text="quramy.medium.com" title="quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
 <outline text="reactjs.org" title="reactjs.org" type="rss" xmlUrl="https://reactjs.org/feed.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
-<outline text="recoiljs.org" title="recoiljs.org" type="rss" xmlUrl="https://recoiljs.org/blog/rss.xml"/>
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>
