@@ -1447,6 +1447,20 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/nuxt/nuxt",
+    "tags": [
+      "Vue",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release v3.10.0 · nuxt/nuxt",
+      "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0"
+    },
+    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -2384,20 +2398,6 @@
       "url": "https://github.com/facebook/flow/releases/tag/v0.200.0"
     },
     "rssUrl": "https://github.com/facebook/flow/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/nuxt/nuxt",
-    "tags": [
-      "Vue",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v3.8.0 · nuxt/nuxt",
-      "url": "https://github.com/nuxt/nuxt/releases/tag/v3.8.0"
-    },
-    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
   },
   {
     "count": 2,
