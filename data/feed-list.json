@@ -734,6 +734,12 @@
     ]
   },
   {
+    "url": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/expressjs/express",
     "feeds": [
       "https://github.com/expressjs/express/releases.atom"
@@ -875,12 +881,6 @@
     "url": "https://github.com/facebook/flow",
     "feeds": [
       "https://github.com/facebook/flow/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nuxt/nuxt",
-    "feeds": [
-      "https://github.com/nuxt/nuxt/releases.atom"
     ]
   },
   {
