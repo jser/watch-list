@@ -128,12 +128,12 @@
     }
   },
   {
-    "count": 18,
+    "count": 17,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
-      "npm",
       "pnpm",
       "ReleaseNote",
+      "npm",
       "performance"
     ],
     "example": {
@@ -2530,44 +2530,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.amazon.science",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "article"
-    ],
-    "example": {
-      "title": "How Prime Video updates its app for more than 8,000 device types - Amazon Science",
-      "url": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://v8.dev",
-    "tags": [
-      "V8",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "V8 release v9.9 · V8",
-      "url": "https://v8.dev/blog/v8-release-99"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://developers.cyberagent.co.jp",
-    "tags": [
-      "TypeScript",
-      "article",
-      "refactoring"
-    ],
-    "example": {
-      "title": "100万行の大規模なJavaScript製システムをTypeScriptに移行するためにやったこと | CyberAgent Developers Blog",
-      "url": "https://developers.cyberagent.co.jp/blog/archives/34364/"
     }
   },
   {

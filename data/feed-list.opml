@@ -70,7 +70,6 @@
 <outline text="devblog.thebase.in" title="devblog.thebase.in" type="rss" xmlUrl="https://devblog.thebase.in/feed"/>
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
-<outline text="developers.cyberagent.co.jp" title="developers.cyberagent.co.jp" type="rss" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/"/>
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
 <outline text="devtoolstips.org" title="devtoolstips.org" type="rss" xmlUrl="https://devtoolstips.org/feed.xml"/>
 <outline text="discuss.httparchive.org" title="discuss.httparchive.org" type="rss" xmlUrl="https://discuss.httparchive.org/posts.rss"/>
@@ -502,14 +501,12 @@
 <outline text="typescript-eslint.io" title="typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>
 <outline text="user-first.ikyu.co.jp" title="user-first.ikyu.co.jp" type="rss" xmlUrl="https://user-first.ikyu.co.jp/feed"/>
 <outline text="v2.vuejs.org" title="v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
-<outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="whistlr.info" title="whistlr.info" type="rss" xmlUrl="https://samthor.au/rss.xml"/>
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
-<outline text="www.amazon.science" title="www.amazon.science" type="rss" xmlUrl="https://www.amazon.science/index.rss"/>
 <outline text="www.builder.io" title="www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
 <outline text="www.codeflashbacks.com" title="www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
