@@ -406,12 +406,6 @@
     ]
   },
   {
-    "url": "https://developers.cyberagent.co.jp",
-    "feeds": [
-      "https://developers.cyberagent.co.jp/blog/feed/"
-    ]
-  },
-  {
     "url": "https://developers.prtimes.jp",
     "feeds": [
       "https://developers.prtimes.jp/feed/",
@@ -1097,13 +1091,6 @@
     ]
   },
   {
-    "url": "https://v8.dev",
-    "feeds": [
-      "https://v8.dev/blog.atom",
-      "https://v8.dev/features.atom"
-    ]
-  },
-  {
     "url": "https://vercel.com",
     "feeds": [
       "https://vercel.com/atom"
@@ -1138,12 +1125,6 @@
     "url": "https://www.akshaykhot.com",
     "feeds": [
       "https://www.writesoftwarewell.com/rss/"
-    ]
-  },
-  {
-    "url": "https://www.amazon.science",
-    "feeds": [
-      "https://www.amazon.science/index.rss"
     ]
   },
   {
