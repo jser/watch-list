@@ -125,6 +125,13 @@
     ]
   },
   {
+    "url": "https://blog.flatt.tech",
+    "feeds": [
+      "https://blog.flatt.tech/feed",
+      "https://blog.flatt.tech/rss"
+    ]
+  },
+  {
     "url": "https://blog.getbootstrap.com",
     "feeds": [
       "https://blog.getbootstrap.com/feed.xml"
