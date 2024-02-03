@@ -1,6 +1,6 @@
 [
   {
-    "count": 56,
+    "count": 55,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "count": 26,
+    "count": 27,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -123,8 +123,34 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.3 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/"
+      "title": "Announcing TypeScript 5.4 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/"
+    }
+  },
+  {
+    "count": 19,
+    "url": "https://web.dev",
+    "tags": [
+      "PWA",
+      "tutorial",
+      "HTML",
+      "article",
+      "accessibility",
+      "CSS",
+      "browser",
+      "Chrome",
+      "performance",
+      "Image",
+      "privacy",
+      "sourcemap",
+      "debug",
+      "Extension",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Learn Performance  |  web.dev",
+      "url": "https://web.dev/learn/performance?hl=en"
     }
   },
   {
@@ -155,31 +181,6 @@
     "example": {
       "title": "Astro 4.2 | Astro",
       "url": "https://astro.build/blog/astro-420/"
-    }
-  },
-  {
-    "count": 17,
-    "url": "https://web.dev",
-    "tags": [
-      "PWA",
-      "tutorial",
-      "HTML",
-      "article",
-      "accessibility",
-      "CSS",
-      "browser",
-      "Chrome",
-      "performance",
-      "Image",
-      "privacy",
-      "sourcemap",
-      "debug",
-      "Extension",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "CSS Subgrid",
-      "url": "https://web.dev/css-subgrid/"
     }
   },
   {
@@ -951,6 +952,22 @@
   },
   {
     "count": 4,
+    "url": "https://www.mitsue.co.jp",
+    "tags": [
+      "JavaScript",
+      "performance",
+      "article",
+      "CSS",
+      "browser",
+      "WebPlatformAPI"
+    ],
+    "example": {
+      "title": "Interop 2024がスタート | フロントエンドBlog | ミツエーリンクス",
+      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202402/02_1152.html"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://developer.apple.com",
     "tags": [
       "safari",
@@ -1279,20 +1296,6 @@
     "example": {
       "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
       "url": "https://dwango.github.io/articles/html-loading-attribute/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://www.mitsue.co.jp",
-    "tags": [
-      "JavaScript",
-      "performance",
-      "article",
-      "CSS"
-    ],
-    "example": {
-      "title": "CSS Containmentの仕組みを理解してレンダリングパフォーマンスをアップする１ 概要 | フロントエンドBlog | ミツエーリンクス",
-      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202311/28_1448.html"
     }
   },
   {
@@ -10076,6 +10079,34 @@
     "example": {
       "title": "Introduction",
       "url": "https://bentocache.dev/docs/introduction"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/team_zenn/",
+    "tags": [
+      "JavaScript",
+      "editor",
+      "article",
+      "React"
+    ],
+    "example": {
+      "title": "CodeMirror v6によるZennのMarkdownエディタの作り方",
+      "url": "https://zenn.dev/team_zenn/articles/zenn-markdown-editor-by-cm6"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.flatt.tech",
+    "tags": [
+      "HTTP",
+      "browser",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "SameSite属性とCSRFとHSTS - Cookieの基礎知識からブラウザごとのエッジケースまでおさらいする - Flatt Security Blog",
+      "url": "https://blog.flatt.tech/entry/samesite_csrf_hsts"
     }
   }
 ]
