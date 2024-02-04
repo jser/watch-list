@@ -606,19 +606,6 @@
   },
   {
     "count": 5,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "7.23.0 Released: Decorator Metadata and many new `import` features! · Babel",
-      "url": "https://babeljs.io/blog/2023/09/25/7.23.0"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.com/facebook/jest",
     "tags": [
       "JavaScript",
@@ -919,6 +906,19 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "7.23.0 Released: Decorator Metadata and many new `import` features! · Babel",
+      "url": "https://babeljs.io/blog/2023/09/25/7.23.0"
+    }
   },
   {
     "count": 4,
@@ -2533,19 +2533,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.igalia.com",
-    "tags": [
-      "browser",
-      "news",
-      "VR"
-    ],
-    "example": {
-      "title": "Introducing Wolvic | Igalia",
-      "url": "https://www.igalia.com/2022/02/03/Introducing-Wolvic.html"
     }
   },
   {

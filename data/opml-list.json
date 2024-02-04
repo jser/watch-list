@@ -1213,12 +1213,6 @@
     ]
   },
   {
-    "url": "https://www.igalia.com",
-    "feeds": [
-      "https://www.igalia.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://www.inngest.com",
     "feeds": [
       "https://www.inngest.com/api/rss.xml"
