@@ -732,6 +732,25 @@
   },
   {
     "count": 5,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "book",
+      "ReleaseNote",
+      "node.js",
+      "CommonJS",
+      "article",
+      "npm",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Node.jsで機能やパッケージの非推奨メッセージを通知する方法 | Web Scratch",
+      "url": "https://efcl.info/2024/02/04/emitwarning/"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://www.builder.io",
     "tags": [
       "JavaScript",
@@ -931,23 +950,6 @@
     "example": {
       "title": "Announcing Vue 3.4 | The Vue Point",
       "url": "https://blog.vuejs.org/posts/vue-3-4"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "book",
-      "ReleaseNote",
-      "node.js",
-      "CommonJS",
-      "article"
-    ],
-    "example": {
-      "title": "JavaScript Primer v5.0.0: ES2023の対応/CC BYライセンスに変更/Open Collectiveで支援できるようになりました | Web Scratch",
-      "url": "https://efcl.info/2023/08/31/jsprimer-v5/"
     }
   },
   {
