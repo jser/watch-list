@@ -133,7 +133,7 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
       "PWA",
@@ -151,11 +151,13 @@
       "debug",
       "Extension",
       "JavaScript",
-      "testing"
+      "testing",
+      "nodejs",
+      "WebPlatformAPI"
     ],
     "example": {
-      "title": "Learn Performance  |  web.dev",
-      "url": "https://web.dev/learn/performance?hl=en"
+      "title": "Compression Streams are now supported on all browsers  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/compressionstreams?hl=en"
     }
   },
   {
@@ -331,21 +333,6 @@
   },
   {
     "count": 9,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    },
-    "rssUrl": "http://blog.chromium.org/atom.xml"
-  },
-  {
-    "count": 9,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -402,6 +389,21 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2023/12/10/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
+    },
+    "rssUrl": "http://blog.chromium.org/atom.xml"
   },
   {
     "count": 8,
@@ -624,22 +626,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/facebook/jest",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "jest"
-    ],
-    "example": {
-      "title": "Release v29.5.0 · facebook/jest",
-      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/jest/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "redux",
@@ -839,6 +825,22 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/facebook/jest",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "jest"
+    ],
+    "example": {
+      "title": "Release v29.5.0 · facebook/jest",
+      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
+    },
+    "rssUrl": "https://github.com/facebook/jest/releases.atom"
   },
   {
     "count": 4,
@@ -10345,5 +10347,47 @@
       "url": "https://blog.flatt.tech/entry/samesite_csrf_hsts"
     },
     "rssUrl": "https://blog.flatt.tech/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://tappy.yahoo.co.jp",
+    "tags": [
+      "webservice",
+      "Tools",
+      "mobile",
+      "accessibility"
+    ],
+    "example": {
+      "title": "Tappy - Yahoo!デベロッパーネットワーク",
+      "url": "https://tappy.yahoo.co.jp/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://v8.dev",
+    "tags": [
+      "ECMAScript",
+      "article"
+    ],
+    "example": {
+      "title": "Import attributes · V8",
+      "url": "https://v8.dev/features/import-attributes"
+    },
+    "rssUrl": "https://v8.dev/blog.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/typicode/husky",
+    "tags": [
+      "GIt",
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.0.1 · typicode/husky",
+      "url": "https://github.com/typicode/husky/releases/tag/v9.0.1"
+    },
+    "rssUrl": "https://github.com/typicode/husky/releases.atom"
   }
 ]

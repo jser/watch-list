@@ -128,7 +128,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
       "PWA",
@@ -146,11 +146,13 @@
       "debug",
       "Extension",
       "JavaScript",
-      "testing"
+      "testing",
+      "nodejs",
+      "WebPlatformAPI"
     ],
     "example": {
-      "title": "Learn Performance  |  web.dev",
-      "url": "https://web.dev/learn/performance?hl=en"
+      "title": "Compression Streams are now supported on all browsers  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/compressionstreams?hl=en"
     }
   },
   {
@@ -322,20 +324,6 @@
   },
   {
     "count": 9,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 9,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -389,6 +377,20 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2023-11 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2023/12/10/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
     }
   },
   {
@@ -606,22 +608,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/facebook/jest",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "jest"
-    ],
-    "example": {
-      "title": "Release v29.5.0 · facebook/jest",
-      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/jest/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "redux",
@@ -815,6 +801,22 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/facebook/jest",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "jest"
+    ],
+    "example": {
+      "title": "Release v29.5.0 · facebook/jest",
+      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
+    },
+    "rssUrl": "https://github.com/facebook/jest/releases.atom"
   },
   {
     "count": 4,
@@ -10097,5 +10099,46 @@
       "title": "SameSite属性とCSRFとHSTS - Cookieの基礎知識からブラウザごとのエッジケースまでおさらいする - Flatt Security Blog",
       "url": "https://blog.flatt.tech/entry/samesite_csrf_hsts"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://tappy.yahoo.co.jp",
+    "tags": [
+      "webservice",
+      "Tools",
+      "mobile",
+      "accessibility"
+    ],
+    "example": {
+      "title": "Tappy - Yahoo!デベロッパーネットワーク",
+      "url": "https://tappy.yahoo.co.jp/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://v8.dev",
+    "tags": [
+      "ECMAScript",
+      "article"
+    ],
+    "example": {
+      "title": "Import attributes · V8",
+      "url": "https://v8.dev/features/import-attributes"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/typicode/husky",
+    "tags": [
+      "GIt",
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.0.1 · typicode/husky",
+      "url": "https://github.com/typicode/husky/releases/tag/v9.0.1"
+    },
+    "rssUrl": "https://github.com/typicode/husky/releases.atom"
   }
 ]

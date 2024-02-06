@@ -597,12 +597,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/jest",
-    "feeds": [
-      "https://github.com/facebook/jest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -624,6 +618,12 @@
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/jest",
+    "feeds": [
+      "https://github.com/facebook/jest/releases.atom"
     ]
   },
   {
@@ -2469,6 +2469,12 @@
     ]
   },
   {
+    "url": "https://github.com/typicode/husky",
+    "feeds": [
+      "https://github.com/typicode/husky/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3052,6 +3058,13 @@
     "url": "https://v2.vuejs.org",
     "feeds": [
       "https://v2.vuejs.org/atom.xml"
+    ]
+  },
+  {
+    "url": "https://v8.dev",
+    "feeds": [
+      "https://v8.dev/blog.atom",
+      "https://v8.dev/features.atom"
     ]
   },
   {
