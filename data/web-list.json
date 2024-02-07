@@ -759,6 +759,20 @@
   },
   {
     "count": 5,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "jquery]"
+    ],
+    "example": {
+      "title": "jQuery 4.0.0 BETA! | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/"
+    },
+    "rssUrl": "https://blog.jquery.com/feed/"
+  },
+  {
+    "count": 5,
     "url": "https://www.builder.io",
     "tags": [
       "JavaScript",
@@ -1011,20 +1025,6 @@
       "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
       "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "jquery]"
-    ],
-    "example": {
-      "title": "jQuery 3.7.0 Released: Staying in Order | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2023/05/11/jquery-3-7-0-released-staying-in-order/"
-    },
-    "rssUrl": "https://blog.jquery.com/feed/"
   },
   {
     "count": 4,
@@ -10389,5 +10389,17 @@
       "url": "https://github.com/typicode/husky/releases/tag/v9.0.1"
     },
     "rssUrl": "https://github.com/typicode/husky/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://bjornlu.com",
+    "tags": [
+      "vite",
+      "article"
+    ],
+    "example": {
+      "title": "Hot Module Replacement is Easy - Bjorn Lu",
+      "url": "https://bjornlu.com/blog/hot-module-replacement-is-easy"
+    }
   }
 ]
