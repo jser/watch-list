@@ -915,12 +915,6 @@
     ]
   },
   {
-    "url": "https://github.com/ngneat/falso",
-    "feeds": [
-      "https://github.com/ngneat/falso/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/papyrs/stylo",
     "feeds": [
       "https://github.com/papyrs/stylo/releases.atom"
@@ -2616,12 +2610,6 @@
     "url": "https://maximorlov.com",
     "feeds": [
       "https://maximorlov.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://mdxjs.com",
-    "feeds": [
-      "https://mdxjs.com/rss.xml"
     ]
   },
   {
