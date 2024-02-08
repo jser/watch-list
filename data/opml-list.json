@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://mdxjs.com",
-    "feeds": [
-      "https://mdxjs.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://medium.com/@fastifyjs/",
     "feeds": [
       "https://medium.com/feed/@fastifyjs"
