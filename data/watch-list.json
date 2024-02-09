@@ -47,19 +47,19 @@
     }
   },
   {
-    "count": 36,
+    "count": 35,
     "url": "https://webkit.org",
     "tags": [
       "safari",
-      "article",
-      "HTML",
       "ReleaseNote",
       "JavaScript",
       "IndexedDB",
       "browser",
+      "article",
       "testing",
       "WebPlatformAPI",
       "webkit",
+      "HTML",
       "CSS",
       "serverless",
       "アンケート"
@@ -67,28 +67,6 @@
     "example": {
       "title": "CSS Nesting and the Cascade | WebKit",
       "url": "https://webkit.org/blog/14571/css-nesting-and-the-cascade/"
-    }
-  },
-  {
-    "count": 32,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "article",
-      "WebPlatformAPI",
-      "ReleaseNote",
-      "node.js",
-      "npm",
-      "React",
-      "news",
-      "V8",
-      "JavaScript",
-      "library",
-      "denoe"
-    ],
-    "example": {
-      "title": "Deno 1.40: Temporal API",
-      "url": "https://deno.com/blog/v1.40"
     }
   },
   {
@@ -109,6 +87,27 @@
     "example": {
       "title": "Bun v1.0.24 | Bun Blog",
       "url": "https://bun.sh/blog/bun-v1.0.24"
+    }
+  },
+  {
+    "count": 31,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "node.js",
+      "npm",
+      "article",
+      "React",
+      "news",
+      "V8",
+      "JavaScript",
+      "library",
+      "denoe"
+    ],
+    "example": {
+      "title": "Deno 1.40: Temporal API",
+      "url": "https://deno.com/blog/v1.40"
     }
   },
   {
@@ -273,19 +272,6 @@
   },
   {
     "count": 10,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Ecosystem 2023 Recap | Electron",
-      "url": "https://www.electronjs.org/blog/ecosystem-2023-eoy-recap"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://2ality.com",
     "tags": [
       "JavaScript",
@@ -380,6 +366,19 @@
     }
   },
   {
+    "count": 9,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Ecosystem 2023 Recap | Electron",
+      "url": "https://www.electronjs.org/blog/ecosystem-2023-eoy-recap"
+    }
+  },
+  {
     "count": 8,
     "url": "https://blog.chromium.org",
     "tags": [
@@ -447,6 +446,26 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "debug",
+      "Tools",
+      "ReleaseNote",
+      "TypeScript",
+      "article",
+      "CSS",
+      "Design",
+      "Development",
+      "React"
+    ],
+    "example": {
+      "title": "Storybook 8 Beta",
+      "url": "https://storybook.js.org/blog/storybook-8-beta/"
+    }
   },
   {
     "count": 7,
@@ -524,26 +543,6 @@
     "example": {
       "title": "State of Vite (ViteConf 2023) - Google スライド",
       "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "TypeScript",
-      "article",
-      "CSS",
-      "Design",
-      "Development",
-      "React"
-    ],
-    "example": {
-      "title": "Storybook for React Server Components",
-      "url": "https://storybook.js.org/blog/storybook-react-server-components/"
     }
   },
   {
@@ -1041,6 +1040,18 @@
   },
   {
     "count": 4,
+    "url": "https://vitejs.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vite 5.1 is out! | Vite",
+      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://svelte.dev",
     "tags": [
       "Svelte",
@@ -1387,18 +1398,6 @@
   },
   {
     "count": 3,
-    "url": "https://vitejs.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 5.0 is out! | Vite",
-      "url": "https://vitejs.dev/blog/announcing-vite5"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://www.webkit.org",
     "tags": [
       "WebComponents",
@@ -1453,19 +1452,6 @@
     "example": {
       "title": "Fluent React",
       "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://fusebit.io",
-    "tags": [
-      "node.js",
-      "Fetch",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js 18 Introduces Prefix-Only Core Modules",
-      "url": "https://fusebit.io/blog/node-18-prefix-only-modules/"
     }
   },
   {
@@ -3455,6 +3441,18 @@
     "example": {
       "title": "The State of Frontend 2022",
       "url": "https://tsh.io/state-of-frontend/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://fusebit.io",
+    "tags": [
+      "node.js",
+      "article"
+    ],
+    "example": {
+      "title": "Node.js 18 Introduces Prefix-Only Core Modules",
+      "url": "https://fusebit.io/blog/node-18-prefix-only-modules/"
     }
   },
   {
@@ -10124,5 +10122,33 @@
       "title": "Hot Module Replacement is Easy - Bjorn Lu",
       "url": "https://bjornlu.com/blog/hot-module-replacement-is-easy"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://deploy-preview-1520--rsbuild.netlify.app",
+    "tags": [
+      "JavaScript",
+      "Rust",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rsbuild v0.4 - Rsbuild",
+      "url": "https://deploy-preview-1520--rsbuild.netlify.app/community/releases/v0-4"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/awslabs/llrt",
+    "tags": [
+      "JavaScript",
+      "aws",
+      "library"
+    ],
+    "example": {
+      "title": "awslabs/llrt: LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+      "url": "https://github.com/awslabs/llrt"
+    },
+    "rssUrl": "https://github.com/awslabs/llrt/releases.atom"
   }
 ]

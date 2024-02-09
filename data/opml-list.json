@@ -830,6 +830,12 @@
     ]
   },
   {
+    "url": "https://remix.run",
+    "feeds": [
+      "https://remix.run/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://remotesynthesis.com",
     "feeds": [
       "https://remotesynthesis.com/feed.xml"
