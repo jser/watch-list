@@ -2469,6 +2469,12 @@
     ]
   },
   {
+    "url": "https://github.com/awslabs/llrt",
+    "feeds": [
+      "https://github.com/awslabs/llrt/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2772,6 +2778,12 @@
     "feeds": [
       "https://reactnative.dev/blog/rss.xml",
       "https://reactnative.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://remix.run",
+    "feeds": [
+      "https://remix.run/blog/rss.xml"
     ]
   },
   {
