@@ -1,6 +1,6 @@
 [
   {
-    "count": 55,
+    "count": 54,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -379,6 +379,22 @@
     }
   },
   {
+    "count": 9,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "cloudflare",
+      "library",
+      "JavaScript",
+      "server",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
     "count": 8,
     "url": "https://blog.chromium.org",
     "tags": [
@@ -414,22 +430,6 @@
       "title": "A Socket API that works across JavaScript runtimes — announcing a WinterCG spec and Node.js implementation of connect()",
       "url": "https://blog.cloudflare.com/socket-api-works-javascript-runtimes-wintercg-polyfill-connect/"
     }
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "cloudflare",
-      "library",
-      "JavaScript",
-      "server",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v3.12.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v3.12.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 8,
@@ -2509,33 +2509,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://solidbook.io",
-    "tags": [
-      "JavaScript",
-      "book",
-      "DDD",
-      "architecture"
-    ],
-    "example": {
-      "title": "SOLID: The Software Design and Architecture Handbook",
-      "url": "https://solidbook.io/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://dev.to/atian25/",
-    "tags": [
-      "npm",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm - DEV Community 👩‍💻👨‍💻",
-      "url": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp"
     }
   },
   {
@@ -10150,5 +10123,18 @@
       "url": "https://github.com/awslabs/llrt"
     },
     "rssUrl": "https://github.com/awslabs/llrt/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://cheerpj.com",
+    "tags": [
+      "Java",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "CheerpJ 3.0 now generally available: Run any Java Application on Modern Browsers CheerpJ 3.0 now available: run any Java on modern browsers",
+      "url": "https://cheerpj.com/cheerpj-3-now-generally-available/"
+    }
   }
 ]
