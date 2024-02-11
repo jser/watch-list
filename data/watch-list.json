@@ -800,22 +800,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/parcel-bundler/parcel",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "Tools",
-      "parcel"
-    ],
-    "example": {
-      "title": "Release v2.10.0 · parcel-bundler/parcel",
-      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/facebook/jest",
     "tags": [
       "JavaScript",
@@ -1111,23 +1095,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "ShellScript",
-      "JavaScript",
-      "node.js",
-      "library",
-      "shell",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 7.2.0 · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/7.2.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/ghiscoding/lerna-lite",
     "tags": [
       "monorepo",
@@ -1249,6 +1216,22 @@
       "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0"
     },
     "rssUrl": "https://github.com/reduxjs/redux/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/parcel-bundler/parcel",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "bundler",
+      "ReleaseNote",
+      "parcel"
+    ],
+    "example": {
+      "title": "Release v2.10.0 · parcel-bundler/parcel",
+      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
   },
   {
     "count": 3,
@@ -1827,6 +1810,22 @@
       "url": "https://github.com/sverweij/dependency-cruiser/releases/tag/v13.0.0"
     },
     "rssUrl": "https://github.com/sverweij/dependency-cruiser/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "shell",
+      "node.js",
+      "library",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release 7.2.0 · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/7.2.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 2,
@@ -10135,6 +10134,19 @@
     "example": {
       "title": "CheerpJ 3.0 now generally available: Run any Java Application on Modern Browsers CheerpJ 3.0 now available: run any Java on modern browsers",
       "url": "https://cheerpj.com/cheerpj-3-now-generally-available/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.aha.io",
+    "tags": [
+      "monorepo",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "From many to one: Moving our JavaScript code into a monorepo | Aha! software",
+      "url": "https://www.aha.io/engineering/articles/monorepo"
     }
   }
 ]

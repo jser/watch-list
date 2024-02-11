@@ -1130,6 +1130,13 @@
     ]
   },
   {
+    "url": "https://www.aha.io",
+    "feeds": [
+      "https://www.aha.io/blog/feed.xml",
+      "https://www.aha.io/engineering/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.akshaykhot.com",
     "feeds": [
       "https://www.writesoftwarewell.com/rss/"

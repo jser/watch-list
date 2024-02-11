@@ -609,12 +609,6 @@
     ]
   },
   {
-    "url": "https://github.com/parcel-bundler/parcel",
-    "feeds": [
-      "https://github.com/parcel-bundler/parcel/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/jest",
     "feeds": [
       "https://github.com/facebook/jest/releases.atom"
@@ -663,12 +657,6 @@
     ]
   },
   {
-    "url": "https://github.com/google/zx",
-    "feeds": [
-      "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ghiscoding/lerna-lite",
     "feeds": [
       "https://github.com/ghiscoding/lerna-lite/releases.atom"
@@ -702,6 +690,12 @@
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/parcel-bundler/parcel",
+    "feeds": [
+      "https://github.com/parcel-bundler/parcel/releases.atom"
     ]
   },
   {
@@ -822,6 +816,12 @@
     "url": "https://github.com/sverweij/dependency-cruiser",
     "feeds": [
       "https://github.com/sverweij/dependency-cruiser/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/google/zx",
+    "feeds": [
+      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
@@ -3090,6 +3090,13 @@
     "url": "https://www.11ty.dev",
     "feeds": [
       "https://www.11ty.dev/docs/plugins/rss/"
+    ]
+  },
+  {
+    "url": "https://www.aha.io",
+    "feeds": [
+      "https://www.aha.io/blog/feed.xml",
+      "https://www.aha.io/engineering/rss.xml"
     ]
   },
   {
