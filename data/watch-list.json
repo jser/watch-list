@@ -47,13 +47,13 @@
     }
   },
   {
-    "count": 35,
+    "count": 34,
     "url": "https://webkit.org",
     "tags": [
       "safari",
-      "ReleaseNote",
       "JavaScript",
       "IndexedDB",
+      "ReleaseNote",
       "browser",
       "article",
       "testing",
@@ -310,19 +310,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -407,6 +394,19 @@
       "title": "Chromium Blog: An Update on the Lock Icon",
       "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
     }
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 8,
@@ -1409,6 +1409,21 @@
   },
   {
     "count": 3,
+    "url": "https://socket.dev",
+    "tags": [
+      "npm",
+      "article",
+      "security",
+      "nodejs",
+      "discussion"
+    ],
+    "example": {
+      "title": "Node.js Community Debate Intensifies Over Enabling Corepack by Default and Potentially Unbundling npm - Socket",
+      "url": "https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -2327,19 +2342,6 @@
   },
   {
     "count": 2,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "npm in Review: A 2023 Retrospective on Growth, Security, and Quirky Facts - Socket",
-      "url": "https://socket.dev/blog/2023-npm-retrospective"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
@@ -2509,20 +2511,6 @@
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/papyrs/stylo",
-    "tags": [
-      "WebComponents",
-      "library",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "papyrs/stylo: Another kind of rich text editor",
-      "url": "https://github.com/papyrs/stylo"
-    },
-    "rssUrl": "https://github.com/papyrs/stylo/releases.atom"
   },
   {
     "count": 1,
@@ -10148,5 +10136,19 @@
       "title": "From many to one: Moving our JavaScript code into a monorepo | Aha! software",
       "url": "https://www.aha.io/engineering/articles/monorepo"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/StellateHQ/fuse",
+    "tags": [
+      "GraphQL",
+      "TypeScript",
+      "library"
+    ],
+    "example": {
+      "title": "StellateHQ/fuse: Fuse: The fastest way to build and query great APIs with TypeScript",
+      "url": "https://github.com/StellateHQ/fuse"
+    },
+    "rssUrl": "https://github.com/StellateHQ/fuse/releases.atom"
   }
 ]

@@ -555,12 +555,6 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
@@ -570,6 +564,12 @@
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
@@ -906,12 +906,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/papyrs/stylo",
-    "feeds": [
-      "https://github.com/papyrs/stylo/releases.atom"
     ]
   },
   {
@@ -2466,6 +2460,12 @@
     "url": "https://github.com/awslabs/llrt",
     "feeds": [
       "https://github.com/awslabs/llrt/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/StellateHQ/fuse",
+    "feeds": [
+      "https://github.com/StellateHQ/fuse/releases.atom"
     ]
   },
   {
