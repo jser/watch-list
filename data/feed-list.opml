@@ -92,9 +92,9 @@
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
-<outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
+<outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
@@ -151,7 +151,6 @@
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/papyrs/stylo" title="github.com/papyrs/stylo" type="rss" xmlUrl="https://github.com/papyrs/stylo/releases.atom"/>
 <outline text="github.com/hikerpig/pintora" title="github.com/hikerpig/pintora" type="rss" xmlUrl="https://github.com/hikerpig/pintora/releases.atom"/>
 <outline text="github.com/checkly/puppeteer-to-playwright" title="github.com/checkly/puppeteer-to-playwright" type="rss" xmlUrl="https://github.com/checkly/puppeteer-to-playwright/releases.atom"/>
 <outline text="github.com/Aslemammad/react-worker-components-plugin" title="github.com/Aslemammad/react-worker-components-plugin" type="rss" xmlUrl="https://github.com/Aslemammad/react-worker-components-plugin/releases.atom"/>
@@ -411,6 +410,7 @@
 <outline text="github.com/chrisguttandin/worker-timers" title="github.com/chrisguttandin/worker-timers" type="rss" xmlUrl="https://github.com/chrisguttandin/worker-timers/releases.atom"/>
 <outline text="github.com/typicode/husky" title="github.com/typicode/husky" type="rss" xmlUrl="https://github.com/typicode/husky/releases.atom"/>
 <outline text="github.com/awslabs/llrt" title="github.com/awslabs/llrt" type="rss" xmlUrl="https://github.com/awslabs/llrt/releases.atom"/>
+<outline text="github.com/StellateHQ/fuse" title="github.com/StellateHQ/fuse" type="rss" xmlUrl="https://github.com/StellateHQ/fuse/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
