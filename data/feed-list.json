@@ -512,6 +512,13 @@
     ]
   },
   {
+    "url": "https://fosdem.org",
+    "feeds": [
+      "https://fosdem.org/2024/atom.xml",
+      "https://fosdem.org/2024/rss.xml"
+    ]
+  },
+  {
     "url": "https://frontendmasters.com",
     "feeds": [
       "https://frontendmasters.com/blog/feed/"
@@ -579,12 +586,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lerna/lerna",
     "feeds": [
       "https://github.com/lerna/lerna/releases.atom"
@@ -600,6 +601,12 @@
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
@@ -696,6 +703,12 @@
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -798,12 +811,6 @@
     "url": "https://github.com/electron/electron",
     "feeds": [
       "https://github.com/electron/electron/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {

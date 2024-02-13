@@ -505,6 +505,13 @@
     ]
   },
   {
+    "url": "https://fosdem.org",
+    "feeds": [
+      "https://fosdem.org/2024/atom.xml",
+      "https://fosdem.org/2024/rss.xml"
+    ]
+  },
+  {
     "url": "https://frontendmasters.com",
     "feeds": [
       "https://frontendmasters.com/blog/feed/"

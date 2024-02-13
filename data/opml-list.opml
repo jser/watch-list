@@ -84,6 +84,7 @@
 <outline text="erock.prose.sh" title="erock.prose.sh" type="rss" xmlUrl="https://erock.prose.sh/rss"/>
 <outline text="escape.tech" title="escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
+<outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
 <outline text="gist.github.com/andrewbranch" title="gist.github.com/andrewbranch" type="rss" xmlUrl="https://gist.github.com/andrewbranch.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>

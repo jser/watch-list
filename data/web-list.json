@@ -115,7 +115,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -563,19 +563,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/vitejs/vite",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vite/CHANGELOG.md at main · vitejs/vite",
-      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
-    },
-    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://blog.emberjs.com",
     "tags": [
       "Ember",
@@ -685,6 +672,19 @@
       "url": "https://remix.run/blog/remix-heart-vite"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/vitejs/vite",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "vite/CHANGELOG.md at main · vitejs/vite",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
+    },
+    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 5,
@@ -1272,6 +1272,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "ReleaseNote",
+      "security",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release Release v0.28.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v0.28.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://blog.jxck.io",
     "tags": [
       "JavaScript",
@@ -1814,21 +1830,6 @@
       "url": "https://github.com/electron/electron/releases/tag/v20.0.0"
     },
     "rssUrl": "https://github.com/electron/electron/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release Release v1.6.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.6.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 2,
@@ -10399,5 +10400,20 @@
       "url": "https://github.com/StellateHQ/fuse"
     },
     "rssUrl": "https://github.com/StellateHQ/fuse/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://fosdem.org",
+    "tags": [
+      "JavaScript",
+      "performance",
+      "video",
+      "slide"
+    ],
+    "example": {
+      "title": "FOSDEM 2024 - Fast JavaScript with Data-Oriented Design",
+      "url": "https://fosdem.org/2024/schedule/event/fosdem-2024-2773-fast-javascript-with-data-oriented-design/"
+    },
+    "rssUrl": "https://fosdem.org/2024/atom.xml"
   }
 ]
