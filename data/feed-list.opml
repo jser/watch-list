@@ -102,7 +102,6 @@
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
-<outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
@@ -111,6 +110,7 @@
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
 <outline text="github.com/ghiscoding/lerna-lite" title="github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
+<outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
@@ -152,7 +152,6 @@
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/hikerpig/pintora" title="github.com/hikerpig/pintora" type="rss" xmlUrl="https://github.com/hikerpig/pintora/releases.atom"/>
 <outline text="github.com/checkly/puppeteer-to-playwright" title="github.com/checkly/puppeteer-to-playwright" type="rss" xmlUrl="https://github.com/checkly/puppeteer-to-playwright/releases.atom"/>
 <outline text="github.com/Aslemammad/react-worker-components-plugin" title="github.com/Aslemammad/react-worker-components-plugin" type="rss" xmlUrl="https://github.com/Aslemammad/react-worker-components-plugin/releases.atom"/>
 <outline text="github.com/jimmywarting/native-file-system-adapter" title="github.com/jimmywarting/native-file-system-adapter" type="rss" xmlUrl="https://github.com/jimmywarting/native-file-system-adapter/releases.atom"/>

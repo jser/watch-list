@@ -616,12 +616,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/jest",
-    "feeds": [
-      "https://github.com/facebook/jest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
@@ -667,6 +661,12 @@
     "url": "https://github.com/ghiscoding/lerna-lite",
     "feeds": [
       "https://github.com/ghiscoding/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/jest",
+    "feeds": [
+      "https://github.com/facebook/jest/releases.atom"
     ]
   },
   {
@@ -913,12 +913,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/hikerpig/pintora",
-    "feeds": [
-      "https://github.com/hikerpig/pintora/releases.atom"
     ]
   },
   {

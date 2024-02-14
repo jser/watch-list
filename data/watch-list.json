@@ -800,22 +800,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/facebook/jest",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "jest"
-    ],
-    "example": {
-      "title": "Release v29.5.0 · facebook/jest",
-      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/jest/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://hacks.mozilla.org",
     "tags": [
       "mdn",
@@ -1123,6 +1107,21 @@
       "title": "Everything You Need to Know About the Gap After the List Marker | CSS-Tricks - CSS-Tricks",
       "url": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/facebook/jest",
+    "tags": [
+      "jest",
+      "ReleaseNote",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v29.5.0 · facebook/jest",
+      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
+    },
+    "rssUrl": "https://github.com/facebook/jest/releases.atom"
   },
   {
     "count": 3,
@@ -1466,21 +1465,6 @@
     "example": {
       "title": "Fluent React",
       "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://leanpub.com",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "DDD",
-      "book",
-      "security"
-    ],
-    "example": {
-      "title": "JavaScript for hackers by Gareth Heyes [Leanpub PDF/iPad/Kindle]",
-      "url": "https://leanpub.com/javascriptforhackers/"
     }
   },
   {
@@ -2444,6 +2428,19 @@
   },
   {
     "count": 2,
+    "url": "https://typescript-eslint.io",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing typescript-eslint v7 | typescript-eslint",
+      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v7/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://blog.getbootstrap.com",
     "tags": [
       "CSP",
@@ -2512,20 +2509,6 @@
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/hikerpig/pintora",
-    "tags": [
-      "JavaScript",
-      "library",
-      "graphic"
-    ],
-    "example": {
-      "title": "hikerpig/pintora: An extensible text-to-diagrams library that works in both browser and node.js",
-      "url": "https://github.com/hikerpig/pintora"
-    },
-    "rssUrl": "https://github.com/hikerpig/pintora/releases.atom"
   },
   {
     "count": 1,
@@ -6063,6 +6046,19 @@
   },
   {
     "count": 1,
+    "url": "https://leanpub.com",
+    "tags": [
+      "JavaScript",
+      "security",
+      "book"
+    ],
+    "example": {
+      "title": "JavaScript for hackers by Gareth Heyes [Leanpub PDF/iPad/Kindle]",
+      "url": "https://leanpub.com/javascriptforhackers/"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/PuruVJ/neodrag",
     "tags": [
       "JavaScript",
@@ -8059,19 +8055,6 @@
       "url": "https://github.com/gibbok/typescript-book"
     },
     "rssUrl": "https://github.com/gibbok/typescript-book/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://typescript-eslint.io",
-    "tags": [
-      "TypeScript",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing typescript-eslint v6 | typescript-eslint",
-      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v6/"
-    }
   },
   {
     "count": 1,
@@ -10164,6 +10147,18 @@
     "example": {
       "title": "FOSDEM 2024 - Fast JavaScript with Data-Oriented Design",
       "url": "https://fosdem.org/2024/schedule/event/fosdem-2024-2773-fast-javascript-with-data-oriented-design/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.jollyui.dev",
+    "tags": [
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "JollyUI",
+      "url": "https://www.jollyui.dev/"
     }
   }
 ]
