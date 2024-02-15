@@ -22,7 +22,6 @@
 <outline text="blog.bitsrc.io" title="blog.bitsrc.io" type="rss" xmlUrl="https://blog.bitsrc.io/feed"/>
 <outline text="blog.bokken.io" title="blog.bokken.io" type="rss" xmlUrl="https://blog.bokken.io/feeds/atom.xml"/>
 <outline text="blog.chromium.org" title="blog.chromium.org" type="rss" xmlUrl="http://blog.chromium.org/atom.xml"/>
-<outline text="blog.drsprime.com" title="blog.drsprime.com" type="rss" xmlUrl="https://blog.drsprime.com/feed"/>
 <outline text="blog.emberjs.com" title="blog.emberjs.com" type="rss" xmlUrl="https://blog.emberjs.com/rss.xml"/>
 <outline text="blog.flatt.tech" title="blog.flatt.tech" type="rss" xmlUrl="https://blog.flatt.tech/feed"/>
 <outline text="blog.getbootstrap.com" title="blog.getbootstrap.com" type="rss" xmlUrl="https://blog.getbootstrap.com/feed.xml"/>
