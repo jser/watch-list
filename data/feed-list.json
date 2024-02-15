@@ -112,13 +112,6 @@
     ]
   },
   {
-    "url": "https://blog.drsprime.com",
-    "feeds": [
-      "https://blog.drsprime.com/feed",
-      "https://blog.drsprime.com/rss"
-    ]
-  },
-  {
     "url": "https://blog.emberjs.com",
     "feeds": [
       "https://blog.emberjs.com/rss.xml"
@@ -913,18 +906,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/checkly/puppeteer-to-playwright",
-    "feeds": [
-      "https://github.com/checkly/puppeteer-to-playwright/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/Aslemammad/react-worker-components-plugin",
-    "feeds": [
-      "https://github.com/Aslemammad/react-worker-components-plugin/releases.atom"
     ]
   },
   {

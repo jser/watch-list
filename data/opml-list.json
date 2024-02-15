@@ -112,13 +112,6 @@
     ]
   },
   {
-    "url": "https://blog.drsprime.com",
-    "feeds": [
-      "https://blog.drsprime.com/feed",
-      "https://blog.drsprime.com/rss"
-    ]
-  },
-  {
     "url": "https://blog.emberjs.com",
     "feeds": [
       "https://blog.emberjs.com/rss.xml"
