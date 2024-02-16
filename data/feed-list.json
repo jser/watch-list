@@ -735,12 +735,6 @@
     ]
   },
   {
-    "url": "https://github.com/expressjs/express",
-    "feeds": [
-      "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/GoogleChrome/lighthouse",
     "feeds": [
       "https://github.com/GoogleChrome/lighthouse/releases.atom"
@@ -1092,6 +1086,12 @@
     "url": "https://github.com/eolme/i18nano",
     "feeds": [
       "https://github.com/eolme/i18nano/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
     ]
   },
   {
