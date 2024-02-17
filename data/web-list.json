@@ -2572,18 +2572,6 @@
   },
   {
     "count": 1,
-    "url": "https://2021.stateofjs.com",
-    "tags": [
-      "JavaScript",
-      "Survey"
-    ],
-    "example": {
-      "title": "The State of JS 2021",
-      "url": "https://2021.stateofjs.com/en-US/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://zenn.dev/inokawa/",
     "tags": [
       "JavaScript",
