@@ -48,12 +48,10 @@
     }
   },
   {
-    "count": 34,
+    "count": 33,
     "url": "https://webkit.org",
     "tags": [
       "safari",
-      "JavaScript",
-      "IndexedDB",
       "ReleaseNote",
       "browser",
       "article",
@@ -63,7 +61,8 @@
       "HTML",
       "CSS",
       "serverless",
-      "アンケート"
+      "アンケート",
+      "JavaScript"
     ],
     "example": {
       "title": "CSS Nesting and the Cascade | WebKit",
@@ -71,7 +70,7 @@
     }
   },
   {
-    "count": 32,
+    "count": 33,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -86,8 +85,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Bun v1.0.24 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.24"
+      "title": "Bun v1.0.27 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.0.27"
     }
   },
   {
@@ -1156,6 +1155,20 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote",
+      "spec"
+    ],
+    "example": {
+      "title": "Release ES2024 Candidate February 2024 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/remix-run/react-router",
     "tags": [
       "React",
@@ -1469,21 +1482,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/GoogleChrome/lighthouse",
-    "tags": [
-      "Chrome",
-      "performance",
-      "ReleaseNote",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release v11.0.0 · GoogleChrome/lighthouse",
-      "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v11.0.0"
-    },
-    "rssUrl": "https://github.com/GoogleChrome/lighthouse/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/TypeStrong/ts-node",
     "tags": [
       "TypeScript",
@@ -1552,20 +1550,6 @@
       "url": "https://github.com/faker-js/faker/releases/tag/v7.0.0"
     },
     "rssUrl": "https://github.com/faker-js/faker/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote",
-      "spec"
-    ],
-    "example": {
-      "title": "Release ES2023 Candidate April 2023 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2023-candidate-2023-04"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 2,
@@ -2493,19 +2477,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/inokawa/",
-    "tags": [
-      "JavaScript",
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "textareaをカスタマイズできるReact用のライブラリを作成しました",
-      "url": "https://zenn.dev/inokawa/articles/946ba7be927f44"
     }
   },
   {
@@ -8245,6 +8216,21 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "tags": [
+      "Chrome",
+      "performance",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v11.0.0 · GoogleChrome/lighthouse",
+      "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v11.0.0"
+    },
+    "rssUrl": "https://github.com/GoogleChrome/lighthouse/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://npmgraph.js.org",
     "tags": [
       "npm",
@@ -10120,5 +10106,32 @@
       "title": "Tempo • Dates by FormKit",
       "url": "https://tempo.formkit.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://www.shuwasystem.co.jp",
+    "tags": [
+      "Next.js",
+      "ebook"
+    ],
+    "example": {
+      "title": "Next.js超入門 - 秀和システム あなたの学びをサポート！",
+      "url": "https://www.shuwasystem.co.jp/book/9784798071299.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/kolodny/safetest?tab=readme-ov-file",
+    "tags": [
+      "testing",
+      "browser",
+      "E2E",
+      "library"
+    ],
+    "example": {
+      "title": "kolodny/safetest",
+      "url": "https://github.com/kolodny/safetest?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/kolodny/safetest?tab=readme-ov-file/releases.atom"
   }
 ]
