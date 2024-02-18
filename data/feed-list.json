@@ -675,6 +675,12 @@
     ]
   },
   {
+    "url": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
@@ -735,12 +741,6 @@
     ]
   },
   {
-    "url": "https://github.com/GoogleChrome/lighthouse",
-    "feeds": [
-      "https://github.com/GoogleChrome/lighthouse/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/TypeStrong/ts-node",
     "feeds": [
       "https://github.com/TypeStrong/ts-node/releases.atom"
@@ -750,12 +750,6 @@
     "url": "https://github.com/faker-js/faker",
     "feeds": [
       "https://github.com/faker-js/faker/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -2151,6 +2145,12 @@
     ]
   },
   {
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "feeds": [
+      "https://github.com/GoogleChrome/lighthouse/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vega/ts-json-schema-generator",
     "feeds": [
       "https://github.com/vega/ts-json-schema-generator/releases.atom"
@@ -2448,6 +2448,12 @@
     "url": "https://github.com/StellateHQ/fuse",
     "feeds": [
       "https://github.com/StellateHQ/fuse/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/kolodny/safetest?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/kolodny/safetest?tab=readme-ov-file/releases.atom"
     ]
   },
   {
@@ -3274,6 +3280,12 @@
     ]
   },
   {
+    "url": "https://www.shuwasystem.co.jp",
+    "feeds": [
+      "https://www.shuwasystem.co.jp/rss/news/"
+    ]
+  },
+  {
     "url": "https://www.simoahava.com",
     "feeds": [
       "https://www.simoahava.com/index.xml"
@@ -3395,12 +3407,6 @@
     "url": "https://zenn.dev/sa2knight/",
     "feeds": [
       "https://zenn.dev/sa2knight/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/inokawa/",
-    "feeds": [
-      "https://zenn.dev/inokawa/feed"
     ]
   },
   {

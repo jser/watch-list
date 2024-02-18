@@ -211,6 +211,7 @@
 <outline text="www.remotion.dev" title="www.remotion.dev" type="rss" xmlUrl="https://www.remotion.dev/blog/rss.xml"/>
 <outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
+<outline text="www.shuwasystem.co.jp" title="www.shuwasystem.co.jp" type="rss" xmlUrl="https://www.shuwasystem.co.jp/rss/news/"/>
 <outline text="www.simoahava.com" title="www.simoahava.com" type="rss" xmlUrl="https://www.simoahava.com/index.xml"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
 <outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
@@ -229,7 +230,6 @@
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
-<outline text="zenn.dev/inokawa/" title="zenn.dev/inokawa/" type="rss" xmlUrl="https://zenn.dev/inokawa/feed"/>
 <outline text="zenn.dev/dajiaji/" title="zenn.dev/dajiaji/" type="rss" xmlUrl="https://zenn.dev/dajiaji/feed"/>
 <outline text="zenn.dev/mjhd/" title="zenn.dev/mjhd/" type="rss" xmlUrl="https://zenn.dev/mjhd/feed"/>
 <outline text="zenn.dev/yukiyada/" title="zenn.dev/yukiyada/" type="rss" xmlUrl="https://zenn.dev/yukiyada/feed"/>

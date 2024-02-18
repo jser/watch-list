@@ -1329,6 +1329,12 @@
     ]
   },
   {
+    "url": "https://www.shuwasystem.co.jp",
+    "feeds": [
+      "https://www.shuwasystem.co.jp/rss/news/"
+    ]
+  },
+  {
     "url": "https://www.simoahava.com",
     "feeds": [
       "https://www.simoahava.com/index.xml"
@@ -1444,12 +1450,6 @@
     "url": "https://zenn.dev/sa2knight/",
     "feeds": [
       "https://zenn.dev/sa2knight/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/inokawa/",
-    "feeds": [
-      "https://zenn.dev/inokawa/feed"
     ]
   },
   {
