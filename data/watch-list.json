@@ -90,14 +90,14 @@
     }
   },
   {
-    "count": 31,
+    "count": 30,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "ReleaseNote",
       "node.js",
       "npm",
       "article",
+      "ReleaseNote",
       "React",
       "news",
       "V8",
@@ -10105,18 +10105,6 @@
     "example": {
       "title": "Tempo • Dates by FormKit",
       "url": "https://tempo.formkit.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.shuwasystem.co.jp",
-    "tags": [
-      "Next.js",
-      "ebook"
-    ],
-    "example": {
-      "title": "Next.js超入門 - 秀和システム あなたの学びをサポート！",
-      "url": "https://www.shuwasystem.co.jp/book/9784798071299.html"
     }
   },
   {
