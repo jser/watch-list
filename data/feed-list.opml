@@ -409,6 +409,7 @@
 <outline text="github.com/awslabs/llrt" title="github.com/awslabs/llrt" type="rss" xmlUrl="https://github.com/awslabs/llrt/releases.atom"/>
 <outline text="github.com/StellateHQ/fuse" title="github.com/StellateHQ/fuse" type="rss" xmlUrl="https://github.com/StellateHQ/fuse/releases.atom"/>
 <outline text="github.com/kolodny/safetest?tab=readme-ov-file" title="github.com/kolodny/safetest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/kolodny/safetest?tab=readme-ov-file/releases.atom"/>
+<outline text="github.com/pashak09/ts-expect-error-validator" title="github.com/pashak09/ts-expect-error-validator" type="rss" xmlUrl="https://github.com/pashak09/ts-expect-error-validator/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
