@@ -6,7 +6,7 @@ import * as fs from "fs";
 import path from "path";
 
 // 汎用的すぎるサイトは除外
-// 出版社やショッピングサイトなど
+// 出版社、ショッピングサイト、コミュニティ、フォーラム
 const ignoreDomains: string[] = [
     "npmjs.com",
     "shop.oreilly.com",
@@ -17,7 +17,8 @@ const ignoreDomains: string[] = [
     "www.sbcr.jp",
     "hub.packtpub.com",
     "gihyo.jp",
-    "www.shuwasystem.co.jp"
+    "www.shuwasystem.co.jp",
+    "discuss.httparchive.org"
 ];
 
 export type WatchItem = {
