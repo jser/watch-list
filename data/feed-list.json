@@ -420,13 +420,6 @@
     ]
   },
   {
-    "url": "https://discuss.httparchive.org",
-    "feeds": [
-      "https://discuss.httparchive.org/posts.rss",
-      "https://discuss.httparchive.org/latest.rss"
-    ]
-  },
-  {
     "url": "https://docusaurus.io",
     "feeds": [
       "https://docusaurus.io/blog/rss.xml",

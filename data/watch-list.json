@@ -3470,20 +3470,6 @@
   },
   {
     "count": 1,
-    "url": "https://discuss.httparchive.org",
-    "tags": [
-      "HTTP",
-      "web ",
-      "BigQuery",
-      "news"
-    ],
-    "example": {
-      "title": "Improving the HTTP Archive pipeline and dataset by 10x - Announcements - HTTP Archive",
-      "url": "https://discuss.httparchive.org/t/improving-the-http-archive-pipeline-and-dataset-by-10x/2372"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/dflex-js/dflex",
     "tags": [
       "JavaScript",
