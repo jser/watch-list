@@ -71,7 +71,6 @@
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
 <outline text="devtoolstips.org" title="devtoolstips.org" type="rss" xmlUrl="https://devtoolstips.org/feed.xml"/>
-<outline text="discuss.httparchive.org" title="discuss.httparchive.org" type="rss" xmlUrl="https://discuss.httparchive.org/posts.rss"/>
 <outline text="docusaurus.io" title="docusaurus.io" type="rss" xmlUrl="https://docusaurus.io/blog/rss.xml"/>
 <outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
 <outline text="ecmascript-daily.github.io" title="ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
