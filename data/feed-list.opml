@@ -92,8 +92,8 @@
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
-<outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
+<outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
@@ -148,6 +148,7 @@
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
+<outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/jimmywarting/native-file-system-adapter" title="github.com/jimmywarting/native-file-system-adapter" type="rss" xmlUrl="https://github.com/jimmywarting/native-file-system-adapter/releases.atom"/>
 <outline text="github.com/JoshuaKGoldberg/TypeStat" title="github.com/JoshuaKGoldberg/TypeStat" type="rss" xmlUrl="https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"/>
@@ -362,7 +363,6 @@
 <outline text="github.com/vercel/next.js" title="github.com/vercel/next.js" type="rss" xmlUrl="https://github.com/vercel/next.js/releases.atom"/>
 <outline text="github.com/alvarlagerlof/rsc-parser" title="github.com/alvarlagerlof/rsc-parser" type="rss" xmlUrl="https://github.com/alvarlagerlof/rsc-parser/releases.atom"/>
 <outline text="github.com/parcel-bundler/watcher" title="github.com/parcel-bundler/watcher" type="rss" xmlUrl="https://github.com/parcel-bundler/watcher/releases.atom"/>
-<outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/withastro/astro" title="github.com/withastro/astro" type="rss" xmlUrl="https://github.com/withastro/astro/releases.atom"/>
 <outline text="github.com/aerotoad/neboa" title="github.com/aerotoad/neboa" type="rss" xmlUrl="https://github.com/aerotoad/neboa/releases.atom"/>
 <outline text="github.com/web-infra-dev/wg" title="github.com/web-infra-dev/wg" type="rss" xmlUrl="https://github.com/web-infra-dev/wg/releases.atom"/>
@@ -426,6 +426,7 @@
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
 <outline text="ladle.dev" title="ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
+<outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
 <outline text="marijnhaverbeke.nl" title="marijnhaverbeke.nl" type="rss" xmlUrl="https://marijnhaverbeke.nl/blog/feed.atom"/>
@@ -468,6 +469,7 @@
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="sindresorhus.com" title="sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
+<outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/hgsgtk/" title="speakerdeck.com/hgsgtk/" type="rss" xmlUrl="https://speakerdeck.com/hgsgtk.atom"/>
 <outline text="speakerdeck.com/mizchi/" title="speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
 <outline text="speakerdeck.com/nichimu/" title="speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>

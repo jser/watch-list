@@ -555,15 +555,15 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -888,6 +888,12 @@
     "url": "https://github.com/vanjs-org/van",
     "feeds": [
       "https://github.com/vanjs-org/van/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/corepack",
+    "feeds": [
+      "https://github.com/nodejs/corepack/releases.atom"
     ]
   },
   {
@@ -2175,12 +2181,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/corepack",
-    "feeds": [
-      "https://github.com/nodejs/corepack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/withastro/astro",
     "feeds": [
       "https://github.com/withastro/astro/releases.atom"
@@ -2568,6 +2568,12 @@
     ]
   },
   {
+    "url": "https://leanrada.com",
+    "feeds": [
+      "https://leanrada.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://link-and-motivation.hatenablog.com",
     "feeds": [
       "https://link-and-motivation.hatenablog.com/feed",
@@ -2829,6 +2835,13 @@
     "url": "https://socket.dev",
     "feeds": [
       "https://socket.dev/api/feed.atom"
+    ]
+  },
+  {
+    "url": "https://softwaremill.com",
+    "feeds": [
+      "https://softwaremill.com/blog.atom",
+      "https://softwaremill.com/blog.rss"
     ]
   },
   {
