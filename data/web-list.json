@@ -209,21 +209,6 @@
   },
   {
     "count": 11,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article",
-      "proposal",
-      "relre"
-    ],
-    "example": {
-      "title": "Next.js 14 | Next.js",
-      "url": "https://nextjs.org/blog/next-14"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "browser",
@@ -331,21 +316,19 @@
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
-    "count": 9,
-    "url": "https://github.com/remix-run/remix",
+    "count": 10,
+    "url": "https://nextjs.org",
     "tags": [
-      "React",
-      "server",
-      "library",
+      "Next.js",
+      "article",
+      "proposal",
       "ReleaseNote",
-      "JavaScript",
-      "Remix"
+      "relre"
     ],
     "example": {
-      "title": "Release v2.2.0 · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/releases/tag/remix%402.2.0"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
+      "title": "Next.js 14 | Next.js",
+      "url": "https://nextjs.org/blog/next-14"
+    }
   },
   {
     "count": 9,
@@ -391,6 +374,22 @@
       "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
     },
     "rssUrl": "http://blog.chromium.org/atom.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "JavaScript",
+      "Remix",
+      "library",
+      "ReleaseNote",
+      "React"
+    ],
+    "example": {
+      "title": "Release v2.2.0 · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/releases/tag/remix%402.2.0"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 8,
@@ -2160,6 +2159,22 @@
   },
   {
     "count": 2,
+    "url": "https://community.redwoodjs.com",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "ReleaseNote",
+      "nodejs",
+      "library"
+    ],
+    "example": {
+      "title": "Redwood v7.0.0 Upgrade Guide - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
+      "url": "https://community.redwoodjs.com/t/redwood-v7-0-0-upgrade-guide/5713"
+    },
+    "rssUrl": "https://community.redwoodjs.com/posts.rss"
+  },
+  {
+    "count": 2,
     "url": "https://japa.dev",
     "tags": [
       "JavaScript",
@@ -2496,6 +2511,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/nodejs/corepack",
+    "tags": [
+      "nodejs",
+      "Tools",
+      "ReleaseNote",
+      "tool"
+    ],
+    "example": {
+      "title": "Release v0.25.0 · nodejs/corepack",
+      "url": "https://github.com/nodejs/corepack/releases/tag/v0.25.0"
+    },
+    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://lit.dev",
     "tags": [
       "JavaScript",
@@ -2553,18 +2583,6 @@
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://minze.dev",
-    "tags": [
-      "WebComponents",
-      "library"
-    ],
-    "example": {
-      "title": "JS framework for native web components | Minze",
-      "url": "https://minze.dev/"
-    }
   },
   {
     "count": 1,
@@ -5229,20 +5247,6 @@
       "url": "https://github.com/facebookincubator/memlab"
     },
     "rssUrl": "https://github.com/facebookincubator/memlab/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://community.redwoodjs.com",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Redwood 3.0.0 is now available! - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
-      "url": "https://community.redwoodjs.com/t/redwood-3-0-0-is-now-available/3989"
-    },
-    "rssUrl": "https://community.redwoodjs.com/posts.rss"
   },
   {
     "count": 1,
@@ -8639,20 +8643,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/nodejs/corepack",
-    "tags": [
-      "nodejs",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v0.20.0 · nodejs/corepack",
-      "url": "https://github.com/nodejs/corepack/releases/tag/v0.20.0"
-    },
-    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/withastro/astro",
     "tags": [
       "astro",
@@ -10383,5 +10373,33 @@
       "url": "https://github.com/pashak09/ts-expect-error-validator"
     },
     "rssUrl": "https://github.com/pashak09/ts-expect-error-validator/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://leanrada.com",
+    "tags": [
+      "HTML",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "htmz - a low power tool for html",
+      "url": "http://leanrada.com/htmz/"
+    },
+    "rssUrl": "https://leanrada.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://softwaremill.com",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "A novel technique for creating ergonomic and tree-shakable TypeScript libraries",
+      "url": "https://softwaremill.com/a-novel-technique-for-creating-ergonomic-and-tree-shakable-typescript-libraries/"
+    },
+    "rssUrl": "https://softwaremill.com/blog.atom"
   }
 ]

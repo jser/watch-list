@@ -629,6 +629,12 @@
     ]
   },
   {
+    "url": "https://leanrada.com",
+    "feeds": [
+      "https://leanrada.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://link-and-motivation.hatenablog.com",
     "feeds": [
       "https://link-and-motivation.hatenablog.com/feed",
@@ -878,6 +884,13 @@
     "url": "https://socket.dev",
     "feeds": [
       "https://socket.dev/api/feed.atom"
+    ]
+  },
+  {
+    "url": "https://softwaremill.com",
+    "feeds": [
+      "https://softwaremill.com/blog.atom",
+      "https://softwaremill.com/blog.rss"
     ]
   },
   {

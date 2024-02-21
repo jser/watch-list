@@ -103,6 +103,7 @@
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
 <outline text="ladle.dev" title="ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
+<outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
 <outline text="marijnhaverbeke.nl" title="marijnhaverbeke.nl" type="rss" xmlUrl="https://marijnhaverbeke.nl/blog/feed.atom"/>
@@ -143,6 +144,7 @@
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="sindresorhus.com" title="sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
+<outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/hgsgtk/" title="speakerdeck.com/hgsgtk/" type="rss" xmlUrl="https://speakerdeck.com/hgsgtk.atom"/>
 <outline text="speakerdeck.com/mizchi/" title="speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
 <outline text="speakerdeck.com/nichimu/" title="speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
