@@ -5287,20 +5287,6 @@
   },
   {
     "count": 1,
-    "url": "https://sqlite.org",
-    "tags": [
-      "SQLite",
-      "JavaScript",
-      "WebAssembly",
-      "library"
-    ],
-    "example": {
-      "title": "sqlite3 wasm docs: About the sqlite3 WASM/JS Subproject",
-      "url": "https://sqlite.org/wasm/doc/trunk/about.md"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/dudykr/stc",
     "tags": [
       "TypeScript",
