@@ -352,12 +352,6 @@
     ]
   },
   {
-    "url": "https://dev.to/arcanis/",
-    "feeds": [
-      "https://dev.to/feed/arcanis"
-    ]
-  },
-  {
     "url": "https://dev.to/frolovdev/",
     "feeds": [
       "https://dev.to/feed/frolovdev"
@@ -893,12 +887,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jimmywarting/native-file-system-adapter",
-    "feeds": [
-      "https://github.com/jimmywarting/native-file-system-adapter/releases.atom"
     ]
   },
   {
@@ -2453,6 +2441,12 @@
     "url": "https://github.com/pashak09/ts-expect-error-validator",
     "feeds": [
       "https://github.com/pashak09/ts-expect-error-validator/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react-strict-dom",
+    "feeds": [
+      "https://github.com/facebook/react-strict-dom/releases.atom"
     ]
   },
   {

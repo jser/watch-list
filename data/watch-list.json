@@ -202,6 +202,18 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
+    "count": 12,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 123.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/123.0/releasenotes/"
+    }
+  },
+  {
     "count": 11,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
@@ -244,18 +256,6 @@
     }
   },
   {
-    "count": 11,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 122.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/122.0/releasenotes/"
-    }
-  },
-  {
     "count": 10,
     "url": "https://2ality.com",
     "tags": [
@@ -285,6 +285,19 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2024-02 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2024/02/15/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 10,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 29.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-29-0"
     }
   },
   {
@@ -319,19 +332,6 @@
     "example": {
       "title": "Next.js 14 | Next.js",
       "url": "https://nextjs.org/blog/next-14"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Ecosystem 2023 Recap | Electron",
-      "url": "https://www.electronjs.org/blog/ecosystem-2023-eoy-recap"
     }
   },
   {
@@ -542,6 +542,24 @@
   },
   {
     "count": 6,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "article",
+      "React",
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "vite",
+      "document"
+    ],
+    "example": {
+      "title": "Remix Vite is Now Stable | Remix",
+      "url": "https://remix.run/blog/remix-vite-stable"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://github.com/lerna/lerna",
     "tags": [
       "monorepo",
@@ -631,24 +649,6 @@
     "example": {
       "title": "How React 18 Improves Application Performance – Vercel",
       "url": "https://vercel.com/blog/how-react-18-improves-application-performance"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "article",
-      "React",
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "vite",
-      "document"
-    ],
-    "example": {
-      "title": "Remix ❤️ Vite | Remix",
-      "url": "https://remix.run/blog/remix-heart-vite"
     }
   },
   {
@@ -2507,32 +2507,6 @@
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://dev.to/arcanis/",
-    "tags": [
-      "yarn",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Yarn 3.2 🚢🔮 Libc, Yarn Explain, Next Major, ... - DEV Community 👩‍💻👨‍💻",
-      "url": "https://dev.to/arcanis/yarn-32-libc-yarn-explain-next-major--o22"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jimmywarting/native-file-system-adapter",
-    "tags": [
-      "node.js",
-      "library",
-      "polyfill"
-    ],
-    "example": {
-      "title": "jimmywarting/native-file-system-adapter: File system, based on the spec reference implementation",
-      "url": "https://github.com/jimmywarting/native-file-system-adapter/"
-    },
-    "rssUrl": "https://github.com/jimmywarting/native-file-system-adapter/releases.atom"
   },
   {
     "count": 1,
@@ -10137,5 +10111,20 @@
       "title": "A novel technique for creating ergonomic and tree-shakable TypeScript libraries",
       "url": "https://softwaremill.com/a-novel-technique-for-creating-ergonomic-and-tree-shakable-typescript-libraries/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/react-strict-dom",
+    "tags": [
+      "React",
+      "DOM",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "facebook/react-strict-dom: React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+      "url": "https://github.com/facebook/react-strict-dom"
+    },
+    "rssUrl": "https://github.com/facebook/react-strict-dom/releases.atom"
   }
 ]
