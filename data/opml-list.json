@@ -943,12 +943,6 @@
     ]
   },
   {
-    "url": "https://sqlite.org",
-    "feeds": [
-      "https://sqlite.org/wasm/timeline.rss"
-    ]
-  },
-  {
     "url": "https://storybook.js.org",
     "feeds": [
       "https://storybook.js.org/blog/rss/"

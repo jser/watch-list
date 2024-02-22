@@ -152,7 +152,6 @@
 <outline text="speakerdeck.com/sajikix/" title="speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
-<outline text="sqlite.org" title="sqlite.org" type="rss" xmlUrl="https://sqlite.org/wasm/timeline.rss"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stripe.com" title="stripe.com" type="rss" xmlUrl="https://stripe.com/blog/feed.rss"/>
 <outline text="surma.dev" title="surma.dev" type="rss" xmlUrl="https://surma.dev/index.xml"/>
