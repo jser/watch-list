@@ -60,7 +60,6 @@
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
 <outline text="defensivecss.dev" title="defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
-<outline text="dev.to/arcanis/" title="dev.to/arcanis/" type="rss" xmlUrl="https://dev.to/feed/arcanis"/>
 <outline text="dev.to/frolovdev/" title="dev.to/frolovdev/" type="rss" xmlUrl="https://dev.to/feed/frolovdev"/>
 <outline text="dev.to/hemanth/" title="dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
 <outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
@@ -149,7 +148,6 @@
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/jimmywarting/native-file-system-adapter" title="github.com/jimmywarting/native-file-system-adapter" type="rss" xmlUrl="https://github.com/jimmywarting/native-file-system-adapter/releases.atom"/>
 <outline text="github.com/JoshuaKGoldberg/TypeStat" title="github.com/JoshuaKGoldberg/TypeStat" type="rss" xmlUrl="https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"/>
 <outline text="github.com/microsoft/TypeScript-Compiler-Notes" title="github.com/microsoft/TypeScript-Compiler-Notes" type="rss" xmlUrl="https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"/>
 <outline text="github.com/vinodotdev/node-to-rust" title="github.com/vinodotdev/node-to-rust" type="rss" xmlUrl="https://github.com/vinodotdev/node-to-rust/releases.atom"/>
@@ -409,6 +407,7 @@
 <outline text="github.com/StellateHQ/fuse" title="github.com/StellateHQ/fuse" type="rss" xmlUrl="https://github.com/StellateHQ/fuse/releases.atom"/>
 <outline text="github.com/kolodny/safetest?tab=readme-ov-file" title="github.com/kolodny/safetest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/kolodny/safetest?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/pashak09/ts-expect-error-validator" title="github.com/pashak09/ts-expect-error-validator" type="rss" xmlUrl="https://github.com/pashak09/ts-expect-error-validator/releases.atom"/>
+<outline text="github.com/facebook/react-strict-dom" title="github.com/facebook/react-strict-dom" type="rss" xmlUrl="https://github.com/facebook/react-strict-dom/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>

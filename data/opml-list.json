@@ -345,12 +345,6 @@
     ]
   },
   {
-    "url": "https://dev.to/arcanis/",
-    "feeds": [
-      "https://dev.to/feed/arcanis"
-    ]
-  },
-  {
     "url": "https://dev.to/frolovdev/",
     "feeds": [
       "https://dev.to/feed/frolovdev"
