@@ -156,21 +156,6 @@
   },
   {
     "count": 17,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "npm",
-      "performance"
-    ],
-    "example": {
-      "title": "Release v8.13.1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v8.13.1"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -183,6 +168,21 @@
       "title": "Astro 4.2 | Astro",
       "url": "https://astro.build/blog/astro-420/"
     }
+  },
+  {
+    "count": 16,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "npm",
+      "performance"
+    ],
+    "example": {
+      "title": "Release v8.13.1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v8.13.1"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 15,
@@ -1077,23 +1077,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/ghiscoding/lerna-lite",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "library",
-      "JavaScript",
-      "ReleaseNote",
-      "npm"
-    ],
-    "example": {
-      "title": "Release v1.5.0 · ghiscoding/lerna-lite",
-      "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.5.0"
-    },
-    "rssUrl": "https://github.com/ghiscoding/lerna-lite/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://css-tricks.com",
     "tags": [
       "CSS",
@@ -1701,6 +1684,22 @@
       "url": "https://github.com/puppeteer/puppeteer/releases/tag/v16.0.0"
     },
     "rssUrl": "https://github.com/puppeteer/puppeteer/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/ghiscoding/lerna-lite",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "npm"
+    ],
+    "example": {
+      "title": "Release v1.5.0 · ghiscoding/lerna-lite",
+      "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.5.0"
+    },
+    "rssUrl": "https://github.com/ghiscoding/lerna-lite/releases.atom"
   },
   {
     "count": 2,
@@ -2506,20 +2505,6 @@
     "example": {
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://monorepo.tools",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "Monorepo Explained",
-      "url": "https://monorepo.tools/"
     }
   },
   {
