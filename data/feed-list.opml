@@ -106,7 +106,6 @@
 <outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
-<outline text="github.com/ghiscoding/lerna-lite" title="github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
 <outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
@@ -128,6 +127,7 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/puppeteer/puppeteer" title="github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
+<outline text="github.com/ghiscoding/lerna-lite" title="github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/electron/electron" title="github.com/electron/electron" type="rss" xmlUrl="https://github.com/electron/electron/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
