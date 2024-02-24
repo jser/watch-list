@@ -829,6 +829,12 @@
     ]
   },
   {
+    "url": "https://rumarchive.com",
+    "feeds": [
+      "https://rumarchive.com/blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://rviscomi.dev",
     "feeds": [
       "https://rviscomi.dev/feed/",

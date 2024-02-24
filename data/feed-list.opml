@@ -140,6 +140,7 @@
 <outline text="github.com/httptoolkit/brotli-wasm" title="github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
 <outline text="github.com/avajs/ava" title="github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
 <outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
+<outline text="github.com/parcel-bundler/lightningcss" title="github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/facebook/flow" title="github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
 <outline text="github.com/kaleidawave/ezno" title="github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
@@ -148,7 +149,6 @@
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/JoshuaKGoldberg/TypeStat" title="github.com/JoshuaKGoldberg/TypeStat" type="rss" xmlUrl="https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"/>
 <outline text="github.com/microsoft/TypeScript-Compiler-Notes" title="github.com/microsoft/TypeScript-Compiler-Notes" type="rss" xmlUrl="https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"/>
 <outline text="github.com/vinodotdev/node-to-rust" title="github.com/vinodotdev/node-to-rust" type="rss" xmlUrl="https://github.com/vinodotdev/node-to-rust/releases.atom"/>
 <outline text="github.com/xataio/screenshot" title="github.com/xataio/screenshot" type="rss" xmlUrl="https://github.com/xataio/screenshot/releases.atom"/>
@@ -261,7 +261,6 @@
 <outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
 <outline text="github.com/anonrig/fast-querystring" title="github.com/anonrig/fast-querystring" type="rss" xmlUrl="https://github.com/anonrig/fast-querystring/releases.atom"/>
 <outline text="github.com/tokencss/tokencss" title="github.com/tokencss/tokencss" type="rss" xmlUrl="https://github.com/tokencss/tokencss/releases.atom"/>
-<outline text="github.com/parcel-bundler/lightningcss" title="github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>
 <outline text="github.com/gioboa/vite-module-federation" title="github.com/gioboa/vite-module-federation" type="rss" xmlUrl="https://github.com/gioboa/vite-module-federation/releases.atom"/>
 <outline text="github.com/mozilla/pdf.js" title="github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>
 <outline text="github.com/dudykr/stc" title="github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
@@ -459,6 +458,7 @@
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
+<outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="scrapbox.io" title="scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>
