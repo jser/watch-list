@@ -1,6 +1,6 @@
 [
   {
-    "count": 54,
+    "count": 53,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -115,7 +115,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 26,
+    "count": 27,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -126,8 +126,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.4 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/"
+      "title": "Announcing TypeScript 5.4 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-rc/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -160,13 +160,13 @@
     }
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
-      "library",
-      "ReleaseNote",
       "Tools",
+      "ReleaseNote",
+      "library",
       "astro"
     ],
     "example": {
@@ -2174,6 +2174,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/parcel-bundler/lightningcss",
+    "tags": [
+      "Rust",
+      "CSS",
+      "library",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.24.0 · parcel-bundler/lightningcss",
+      "url": "https://github.com/parcel-bundler/lightningcss/releases/tag/v1.24.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/lightningcss/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://japa.dev",
     "tags": [
       "JavaScript",
@@ -2582,20 +2598,6 @@
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/JoshuaKGoldberg/TypeStat",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "JoshuaKGoldberg/TypeStat: Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
-      "url": "https://github.com/JoshuaKGoldberg/TypeStat"
-    },
-    "rssUrl": "https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"
   },
   {
     "count": 1,
@@ -5297,20 +5299,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/parcel-bundler/lightningcss",
-    "tags": [
-      "Rust",
-      "CSS",
-      "library"
-    ],
-    "example": {
-      "title": "parcel-bundler/lightningcss: An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
-      "url": "https://github.com/parcel-bundler/lightningcss"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/lightningcss/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/gioboa/vite-module-federation",
     "tags": [
       "vite",
@@ -6012,7 +6000,8 @@
     "example": {
       "title": "RUM Archive - Homepage",
       "url": "https://rumarchive.com/"
-    }
+    },
+    "rssUrl": "https://rumarchive.com/blog/feed.xml"
   },
   {
     "count": 1,

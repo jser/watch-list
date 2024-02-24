@@ -842,6 +842,12 @@
     ]
   },
   {
+    "url": "https://github.com/parcel-bundler/lightningcss",
+    "feeds": [
+      "https://github.com/parcel-bundler/lightningcss/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
@@ -887,12 +893,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/JoshuaKGoldberg/TypeStat",
-    "feeds": [
-      "https://github.com/JoshuaKGoldberg/TypeStat/releases.atom"
     ]
   },
   {
@@ -1565,12 +1565,6 @@
     "url": "https://github.com/tokencss/tokencss",
     "feeds": [
       "https://github.com/tokencss/tokencss/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/parcel-bundler/lightningcss",
-    "feeds": [
-      "https://github.com/parcel-bundler/lightningcss/releases.atom"
     ]
   },
   {
@@ -2771,6 +2765,12 @@
     "url": "https://remotesynthesis.com",
     "feeds": [
       "https://remotesynthesis.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://rumarchive.com",
+    "feeds": [
+      "https://rumarchive.com/blog/feed.xml"
     ]
   },
   {
