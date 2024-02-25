@@ -49,6 +49,27 @@
     }
   },
   {
+    "count": 34,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bundler",
+      "article",
+      "CommonJS",
+      "ECMAScript",
+      "module",
+      "yarn",
+      "npm",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Bun v1.0.29 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.0.29"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
+  },
+  {
     "count": 33,
     "url": "https://webkit.org",
     "tags": [
@@ -72,28 +93,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 33,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bundler",
-      "article",
-      "CommonJS",
-      "ECMAScript",
-      "module",
-      "yarn",
-      "npm",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Bun v1.0.27 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.27"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 30,
+    "count": 31,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -109,8 +109,8 @@
       "denoe"
     ],
     "example": {
-      "title": "Deno 1.40: Temporal API",
-      "url": "https://deno.com/blog/v1.40"
+      "title": "Deno 1.41: smaller deno compile binaries",
+      "url": "https://deno.com/blog/v1.41"
     },
     "rssUrl": "https://deno.com/feed"
   },
