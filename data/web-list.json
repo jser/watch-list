@@ -21,12 +21,11 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 41,
+    "count": 40,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
       "article",
-      "debug",
       "privacy",
       "translate",
       "performance",
@@ -35,6 +34,7 @@
       "browser",
       "ReleaseNote",
       "JavaScript",
+      "debug",
       "Tools",
       "puppeteer",
       "HTML",
@@ -10333,5 +10333,32 @@
       "url": "https://github.com/facebook/react-strict-dom"
     },
     "rssUrl": "https://github.com/facebook/react-strict-dom/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://funnull.com",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "news",
+      "webservice"
+    ],
+    "example": {
+      "title": "FUNNULL CDN - Partners",
+      "url": "https://funnull.com/Partner/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/fabiospampinato/fast-string-width",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "fabiospampinato/fast-string-width: A fast function for calculating the visual width of a string once printed to the terminal.",
+      "url": "https://github.com/fabiospampinato/fast-string-width/tree/main"
+    },
+    "rssUrl": "https://github.com/fabiospampinato/fast-string-width/releases.atom"
   }
 ]

@@ -2444,6 +2444,12 @@
     ]
   },
   {
+    "url": "https://github.com/fabiospampinato/fast-string-width",
+    "feeds": [
+      "https://github.com/fabiospampinato/fast-string-width/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
