@@ -25,6 +25,12 @@
     ]
   },
   {
+    "url": "https://alexharri.com",
+    "feeds": [
+      "https://alexharri.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://almanac.httparchive.org",
     "feeds": [
       "https://almanac.httparchive.org/en/rss.xml"
@@ -2447,6 +2453,12 @@
     "url": "https://github.com/fabiospampinato/fast-string-width",
     "feeds": [
       "https://github.com/fabiospampinato/fast-string-width/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/unadlib/mutability",
+    "feeds": [
+      "https://github.com/unadlib/mutability/releases.atom"
     ]
   },
   {

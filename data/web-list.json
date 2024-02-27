@@ -10360,5 +10360,31 @@
       "url": "https://github.com/fabiospampinato/fast-string-width/tree/main"
     },
     "rssUrl": "https://github.com/fabiospampinato/fast-string-width/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://alexharri.com",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "JSDoc as an alternative TypeScript syntax",
+      "url": "https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax"
+    },
+    "rssUrl": "https://alexharri.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/unadlib/mutability",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "unadlib/mutability: A JavaScript library for transactional mutable updates",
+      "url": "https://github.com/unadlib/mutability"
+    },
+    "rssUrl": "https://github.com/unadlib/mutability/releases.atom"
   }
 ]
