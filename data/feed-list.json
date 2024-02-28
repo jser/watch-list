@@ -578,12 +578,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -623,6 +617,12 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -2444,12 +2444,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/react-strict-dom",
-    "feeds": [
-      "https://github.com/facebook/react-strict-dom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/fabiospampinato/fast-string-width",
     "feeds": [
       "https://github.com/fabiospampinato/fast-string-width/releases.atom"
@@ -2459,6 +2453,12 @@
     "url": "https://github.com/unadlib/mutability",
     "feeds": [
       "https://github.com/unadlib/mutability/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react-strict-dom",
+    "feeds": [
+      "https://github.com/facebook/react-strict-dom/releases.atom"
     ]
   },
   {
