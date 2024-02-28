@@ -629,21 +629,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "redux",
-      "library",
-      "ReleaseNote",
-      "React"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -1006,6 +991,21 @@
       "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
       "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "redux",
+      "library",
+      "ReleaseNote",
+      "React"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 4,
@@ -2494,6 +2494,21 @@
       "url": "https://github.com/vanjs-org/van/discussions/72"
     },
     "rssUrl": "https://github.com/vanjs-org/van/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://blog.rafaelgss.dev",
+    "tags": [
+      "node.js",
+      "performance",
+      "article",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Node.js 2023 Year in An Article",
+      "url": "https://blog.rafaelgss.dev/nodejs-2023-year-in-review"
+    },
+    "rssUrl": "https://blog.rafaelgss.dev/rss"
   },
   {
     "count": 2,
@@ -7815,20 +7830,6 @@
   },
   {
     "count": 1,
-    "url": "https://blog.rafaelgss.dev",
-    "tags": [
-      "node.js",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "State of Node.js Performance 2023",
-      "url": "https://blog.rafaelgss.dev/state-of-nodejs-performance-2023"
-    },
-    "rssUrl": "https://blog.rafaelgss.dev/rss"
-  },
-  {
-    "count": 1,
     "url": "https://marmooo.blogspot.com",
     "tags": [
       "CSS",
@@ -10321,35 +10322,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/facebook/react-strict-dom",
-    "tags": [
-      "React",
-      "DOM",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "facebook/react-strict-dom: React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
-      "url": "https://github.com/facebook/react-strict-dom"
-    },
-    "rssUrl": "https://github.com/facebook/react-strict-dom/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://funnull.com",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "news",
-      "webservice"
-    ],
-    "example": {
-      "title": "FUNNULL CDN - Partners",
-      "url": "https://funnull.com/Partner/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/fabiospampinato/fast-string-width",
     "tags": [
       "JavaScript",
@@ -10386,5 +10358,60 @@
       "url": "https://github.com/unadlib/mutability"
     },
     "rssUrl": "https://github.com/unadlib/mutability/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/aishift/",
+    "tags": [
+      "React",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "TanStack Router（& Query）はSPA開発で求めていたものだった✨【Reactのルーティングとデータ取得】",
+      "url": "https://zenn.dev/aishift/articles/ad1744836509dd"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://rxdb.info",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Using localStorage in Modern Applications - A Comprehensive Guide | RxDB - JavaScript Database",
+      "url": "https://rxdb.info/articles/localstorage.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/react-strict-dom",
+    "tags": [
+      "React",
+      "DOM",
+      "iOS",
+      "Android",
+      "library"
+    ],
+    "example": {
+      "title": "facebook/react-strict-dom: React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+      "url": "https://github.com/facebook/react-strict-dom"
+    },
+    "rssUrl": "https://github.com/facebook/react-strict-dom/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://funnull.com",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "news",
+      "webservice"
+    ],
+    "example": {
+      "title": "方能CDN - 合作伙伴",
+      "url": "https://funnull.com/Partner/"
+    }
   }
 ]
