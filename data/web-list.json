@@ -425,7 +425,8 @@
     "example": {
       "title": "A Socket API that works across JavaScript runtimes — announcing a WinterCG spec and Node.js implementation of connect()",
       "url": "https://blog.cloudflare.com/socket-api-works-javascript-runtimes-wintercg-polyfill-connect/"
-    }
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -685,6 +686,20 @@
   },
   {
     "count": 5,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
+    },
+    "rssUrl": "https://babeljs.io/blog/rss.xml"
+  },
+  {
+    "count": 5,
     "url": "https://github.blog",
     "tags": [
       "npm",
@@ -934,20 +949,6 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "7.23.0 Released: Decorator Metadata and many new `import` features! · Babel",
-      "url": "https://babeljs.io/blog/2023/09/25/7.23.0"
-    },
-    "rssUrl": "https://babeljs.io/blog/rss.xml"
   },
   {
     "count": 4,

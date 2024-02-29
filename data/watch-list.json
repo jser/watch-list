@@ -665,6 +665,19 @@
   },
   {
     "count": 5,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://github.blog",
     "tags": [
       "npm",
@@ -905,19 +918,6 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "7.23.0 Released: Decorator Metadata and many new `import` features! · Babel",
-      "url": "https://babeljs.io/blog/2023/09/25/7.23.0"
-    }
   },
   {
     "count": 4,
