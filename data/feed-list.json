@@ -118,6 +118,12 @@
     ]
   },
   {
+    "url": "https://blog.cloudflare.com",
+    "feeds": [
+      "https://blog.cloudflare.com/rss"
+    ]
+  },
+  {
     "url": "https://blog.emberjs.com",
     "feeds": [
       "https://blog.emberjs.com/rss.xml"
