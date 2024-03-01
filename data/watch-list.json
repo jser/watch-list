@@ -90,17 +90,15 @@
     }
   },
   {
-    "count": 31,
+    "count": 30,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "node.js",
-      "npm",
-      "article",
       "ReleaseNote",
       "React",
       "news",
       "V8",
+      "article",
       "JavaScript",
       "library",
       "denoe"
@@ -638,6 +636,21 @@
   },
   {
     "count": 5,
+    "url": "https://parceljs.org",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "bundler",
+      "parcel"
+    ],
+    "example": {
+      "title": "Parcel v2.12.0",
+      "url": "https://parceljs.org/blog/v2-12-0/"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://github.com/vitejs/vite",
     "tags": [
       "vite",
@@ -822,21 +835,6 @@
     "example": {
       "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
       "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://parceljs.org",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "bundler",
-      "parcel"
-    ],
-    "example": {
-      "title": "Parcel v2.9.0",
-      "url": "https://parceljs.org/blog/v2-9-0/"
     }
   },
   {
@@ -1074,20 +1072,6 @@
       "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
     },
     "rssUrl": "https://github.com/jestjs/jest/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://css-tricks.com",
-    "tags": [
-      "CSS",
-      "article",
-      "JavaScript",
-      "React"
-    ],
-    "example": {
-      "title": "Everything You Need to Know About the Gap After the List Marker | CSS-Tricks - CSS-Tricks",
-      "url": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/"
-    }
   },
   {
     "count": 3,
@@ -1460,6 +1444,23 @@
     "example": {
       "title": "Fluent React",
       "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "CSS",
+      "article",
+      "browser",
+      "HTML",
+      "JavaScript",
+      "tutorial",
+      "accessibility"
+    ],
+    "example": {
+      "title": "MDN Curriculum",
+      "url": "https://developer.mozilla.org/en-US/curriculum/"
     }
   },
   {
@@ -2095,17 +2096,16 @@
   },
   {
     "count": 2,
-    "url": "https://community.redwoodjs.com",
+    "url": "https://css-tricks.com",
     "tags": [
       "JavaScript",
-      "node.js",
-      "ReleaseNote",
-      "nodejs",
-      "library"
+      "React",
+      "article",
+      "CSS"
     ],
     "example": {
-      "title": "Redwood v7.0.0 Upgrade Guide - Announcements / Releases and Upgrade Guides - RedwoodJS Community",
-      "url": "https://community.redwoodjs.com/t/redwood-v7-0-0-upgrade-guide/5713"
+      "title": "Everything You Need to Know About the Gap After the List Marker | CSS-Tricks - CSS-Tricks",
+      "url": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/"
     }
   },
   {
@@ -2496,19 +2496,6 @@
   },
   {
     "count": 2,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "CSS",
-      "article",
-      "browser"
-    ],
-    "example": {
-      "title": "Baseline's evolution on MDN | MDN Blog",
-      "url": "https://developer.mozilla.org/en-US/blog/baseline-evolution-on-mdn/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
@@ -2536,61 +2523,6 @@
       "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/introducing-catalyst"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/microsoft/TypeScript-Compiler-Notes",
-    "tags": [
-      "TypeScript",
-      "document"
-    ],
-    "example": {
-      "title": "microsoft/TypeScript-Compiler-Notes: A repo containing notes about the TypeScript Compiler codebase",
-      "url": "https://github.com/microsoft/TypeScript-Compiler-Notes"
-    },
-    "rssUrl": "https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vinodotdev/node-to-rust",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "book"
-    ],
-    "example": {
-      "title": "vinodotdev/node-to-rust",
-      "url": "https://github.com/vinodotdev/node-to-rust/"
-    },
-    "rssUrl": "https://github.com/vinodotdev/node-to-rust/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/xataio/screenshot",
-    "tags": [
-      "JavaScript",
-      "library",
-      "Image",
-      "browser"
-    ],
-    "example": {
-      "title": "xataio/screenshot: A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.",
-      "url": "https://github.com/xataio/screenshot"
-    },
-    "rssUrl": "https://github.com/xataio/screenshot/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/leafac/caxa",
-    "tags": [
-      "node.js",
-      "Tools"
-    ],
-    "example": {
-      "title": "leafac/caxa: 📦 Package Node.js applications into executable binaries 📦",
-      "url": "https://github.com/leafac/caxa"
-    },
-    "rssUrl": "https://github.com/leafac/caxa/releases.atom"
   },
   {
     "count": 1,
@@ -10163,6 +10095,21 @@
     "example": {
       "title": "方能CDN - 合作伙伴",
       "url": "https://funnull.com/Partner/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://million.dev",
+    "tags": [
+      "React",
+      "performance",
+      "Tools",
+      "VSCode",
+      "article"
+    ],
+    "example": {
+      "title": "Million Lint is in public beta | Million.js",
+      "url": "https://million.dev/blog/lint"
     }
   }
 ]

@@ -299,13 +299,6 @@
     ]
   },
   {
-    "url": "https://community.redwoodjs.com",
-    "feeds": [
-      "https://community.redwoodjs.com/posts.rss",
-      "https://community.redwoodjs.com/latest.rss"
-    ]
-  },
-  {
     "url": "https://css-tricks.com",
     "feeds": [
       "https://css-tricks.com/feed/"
@@ -905,30 +898,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/microsoft/TypeScript-Compiler-Notes",
-    "feeds": [
-      "https://github.com/microsoft/TypeScript-Compiler-Notes/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vinodotdev/node-to-rust",
-    "feeds": [
-      "https://github.com/vinodotdev/node-to-rust/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/xataio/screenshot",
-    "feeds": [
-      "https://github.com/xataio/screenshot/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/leafac/caxa",
-    "feeds": [
-      "https://github.com/leafac/caxa/releases.atom"
     ]
   },
   {
