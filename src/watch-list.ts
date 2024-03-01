@@ -19,7 +19,10 @@ const ignoreDomains: string[] = [
     "gihyo.jp",
     "www.shuwasystem.co.jp",
     "discuss.httparchive.org",
+    "community.fastly.com",
     "sqlite.org",
+    // 汎用的なコミュニティフォーラム
+    "community."
 ];
 
 export type WatchItem = {
