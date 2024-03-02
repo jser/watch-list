@@ -334,6 +334,31 @@
   },
   {
     "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "ReleaseNote",
+      "WebAssembly",
+      "article",
+      "C++",
+      "puppeteer",
+      "node.js",
+      "console",
+      "Tools",
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news"
+    ],
+    "example": {
+      "title": "polyfill.io now available on cdnjs: reduce your supply chain risk | The Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/polyfill-io-now-available-on-cdnjs-reduce-your-supply-chain-risk"
+    }
+  },
+  {
+    "count": 9,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "cloudflare",
@@ -390,29 +415,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "ReleaseNote",
-      "WebAssembly",
-      "article",
-      "C++",
-      "puppeteer",
-      "node.js",
-      "console",
-      "Tools",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API"
-    ],
-    "example": {
-      "title": "A Socket API that works across JavaScript runtimes — announcing a WinterCG spec and Node.js implementation of connect()",
-      "url": "https://blog.cloudflare.com/socket-api-works-javascript-runtimes-wintercg-polyfill-connect/"
-    }
   },
   {
     "count": 8,
