@@ -751,6 +751,12 @@
     ]
   },
   {
+    "url": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/facebook/react",
     "feeds": [
       "https://github.com/facebook/react/releases.atom"
@@ -1048,12 +1054,6 @@
     "url": "https://github.com/eolme/i18nano",
     "feeds": [
       "https://github.com/eolme/i18nano/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/expressjs/express",
-    "feeds": [
-      "https://github.com/expressjs/express/releases.atom"
     ]
   },
   {

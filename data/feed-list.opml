@@ -125,6 +125,7 @@
 <outline text="github.com/faker-js/faker" title="github.com/faker-js/faker" type="rss" xmlUrl="https://github.com/faker-js/faker/releases.atom"/>
 <outline text="github.com/facebook/lexical" title="github.com/facebook/lexical" type="rss" xmlUrl="https://github.com/facebook/lexical/releases.atom"/>
 <outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
+<outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/puppeteer/puppeteer" title="github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
@@ -175,7 +176,6 @@
 <outline text="github.com/unjs/nitro" title="github.com/unjs/nitro" type="rss" xmlUrl="https://github.com/unjs/nitro/releases.atom"/>
 <outline text="github.com/plantain-00/type-coverage" title="github.com/plantain-00/type-coverage" type="rss" xmlUrl="https://github.com/plantain-00/type-coverage/releases.atom"/>
 <outline text="github.com/eolme/i18nano" title="github.com/eolme/i18nano" type="rss" xmlUrl="https://github.com/eolme/i18nano/releases.atom"/>
-<outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/shuding/tilg" title="github.com/shuding/tilg" type="rss" xmlUrl="https://github.com/shuding/tilg/releases.atom"/>
 <outline text="github.com/tdewolff/minify" title="github.com/tdewolff/minify" type="rss" xmlUrl="https://github.com/tdewolff/minify/releases.atom"/>
 <outline text="github.com/frouriojs/notios" title="github.com/frouriojs/notios" type="rss" xmlUrl="https://github.com/frouriojs/notios/releases.atom"/>
