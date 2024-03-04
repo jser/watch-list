@@ -189,13 +189,13 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 15,
+    "count": 14,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
       "bundler",
-      "ReleaseNote",
       "Tools",
+      "ReleaseNote",
       "CSS",
       "esbuild"
     ],
@@ -630,19 +630,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.90.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://vercel.com",
     "tags": [
       "Next.js",
@@ -855,22 +842,6 @@
   },
   {
     "count": 4,
-    "url": "https://hacks.mozilla.org",
-    "tags": [
-      "mdn",
-      "article",
-      "Firefox",
-      "performance",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
-      "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
-    },
-    "rssUrl": "https://hacks.mozilla.org/feed/"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/reduxjs/react-redux",
     "tags": [
       "React",
@@ -992,6 +963,19 @@
       "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
       "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.90.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
@@ -1156,6 +1140,22 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://hacks.mozilla.org",
+    "tags": [
+      "mdn",
+      "article",
+      "Firefox",
+      "performance",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
+      "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
+    },
+    "rssUrl": "https://hacks.mozilla.org/feed/"
   },
   {
     "count": 3,
@@ -10363,5 +10363,33 @@
       "title": "Million Lint is in public beta | Million.js",
       "url": "https://million.dev/blog/lint"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
+    "tags": [
+      "browser",
+      "Extension",
+      "Tools"
+    ],
+    "example": {
+      "title": "wxt-dev/wxt: ⚡ Next-gen Web Extension Framework",
+      "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/electric-sql/pglite",
+    "tags": [
+      "PostgreSQL",
+      "WebAssembly",
+      "library"
+    ],
+    "example": {
+      "title": "electric-sql/pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
+      "url": "https://github.com/electric-sql/pglite"
+    },
+    "rssUrl": "https://github.com/electric-sql/pglite/releases.atom"
   }
 ]

@@ -577,12 +577,6 @@
     ]
   },
   {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
@@ -616,6 +610,12 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -2434,6 +2434,18 @@
     "url": "https://github.com/facebook/react-strict-dom",
     "feeds": [
       "https://github.com/facebook/react-strict-dom/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/electric-sql/pglite",
+    "feeds": [
+      "https://github.com/electric-sql/pglite/releases.atom"
     ]
   },
   {
