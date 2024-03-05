@@ -38,6 +38,7 @@
 <outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.s2n.tech" title="blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
+<outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
 <outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
 <outline text="blog.sentry.io" title="blog.sentry.io" type="rss" xmlUrl="https://blog.sentry.io/feed.xml"/>
 <outline text="blog.stackblitz.com" title="blog.stackblitz.com" type="rss" xmlUrl="https://blog.stackblitz.com/rss.xml"/>

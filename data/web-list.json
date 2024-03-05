@@ -49,7 +49,7 @@
     }
   },
   {
-    "count": 34,
+    "count": 35,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -64,8 +64,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Bun v1.0.29 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.29"
+      "title": "Bun v1.0.30 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.0.30"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -10391,5 +10391,33 @@
       "url": "https://github.com/electric-sql/pglite"
     },
     "rssUrl": "https://github.com/electric-sql/pglite/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://jsr.io",
+    "tags": [
+      "JavaScript",
+      "deno",
+      "nodejs",
+      "webservice"
+    ],
+    "example": {
+      "title": "JSR: the JavaScript Registry",
+      "url": "https://jsr.io/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.saeloun.com",
+    "tags": [
+      "Next.js",
+      "Remix",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js vs. Remix - A Developer's Dilemma | Saeloun Blog",
+      "url": "https://blog.saeloun.com/2024/02/21/next.js-vs-remix/"
+    },
+    "rssUrl": "https://blog.saeloun.com/feed.xml"
   }
 ]
