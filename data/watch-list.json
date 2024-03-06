@@ -68,17 +68,15 @@
     }
   },
   {
-    "count": 33,
+    "count": 31,
     "url": "https://webkit.org",
     "tags": [
+      "webkit",
       "safari",
       "ReleaseNote",
       "browser",
-      "article",
-      "testing",
-      "WebPlatformAPI",
-      "webkit",
       "HTML",
+      "article",
       "CSS",
       "serverless",
       "アンケート",
@@ -374,6 +372,20 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
+    "count": 9,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "news",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "ESLint v8.57.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/02/eslint-v8.57.0-released/"
+    }
+  },
+  {
     "count": 8,
     "url": "https://blog.chromium.org",
     "tags": [
@@ -415,20 +427,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "news",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Deprecation of formatting rules - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2023/10/deprecating-formatting-rules/"
-    }
   },
   {
     "count": 8,
