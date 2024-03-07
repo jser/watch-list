@@ -111,13 +111,13 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
-      "ReleaseNote",
       "ECMAScript",
       "article",
+      "ReleaseNote",
       "V8",
       "performance"
     ],
@@ -1095,38 +1095,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/facebook/jest",
-    "tags": [
-      "jest",
-      "ReleaseNote",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v29.5.0 · facebook/jest",
-      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/jest/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/styled-components/styled-components",
-    "tags": [
-      "React",
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "alib"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · styled-components/styled-components",
-      "url": "https://github.com/styled-components/styled-components/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/styled-components/styled-components/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/vueuse/vueuse",
     "tags": [
       "Vue",
@@ -1383,6 +1351,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/pixijs/pixijs",
+    "tags": [
+      "JavaScript",
+      "canvas",
+      "library",
+      "ReleaseNote",
+      "game"
+    ],
+    "example": {
+      "title": "Release v8.0.0 · pixijs/pixijs",
+      "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://docs.cypress.io",
     "tags": [
       "JavaScript",
@@ -1507,21 +1491,6 @@
       "url": "https://developer.mozilla.org/en-US/curriculum/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/TypeStrong/ts-node",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "node.js",
-      "library"
-    ],
-    "example": {
-      "title": "Release v10.8.0 · TypeStrong/ts-node",
-      "url": "https://github.com/TypeStrong/ts-node/releases/tag/v10.8.0"
-    },
-    "rssUrl": "https://github.com/TypeStrong/ts-node/releases.atom"
   },
   {
     "count": 2,
@@ -2112,6 +2081,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/styled-components/styled-components",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "alib"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · styled-components/styled-components",
+      "url": "https://github.com/styled-components/styled-components/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/styled-components/styled-components/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://blog.tomayac.com",
     "tags": [
       "JavaScript",
@@ -2233,22 +2218,6 @@
       "title": "Practical WebAssembly [Book]",
       "url": "https://www.oreilly.com/library/view/practical-webassembly/9781098142513/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/pixijs/pixijs",
-    "tags": [
-      "JavaScript",
-      "canvas",
-      "library",
-      "ReleaseNote",
-      "game"
-    ],
-    "example": {
-      "title": "Release v8.0.0-alpha.0 · pixijs/pixijs",
-      "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0-alpha.0"
-    },
-    "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
   },
   {
     "count": 2,
@@ -2394,6 +2363,21 @@
       "url": "https://github.com/facebook/flow/releases/tag/v0.200.0"
     },
     "rssUrl": "https://github.com/facebook/flow/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/facebook/jest",
+    "tags": [
+      "JavaScript",
+      "jest",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v29.5.0 · facebook/jest",
+      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
+    },
+    "rssUrl": "https://github.com/facebook/jest/releases.atom"
   },
   {
     "count": 2,
@@ -3630,6 +3614,21 @@
       "url": "https://github.com/Shopify/remote-ui"
     },
     "rssUrl": "https://github.com/Shopify/remote-ui/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/TypeStrong/ts-node",
+    "tags": [
+      "TypeScript",
+      "node.js",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.8.0 · TypeStrong/ts-node",
+      "url": "https://github.com/TypeStrong/ts-node/releases/tag/v10.8.0"
+    },
+    "rssUrl": "https://github.com/TypeStrong/ts-node/releases.atom"
   },
   {
     "count": 1,
