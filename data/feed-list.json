@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodeshift/nodejs-reference-architecture",
-    "feeds": [
-      "https://github.com/nodeshift/nodejs-reference-architecture/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/breejs/bree",
     "feeds": [
       "https://github.com/breejs/bree/releases.atom"
@@ -3397,12 +3391,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/teppeis/",
     "feeds": [
       "https://zenn.dev/teppeis/feed"
@@ -3520,6 +3508,12 @@
     "url": "https://zenn.dev/urotea/",
     "feeds": [
       "https://zenn.dev/urotea/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
     ]
   },
   {

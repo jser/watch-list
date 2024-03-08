@@ -1,6 +1,6 @@
 [
   {
-    "count": 53,
+    "count": 54,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -15,8 +15,8 @@
       "secu"
     ],
     "example": {
-      "title": "Node.js — Wednesday February 14 2024 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/february-2024-security-releases"
+      "title": "Node.js — Node v21.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v21.7.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -1493,21 +1493,20 @@
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
-    "count": 2,
-    "url": "https://zenn.dev/morinokami/",
+    "count": 3,
+    "url": "https://tailwindcss.com",
     "tags": [
-      "JavaScript",
-      "architecture",
-      "book",
-      "React",
-      "astro",
-      "article"
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "UI",
+      "React"
     ],
     "example": {
-      "title": "Astro ゆく年くる年",
-      "url": "https://zenn.dev/morinokami/articles/astro-2023-2024"
+      "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     },
-    "rssUrl": "https://zenn.dev/morinokami/feed"
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
     "count": 2,
@@ -2584,36 +2583,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "UI",
-      "React"
-    ],
-    "example": {
-      "title": "Introducing Catalyst: A modern UI kit for React - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/introducing-catalyst"
-    },
-    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nodeshift/nodejs-reference-architecture",
-    "tags": [
-      "node.js",
-      "document",
-      "Docker"
-    ],
-    "example": {
-      "title": "nodeshift/nodejs-reference-architecture: The Red Hat and IBM Node.js Reference architecture. The teams 'opinion' on what components our customers and internal teams should use when building Node.js applications and guidance for how to be successful in production with those components.",
-      "url": "https://github.com/nodeshift/nodejs-reference-architecture"
-    },
-    "rssUrl": "https://github.com/nodeshift/nodejs-reference-architecture/releases.atom"
   },
   {
     "count": 1,
@@ -9712,6 +9681,19 @@
       "url": "https://quick-lint-js.com/blog/version-3.0/"
     },
     "rssUrl": "https://quick-lint-js.com/blog/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/morinokami/",
+    "tags": [
+      "astro",
+      "article"
+    ],
+    "example": {
+      "title": "Astro ゆく年くる年",
+      "url": "https://zenn.dev/morinokami/articles/astro-2023-2024"
+    },
+    "rssUrl": "https://zenn.dev/morinokami/feed"
   },
   {
     "count": 1,
