@@ -1447,12 +1447,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/teppeis/",
     "feeds": [
       "https://zenn.dev/teppeis/feed"
@@ -1570,6 +1564,12 @@
     "url": "https://zenn.dev/urotea/",
     "feeds": [
       "https://zenn.dev/urotea/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
     ]
   },
   {
