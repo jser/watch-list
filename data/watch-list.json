@@ -387,20 +387,6 @@
   },
   {
     "count": 8,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "JavaScript",
@@ -495,6 +481,20 @@
     "example": {
       "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
       "url": "https://reactnative.dev/blog/2023/01/12/version-071"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
     }
   },
   {
@@ -1460,18 +1460,6 @@
     "example": {
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://reactjs.org",
-    "tags": [
-      "React",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "React v18.0 – React Blog",
-      "url": "https://reactjs.org/blog/2022/03/29/react-v18.html"
     }
   },
   {
@@ -2714,6 +2702,18 @@
     "example": {
       "title": "ブラウザ自動操作技術の深層へ、直接触れて学ぶ WebDriver と Chrome DevTools Protocol - Speaker Deck",
       "url": "https://speakerdeck.com/hgsgtk/webdriver-cdp-using-php"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://reactjs.org",
+    "tags": [
+      "React",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "React v18.0 – React Blog",
+      "url": "https://reactjs.org/blog/2022/03/29/react-v18.html"
     }
   },
   {
