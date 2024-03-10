@@ -1271,6 +1271,13 @@
     ]
   },
   {
+    "url": "https://www.m3tech.blog",
+    "feeds": [
+      "https://www.m3tech.blog/feed",
+      "https://www.m3tech.blog/rss"
+    ]
+  },
+  {
     "url": "https://www.matuzo.at",
     "feeds": [
       "https://www.matuzo.at/feed.xml",
