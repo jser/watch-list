@@ -2449,6 +2449,12 @@
     ]
   },
   {
+    "url": "https://github.com/rolldown-rs/rolldown",
+    "feeds": [
+      "https://github.com/rolldown-rs/rolldown/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3206,6 +3212,13 @@
     "feeds": [
       "https://www.learningtypescript.com/articles/rss.xml",
       "https://www.learningtypescript.com/articles/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.m3tech.blog",
+    "feeds": [
+      "https://www.m3tech.blog/feed",
+      "https://www.m3tech.blog/rss"
     ]
   },
   {

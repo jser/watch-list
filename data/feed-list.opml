@@ -408,6 +408,7 @@
 <outline text="github.com/facebook/react-strict-dom" title="github.com/facebook/react-strict-dom" type="rss" xmlUrl="https://github.com/facebook/react-strict-dom/releases.atom"/>
 <outline text="github.com/wxt-dev/wxt?tab=readme-ov-file" title="github.com/wxt-dev/wxt?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/electric-sql/pglite" title="github.com/electric-sql/pglite" type="rss" xmlUrl="https://github.com/electric-sql/pglite/releases.atom"/>
+<outline text="github.com/rolldown-rs/rolldown" title="github.com/rolldown-rs/rolldown" type="rss" xmlUrl="https://github.com/rolldown-rs/rolldown/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -526,6 +527,7 @@
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.ladle.dev" title="www.ladle.dev" type="rss" xmlUrl="https://www.ladle.dev/blog/rss.xml"/>
 <outline text="www.learningtypescript.com" title="www.learningtypescript.com" type="rss" xmlUrl="https://www.learningtypescript.com/articles/rss.xml"/>
+<outline text="www.m3tech.blog" title="www.m3tech.blog" type="rss" xmlUrl="https://www.m3tech.blog/feed"/>
 <outline text="www.matuzo.at" title="www.matuzo.at" type="rss" xmlUrl="https://www.matuzo.at/feed.xml"/>
 <outline text="www.mitsue.co.jp" title="www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
 <outline text="www.mizdra.net" title="www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>

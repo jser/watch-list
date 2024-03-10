@@ -68,7 +68,7 @@
     }
   },
   {
-    "count": 31,
+    "count": 32,
     "url": "https://webkit.org",
     "tags": [
       "webkit",
@@ -83,8 +83,8 @@
       "JavaScript"
     ],
     "example": {
-      "title": "CSS Nesting and the Cascade | WebKit",
-      "url": "https://webkit.org/blog/14571/css-nesting-and-the-cascade/"
+      "title": "WebKit Features in Safari 17.4 | WebKit",
+      "url": "https://webkit.org/blog/15063/webkit-features-in-safari-17-4/"
     }
   },
   {
@@ -1059,6 +1059,21 @@
     "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   },
   {
+    "count": 4,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "news",
+      "Rust",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Biome v1.6 | Biome",
+      "url": "https://biomejs.dev/blog/biome-v1-6/"
+    }
+  },
+  {
     "count": 3,
     "url": "https://github.com/vueuse/vueuse",
     "tags": [
@@ -1402,21 +1417,6 @@
   },
   {
     "count": 3,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "news",
-      "Rust",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Biome v1.5 | Biome",
-      "url": "https://biomejs.dev/blog/biome-v1-5/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://learning.oreilly.com",
     "tags": [
       "nodejs",
@@ -1460,19 +1460,6 @@
     "example": {
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://www.packtpub.com",
-    "tags": [
-      "React",
-      "library",
-      "book"
-    ],
-    "example": {
-      "title": "React Application Architecture for Production | Packt",
-      "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539"
     }
   },
   {
@@ -7403,6 +7390,18 @@
   },
   {
     "count": 1,
+    "url": "https://www.packtpub.com",
+    "tags": [
+      "React",
+      "book"
+    ],
+    "example": {
+      "title": "React Application Architecture for Production | Packt",
+      "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://medium.com/dartlang/",
     "tags": [
       "dart",
@@ -10147,6 +10146,46 @@
     "example": {
       "title": "Next.js vs. Remix - A Developer's Dilemma | Saeloun Blog",
       "url": "https://blog.saeloun.com/2024/02/21/next.js-vs-remix/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://eloquentjavascript.net",
+    "tags": [
+      "JavaScript",
+      "book"
+    ],
+    "example": {
+      "title": "Eloquent JavaScript",
+      "url": "https://eloquentjavascript.net/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/rolldown-rs/rolldown",
+    "tags": [
+      "rollup",
+      "Rust",
+      "vite",
+      "library"
+    ],
+    "example": {
+      "title": "rolldown-rs/rolldown: Fast Rust bundler for JavaScript with Rollup-compatible API.",
+      "url": "https://github.com/rolldown-rs/rolldown"
+    },
+    "rssUrl": "https://github.com/rolldown-rs/rolldown/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.m3tech.blog",
+    "tags": [
+      "OpenID",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "フルスクラッチして理解するOpenID Connect (1) 認可エンドポイント編 - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2024/03/05/150000"
     }
   }
 ]
