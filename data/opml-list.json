@@ -330,12 +330,6 @@
     ]
   },
   {
-    "url": "https://daisyui.com",
-    "feeds": [
-      "https://daisyui.com/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://daverupert.com",
     "feeds": [
       "https://daverupert.com/atom.xml"
@@ -1158,6 +1152,17 @@
     "url": "https://www.akshaykhot.com",
     "feeds": [
       "https://www.writesoftwarewell.com/rss/"
+    ]
+  },
+  {
+    "url": "https://www.browsercat.com",
+    "feeds": [
+      "https://www.browsercat.com/feed/posts.rss.xml",
+      "https://www.browsercat.com/feed/posts.atom.xml",
+      "https://www.browsercat.com/feed/topics.rss.xml",
+      "https://www.browsercat.com/feed/topics.atom.xml",
+      "https://www.browsercat.com/feed/docs.rss.xml",
+      "https://www.browsercat.com/feed/docs.atom.xml"
     ]
   },
   {

@@ -57,7 +57,6 @@
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="cypress.io" title="cypress.io" type="rss" xmlUrl="https://www.cypress.io/feed.xml"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
-<outline text="daisyui.com" title="daisyui.com" type="rss" xmlUrl="https://daisyui.com/blog/rss.xml"/>
 <outline text="daverupert.com" title="daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
 <outline text="defensivecss.dev" title="defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
@@ -409,6 +408,7 @@
 <outline text="github.com/wxt-dev/wxt?tab=readme-ov-file" title="github.com/wxt-dev/wxt?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/electric-sql/pglite" title="github.com/electric-sql/pglite" type="rss" xmlUrl="https://github.com/electric-sql/pglite/releases.atom"/>
 <outline text="github.com/rolldown-rs/rolldown" title="github.com/rolldown-rs/rolldown" type="rss" xmlUrl="https://github.com/rolldown-rs/rolldown/releases.atom"/>
+<outline text="github.com/edmundhung/conform" title="github.com/edmundhung/conform" type="rss" xmlUrl="https://github.com/edmundhung/conform/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -510,6 +510,7 @@
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
+<outline text="www.browsercat.com" title="www.browsercat.com" type="rss" xmlUrl="https://www.browsercat.com/feed/posts.rss.xml"/>
 <outline text="www.builder.io" title="www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
 <outline text="www.codeflashbacks.com" title="www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>

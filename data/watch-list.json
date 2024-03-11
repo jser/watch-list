@@ -1,6 +1,6 @@
 [
   {
-    "count": 54,
+    "count": 53,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -107,7 +107,7 @@
     }
   },
   {
-    "count": 26,
+    "count": 27,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -118,16 +118,14 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.4 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-rc/"
+      "title": "Announcing TypeScript 5.4 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/"
     }
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://web.dev",
     "tags": [
-      "PWA",
-      "tutorial",
       "HTML",
       "article",
       "accessibility",
@@ -135,6 +133,7 @@
       "browser",
       "Chrome",
       "performance",
+      "tutorial",
       "Image",
       "privacy",
       "sourcemap",
@@ -2299,6 +2298,21 @@
   },
   {
     "count": 2,
+    "url": "https://openjsf.org",
+    "tags": [
+      "node.js",
+      "security",
+      "article",
+      "nodejs",
+      "npm"
+    ],
+    "example": {
+      "title": "Why Should You Care About Package Metadata Interoperability? | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/package-metadata-interoperability-collab-space-intro"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
@@ -2482,18 +2496,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://daisyui.com",
-    "tags": [
-      "CSS",
-      "library"
-    ],
-    "example": {
-      "title": "daisyUI — Tailwind CSS Components",
-      "url": "https://daisyui.com/"
-    }
   },
   {
     "count": 1,
@@ -6725,19 +6727,6 @@
   },
   {
     "count": 1,
-    "url": "https://openjsf.org",
-    "tags": [
-      "node.js",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js Security Progress Report –  Permission Model Merged - OpenJS Foundation",
-      "url": "https://openjsf.org/blog/2023/03/13/node-js-security-progress-report-permission-model-merged/?hss_channel=tw-14538601"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/total-typescript/ts-reset",
     "tags": [
       "TypeScript",
@@ -10187,5 +10176,48 @@
       "title": "フルスクラッチして理解するOpenID Connect (1) 認可エンドポイント編 - エムスリーテックブログ",
       "url": "https://www.m3tech.blog/entry/2024/03/05/150000"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://szymonrybczak.dev",
+    "tags": [
+      "React",
+      "HTML",
+      "iOS",
+      "Android",
+      "article"
+    ],
+    "example": {
+      "title": "\"react-strict-dom\", why it's so great? | Szymon Rybczak",
+      "url": "https://szymonrybczak.dev/blog/react-strict-dom"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.browsercat.com",
+    "tags": [
+      "browser",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Ultimate Guide to Visual Testing with Playwright",
+      "url": "https://www.browsercat.com/post/ultimate-guide-visual-testing-playwright"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/edmundhung/conform",
+    "tags": [
+      "React",
+      "Next.js",
+      "Remix",
+      "library"
+    ],
+    "example": {
+      "title": "edmundhung/conform: A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.",
+      "url": "https://github.com/edmundhung/conform"
+    },
+    "rssUrl": "https://github.com/edmundhung/conform/releases.atom"
   }
 ]
