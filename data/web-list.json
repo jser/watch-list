@@ -790,6 +790,22 @@
   },
   {
     "count": 5,
+    "url": "https://wasmer.io",
+    "tags": [
+      "WebAssembly",
+      "ReleaseNote",
+      "article",
+      "webservice",
+      "JavaScript",
+      "ServiceWorker"
+    ],
+    "example": {
+      "title": "WinterJS 1.0 · Blog · Wasmer",
+      "url": "https://wasmer.io/posts/winterjs-v1"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://www.rspack.dev",
     "tags": [
       "webpack",
@@ -1017,22 +1033,6 @@
       "url": "https://nuxt.com/blog/v3-7"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://wasmer.io",
-    "tags": [
-      "WebAssembly",
-      "ReleaseNote",
-      "article",
-      "webservice",
-      "JavaScript",
-      "ServiceWorker"
-    ],
-    "example": {
-      "title": "Announcing WinterJS",
-      "url": "https://wasmer.io/posts/announcing-winterjs-service-workers"
-    }
   },
   {
     "count": 4,
