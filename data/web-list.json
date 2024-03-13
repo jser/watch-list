@@ -70,7 +70,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 32,
+    "count": 33,
     "url": "https://webkit.org",
     "tags": [
       "webkit",
@@ -82,11 +82,13 @@
       "CSS",
       "serverless",
       "アンケート",
-      "JavaScript"
+      "JavaScript",
+      "benchmark",
+      "performance"
     ],
     "example": {
-      "title": "WebKit Features in Safari 17.4 | WebKit",
-      "url": "https://webkit.org/blog/15063/webkit-features-in-safari-17-4/"
+      "title": "Speedometer 3.0: The Best Way Yet to Measure Browser Performance | WebKit",
+      "url": "https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -326,6 +328,23 @@
   },
   {
     "count": 10,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "cloudflare",
+      "library",
+      "JavaScript",
+      "server",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.1.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.1.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 10,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -364,22 +383,6 @@
       "url": "https://blog.cloudflare.com/polyfill-io-now-available-on-cdnjs-reduce-your-supply-chain-risk"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "cloudflare",
-      "library",
-      "JavaScript",
-      "server",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 9,
