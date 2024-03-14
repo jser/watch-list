@@ -109,13 +109,12 @@
     }
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
-      "ECMAScript",
-      "article",
       "ReleaseNote",
+      "article",
       "V8",
       "performance"
     ],
@@ -254,25 +253,6 @@
   },
   {
     "count": 10,
-    "url": "https://2ality.com",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "issue",
-      "proposal",
-      "article",
-      "node.js",
-      "stream",
-      "URL",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "TypeScript and native ESM on Node.js",
-      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -346,6 +326,24 @@
     "example": {
       "title": "Next.js 14 | Next.js",
       "url": "https://nextjs.org/blog/next-14"
+    }
+  },
+  {
+    "count": 9,
+    "url": "https://2ality.com",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "article",
+      "JavaScript",
+      "node.js",
+      "stream",
+      "URL",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "TypeScript and native ESM on Node.js",
+      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
     }
   },
   {
@@ -528,20 +526,6 @@
   },
   {
     "count": 6,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "TypeScript",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ember 5.0 Released",
-      "url": "https://blog.emberjs.com/ember-5-0-released/"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://remix.run",
     "tags": [
       "Remix",
@@ -676,6 +660,20 @@
     "example": {
       "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
       "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "ReleaseNote",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "Ember 5.0 Released",
+      "url": "https://blog.emberjs.com/ember-5-0-released/"
     }
   },
   {
@@ -874,6 +872,24 @@
       "title": "Useful DevTools Tips and Tricks — Smashing Magazine",
       "url": "https://www.smashingmagazine.com/2023/06/popular-devtools-tips/"
     }
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "prisma",
+      "MongoDB",
+      "ReleaseNote",
+      "JavaScript",
+      "database",
+      "library",
+      "node.js"
+    ],
+    "example": {
+      "title": "Release 5.11.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/5.11.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 4,
@@ -1077,20 +1093,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/vueuse/vueuse",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://hacks.mozilla.org",
     "tags": [
       "mdn",
@@ -1146,24 +1148,6 @@
       "title": "Making Sense of React Server Components",
       "url": "https://www.joshwcomeau.com/react/server-components/"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "prisma",
-      "MongoDB",
-      "ReleaseNote",
-      "JavaScript",
-      "database",
-      "library",
-      "node.js"
-    ],
-    "example": {
-      "title": "Release 5.0.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/5.0.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 3,
@@ -1877,6 +1861,20 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://blog.google",
     "tags": [
       "Chrome",
@@ -2499,20 +2497,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/breejs/bree",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v8.0.0 · breejs/bree",
-      "url": "https://github.com/breejs/bree/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/breejs/bree/releases.atom"
   },
   {
     "count": 1,
