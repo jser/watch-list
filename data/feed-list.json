@@ -601,6 +601,12 @@
     ]
   },
   {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
@@ -643,12 +649,6 @@
     ]
   },
   {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
@@ -658,12 +658,6 @@
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
     ]
   },
   {
@@ -811,6 +805,12 @@
     ]
   },
   {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/riot/riot",
     "feeds": [
       "https://github.com/riot/riot/releases.atom"
@@ -898,12 +898,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/breejs/bree",
-    "feeds": [
-      "https://github.com/breejs/bree/releases.atom"
     ]
   },
   {
