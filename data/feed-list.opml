@@ -408,6 +408,8 @@
 <outline text="github.com/electric-sql/pglite" title="github.com/electric-sql/pglite" type="rss" xmlUrl="https://github.com/electric-sql/pglite/releases.atom"/>
 <outline text="github.com/rolldown-rs/rolldown" title="github.com/rolldown-rs/rolldown" type="rss" xmlUrl="https://github.com/rolldown-rs/rolldown/releases.atom"/>
 <outline text="github.com/edmundhung/conform" title="github.com/edmundhung/conform" type="rss" xmlUrl="https://github.com/edmundhung/conform/releases.atom"/>
+<outline text="github.com/devongovett/unplugin-parcel-macros" title="github.com/devongovett/unplugin-parcel-macros" type="rss" xmlUrl="https://github.com/devongovett/unplugin-parcel-macros/releases.atom"/>
+<outline text="github.com/guidepup/virtual-screen-reader" title="github.com/guidepup/virtual-screen-reader" type="rss" xmlUrl="https://github.com/guidepup/virtual-screen-reader/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -578,5 +580,6 @@
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/yamachan0625/" title="zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
+<outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 </body>
 </opml>

@@ -2449,6 +2449,18 @@
     ]
   },
   {
+    "url": "https://github.com/devongovett/unplugin-parcel-macros",
+    "feeds": [
+      "https://github.com/devongovett/unplugin-parcel-macros/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/guidepup/virtual-screen-reader",
+    "feeds": [
+      "https://github.com/guidepup/virtual-screen-reader/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3544,6 +3556,12 @@
     "url": "https://zenn.dev/yamachan0625/",
     "feeds": [
       "https://zenn.dev/yamachan0625/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/akfm/",
+    "feeds": [
+      "https://zenn.dev/akfm/feed"
     ]
   }
 ]
