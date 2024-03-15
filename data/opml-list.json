@@ -1595,5 +1595,11 @@
     "feeds": [
       "https://zenn.dev/yamachan0625/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/akfm/",
+    "feeds": [
+      "https://zenn.dev/akfm/feed"
+    ]
   }
 ]
