@@ -157,7 +157,6 @@
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stripe.com" title="stripe.com" type="rss" xmlUrl="https://stripe.com/blog/feed.rss"/>
-<outline text="surma.dev" title="surma.dev" type="rss" xmlUrl="https://surma.dev/index.xml"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tauri.app" title="tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>

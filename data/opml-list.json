@@ -973,12 +973,6 @@
     ]
   },
   {
-    "url": "https://surma.dev",
-    "feeds": [
-      "https://surma.dev/index.xml"
-    ]
-  },
-  {
     "url": "https://svelte.dev",
     "feeds": [
       "https://svelte.dev/blog/rss.xml"
