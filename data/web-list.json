@@ -70,15 +70,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 33,
+    "count": 32,
     "url": "https://webkit.org",
     "tags": [
-      "webkit",
       "safari",
       "ReleaseNote",
       "browser",
       "HTML",
       "article",
+      "webkit",
       "CSS",
       "serverless",
       "アンケート",
@@ -217,23 +217,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "browser",
-      "library",
-      "ReleaseNote",
-      "testing",
-      "JavaScript",
-      "playwright"
-    ],
-    "example": {
-      "title": "Release v1.37.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.37.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
       "google",
@@ -304,6 +287,23 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.35.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "browser",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "playwright"
+    ],
+    "example": {
+      "title": "Release v1.37.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.37.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 10,
@@ -2572,19 +2572,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://surma.dev",
-    "tags": [
-      "WebGPU",
-      "article"
-    ],
-    "example": {
-      "title": "WebGPU — All of the cores, none of the canvas — surma.dev",
-      "url": "https://surma.dev/things/webgpu/"
-    },
-    "rssUrl": "https://surma.dev/index.xml"
   },
   {
     "count": 1,
