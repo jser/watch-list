@@ -48,7 +48,7 @@
     }
   },
   {
-    "count": 35,
+    "count": 36,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -63,8 +63,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Bun v1.0.30 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.30"
+      "title": "Bun v1.0.31 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.0.31"
     }
   },
   {
@@ -281,6 +281,33 @@
   },
   {
     "count": 10,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "ReleaseNote",
+      "WebAssembly",
+      "article",
+      "C++",
+      "puppeteer",
+      "node.js",
+      "console",
+      "Tools",
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test"
+    ],
+    "example": {
+      "title": "Improved Cloudflare Workers testing via Vitest and workerd",
+      "url": "https://blog.cloudflare.com/workers-vitest-integration/"
+    }
+  },
+  {
+    "count": 10,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "browser",
@@ -344,31 +371,6 @@
     "example": {
       "title": "TypeScript and native ESM on Node.js",
       "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "ReleaseNote",
-      "WebAssembly",
-      "article",
-      "C++",
-      "puppeteer",
-      "node.js",
-      "console",
-      "Tools",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news"
-    ],
-    "example": {
-      "title": "polyfill.io now available on cdnjs: reduce your supply chain risk | The Cloudflare Blog",
-      "url": "https://blog.cloudflare.com/polyfill-io-now-available-on-cdnjs-reduce-your-supply-chain-risk"
     }
   },
   {
@@ -450,22 +452,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.2: Support JSONC and Angular’s ICU expression · Prettier",
-      "url": "https://prettier.io/blog/2024/01/12/3.2.0.html"
-    }
   },
   {
     "count": 7,
@@ -574,6 +560,22 @@
     "example": {
       "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
       "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.2: Support JSONC and Angular’s ICU expression · Prettier",
+      "url": "https://prettier.io/blog/2024/01/12/3.2.0.html"
     }
   },
   {
@@ -10239,5 +10241,31 @@
       "url": "https://github.com/guidepup/virtual-screen-reader"
     },
     "rssUrl": "https://github.com/guidepup/virtual-screen-reader/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://typicode.github.io",
+    "tags": [
+      "CSS",
+      "React",
+      "Tools"
+    ],
+    "example": {
+      "title": "MistCSS",
+      "url": "https://typicode.github.io/mistcss/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://claritydev.net",
+    "tags": [
+      "React",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Best Practices for Writing Tests with React Testing Library | ClarityDev blog",
+      "url": "https://claritydev.net/blog/improving-react-testing-library-tests"
+    }
   }
 ]
