@@ -305,6 +305,12 @@
     ]
   },
   {
+    "url": "https://claritydev.net",
+    "feeds": [
+      "https://claritydev.net/rss.xml"
+    ]
+  },
+  {
     "url": "https://css-tricks.com",
     "feeds": [
       "https://css-tricks.com/feed/"
