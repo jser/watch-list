@@ -766,6 +766,20 @@
   },
   {
     "count": 5,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Nuxt 3.11 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-11"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://wasmer.io",
     "tags": [
       "WebAssembly",
@@ -1008,20 +1022,6 @@
       "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/rollup/rollup/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Nuxt 3.7 · Nuxt",
-      "url": "https://nuxt.com/blog/v3-7"
-    }
   },
   {
     "count": 4,
