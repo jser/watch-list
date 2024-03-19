@@ -2577,21 +2577,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/wilsonzlin/minify-html",
-    "tags": [
-      "HTML",
-      "Bluetooth",
-      "library",
-      "Rust"
-    ],
-    "example": {
-      "title": "wilsonzlin/minify-html: Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Node.js, Python, Java, and Ruby",
-      "url": "https://github.com/wilsonzlin/minify-html"
-    },
-    "rssUrl": "https://github.com/wilsonzlin/minify-html/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/twitterdev/twitter-api-typescript-sdk",
     "tags": [
       "twitter",
@@ -10519,5 +10504,18 @@
       "url": "https://claritydev.net/blog/improving-react-testing-library-tests"
     },
     "rssUrl": "https://claritydev.net/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://elysiajs.com",
+    "tags": [
+      "Bun",
+      "server",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Elysia 1.0 - Lament of the Fallen | ElysiaJS",
+      "url": "https://elysiajs.com/blog/elysia-10"
+    }
   }
 ]

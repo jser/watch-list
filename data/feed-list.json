@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/wilsonzlin/minify-html",
-    "feeds": [
-      "https://github.com/wilsonzlin/minify-html/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/twitterdev/twitter-api-typescript-sdk",
     "feeds": [
       "https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"

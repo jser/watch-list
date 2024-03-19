@@ -151,7 +151,6 @@
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/wilsonzlin/minify-html" title="github.com/wilsonzlin/minify-html" type="rss" xmlUrl="https://github.com/wilsonzlin/minify-html/releases.atom"/>
 <outline text="github.com/twitterdev/twitter-api-typescript-sdk" title="github.com/twitterdev/twitter-api-typescript-sdk" type="rss" xmlUrl="https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"/>
 <outline text="github.com/tajo/ladle" title="github.com/tajo/ladle" type="rss" xmlUrl="https://github.com/tajo/ladle/releases.atom"/>
 <outline text="github.com/MattiasBuelens/web-streams-polyfill" title="github.com/MattiasBuelens/web-streams-polyfill" type="rss" xmlUrl="https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"/>
