@@ -961,6 +961,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/steelydylan/",
+    "feeds": [
+      "https://speakerdeck.com/steelydylan.atom",
+      "https://speakerdeck.com/steelydylan.rss"
+    ]
+  },
+  {
     "url": "https://spidermonkey.dev",
     "feeds": [
       "https://spidermonkey.dev/feed.xml"
