@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/twitterdev/twitter-api-typescript-sdk",
-    "feeds": [
-      "https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tajo/ladle",
     "feeds": [
       "https://github.com/tajo/ladle/releases.atom"

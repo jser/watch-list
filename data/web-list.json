@@ -93,7 +93,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 30,
+    "count": 29,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -204,15 +204,15 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
-    "count": 12,
+    "count": 13,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 123.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/123.0/releasenotes/"
+      "title": "Firefox 124.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/124.0/releasenotes/"
     }
   },
   {
@@ -2576,22 +2576,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/twitterdev/twitter-api-typescript-sdk",
-    "tags": [
-      "twitter",
-      "node.js",
-      "library",
-      "JavaScript",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "twitterdev/twitter-api-typescript-sdk: A TypeScript SDK for the Twitter API",
-      "url": "https://github.com/twitterdev/twitter-api-typescript-sdk"
-    },
-    "rssUrl": "https://github.com/twitterdev/twitter-api-typescript-sdk/releases.atom"
   },
   {
     "count": 1,
@@ -10557,6 +10541,32 @@
     "example": {
       "title": "Runtime compatibility across JavaScript runtimes",
       "url": "https://runtime-compat.unjs.io/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://rsbuild.dev",
+    "tags": [
+      "rspack",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rsbuild v0.5 - Rsbuild",
+      "url": "https://rsbuild.dev/community/releases/v0-5"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://rsdoctor.dev",
+    "tags": [
+      "webpack",
+      "rspack",
+      "Tools"
+    ],
+    "example": {
+      "title": "Rsdoctor",
+      "url": "https://rsdoctor.dev/"
     }
   }
 ]
