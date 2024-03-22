@@ -455,23 +455,6 @@
   },
   {
     "count": 7,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "article",
-      "iOS",
-      "Android",
-      "ReleaseNote",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
-      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://blog.chromium.org",
     "tags": [
       "Chrome",
@@ -527,6 +510,23 @@
     "example": {
       "title": "Remix Vite is Now Stable | Remix",
       "url": "https://remix.run/blog/remix-vite-stable"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "ReleaseNote",
+      "Native",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
+      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
     }
   },
   {
@@ -593,21 +593,6 @@
     "example": {
       "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://vercel.com",
-    "tags": [
-      "Next.js",
-      "article",
-      "React",
-      "webservice",
-      "news"
-    ],
-    "example": {
-      "title": "How React 18 Improves Application Performance – Vercel",
-      "url": "https://vercel.com/blog/how-react-18-improves-application-performance"
     }
   },
   {
@@ -1022,6 +1007,21 @@
       "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/rollup/rollup/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://vercel.com",
+    "tags": [
+      "Next.js",
+      "article",
+      "React",
+      "webservice",
+      "news"
+    ],
+    "example": {
+      "title": "How React 18 Improves Application Performance – Vercel",
+      "url": "https://vercel.com/blog/how-react-18-improves-application-performance"
+    }
   },
   {
     "count": 4,
@@ -1452,21 +1452,6 @@
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/faker-js/faker",
-    "tags": [
-      "JavaScript",
-      "library",
-      "testing",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v7.0.0 · faker-js/faker",
-      "url": "https://github.com/faker-js/faker/releases/tag/v7.0.0"
-    },
-    "rssUrl": "https://github.com/faker-js/faker/releases.atom"
   },
   {
     "count": 2,
@@ -2505,32 +2490,6 @@
   },
   {
     "count": 1,
-    "url": "https://a11y-automation.dev",
-    "tags": [
-      "accessibility",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "A11yAutomation",
-      "url": "https://a11y-automation.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://shaderpark.com",
-    "tags": [
-      "WebGL",
-      "webservice",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Shader Park",
-      "url": "https://shaderpark.com/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://tech.hicustomer.jp",
     "tags": [
       "PostgreSQL",
@@ -3394,6 +3353,20 @@
       "url": "https://github.com/adriancooney/puppeteer-heap-snapshot"
     },
     "rssUrl": "https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/faker-js/faker",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v7.0.0 · faker-js/faker",
+      "url": "https://github.com/faker-js/faker/releases/tag/v7.0.0"
+    },
+    "rssUrl": "https://github.com/faker-js/faker/releases.atom"
   },
   {
     "count": 1,
