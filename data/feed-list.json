@@ -721,12 +721,6 @@
     ]
   },
   {
-    "url": "https://github.com/faker-js/faker",
-    "feeds": [
-      "https://github.com/faker-js/faker/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/lexical",
     "feeds": [
       "https://github.com/facebook/lexical/releases.atom"
@@ -1126,6 +1120,12 @@
     "url": "https://github.com/adriancooney/puppeteer-heap-snapshot",
     "feeds": [
       "https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/faker-js/faker",
+    "feeds": [
+      "https://github.com/faker-js/faker/releases.atom"
     ]
   },
   {
