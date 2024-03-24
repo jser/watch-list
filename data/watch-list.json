@@ -597,21 +597,6 @@
   },
   {
     "count": 5,
-    "url": "https://parceljs.org",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "bundler",
-      "parcel"
-    ],
-    "example": {
-      "title": "Parcel v2.12.0",
-      "url": "https://parceljs.org/blog/v2-12-0/"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.com/vitejs/vite",
     "tags": [
       "vite",
@@ -924,6 +909,21 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://parceljs.org",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote",
+      "parcel",
+      "Tools"
+    ],
+    "example": {
+      "title": "Parcel v2.12.0",
+      "url": "https://parceljs.org/blog/v2-12-0/"
+    }
   },
   {
     "count": 4,
@@ -2487,19 +2487,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://tech.hicustomer.jp",
-    "tags": [
-      "PostgreSQL",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "PgTyped - Node.jsで型安全にSQLを管理するには | HiCustomer Lab - HiCustomer Developer's Blog",
-      "url": "https://tech.hicustomer.jp/posts/type-safe-sql-library-for-nodejs/"
-    }
   },
   {
     "count": 1,
