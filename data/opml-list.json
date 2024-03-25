@@ -1263,13 +1263,6 @@
     ]
   },
   {
-    "url": "https://www.ladle.dev",
-    "feeds": [
-      "https://www.ladle.dev/blog/rss.xml",
-      "https://www.ladle.dev/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://www.learningtypescript.com",
     "feeds": [
       "https://www.learningtypescript.com/articles/rss.xml",
