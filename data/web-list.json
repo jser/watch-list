@@ -216,7 +216,7 @@
     }
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://www.youtube.com",
     "tags": [
       "google",
@@ -233,11 +233,13 @@
       "blink",
       "Chrome",
       "C++",
-      "Next.js"
+      "Next.js",
+      "nodejs",
+      "history"
     ],
     "example": {
-      "title": "Next.js App Router Caching: Explained! - YouTube",
-      "url": "https://www.youtube.com/watch?v=VBlSe8tvg4U"
+      "title": "Node.js: The Documentary | An origin story - YouTube",
+      "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
@@ -2561,38 +2563,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tajo/ladle",
-    "tags": [
-      "JavaScript",
-      "React",
-      "debug",
-      "Tools",
-      "vite"
-    ],
-    "example": {
-      "title": "tajo/ladle: 🥄 Develop, test and document your React components faster.",
-      "url": "https://github.com/tajo/ladle"
-    },
-    "rssUrl": "https://github.com/tajo/ladle/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.ladle.dev",
-    "tags": [
-      "JavaScript",
-      "React",
-      "Tools",
-      "debug",
-      "vite"
-    ],
-    "example": {
-      "title": "Introducing Ladle | Ladle",
-      "url": "https://www.ladle.dev/blog/introducing-ladle/"
-    },
-    "rssUrl": "https://www.ladle.dev/blog/rss.xml"
   },
   {
     "count": 1,

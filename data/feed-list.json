@@ -901,12 +901,6 @@
     ]
   },
   {
-    "url": "https://github.com/tajo/ladle",
-    "feeds": [
-      "https://github.com/tajo/ladle/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/MattiasBuelens/web-streams-polyfill",
     "feeds": [
       "https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"
@@ -3204,13 +3198,6 @@
     "url": "https://www.joshwcomeau.com",
     "feeds": [
       "https://www.joshwcomeau.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.ladle.dev",
-    "feeds": [
-      "https://www.ladle.dev/blog/rss.xml",
-      "https://www.ladle.dev/blog/atom.xml"
     ]
   },
   {
