@@ -2773,6 +2773,12 @@
     ]
   },
   {
+    "url": "https://romgrk.com",
+    "feeds": [
+      "https://romgrk.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://rumarchive.com",
     "feeds": [
       "https://rumarchive.com/blog/feed.xml"
