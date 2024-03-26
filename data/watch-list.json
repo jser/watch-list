@@ -1114,21 +1114,6 @@
   },
   {
     "count": 3,
-    "url": "https://hacks.mozilla.org",
-    "tags": [
-      "mdn",
-      "article",
-      "Firefox",
-      "performance",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
-      "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/tc39/ecma262",
     "tags": [
       "ECMAScript",
@@ -1468,6 +1453,20 @@
     "example": {
       "title": "コードジャンプ可能な CSS Modules を実現する happy-css-modules の紹介 - mizdra's blog",
       "url": "https://www.mizdra.net/entry/2022/11/14/102506"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://hacks.mozilla.org",
+    "tags": [
+      "Firefox",
+      "performance",
+      "article",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
+      "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
     }
   },
   {
@@ -10245,6 +10244,19 @@
     "example": {
       "title": "Rsdoctor",
       "url": "https://rsdoctor.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://romgrk.com",
+    "tags": [
+      "article",
+      "performance",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Optimizing Javascript for fun and for profit",
+      "url": "https://romgrk.com/posts/optimizing-javascript"
     }
   }
 ]
