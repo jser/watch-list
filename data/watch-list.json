@@ -1,6 +1,6 @@
 [
   {
-    "count": 52,
+    "count": 55,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -12,15 +12,16 @@
       "document",
       "npm",
       "nodejs",
-      "secu"
+      "secu",
+      "article"
     ],
     "example": {
-      "title": "Node.js — Node v21.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v21.7.0"
+      "title": "Node.js — Node v20.12.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v20.12.0"
     }
   },
   {
-    "count": 40,
+    "count": 42,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -43,8 +44,8 @@
       "WebAssembly"
     ],
     "example": {
-      "title": "Chrome 120 beta - Chrome for Developers",
-      "url": "https://developer.chrome.com/en/blog/chrome-120-beta/"
+      "title": "New in Chrome 123  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-123?hl=en"
     }
   },
   {
@@ -151,6 +152,21 @@
     }
   },
   {
+    "count": 17,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "npm",
+      "performance"
+    ],
+    "example": {
+      "title": "Release v9.0.0-beta.0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0-beta.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
     "count": 16,
     "url": "https://astro.build",
     "tags": [
@@ -164,21 +180,6 @@
       "title": "Astro 4.2 | Astro",
       "url": "https://astro.build/blog/astro-420/"
     }
-  },
-  {
-    "count": 16,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "npm",
-      "performance"
-    ],
-    "example": {
-      "title": "Release v8.13.1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v8.13.1"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 14,
@@ -688,6 +689,22 @@
   },
   {
     "count": 5,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "Vue",
+      "ReleaseNote",
+      "TypeScript",
+      "vite",
+      "document",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing VitePress 1.0 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vitepress-1.0"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -925,19 +942,6 @@
     "example": {
       "title": "Parcel v2.12.0",
       "url": "https://parceljs.org/blog/v2-12-0/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "ReleaseNote",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Announcing Vue 3.4 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vue-3-4"
     }
   },
   {
@@ -1185,6 +1189,26 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/mochajs/mocha",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "mocha",
+      "news",
+      "issue",
+      "nodejs",
+      "test"
+    ],
+    "example": {
+      "title": "Release v10.4.0 · mochajs/mocha",
+      "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
+    },
+    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
   },
   {
     "count": 3,
@@ -1573,24 +1597,6 @@
       "title": "Announcing Cypress 10 with Component Testing Beta!",
       "url": "https://cypress.io/blog/2022/06/01/cypress-10-release/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/mochajs/mocha",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "mocha",
-      "news",
-      "issue"
-    ],
-    "example": {
-      "title": "Project Status: Maintenance Reboot · Issue #5027 · mochajs/mocha",
-      "url": "https://github.com/mochajs/mocha/issues/5027"
-    },
-    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
   },
   {
     "count": 2,
@@ -10257,6 +10263,31 @@
     "example": {
       "title": "Optimizing Javascript for fun and for profit",
       "url": "https://romgrk.com/posts/optimizing-javascript"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://effectivetypescript.com",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "Flow Nodes: How Type Inference Is Implemented",
+      "url": "https://effectivetypescript.com/2024/03/24/flownodes/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/inaniwaudon/",
+    "tags": [
+      "Chrome",
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "Chrome で text-spacing-trim プロパティがサポートされたぞ！！",
+      "url": "https://zenn.dev/inaniwaudon/articles/3ff8761773178c"
     }
   }
 ]

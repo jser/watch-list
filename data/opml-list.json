@@ -455,6 +455,12 @@
     ]
   },
   {
+    "url": "https://effectivetypescript.com",
+    "feeds": [
+      "https://effectivetypescript.com/atom.xml"
+    ]
+  },
+  {
     "url": "https://eh-career.com",
     "feeds": [
       "https://eh-career.com/feed/index.xml"
@@ -1600,6 +1606,12 @@
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/inaniwaudon/",
+    "feeds": [
+      "https://zenn.dev/inaniwaudon/feed"
     ]
   }
 ]

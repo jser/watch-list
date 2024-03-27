@@ -76,6 +76,7 @@
 <outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
 <outline text="ecmascript-daily.github.io" title="ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
+<outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
 <outline text="eh-career.com" title="eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
 <outline text="elijahmanor.com" title="elijahmanor.com" type="rss" xmlUrl="https://elijahmanor.com/rss.xml"/>
 <outline text="endtimes.dev" title="endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed.xml"/>
@@ -113,6 +114,7 @@
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/reduxjs/redux" title="github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
+<outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
@@ -124,7 +126,6 @@
 <outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
-<outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/puppeteer/puppeteer" title="github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
 <outline text="github.com/ghiscoding/lerna-lite" title="github.com/ghiscoding/lerna-lite" type="rss" xmlUrl="https://github.com/ghiscoding/lerna-lite/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
@@ -578,5 +579,6 @@
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/yamachan0625/" title="zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
+<outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 </body>
 </opml>
