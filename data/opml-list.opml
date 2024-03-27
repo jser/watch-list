@@ -76,6 +76,7 @@
 <outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
 <outline text="ecmascript-daily.github.io" title="ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
+<outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
 <outline text="eh-career.com" title="eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
 <outline text="elijahmanor.com" title="elijahmanor.com" type="rss" xmlUrl="https://elijahmanor.com/rss.xml"/>
 <outline text="endtimes.dev" title="endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed.xml"/>
@@ -254,5 +255,6 @@
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/yamachan0625/" title="zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
+<outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 </body>
 </opml>
