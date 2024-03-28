@@ -2571,20 +2571,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/MattiasBuelens/web-streams-polyfill",
-    "tags": [
-      "browser",
-      "stream",
-      "polyfill"
-    ],
-    "example": {
-      "title": "MattiasBuelens/web-streams-polyfill: Web Streams, based on the WHATWG spec reference implementation",
-      "url": "https://github.com/MattiasBuelens/web-streams-polyfill"
-    },
-    "rssUrl": "https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/tc39/ecma402",
     "tags": [
       "ECMAScript",

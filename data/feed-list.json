@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/MattiasBuelens/web-streams-polyfill",
-    "feeds": [
-      "https://github.com/MattiasBuelens/web-streams-polyfill/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tc39/ecma402",
     "feeds": [
       "https://github.com/tc39/ecma402/releases.atom"
