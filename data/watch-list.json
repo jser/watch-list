@@ -69,7 +69,7 @@
     }
   },
   {
-    "count": 32,
+    "count": 31,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -499,24 +499,6 @@
   },
   {
     "count": 6,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "article",
-      "React",
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "vite",
-      "document"
-    ],
-    "example": {
-      "title": "Remix Vite is Now Stable | Remix",
-      "url": "https://remix.run/blog/remix-vite-stable"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -751,6 +733,24 @@
     "example": {
       "title": "Qwik Reaches v1.0",
       "url": "https://www.builder.io/blog/qwik-v1"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://remix.run",
+    "tags": [
+      "React",
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "Remix",
+      "article",
+      "vite",
+      "document"
+    ],
+    "example": {
+      "title": "Remix Vite is Now Stable | Remix",
+      "url": "https://remix.run/blog/remix-vite-stable"
     }
   },
   {
@@ -1115,20 +1115,6 @@
       "title": "Biome v1.6 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-6/"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote",
-      "spec"
-    ],
-    "example": {
-      "title": "Release ES2024 Candidate February 2024 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 3,
@@ -2311,6 +2297,20 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote",
+      "spec"
+    ],
+    "example": {
+      "title": "Release ES2024 Candidate February 2024 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
@@ -2494,20 +2494,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tc39/ecma402",
-    "tags": [
-      "ECMAScript",
-      "i18n",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release ES Intl 2022 Candidate · tc39/ecma402",
-      "url": "https://github.com/tc39/ecma402/releases/tag/es2022-candidate"
-    },
-    "rssUrl": "https://github.com/tc39/ecma402/releases.atom"
   },
   {
     "count": 1,
