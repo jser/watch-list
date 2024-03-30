@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/tc39/proposals",
-    "feeds": [
-      "https://github.com/tc39/proposals/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nuxodin/dialog-polyfill",
     "feeds": [
       "https://github.com/nuxodin/dialog-polyfill/releases.atom"
@@ -2443,6 +2437,12 @@
     ]
   },
   {
+    "url": "https://github.com/gulpjs/gulp",
+    "feeds": [
+      "https://github.com/gulpjs/gulp/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2834,13 +2834,6 @@
     "feeds": [
       "https://softwaremill.com/blog.atom",
       "https://softwaremill.com/blog.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/hgsgtk/",
-    "feeds": [
-      "https://speakerdeck.com/hgsgtk.atom",
-      "https://speakerdeck.com/hgsgtk.rss"
     ]
   },
   {
