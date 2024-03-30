@@ -917,13 +917,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/hgsgtk/",
-    "feeds": [
-      "https://speakerdeck.com/hgsgtk.atom",
-      "https://speakerdeck.com/hgsgtk.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/mizchi/",
     "feeds": [
       "https://speakerdeck.com/mizchi.atom",

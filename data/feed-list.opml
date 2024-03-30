@@ -151,7 +151,6 @@
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/tc39/proposals" title="github.com/tc39/proposals" type="rss" xmlUrl="https://github.com/tc39/proposals/releases.atom"/>
 <outline text="github.com/nuxodin/dialog-polyfill" title="github.com/nuxodin/dialog-polyfill" type="rss" xmlUrl="https://github.com/nuxodin/dialog-polyfill/releases.atom"/>
 <outline text="github.com/facebookexperimental/Recoil" title="github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
 <outline text="github.com/nicolo-ribaudo/jest-light-runner" title="github.com/nicolo-ribaudo/jest-light-runner" type="rss" xmlUrl="https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"/>
@@ -407,6 +406,7 @@
 <outline text="github.com/edmundhung/conform" title="github.com/edmundhung/conform" type="rss" xmlUrl="https://github.com/edmundhung/conform/releases.atom"/>
 <outline text="github.com/devongovett/unplugin-parcel-macros" title="github.com/devongovett/unplugin-parcel-macros" type="rss" xmlUrl="https://github.com/devongovett/unplugin-parcel-macros/releases.atom"/>
 <outline text="github.com/guidepup/virtual-screen-reader" title="github.com/guidepup/virtual-screen-reader" type="rss" xmlUrl="https://github.com/guidepup/virtual-screen-reader/releases.atom"/>
+<outline text="github.com/gulpjs/gulp" title="github.com/gulpjs/gulp" type="rss" xmlUrl="https://github.com/gulpjs/gulp/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -469,7 +469,6 @@
 <outline text="sindresorhus.com" title="sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
-<outline text="speakerdeck.com/hgsgtk/" title="speakerdeck.com/hgsgtk/" type="rss" xmlUrl="https://speakerdeck.com/hgsgtk.atom"/>
 <outline text="speakerdeck.com/mizchi/" title="speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
 <outline text="speakerdeck.com/nichimu/" title="speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
 <outline text="speakerdeck.com/sadnessojisan/" title="speakerdeck.com/sadnessojisan/" type="rss" xmlUrl="https://speakerdeck.com/sadnessojisan.atom"/>

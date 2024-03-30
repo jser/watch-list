@@ -149,7 +149,6 @@
 <outline text="sindresorhus.com" title="sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
-<outline text="speakerdeck.com/hgsgtk/" title="speakerdeck.com/hgsgtk/" type="rss" xmlUrl="https://speakerdeck.com/hgsgtk.atom"/>
 <outline text="speakerdeck.com/mizchi/" title="speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
 <outline text="speakerdeck.com/nichimu/" title="speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
 <outline text="speakerdeck.com/sadnessojisan/" title="speakerdeck.com/sadnessojisan/" type="rss" xmlUrl="https://speakerdeck.com/sadnessojisan.atom"/>
