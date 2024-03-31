@@ -2555,19 +2555,6 @@
   },
   {
     "count": 1,
-    "url": "https://reactjs.org",
-    "tags": [
-      "React",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "React v18.0 – React Blog",
-      "url": "https://reactjs.org/blog/2022/03/29/react-v18.html"
-    },
-    "rssUrl": "https://reactjs.org/feed.xml"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/nuxodin/dialog-polyfill",
     "tags": [
       "HTML",

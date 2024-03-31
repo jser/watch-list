@@ -2742,12 +2742,6 @@
     ]
   },
   {
-    "url": "https://reactjs.org",
-    "feeds": [
-      "https://reactjs.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://reactnative.dev",
     "feeds": [
       "https://reactnative.dev/blog/rss.xml",
