@@ -151,7 +151,6 @@
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/nuxodin/dialog-polyfill" title="github.com/nuxodin/dialog-polyfill" type="rss" xmlUrl="https://github.com/nuxodin/dialog-polyfill/releases.atom"/>
 <outline text="github.com/facebookexperimental/Recoil" title="github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
 <outline text="github.com/nicolo-ribaudo/jest-light-runner" title="github.com/nicolo-ribaudo/jest-light-runner" type="rss" xmlUrl="https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"/>
 <outline text="github.com/cucumber/cucumber-js" title="github.com/cucumber/cucumber-js" type="rss" xmlUrl="https://github.com/cucumber/cucumber-js/releases.atom"/>

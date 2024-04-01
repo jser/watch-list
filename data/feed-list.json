@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/nuxodin/dialog-polyfill",
-    "feeds": [
-      "https://github.com/nuxodin/dialog-polyfill/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebookexperimental/Recoil",
     "feeds": [
       "https://github.com/facebookexperimental/Recoil/releases.atom"
