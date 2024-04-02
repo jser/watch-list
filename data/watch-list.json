@@ -49,7 +49,7 @@
     }
   },
   {
-    "count": 36,
+    "count": 37,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -61,11 +61,12 @@
       "module",
       "yarn",
       "npm",
-      "TypeScript"
+      "TypeScript",
+      "windows"
     ],
     "example": {
-      "title": "Bun v1.0.31 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.0.31"
+      "title": "Bun 1.1 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1"
     }
   },
   {
@@ -1116,20 +1117,6 @@
       "title": "Biome v1.6 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-6/"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/remix-run/react-router",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v6.14.0 · remix-run/react-router",
-      "url": "https://github.com/remix-run/react-router/releases/tag/react-router%406.14.0"
-    },
-    "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
   },
   {
     "count": 3,
@@ -2285,6 +2272,20 @@
       "url": "https://github.com/kaleidawave/ezno/discussions/21"
     },
     "rssUrl": "https://github.com/kaleidawave/ezno/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/remix-run/react-router",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.14.0 · remix-run/react-router",
+      "url": "https://github.com/remix-run/react-router/releases/tag/react-router%406.14.0"
+    },
+    "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
   },
   {
     "count": 2,

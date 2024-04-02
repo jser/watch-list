@@ -661,12 +661,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/react-router",
-    "feeds": [
-      "https://github.com/remix-run/react-router/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
@@ -868,6 +862,12 @@
     "url": "https://github.com/kaleidawave/ezno",
     "feeds": [
       "https://github.com/kaleidawave/ezno/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/react-router",
+    "feeds": [
+      "https://github.com/remix-run/react-router/releases.atom"
     ]
   },
   {
