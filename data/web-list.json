@@ -473,21 +473,6 @@
   },
   {
     "count": 7,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    },
-    "rssUrl": "http://blog.chromium.org/atom.xml"
-  },
-  {
-    "count": 7,
     "url": "https://docs.google.com",
     "tags": [
       "DOM",
@@ -530,6 +515,21 @@
       "url": "https://reactnative.dev/blog/2023/01/12/version-071"
     },
     "rssUrl": "https://reactnative.dev/blog/rss.xml"
+  },
+  {
+    "count": 6,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
+    },
+    "rssUrl": "http://blog.chromium.org/atom.xml"
   },
   {
     "count": 6,
@@ -1499,21 +1499,6 @@
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://www.zhenghao.io",
-    "tags": [
-      "React",
-      "article",
-      "performance",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "When You Should Prefer Map Over Object In JavaScript",
-      "url": "https://www.zhenghao.io/posts/object-vs-map"
-    },
-    "rssUrl": "https://www.zhenghao.io/rss.xml"
   },
   {
     "count": 2,
@@ -3765,6 +3750,19 @@
       "url": "https://github.com/socketio/socket.io/releases/tag/2.5.0"
     },
     "rssUrl": "https://github.com/socketio/socket.io/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.zhenghao.io",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "When You Should Prefer Map Over Object In JavaScript",
+      "url": "https://www.zhenghao.io/posts/object-vs-map"
+    },
+    "rssUrl": "https://www.zhenghao.io/rss.xml"
   },
   {
     "count": 1,
