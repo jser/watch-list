@@ -907,12 +907,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebookexperimental/Recoil",
-    "feeds": [
-      "https://github.com/facebookexperimental/Recoil/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nicolo-ribaudo/jest-light-runner",
     "feeds": [
       "https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"
@@ -2608,6 +2602,12 @@
     "url": "https://medium.com/miro-engineering/",
     "feeds": [
       "https://medium.com/feed/miro-engineering"
+    ]
+  },
+  {
+    "url": "https://medium.com/flow-type/",
+    "feeds": [
+      "https://medium.com/feed/flow-type"
     ]
   },
   {
