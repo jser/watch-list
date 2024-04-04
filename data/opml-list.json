@@ -709,6 +709,12 @@
     ]
   },
   {
+    "url": "https://medium.com/flow-type/",
+    "feeds": [
+      "https://medium.com/feed/flow-type"
+    ]
+  },
+  {
     "url": "https://mmazzarolo.com",
     "feeds": [
       "https://mmazzarolo.com/blog/index.xml"

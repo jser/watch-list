@@ -248,20 +248,6 @@
   },
   {
     "count": 10,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-02 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/02/15/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 10,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -391,6 +377,20 @@
   },
   {
     "count": 9,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "news",
+      "proposal"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-02 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/02/15/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 9,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -497,24 +497,6 @@
       "title": "State of Vite (ViteConf 2023) - Google スライド",
       "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
     }
-  },
-  {
-    "count": 6,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "iOS",
-      "Android",
-      "ReleaseNote",
-      "Native",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
-      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 6,
@@ -709,6 +691,22 @@
       "url": "https://blog.vuejs.org/posts/vitepress-1.0"
     },
     "rssUrl": "https://blog.vuejs.org/feed.rss"
+  },
+  {
+    "count": 5,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "ReleaseNote",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
+      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 5,
@@ -2575,20 +2573,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebookexperimental/Recoil",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 0.7.0 · facebookexperimental/Recoil",
-      "url": "https://github.com/facebookexperimental/Recoil/releases/tag/0.7.0"
-    },
-    "rssUrl": "https://github.com/facebookexperimental/Recoil/releases.atom"
   },
   {
     "count": 1,
@@ -10490,5 +10474,19 @@
       "title": "React Server Components now in RedwoodJS | RedwoodJS",
       "url": "https://redwoodjs.com/blog/rsc-now-in-redwoodjs"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://medium.com/flow-type/",
+    "tags": [
+      "flowtype",
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "New Flow Language Features for React | by Alex Taylor | Flow | Apr, 2024 | Medium",
+      "url": "https://medium.com/flow-type/announcing-component-syntax-b6c5285660d0"
+    },
+    "rssUrl": "https://medium.com/feed/flow-type"
   }
 ]
