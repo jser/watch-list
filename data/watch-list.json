@@ -567,19 +567,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/vitejs/vite",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vite/CHANGELOG.md at main · vitejs/vite",
-      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
-    },
-    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://rome.tools",
     "tags": [
       "JavaScript",
@@ -962,6 +949,19 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/vitejs/vite",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "vite/CHANGELOG.md at main · vitejs/vite",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
+    },
+    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://developer.apple.com",
     "tags": [
       "safari",
@@ -1114,21 +1114,6 @@
     "example": {
       "title": "Biome v1.6 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-6/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "CSS",
-      "article",
-      "fonts",
-      "accessibility",
-      "React"
-    ],
-    "example": {
-      "title": "Making Sense of React Server Components",
-      "url": "https://www.joshwcomeau.com/react/server-components/"
     }
   },
   {
@@ -1604,6 +1589,21 @@
       "url": "https://github.com/storybookjs/storybook/releases/tag/v7.0.0-rc.0"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "CSS",
+      "fonts",
+      "accessibility",
+      "article",
+      "React"
+    ],
+    "example": {
+      "title": "Making Sense of React Server Components",
+      "url": "https://www.joshwcomeau.com/react/server-components/"
+    }
   },
   {
     "count": 2,
@@ -2499,33 +2499,6 @@
     "example": {
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nicolo-ribaudo/jest-light-runner",
-    "tags": [
-      "jest",
-      "node.js",
-      "library"
-    ],
-    "example": {
-      "title": "nicolo-ribaudo/jest-light-runner: A Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.",
-      "url": "https://github.com/nicolo-ribaudo/jest-light-runner"
-    },
-    "rssUrl": "https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://shakerphobia.netlify.app",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "bundler"
-    ],
-    "example": {
-      "title": "Shakerphobia",
-      "url": "https://shakerphobia.netlify.app/"
     }
   },
   {
