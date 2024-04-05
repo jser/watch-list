@@ -589,12 +589,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
@@ -628,6 +622,12 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
@@ -904,12 +904,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nicolo-ribaudo/jest-light-runner",
-    "feeds": [
-      "https://github.com/nicolo-ribaudo/jest-light-runner/releases.atom"
     ]
   },
   {
