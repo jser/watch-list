@@ -78,7 +78,6 @@
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
 <outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
 <outline text="eh-career.com" title="eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
-<outline text="elijahmanor.com" title="elijahmanor.com" type="rss" xmlUrl="https://elijahmanor.com/rss.xml"/>
 <outline text="endtimes.dev" title="endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed.xml"/>
 <outline text="engineering.fb.com" title="engineering.fb.com" type="rss" xmlUrl="https://code.facebook.com/posts/rss/"/>
 <outline text="engineering.linecorp.com" title="engineering.linecorp.com" type="rss" xmlUrl="https://engineering.linecorp.com/en"/>
@@ -140,6 +139,7 @@
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
 <outline text="romgrk.com" title="romgrk.com" type="rss" xmlUrl="https://romgrk.com/rss.xml"/>
+<outline text="rsbuild.dev" title="rsbuild.dev" type="rss" xmlUrl="https://rsbuild.dev/rss/releases.xml"/>
 <outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>

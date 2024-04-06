@@ -248,20 +248,6 @@
   },
   {
     "count": 10,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 29.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-29-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 10,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -403,6 +389,20 @@
       "url": "https://eslint.org/blog/2024/02/eslint-v8.57.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 9,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 29.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-29-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 9,
@@ -2573,20 +2573,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://elijahmanor.com",
-    "tags": [
-      "i18n",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Locale Aware Sorting in JavaScript",
-      "url": "https://elijahmanor.com/byte/js-locale-sort"
-    },
-    "rssUrl": "https://elijahmanor.com/rss.xml"
   },
   {
     "count": 1,
@@ -10353,7 +10339,8 @@
     "example": {
       "title": "Announcing Rsbuild v0.5 - Rsbuild",
       "url": "https://rsbuild.dev/community/releases/v0-5"
-    }
+    },
+    "rssUrl": "https://rsbuild.dev/rss/releases.xml"
   },
   {
     "count": 1,
