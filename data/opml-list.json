@@ -467,12 +467,6 @@
     ]
   },
   {
-    "url": "https://elijahmanor.com",
-    "feeds": [
-      "https://elijahmanor.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://endtimes.dev",
     "feeds": [
       "https://endtimes.dev/feed.xml"
@@ -856,6 +850,12 @@
     "url": "https://romgrk.com",
     "feeds": [
       "https://romgrk.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://rsbuild.dev",
+    "feeds": [
+      "https://rsbuild.dev/rss/releases.xml"
     ]
   },
   {

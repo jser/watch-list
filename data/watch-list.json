@@ -241,19 +241,6 @@
   },
   {
     "count": 10,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 29.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-29-0"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -390,6 +377,19 @@
     "example": {
       "title": "ESLint v8.57.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2024/02/eslint-v8.57.0-released/"
+    }
+  },
+  {
+    "count": 9,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 29.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-29-0"
     }
   },
   {
@@ -2499,19 +2499,6 @@
     "example": {
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://elijahmanor.com",
-    "tags": [
-      "i18n",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Locale Aware Sorting in JavaScript",
-      "url": "https://elijahmanor.com/byte/js-locale-sort"
     }
   },
   {
