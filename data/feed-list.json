@@ -679,6 +679,12 @@
     ]
   },
   {
+    "url": "https://github.com/google/zx",
+    "feeds": [
+      "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
@@ -772,12 +778,6 @@
     "url": "https://github.com/sverweij/dependency-cruiser",
     "feeds": [
       "https://github.com/sverweij/dependency-cruiser/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/google/zx",
-    "feeds": [
-      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
