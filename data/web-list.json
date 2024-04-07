@@ -1254,6 +1254,23 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "shell",
+      "node.js",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "ShellScript"
+    ],
+    "example": {
+      "title": "Release 8.0.0 · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.0.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/redwoodjs/redwood",
     "tags": [
       "node.js",
@@ -1714,22 +1731,6 @@
       "url": "https://github.com/sverweij/dependency-cruiser/releases/tag/v13.0.0"
     },
     "rssUrl": "https://github.com/sverweij/dependency-cruiser/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "shell",
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release 7.2.0 · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/7.2.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 2,

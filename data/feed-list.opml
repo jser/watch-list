@@ -113,6 +113,7 @@
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
+<outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
@@ -129,7 +130,6 @@
 <outline text="github.com/electron/electron" title="github.com/electron/electron" type="rss" xmlUrl="https://github.com/electron/electron/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
 <outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
-<outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/infernojs/inferno" title="github.com/infernojs/inferno" type="rss" xmlUrl="https://github.com/infernojs/inferno/releases.atom"/>
 <outline text="github.com/oven-sh/bun" title="github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
