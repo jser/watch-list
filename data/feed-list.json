@@ -2569,6 +2569,12 @@
     ]
   },
   {
+    "url": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
+    ]
+  },
+  {
     "url": "https://medium.com/@fastifyjs/",
     "feeds": [
       "https://medium.com/feed/@fastifyjs"
@@ -2578,12 +2584,6 @@
     "url": "https://medium.com/airbnb-engineering/",
     "feeds": [
       "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
     ]
   },
   {
@@ -2664,6 +2664,13 @@
     "url": "https://obyford.com",
     "feeds": [
       "https://obyford.com/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://oisham.hatenablog.com",
+    "feeds": [
+      "https://oisham.hatenablog.com/feed",
+      "https://oisham.hatenablog.com/rss"
     ]
   },
   {
@@ -3002,6 +3009,13 @@
     "feeds": [
       "https://typescript-eslint.io/blog/rss.xml",
       "https://typescript-eslint.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://unicorn-utterances.com",
+    "feeds": [
+      "https://unicorn-utterances.com/atom.xml",
+      "https://unicorn-utterances.com/rss.xml"
     ]
   },
   {

@@ -174,7 +174,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 16,
+    "count": 15,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -343,6 +343,21 @@
     }
   },
   {
+    "count": 10,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "news",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
     "count": 9,
     "url": "https://2ality.com",
     "tags": [
@@ -374,21 +389,6 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2024/02/15/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 9,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "news",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "ESLint v8.57.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/02/eslint-v8.57.0-released/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 9,
@@ -581,20 +581,6 @@
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 5,
-    "url": "https://rome.tools",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Rome v12.1.0",
-      "url": "https://rome.tools/blog/2023/05/10/rome12_1/"
-    }
   },
   {
     "count": 5,
@@ -1061,6 +1047,20 @@
       "url": "https://vercel.com/blog/how-react-18-improves-application-performance"
     },
     "rssUrl": "https://vercel.com/atom"
+  },
+  {
+    "count": 4,
+    "url": "https://rome.tools",
+    "tags": [
+      "JavaScript",
+      "Rust",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Rome v12.1.0",
+      "url": "https://rome.tools/blog/2023/05/10/rome12_1/"
+    }
   },
   {
     "count": 4,
@@ -2439,6 +2439,21 @@
       "title": "typescript-eslint v6 アップデートガイド",
       "url": "https://zenn.dev/cybozu_frontend/articles/ts-eslint-v6-guide"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://medium.com/dartlang/",
+    "tags": [
+      "dart",
+      "ReleaseNote",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "History of JS interop in Dart. Support for Wasm just landed in the… | by Sigmund Cherem | Dart | Mar, 2024 | Medium",
+      "url": "https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f"
+    },
+    "rssUrl": "https://medium.com/feed/dartlang"
   },
   {
     "count": 2,
@@ -7304,19 +7319,6 @@
   },
   {
     "count": 1,
-    "url": "https://medium.com/dartlang/",
-    "tags": [
-      "dart",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Dart 3. 100% sound null safety. Records… | by Michael Thomsen | Dart | May, 2023 | Medium",
-      "url": "https://medium.com/dartlang/announcing-dart-3-53f065a10635"
-    },
-    "rssUrl": "https://medium.com/feed/dartlang"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/microsoft/deoptexplorer-vscode",
     "tags": [
       "VSCode",
@@ -10449,5 +10451,46 @@
       "url": "https://medium.com/flow-type/announcing-component-syntax-b6c5285660d0"
     },
     "rssUrl": "https://medium.com/feed/flow-type"
+  },
+  {
+    "count": 1,
+    "url": "https://oisham.hatenablog.com",
+    "tags": [
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "App Router移行時に0.01%の確率でCSR遷移が404エラーになる - とろろこんぶろぐ",
+      "url": "https://oisham.hatenablog.com/entry/2024/04/04/105444"
+    },
+    "rssUrl": "https://oisham.hatenablog.com/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://unicorn-utterances.com",
+    "tags": [
+      "JavaScript",
+      "React",
+      "Angular",
+      "Vue",
+      "book"
+    ],
+    "example": {
+      "title": "The Framework Field Guide - Fundamentals | Unicorn Utterances",
+      "url": "https://unicorn-utterances.com/collections/framework-field-guide-fundamentals"
+    },
+    "rssUrl": "https://unicorn-utterances.com/atom.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://focusreactive.com",
+    "tags": [
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "Breaking Down Next.js 14 | FocusReactive",
+      "url": "https://focusreactive.com/breaking-down-next-js-14/"
+    }
   }
 ]
