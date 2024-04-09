@@ -127,7 +127,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://web.dev",
     "tags": [
       "HTML",
@@ -149,8 +149,8 @@
       "WebPlatformAPI"
     ],
     "example": {
-      "title": "light-dark() を使用して CSS のカラーパターンに依存する色を使用する  |  Articles  |  web.dev",
-      "url": "https://web.dev/articles/light-dark?hl=ja"
+      "title": "Learn JavaScript  |  web.dev",
+      "url": "https://web.dev/learn/javascript"
     }
   },
   {
