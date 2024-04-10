@@ -10492,5 +10492,18 @@
       "title": "Breaking Down Next.js 14 | FocusReactive",
       "url": "https://focusreactive.com/breaking-down-next-js-14/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://ark-ui.com",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "library"
+    ],
+    "example": {
+      "title": "Home | Ark UI",
+      "url": "https://ark-ui.com/"
+    }
   }
 ]
