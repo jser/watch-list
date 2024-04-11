@@ -1071,12 +1071,6 @@
     ]
   },
   {
-    "url": "https://tom.preston-werner.com",
-    "feeds": [
-      "https://feeds.feedburner.com/tom-preston-werner"
-    ]
-  },
-  {
     "url": "https://trpc.io",
     "feeds": [
       "https://trpc.io/blog/rss.xml",
@@ -1255,12 +1249,6 @@
       "https://www.htmhell.dev/feed.xml",
       "https://www.htmhell.dev/feed_tips.xml",
       "https://www.htmhell.dev/feed_advent.xml"
-    ]
-  },
-  {
-    "url": "https://www.huy.rocks",
-    "feeds": [
-      "https://www.huy.rocks/rss.xml"
     ]
   },
   {
