@@ -172,7 +172,6 @@
 <outline text="the-guild.dev" title="the-guild.dev" type="rss" xmlUrl="https://the-guild.dev/feed.xml"/>
 <outline text="timkadlec.com" title="timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/remembers/atom.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
-<outline text="tom.preston-werner.com" title="tom.preston-werner.com" type="rss" xmlUrl="https://feeds.feedburner.com/tom-preston-werner"/>
 <outline text="trpc.io" title="trpc.io" type="rss" xmlUrl="https://trpc.io/blog/rss.xml"/>
 <outline text="tsh.io" title="tsh.io" type="rss" xmlUrl="https://tsh.io/feed/"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
@@ -200,7 +199,6 @@
 <outline text="www.gabe.pizza" title="www.gabe.pizza" type="rss" xmlUrl="https://www.gabe.pizza/rss.xml"/>
 <outline text="www.honeybadger.io" title="www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
 <outline text="www.htmhell.dev" title="www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
-<outline text="www.huy.rocks" title="www.huy.rocks" type="rss" xmlUrl="https://www.huy.rocks/rss.xml"/>
 <outline text="www.inngest.com" title="www.inngest.com" type="rss" xmlUrl="https://www.inngest.com/api/rss.xml"/>
 <outline text="www.jantrid.net" title="www.jantrid.net" type="rss" xmlUrl="https://www.jantrid.net/feeds/posts/default/index.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
