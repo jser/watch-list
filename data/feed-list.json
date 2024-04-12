@@ -589,12 +589,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/react-redux",
-    "feeds": [
-      "https://github.com/reduxjs/react-redux/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vercel/swr",
     "feeds": [
       "https://github.com/vercel/swr/releases.atom"
@@ -652,6 +646,12 @@
     "url": "https://github.com/jestjs/jest",
     "feeds": [
       "https://github.com/jestjs/jest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/react-redux",
+    "feeds": [
+      "https://github.com/reduxjs/react-redux/releases.atom"
     ]
   },
   {
@@ -898,12 +898,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
-    "feeds": [
-      "https://github.com/goldbergyoni/javascript-testing-best-practices/releases.atom"
     ]
   },
   {
@@ -2976,12 +2970,6 @@
   },
   {
     "url": "https://turbo.build",
-    "feeds": [
-      "https://turbo.build/feed.xml"
-    ]
-  },
-  {
-    "url": "https://turborepo.org",
     "feeds": [
       "https://turbo.build/feed.xml"
     ]
