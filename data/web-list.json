@@ -837,21 +837,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/vercel/swr",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v2.1.0 · vercel/swr",
-      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
-    },
-    "rssUrl": "https://github.com/vercel/swr/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://www.smashingmagazine.com",
     "tags": [
       "HTML",
@@ -1154,6 +1139,21 @@
       "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.0.0-alpha.0"
     },
     "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/vercel/swr",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release v2.1.0 · vercel/swr",
+      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
+    },
+    "rssUrl": "https://github.com/vercel/swr/releases.atom"
   },
   {
     "count": 3,
@@ -2591,19 +2591,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/antfu/vue-starport",
-    "tags": [
-      "Vue",
-      "library"
-    ],
-    "example": {
-      "title": "antfu/vue-starport: 🛰 Shared component across routes with animations",
-      "url": "https://github.com/antfu/vue-starport"
-    },
-    "rssUrl": "https://github.com/antfu/vue-starport/releases.atom"
   },
   {
     "count": 1,
