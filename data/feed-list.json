@@ -589,12 +589,6 @@
     ]
   },
   {
-    "url": "https://github.com/vercel/swr",
-    "feeds": [
-      "https://github.com/vercel/swr/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
@@ -652,6 +646,12 @@
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel/swr",
+    "feeds": [
+      "https://github.com/vercel/swr/releases.atom"
     ]
   },
   {
@@ -898,12 +898,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/antfu/vue-starport",
-    "feeds": [
-      "https://github.com/antfu/vue-starport/releases.atom"
     ]
   },
   {
