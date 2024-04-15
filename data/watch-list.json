@@ -72,6 +72,27 @@
   },
   {
     "count": 31,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "React",
+      "news",
+      "V8",
+      "article",
+      "JavaScript",
+      "library",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "How we built JSR",
+      "url": "https://deno.com/blog/how-we-built-jsr"
+    }
+  },
+  {
+    "count": 31,
     "url": "https://webkit.org",
     "tags": [
       "browser",
@@ -90,26 +111,6 @@
     "example": {
       "title": "Optimizing WebKit & Safari for Speedometer 3.0 | WebKit",
       "url": "https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/"
-    }
-  },
-  {
-    "count": 30,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "React",
-      "news",
-      "V8",
-      "article",
-      "JavaScript",
-      "library",
-      "denoe",
-      "dneo"
-    ],
-    "example": {
-      "title": "Deno 1.42: Better dependency management with JSR",
-      "url": "https://deno.com/blog/v1.42"
     }
   },
   {
