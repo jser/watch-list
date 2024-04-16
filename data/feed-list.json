@@ -895,6 +895,12 @@
     ]
   },
   {
+    "url": "https://github.com/farm-fe/farm",
+    "feeds": [
+      "https://github.com/farm-fe/farm/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
@@ -2188,12 +2194,6 @@
     "url": "https://github.com/facebook/docusaurus",
     "feeds": [
       "https://github.com/facebook/docusaurus/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/farm-fe/farm",
-    "feeds": [
-      "https://github.com/farm-fe/farm/releases.atom"
     ]
   },
   {

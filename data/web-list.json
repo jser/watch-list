@@ -2564,6 +2564,24 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/farm-fe/farm",
+    "tags": [
+      "vite",
+      "rollup",
+      "bundler",
+      "Rust",
+      "Tools",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 🚀 Farm v1.0 is released! · farm-fe/farm",
+      "url": "https://github.com/farm-fe/farm/releases/tag/v1.0"
+    },
+    "rssUrl": "https://github.com/farm-fe/farm/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
@@ -8807,23 +8825,6 @@
       "url": "https://github.com/facebook/docusaurus/releases/tag/v3.0.0"
     },
     "rssUrl": "https://github.com/facebook/docusaurus/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/farm-fe/farm",
-    "tags": [
-      "vite",
-      "rollup",
-      "bundler",
-      "Rust",
-      "Tools",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "farm-fe/farm: Extremely fast Vite-compatible web build tool written in Rust",
-      "url": "https://github.com/farm-fe/farm"
-    },
-    "rssUrl": "https://github.com/farm-fe/farm/releases.atom"
   },
   {
     "count": 1,
