@@ -393,13 +393,6 @@
     ]
   },
   {
-    "url": "https://devblog.thebase.in",
-    "feeds": [
-      "https://devblog.thebase.in/feed",
-      "https://devblog.thebase.in/rss"
-    ]
-  },
-  {
     "url": "https://devblogs.microsoft.com",
     "feeds": [
       "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
@@ -541,12 +534,6 @@
     ]
   },
   {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
@@ -559,9 +546,9 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
+    "url": "https://github.com/zloirock/core-js",
     "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
+      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -574,6 +561,12 @@
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -640,12 +633,6 @@
     "url": "https://github.com/jestjs/jest",
     "feeds": [
       "https://github.com/jestjs/jest/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/react-redux",
-    "feeds": [
-      "https://github.com/reduxjs/react-redux/releases.atom"
     ]
   },
   {
@@ -718,12 +705,6 @@
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/lexical",
-    "feeds": [
-      "https://github.com/facebook/lexical/releases.atom"
     ]
   },
   {
@@ -889,6 +870,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/react-redux",
+    "feeds": [
+      "https://github.com/reduxjs/react-redux/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -904,18 +891,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ThomasAribart/json-schema-to-ts",
-    "feeds": [
-      "https://github.com/ThomasAribart/json-schema-to-ts/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/Shopify/javy",
-    "feeds": [
-      "https://github.com/Shopify/javy/releases.atom"
     ]
   },
   {
@@ -1474,6 +1449,12 @@
     "url": "https://github.com/gioboa/vite-module-federation",
     "feeds": [
       "https://github.com/gioboa/vite-module-federation/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/lexical",
+    "feeds": [
+      "https://github.com/facebook/lexical/releases.atom"
     ]
   },
   {
