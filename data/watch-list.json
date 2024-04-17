@@ -129,17 +129,17 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
-      "HTML",
-      "article",
-      "accessibility",
       "CSS",
+      "article",
       "browser",
       "Chrome",
       "performance",
+      "HTML",
       "tutorial",
+      "accessibility",
       "Image",
       "privacy",
       "sourcemap",
@@ -156,7 +156,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 18,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -165,8 +165,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release v9.0.0-beta.0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0-beta.0"
+      "title": "Release v9.0.0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -261,25 +261,6 @@
   },
   {
     "count": 10,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "library",
-      "ReleaseNote",
-      "Bun",
-      "article",
-      "OpenSource",
-      "opinion"
-    ],
-    "example": {
-      "title": "Release 3.35.0 - 2023.12.29 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.35.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 10,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -368,6 +349,25 @@
   },
   {
     "count": 9,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "library",
+      "polyfill",
+      "ReleaseNote",
+      "Bun",
+      "article",
+      "OpenSource",
+      "opinion"
+    ],
+    "example": {
+      "title": "Release 3.35.0 - 2023.12.29 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.35.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 9,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -399,22 +399,6 @@
       "title": "Storybook 8",
       "url": "https://storybook.js.org/blog/storybook-8/"
     }
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "JavaScript",
-      "Remix",
-      "library",
-      "ReleaseNote",
-      "React"
-    ],
-    "example": {
-      "title": "Release v2.2.0 · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/releases/tag/remix%402.2.0"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 8,
@@ -462,6 +446,22 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "Remix",
+      "React"
+    ],
+    "example": {
+      "title": "Release v2.2.0 · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/releases/tag/remix%402.2.0"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 6,
@@ -808,6 +808,22 @@
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
+    "count": 5,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "news",
+      "Rust",
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Biome v1.7 | Biome",
+      "url": "https://biomejs.dev/blog/biome-v1-7/"
+    }
+  },
+  {
     "count": 4,
     "url": "https://www.smashingmagazine.com",
     "tags": [
@@ -1073,36 +1089,6 @@
       "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
     },
     "rssUrl": "https://github.com/jestjs/jest/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "news",
-      "Rust",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Biome v1.6 | Biome",
-      "url": "https://biomejs.dev/blog/biome-v1-6/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/reduxjs/react-redux",
-    "tags": [
-      "React",
-      "redux",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.0.0-alpha.0 · reduxjs/react-redux",
-      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.0.0-alpha.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
   },
   {
     "count": 3,
@@ -1456,22 +1442,6 @@
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/facebook/lexical",
-    "tags": [
-      "JavaScript",
-      "editor",
-      "library",
-      "React",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v0.5.0 · facebook/lexical",
-      "url": "https://github.com/facebook/lexical/releases/tag/v0.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/lexical/releases.atom"
   },
   {
     "count": 2,
@@ -2435,6 +2405,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/reduxjs/react-redux",
+    "tags": [
+      "React",
+      "redux",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release v9.0.0-alpha.0 · reduxjs/react-redux",
+      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.0.0-alpha.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -2536,59 +2521,6 @@
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ThomasAribart/json-schema-to-ts",
-    "tags": [
-      "JSON",
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "ThomasAribart/json-schema-to-ts: Infer TS types from JSON schemas 📝",
-      "url": "https://github.com/ThomasAribart/json-schema-to-ts"
-    },
-    "rssUrl": "https://github.com/ThomasAribart/json-schema-to-ts/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://xebia.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "New React 18 features and changes - Xebia",
-      "url": "https://xebia.com/new-react-18-features-and-changes/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://devblog.thebase.in",
-    "tags": [
-      "browser",
-      "privacy",
-      "article"
-    ],
-    "example": {
-      "title": "なぜ我々はsession.cookieを変更しなければならなかったのか - BASEプロダクトチームブログ",
-      "url": "https://devblog.thebase.in/entry/2022/04/13/114714"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/Shopify/javy",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "Tools"
-    ],
-    "example": {
-      "title": "Shopify/javy: JS to WebAssembly toolchain",
-      "url": "https://github.com/Shopify/javy"
-    },
-    "rssUrl": "https://github.com/Shopify/javy/releases.atom"
   },
   {
     "count": 1,
@@ -4781,6 +4713,20 @@
       "title": "The 2022 Web Almanac",
       "url": "https://almanac.httparchive.org/en/2022/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/lexical",
+    "tags": [
+      "JavaScript",
+      "React",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.5.0 · facebook/lexical",
+      "url": "https://github.com/facebook/lexical/releases/tag/v0.5.0"
+    },
+    "rssUrl": "https://github.com/facebook/lexical/releases.atom"
   },
   {
     "count": 1,

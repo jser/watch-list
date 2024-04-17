@@ -393,13 +393,6 @@
     ]
   },
   {
-    "url": "https://devblog.thebase.in",
-    "feeds": [
-      "https://devblog.thebase.in/feed",
-      "https://devblog.thebase.in/rss"
-    ]
-  },
-  {
     "url": "https://devblogs.microsoft.com",
     "feeds": [
       "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
