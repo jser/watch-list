@@ -1,6 +1,6 @@
 [
   {
-    "count": 56,
+    "count": 57,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,12 +17,12 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Wednesday, April 10, 2024 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/april-2024-security-releases-2"
+      "title": "Node.js — Trip report: Node.js collaboration summit (2024 London)",
+      "url": "https://nodejs.org/en/blog/events/collab-summit-2024-london"
     }
   },
   {
-    "count": 41,
+    "count": 42,
     "url": "https://developer.chrome.com",
     "tags": [
       "privacy",
@@ -45,12 +45,12 @@
       "WebAssembly"
     ],
     "example": {
-      "title": "New in Chrome 123  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-chrome-123?hl=en"
+      "title": "Chrome 124  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/124"
     }
   },
   {
-    "count": 37,
+    "count": 38,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -66,8 +66,8 @@
       "windows"
     ],
     "example": {
-      "title": "Bun 1.1 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1"
+      "title": "Bun v1.1.4 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.4"
     }
   },
   {
@@ -322,6 +322,19 @@
   },
   {
     "count": 10,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "news",
+      "proposal"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-04 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/04/17/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 10,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -332,19 +345,6 @@
     "example": {
       "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "news",
-      "proposal"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-02 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/02/15/ecmascript-proposal-update"
     }
   },
   {
@@ -10103,6 +10103,47 @@
     "example": {
       "title": "Home | Ark UI",
       "url": "https://ark-ui.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.adebayosegun.com",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "article",
+      "Interview"
+    ],
+    "example": {
+      "title": "Panda CSS - The Origin Story - Segun Adebayo",
+      "url": "https://www.adebayosegun.com/blog/panda-css-the-origin-story"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sonic-technology/catena",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "library"
+    ],
+    "example": {
+      "title": "sonic-technology/catena: Build type-safe APIs with ease",
+      "url": "https://github.com/sonic-technology/catena"
+    },
+    "rssUrl": "https://github.com/sonic-technology/catena/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://layercake.graphics",
+    "tags": [
+      "Svelte",
+      "SVG",
+      "library"
+    ],
+    "example": {
+      "title": "Layer Cake",
+      "url": "https://layercake.graphics/"
     }
   }
 ]
