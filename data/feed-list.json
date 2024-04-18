@@ -2376,6 +2376,12 @@
     ]
   },
   {
+    "url": "https://github.com/sonic-technology/catena",
+    "feeds": [
+      "https://github.com/sonic-technology/catena/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
