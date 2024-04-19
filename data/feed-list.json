@@ -636,12 +636,6 @@
     ]
   },
   {
-    "url": "https://github.com/vercel/swr",
-    "feeds": [
-      "https://github.com/vercel/swr/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
@@ -708,12 +702,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/node",
-    "feeds": [
-      "https://github.com/nodejs/node/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/expressjs/express",
     "feeds": [
       "https://github.com/expressjs/express/releases.atom"
@@ -759,6 +747,12 @@
     "url": "https://github.com/sverweij/dependency-cruiser",
     "feeds": [
       "https://github.com/sverweij/dependency-cruiser/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel/swr",
+    "feeds": [
+      "https://github.com/vercel/swr/releases.atom"
     ]
   },
   {
@@ -891,24 +885,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ehmicky/wild-wild-path",
-    "feeds": [
-      "https://github.com/ehmicky/wild-wild-path/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/testing-library/react-testing-library",
-    "feeds": [
-      "https://github.com/testing-library/react-testing-library/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/worldzhao/blog",
-    "feeds": [
-      "https://github.com/worldzhao/blog/releases.atom"
     ]
   },
   {
@@ -1677,6 +1653,12 @@
     "url": "https://github.com/tanekloc/tmsg",
     "feeds": [
       "https://github.com/tanekloc/tmsg/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/node",
+    "feeds": [
+      "https://github.com/nodejs/node/releases.atom"
     ]
   },
   {
