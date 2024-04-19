@@ -344,21 +344,6 @@
   },
   {
     "count": 10,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "news",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -371,10 +356,25 @@
       "opinion"
     ],
     "example": {
-      "title": "Release 3.35.0 - 2023.12.29 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.35.0"
+      "title": "Release 3.37.0 - 2024.04.17 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.37.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "news",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 9,
@@ -855,25 +855,6 @@
   },
   {
     "count": 4,
-    "url": "https://www.smashingmagazine.com",
-    "tags": [
-      "HTML",
-      "performance",
-      "Fetch",
-      "article",
-      "Next.js",
-      "webworker",
-      "debug",
-      "browser"
-    ],
-    "example": {
-      "title": "Useful DevTools Tips and Tricks — Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2023/06/popular-devtools-tips/"
-    },
-    "rssUrl": "https://www.smashingmagazine.com/feed/"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
@@ -1129,21 +1110,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/vercel/swr",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v2.1.0 · vercel/swr",
-      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
-    },
-    "rssUrl": "https://github.com/vercel/swr/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/reduxjs/redux",
     "tags": [
       "redux",
@@ -1209,6 +1175,23 @@
       "url": "https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d"
     },
     "rssUrl": "https://medium.com/feed/@babylonjs"
+  },
+  {
+    "count": 3,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "CSS",
+      "fonts",
+      "accessibility",
+      "article",
+      "React",
+      "Next.js"
+    ],
+    "example": {
+      "title": "CSS in React Server Components",
+      "url": "https://www.joshwcomeau.com/react/css-in-rsc/"
+    },
+    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
   },
   {
     "count": 3,
@@ -1425,6 +1408,22 @@
   },
   {
     "count": 3,
+    "url": "https://www.smashingmagazine.com",
+    "tags": [
+      "Next.js",
+      "article",
+      "webworker",
+      "debug",
+      "browser"
+    ],
+    "example": {
+      "title": "Useful DevTools Tips and Tricks — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2023/06/popular-devtools-tips/"
+    },
+    "rssUrl": "https://www.smashingmagazine.com/feed/"
+  },
+  {
+    "count": 3,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -1438,6 +1437,21 @@
       "url": "https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm"
     },
     "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "JavaScript",
+      "article",
+      "TypeScript",
+      "eslib",
+      "Tools"
+    ],
+    "example": {
+      "title": "「実装例から見る React のテストの書き方」をアップデートする",
+      "url": "https://zenn.dev/cybozu_frontend/articles/update-test-libraries"
+    }
   },
   {
     "count": 3,
@@ -1487,22 +1501,6 @@
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/nodejs/node",
-    "tags": [
-      "node.js",
-      "proposal",
-      "issue",
-      "URL",
-      "performance"
-    ],
-    "example": {
-      "title": "deps: replace url parser with Ada by anonrig · Pull Request #46410 · nodejs/node",
-      "url": "https://github.com/nodejs/node/pull/46410"
-    },
-    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 2,
@@ -1629,22 +1627,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "CSS",
-      "fonts",
-      "accessibility",
-      "article",
-      "React"
-    ],
-    "example": {
-      "title": "Making Sense of React Server Components",
-      "url": "https://www.joshwcomeau.com/react/server-components/"
-    },
-    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/electron/electron",
     "tags": [
       "Electron",
@@ -1704,6 +1686,21 @@
       "url": "https://github.com/sverweij/dependency-cruiser/releases/tag/v13.0.0"
     },
     "rssUrl": "https://github.com/sverweij/dependency-cruiser/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/vercel/swr",
+    "tags": [
+      "React",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.1.0 · vercel/swr",
+      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
+    },
+    "rssUrl": "https://github.com/vercel/swr/releases.atom"
   },
   {
     "count": 2,
@@ -2401,20 +2398,6 @@
   },
   {
     "count": 2,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "JavaScript",
-      "article",
-      "TypeScript",
-      "eslib"
-    ],
-    "example": {
-      "title": "typescript-eslint v6 アップデートガイド",
-      "url": "https://zenn.dev/cybozu_frontend/articles/ts-eslint-v6-guide"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://medium.com/dartlang/",
     "tags": [
       "dart",
@@ -2595,48 +2578,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ehmicky/wild-wild-path",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "ehmicky/wild-wild-path: 🤠 Object property paths with wildcards and regexps 🌵",
-      "url": "https://github.com/ehmicky/wild-wild-path"
-    },
-    "rssUrl": "https://github.com/ehmicky/wild-wild-path/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/testing-library/react-testing-library",
-    "tags": [
-      "React",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v13.1.0 · testing-library/react-testing-library",
-      "url": "https://github.com/testing-library/react-testing-library/releases/tag/v13.1.0"
-    },
-    "rssUrl": "https://github.com/testing-library/react-testing-library/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/worldzhao/blog",
-    "tags": [
-      "monorepo",
-      "article",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "从 Turborepo 看 Monorepo 工具的任务编排能力 · Issue #13 · worldzhao/blog",
-      "url": "https://github.com/worldzhao/blog/issues/13"
-    },
-    "rssUrl": "https://github.com/worldzhao/blog/releases.atom"
   },
   {
     "count": 1,
@@ -6132,6 +6073,21 @@
       "title": "shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.",
       "url": "https://ui.shadcn.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nodejs/node",
+    "tags": [
+      "node.js",
+      "URL",
+      "issue",
+      "performance"
+    ],
+    "example": {
+      "title": "deps: replace url parser with Ada by anonrig · Pull Request #46410 · nodejs/node",
+      "url": "https://github.com/nodejs/node/pull/46410"
+    },
+    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 1,
