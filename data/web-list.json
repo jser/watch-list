@@ -377,7 +377,7 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 9,
+    "count": 10,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -385,8 +385,8 @@
       "article"
     ],
     "example": {
-      "title": "Electron 29.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-29-0"
+      "title": "Electron 30.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-30-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
@@ -2578,20 +2578,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.w3.org",
-    "tags": [
-      "WebAssembly",
-      "proposal",
-      "news"
-    ],
-    "example": {
-      "title": "WebAssembly 2.0 First Public Working Drafts | W3C News",
-      "url": "https://www.w3.org/blog/news/archives/9509"
-    },
-    "rssUrl": "https://www.w3.org/blog/feed/"
   },
   {
     "count": 1,
