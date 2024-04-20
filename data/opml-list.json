@@ -1384,12 +1384,6 @@
     ]
   },
   {
-    "url": "https://www.w3.org",
-    "feeds": [
-      "https://www.w3.org/blog/feed/"
-    ]
-  },
-  {
     "url": "https://www.wantedly.com",
     "feeds": [
       "https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"

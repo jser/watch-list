@@ -367,7 +367,7 @@
     }
   },
   {
-    "count": 9,
+    "count": 10,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -375,8 +375,8 @@
       "article"
     ],
     "example": {
-      "title": "Electron 29.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-29-0"
+      "title": "Electron 30.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-30-0"
     }
   },
   {
@@ -2503,19 +2503,6 @@
     "example": {
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.w3.org",
-    "tags": [
-      "WebAssembly",
-      "proposal",
-      "news"
-    ],
-    "example": {
-      "title": "WebAssembly 2.0 First Public Working Drafts | W3C News",
-      "url": "https://www.w3.org/blog/news/archives/9509"
     }
   },
   {
