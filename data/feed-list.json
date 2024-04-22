@@ -94,12 +94,6 @@
     ]
   },
   {
-    "url": "https://blog.axlight.com",
-    "feeds": [
-      "https://blog.axlight.com/index.xml"
-    ]
-  },
-  {
     "url": "https://blog.bitsrc.io",
     "feeds": [
       "https://blog.bitsrc.io/feed"
@@ -582,12 +576,6 @@
     ]
   },
   {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
@@ -636,12 +624,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux",
-    "feeds": [
-      "https://github.com/reduxjs/redux/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
@@ -675,6 +657,12 @@
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
     ]
   },
   {
@@ -864,6 +852,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/redux",
+    "feeds": [
+      "https://github.com/reduxjs/redux/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
@@ -885,18 +879,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/inikulin/parse5",
-    "feeds": [
-      "https://github.com/inikulin/parse5/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/milesj/packemon",
-    "feeds": [
-      "https://github.com/milesj/packemon/releases.atom"
     ]
   },
   {

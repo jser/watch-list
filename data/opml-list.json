@@ -94,12 +94,6 @@
     ]
   },
   {
-    "url": "https://blog.axlight.com",
-    "feeds": [
-      "https://blog.axlight.com/index.xml"
-    ]
-  },
-  {
     "url": "https://blog.bitsrc.io",
     "feeds": [
       "https://blog.bitsrc.io/feed"

@@ -825,24 +825,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "prisma",
-      "MongoDB",
-      "ReleaseNote",
-      "JavaScript",
-      "database",
-      "library",
-      "node.js"
-    ],
-    "example": {
-      "title": "Release 5.11.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/5.11.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/capricorn86/happy-dom",
     "tags": [
       "DOM",
@@ -1074,21 +1056,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/reduxjs/redux",
-    "tags": [
-      "redux",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · reduxjs/redux",
-      "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/parcel-bundler/parcel",
     "tags": [
       "JavaScript",
@@ -1232,6 +1199,23 @@
       "url": "https://github.com/jsdom/jsdom/releases/tag/23.2.0"
     },
     "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "JavaScript",
+      "database",
+      "library",
+      "ReleaseNote",
+      "node.js",
+      "prisma"
+    ],
+    "example": {
+      "title": "Release 5.11.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/5.11.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 3,
@@ -2374,6 +2358,20 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/reduxjs/redux",
+    "tags": [
+      "redux",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release v5.0.0 · reduxjs/redux",
+      "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://blog.rafaelgss.dev",
     "tags": [
       "node.js",
@@ -2503,48 +2501,6 @@
     "example": {
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/inikulin/parse5",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v7.0.0 · inikulin/parse5",
-      "url": "https://github.com/inikulin/parse5/releases/tag/v7.0.0"
-    },
-    "rssUrl": "https://github.com/inikulin/parse5/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/milesj/packemon",
-    "tags": [
-      "npm",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release packemon@2.0.0 · milesj/packemon",
-      "url": "https://github.com/milesj/packemon/releases/tag/packemon%402.0.0"
-    },
-    "rssUrl": "https://github.com/milesj/packemon/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.axlight.com",
-    "tags": [
-      "node.js",
-      "library",
-      "article"
-    ],
-    "example": {
-      "title": "How Jotai Specifies Package Entry Points · Daishi Kato's blog",
-      "url": "https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/"
     }
   },
   {
@@ -10087,6 +10043,31 @@
     "example": {
       "title": "Layer Cake",
       "url": "https://layercake.graphics/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://jsonfixer.com",
+    "tags": [
+      "JSON",
+      "Tools"
+    ],
+    "example": {
+      "title": "JSON Fixer",
+      "url": "https://jsonfixer.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://ja.react.dev",
+    "tags": [
+      "React",
+      "docue",
+      "translate"
+    ],
+    "example": {
+      "title": "React のルール – React",
+      "url": "https://ja.react.dev/reference/rules"
     }
   }
 ]
