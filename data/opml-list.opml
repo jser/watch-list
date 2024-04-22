@@ -19,7 +19,6 @@
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
 <outline text="blog.angular.io" title="blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
 <outline text="blog.appsignal.com" title="blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
-<outline text="blog.axlight.com" title="blog.axlight.com" type="rss" xmlUrl="https://blog.axlight.com/index.xml"/>
 <outline text="blog.bitsrc.io" title="blog.bitsrc.io" type="rss" xmlUrl="https://blog.bitsrc.io/feed"/>
 <outline text="blog.bokken.io" title="blog.bokken.io" type="rss" xmlUrl="https://blog.bokken.io/feeds/atom.xml"/>
 <outline text="blog.chromium.org" title="blog.chromium.org" type="rss" xmlUrl="http://blog.chromium.org/atom.xml"/>
