@@ -72,27 +72,6 @@
   },
   {
     "count": 31,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "React",
-      "news",
-      "V8",
-      "article",
-      "JavaScript",
-      "library",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "How we built JSR",
-      "url": "https://deno.com/blog/how-we-built-jsr"
-    }
-  },
-  {
-    "count": 31,
     "url": "https://webkit.org",
     "tags": [
       "browser",
@@ -111,6 +90,27 @@
     "example": {
       "title": "Optimizing WebKit & Safari for Speedometer 3.0 | WebKit",
       "url": "https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/"
+    }
+  },
+  {
+    "count": 30,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "React",
+      "news",
+      "V8",
+      "article",
+      "JavaScript",
+      "library",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "How we built JSR",
+      "url": "https://deno.com/blog/how-we-built-jsr"
     }
   },
   {
@@ -1056,22 +1056,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/parcel-bundler/parcel",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "bundler",
-      "ReleaseNote",
-      "parcel"
-    ],
-    "example": {
-      "title": "Release v2.10.0 · parcel-bundler/parcel",
-      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/mochajs/mocha",
     "tags": [
       "JavaScript",
@@ -1812,6 +1796,21 @@
       "url": "https://github.com/riot/riot/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/riot/riot/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/parcel-bundler/parcel",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote",
+      "parcel"
+    ],
+    "example": {
+      "title": "Release v2.10.0 · parcel-bundler/parcel",
+      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
   },
   {
     "count": 2,
