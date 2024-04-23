@@ -104,7 +104,6 @@
 <outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
-<outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
@@ -128,6 +127,7 @@
 <outline text="github.com/oven-sh/bun" title="github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/riot/riot" title="github.com/riot/riot" type="rss" xmlUrl="https://github.com/riot/riot/releases.atom"/>
+<outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/denoland/deno" title="github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
 <outline text="github.com/httptoolkit/brotli-wasm" title="github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>

@@ -624,12 +624,6 @@
     ]
   },
   {
-    "url": "https://github.com/parcel-bundler/parcel",
-    "feeds": [
-      "https://github.com/parcel-bundler/parcel/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mochajs/mocha",
     "feeds": [
       "https://github.com/mochajs/mocha/releases.atom"
@@ -765,6 +759,12 @@
     "url": "https://github.com/riot/riot",
     "feeds": [
       "https://github.com/riot/riot/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/parcel-bundler/parcel",
+    "feeds": [
+      "https://github.com/parcel-bundler/parcel/releases.atom"
     ]
   },
   {
