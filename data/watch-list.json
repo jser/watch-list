@@ -1,6 +1,6 @@
 [
   {
-    "count": 57,
+    "count": 56,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -586,6 +586,23 @@
     }
   },
   {
+    "count": 6,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "webpack",
+      "rspack",
+      "ReleaseNote",
+      "bundler",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Rspack v1.0 Release Plan · web-infra-dev/rspack · Discussion #6315",
+      "url": "https://github.com/web-infra-dev/rspack/discussions/6315"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
+  },
+  {
     "count": 5,
     "url": "https://babeljs.io",
     "tags": [
@@ -790,22 +807,6 @@
       "title": "React Labs: What We've Been Working On – February 2024 – React",
       "url": "https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024"
     }
-  },
-  {
-    "count": 5,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "webpack",
-      "rspack",
-      "ReleaseNote",
-      "bundler",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v0.3.8 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v0.3.8"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 5,
