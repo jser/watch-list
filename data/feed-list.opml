@@ -61,7 +61,6 @@
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
 <outline text="defensivecss.dev" title="defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
-<outline text="dev.to/frolovdev/" title="dev.to/frolovdev/" type="rss" xmlUrl="https://dev.to/feed/frolovdev"/>
 <outline text="dev.to/hemanth/" title="dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
 <outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
 <outline text="dev.to/nicklucas/" title="dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
@@ -147,8 +146,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/unjs/nitro" title="github.com/unjs/nitro" type="rss" xmlUrl="https://github.com/unjs/nitro/releases.atom"/>
-<outline text="github.com/plantain-00/type-coverage" title="github.com/plantain-00/type-coverage" type="rss" xmlUrl="https://github.com/plantain-00/type-coverage/releases.atom"/>
 <outline text="github.com/eolme/i18nano" title="github.com/eolme/i18nano" type="rss" xmlUrl="https://github.com/eolme/i18nano/releases.atom"/>
 <outline text="github.com/shuding/tilg" title="github.com/shuding/tilg" type="rss" xmlUrl="https://github.com/shuding/tilg/releases.atom"/>
 <outline text="github.com/tdewolff/minify" title="github.com/tdewolff/minify" type="rss" xmlUrl="https://github.com/tdewolff/minify/releases.atom"/>
@@ -428,7 +425,6 @@
 <outline text="nolanlawson.com" title="nolanlawson.com" type="rss" xmlUrl="https://nolanlawson.com/feed/"/>
 <outline text="nsaunders.dev" title="nsaunders.dev" type="rss" xmlUrl="https://nsaunders.dev/rss.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
-<outline text="nuxtjs.org" title="nuxtjs.org" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="obyford.com" title="obyford.com" type="rss" xmlUrl="https://obyford.com/feed/feed.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
 <outline text="orizens.com" title="orizens.com" type="rss" xmlUrl="https://orizens.com/rss.xml"/>

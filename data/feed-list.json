@@ -357,12 +357,6 @@
     ]
   },
   {
-    "url": "https://dev.to/frolovdev/",
-    "feeds": [
-      "https://dev.to/feed/frolovdev"
-    ]
-  },
-  {
     "url": "https://dev.to/hemanth/",
     "feeds": [
       "https://dev.to/feed/hemanth"
@@ -879,18 +873,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/unjs/nitro",
-    "feeds": [
-      "https://github.com/unjs/nitro/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/plantain-00/type-coverage",
-    "feeds": [
-      "https://github.com/plantain-00/type-coverage/releases.atom"
     ]
   },
   {
@@ -2577,12 +2559,6 @@
   },
   {
     "url": "https://nuxt.com",
-    "feeds": [
-      "https://nuxt.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://nuxtjs.org",
     "feeds": [
       "https://nuxt.com/blog/rss.xml"
     ]
