@@ -1,6 +1,6 @@
 [
   {
-    "count": 56,
+    "count": 57,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Trip report: Node.js collaboration summit (2024 London)",
-      "url": "https://nodejs.org/en/blog/events/collab-summit-2024-london"
+      "title": "Node.js — Node.js 22 is now available!",
+      "url": "https://nodejs.org/en/blog/announcements/v22-release-announce"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -2576,61 +2576,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://nuxtjs.org",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Nuxt - Announcing Nuxt 3 Release Candidate",
-      "url": "https://nuxtjs.org/announcements/nuxt3-rc/"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/unjs/nitro",
-    "tags": [
-      "server",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "unjs/nitro: ⚗️ Build and deploy universal JavaScript servers",
-      "url": "https://github.com/unjs/nitro"
-    },
-    "rssUrl": "https://github.com/unjs/nitro/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://dev.to/frolovdev/",
-    "tags": [
-      "TypeScript",
-      "flowtype",
-      "article"
-    ],
-    "example": {
-      "title": "How We Migrated from Javascript and Flow to TypeScript at Osome - DEV Community 👩‍💻👨‍💻",
-      "url": "https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661"
-    },
-    "rssUrl": "https://dev.to/feed/frolovdev"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/plantain-00/type-coverage",
-    "tags": [
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "plantain-00/type-coverage: A CLI tool to check type coverage for typescript code",
-      "url": "https://github.com/plantain-00/type-coverage"
-    },
-    "rssUrl": "https://github.com/plantain-00/type-coverage/releases.atom"
   },
   {
     "count": 1,
