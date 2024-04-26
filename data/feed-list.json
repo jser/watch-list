@@ -2328,6 +2328,12 @@
     ]
   },
   {
+    "url": "https://github.com/LavaMoat/LavaDome",
+    "feeds": [
+      "https://github.com/LavaMoat/LavaDome/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"

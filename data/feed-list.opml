@@ -388,6 +388,7 @@
 <outline text="github.com/guidepup/virtual-screen-reader" title="github.com/guidepup/virtual-screen-reader" type="rss" xmlUrl="https://github.com/guidepup/virtual-screen-reader/releases.atom"/>
 <outline text="github.com/gulpjs/gulp" title="github.com/gulpjs/gulp" type="rss" xmlUrl="https://github.com/gulpjs/gulp/releases.atom"/>
 <outline text="github.com/sonic-technology/catena" title="github.com/sonic-technology/catena" type="rss" xmlUrl="https://github.com/sonic-technology/catena/releases.atom"/>
+<outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>

@@ -569,6 +569,24 @@
   },
   {
     "count": 6,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "ReleaseNote",
+      "article",
+      "TypeScript",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
+  },
+  {
+    "count": 6,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "Next.js",
@@ -602,6 +620,22 @@
       "url": "https://www.rspack.dev/blog/announcing-0.6"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 6,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "document",
+      "news",
+      "article",
+      "TypeScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "React 19 Beta – React",
+      "url": "https://react.dev/blog/2024/04/25/react-19"
+    }
   },
   {
     "count": 6,
@@ -705,22 +739,6 @@
   },
   {
     "count": 5,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "ReleaseNote",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "React Native 0.71: TypeScript by Default, Flexbox Gap, and more... · React Native",
-      "url": "https://reactnative.dev/blog/2023/01/12/version-071"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
-  },
-  {
-    "count": 5,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -820,21 +838,6 @@
     "example": {
       "title": "WinterJS 1.0 · Blog · Wasmer",
       "url": "https://wasmer.io/posts/winterjs-v1"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "document",
-      "news",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "React Labs: What We've Been Working On – February 2024 – React",
-      "url": "https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024"
     }
   },
   {
@@ -1794,6 +1797,21 @@
       "url": "https://ishadeed.com/article/target-size"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://jakearchibald.com",
+    "tags": [
+      "HTML",
+      "article",
+      "DOM",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "HTML attributes vs DOM properties - JakeArchibald.com",
+      "url": "https://jakearchibald.com/2024/attributes-vs-properties/"
+    },
+    "rssUrl": "https://jakearchibald.com/posts.rss"
   },
   {
     "count": 2,
@@ -3864,19 +3882,6 @@
       "url": "https://github.com/5t3ph/css-browser-support"
     },
     "rssUrl": "https://github.com/5t3ph/css-browser-support/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://jakearchibald.com",
-    "tags": [
-      "HTML",
-      "article"
-    ],
-    "example": {
-      "title": "Avoiding <img> layout shifts: aspect-ratio vs width & height attributes - JakeArchibald.com",
-      "url": "https://jakearchibald.com/2022/img-aspect-ratio/"
-    },
-    "rssUrl": "https://jakearchibald.com/posts.rss"
   },
   {
     "count": 1,
@@ -10263,5 +10268,19 @@
       "title": "React のルール – React",
       "url": "https://ja.react.dev/reference/rules"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/LavaMoat/LavaDome",
+    "tags": [
+      "WebComponents",
+      "security",
+      "library"
+    ],
+    "example": {
+      "title": "LavaMoat/LavaDome: Secure DOM trees isolation and encapsulation leveraging ShadowDOM",
+      "url": "https://github.com/LavaMoat/LavaDome"
+    },
+    "rssUrl": "https://github.com/LavaMoat/LavaDome/releases.atom"
   }
 ]
