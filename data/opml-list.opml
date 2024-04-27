@@ -133,6 +133,7 @@
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="quick-lint-js.com" title="quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
 <outline text="quramy.medium.com" title="quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
+<outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
@@ -184,6 +185,7 @@
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
+<outline text="www.apollographql.com" title="www.apollographql.com" type="rss" xmlUrl="https://www.apollographql.com/blog/rss.xml"/>
 <outline text="www.browsercat.com" title="www.browsercat.com" type="rss" xmlUrl="https://www.browsercat.com/feed/posts.rss.xml"/>
 <outline text="www.builder.io" title="www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
 <outline text="www.codeflashbacks.com" title="www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>

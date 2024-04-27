@@ -876,12 +876,6 @@
     ]
   },
   {
-    "url": "https://github.com/eolme/i18nano",
-    "feeds": [
-      "https://github.com/eolme/i18nano/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/shuding/tilg",
     "feeds": [
       "https://github.com/shuding/tilg/releases.atom"
@@ -2334,6 +2328,12 @@
     ]
   },
   {
+    "url": "https://github.com/quilljs/quill",
+    "feeds": [
+      "https://github.com/quilljs/quill/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2637,6 +2637,12 @@
     "url": "https://quramy.medium.com",
     "feeds": [
       "https://medium.com/feed/@quramy"
+    ]
+  },
+  {
+    "url": "https://react.dev",
+    "feeds": [
+      "https://react.dev/rss.xml"
     ]
   },
   {
@@ -2977,6 +2983,12 @@
     "url": "https://www.akshaykhot.com",
     "feeds": [
       "https://www.writesoftwarewell.com/rss/"
+    ]
+  },
+  {
+    "url": "https://www.apollographql.com",
+    "feeds": [
+      "https://www.apollographql.com/blog/rss.xml"
     ]
   },
   {
