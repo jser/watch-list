@@ -118,7 +118,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -128,8 +128,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.4 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/"
+      "title": "Announcing TypeScript 5.5 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -635,7 +635,8 @@
     "example": {
       "title": "React 19 Beta – React",
       "url": "https://react.dev/blog/2024/04/25/react-19"
-    }
+    },
+    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 6,
@@ -1473,21 +1474,6 @@
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://jestjs.io",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Jest 29: Snapshot format changes · Jest",
-      "url": "https://jestjs.io/blog/2022/08/25/jest-29"
-    },
-    "rssUrl": "https://jestjs.io/blog/rss.xml"
   },
   {
     "count": 2,
@@ -2594,20 +2580,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/eolme/i18nano",
-    "tags": [
-      "React",
-      "i18n",
-      "library"
-    ],
-    "example": {
-      "title": "eolme/i18nano: Lightweight translation module with functionality similar to react-i18next",
-      "url": "https://github.com/eolme/i18nano"
-    },
-    "rssUrl": "https://github.com/eolme/i18nano/releases.atom"
   },
   {
     "count": 1,
@@ -4187,6 +4159,20 @@
       "title": "Building a Typechecker from scratch | Dmitry Soshnikov | Education",
       "url": "https://www.dmitrysoshnikov.education/p/typechecker"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://jestjs.io",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Jest 29: Snapshot format changes · Jest",
+      "url": "https://jestjs.io/blog/2022/08/25/jest-29"
+    },
+    "rssUrl": "https://jestjs.io/blog/rss.xml"
   },
   {
     "count": 1,
@@ -10282,5 +10268,34 @@
       "url": "https://github.com/LavaMoat/LavaDome"
     },
     "rssUrl": "https://github.com/LavaMoat/LavaDome/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/quilljs/quill",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 2.0.0 · quilljs/quill",
+      "url": "https://github.com/quilljs/quill/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/quilljs/quill/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.apollographql.com",
+    "tags": [
+      "GraphQL",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "What’s new in Apollo Client 3.10 | Apollo GraphQL Blog",
+      "url": "https://www.apollographql.com/blog/whats-new-in-apollo-client-3-10"
+    },
+    "rssUrl": "https://www.apollographql.com/blog/rss.xml"
   }
 ]

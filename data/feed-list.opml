@@ -146,7 +146,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/eolme/i18nano" title="github.com/eolme/i18nano" type="rss" xmlUrl="https://github.com/eolme/i18nano/releases.atom"/>
 <outline text="github.com/shuding/tilg" title="github.com/shuding/tilg" type="rss" xmlUrl="https://github.com/shuding/tilg/releases.atom"/>
 <outline text="github.com/tdewolff/minify" title="github.com/tdewolff/minify" type="rss" xmlUrl="https://github.com/tdewolff/minify/releases.atom"/>
 <outline text="github.com/frouriojs/notios" title="github.com/frouriojs/notios" type="rss" xmlUrl="https://github.com/frouriojs/notios/releases.atom"/>
@@ -389,6 +388,7 @@
 <outline text="github.com/gulpjs/gulp" title="github.com/gulpjs/gulp" type="rss" xmlUrl="https://github.com/gulpjs/gulp/releases.atom"/>
 <outline text="github.com/sonic-technology/catena" title="github.com/sonic-technology/catena" type="rss" xmlUrl="https://github.com/sonic-technology/catena/releases.atom"/>
 <outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
+<outline text="github.com/quilljs/quill" title="github.com/quilljs/quill" type="rss" xmlUrl="https://github.com/quilljs/quill/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -437,6 +437,7 @@
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="quick-lint-js.com" title="quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
 <outline text="quramy.medium.com" title="quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
+<outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
@@ -489,6 +490,7 @@
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
+<outline text="www.apollographql.com" title="www.apollographql.com" type="rss" xmlUrl="https://www.apollographql.com/blog/rss.xml"/>
 <outline text="www.browsercat.com" title="www.browsercat.com" type="rss" xmlUrl="https://www.browsercat.com/feed/posts.rss.xml"/>
 <outline text="www.builder.io" title="www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
 <outline text="www.codeflashbacks.com" title="www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
