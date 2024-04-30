@@ -51,7 +51,7 @@
     }
   },
   {
-    "count": 38,
+    "count": 39,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -67,8 +67,8 @@
       "windows"
     ],
     "example": {
-      "title": "Bun v1.1.4 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.4"
+      "title": "Bun v1.1.6 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.6"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
