@@ -1299,6 +1299,15 @@
     ]
   },
   {
+    "url": "https://www.moonbitlang.com",
+    "feeds": [
+      "https://www.moonbitlang.com/blog/rss.xml",
+      "https://www.moonbitlang.com/blog/atom.xml",
+      "https://www.moonbitlang.com/weekly-updates/rss.xml",
+      "https://www.moonbitlang.com/weekly-updates/atom.xml"
+    ]
+  },
+  {
     "url": "https://www.mux.com",
     "feeds": [
       "https://www.mux.com/blog/rss.xml",
@@ -1327,17 +1336,6 @@
     "url": "https://www.packtpub.com",
     "feeds": [
       "https://hub.packtpub.com/feed/"
-    ]
-  },
-  {
-    "url": "https://www.remotion.dev",
-    "feeds": [
-      "https://www.remotion.dev/blog/rss.xml",
-      "https://www.remotion.dev/blog/atom.xml",
-      "https://www.remotion.dev/success-stories/rss.xml",
-      "https://www.remotion.dev/success-stories/atom.xml",
-      "https://www.remotion.dev/learn/rss.xml",
-      "https://www.remotion.dev/learn/atom.xml"
     ]
   },
   {
