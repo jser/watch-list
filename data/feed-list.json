@@ -678,18 +678,6 @@
     ]
   },
   {
-    "url": "https://github.com/expressjs/express",
-    "feeds": [
-      "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/react",
-    "feeds": [
-      "https://github.com/facebook/react/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/puppeteer/puppeteer",
     "feeds": [
       "https://github.com/puppeteer/puppeteer/releases.atom"
@@ -876,18 +864,6 @@
     ]
   },
   {
-    "url": "https://github.com/shuding/tilg",
-    "feeds": [
-      "https://github.com/shuding/tilg/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tdewolff/minify",
-    "feeds": [
-      "https://github.com/tdewolff/minify/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/frouriojs/notios",
     "feeds": [
       "https://github.com/frouriojs/notios/releases.atom"
@@ -1059,6 +1035,12 @@
     "url": "https://github.com/preactjs/preact",
     "feeds": [
       "https://github.com/preactjs/preact/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
@@ -2274,6 +2256,12 @@
     ]
   },
   {
+    "url": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
     "feeds": [
       "https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"
@@ -3129,6 +3117,15 @@
     ]
   },
   {
+    "url": "https://www.moonbitlang.com",
+    "feeds": [
+      "https://www.moonbitlang.com/blog/rss.xml",
+      "https://www.moonbitlang.com/blog/atom.xml",
+      "https://www.moonbitlang.com/weekly-updates/rss.xml",
+      "https://www.moonbitlang.com/weekly-updates/atom.xml"
+    ]
+  },
+  {
     "url": "https://www.mux.com",
     "feeds": [
       "https://www.mux.com/blog/rss.xml",
@@ -3157,17 +3154,6 @@
     "url": "https://www.packtpub.com",
     "feeds": [
       "https://hub.packtpub.com/feed/"
-    ]
-  },
-  {
-    "url": "https://www.remotion.dev",
-    "feeds": [
-      "https://www.remotion.dev/blog/rss.xml",
-      "https://www.remotion.dev/blog/atom.xml",
-      "https://www.remotion.dev/success-stories/rss.xml",
-      "https://www.remotion.dev/success-stories/atom.xml",
-      "https://www.remotion.dev/learn/rss.xml",
-      "https://www.remotion.dev/learn/atom.xml"
     ]
   },
   {

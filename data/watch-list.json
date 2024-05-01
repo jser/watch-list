@@ -465,20 +465,6 @@
   },
   {
     "count": 6,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://github.com/lerna/lerna",
     "tags": [
       "monorepo",
@@ -660,6 +646,20 @@
     "example": {
       "title": "Ember 5.0 Released",
       "url": "https://blog.emberjs.com/ember-5-0-released/"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
     }
   },
   {
@@ -1427,36 +1427,6 @@
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/expressjs/express",
-    "tags": [
-      "node.js",
-      "express",
-      "library",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release 4.18.3 · expressjs/express",
-      "url": "https://github.com/expressjs/express/releases/tag/4.18.3"
-    },
-    "rssUrl": "https://github.com/expressjs/express/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release 18.2.0 (June 14, 2022) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/v18.2.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 2,
@@ -2508,50 +2478,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/shuding/tilg",
-    "tags": [
-      "React",
-      "debug",
-      "library"
-    ],
-    "example": {
-      "title": "shuding/tilg: A magical React Hook that helps you debug components.",
-      "url": "https://github.com/shuding/tilg"
-    },
-    "rssUrl": "https://github.com/shuding/tilg/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tdewolff/minify",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "JSON",
-      "SVG",
-      "golang",
-      "Tools"
-    ],
-    "example": {
-      "title": "tdewolff/minify: Go minifiers for web formats",
-      "url": "https://github.com/tdewolff/minify"
-    },
-    "rssUrl": "https://github.com/tdewolff/minify/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.remotion.dev",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Remotion 3.0 | Remotion",
-      "url": "https://www.remotion.dev/blog/3-0"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/frouriojs/notios",
     "tags": [
       "npm",
@@ -3169,6 +3095,20 @@
       "url": "https://github.com/preactjs/preact/releases/tag/10.8.0"
     },
     "rssUrl": "https://github.com/preactjs/preact/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 18.2.0 (June 14, 2022) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/v18.2.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 1,
@@ -9516,6 +9456,20 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/expressjs/express",
+    "tags": [
+      "express",
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 4.18.3 · expressjs/express",
+      "url": "https://github.com/expressjs/express/releases/tag/4.18.3"
+    },
+    "rssUrl": "https://github.com/expressjs/express/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
     "tags": [
       "browser",
@@ -10047,6 +10001,19 @@
     "example": {
       "title": "What’s new in Apollo Client 3.10 | Apollo GraphQL Blog",
       "url": "https://www.apollographql.com/blog/whats-new-in-apollo-client-3-10"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.moonbitlang.com",
+    "tags": [
+      "WebAssembly",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "MoonBit adds JS backend, up to 25x faster than native JS | MoonBit",
+      "url": "https://www.moonbitlang.com/blog/js-support"
     }
   }
 ]
