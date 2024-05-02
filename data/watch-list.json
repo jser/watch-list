@@ -71,19 +71,18 @@
     }
   },
   {
-    "count": 31,
+    "count": 30,
     "url": "https://webkit.org",
     "tags": [
-      "browser",
-      "HTML",
-      "article",
       "safari",
       "ReleaseNote",
       "webkit",
       "CSS",
+      "article",
       "serverless",
       "アンケート",
       "JavaScript",
+      "browser",
       "benchmark",
       "performance"
     ],
@@ -156,7 +155,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 17,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -402,19 +401,6 @@
   },
   {
     "count": 8,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 8,
     "url": "https://2ality.com",
     "tags": [
       "JavaScript",
@@ -446,6 +432,19 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 7,
@@ -829,21 +828,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/capricorn86/happy-dom",
-    "tags": [
-      "DOM",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · capricorn86/happy-dom",
-      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/solidjs/solid",
     "tags": [
       "JavaScript",
@@ -1060,26 +1044,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/mochajs/mocha",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "mocha",
-      "news",
-      "issue",
-      "nodejs",
-      "test"
-    ],
-    "example": {
-      "title": "Release v10.4.0 · mochajs/mocha",
-      "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
-    },
-    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://babylonjs.medium.com",
     "tags": [
       "WebGL",
@@ -1093,6 +1057,21 @@
       "title": "Introducing Babylon.js 7.0. Our mission is to build one of the most… | by Babylon.js | Mar, 2024 | Medium",
       "url": "https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/capricorn86/happy-dom",
+    "tags": [
+      "DOM",
+      "library",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release v13.0.0 · capricorn86/happy-dom",
+      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
+    },
+    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
   },
   {
     "count": 3,
@@ -1426,21 +1405,6 @@
     "example": {
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://cypress.io",
-    "tags": [
-      "browser",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "E2E"
-    ],
-    "example": {
-      "title": "Announcing Cypress 10 with Component Testing Beta!",
-      "url": "https://cypress.io/blog/2022/06/01/cypress-10-release/"
     }
   },
   {
@@ -2374,6 +2338,22 @@
   },
   {
     "count": 2,
+    "url": "https://module-federation.io",
+    "tags": [
+      "JavaScript",
+      "MicroFrontend",
+      "document",
+      "webpack",
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcement of Release - Module federation",
+      "url": "https://module-federation.io/blog/announcement.html"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -2448,6 +2428,24 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/mochajs/mocha",
+    "tags": [
+      "mocha",
+      "news",
+      "issue",
+      "nodejs",
+      "test",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.4.0 · mochajs/mocha",
+      "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
+    },
+    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
@@ -2475,20 +2473,6 @@
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/frouriojs/notios",
-    "tags": [
-      "npm",
-      "Tools",
-      "debug"
-    ],
-    "example": {
-      "title": "frouriojs/notios",
-      "url": "https://github.com/frouriojs/notios"
-    },
-    "rssUrl": "https://github.com/frouriojs/notios/releases.atom"
   },
   {
     "count": 1,
@@ -2918,6 +2902,20 @@
     "example": {
       "title": "pkg.land - find NPM alternative packages",
       "url": "https://pkg.land/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://cypress.io",
+    "tags": [
+      "E2E",
+      "testing",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Cypress 10 with Component Testing Beta!",
+      "url": "https://cypress.io/blog/2022/06/01/cypress-10-release/"
     }
   },
   {
@@ -7101,19 +7099,6 @@
     "example": {
       "title": "Cyclic Dependency Space Toggles",
       "url": "https://kizu.dev/cyclic-toggles/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://module-federation.io",
-    "tags": [
-      "JavaScript",
-      "MicroFrontend",
-      "document"
-    ],
-    "example": {
-      "title": "Module Federation: streamline your microfrontends",
-      "url": "https://module-federation.io/"
     }
   },
   {

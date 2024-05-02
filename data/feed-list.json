@@ -540,15 +540,15 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
@@ -567,12 +567,6 @@
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/capricorn86/happy-dom",
-    "feeds": [
-      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {
@@ -618,9 +612,9 @@
     ]
   },
   {
-    "url": "https://github.com/mochajs/mocha",
+    "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
-      "https://github.com/mochajs/mocha/releases.atom"
+      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {
@@ -858,15 +852,15 @@
     ]
   },
   {
-    "url": "https://github.com/tapjs/tsimp",
+    "url": "https://github.com/mochajs/mocha",
     "feeds": [
-      "https://github.com/tapjs/tsimp/releases.atom"
+      "https://github.com/mochajs/mocha/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/frouriojs/notios",
+    "url": "https://github.com/tapjs/tsimp",
     "feeds": [
-      "https://github.com/frouriojs/notios/releases.atom"
+      "https://github.com/tapjs/tsimp/releases.atom"
     ]
   },
   {
