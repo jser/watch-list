@@ -10191,7 +10191,8 @@
     "example": {
       "title": "React のルール – React",
       "url": "https://ja.react.dev/reference/rules"
-    }
+    },
+    "rssUrl": "https://ja.react.dev/rss.xml"
   },
   {
     "count": 1,
