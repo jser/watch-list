@@ -90,6 +90,7 @@
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
+<outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
 <outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
 <outline text="jqk.life" title="jqk.life" type="rss" xmlUrl="https://jqk.life/rss.xml"/>

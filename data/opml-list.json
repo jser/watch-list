@@ -543,6 +543,12 @@
     ]
   },
   {
+    "url": "https://ja.react.dev",
+    "feeds": [
+      "https://ja.react.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://jakearchibald.com",
     "feeds": [
       "https://jakearchibald.com/posts.rss"
