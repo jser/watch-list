@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node.js 22 is now available!",
-      "url": "https://nodejs.org/en/blog/announcements/v22-release-announce"
+      "title": "Node.js — Node v22.1.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.1.0"
     }
   },
   {
@@ -50,7 +50,7 @@
     }
   },
   {
-    "count": 39,
+    "count": 40,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -66,8 +66,8 @@
       "windows"
     ],
     "example": {
-      "title": "Bun v1.1.6 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.6"
+      "title": "Bun v1.1.5 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.5"
     }
   },
   {
@@ -128,7 +128,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -150,8 +150,8 @@
       "WebPlatformAPI"
     ],
     "example": {
-      "title": "Learn JavaScript  |  web.dev",
-      "url": "https://web.dev/learn/javascript"
+      "title": "Popover API lands in Baseline  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/popover-api?hl=en"
     }
   },
   {
@@ -419,6 +419,22 @@
   },
   {
     "count": 8,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "Remix",
+      "React"
+    ],
+    "example": {
+      "title": "remix/CHANGELOG.md at main · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
+  },
+  {
+    "count": 8,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -445,22 +461,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "Remix",
-      "React"
-    ],
-    "example": {
-      "title": "Release v2.2.0 · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/releases/tag/remix%402.2.0"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 6,
@@ -812,6 +812,19 @@
   },
   {
     "count": 5,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Svelte 5 Release Candidate",
+      "url": "https://svelte.dev/blog/svelte-5-release-candidate"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -984,19 +997,6 @@
   },
   {
     "count": 4,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Announcing SvelteKit 2",
-      "url": "https://svelte.dev/blog/sveltekit-2"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://www.webkit.org",
     "tags": [
       "WebComponents",
@@ -1009,6 +1009,23 @@
     "example": {
       "title": "Implementing Vertical Form Controls | WebKit",
       "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://www.smashingmagazine.com",
+    "tags": [
+      "Next.js",
+      "article",
+      "webworker",
+      "debug",
+      "browser",
+      "HTML",
+      "CSS"
+    ],
+    "example": {
+      "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
     }
   },
   {
@@ -1169,6 +1186,21 @@
   },
   {
     "count": 3,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library",
+      "ReleaseNote",
+      "accessibility"
+    ],
+    "example": {
+      "title": "May 1, 2024 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2024-05-01.html"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "JavaScript",
@@ -1314,21 +1346,6 @@
       "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0"
     },
     "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://www.smashingmagazine.com",
-    "tags": [
-      "Next.js",
-      "article",
-      "webworker",
-      "debug",
-      "browser"
-    ],
-    "example": {
-      "title": "Useful DevTools Tips and Tricks — Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2023/06/popular-devtools-tips/"
-    }
   },
   {
     "count": 3,
@@ -1532,6 +1549,20 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 18.3.0 (April 25, 2024) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/v18.3.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/vercel/swr",
     "tags": [
       "React",
@@ -1585,21 +1616,6 @@
     "example": {
       "title": "Ecma International approves new standards - Ecma International",
       "url": "https://www.ecma-international.org/news/ecma-international-approves-new-standards-at-the-125th-general-assembly-27-june-2023/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote",
-      "accessibility"
-    ],
-    "example": {
-      "title": "December 20, 2023 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2023-12-20.html"
     }
   },
   {
@@ -2381,6 +2397,21 @@
   },
   {
     "count": 2,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "HTML",
+      "CSS",
+      "book"
+    ],
+    "example": {
+      "title": "The Front End Developer/Engineer Handbook 2024",
+      "url": "https://frontendmasters.com/guides/front-end-handbook/2024/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/nodejs/corepack",
     "tags": [
       "nodejs",
@@ -2472,46 +2503,6 @@
     "example": {
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://jqk.life",
-    "tags": [
-      "node.js",
-      "article",
-      "translate"
-    ],
-    "example": {
-      "title": "“Tao of Node - Design, Architecture & Best Practices” 日本語翻訳",
-      "url": "https://jqk.life/tao-of-node-japanese"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tsh.io",
-    "tags": [
-      "Survey",
-      "web ",
-      "JavaScript",
-      "CSS",
-      "document"
-    ],
-    "example": {
-      "title": "The State of Frontend 2022",
-      "url": "https://tsh.io/state-of-frontend/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://fusebit.io",
-    "tags": [
-      "node.js",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js 18 Introduces Prefix-Only Core Modules",
-      "url": "https://fusebit.io/blog/node-18-prefix-only-modules/"
     }
   },
   {
@@ -3093,20 +3084,6 @@
       "url": "https://github.com/preactjs/preact/releases/tag/10.8.0"
     },
     "rssUrl": "https://github.com/preactjs/preact/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 18.2.0 (June 14, 2022) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/v18.2.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 1,
@@ -7586,18 +7563,6 @@
   },
   {
     "count": 1,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Patterns for Reactivity with Modern Vanilla JavaScript | Frontend Masters",
-      "url": "https://frontendmasters.com/blog/vanilla-javascript-reactivity/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/parcel-bundler/watcher",
     "tags": [
       "nodejs",
@@ -9999,6 +9964,56 @@
     "example": {
       "title": "MoonBit adds JS backend, up to 25x faster than native JS | MoonBit",
       "url": "https://www.moonbitlang.com/blog/js-support"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.w3.org",
+    "tags": [
+      "WAI-ARIA",
+      "accessibility",
+      "document"
+    ],
+    "example": {
+      "title": "ARIA Authoring Practices Guide | APG | WAI | W3C",
+      "url": "https://www.w3.org/WAI/ARIA/apg/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jacob-ebey/turbo-stream",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "jacob-ebey/turbo-stream: A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more.",
+      "url": "https://github.com/jacob-ebey/turbo-stream"
+    },
+    "rssUrl": "https://github.com/jacob-ebey/turbo-stream/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://medium.com/@nathanacurtis/",
+    "tags": [
+      "Design",
+      "article",
+      "opinion"
+    ],
+    "example": {
+      "title": "Design System Generations. How to discuss and describe a design… | by Nathan Curtis | Medium",
+      "url": "https://medium.com/@nathanacurtis/design-system-generations-65f99960dc3d"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://dxcriteria.cto-a.org",
+    "tags": [
+      "document"
+    ],
+    "example": {
+      "title": "Webフロントエンド版DX Criteria (v202402)/プロダクトのユーザー体験と変化に適応するチームのためのガイドライン",
+      "url": "https://dxcriteria.cto-a.org/frontend"
     }
   }
 ]

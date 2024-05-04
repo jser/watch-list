@@ -423,6 +423,12 @@
     ]
   },
   {
+    "url": "https://dxcriteria.cto-a.org",
+    "feeds": [
+      "https://dxcriteria.cto-a.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://ecmascript-daily.github.io",
     "feeds": [
       "https://ecmascript-daily.github.io/atom.xml",
@@ -540,6 +546,12 @@
     ]
   },
   {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
@@ -549,12 +561,6 @@
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -705,6 +711,12 @@
     "url": "https://github.com/sverweij/dependency-cruiser",
     "feeds": [
       "https://github.com/sverweij/dependency-cruiser/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
@@ -1029,12 +1041,6 @@
     "url": "https://github.com/preactjs/preact",
     "feeds": [
       "https://github.com/preactjs/preact/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/react",
-    "feeds": [
-      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
@@ -2316,6 +2322,12 @@
     ]
   },
   {
+    "url": "https://github.com/jacob-ebey/turbo-stream",
+    "feeds": [
+      "https://github.com/jacob-ebey/turbo-stream/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2365,13 +2377,6 @@
     "feeds": [
       "https://jestjs.io/blog/rss.xml",
       "https://jestjs.io/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://jqk.life",
-    "feeds": [
-      "https://jqk.life/rss.xml",
-      "https://jqk.life/rss.xml"
     ]
   },
   {
@@ -2499,6 +2504,12 @@
     "url": "https://medium.com/flow-type/",
     "feeds": [
       "https://medium.com/feed/flow-type"
+    ]
+  },
+  {
+    "url": "https://medium.com/@nathanacurtis/",
+    "feeds": [
+      "https://medium.com/feed/@nathanacurtis"
     ]
   },
   {
@@ -2883,13 +2894,6 @@
     ]
   },
   {
-    "url": "https://tsh.io",
-    "feeds": [
-      "https://tsh.io/feed/",
-      "https://tsh.io/comments/feed/"
-    ]
-  },
-  {
     "url": "https://turbo.build",
     "feeds": [
       "https://turbo.build/feed.xml"
@@ -3203,6 +3207,12 @@
     "url": "https://www.totaltypescript.com",
     "feeds": [
       "https://www.totaltypescript.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.w3.org",
+    "feeds": [
+      "https://www.w3.org/WAI/feed.xml"
     ]
   },
   {

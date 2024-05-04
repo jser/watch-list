@@ -423,6 +423,12 @@
     ]
   },
   {
+    "url": "https://dxcriteria.cto-a.org",
+    "feeds": [
+      "https://dxcriteria.cto-a.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://ecmascript-daily.github.io",
     "feeds": [
       "https://ecmascript-daily.github.io/atom.xml",
@@ -562,13 +568,6 @@
     ]
   },
   {
-    "url": "https://jqk.life",
-    "feeds": [
-      "https://jqk.life/rss.xml",
-      "https://jqk.life/rss.xml"
-    ]
-  },
-  {
     "url": "https://jrsinclair.com",
     "feeds": [
       "https://jrsinclair.com/index.rss"
@@ -693,6 +692,12 @@
     "url": "https://medium.com/flow-type/",
     "feeds": [
       "https://medium.com/feed/flow-type"
+    ]
+  },
+  {
+    "url": "https://medium.com/@nathanacurtis/",
+    "feeds": [
+      "https://medium.com/feed/@nathanacurtis"
     ]
   },
   {
@@ -1071,13 +1076,6 @@
     ]
   },
   {
-    "url": "https://tsh.io",
-    "feeds": [
-      "https://tsh.io/feed/",
-      "https://tsh.io/comments/feed/"
-    ]
-  },
-  {
     "url": "https://turbo.build",
     "feeds": [
       "https://turbo.build/feed.xml"
@@ -1385,6 +1383,12 @@
     "url": "https://www.totaltypescript.com",
     "feeds": [
       "https://www.totaltypescript.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.w3.org",
+    "feeds": [
+      "https://www.w3.org/WAI/feed.xml"
     ]
   },
   {

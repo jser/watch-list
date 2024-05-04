@@ -71,6 +71,7 @@
 <outline text="devtoolstips.org" title="devtoolstips.org" type="rss" xmlUrl="https://devtoolstips.org/feed.xml"/>
 <outline text="docusaurus.io" title="docusaurus.io" type="rss" xmlUrl="https://docusaurus.io/blog/rss.xml"/>
 <outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
+<outline text="dxcriteria.cto-a.org" title="dxcriteria.cto-a.org" type="rss" xmlUrl="https://dxcriteria.cto-a.org/feed.xml"/>
 <outline text="ecmascript-daily.github.io" title="ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
 <outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
@@ -93,7 +94,6 @@
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
 <outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
-<outline text="jqk.life" title="jqk.life" type="rss" xmlUrl="https://jqk.life/rss.xml"/>
 <outline text="jrsinclair.com" title="jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
 <outline text="katainaka0503.hatenablog.com" title="katainaka0503.hatenablog.com" type="rss" xmlUrl="https://katainaka0503.hatenablog.com/feed"/>
 <outline text="katashin.info" title="katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>
@@ -114,6 +114,7 @@
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/miro-engineering/" title="medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
 <outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>
+<outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
 <outline text="mmazzarolo.com" title="mmazzarolo.com" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml"/>
 <outline text="moderncss.dev" title="moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
@@ -172,7 +173,6 @@
 <outline text="timkadlec.com" title="timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/remembers/atom.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
 <outline text="trpc.io" title="trpc.io" type="rss" xmlUrl="https://trpc.io/blog/rss.xml"/>
-<outline text="tsh.io" title="tsh.io" type="rss" xmlUrl="https://tsh.io/feed/"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
 <outline text="typescript-eslint.io" title="typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>
 <outline text="unicorn-utterances.com" title="unicorn-utterances.com" type="rss" xmlUrl="https://unicorn-utterances.com/atom.xml"/>
@@ -220,6 +220,7 @@
 <outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
 <outline text="www.sonarsource.com" title="www.sonarsource.com" type="rss" xmlUrl="https://www.sonarsource.com/rss.xml"/>
 <outline text="www.totaltypescript.com" title="www.totaltypescript.com" type="rss" xmlUrl="https://www.totaltypescript.com/rss.xml"/>
+<outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.wantedly.com" title="www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"/>
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
