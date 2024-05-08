@@ -194,7 +194,7 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -205,8 +205,8 @@
       "esbuild"
     ],
     "example": {
-      "title": "Release v0.20.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.20.0"
+      "title": "Release v0.21.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.0"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
@@ -1470,22 +1470,6 @@
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://www.radix-ui.com",
-    "tags": [
-      "UI",
-      "React",
-      "library",
-      "accessibility",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Radix Themes 3.0 – Radix UI",
-      "url": "https://www.radix-ui.com/blog/themes-3"
-    }
   },
   {
     "count": 2,
@@ -10020,6 +10004,20 @@
     "example": {
       "title": "React Server Components now in RedwoodJS | RedwoodJS",
       "url": "https://redwoodjs.com/blog/rsc-now-in-redwoodjs"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.radix-ui.com",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Radix Themes 3.0 – Radix UI",
+      "url": "https://www.radix-ui.com/blog/themes-3"
     }
   },
   {
