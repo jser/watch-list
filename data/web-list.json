@@ -252,6 +252,23 @@
   },
   {
     "count": 11,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "cloudflare",
+      "library",
+      "JavaScript",
+      "server",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.3.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.3.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 11,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -309,23 +326,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.37.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "cloudflare",
-      "library",
-      "JavaScript",
-      "server",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.1.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.1.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 10,
@@ -391,6 +391,23 @@
   },
   {
     "count": 9,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "library",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v1.6.0 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.6.0"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 9,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -447,22 +464,6 @@
     "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
-    "count": 8,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "library",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v1.0.0 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.0.0"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
     "count": 7,
     "url": "https://github.com/npm/cli",
     "tags": [
@@ -474,22 +475,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 6,
-    "url": "https://github.com/lerna/lerna",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "news",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · lerna/lerna",
-      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
   },
   {
     "count": 6,
@@ -652,6 +637,21 @@
       "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
     },
     "rssUrl": "https://babeljs.io/blog/rss.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/lerna/lerna",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "ReleaseNote",
+      "Tools"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · lerna/lerna",
+      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
   },
   {
     "count": 5,
@@ -2547,6 +2547,20 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/morinokami/",
+    "tags": [
+      "astro",
+      "article",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
+      "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
+    },
+    "rssUrl": "https://zenn.dev/morinokami/feed"
   },
   {
     "count": 2,
@@ -8971,19 +8985,6 @@
       "url": "https://quick-lint-js.com/blog/version-3.0/"
     },
     "rssUrl": "https://quick-lint-js.com/blog/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/morinokami/",
-    "tags": [
-      "astro",
-      "article"
-    ],
-    "example": {
-      "title": "Astro ゆく年くる年",
-      "url": "https://zenn.dev/morinokami/articles/astro-2023-2024"
-    },
-    "rssUrl": "https://zenn.dev/morinokami/feed"
   },
   {
     "count": 1,

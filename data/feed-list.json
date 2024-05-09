@@ -528,15 +528,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -546,15 +546,15 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -564,15 +564,15 @@
     ]
   },
   {
-    "url": "https://github.com/lerna/lerna",
-    "feeds": [
-      "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
     ]
   },
   {
@@ -3291,6 +3291,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/dajiaji/",
     "feeds": [
       "https://zenn.dev/dajiaji/feed"
@@ -3396,12 +3402,6 @@
     "url": "https://zenn.dev/urotea/",
     "feeds": [
       "https://zenn.dev/urotea/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
     ]
   },
   {
