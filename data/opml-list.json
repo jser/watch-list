@@ -821,12 +821,6 @@
     ]
   },
   {
-    "url": "https://quramy.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@quramy"
-    ]
-  },
-  {
     "url": "https://react.dev",
     "feeds": [
       "https://react.dev/rss.xml"
@@ -893,6 +887,13 @@
     "url": "https://serpapi.com",
     "feeds": [
       "https://serpapi.com/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://shisama.hatenablog.com",
+    "feeds": [
+      "https://shisama.hatenablog.com/feed",
+      "https://shisama.hatenablog.com/rss"
     ]
   },
   {

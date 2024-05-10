@@ -876,18 +876,6 @@
     ]
   },
   {
-    "url": "https://github.com/httptoolkit/mockrtc",
-    "feeds": [
-      "https://github.com/httptoolkit/mockrtc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/yisibl/resvg-js",
-    "feeds": [
-      "https://github.com/yisibl/resvg-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/kawamataryo/suppress-ts-errors",
     "feeds": [
       "https://github.com/kawamataryo/suppress-ts-errors/releases.atom"
@@ -2633,12 +2621,6 @@
     ]
   },
   {
-    "url": "https://quramy.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@quramy"
-    ]
-  },
-  {
     "url": "https://react.dev",
     "feeds": [
       "https://react.dev/rss.xml"
@@ -2711,6 +2693,13 @@
     "url": "https://serpapi.com",
     "feeds": [
       "https://serpapi.com/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://shisama.hatenablog.com",
+    "feeds": [
+      "https://shisama.hatenablog.com/feed",
+      "https://shisama.hatenablog.com/rss"
     ]
   },
   {

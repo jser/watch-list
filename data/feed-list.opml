@@ -146,8 +146,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/httptoolkit/mockrtc" title="github.com/httptoolkit/mockrtc" type="rss" xmlUrl="https://github.com/httptoolkit/mockrtc/releases.atom"/>
-<outline text="github.com/yisibl/resvg-js" title="github.com/yisibl/resvg-js" type="rss" xmlUrl="https://github.com/yisibl/resvg-js/releases.atom"/>
 <outline text="github.com/kawamataryo/suppress-ts-errors" title="github.com/kawamataryo/suppress-ts-errors" type="rss" xmlUrl="https://github.com/kawamataryo/suppress-ts-errors/releases.atom"/>
 <outline text="github.com/yarnpkg/yarn" title="github.com/yarnpkg/yarn" type="rss" xmlUrl="https://github.com/yarnpkg/yarn/releases.atom"/>
 <outline text="github.com/i-net-software/JWebAssembly" title="github.com/i-net-software/JWebAssembly" type="rss" xmlUrl="https://github.com/i-net-software/JWebAssembly/releases.atom"/>
@@ -436,7 +434,6 @@
 <outline text="prateeksurana.me" title="prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="quick-lint-js.com" title="quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
-<outline text="quramy.medium.com" title="quramy.medium.com" type="rss" xmlUrl="https://medium.com/feed/@quramy"/>
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
@@ -449,6 +446,7 @@
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>
 <outline text="semaphoreci.com" title="semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
 <outline text="serpapi.com" title="serpapi.com" type="rss" xmlUrl="https://serpapi.com/blog/rss/"/>
+<outline text="shisama.hatenablog.com" title="shisama.hatenablog.com" type="rss" xmlUrl="https://shisama.hatenablog.com/feed"/>
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="sindresorhus.com" title="sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
