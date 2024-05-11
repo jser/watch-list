@@ -1,6 +1,6 @@
 [
   {
-    "count": 57,
+    "count": 58,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.1.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.1.0"
+      "title": "Node.js — Node v20.13.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v20.13.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -175,7 +175,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -188,8 +188,8 @@
       "article"
     ],
     "example": {
-      "title": "Migrating 500+ tests from Mocha to Node.js | Astro",
-      "url": "https://astro.build/blog/node-test-migration/"
+      "title": "Astro 4.8 | Astro",
+      "url": "https://astro.build/blog/astro-480/"
     },
     "rssUrl": "https://astro.build/rss.xml"
   },
@@ -252,6 +252,23 @@
   },
   {
     "count": 11,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "browser",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "playwright"
+    ],
+    "example": {
+      "title": "Release v1.44.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.44.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 11,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "cloudflare",
@@ -309,23 +326,6 @@
       "url": "https://blog.cloudflare.com/workers-vitest-integration/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "browser",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "playwright"
-    ],
-    "example": {
-      "title": "Release v1.37.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.37.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 10,
@@ -1456,20 +1456,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/puppeteer/puppeteer",
-    "tags": [
-      "puppeteer",
-      "ReleaseNote",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Release v16.0.0 · puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer/releases/tag/v16.0.0"
-    },
-    "rssUrl": "https://github.com/puppeteer/puppeteer/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/ghiscoding/lerna-lite",
     "tags": [
       "JavaScript",
@@ -2186,6 +2172,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/mswjs/msw",
+    "tags": [
+      "ServiceWorker",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v2.3.0 · mswjs/msw",
+      "url": "https://github.com/mswjs/msw/releases/tag/v2.3.0"
+    },
+    "rssUrl": "https://github.com/mswjs/msw/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/kaleidawave/ezno",
     "tags": [
       "TypeScript",
@@ -2577,20 +2579,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/kawamataryo/suppress-ts-errors",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Vue"
-    ],
-    "example": {
-      "title": "kawamataryo/suppress-ts-errors: CLI tool to add comments to suppress type errors in TypeScript",
-      "url": "https://github.com/kawamataryo/suppress-ts-errors"
-    },
-    "rssUrl": "https://github.com/kawamataryo/suppress-ts-errors/releases.atom"
   },
   {
     "count": 1,
@@ -3793,6 +3781,19 @@
       "url": "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0"
     },
     "rssUrl": "https://docusaurus.io/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/puppeteer/puppeteer",
+    "tags": [
+      "puppeteer",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v16.0.0 · puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer/releases/tag/v16.0.0"
+    },
+    "rssUrl": "https://github.com/puppeteer/puppeteer/releases.atom"
   },
   {
     "count": 1,
@@ -5667,20 +5668,6 @@
       "url": "https://github.com/cyclic-software/s3fs"
     },
     "rssUrl": "https://github.com/cyclic-software/s3fs/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mswjs/msw",
-    "tags": [
-      "ServiceWorker",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.0.0 · mswjs/msw",
-      "url": "https://github.com/mswjs/msw/releases/tag/v1.0.0"
-    },
-    "rssUrl": "https://github.com/mswjs/msw/releases.atom"
   },
   {
     "count": 1,
@@ -10209,5 +10196,17 @@
       "url": "https://dxcriteria.cto-a.org/frontend"
     },
     "rssUrl": "https://dxcriteria.cto-a.org/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/knowledgework/",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "TypeScript の型検査にかかる時間を短縮した話",
+      "url": "https://zenn.dev/knowledgework/articles/speedup-typecheck"
+    }
   }
 ]

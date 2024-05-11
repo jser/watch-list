@@ -528,15 +528,15 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -678,12 +678,6 @@
     ]
   },
   {
-    "url": "https://github.com/puppeteer/puppeteer",
-    "feeds": [
-      "https://github.com/puppeteer/puppeteer/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ghiscoding/lerna-lite",
     "feeds": [
       "https://github.com/ghiscoding/lerna-lite/releases.atom"
@@ -804,6 +798,12 @@
     ]
   },
   {
+    "url": "https://github.com/mswjs/msw",
+    "feeds": [
+      "https://github.com/mswjs/msw/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/kaleidawave/ezno",
     "feeds": [
       "https://github.com/kaleidawave/ezno/releases.atom"
@@ -873,12 +873,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/kawamataryo/suppress-ts-errors",
-    "feeds": [
-      "https://github.com/kawamataryo/suppress-ts-errors/releases.atom"
     ]
   },
   {
@@ -1179,6 +1173,12 @@
     "url": "https://github.com/ehmicky/safe-json-value",
     "feeds": [
       "https://github.com/ehmicky/safe-json-value/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/puppeteer/puppeteer",
+    "feeds": [
+      "https://github.com/puppeteer/puppeteer/releases.atom"
     ]
   },
   {
@@ -1545,12 +1545,6 @@
     "url": "https://github.com/cyclic-software/s3fs",
     "feeds": [
       "https://github.com/cyclic-software/s3fs/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mswjs/msw",
-    "feeds": [
-      "https://github.com/mswjs/msw/releases.atom"
     ]
   },
   {
