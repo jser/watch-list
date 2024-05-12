@@ -22,18 +22,16 @@
     }
   },
   {
-    "count": 42,
+    "count": 40,
     "url": "https://developer.chrome.com",
     "tags": [
-      "privacy",
-      "Chrome",
-      "translate",
-      "performance",
-      "article",
       "CSS",
+      "article",
       "アンケート",
       "browser",
+      "Chrome",
       "ReleaseNote",
+      "performance",
       "JavaScript",
       "debug",
       "Tools",
@@ -128,12 +126,11 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
-      "CSS",
-      "article",
       "browser",
+      "article",
       "Chrome",
       "performance",
       "HTML",
@@ -145,6 +142,7 @@
       "debug",
       "Extension",
       "JavaScript",
+      "CSS",
       "testing",
       "nodejs",
       "WebPlatformAPI"
@@ -294,33 +292,6 @@
   },
   {
     "count": 10,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "ReleaseNote",
-      "WebAssembly",
-      "article",
-      "C++",
-      "puppeteer",
-      "node.js",
-      "console",
-      "Tools",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test"
-    ],
-    "example": {
-      "title": "Improved Cloudflare Workers testing via Vitest and workerd",
-      "url": "https://blog.cloudflare.com/workers-vitest-integration/"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -376,6 +347,33 @@
     "example": {
       "title": "Electron 30.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-30-0"
+    }
+  },
+  {
+    "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "WebAssembly",
+      "article",
+      "ReleaseNote",
+      "C++",
+      "puppeteer",
+      "node.js",
+      "console",
+      "Tools",
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test"
+    ],
+    "example": {
+      "title": "Improved Cloudflare Workers testing via Vitest and workerd",
+      "url": "https://blog.cloudflare.com/workers-vitest-integration/"
     }
   },
   {
@@ -1407,22 +1405,6 @@
       "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/ghiscoding/lerna-lite",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "npm"
-    ],
-    "example": {
-      "title": "Release v1.5.0 · ghiscoding/lerna-lite",
-      "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.5.0"
-    },
-    "rssUrl": "https://github.com/ghiscoding/lerna-lite/releases.atom"
   },
   {
     "count": 2,
@@ -2505,32 +2487,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/yarnpkg/yarn",
-    "tags": [
-      "yarn",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.22.19 · yarnpkg/yarn",
-      "url": "https://github.com/yarnpkg/yarn/releases/tag/v1.22.19"
-    },
-    "rssUrl": "https://github.com/yarnpkg/yarn/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://javascriptdb.com",
-    "tags": [
-      "JavaScript",
-      "SQLite",
-      "library"
-    ],
-    "example": {
-      "title": "JavascriptDB",
-      "url": "https://javascriptdb.com/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/i-net-software/JWebAssembly",
     "tags": [
       "Java",
@@ -2944,6 +2900,20 @@
       "url": "https://github.com/cyco130/vavite"
     },
     "rssUrl": "https://github.com/cyco130/vavite/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ghiscoding/lerna-lite",
+    "tags": [
+      "JavaScript",
+      "npm",
+      "Tools"
+    ],
+    "example": {
+      "title": "Release v1.5.0 · ghiscoding/lerna-lite",
+      "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.5.0"
+    },
+    "rssUrl": "https://github.com/ghiscoding/lerna-lite/releases.atom"
   },
   {
     "count": 1,
@@ -9957,5 +9927,18 @@
       "title": "TypeScript の型検査にかかる時間を短縮した話",
       "url": "https://zenn.dev/knowledgework/articles/speedup-typecheck"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sindresorhus/execa",
+    "tags": [
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.0.0 · sindresorhus/execa",
+      "url": "https://github.com/sindresorhus/execa/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/sindresorhus/execa/releases.atom"
   }
 ]

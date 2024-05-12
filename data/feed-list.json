@@ -678,12 +678,6 @@
     ]
   },
   {
-    "url": "https://github.com/ghiscoding/lerna-lite",
-    "feeds": [
-      "https://github.com/ghiscoding/lerna-lite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
@@ -876,12 +870,6 @@
     ]
   },
   {
-    "url": "https://github.com/yarnpkg/yarn",
-    "feeds": [
-      "https://github.com/yarnpkg/yarn/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/i-net-software/JWebAssembly",
     "feeds": [
       "https://github.com/i-net-software/JWebAssembly/releases.atom"
@@ -999,6 +987,12 @@
     "url": "https://github.com/cyco130/vavite",
     "feeds": [
       "https://github.com/cyco130/vavite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ghiscoding/lerna-lite",
+    "feeds": [
+      "https://github.com/ghiscoding/lerna-lite/releases.atom"
     ]
   },
   {
@@ -2307,6 +2301,12 @@
     "url": "https://github.com/jacob-ebey/turbo-stream",
     "feeds": [
       "https://github.com/jacob-ebey/turbo-stream/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/sindresorhus/execa",
+    "feeds": [
+      "https://github.com/sindresorhus/execa/releases.atom"
     ]
   },
   {
