@@ -2310,6 +2310,12 @@
     ]
   },
   {
+    "url": "https://github.com/jasonkuhrt/graphql-request",
+    "feeds": [
+      "https://github.com/jasonkuhrt/graphql-request/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2384,6 +2390,12 @@
     "url": "https://kentcdodds.com",
     "feeds": [
       "https://kentcdodds.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://kettanaito.com",
+    "feeds": [
+      "https://kettanaito.com/blog/rss.xml"
     ]
   },
   {
@@ -2967,6 +2979,16 @@
     ]
   },
   {
+    "url": "https://www.bram.us",
+    "feeds": [
+      "https://www.bram.us/feed/",
+      "https://www.bram.us/comments/feed/",
+      "https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/feed/",
+      "https://www.bram.us/category/original-content/feed/",
+      "https://www.bram.us/category/elsewhere/feed/"
+    ]
+  },
+  {
     "url": "https://www.browsercat.com",
     "feeds": [
       "https://www.browsercat.com/feed/posts.rss.xml",
@@ -2982,6 +3004,12 @@
     "feeds": [
       "https://www.builder.io/blog/feed.xml",
       "https://www.builder.io/blog/feed.atom"
+    ]
+  },
+  {
+    "url": "https://www.checklyhq.com",
+    "feeds": [
+      "https://www.checklyhq.com/rss.xml"
     ]
   },
   {
