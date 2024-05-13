@@ -22,6 +22,27 @@
     }
   },
   {
+    "count": 41,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bundler",
+      "article",
+      "CommonJS",
+      "ECMAScript",
+      "module",
+      "yarn",
+      "npm",
+      "TypeScript",
+      "windows"
+    ],
+    "example": {
+      "title": "Bun v1.1.8 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.8"
+    }
+  },
+  {
     "count": 40,
     "url": "https://developer.chrome.com",
     "tags": [
@@ -45,27 +66,6 @@
     "example": {
       "title": "Chrome 124  |  Release notes  |  Chrome for Developers",
       "url": "https://developer.chrome.com/release-notes/124"
-    }
-  },
-  {
-    "count": 40,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bundler",
-      "article",
-      "CommonJS",
-      "ECMAScript",
-      "module",
-      "yarn",
-      "npm",
-      "TypeScript",
-      "windows"
-    ],
-    "example": {
-      "title": "Bun v1.1.5 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.5"
     }
   },
   {
@@ -449,19 +449,6 @@
     "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
-    "count": 7,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
     "count": 6,
     "url": "https://docs.google.com",
     "tags": [
@@ -485,6 +472,19 @@
       "title": "State of Vite (ViteConf 2023) - Google スライド",
       "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
     }
+  },
+  {
+    "count": 6,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 6,
@@ -1058,6 +1058,21 @@
     "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   },
   {
+    "count": 4,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "UI",
+      "React"
+    ],
+    "example": {
+      "title": "Headless UI v2.0 for React - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/headless-ui-v2"
+    }
+  },
+  {
     "count": 3,
     "url": "https://github.com/capricorn86/happy-dom",
     "tags": [
@@ -1389,21 +1404,6 @@
     "example": {
       "title": "MDN Curriculum",
       "url": "https://developer.mozilla.org/en-US/curriculum/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "UI",
-      "React"
-    ],
-    "example": {
-      "title": "Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     }
   },
   {
@@ -9940,5 +9940,58 @@
       "url": "https://github.com/sindresorhus/execa/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/sindresorhus/execa/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.bram.us",
+    "tags": [
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "Misconceptions about CSS Specificity – Bram.us",
+      "url": "https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.checklyhq.com",
+    "tags": [
+      "browser",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Monitor Third-Party Resources that Impact UX with Playwright",
+      "url": "https://www.checklyhq.com/blog/how-playwright-can-monitor-third-party-resources/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jasonkuhrt/graphql-request",
+    "tags": [
+      "GraphQL",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · jasonkuhrt/graphql-request",
+      "url": "https://github.com/jasonkuhrt/graphql-request/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/jasonkuhrt/graphql-request/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://kettanaito.com",
+    "tags": [
+      "Fetch",
+      "JavaScript",
+      "article",
+      "opinion"
+    ],
+    "example": {
+      "title": "Why Patching Globals Is Harmful - kettanaito.com",
+      "url": "https://kettanaito.com/blog/why-patching-globals-is-harmful"
+    }
   }
 ]
