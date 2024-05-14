@@ -115,7 +115,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 26,
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -159,21 +159,6 @@
   },
   {
     "count": 17,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "npm",
-      "performance"
-    ],
-    "example": {
-      "title": "Release v9.0.0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -190,6 +175,21 @@
       "url": "https://astro.build/blog/astro-480/"
     },
     "rssUrl": "https://astro.build/rss.xml"
+  },
+  {
+    "count": 16,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "npm",
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release v9.0.0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 15,
@@ -247,23 +247,6 @@
       "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 11,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "browser",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "playwright"
-    ],
-    "example": {
-      "title": "Release v1.44.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.44.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -344,6 +327,23 @@
       "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "JavaScript",
+      "browser",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "playwright"
+    ],
+    "example": {
+      "title": "Release v1.44.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.44.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 10,
@@ -871,23 +871,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/solidjs/solid",
-    "tags": [
-      "JavaScript",
-      "library",
-      "DOM",
-      "ReleaseNote",
-      "React",
-      "Solid"
-    ],
-    "example": {
-      "title": "Release v1.8.0 - Bifröst · solidjs/solid",
-      "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
-    },
-    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://parceljs.org",
     "tags": [
       "JavaScript",
@@ -1289,6 +1272,23 @@
       "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0"
     },
     "rssUrl": "https://github.com/cloudflare/miniflare/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/solidjs/solid",
+    "tags": [
+      "JavaScript",
+      "library",
+      "DOM",
+      "ReleaseNote",
+      "React",
+      "Solid"
+    ],
+    "example": {
+      "title": "Release v1.8.0 - Bifröst · solidjs/solid",
+      "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
   },
   {
     "count": 3,
@@ -2561,61 +2561,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/i-net-software/JWebAssembly",
-    "tags": [
-      "Java",
-      "WebAssembly"
-    ],
-    "example": {
-      "title": "i-net-software/JWebAssembly: Java bytecode to WebAssembly compiler",
-      "url": "https://github.com/i-net-software/JWebAssembly"
-    },
-    "rssUrl": "https://github.com/i-net-software/JWebAssembly/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/wooorm/starry-night",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "wooorm/starry-night: Syntax highlighting, like GitHub",
-      "url": "https://github.com/wooorm/starry-night"
-    },
-    "rssUrl": "https://github.com/wooorm/starry-night/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/dflex-js/dflex",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "dflex-js/dflex: The sophisticated Drag and Drop library you've been waiting for 🥳",
-      "url": "https://github.com/dflex-js/dflex"
-    },
-    "rssUrl": "https://github.com/dflex-js/dflex/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://engineering.fb.com",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "OpenSource",
-      "article",
-      "news"
-    ],
-    "example": {
-      "title": "Meta Open Source is transferring Jest to the OpenJS Foundation",
-      "url": "https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/"
-    },
-    "rssUrl": "https://code.facebook.com/posts/rss/"
   },
   {
     "count": 1,
