@@ -460,12 +460,6 @@
     ]
   },
   {
-    "url": "https://engineering.fb.com",
-    "feeds": [
-      "https://code.facebook.com/posts/rss/"
-    ]
-  },
-  {
     "url": "https://engineering.linecorp.com",
     "feeds": [
       "https://engineering.linecorp.com/en"
@@ -528,12 +522,6 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
@@ -543,6 +531,12 @@
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -573,12 +567,6 @@
     "url": "https://github.com/lerna/lerna",
     "feeds": [
       "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/solidjs/solid",
-    "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
@@ -657,6 +645,12 @@
     "url": "https://github.com/cloudflare/miniflare",
     "feeds": [
       "https://github.com/cloudflare/miniflare/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
@@ -867,24 +861,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/i-net-software/JWebAssembly",
-    "feeds": [
-      "https://github.com/i-net-software/JWebAssembly/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/wooorm/starry-night",
-    "feeds": [
-      "https://github.com/wooorm/starry-night/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/dflex-js/dflex",
-    "feeds": [
-      "https://github.com/dflex-js/dflex/releases.atom"
     ]
   },
   {

@@ -460,12 +460,6 @@
     ]
   },
   {
-    "url": "https://engineering.fb.com",
-    "feeds": [
-      "https://code.facebook.com/posts/rss/"
-    ]
-  },
-  {
     "url": "https://engineering.linecorp.com",
     "feeds": [
       "https://engineering.linecorp.com/en"
