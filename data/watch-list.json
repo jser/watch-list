@@ -69,7 +69,7 @@
     }
   },
   {
-    "count": 30,
+    "count": 31,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -85,8 +85,8 @@
       "performance"
     ],
     "example": {
-      "title": "Optimizing WebKit & Safari for Speedometer 3.0 | WebKit",
-      "url": "https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/"
+      "title": "WebKit Features in Safari 17.5 | WebKit",
+      "url": "https://webkit.org/blog/15383/webkit-features-in-safari-17-5/"
     }
   },
   {
@@ -203,15 +203,15 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 125.0.1, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/125.0.1/releasenotes/"
+      "title": "Firefox 126.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/126.0/releasenotes/"
     }
   },
   {
