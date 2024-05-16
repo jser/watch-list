@@ -1161,6 +1161,12 @@
     ]
   },
   {
+    "url": "https://www.angulararchitects.io",
+    "feeds": [
+      "https://www.angulararchitects.io/sample-page/feed/"
+    ]
+  },
+  {
     "url": "https://www.apollographql.com",
     "feeds": [
       "https://www.apollographql.com/blog/rss.xml"

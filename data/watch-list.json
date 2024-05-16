@@ -69,7 +69,7 @@
     }
   },
   {
-    "count": 31,
+    "count": 30,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -538,6 +538,24 @@
   },
   {
     "count": 6,
+    "url": "https://remix.run",
+    "tags": [
+      "React",
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "Remix",
+      "article",
+      "vite",
+      "document"
+    ],
+    "example": {
+      "title": "Merging Remix and React Router | Remix",
+      "url": "https://remix.run/blog/merging-remix-and-react-router"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "Next.js",
@@ -758,24 +776,6 @@
     "example": {
       "title": "Qwik Reaches v1.0",
       "url": "https://www.builder.io/blog/qwik-v1"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "Remix",
-      "article",
-      "vite",
-      "document"
-    ],
-    "example": {
-      "title": "Remix Vite is Now Stable | Remix",
-      "url": "https://remix.run/blog/remix-vite-stable"
     }
   },
   {
@@ -9938,6 +9938,18 @@
     "example": {
       "title": "Why Patching Globals Is Harmful - kettanaito.com",
       "url": "https://kettanaito.com/blog/why-patching-globals-is-harmful"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.angulararchitects.io",
+    "tags": [
+      "Angular",
+      "article"
+    ],
+    "example": {
+      "title": "Angular 17 Update: Control Flow & App Builder Migration - ANGULARarchitects",
+      "url": "https://www.angulararchitects.io/blog/angular-17-update-control-flow-app-builder-migration/"
     }
   }
 ]
