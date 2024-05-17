@@ -864,18 +864,6 @@
     ]
   },
   {
-    "url": "https://github.com/alan2207/bulletproof-react",
-    "feeds": [
-      "https://github.com/alan2207/bulletproof-react/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/esbuild-kit/tsx",
-    "feeds": [
-      "https://github.com/esbuild-kit/tsx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/markdoc/markdoc",
     "feeds": [
       "https://github.com/markdoc/markdoc/releases.atom"
@@ -2708,13 +2696,6 @@
     "feeds": [
       "https://softwaremill.com/blog.atom",
       "https://softwaremill.com/blog.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/mizchi/",
-    "feeds": [
-      "https://speakerdeck.com/mizchi.atom",
-      "https://speakerdeck.com/mizchi.rss"
     ]
   },
   {
