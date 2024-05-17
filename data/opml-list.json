@@ -923,13 +923,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/mizchi/",
-    "feeds": [
-      "https://speakerdeck.com/mizchi.atom",
-      "https://speakerdeck.com/mizchi.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/nichimu/",
     "feeds": [
       "https://speakerdeck.com/nichimu.atom",

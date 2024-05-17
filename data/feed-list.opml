@@ -144,8 +144,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/alan2207/bulletproof-react" title="github.com/alan2207/bulletproof-react" type="rss" xmlUrl="https://github.com/alan2207/bulletproof-react/releases.atom"/>
-<outline text="github.com/esbuild-kit/tsx" title="github.com/esbuild-kit/tsx" type="rss" xmlUrl="https://github.com/esbuild-kit/tsx/releases.atom"/>
 <outline text="github.com/markdoc/markdoc" title="github.com/markdoc/markdoc" type="rss" xmlUrl="https://github.com/markdoc/markdoc/releases.atom"/>
 <outline text="github.com/MithrilJS/mithril.js" title="github.com/MithrilJS/mithril.js" type="rss" xmlUrl="https://github.com/MithrilJS/mithril.js/releases.atom"/>
 <outline text="github.com/nvh95/jest-preview" title="github.com/nvh95/jest-preview" type="rss" xmlUrl="https://github.com/nvh95/jest-preview/releases.atom"/>
@@ -448,7 +446,6 @@
 <outline text="sindresorhus.com" title="sindresorhus.com" type="rss" xmlUrl="https://sindresorhus.com/rss.xml"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
-<outline text="speakerdeck.com/mizchi/" title="speakerdeck.com/mizchi/" type="rss" xmlUrl="https://speakerdeck.com/mizchi.atom"/>
 <outline text="speakerdeck.com/nichimu/" title="speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
 <outline text="speakerdeck.com/sadnessojisan/" title="speakerdeck.com/sadnessojisan/" type="rss" xmlUrl="https://speakerdeck.com/sadnessojisan.atom"/>
 <outline text="speakerdeck.com/kazupon/" title="speakerdeck.com/kazupon/" type="rss" xmlUrl="https://speakerdeck.com/kazupon.atom"/>

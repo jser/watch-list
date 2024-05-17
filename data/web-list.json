@@ -1,6 +1,6 @@
 [
   {
-    "count": 58,
+    "count": 59,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v20.13.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v20.13.0"
+      "title": "Node.js — Node v22.2.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.2.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -72,28 +72,6 @@
   },
   {
     "count": 30,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "webkit",
-      "CSS",
-      "article",
-      "serverless",
-      "アンケート",
-      "JavaScript",
-      "browser",
-      "benchmark",
-      "performance"
-    ],
-    "example": {
-      "title": "WebKit Features in Safari 17.5 | WebKit",
-      "url": "https://webkit.org/blog/15383/webkit-features-in-safari-17-5/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 30,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -113,6 +91,28 @@
       "url": "https://deno.com/blog/how-we-built-jsr"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 29,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "webkit",
+      "CSS",
+      "article",
+      "serverless",
+      "アンケート",
+      "JavaScript",
+      "browser",
+      "benchmark",
+      "performance"
+    ],
+    "example": {
+      "title": "WebKit Features in Safari 17.5 | WebKit",
+      "url": "https://webkit.org/blog/15383/webkit-features-in-safari-17-5/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 25,
@@ -463,31 +463,6 @@
   },
   {
     "count": 6,
-    "url": "https://docs.google.com",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "CSS",
-      "slide",
-      "npm",
-      "security",
-      "browser",
-      "Chrome",
-      "spec",
-      "document",
-      "testing",
-      "vite",
-      "Rust",
-      "rollup",
-      "bundler"
-    ],
-    "example": {
-      "title": "State of Vite (ViteConf 2023) - Google スライド",
-      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -806,6 +781,29 @@
       "url": "https://www.builder.io/blog/qwik-v1"
     },
     "rssUrl": "https://www.builder.io/blog/feed.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://docs.google.com",
+    "tags": [
+      "npm",
+      "security",
+      "slide",
+      "browser",
+      "Chrome",
+      "spec",
+      "document",
+      "JavaScript",
+      "testing",
+      "vite",
+      "Rust",
+      "rollup",
+      "bundler"
+    ],
+    "example": {
+      "title": "State of Vite (ViteConf 2023) - Google スライド",
+      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
+    }
   },
   {
     "count": 5,
@@ -2561,49 +2559,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/alan2207/bulletproof-react",
-    "tags": [
-      "React",
-      "architecture",
-      "document"
-    ],
-    "example": {
-      "title": "alan2207/bulletproof-react: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
-      "url": "https://github.com/alan2207/bulletproof-react"
-    },
-    "rssUrl": "https://github.com/alan2207/bulletproof-react/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/mizchi/",
-    "tags": [
-      "JavaScript",
-      "performance",
-      "slide"
-    ],
-    "example": {
-      "title": "バンドル最適化マニアクス at tfconf - Speaker Deck",
-      "url": "https://speakerdeck.com/mizchi/bandoruzui-shi-hua-maniakusu-at-tfconf"
-    },
-    "rssUrl": "https://speakerdeck.com/mizchi.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/esbuild-kit/tsx",
-    "tags": [
-      "TypeScript",
-      "jsx",
-      "node.js",
-      "library"
-    ],
-    "example": {
-      "title": "esbuild-kit/tsx: Node.js runtime enhanced with esbuild for loading TypeScript & ESM",
-      "url": "https://github.com/esbuild-kit/tsx"
-    },
-    "rssUrl": "https://github.com/esbuild-kit/tsx/releases.atom"
   },
   {
     "count": 1,
@@ -10205,5 +10160,17 @@
       "url": "https://www.angulararchitects.io/blog/angular-17-update-control-flow-app-builder-migration/"
     },
     "rssUrl": "https://www.angulararchitects.io/sample-page/feed/"
+  },
+  {
+    "count": 1,
+    "url": "https://webstatus.dev",
+    "tags": [
+      "browser",
+      "webservice"
+    ],
+    "example": {
+      "title": "Web Platform Status",
+      "url": "https://webstatus.dev/"
+    }
   }
 ]
