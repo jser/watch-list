@@ -484,6 +484,12 @@
     ]
   },
   {
+    "url": "https://firebase.blog",
+    "feeds": [
+      "https://firebase.blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://fosdem.org",
     "feeds": [
       "https://fosdem.org/2024/atom.xml",
@@ -1163,6 +1169,12 @@
     "url": "https://www.apollographql.com",
     "feeds": [
       "https://www.apollographql.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.assetnote.io",
+    "feeds": [
+      "https://www.assetnote.io/resources/research/rss.xml"
     ]
   },
   {

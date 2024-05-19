@@ -172,6 +172,23 @@
   },
   {
     "count": 16,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "Tools",
+      "ReleaseNote",
+      "CSS",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.21.3 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.3"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 16,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "npm",
@@ -187,23 +204,6 @@
   },
   {
     "count": 15,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "Tools",
-      "ReleaseNote",
-      "CSS",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.21.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.0"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 15,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -212,33 +212,6 @@
     "example": {
       "title": "Firefox 126.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/126.0/releasenotes/"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "google",
-      "web ",
-      "video",
-      "Conference",
-      "playwright",
-      "JavaScript",
-      "browser",
-      "testing",
-      "React",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "C++",
-      "Next.js",
-      "nodejs",
-      "history"
-    ],
-    "example": {
-      "title": "Node.js: The Documentary | An origin story - YouTube",
-      "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
     }
   },
   {
@@ -257,6 +230,31 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.3.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "playwright",
+      "JavaScript",
+      "browser",
+      "testing",
+      "video",
+      "Conference",
+      "React",
+      "performance",
+      "TypeScript",
+      "blink",
+      "Chrome",
+      "C++",
+      "Next.js",
+      "nodejs",
+      "history"
+    ],
+    "example": {
+      "title": "Node.js: The Documentary | An origin story - YouTube",
+      "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
+    }
   },
   {
     "count": 11,
@@ -852,6 +850,24 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "shell",
+      "node.js",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "ShellScript",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release 8.1.0 · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.1.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://www.mitsue.co.jp",
     "tags": [
       "JavaScript",
@@ -1113,23 +1129,6 @@
       "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
       "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "shell",
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "ShellScript"
-    ],
-    "example": {
-      "title": "Release 8.0.0 · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/8.0.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 3,
@@ -2482,20 +2481,6 @@
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/markdoc/markdoc",
-    "tags": [
-      "Markdown",
-      "document",
-      "library"
-    ],
-    "example": {
-      "title": "markdoc/markdoc: A powerful, flexible, Markdown-based authoring framework.",
-      "url": "https://github.com/markdoc/markdoc"
-    },
-    "rssUrl": "https://github.com/markdoc/markdoc/releases.atom"
   },
   {
     "count": 1,
@@ -9918,6 +9903,45 @@
     "example": {
       "title": "Web Platform Status",
       "url": "https://webstatus.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://firebase.blog",
+    "tags": [
+      "firebase",
+      "Next.js",
+      "Angular",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing Firebase App Hosting",
+      "url": "https://firebase.blog/posts/2024/05/introducing-app-hosting/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://2023.stateofhtml.com",
+    "tags": [
+      "HTML",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of HTML 2023",
+      "url": "https://2023.stateofhtml.com/en-US/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.assetnote.io",
+    "tags": [
+      "Next.js",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Digging for SSRF in NextJS apps",
+      "url": "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps"
     }
   }
 ]
