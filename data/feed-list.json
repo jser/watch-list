@@ -484,6 +484,12 @@
     ]
   },
   {
+    "url": "https://firebase.blog",
+    "feeds": [
+      "https://firebase.blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://fosdem.org",
     "feeds": [
       "https://fosdem.org/2024/atom.xml",
@@ -510,15 +516,15 @@
     ]
   },
   {
-    "url": "https://github.com/pnpm/pnpm",
-    "feeds": [
-      "https://github.com/pnpm/pnpm/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/pnpm/pnpm",
+    "feeds": [
+      "https://github.com/pnpm/pnpm/releases.atom"
     ]
   },
   {
@@ -570,6 +576,12 @@
     ]
   },
   {
+    "url": "https://github.com/google/zx",
+    "feeds": [
+      "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
@@ -615,12 +627,6 @@
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/google/zx",
-    "feeds": [
-      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
@@ -861,12 +867,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/markdoc/markdoc",
-    "feeds": [
-      "https://github.com/markdoc/markdoc/releases.atom"
     ]
   },
   {
@@ -2939,6 +2939,12 @@
     "url": "https://www.apollographql.com",
     "feeds": [
       "https://www.apollographql.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.assetnote.io",
+    "feeds": [
+      "https://www.assetnote.io/resources/research/rss.xml"
     ]
   },
   {
