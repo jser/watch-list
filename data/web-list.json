@@ -24,28 +24,6 @@
   },
   {
     "count": 41,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bundler",
-      "article",
-      "CommonJS",
-      "ECMAScript",
-      "module",
-      "yarn",
-      "npm",
-      "TypeScript",
-      "windows"
-    ],
-    "example": {
-      "title": "Bun v1.1.8 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.8"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 40,
     "url": "https://developer.chrome.com",
     "tags": [
       "CSS",
@@ -66,31 +44,31 @@
       "WebAssembly"
     ],
     "example": {
-      "title": "Chrome 124  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/124"
+      "title": "Introducing the CSS anchor positioning API  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/anchor-positioning-api"
     }
   },
   {
-    "count": 30,
-    "url": "https://deno.com",
+    "count": 41,
+    "url": "https://bun.sh",
     "tags": [
-      "deno",
+      "Bun",
       "ReleaseNote",
-      "React",
-      "news",
-      "V8",
+      "bundler",
       "article",
-      "JavaScript",
-      "library",
-      "denoe",
-      "dneo",
-      "npm"
+      "CommonJS",
+      "ECMAScript",
+      "module",
+      "yarn",
+      "npm",
+      "TypeScript",
+      "windows"
     ],
     "example": {
-      "title": "How we built JSR",
-      "url": "https://deno.com/blog/how-we-built-jsr"
+      "title": "Bun v1.1.8 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.8"
     },
-    "rssUrl": "https://deno.com/feed"
+    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 29,
@@ -113,6 +91,28 @@
       "url": "https://webkit.org/blog/15383/webkit-features-in-safari-17-5/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 29,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "React",
+      "news",
+      "V8",
+      "article",
+      "JavaScript",
+      "library",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "How we built JSR",
+      "url": "https://deno.com/blog/how-we-built-jsr"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 25,
@@ -460,6 +460,24 @@
     "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
+    "count": 7,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "document",
+      "news",
+      "article",
+      "TypeScript",
+      "ReleaseNote",
+      "babel"
+    ],
+    "example": {
+      "title": "React Compiler – React",
+      "url": "https://react.dev/learn/react-compiler"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
     "count": 6,
     "url": "https://github.com/npm/cli",
     "tags": [
@@ -579,23 +597,6 @@
       "url": "https://www.rspack.dev/blog/announcing-0.6"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
-  },
-  {
-    "count": 6,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "document",
-      "news",
-      "article",
-      "TypeScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "React 19 Beta – React",
-      "url": "https://react.dev/blog/2024/04/25/react-19"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 6,
@@ -883,6 +884,22 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "ReleaseNote",
+      "security",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release Release v1.7.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.7.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/google/zx",
     "tags": [
       "shell",
@@ -1139,22 +1156,6 @@
       "url": "https://www.joshwcomeau.com/react/css-in-rsc/"
     },
     "rssUrl": "https://www.joshwcomeau.com/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "ReleaseNote",
-      "security",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release Release v0.28.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v0.28.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 3,
@@ -1448,22 +1449,6 @@
       "url": "https://developer.mozilla.org/en-US/curriculum/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/storybookjs/storybook",
-    "tags": [
-      "JavaScript",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "Release v7.0.0-rc.0 · storybookjs/storybook",
-      "url": "https://github.com/storybookjs/storybook/releases/tag/v7.0.0-rc.0"
-    },
-    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
   },
   {
     "count": 2,
@@ -6010,6 +5995,21 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/storybookjs/storybook",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v7.0.0-rc.0 · storybookjs/storybook",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v7.0.0-rc.0"
+    },
+    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://betterstack.com",
     "tags": [
       "node.js",
@@ -10198,5 +10198,19 @@
       "url": "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps"
     },
     "rssUrl": "https://www.assetnote.io/resources/research/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/farzher/fuzzysort",
+    "tags": [
+      "JavaScript",
+      "search",
+      "library"
+    ],
+    "example": {
+      "title": "farzher/fuzzysort: Fast SublimeText-like fuzzy search for JavaScript.",
+      "url": "https://github.com/farzher/fuzzysort"
+    },
+    "rssUrl": "https://github.com/farzher/fuzzysort/releases.atom"
   }
 ]
