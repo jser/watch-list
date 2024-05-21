@@ -597,19 +597,6 @@
   },
   {
     "count": 5,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
-      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.com/lerna/lerna",
     "tags": [
       "JavaScript",
@@ -968,6 +955,19 @@
   },
   {
     "count": 4,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://vercel.com",
     "tags": [
       "Next.js",
@@ -1085,21 +1085,6 @@
       "title": "Headless UI v2.0 for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/capricorn86/happy-dom",
-    "tags": [
-      "DOM",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · capricorn86/happy-dom",
-      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
   },
   {
     "count": 3,
@@ -1535,6 +1520,21 @@
       "title": "Ecma International approves new standards - Ecma International",
       "url": "https://www.ecma-international.org/news/ecma-international-approves-new-standards-at-the-125th-general-assembly-27-june-2023/"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/capricorn86/happy-dom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v13.0.0 · capricorn86/happy-dom",
+      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
+    },
+    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
   },
   {
     "count": 2,
@@ -9957,5 +9957,20 @@
       "url": "https://github.com/farzher/fuzzysort"
     },
     "rssUrl": "https://github.com/farzher/fuzzysort/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://codeanlabs.com",
+    "tags": [
+      "PDF",
+      "JavaScript",
+      "security",
+      "Electron",
+      "article"
+    ],
+    "example": {
+      "title": "CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs",
+      "url": "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"
+    }
   }
 ]

@@ -624,12 +624,6 @@
     ]
   },
   {
-    "url": "https://github.com/capricorn86/happy-dom",
-    "feeds": [
-      "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
@@ -711,6 +705,12 @@
     "url": "https://github.com/infernojs/inferno",
     "feeds": [
       "https://github.com/infernojs/inferno/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/capricorn86/happy-dom",
+    "feeds": [
+      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {
