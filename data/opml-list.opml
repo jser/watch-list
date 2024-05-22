@@ -128,6 +128,7 @@
 <outline text="obyford.com" title="obyford.com" type="rss" xmlUrl="https://obyford.com/feed/feed.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
 <outline text="orizens.com" title="orizens.com" type="rss" xmlUrl="https://orizens.com/rss.xml"/>
+<outline text="oxc-project.github.io" title="oxc-project.github.io" type="rss" xmlUrl="https://oxc-project.github.io/feeds/blog-en.rss"/>
 <outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
 <outline text="pawelgrzybek.com" title="pawelgrzybek.com" type="rss" xmlUrl="https://pawelgrzybek.com/feed.xml"/>
 <outline text="postd.cc" title="postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
