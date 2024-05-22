@@ -782,6 +782,13 @@
     ]
   },
   {
+    "url": "https://oxc-project.github.io",
+    "feeds": [
+      "https://oxc-project.github.io/feeds/blog-en.rss",
+      "https://oxc-project.github.io/feeds/blog-en.atom"
+    ]
+  },
+  {
     "url": "https://parceljs.org",
     "feeds": [
       "https://parceljs.org/feed.xml"

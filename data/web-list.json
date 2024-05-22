@@ -222,23 +222,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "cloudflare",
-      "library",
-      "JavaScript",
-      "server",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.3.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.3.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
       "playwright",
@@ -356,6 +339,22 @@
       "url": "https://www.electronjs.org/blog/electron-30-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.3.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.3.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 9,
@@ -1124,23 +1123,6 @@
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "CSS",
-      "fonts",
-      "accessibility",
-      "article",
-      "React",
-      "Next.js"
-    ],
-    "example": {
-      "title": "CSS in React Server Components",
-      "url": "https://www.joshwcomeau.com/react/css-in-rsc/"
-    },
-    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
   },
   {
     "count": 3,
@@ -2450,6 +2432,21 @@
   },
   {
     "count": 2,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "React",
+      "article",
+      "Next.js",
+      "CSS"
+    ],
+    "example": {
+      "title": "CSS in React Server Components",
+      "url": "https://www.joshwcomeau.com/react/css-in-rsc/"
+    },
+    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
+  },
+  {
+    "count": 2,
     "url": "https://lit.dev",
     "tags": [
       "JavaScript",
@@ -2543,20 +2540,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/MithrilJS/mithril.js",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.2.0 · MithrilJS/mithril.js",
-      "url": "https://github.com/MithrilJS/mithril.js/releases/tag/v2.2.0"
-    },
-    "rssUrl": "https://github.com/MithrilJS/mithril.js/releases.atom"
   },
   {
     "count": 1,
@@ -8566,7 +8549,8 @@
     "example": {
       "title": "Oxlint General Availability | The JavaScript Oxidation Compiler",
       "url": "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html"
-    }
+    },
+    "rssUrl": "https://oxc-project.github.io/feeds/blog-en.rss"
   },
   {
     "count": 1,
