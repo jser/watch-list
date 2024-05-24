@@ -144,8 +144,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/nvh95/jest-preview" title="github.com/nvh95/jest-preview" type="rss" xmlUrl="https://github.com/nvh95/jest-preview/releases.atom"/>
-<outline text="github.com/adriancooney/puppeteer-heap-snapshot" title="github.com/adriancooney/puppeteer-heap-snapshot" type="rss" xmlUrl="https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"/>
 <outline text="github.com/faker-js/faker" title="github.com/faker-js/faker" type="rss" xmlUrl="https://github.com/faker-js/faker/releases.atom"/>
 <outline text="github.com/Shopify/remote-ui" title="github.com/Shopify/remote-ui" type="rss" xmlUrl="https://github.com/Shopify/remote-ui/releases.atom"/>
 <outline text="github.com/TypeStrong/ts-node" title="github.com/TypeStrong/ts-node" type="rss" xmlUrl="https://github.com/TypeStrong/ts-node/releases.atom"/>
