@@ -864,18 +864,6 @@
     ]
   },
   {
-    "url": "https://github.com/nvh95/jest-preview",
-    "feeds": [
-      "https://github.com/nvh95/jest-preview/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/adriancooney/puppeteer-heap-snapshot",
-    "feeds": [
-      "https://github.com/adriancooney/puppeteer-heap-snapshot/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/faker-js/faker",
     "feeds": [
       "https://github.com/faker-js/faker/releases.atom"
