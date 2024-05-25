@@ -215,21 +215,6 @@
     }
   },
   {
-    "count": 11,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "article",
-      "proposal",
-      "ReleaseNote",
-      "relre"
-    ],
-    "example": {
-      "title": "Next.js 14.2 | Next.js",
-      "url": "https://nextjs.org/blog/next-14-2"
-    }
-  },
-  {
     "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -295,6 +280,20 @@
     "example": {
       "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
+    }
+  },
+  {
+    "count": 10,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "relre",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 14.2 | Next.js",
+      "url": "https://nextjs.org/blog/next-14-2"
     }
   },
   {
@@ -1368,19 +1367,6 @@
       "title": "MDN Curriculum",
       "url": "https://developer.mozilla.org/en-US/curriculum/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/electron/electron",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release electron v20.0.0 · electron/electron",
-      "url": "https://github.com/electron/electron/releases/tag/v20.0.0"
-    },
-    "rssUrl": "https://github.com/electron/electron/releases.atom"
   },
   {
     "count": 2,
@@ -2463,33 +2449,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/faker-js/faker",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v7.0.0 · faker-js/faker",
-      "url": "https://github.com/faker-js/faker/releases/tag/v7.0.0"
-    },
-    "rssUrl": "https://github.com/faker-js/faker/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://stripe.com",
-    "tags": [
-      "flowtype",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "Migrating millions of lines of code to TypeScript",
-      "url": "https://stripe.com/blog/migrating-to-typescript"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/Shopify/remote-ui",
     "tags": [
       "JavaScript",
@@ -3477,6 +3436,19 @@
       "title": "Announcing Docusaurus 2.0 | Docusaurus",
       "url": "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/electron/electron",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release electron v20.0.0 · electron/electron",
+      "url": "https://github.com/electron/electron/releases/tag/v20.0.0"
+    },
+    "rssUrl": "https://github.com/electron/electron/releases.atom"
   },
   {
     "count": 1,

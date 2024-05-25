@@ -997,12 +997,6 @@
     ]
   },
   {
-    "url": "https://stripe.com",
-    "feeds": [
-      "https://stripe.com/blog/feed.rss"
-    ]
-  },
-  {
     "url": "https://svelte.dev",
     "feeds": [
       "https://svelte.dev/blog/rss.xml"
