@@ -672,12 +672,6 @@
     ]
   },
   {
-    "url": "https://github.com/electron/electron",
-    "feeds": [
-      "https://github.com/electron/electron/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/actions/setup-node",
     "feeds": [
       "https://github.com/actions/setup-node/releases.atom"
@@ -861,12 +855,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/faker-js/faker",
-    "feeds": [
-      "https://github.com/faker-js/faker/releases.atom"
     ]
   },
   {
@@ -1107,6 +1095,12 @@
     "url": "https://github.com/ehmicky/safe-json-value",
     "feeds": [
       "https://github.com/ehmicky/safe-json-value/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/electron/electron",
+    "feeds": [
+      "https://github.com/electron/electron/releases.atom"
     ]
   },
   {
@@ -2752,12 +2746,6 @@
     "url": "https://storybook.js.org",
     "feeds": [
       "https://storybook.js.org/blog/rss/"
-    ]
-  },
-  {
-    "url": "https://stripe.com",
-    "feeds": [
-      "https://stripe.com/blog/feed.rss"
     ]
   },
   {
