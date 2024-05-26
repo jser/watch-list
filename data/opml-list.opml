@@ -120,6 +120,7 @@
 <outline text="moderncss.dev" title="moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
 <outline text="mwskwong.com" title="mwskwong.com" type="rss" xmlUrl="https://mwskwong.com/blog/rss.xml"/>
+<outline text="nanto.asablo.jp" title="nanto.asablo.jp" type="rss" xmlUrl="https://nanto.asablo.jp/blog/rss"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
 <outline text="nolanlawson.com" title="nolanlawson.com" type="rss" xmlUrl="https://nolanlawson.com/feed/"/>

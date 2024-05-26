@@ -612,21 +612,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/lerna/lerna",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "ReleaseNote",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · lerna/lerna",
-      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://blog.emberjs.com",
     "tags": [
       "Ember",
@@ -966,6 +951,21 @@
       "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/lerna/lerna",
+    "tags": [
+      "monorepo",
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · lerna/lerna",
+      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
   },
   {
     "count": 4,
@@ -2523,23 +2523,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/Shopify/remote-ui",
-    "tags": [
-      "JavaScript",
-      "React",
-      "Vue",
-      "webworker",
-      "security",
-      "library"
-    ],
-    "example": {
-      "title": "Shopify/remote-ui",
-      "url": "https://github.com/Shopify/remote-ui"
-    },
-    "rssUrl": "https://github.com/Shopify/remote-ui/releases.atom"
   },
   {
     "count": 1,
@@ -10150,5 +10133,47 @@
       "title": "CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs",
       "url": "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/chakra-ui/ark",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @ark-ui/react@3.0.0 · chakra-ui/ark",
+      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%403.0.0"
+    },
+    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file",
+    "tags": [
+      "UI",
+      "document"
+    ],
+    "example": {
+      "title": "andrico1234/the-dilemmas-youll-face: The Dilemmas You'll Face When Creating Your First Component Library",
+      "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://nanto.asablo.jp",
+    "tags": [
+      "HTML",
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "CSSでチェックボックスやラジオボタンをカスタマイズする 2024年版: Days on the Moon",
+      "url": "https://nanto.asablo.jp/blog/2024/05/24/9686885"
+    },
+    "rssUrl": "https://nanto.asablo.jp/blog/rss"
   }
 ]
