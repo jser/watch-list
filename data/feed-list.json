@@ -570,12 +570,6 @@
     ]
   },
   {
-    "url": "https://github.com/lerna/lerna",
-    "feeds": [
-      "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -603,6 +597,12 @@
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
     ]
   },
   {
@@ -855,12 +855,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/Shopify/remote-ui",
-    "feeds": [
-      "https://github.com/Shopify/remote-ui/releases.atom"
     ]
   },
   {
@@ -2262,6 +2256,18 @@
     ]
   },
   {
+    "url": "https://github.com/chakra-ui/ark",
+    "feeds": [
+      "https://github.com/chakra-ui/ark/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2475,6 +2481,12 @@
     "url": "https://mwskwong.com",
     "feeds": [
       "https://mwskwong.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://nanto.asablo.jp",
+    "feeds": [
+      "https://nanto.asablo.jp/blog/rss"
     ]
   },
   {

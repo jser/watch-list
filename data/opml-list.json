@@ -732,6 +732,12 @@
     ]
   },
   {
+    "url": "https://nanto.asablo.jp",
+    "feeds": [
+      "https://nanto.asablo.jp/blog/rss"
+    ]
+  },
+  {
     "url": "https://nodejs.org",
     "feeds": [
       "https://nodejs.org/en/feed/blog.xml"
