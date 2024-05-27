@@ -82,6 +82,12 @@
     ]
   },
   {
+    "url": "https://blog.angular.dev",
+    "feeds": [
+      "https://blog.angular.dev/feed"
+    ]
+  },
+  {
     "url": "https://blog.angular.io",
     "feeds": [
       "https://blog.angular.io/feed"
@@ -558,15 +564,15 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
@@ -855,12 +861,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/TypeStrong/ts-node",
-    "feeds": [
-      "https://github.com/TypeStrong/ts-node/releases.atom"
     ]
   },
   {
@@ -2370,6 +2370,13 @@
     ]
   },
   {
+    "url": "https://lazamar.github.io",
+    "feeds": [
+      "https://lazamar.github.io/feed.xml",
+      "https://lazamar.github.io/virtual-dom/lazamar.github.io/feed.xml"
+    ]
+  },
+  {
     "url": "https://lea.verou.me",
     "feeds": [
       "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29",
@@ -2423,6 +2430,12 @@
     ]
   },
   {
+    "url": "https://medium.com/airbnb-engineering/",
+    "feeds": [
+      "https://medium.com/feed/airbnb-engineering"
+    ]
+  },
+  {
     "url": "https://medium.com/dartlang/",
     "feeds": [
       "https://medium.com/feed/dartlang"
@@ -2432,12 +2445,6 @@
     "url": "https://medium.com/@fastifyjs/",
     "feeds": [
       "https://medium.com/feed/@fastifyjs"
-    ]
-  },
-  {
-    "url": "https://medium.com/airbnb-engineering/",
-    "feeds": [
-      "https://medium.com/feed/airbnb-engineering"
     ]
   },
   {
@@ -2746,6 +2753,13 @@
     "feeds": [
       "https://speakerdeck.com/steelydylan.atom",
       "https://speakerdeck.com/steelydylan.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/exoego/",
+    "feeds": [
+      "https://speakerdeck.com/exoego.atom",
+      "https://speakerdeck.com/exoego.rss"
     ]
   },
   {

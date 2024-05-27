@@ -23,27 +23,6 @@
   },
   {
     "count": 42,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bundler",
-      "article",
-      "CommonJS",
-      "ECMAScript",
-      "module",
-      "yarn",
-      "npm",
-      "TypeScript",
-      "windows"
-    ],
-    "example": {
-      "title": "Bun v1.1.9 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.9"
-    }
-  },
-  {
-    "count": 41,
     "url": "https://developer.chrome.com",
     "tags": [
       "CSS",
@@ -61,11 +40,33 @@
       "testing",
       "WebGL",
       "WebGPU",
-      "WebAssembly"
+      "WebAssembly",
+      "LanguageModel"
     ],
     "example": {
-      "title": "Introducing the CSS anchor positioning API  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/anchor-positioning-api"
+      "title": "Understand errors and warnings better with Gemini  |  Chrome DevTools  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/devtools/console/understand-messages"
+    }
+  },
+  {
+    "count": 42,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bundler",
+      "article",
+      "CommonJS",
+      "ECMAScript",
+      "module",
+      "yarn",
+      "npm",
+      "TypeScript",
+      "windows"
+    ],
+    "example": {
+      "title": "Bun v1.1.9 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.9"
     }
   },
   {
@@ -111,7 +112,7 @@
     }
   },
   {
-    "count": 25,
+    "count": 24,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -215,6 +216,20 @@
     }
   },
   {
+    "count": 11,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "relre",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15 RC | Next.js",
+      "url": "https://nextjs.org/blog/next-15-rc"
+    }
+  },
+  {
     "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -280,20 +295,6 @@
     "example": {
       "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "relre",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 14.2 | Next.js",
-      "url": "https://nextjs.org/blog/next-14-2"
     }
   },
   {
@@ -457,19 +458,6 @@
       "title": "React Compiler – React",
       "url": "https://react.dev/learn/react-compiler"
     }
-  },
-  {
-    "count": 6,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 6,
@@ -690,6 +678,19 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -799,21 +800,6 @@
     "example": {
       "title": "Biome v1.7 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-7/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://parceljs.org",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "parcel",
-      "Tools"
-    ],
-    "example": {
-      "title": "Parcel v2.12.0",
-      "url": "https://parceljs.org/blog/v2-12-0/"
     }
   },
   {
@@ -1273,6 +1259,21 @@
     "example": {
       "title": "Changelog | Cypress Documentation",
       "url": "https://docs.cypress.io/guides/references/changelog#13-0-0"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://parceljs.org",
+    "tags": [
+      "parcel",
+      "bundler",
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Parcel v2.12.0",
+      "url": "https://parceljs.org/blog/v2-12-0/"
     }
   },
   {
@@ -1882,6 +1883,20 @@
   },
   {
     "count": 2,
+    "url": "https://medium.com/airbnb-engineering/",
+    "tags": [
+      "CSS",
+      "article",
+      "opinion",
+      "accessibility"
+    ],
+    "example": {
+      "title": "Rethinking Text Resizing on Web. Airbnb has made significant strides in… | by Steven Bassett | The Airbnb Tech Blog | May, 2024 | Medium",
+      "url": "https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://shopify.engineering",
     "tags": [
       "Remix",
@@ -2446,21 +2461,6 @@
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/TypeStrong/ts-node",
-    "tags": [
-      "TypeScript",
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.8.0 · TypeStrong/ts-node",
-      "url": "https://github.com/TypeStrong/ts-node/releases/tag/v10.8.0"
-    },
-    "rssUrl": "https://github.com/TypeStrong/ts-node/releases.atom"
   },
   {
     "count": 1,
@@ -4224,19 +4224,6 @@
     "example": {
       "title": "Why We're Breaking Up with CSS-in-JS - DEV Community 👩‍💻👨‍💻",
       "url": "https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://medium.com/airbnb-engineering/",
-    "tags": [
-      "CSS",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Airbnb's Trip to Linaria | The Airbnb Tech Blog",
-      "url": "https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12"
     }
   },
   {
@@ -9918,6 +9905,56 @@
     "example": {
       "title": "CSSでチェックボックスやラジオボタンをカスタマイズする 2024年版: Days on the Moon",
       "url": "https://nanto.asablo.jp/blog/2024/05/24/9686885"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/exoego/",
+    "tags": [
+      "Lambda",
+      "esbuild",
+      "slide"
+    ],
+    "example": {
+      "title": "esbuild 最適化芸人 - Speaker Deck",
+      "url": "https://speakerdeck.com/exoego/esbuild-zui-shi-hua-yun-ren"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.solidjs.com",
+    "tags": [
+      "Solid",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "SolidStart 1.0: The Shape of Frameworks to Come | SolidJS",
+      "url": "https://www.solidjs.com/blog/solid-start-the-shape-frameworks-to-come"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.angular.dev",
+    "tags": [
+      "Angular",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Angular v18 is now available!. Today we are excited to share the next… | by Minko Gechev | May, 2024 | Angular Blog",
+      "url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://lazamar.github.io",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "article"
+    ],
+    "example": {
+      "title": "A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs",
+      "url": "https://lazamar.github.io/virtual-dom/"
     }
   }
 ]

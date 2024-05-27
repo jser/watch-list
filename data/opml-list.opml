@@ -17,6 +17,7 @@
 <outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
 <outline text="bhch.github.io" title="bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
+<outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
 <outline text="blog.angular.io" title="blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
 <outline text="blog.appsignal.com" title="blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
 <outline text="blog.bitsrc.io" title="blog.bitsrc.io" type="rss" xmlUrl="https://blog.bitsrc.io/feed"/>
@@ -102,6 +103,7 @@
 <outline text="kizu.dev" title="kizu.dev" type="rss" xmlUrl="https://feeds.feedburner.com/kizuruen"/>
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
 <outline text="ladle.dev" title="ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
+<outline text="lazamar.github.io" title="lazamar.github.io" type="rss" xmlUrl="https://lazamar.github.io/feed.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
@@ -110,9 +112,9 @@
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="marvinh.dev" title="marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
 <outline text="maximorlov.com" title="maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
+<outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/dartlang/" title="medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>
 <outline text="medium.com/@fastifyjs/" title="medium.com/@fastifyjs/" type="rss" xmlUrl="https://medium.com/feed/@fastifyjs"/>
-<outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/miro-engineering/" title="medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
 <outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>
 <outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
@@ -160,6 +162,7 @@
 <outline text="speakerdeck.com/sajikix/" title="speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
 <outline text="speakerdeck.com/steelydylan/" title="speakerdeck.com/steelydylan/" type="rss" xmlUrl="https://speakerdeck.com/steelydylan.atom"/>
+<outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
