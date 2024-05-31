@@ -916,12 +916,6 @@
     ]
   },
   {
-    "url": "https://serpapi.com",
-    "feeds": [
-      "https://serpapi.com/blog/rss/"
-    ]
-  },
-  {
     "url": "https://shisama.hatenablog.com",
     "feeds": [
       "https://shisama.hatenablog.com/feed",
