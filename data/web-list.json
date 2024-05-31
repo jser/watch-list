@@ -2542,20 +2542,6 @@
   },
   {
     "count": 1,
-    "url": "https://serpapi.com",
-    "tags": [
-      "JavaScript",
-      "puppeteer",
-      "article"
-    ],
-    "example": {
-      "title": "Avoiding Puppeteer Antipatterns",
-      "url": "https://serpapi.com/blog/puppeteer-antipatterns/"
-    },
-    "rssUrl": "https://serpapi.com/blog/rss/"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/google/wireit",
     "tags": [
       "npm",
