@@ -144,7 +144,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/google/wireit" title="github.com/google/wireit" type="rss" xmlUrl="https://github.com/google/wireit/releases.atom"/>
 <outline text="github.com/mdn/browser-compat-data" title="github.com/mdn/browser-compat-data" type="rss" xmlUrl="https://github.com/mdn/browser-compat-data/releases.atom"/>
 <outline text="github.com/jridgewell/trace-mapping" title="github.com/jridgewell/trace-mapping" type="rss" xmlUrl="https://github.com/jridgewell/trace-mapping/releases.atom"/>
 <outline text="github.com/histoire-dev/histoire" title="github.com/histoire-dev/histoire" type="rss" xmlUrl="https://github.com/histoire-dev/histoire/releases.atom"/>
