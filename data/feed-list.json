@@ -864,12 +864,6 @@
     ]
   },
   {
-    "url": "https://github.com/google/wireit",
-    "feeds": [
-      "https://github.com/google/wireit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mdn/browser-compat-data",
     "feeds": [
       "https://github.com/mdn/browser-compat-data/releases.atom"

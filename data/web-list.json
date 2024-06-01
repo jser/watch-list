@@ -2542,19 +2542,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/google/wireit",
-    "tags": [
-      "npm",
-      "Tools"
-    ],
-    "example": {
-      "title": "google/wireit: Wireit upgrades your npm scripts to make them smarter and more efficient.",
-      "url": "https://github.com/google/wireit"
-    },
-    "rssUrl": "https://github.com/google/wireit/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/mdn/browser-compat-data",
     "tags": [
       "JavaScript",
