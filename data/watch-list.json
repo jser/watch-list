@@ -217,6 +217,20 @@
   },
   {
     "count": 11,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "news",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing the ESLint Configuration Migrator - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/05/eslint-configuration-migrator/"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -281,20 +295,6 @@
     "example": {
       "title": "Node.js: The Documentary | An origin story - YouTube",
       "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "news",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "ESLint v9.0.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/04/eslint-v9.0.0-released/"
     }
   },
   {
@@ -773,22 +773,6 @@
       "title": "Biome v1.7 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "ReleaseNote",
-      "security",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release Release v1.7.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.7.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 4,
@@ -1354,6 +1338,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "ReleaseNote",
+      "security",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release Release v1.7.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.7.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://developer.mozilla.org",
     "tags": [
       "CSS",
@@ -1367,23 +1367,6 @@
     "example": {
       "title": "MDN Curriculum",
       "url": "https://developer.mozilla.org/en-US/curriculum/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://nolanlawson.com",
-    "tags": [
-      "JavaScript",
-      "HTML",
-      "opinion",
-      "article",
-      "CSS",
-      "performance",
-      "video"
-    ],
-    "example": {
-      "title": "My talk on CSS runtime performance | Read the Tea Leaves",
-      "url": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"
     }
   },
   {
@@ -2461,36 +2444,6 @@
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mdn/browser-compat-data",
-    "tags": [
-      "JavaScript",
-      "JSON",
-      "library",
-      "mdn",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · mdn/browser-compat-data",
-      "url": "https://github.com/mdn/browser-compat-data/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/mdn/browser-compat-data/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jridgewell/trace-mapping",
-    "tags": [
-      "sourcemap",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "jridgewell/trace-mapping: Trace the original position through a source map",
-      "url": "https://github.com/jridgewell/trace-mapping"
-    },
-    "rssUrl": "https://github.com/jridgewell/trace-mapping/releases.atom"
   },
   {
     "count": 1,
@@ -5534,6 +5487,20 @@
     "example": {
       "title": "State of React Native 2022",
       "url": "https://results.stateofreactnative.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://nolanlawson.com",
+    "tags": [
+      "CSS",
+      "performance",
+      "article",
+      "video"
+    ],
+    "example": {
+      "title": "My talk on CSS runtime performance | Read the Tea Leaves",
+      "url": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"
     }
   },
   {
