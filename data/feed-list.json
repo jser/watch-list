@@ -576,12 +576,6 @@
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
@@ -675,6 +669,12 @@
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -861,18 +861,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mdn/browser-compat-data",
-    "feeds": [
-      "https://github.com/mdn/browser-compat-data/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jridgewell/trace-mapping",
-    "feeds": [
-      "https://github.com/jridgewell/trace-mapping/releases.atom"
     ]
   },
   {

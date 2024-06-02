@@ -96,7 +96,6 @@
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
-<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
@@ -113,6 +112,7 @@
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
+<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
 <outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
@@ -144,8 +144,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/mdn/browser-compat-data" title="github.com/mdn/browser-compat-data" type="rss" xmlUrl="https://github.com/mdn/browser-compat-data/releases.atom"/>
-<outline text="github.com/jridgewell/trace-mapping" title="github.com/jridgewell/trace-mapping" type="rss" xmlUrl="https://github.com/jridgewell/trace-mapping/releases.atom"/>
 <outline text="github.com/histoire-dev/histoire" title="github.com/histoire-dev/histoire" type="rss" xmlUrl="https://github.com/histoire-dev/histoire/releases.atom"/>
 <outline text="github.com/mishoo/UglifyJS" title="github.com/mishoo/UglifyJS" type="rss" xmlUrl="https://github.com/mishoo/UglifyJS/releases.atom"/>
 <outline text="github.com/vuejs/vue" title="github.com/vuejs/vue" type="rss" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
