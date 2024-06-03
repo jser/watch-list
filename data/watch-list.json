@@ -70,6 +70,27 @@
     }
   },
   {
+    "count": 30,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "React",
+      "news",
+      "V8",
+      "article",
+      "JavaScript",
+      "library",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 1.44: Private npm registries, improved Node.js compat, and performance boosts",
+      "url": "https://deno.com/blog/v1.44"
+    }
+  },
+  {
     "count": 29,
     "url": "https://webkit.org",
     "tags": [
@@ -88,27 +109,6 @@
     "example": {
       "title": "WebKit Features in Safari 17.5 | WebKit",
       "url": "https://webkit.org/blog/15383/webkit-features-in-safari-17-5/"
-    }
-  },
-  {
-    "count": 29,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "React",
-      "news",
-      "V8",
-      "article",
-      "JavaScript",
-      "library",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "How we built JSR",
-      "url": "https://deno.com/blog/how-we-built-jsr"
     }
   },
   {
@@ -244,6 +244,22 @@
     }
   },
   {
+    "count": 11,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.4.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
     "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -316,6 +332,23 @@
   },
   {
     "count": 10,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "library",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v2.0.0-beta.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0-beta.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 10,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -326,22 +359,6 @@
       "title": "Electron 30.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-30-0"
     }
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.3.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.3.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 9,
@@ -369,23 +386,6 @@
       "title": "Improved Cloudflare Workers testing via Vitest and workerd",
       "url": "https://blog.cloudflare.com/workers-vitest-integration/"
     }
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "library",
-      "JavaScript",
-      "test"
-    ],
-    "example": {
-      "title": "Release v1.6.0 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.6.0"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 9,
@@ -444,6 +444,39 @@
   },
   {
     "count": 7,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.3: New Flow features and a lot of bug fixes · Prettier",
+      "url": "https://prettier.io/blog/2024/06/01/3.3.0.html"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "webpack",
+      "Rust",
+      "Tools",
+      "bundler",
+      "ReleaseNote",
+      "rspack",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Announcing Rspack v0.7 - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-0-7"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -474,22 +507,6 @@
     "example": {
       "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
       "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.2: Support JSONC and Angular’s ICU expression · Prettier",
-      "url": "https://prettier.io/blog/2024/01/12/3.2.0.html"
     }
   },
   {
@@ -542,23 +559,6 @@
     "example": {
       "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "webpack",
-      "Rust",
-      "Tools",
-      "bundler",
-      "ReleaseNote",
-      "rspack",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Announcing Rspack v0.6 - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-0.6"
     }
   },
   {
@@ -9882,6 +9882,32 @@
     "example": {
       "title": "A virtual DOM in 200 lines of JavaScript – Marcelo Lazaroni – Developing for the Interwebs",
       "url": "https://lazamar.github.io/virtual-dom/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://design.digital.go.jp",
+    "tags": [
+      "Design",
+      "accessibility",
+      "figma",
+      "document"
+    ],
+    "example": {
+      "title": "デジタル庁デザインシステムβ版",
+      "url": "https://design.digital.go.jp/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/uhyo/",
+    "tags": [
+      "React",
+      "book"
+    ],
+    "example": {
+      "title": "React 19の新機能まるわかり",
+      "url": "https://zenn.dev/uhyo/books/react-19-new"
     }
   }
 ]

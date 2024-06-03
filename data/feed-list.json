@@ -534,6 +534,12 @@
     ]
   },
   {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
@@ -543,12 +549,6 @@
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -3391,6 +3391,12 @@
     "url": "https://zenn.dev/inaniwaudon/",
     "feeds": [
       "https://zenn.dev/inaniwaudon/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/uhyo/",
+    "feeds": [
+      "https://zenn.dev/uhyo/feed"
     ]
   }
 ]
