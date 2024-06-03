@@ -1652,5 +1652,11 @@
     "feeds": [
       "https://zenn.dev/inaniwaudon/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/uhyo/",
+    "feeds": [
+      "https://zenn.dev/uhyo/feed"
+    ]
   }
 ]

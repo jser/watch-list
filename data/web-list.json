@@ -72,6 +72,28 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
+    "count": 30,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "React",
+      "news",
+      "V8",
+      "article",
+      "JavaScript",
+      "library",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 1.44: Private npm registries, improved Node.js compat, and performance boosts",
+      "url": "https://deno.com/blog/v1.44"
+    },
+    "rssUrl": "https://deno.com/feed"
+  },
+  {
     "count": 29,
     "url": "https://webkit.org",
     "tags": [
@@ -92,28 +114,6 @@
       "url": "https://webkit.org/blog/15383/webkit-features-in-safari-17-5/"
     },
     "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 29,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "React",
-      "news",
-      "V8",
-      "article",
-      "JavaScript",
-      "library",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "How we built JSR",
-      "url": "https://deno.com/blog/how-we-built-jsr"
-    },
-    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 24,
@@ -251,6 +251,22 @@
     }
   },
   {
+    "count": 11,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.4.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
     "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -325,6 +341,23 @@
   },
   {
     "count": 10,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "library",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v2.0.0-beta.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0-beta.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 10,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -336,22 +369,6 @@
       "url": "https://www.electronjs.org/blog/electron-30-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.3.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.3.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 9,
@@ -380,23 +397,6 @@
       "url": "https://blog.cloudflare.com/workers-vitest-integration/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "library",
-      "JavaScript",
-      "test"
-    ],
-    "example": {
-      "title": "Release v1.6.0 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v1.6.0"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 9,
@@ -457,6 +457,41 @@
   },
   {
     "count": 7,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.3: New Flow features and a lot of bug fixes · Prettier",
+      "url": "https://prettier.io/blog/2024/06/01/3.3.0.html"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "webpack",
+      "Rust",
+      "Tools",
+      "bundler",
+      "ReleaseNote",
+      "rspack",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Announcing Rspack v0.7 - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-0-7"
+    },
+    "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 7,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -490,23 +525,6 @@
       "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
     },
     "rssUrl": "https://blog.angular.io/feed"
-  },
-  {
-    "count": 6,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.2: Support JSONC and Angular’s ICU expression · Prettier",
-      "url": "https://prettier.io/blog/2024/01/12/3.2.0.html"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 6,
@@ -562,24 +580,6 @@
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 6,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "webpack",
-      "Rust",
-      "Tools",
-      "bundler",
-      "ReleaseNote",
-      "rspack",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Announcing Rspack v0.6 - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-0.6"
-    },
-    "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
   },
   {
     "count": 6,
@@ -10141,5 +10141,32 @@
       "url": "https://lazamar.github.io/virtual-dom/"
     },
     "rssUrl": "https://lazamar.github.io/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://design.digital.go.jp",
+    "tags": [
+      "Design",
+      "accessibility",
+      "figma",
+      "document"
+    ],
+    "example": {
+      "title": "デジタル庁デザインシステムβ版",
+      "url": "https://design.digital.go.jp/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/uhyo/",
+    "tags": [
+      "React",
+      "book"
+    ],
+    "example": {
+      "title": "React 19の新機能まるわかり",
+      "url": "https://zenn.dev/uhyo/books/react-19-new"
+    },
+    "rssUrl": "https://zenn.dev/uhyo/feed"
   }
 ]
