@@ -17,6 +17,7 @@
 <outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
 <outline text="bhch.github.io" title="bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
+<outline text="blog.1password.com" title="blog.1password.com" type="rss" xmlUrl="https://blog.1password.com/index.xml"/>
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
 <outline text="blog.angular.io" title="blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
 <outline text="blog.appsignal.com" title="blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
@@ -54,9 +55,9 @@
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
 <outline text="chriscoyier.net" title="chriscoyier.net" type="rss" xmlUrl="https://chriscoyier.net/feed/"/>
 <outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
+<outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
-<outline text="cypress.io" title="cypress.io" type="rss" xmlUrl="https://www.cypress.io/feed.xml"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="daverupert.com" title="daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
