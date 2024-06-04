@@ -82,6 +82,12 @@
     ]
   },
   {
+    "url": "https://blog.1password.com",
+    "feeds": [
+      "https://blog.1password.com/index.xml"
+    ]
+  },
+  {
     "url": "https://blog.angular.dev",
     "feeds": [
       "https://blog.angular.dev/feed"
@@ -311,6 +317,12 @@
     ]
   },
   {
+    "url": "https://colinhacks.com",
+    "feeds": [
+      "https://colinhacks.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://css-tricks.com",
     "feeds": [
       "https://css-tricks.com/feed/"
@@ -320,13 +332,6 @@
     "url": "https://csswizardry.com",
     "feeds": [
       "https://feeds.feedburner.com/csswizardry"
-    ]
-  },
-  {
-    "url": "https://cypress.io",
-    "feeds": [
-      "https://www.cypress.io/feed.xml",
-      "https://www.cypress.io/feed.xml"
     ]
   },
   {

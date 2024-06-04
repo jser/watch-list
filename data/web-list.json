@@ -1,12 +1,12 @@
 [
   {
-    "count": 58,
+    "count": 57,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "ReleaseNote",
       "news",
       "security",
+      "ReleaseNote",
       "serverless",
       "seuc",
       "document",
@@ -510,24 +510,6 @@
   },
   {
     "count": 6,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "Angular",
-      "ReleaseNote",
-      "JavaScript",
-      "browser",
-      "testing",
-      "article",
-      "document"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    },
-    "rssUrl": "https://blog.angular.io/feed"
-  },
-  {
-    "count": 6,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -755,6 +737,24 @@
       "url": "https://nuxt.com/blog/v3-11"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://blog.angular.io",
+    "tags": [
+      "Angular",
+      "ReleaseNote",
+      "JavaScript",
+      "browser",
+      "testing",
+      "article",
+      "document"
+    ],
+    "example": {
+      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
+    },
+    "rssUrl": "https://blog.angular.io/feed"
   },
   {
     "count": 5,
@@ -2521,34 +2521,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://pkg.land",
-    "tags": [
-      "npm",
-      "search",
-      "webservice"
-    ],
-    "example": {
-      "title": "pkg.land - find NPM alternative packages",
-      "url": "https://pkg.land/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://cypress.io",
-    "tags": [
-      "E2E",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Cypress 10 with Component Testing Beta!",
-      "url": "https://cypress.io/blog/2022/06/01/cypress-10-release/"
-    },
-    "rssUrl": "https://www.cypress.io/feed.xml"
   },
   {
     "count": 1,
@@ -10168,5 +10140,32 @@
       "url": "https://zenn.dev/uhyo/books/react-19-new"
     },
     "rssUrl": "https://zenn.dev/uhyo/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://colinhacks.com",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "Live types in a TypeScript monorepo",
+      "url": "https://colinhacks.com/essays/live-types-typescript-monorepo"
+    },
+    "rssUrl": "https://colinhacks.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.1password.com",
+    "tags": [
+      "TypeScript",
+      "esbuild",
+      "article"
+    ],
+    "example": {
+      "title": "How 1Password Used Esbuild to Cut Browser Extension Build Times | 1Password",
+      "url": "https://blog.1password.com/new-extension-build-system/"
+    },
+    "rssUrl": "https://blog.1password.com/index.xml"
   }
 ]
