@@ -2447,46 +2447,6 @@
   },
   {
     "count": 1,
-    "url": "https://browser.engineering",
-    "tags": [
-      "browser",
-      "python",
-      "book"
-    ],
-    "example": {
-      "title": "Web Browser Engineering",
-      "url": "https://browser.engineering/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://svelvet.io",
-    "tags": [
-      "Svelte",
-      "diagram",
-      "library"
-    ],
-    "example": {
-      "title": "Svelvet",
-      "url": "https://svelvet.io/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/histoire-dev/histoire",
-    "tags": [
-      "vite",
-      "Vue",
-      "Tools"
-    ],
-    "example": {
-      "title": "histoire-dev/histoire: ⚡ Fast and beautiful interactive component playgrounds, powered by Vite",
-      "url": "https://github.com/histoire-dev/histoire"
-    },
-    "rssUrl": "https://github.com/histoire-dev/histoire/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/mishoo/UglifyJS",
     "tags": [
       "JavaScript",

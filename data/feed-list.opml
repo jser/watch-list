@@ -47,7 +47,6 @@
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="blog.webpagetest.org" title="blog.webpagetest.org" type="rss" xmlUrl="https://blog.webpagetest.org/feed.xml"/>
 <outline text="boajs.dev" title="boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
-<outline text="browser.engineering" title="browser.engineering" type="rss" xmlUrl="https://browser.engineering/rss.xml"/>
 <outline text="buf.build" title="buf.build" type="rss" xmlUrl="https://buf.build/rss.xml"/>
 <outline text="bufferings.hatenablog.com" title="bufferings.hatenablog.com" type="rss" xmlUrl="https://bufferings.hatenablog.com/feed"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
@@ -145,7 +144,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/histoire-dev/histoire" title="github.com/histoire-dev/histoire" type="rss" xmlUrl="https://github.com/histoire-dev/histoire/releases.atom"/>
 <outline text="github.com/mishoo/UglifyJS" title="github.com/mishoo/UglifyJS" type="rss" xmlUrl="https://github.com/mishoo/UglifyJS/releases.atom"/>
 <outline text="github.com/vuejs/vue" title="github.com/vuejs/vue" type="rss" xmlUrl="https://github.com/vuejs/vue/releases.atom"/>
 <outline text="github.com/WebReflection/highlighted-code" title="github.com/WebReflection/highlighted-code" type="rss" xmlUrl="https://github.com/WebReflection/highlighted-code/releases.atom"/>
