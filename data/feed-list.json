@@ -256,12 +256,6 @@
     ]
   },
   {
-    "url": "https://blog.webpagetest.org",
-    "feeds": [
-      "https://blog.webpagetest.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://boajs.dev",
     "feeds": [
       "https://boajs.dev/feed.xml"
@@ -677,18 +671,6 @@
     ]
   },
   {
-    "url": "https://github.com/actions/setup-node",
-    "feeds": [
-      "https://github.com/actions/setup-node/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/sverweij/dependency-cruiser",
-    "feeds": [
-      "https://github.com/sverweij/dependency-cruiser/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/react",
     "feeds": [
       "https://github.com/facebook/react/releases.atom"
@@ -860,30 +842,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mishoo/UglifyJS",
-    "feeds": [
-      "https://github.com/mishoo/UglifyJS/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vuejs/vue",
-    "feeds": [
-      "https://github.com/vuejs/vue/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/WebReflection/highlighted-code",
-    "feeds": [
-      "https://github.com/WebReflection/highlighted-code/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/cyco130/vavite",
-    "feeds": [
-      "https://github.com/cyco130/vavite/releases.atom"
     ]
   },
   {
@@ -1250,6 +1208,12 @@
     "url": "https://github.com/gioboa/vite-module-federation",
     "feeds": [
       "https://github.com/gioboa/vite-module-federation/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/actions/setup-node",
+    "feeds": [
+      "https://github.com/actions/setup-node/releases.atom"
     ]
   },
   {
@@ -1694,6 +1658,12 @@
     "url": "https://github.com/microsoft/deoptexplorer-vscode",
     "feeds": [
       "https://github.com/microsoft/deoptexplorer-vscode/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/sverweij/dependency-cruiser",
+    "feeds": [
+      "https://github.com/sverweij/dependency-cruiser/releases.atom"
     ]
   },
   {

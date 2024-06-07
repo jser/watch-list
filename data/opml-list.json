@@ -256,12 +256,6 @@
     ]
   },
   {
-    "url": "https://blog.webpagetest.org",
-    "feeds": [
-      "https://blog.webpagetest.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://boajs.dev",
     "feeds": [
       "https://boajs.dev/feed.xml"

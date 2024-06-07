@@ -422,25 +422,6 @@
   },
   {
     "count": 8,
-    "url": "https://2ality.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "node.js",
-      "stream",
-      "URL",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "TypeScript and native ESM on Node.js",
-      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
-    },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
-  },
-  {
-    "count": 8,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "JavaScript",
@@ -471,6 +452,24 @@
       "url": "https://prettier.io/blog/2024/06/01/3.3.0.html"
     },
     "rssUrl": "https://prettier.io/blog/atom.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://2ality.com",
+    "tags": [
+      "node.js",
+      "stream",
+      "article",
+      "URL",
+      "ECMAScript",
+      "proposal",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "TypeScript and native ESM on Node.js",
+      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
   },
   {
     "count": 7,
@@ -579,22 +578,6 @@
       "url": "https://github.com/web-infra-dev/rspack/discussions/6315"
     },
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "security",
-      "news",
-      "article",
-      "Github"
-    ],
-    "example": {
-      "title": "npm provenance general availability - The GitHub Blog",
-      "url": "https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 5,
@@ -996,6 +979,22 @@
   },
   {
     "count": 4,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "security",
+      "article",
+      "Github",
+      "news"
+    ],
+    "example": {
+      "title": "npm provenance general availability - The GitHub Blog",
+      "url": "https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 4,
     "url": "https://vitejs.dev",
     "tags": [
       "vite",
@@ -1088,21 +1087,6 @@
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://blog.jxck.io",
-    "tags": [
-      "JavaScript",
-      "article",
-      "CSS",
-      "Fetch"
-    ],
-    "example": {
-      "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
-      "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
-    },
-    "rssUrl": "https://blog.jxck.io/feeds/atom.xml"
   },
   {
     "count": 3,
@@ -1413,37 +1397,6 @@
       "url": "https://developer.mozilla.org/en-US/curriculum/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/actions/setup-node",
-    "tags": [
-      "Github",
-      "Actions",
-      "ReleaseNote",
-      "node.js"
-    ],
-    "example": {
-      "title": "Release Add support for engines.node and Volta · actions/setup-node",
-      "url": "https://github.com/actions/setup-node/releases/tag/v3.5.0"
-    },
-    "rssUrl": "https://github.com/actions/setup-node/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/sverweij/dependency-cruiser",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "node.js",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · sverweij/dependency-cruiser",
-      "url": "https://github.com/sverweij/dependency-cruiser/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/sverweij/dependency-cruiser/releases.atom"
   },
   {
     "count": 2,
@@ -2057,6 +2010,21 @@
   },
   {
     "count": 2,
+    "url": "https://blog.jxck.io",
+    "tags": [
+      "CSS",
+      "article",
+      "Fetch",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
+      "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
+    },
+    "rssUrl": "https://blog.jxck.io/feeds/atom.xml"
+  },
+  {
+    "count": 2,
     "url": "https://risingstars.js.org",
     "tags": [
       "JavaScript",
@@ -2521,74 +2489,6 @@
       "url": "https://v8.dev/features/iterator-helpers"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mishoo/UglifyJS",
-    "tags": [
-      "JavaScript",
-      "library",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release v3.16.0 · mishoo/UglifyJS",
-      "url": "https://github.com/mishoo/UglifyJS/releases/tag/v3.16.0"
-    },
-    "rssUrl": "https://github.com/mishoo/UglifyJS/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vuejs/vue",
-    "tags": [
-      "Vue",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vue/CHANGELOG.md at main · vuejs/vue",
-      "url": "https://github.com/vuejs/vue/blob/main/CHANGELOG.md#270-alpha1-2022-05-31"
-    },
-    "rssUrl": "https://github.com/vuejs/vue/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.webpagetest.org",
-    "tags": [
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Introducing Opportunities & Experiments: Taking the Guesswork out of Performance - WebPageTest Blog",
-      "url": "https://blog.webpagetest.org/posts/introducing-opportunities-and-experiments/"
-    },
-    "rssUrl": "https://blog.webpagetest.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/WebReflection/highlighted-code",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "WebReflection/highlighted-code: A textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js",
-      "url": "https://github.com/WebReflection/highlighted-code"
-    },
-    "rssUrl": "https://github.com/WebReflection/highlighted-code/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cyco130/vavite",
-    "tags": [
-      "vite",
-      "node.js",
-      "server",
-      "library"
-    ],
-    "example": {
-      "title": "cyco130/vavite: Develop server-side applications with Vite",
-      "url": "https://github.com/cyco130/vavite"
-    },
-    "rssUrl": "https://github.com/cyco130/vavite/releases.atom"
   },
   {
     "count": 1,
@@ -4060,6 +3960,21 @@
       "url": "https://github.com/gioboa/vite-module-federation"
     },
     "rssUrl": "https://github.com/gioboa/vite-module-federation/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/actions/setup-node",
+    "tags": [
+      "Actions",
+      "node.js",
+      "ReleaseNote",
+      "Github"
+    ],
+    "example": {
+      "title": "Release Add support for engines.node and Volta · actions/setup-node",
+      "url": "https://github.com/actions/setup-node/releases/tag/v3.5.0"
+    },
+    "rssUrl": "https://github.com/actions/setup-node/releases.atom"
   },
   {
     "count": 1,
@@ -6476,6 +6391,21 @@
       "url": "https://github.com/microsoft/deoptexplorer-vscode"
     },
     "rssUrl": "https://github.com/microsoft/deoptexplorer-vscode/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sverweij/dependency-cruiser",
+    "tags": [
+      "node.js",
+      "library",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v13.0.0 · sverweij/dependency-cruiser",
+      "url": "https://github.com/sverweij/dependency-cruiser/releases/tag/v13.0.0"
+    },
+    "rssUrl": "https://github.com/sverweij/dependency-cruiser/releases.atom"
   },
   {
     "count": 1,
