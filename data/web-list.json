@@ -116,7 +116,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 24,
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -126,8 +126,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.5 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/"
+      "title": "Announcing TypeScript 5.5 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
