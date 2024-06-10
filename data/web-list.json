@@ -94,12 +94,12 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://webkit.org",
     "tags": [
-      "safari",
-      "ReleaseNote",
       "webkit",
+      "ReleaseNote",
+      "safari",
       "CSS",
       "article",
       "serverless",
