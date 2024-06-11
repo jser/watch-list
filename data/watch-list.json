@@ -361,6 +361,29 @@
     }
   },
   {
+    "count": 10,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "debug",
+      "Tools",
+      "ReleaseNote",
+      "TypeScript",
+      "article",
+      "CSS",
+      "Design",
+      "Development",
+      "React",
+      "storybook",
+      "UI",
+      "test"
+    ],
+    "example": {
+      "title": "Storybook 8.1",
+      "url": "https://storybook.js.org/blog/storybook-8-1/"
+    }
+  },
+  {
     "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
@@ -385,27 +408,6 @@
     "example": {
       "title": "Improved Cloudflare Workers testing via Vitest and workerd",
       "url": "https://blog.cloudflare.com/workers-vitest-integration/"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "TypeScript",
-      "article",
-      "CSS",
-      "Design",
-      "Development",
-      "React",
-      "storybook"
-    ],
-    "example": {
-      "title": "Storybook 8",
-      "url": "https://storybook.js.org/blog/storybook-8/"
     }
   },
   {
@@ -2411,34 +2413,6 @@
     "example": {
       "title": "Iterator helpers · V8",
       "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ghiscoding/lerna-lite",
-    "tags": [
-      "JavaScript",
-      "npm",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release v1.5.0 · ghiscoding/lerna-lite",
-      "url": "https://github.com/ghiscoding/lerna-lite/releases/tag/v1.5.0"
-    },
-    "rssUrl": "https://github.com/ghiscoding/lerna-lite/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://medium.com/@fastifyjs/",
-    "tags": [
-      "node.js",
-      "server",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Fastify v4 GA. After two years we are excited to… | by Fastify | Jun, 2022 | Medium",
-      "url": "https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e"
     }
   },
   {
@@ -9797,6 +9771,88 @@
     "example": {
       "title": "How 1Password Used Esbuild to Cut Browser Extension Build Times | 1Password",
       "url": "https://blog.1password.com/new-extension-build-system/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/biomejs/biome",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release CLI v1.8.0 · biomejs/biome",
+      "url": "https://github.com/biomejs/biome/releases/tag/cli%2Fv1.8.0"
+    },
+    "rssUrl": "https://github.com/biomejs/biome/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/twada/power-assert-monorepo",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "test",
+      "library"
+    ],
+    "example": {
+      "title": "power-assert-monorepo/packages/node at main · twada/power-assert-monorepo",
+      "url": "https://github.com/twada/power-assert-monorepo/tree/main/packages/node"
+    },
+    "rssUrl": "https://github.com/twada/power-assert-monorepo/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/slevithan/regex",
+    "tags": [
+      "JavaScript",
+      "RegExp",
+      "library"
+    ],
+    "example": {
+      "title": "slevithan/regex: Context-aware regex template tag with best practices built-in and advanced features",
+      "url": "https://github.com/slevithan/regex"
+    },
+    "rssUrl": "https://github.com/slevithan/regex/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://martinfowler.com",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "Data Fetching Patterns in Single-Page Applications",
+      "url": "https://martinfowler.com/articles/data-fetch-spa.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tinylibs/tinypool",
+    "tags": [
+      "nodejs",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.0.0 · tinylibs/tinypool",
+      "url": "https://github.com/tinylibs/tinypool/releases/tag/v1.0.0"
+    },
+    "rssUrl": "https://github.com/tinylibs/tinypool/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://pavel-romanov.com",
+    "tags": [
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Mastering Node.js Performance Hooks",
+      "url": "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model"
     }
   }
 ]

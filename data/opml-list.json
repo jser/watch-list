@@ -689,12 +689,6 @@
     ]
   },
   {
-    "url": "https://medium.com/@fastifyjs/",
-    "feeds": [
-      "https://medium.com/feed/@fastifyjs"
-    ]
-  },
-  {
     "url": "https://medium.com/miro-engineering/",
     "feeds": [
       "https://medium.com/feed/miro-engineering"
@@ -804,6 +798,13 @@
     "url": "https://parceljs.org",
     "feeds": [
       "https://parceljs.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://pavel-romanov.com",
+    "feeds": [
+      "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml",
+      "https://pavel-romanov.com/rss.xml"
     ]
   },
   {
