@@ -845,12 +845,6 @@
     ]
   },
   {
-    "url": "https://github.com/ghiscoding/lerna-lite",
-    "feeds": [
-      "https://github.com/ghiscoding/lerna-lite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ranyitz/qnm",
     "feeds": [
       "https://github.com/ranyitz/qnm/releases.atom"
@@ -2213,6 +2207,30 @@
     ]
   },
   {
+    "url": "https://github.com/biomejs/biome",
+    "feeds": [
+      "https://github.com/biomejs/biome/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/twada/power-assert-monorepo",
+    "feeds": [
+      "https://github.com/twada/power-assert-monorepo/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/slevithan/regex",
+    "feeds": [
+      "https://github.com/slevithan/regex/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tinylibs/tinypool",
+    "feeds": [
+      "https://github.com/tinylibs/tinypool/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2387,12 +2405,6 @@
     ]
   },
   {
-    "url": "https://medium.com/@fastifyjs/",
-    "feeds": [
-      "https://medium.com/feed/@fastifyjs"
-    ]
-  },
-  {
     "url": "https://medium.com/miro-engineering/",
     "feeds": [
       "https://medium.com/feed/miro-engineering"
@@ -2502,6 +2514,13 @@
     "url": "https://parceljs.org",
     "feeds": [
       "https://parceljs.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://pavel-romanov.com",
+    "feeds": [
+      "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml",
+      "https://pavel-romanov.com/rss.xml"
     ]
   },
   {
