@@ -141,8 +141,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/ranyitz/qnm" title="github.com/ranyitz/qnm" type="rss" xmlUrl="https://github.com/ranyitz/qnm/releases.atom"/>
-<outline text="github.com/fastify/fastify-dx" title="github.com/fastify/fastify-dx" type="rss" xmlUrl="https://github.com/fastify/fastify-dx/releases.atom"/>
 <outline text="github.com/PlasmoHQ/plasmo" title="github.com/PlasmoHQ/plasmo" type="rss" xmlUrl="https://github.com/PlasmoHQ/plasmo/releases.atom"/>
 <outline text="github.com/preactjs/preact" title="github.com/preactjs/preact" type="rss" xmlUrl="https://github.com/preactjs/preact/releases.atom"/>
 <outline text="github.com/taozhi8833998/node-sql-parser" title="github.com/taozhi8833998/node-sql-parser" type="rss" xmlUrl="https://github.com/taozhi8833998/node-sql-parser/releases.atom"/>

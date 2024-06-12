@@ -845,18 +845,6 @@
     ]
   },
   {
-    "url": "https://github.com/ranyitz/qnm",
-    "feeds": [
-      "https://github.com/ranyitz/qnm/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/fastify/fastify-dx",
-    "feeds": [
-      "https://github.com/fastify/fastify-dx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/PlasmoHQ/plasmo",
     "feeds": [
       "https://github.com/PlasmoHQ/plasmo/releases.atom"
