@@ -845,12 +845,6 @@
     ]
   },
   {
-    "url": "https://github.com/PlasmoHQ/plasmo",
-    "feeds": [
-      "https://github.com/PlasmoHQ/plasmo/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/preactjs/preact",
     "feeds": [
       "https://github.com/preactjs/preact/releases.atom"
