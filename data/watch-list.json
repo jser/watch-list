@@ -127,15 +127,15 @@
     }
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://web.dev",
     "tags": [
-      "browser",
-      "article",
       "Chrome",
       "performance",
+      "article",
       "HTML",
       "tutorial",
+      "browser",
       "accessibility",
       "Image",
       "privacy",
@@ -204,15 +204,15 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 15,
+    "count": 16,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 126.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/126.0/releasenotes/"
+      "title": "Firefox 127.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/127.0/releasenotes/"
     }
   },
   {
@@ -1357,6 +1357,23 @@
     }
   },
   {
+    "count": 3,
+    "url": "https://v8.dev",
+    "tags": [
+      "ECMAScript",
+      "article",
+      "V8",
+      "JavaScript",
+      "Chrome",
+      "WebAssembly",
+      "Promises"
+    ],
+    "example": {
+      "title": "WebAssembly JSPI has a new API · V8",
+      "url": "https://v8.dev/blog/jspi-newapi"
+    }
+  },
+  {
     "count": 2,
     "url": "https://github.com/facebook/react",
     "tags": [
@@ -2222,6 +2239,20 @@
   },
   {
     "count": 2,
+    "url": "https://turbo.build",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "monorepo"
+    ],
+    "example": {
+      "title": "Turborepo 2.0",
+      "url": "https://turbo.build/blog/turbo-2-0"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/reduxjs/react-redux",
     "tags": [
       "React",
@@ -2399,35 +2430,6 @@
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://v8.dev",
-    "tags": [
-      "ECMAScript",
-      "article",
-      "V8",
-      "JavaScript",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Iterator helpers · V8",
-      "url": "https://v8.dev/features/iterator-helpers"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/PlasmoHQ/plasmo",
-    "tags": [
-      "browser",
-      "Extension",
-      "library"
-    ],
-    "example": {
-      "title": "PlasmoHQ/plasmo: The browser extension framework",
-      "url": "https://github.com/PlasmoHQ/plasmo"
-    },
-    "rssUrl": "https://github.com/PlasmoHQ/plasmo/releases.atom"
   },
   {
     "count": 1,
@@ -6390,19 +6392,6 @@
       "url": "https://github.com/evanw/polywasm"
     },
     "rssUrl": "https://github.com/evanw/polywasm/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://turbo.build",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Turborepo 1.10 – Turbo",
-      "url": "https://turbo.build/blog/turbo-1-10-0"
-    }
   },
   {
     "count": 1,
