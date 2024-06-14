@@ -61,6 +61,7 @@
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
 <outline text="defensivecss.dev" title="defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
+<outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
 <outline text="dev.to/hemanth/" title="dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
 <outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
 <outline text="dev.to/nicklucas/" title="dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
@@ -262,5 +263,6 @@
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 <outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
+<outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 </body>
 </opml>

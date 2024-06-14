@@ -356,6 +356,12 @@
     ]
   },
   {
+    "url": "https://design.digital.go.jp",
+    "feeds": [
+      "https://design.digital.go.jp/feed.xml"
+    ]
+  },
+  {
     "url": "https://dev.to/hemanth/",
     "feeds": [
       "https://dev.to/feed/hemanth"
@@ -1651,6 +1657,12 @@
     "url": "https://zenn.dev/uhyo/",
     "feeds": [
       "https://zenn.dev/uhyo/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/mizchi/",
+    "feeds": [
+      "https://zenn.dev/mizchi/feed"
     ]
   }
 ]
