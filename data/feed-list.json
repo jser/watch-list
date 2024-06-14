@@ -356,6 +356,12 @@
     ]
   },
   {
+    "url": "https://design.digital.go.jp",
+    "feeds": [
+      "https://design.digital.go.jp/feed.xml"
+    ]
+  },
+  {
     "url": "https://dev.to/hemanth/",
     "feeds": [
       "https://dev.to/feed/hemanth"
@@ -533,12 +539,6 @@
     ]
   },
   {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
@@ -548,6 +548,12 @@
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -3361,6 +3367,12 @@
     "url": "https://zenn.dev/uhyo/",
     "feeds": [
       "https://zenn.dev/uhyo/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/mizchi/",
+    "feeds": [
+      "https://zenn.dev/mizchi/feed"
     ]
   }
 ]
