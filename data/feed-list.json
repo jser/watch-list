@@ -851,12 +851,6 @@
     ]
   },
   {
-    "url": "https://github.com/preactjs/preact",
-    "feeds": [
-      "https://github.com/preactjs/preact/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/taozhi8833998/node-sql-parser",
     "feeds": [
       "https://github.com/taozhi8833998/node-sql-parser/releases.atom"
