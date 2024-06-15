@@ -142,7 +142,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/preactjs/preact" title="github.com/preactjs/preact" type="rss" xmlUrl="https://github.com/preactjs/preact/releases.atom"/>
 <outline text="github.com/taozhi8833998/node-sql-parser" title="github.com/taozhi8833998/node-sql-parser" type="rss" xmlUrl="https://github.com/taozhi8833998/node-sql-parser/releases.atom"/>
 <outline text="github.com/sindresorhus/ow" title="github.com/sindresorhus/ow" type="rss" xmlUrl="https://github.com/sindresorhus/ow/releases.atom"/>
 <outline text="github.com/coder-mike/microvium" title="github.com/coder-mike/microvium" type="rss" xmlUrl="https://github.com/coder-mike/microvium/releases.atom"/>
