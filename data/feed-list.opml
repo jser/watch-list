@@ -96,7 +96,6 @@
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
-<outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
@@ -112,8 +111,8 @@
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
+<outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
-<outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/infernojs/inferno" title="github.com/infernojs/inferno" type="rss" xmlUrl="https://github.com/infernojs/inferno/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
@@ -360,6 +359,7 @@
 <outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
 <outline text="github.com/quilljs/quill" title="github.com/quilljs/quill" type="rss" xmlUrl="https://github.com/quilljs/quill/releases.atom"/>
 <outline text="github.com/jacob-ebey/turbo-stream" title="github.com/jacob-ebey/turbo-stream" type="rss" xmlUrl="https://github.com/jacob-ebey/turbo-stream/releases.atom"/>
+<outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/sindresorhus/execa" title="github.com/sindresorhus/execa" type="rss" xmlUrl="https://github.com/sindresorhus/execa/releases.atom"/>
 <outline text="github.com/jasonkuhrt/graphql-request" title="github.com/jasonkuhrt/graphql-request" type="rss" xmlUrl="https://github.com/jasonkuhrt/graphql-request/releases.atom"/>
 <outline text="github.com/farzher/fuzzysort" title="github.com/farzher/fuzzysort" type="rss" xmlUrl="https://github.com/farzher/fuzzysort/releases.atom"/>

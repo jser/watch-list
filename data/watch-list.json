@@ -22,7 +22,7 @@
     }
   },
   {
-    "count": 42,
+    "count": 43,
     "url": "https://developer.chrome.com",
     "tags": [
       "CSS",
@@ -44,8 +44,8 @@
       "LanguageModel"
     ],
     "example": {
-      "title": "Understand errors and warnings better with Gemini  |  Chrome DevTools  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/docs/devtools/console/understand-messages"
+      "title": "New in Chrome 126  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-126?hl=en"
     }
   },
   {
@@ -245,6 +245,19 @@
   },
   {
     "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 31.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-31-0"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -317,15 +330,16 @@
   },
   {
     "count": 10,
-    "url": "https://www.electronjs.org",
+    "url": "https://ecmascript-daily.github.io",
     "tags": [
-      "Electron",
-      "ReleaseNote",
+      "ECMAScript",
+      "proposal",
+      "news",
       "article"
     ],
     "example": {
-      "title": "Electron 30.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-30-0"
+      "title": "ECMAScript proposal updates @ 2024-06 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/06/15/ecmascript-proposal-update"
     }
   },
   {
@@ -398,35 +412,6 @@
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
-    "count": 9,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-04 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/04/17/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "Remix",
-      "React"
-    ],
-    "example": {
-      "title": "remix/CHANGELOG.md at main · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
     "count": 7,
     "url": "https://2ality.com",
     "tags": [
@@ -442,6 +427,37 @@
       "title": "TypeScript and native ESM on Node.js",
       "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
     }
+  },
+  {
+    "count": 7,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "article",
+      "news"
+    ],
+    "example": {
+      "title": "Nuxt 3.12 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-12"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "Remix",
+      "ReleaseNote",
+      "React",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "remix/CHANGELOG.md at main · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 7,
@@ -686,20 +702,6 @@
   },
   {
     "count": 5,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Nuxt 3.11 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-11"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://blog.angular.io",
     "tags": [
       "Angular",
@@ -759,24 +761,6 @@
       "title": "Biome v1.7 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "shell",
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "ShellScript",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release 8.1.0 · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/8.1.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 4,
@@ -1280,6 +1264,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "ShellScript",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release 8.1.0 · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.1.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -1372,20 +1372,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 18.3.0 (April 25, 2024) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/v18.3.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 2,
@@ -9408,6 +9394,19 @@
       "title": "Webフロントエンド版DX Criteria (v202402)/プロダクトのユーザー体験と変化に適応するチームのためのガイドライン",
       "url": "https://dxcriteria.cto-a.org/frontend"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "React",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 18.3.0 (April 25, 2024) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/v18.3.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 1,
