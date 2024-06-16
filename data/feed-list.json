@@ -575,12 +575,6 @@
     ]
   },
   {
-    "url": "https://github.com/google/zx",
-    "feeds": [
-      "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
@@ -671,15 +665,15 @@
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
+    "url": "https://github.com/google/zx",
     "feeds": [
-      "https://github.com/axios/axios/releases.atom"
+      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/facebook/react",
+    "url": "https://github.com/axios/axios",
     "feeds": [
-      "https://github.com/facebook/react/releases.atom"
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -2156,6 +2150,12 @@
     "url": "https://github.com/jacob-ebey/turbo-stream",
     "feeds": [
       "https://github.com/jacob-ebey/turbo-stream/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
