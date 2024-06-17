@@ -386,6 +386,12 @@
     ]
   },
   {
+    "url": "https://dev.to/subu_hunter/",
+    "feeds": [
+      "https://dev.to/feed/subu_hunter"
+    ]
+  },
+  {
     "url": "https://devblogs.microsoft.com",
     "feeds": [
       "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
@@ -521,15 +527,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pnpm/pnpm",
     "feeds": [
       "https://github.com/pnpm/pnpm/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -842,12 +848,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/taozhi8833998/node-sql-parser",
-    "feeds": [
-      "https://github.com/taozhi8833998/node-sql-parser/releases.atom"
     ]
   },
   {
@@ -2210,6 +2210,12 @@
     "url": "https://github.com/tinylibs/tinypool",
     "feeds": [
       "https://github.com/tinylibs/tinypool/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/acornjs/acorn",
+    "feeds": [
+      "https://github.com/acornjs/acorn/releases.atom"
     ]
   },
   {
