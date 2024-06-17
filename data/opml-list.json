@@ -386,6 +386,12 @@
     ]
   },
   {
+    "url": "https://dev.to/subu_hunter/",
+    "feeds": [
+      "https://dev.to/feed/subu_hunter"
+    ]
+  },
+  {
     "url": "https://devblogs.microsoft.com",
     "feeds": [
       "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"

@@ -66,6 +66,7 @@
 <outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
 <outline text="dev.to/nicklucas/" title="dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
 <outline text="dev.to/codux/" title="dev.to/codux/" type="rss" xmlUrl="https://dev.to/feed/codux"/>
+<outline text="dev.to/subu_hunter/" title="dev.to/subu_hunter/" type="rss" xmlUrl="https://dev.to/feed/subu_hunter"/>
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
@@ -87,8 +88,8 @@
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
 <outline text="gist.github.com/andrewbranch" title="gist.github.com/andrewbranch" type="rss" xmlUrl="https://gist.github.com/andrewbranch.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
-<outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
+<outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
@@ -141,7 +142,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/taozhi8833998/node-sql-parser" title="github.com/taozhi8833998/node-sql-parser" type="rss" xmlUrl="https://github.com/taozhi8833998/node-sql-parser/releases.atom"/>
 <outline text="github.com/sindresorhus/ow" title="github.com/sindresorhus/ow" type="rss" xmlUrl="https://github.com/sindresorhus/ow/releases.atom"/>
 <outline text="github.com/coder-mike/microvium" title="github.com/coder-mike/microvium" type="rss" xmlUrl="https://github.com/coder-mike/microvium/releases.atom"/>
 <outline text="github.com/socketio/socket.io" title="github.com/socketio/socket.io" type="rss" xmlUrl="https://github.com/socketio/socket.io/releases.atom"/>
@@ -369,6 +369,7 @@
 <outline text="github.com/twada/power-assert-monorepo" title="github.com/twada/power-assert-monorepo" type="rss" xmlUrl="https://github.com/twada/power-assert-monorepo/releases.atom"/>
 <outline text="github.com/slevithan/regex" title="github.com/slevithan/regex" type="rss" xmlUrl="https://github.com/slevithan/regex/releases.atom"/>
 <outline text="github.com/tinylibs/tinypool" title="github.com/tinylibs/tinypool" type="rss" xmlUrl="https://github.com/tinylibs/tinypool/releases.atom"/>
+<outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>

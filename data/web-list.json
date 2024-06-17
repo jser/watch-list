@@ -50,7 +50,7 @@
     }
   },
   {
-    "count": 42,
+    "count": 43,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -66,18 +66,18 @@
       "windows"
     ],
     "example": {
-      "title": "Bun v1.1.9 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.9"
+      "title": "Bun v1.1.13 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.13"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 30,
+    "count": 29,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "ReleaseNote",
       "React",
+      "ReleaseNote",
       "news",
       "V8",
       "article",
@@ -179,23 +179,6 @@
   },
   {
     "count": 16,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "Tools",
-      "ReleaseNote",
-      "CSS",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.21.3 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.3"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 16,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "npm",
@@ -220,6 +203,23 @@
       "title": "Firefox 127.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/127.0/releasenotes/"
     }
+  },
+  {
+    "count": 15,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote",
+      "Tools",
+      "CSS",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.21.3 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.3"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 11,
@@ -2494,20 +2494,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/taozhi8833998/node-sql-parser",
-    "tags": [
-      "JavaScript",
-      "SQL",
-      "library"
-    ],
-    "example": {
-      "title": "taozhi8833998/node-sql-parser: Parse simple SQL statements into an abstract syntax tree (AST) with the visited tableList and convert it back to SQL",
-      "url": "https://github.com/taozhi8833998/node-sql-parser"
-    },
-    "rssUrl": "https://github.com/taozhi8833998/node-sql-parser/releases.atom"
   },
   {
     "count": 1,
@@ -10074,5 +10060,44 @@
       "url": "https://zenn.dev/mizchi/articles/typescript-type-value-validation"
     },
     "rssUrl": "https://zenn.dev/mizchi/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/acornjs/acorn",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 8.12.0 · acornjs/acorn",
+      "url": "https://github.com/acornjs/acorn/releases/tag/8.12.0"
+    },
+    "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://codemod.com",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "Codemod partnering with the React team",
+      "url": "https://codemod.com/blog/react-announcement"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://dev.to/subu_hunter/",
+    "tags": [
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "Build Stunning Responsive Card Tables with CSS4 & CSS5 - DEV Community",
+      "url": "https://dev.to/subu_hunter/build-stunning-responsive-card-tables-with-css4-css5-1fai"
+    },
+    "rssUrl": "https://dev.to/feed/subu_hunter"
   }
 ]
