@@ -1076,22 +1076,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/redwoodjs/redwood",
-    "tags": [
-      "node.js",
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · redwoodjs/redwood",
-      "url": "https://github.com/redwoodjs/redwood/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/jsdom/jsdom",
     "tags": [
       "JavaScript",
@@ -2188,6 +2172,22 @@
       "url": "https://shisama.hatenablog.com/entry/2023/12/16/151553"
     },
     "rssUrl": "https://shisama.hatenablog.com/feed"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/redwoodjs/redwood",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "library",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · redwoodjs/redwood",
+      "url": "https://github.com/redwoodjs/redwood/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 2,

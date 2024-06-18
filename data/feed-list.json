@@ -623,12 +623,6 @@
     ]
   },
   {
-    "url": "https://github.com/redwoodjs/redwood",
-    "feeds": [
-      "https://github.com/redwoodjs/redwood/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
@@ -800,6 +794,12 @@
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/redwoodjs/redwood",
+    "feeds": [
+      "https://github.com/redwoodjs/redwood/releases.atom"
     ]
   },
   {
