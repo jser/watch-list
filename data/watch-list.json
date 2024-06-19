@@ -580,26 +580,6 @@
   },
   {
     "count": 5,
-    "url": "https://moonrepo.dev",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "node.js",
-      "deno",
-      "Bun",
-      "golang",
-      "console",
-      "Rust",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
-      "url": "https://moonrepo.dev/blog/moon-v1.0"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://blog.vuejs.org",
     "tags": [
       "Vue",
@@ -959,6 +939,26 @@
   },
   {
     "count": 4,
+    "url": "https://moonrepo.dev",
+    "tags": [
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "node.js",
+      "deno",
+      "Bun",
+      "golang",
+      "console",
+      "Rust",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
+      "url": "https://moonrepo.dev/blog/moon-v1.0"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://www.webkit.org",
     "tags": [
       "WebComponents",
@@ -1261,6 +1261,21 @@
       "url": "https://github.com/google/zx/releases/tag/8.1.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://openjsf.org",
+    "tags": [
+      "node.js",
+      "security",
+      "article",
+      "nodejs",
+      "npm"
+    ],
+    "example": {
+      "title": "Node.js Security Progress Report: Redefining Security Processes and Key Initiatives | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/nodejs-security-progress-report-may-2024?utm_content=297186945&utm_medium=social&utm_source=twitter&hss_channel=tw-91985735"
+    }
   },
   {
     "count": 3,
@@ -2033,21 +2048,6 @@
       "url": "https://github.com/remix-run/react-router/releases/tag/react-router%406.14.0"
     },
     "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://openjsf.org",
-    "tags": [
-      "node.js",
-      "security",
-      "article",
-      "nodejs",
-      "npm"
-    ],
-    "example": {
-      "title": "Why Should You Care About Package Metadata Interoperability? | OpenJS Foundation",
-      "url": "https://openjsf.org/blog/package-metadata-interoperability-collab-space-intro"
-    }
   },
   {
     "count": 2,
