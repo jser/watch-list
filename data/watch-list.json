@@ -199,13 +199,13 @@
     }
   },
   {
-    "count": 15,
+    "count": 14,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
-      "bundler",
-      "ReleaseNote",
       "Tools",
+      "ReleaseNote",
+      "bundler",
       "CSS",
       "esbuild"
     ],
@@ -1038,21 +1038,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 23.2.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/23.2.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "JavaScript",
@@ -1371,36 +1356,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/vercel/swr",
-    "tags": [
-      "React",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.1.0 · vercel/swr",
-      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
-    },
-    "rssUrl": "https://github.com/vercel/swr/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/infernojs/inferno",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "DOM"
-    ],
-    "example": {
-      "title": "Release Inferno v8.0.0 · infernojs/inferno",
-      "url": "https://github.com/infernojs/inferno/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/infernojs/inferno/releases.atom"
   },
   {
     "count": 2,
@@ -2121,6 +2076,21 @@
       "url": "https://github.com/redwoodjs/redwood/releases/tag/v6.0.0"
     },
     "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 23.2.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/23.2.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 2,
@@ -3086,6 +3056,21 @@
       "url": "https://github.com/electron/electron/releases/tag/v20.0.0"
     },
     "rssUrl": "https://github.com/electron/electron/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/infernojs/inferno",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Inferno v8.0.0 · infernojs/inferno",
+      "url": "https://github.com/infernojs/inferno/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/infernojs/inferno/releases.atom"
   },
   {
     "count": 1,
@@ -5390,6 +5375,21 @@
       "title": "Experiments with the JavaScript Garbage Collector - DEV Community",
       "url": "https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel/swr",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.1.0 · vercel/swr",
+      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
+    },
+    "rssUrl": "https://github.com/vercel/swr/releases.atom"
   },
   {
     "count": 1,
