@@ -623,12 +623,6 @@
     ]
   },
   {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
@@ -674,18 +668,6 @@
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vercel/swr",
-    "feeds": [
-      "https://github.com/vercel/swr/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/infernojs/inferno",
-    "feeds": [
-      "https://github.com/infernojs/inferno/releases.atom"
     ]
   },
   {
@@ -800,6 +782,12 @@
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -998,6 +986,12 @@
     "url": "https://github.com/electron/electron",
     "feeds": [
       "https://github.com/electron/electron/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/infernojs/inferno",
+    "feeds": [
+      "https://github.com/infernojs/inferno/releases.atom"
     ]
   },
   {
@@ -1454,6 +1448,12 @@
     "url": "https://github.com/natemoo-re/clack",
     "feeds": [
       "https://github.com/natemoo-re/clack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel/swr",
+    "feeds": [
+      "https://github.com/vercel/swr/releases.atom"
     ]
   },
   {
