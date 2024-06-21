@@ -282,29 +282,6 @@
   },
   {
     "count": 10,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "video",
-      "React",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "C++",
-      "Next.js",
-      "nodejs",
-      "history"
-    ],
-    "example": {
-      "title": "Node.js: The Documentary | An origin story - YouTube",
-      "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 10,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "JavaScript",
@@ -424,22 +401,27 @@
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
-    "count": 7,
-    "url": "https://2ality.com",
+    "count": 9,
+    "url": "https://www.youtube.com",
     "tags": [
-      "node.js",
-      "stream",
-      "article",
-      "URL",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
+      "React",
+      "video",
+      "JavaScript",
+      "Conference",
+      "performance",
+      "TypeScript",
+      "blink",
+      "Chrome",
+      "C++",
+      "Next.js",
+      "nodejs",
+      "history"
     ],
     "example": {
-      "title": "TypeScript and native ESM on Node.js",
-      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
+      "title": "Node.js: The Documentary | An origin story - YouTube",
+      "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
     },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 7,
@@ -526,6 +508,23 @@
       "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
     },
     "rssUrl": "https://reactnative.dev/blog/rss.xml"
+  },
+  {
+    "count": 6,
+    "url": "https://2ality.com",
+    "tags": [
+      "node.js",
+      "article",
+      "URL",
+      "ECMAScript",
+      "proposal",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "TypeScript and native ESM on Node.js",
+      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
   },
   {
     "count": 6,
@@ -1401,22 +1400,6 @@
       "url": "https://v8.dev/blog/jspi-newapi"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://blog.nrwl.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "monorepo",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "What’s New With Lerna 6.5?. In case you missed it, Lerna version… | by Zack DeRose | Feb, 2023 | Nx Devtools",
-      "url": "https://blog.nrwl.io/whats-new-with-lerna-6-5-4a4f69371504"
-    },
-    "rssUrl": "https://blog.nrwl.io/feed"
   },
   {
     "count": 2,
@@ -2464,34 +2447,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://www.gabe.pizza",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Notes on maintaining an internal React component library | Gabe's blog",
-      "url": "https://www.gabe.pizza/notes-on-component-libraries/"
-    },
-    "rssUrl": "https://www.gabe.pizza/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/sindresorhus/ow",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.0.0 · sindresorhus/ow",
-      "url": "https://github.com/sindresorhus/ow/releases/tag/v1.0.0"
-    },
-    "rssUrl": "https://github.com/sindresorhus/ow/releases.atom"
   },
   {
     "count": 1,
@@ -5411,6 +5366,21 @@
       "url": "https://zenn.dev/yusukehirao/articles/popover-api-and-attributes"
     },
     "rssUrl": "https://zenn.dev/yusukehirao/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.nrwl.io",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "What’s New With Lerna 6.5?. In case you missed it, Lerna version… | by Zack DeRose | Feb, 2023 | Nx Devtools",
+      "url": "https://blog.nrwl.io/whats-new-with-lerna-6-5-4a4f69371504"
+    },
+    "rssUrl": "https://blog.nrwl.io/feed"
   },
   {
     "count": 1,
@@ -10099,5 +10069,17 @@
       "url": "https://dev.to/subu_hunter/build-stunning-responsive-card-tables-with-css4-css5-1fai"
     },
     "rssUrl": "https://dev.to/feed/subu_hunter"
+  },
+  {
+    "count": 1,
+    "url": "https://2023.stateofjs.com",
+    "tags": [
+      "JavaScript",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of JavaScript 2023",
+      "url": "https://2023.stateofjs.com/en-US/"
+    }
   }
 ]

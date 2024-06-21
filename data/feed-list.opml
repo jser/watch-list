@@ -140,7 +140,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/sindresorhus/ow" title="github.com/sindresorhus/ow" type="rss" xmlUrl="https://github.com/sindresorhus/ow/releases.atom"/>
 <outline text="github.com/coder-mike/microvium" title="github.com/coder-mike/microvium" type="rss" xmlUrl="https://github.com/coder-mike/microvium/releases.atom"/>
 <outline text="github.com/socketio/socket.io" title="github.com/socketio/socket.io" type="rss" xmlUrl="https://github.com/socketio/socket.io/releases.atom"/>
 <outline text="github.com/astoilkov/main-thread-scheduling" title="github.com/astoilkov/main-thread-scheduling" type="rss" xmlUrl="https://github.com/astoilkov/main-thread-scheduling/releases.atom"/>
@@ -487,7 +486,6 @@
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.feelback.dev" title="www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
 <outline text="www.fermyon.com" title="www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
-<outline text="www.gabe.pizza" title="www.gabe.pizza" type="rss" xmlUrl="https://www.gabe.pizza/rss.xml"/>
 <outline text="www.honeybadger.io" title="www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
 <outline text="www.htmhell.dev" title="www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
 <outline text="www.inngest.com" title="www.inngest.com" type="rss" xmlUrl="https://www.inngest.com/api/rss.xml"/>
