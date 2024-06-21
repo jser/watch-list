@@ -839,12 +839,6 @@
     ]
   },
   {
-    "url": "https://github.com/sindresorhus/ow",
-    "feeds": [
-      "https://github.com/sindresorhus/ow/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/coder-mike/microvium",
     "feeds": [
       "https://github.com/coder-mike/microvium/releases.atom"
@@ -2979,12 +2973,6 @@
     "url": "https://www.fermyon.com",
     "feeds": [
       "https://www.fermyon.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.gabe.pizza",
-    "feeds": [
-      "https://www.gabe.pizza/rss.xml"
     ]
   },
   {

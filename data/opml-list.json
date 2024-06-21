@@ -1284,12 +1284,6 @@
     ]
   },
   {
-    "url": "https://www.gabe.pizza",
-    "feeds": [
-      "https://www.gabe.pizza/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.honeybadger.io",
     "feeds": [
       "https://www.honeybadger.io/blog/feed.xml"
