@@ -839,12 +839,6 @@
     ]
   },
   {
-    "url": "https://github.com/coder-mike/microvium",
-    "feeds": [
-      "https://github.com/coder-mike/microvium/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/socketio/socket.io",
     "feeds": [
       "https://github.com/socketio/socket.io/releases.atom"
@@ -2851,12 +2845,6 @@
     "feeds": [
       "https://webkit.org/feed/",
       "https://webkit.org/feed/atom/"
-    ]
-  },
-  {
-    "url": "https://whistlr.info",
-    "feeds": [
-      "https://samthor.au/rss.xml"
     ]
   },
   {
