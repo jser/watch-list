@@ -140,7 +140,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/coder-mike/microvium" title="github.com/coder-mike/microvium" type="rss" xmlUrl="https://github.com/coder-mike/microvium/releases.atom"/>
 <outline text="github.com/socketio/socket.io" title="github.com/socketio/socket.io" type="rss" xmlUrl="https://github.com/socketio/socket.io/releases.atom"/>
 <outline text="github.com/astoilkov/main-thread-scheduling" title="github.com/astoilkov/main-thread-scheduling" type="rss" xmlUrl="https://github.com/astoilkov/main-thread-scheduling/releases.atom"/>
 <outline text="github.com/open-source-labs/reactime" title="github.com/open-source-labs/reactime" type="rss" xmlUrl="https://github.com/open-source-labs/reactime/releases.atom"/>
@@ -468,7 +467,6 @@
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
-<outline text="whistlr.info" title="whistlr.info" type="rss" xmlUrl="https://samthor.au/rss.xml"/>
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>

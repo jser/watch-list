@@ -1162,12 +1162,6 @@
     ]
   },
   {
-    "url": "https://whistlr.info",
-    "feeds": [
-      "https://samthor.au/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.11ty.dev",
     "feeds": [
       "https://www.11ty.dev/docs/plugins/rss/"
