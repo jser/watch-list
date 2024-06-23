@@ -1,6 +1,6 @@
 [
   {
-    "count": 57,
+    "count": 58,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.3.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.3.0"
+      "title": "Node.js — Node v20.15.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v20.15.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -116,7 +116,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -126,8 +126,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.5 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/"
+      "title": "Announcing TypeScript 5.5 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -1043,6 +1043,22 @@
   },
   {
     "count": 4,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "JavaScript",
+      "article",
+      "TypeScript",
+      "eslib",
+      "Tools",
+      "RegExp"
+    ],
+    "example": {
+      "title": "TypeScript 5.5 で追加された正規表現構文チェックを理解する",
+      "url": "https://zenn.dev/cybozu_frontend/articles/349e9a778dfe0b"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
@@ -1321,21 +1337,6 @@
   },
   {
     "count": 3,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "JavaScript",
-      "article",
-      "TypeScript",
-      "eslib",
-      "Tools"
-    ],
-    "example": {
-      "title": "「実装例から見る React のテストの書き方」をアップデートする",
-      "url": "https://zenn.dev/cybozu_frontend/articles/update-test-libraries"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://learning.oreilly.com",
     "tags": [
       "nodejs",
@@ -1403,19 +1404,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.ecma-international.org",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ecma International approves new standards - Ecma International",
-      "url": "https://www.ecma-international.org/news/ecma-international-approves-new-standards-at-the-125th-general-assembly-27-june-2023/"
-    },
-    "rssUrl": "https://ecma-international.org/feed/"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/capricorn86/happy-dom",
     "tags": [
       "JavaScript",
@@ -1461,6 +1449,21 @@
       "url": "https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/"
     },
     "rssUrl": "https://blog.isquaredsoftware.com/index.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://nodered.org",
+    "tags": [
+      "node.js",
+      "library",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Version 4.0 released : Node-RED",
+      "url": "https://nodered.org/blog/2024/06/20/version-4-0-released"
+    },
+    "rssUrl": "https://nodered.org/feed.xml"
   },
   {
     "count": 2,
@@ -2803,20 +2806,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v5.8.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://nodered.org",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Version 3.0 released : Node-RED",
-      "url": "https://nodered.org/blog/2022/07/14/version-3-0-released"
-    },
-    "rssUrl": "https://nodered.org/feed.xml"
   },
   {
     "count": 1,
@@ -6539,6 +6528,19 @@
       "url": "https://kizu.dev/cyclic-toggles/"
     },
     "rssUrl": "https://feeds.feedburner.com/kizuruen"
+  },
+  {
+    "count": 1,
+    "url": "https://www.ecma-international.org",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ecma International approves new standards - Ecma International",
+      "url": "https://www.ecma-international.org/news/ecma-international-approves-new-standards-at-the-125th-general-assembly-27-june-2023/"
+    },
+    "rssUrl": "https://ecma-international.org/feed/"
   },
   {
     "count": 1,
