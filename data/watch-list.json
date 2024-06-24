@@ -2376,19 +2376,6 @@
   },
   {
     "count": 1,
-    "url": "https://lists.webkit.org",
-    "tags": [
-      "webkit",
-      "Github",
-      "news"
-    ],
-    "example": {
-      "title": "[webkit-dev] WebKit is now on GitHub",
-      "url": "https://lists.webkit.org/pipermail/webkit-dev/2022-June/032312.html"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://marijnhaverbeke.nl",
     "tags": [
       "JavaScript",
