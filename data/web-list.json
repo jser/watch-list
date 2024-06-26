@@ -493,24 +493,6 @@
   },
   {
     "count": 6,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "ReleaseNote",
-      "article",
-      "TypeScript",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
-  },
-  {
-    "count": 6,
     "url": "https://2ality.com",
     "tags": [
       "node.js",
@@ -616,6 +598,24 @@
       "url": "https://efcl.info/2024/02/04/emitwarning/"
     },
     "rssUrl": "https://efcl.info/feed/"
+  },
+  {
+    "count": 5,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "article",
+      "ReleaseNote",
+      "TypeScript",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 5,
@@ -2450,21 +2450,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://marijnhaverbeke.nl",
-    "tags": [
-      "JavaScript",
-      "editor",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "CodeMirror 6.0",
-      "url": "https://marijnhaverbeke.nl/blog/codemirror-6.html"
-    },
-    "rssUrl": "https://marijnhaverbeke.nl/blog/feed.atom"
   },
   {
     "count": 1,

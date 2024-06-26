@@ -478,23 +478,6 @@
   },
   {
     "count": 6,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "ReleaseNote",
-      "article",
-      "TypeScript",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://2ality.com",
     "tags": [
       "node.js",
@@ -594,6 +577,23 @@
     "example": {
       "title": "Node.jsで機能やパッケージの非推奨メッセージを通知する方法 | Web Scratch",
       "url": "https://efcl.info/2024/02/04/emitwarning/"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "article",
+      "ReleaseNote",
+      "TypeScript",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
     }
   },
   {
@@ -2372,20 +2372,6 @@
     "example": {
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://marijnhaverbeke.nl",
-    "tags": [
-      "JavaScript",
-      "editor",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "CodeMirror 6.0",
-      "url": "https://marijnhaverbeke.nl/blog/codemirror-6.html"
     }
   },
   {

@@ -2343,12 +2343,6 @@
     ]
   },
   {
-    "url": "https://marijnhaverbeke.nl",
-    "feeds": [
-      "https://marijnhaverbeke.nl/blog/feed.atom"
-    ]
-  },
-  {
     "url": "https://marmooo.blogspot.com",
     "feeds": [
       "https://marmooo.blogspot.com/feeds/posts/default",
