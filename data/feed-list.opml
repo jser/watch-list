@@ -140,7 +140,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/socketio/socket.io" title="github.com/socketio/socket.io" type="rss" xmlUrl="https://github.com/socketio/socket.io/releases.atom"/>
 <outline text="github.com/astoilkov/main-thread-scheduling" title="github.com/astoilkov/main-thread-scheduling" type="rss" xmlUrl="https://github.com/astoilkov/main-thread-scheduling/releases.atom"/>
 <outline text="github.com/open-source-labs/reactime" title="github.com/open-source-labs/reactime" type="rss" xmlUrl="https://github.com/open-source-labs/reactime/releases.atom"/>
 <outline text="github.com/foliojs/fontkit" title="github.com/foliojs/fontkit" type="rss" xmlUrl="https://github.com/foliojs/fontkit/releases.atom"/>
@@ -377,6 +376,7 @@
 <outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
 <outline text="jrsinclair.com" title="jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
+<outline text="kaleidawave.github.io" title="kaleidawave.github.io" type="rss" xmlUrl="https://kaleidawave.github.io/feed.xml"/>
 <outline text="katainaka0503.hatenablog.com" title="katainaka0503.hatenablog.com" type="rss" xmlUrl="https://katainaka0503.hatenablog.com/feed"/>
 <outline text="katashin.info" title="katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>
 <outline text="kentcdodds.com" title="kentcdodds.com" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>
@@ -418,6 +418,7 @@
 <outline text="practica.dev" title="practica.dev" type="rss" xmlUrl="https://practica.dev/blog/rss.xml"/>
 <outline text="prateeksurana.me" title="prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
+<outline text="product.st.inc" title="product.st.inc" type="rss" xmlUrl="https://product.st.inc/feed"/>
 <outline text="quick-lint-js.com" title="quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>

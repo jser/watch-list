@@ -1075,6 +1075,25 @@
   },
   {
     "count": 4,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "CSS",
+      "article",
+      "browser",
+      "HTML",
+      "JavaScript",
+      "tutorial",
+      "accessibility",
+      "ECMAScript"
+    ],
+    "example": {
+      "title": "New JavaScript Set methods | MDN Blog",
+      "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/"
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
+  },
+  {
+    "count": 4,
     "url": "https://tailwindcss.com",
     "tags": [
       "CSS",
@@ -1365,24 +1384,6 @@
       "url": "https://github.com/axios/axios/releases/tag/v1.7.0"
     },
     "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "CSS",
-      "article",
-      "browser",
-      "HTML",
-      "JavaScript",
-      "tutorial",
-      "accessibility"
-    ],
-    "example": {
-      "title": "MDN Curriculum",
-      "url": "https://developer.mozilla.org/en-US/curriculum/"
-    },
-    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 3,
@@ -2450,21 +2451,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/socketio/socket.io",
-    "tags": [
-      "WebSocket",
-      "library",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release 2.5.0 · socketio/socket.io",
-      "url": "https://github.com/socketio/socket.io/releases/tag/2.5.0"
-    },
-    "rssUrl": "https://github.com/socketio/socket.io/releases.atom"
   },
   {
     "count": 1,
@@ -3757,7 +3743,8 @@
     "example": {
       "title": "Introducing Ezno",
       "url": "https://kaleidawave.github.io/posts/introducing-ezno/"
-    }
+    },
+    "rssUrl": "https://kaleidawave.github.io/feed.xml"
   },
   {
     "count": 1,
@@ -10016,5 +10003,18 @@
       "title": "State of JavaScript 2023",
       "url": "https://2023.stateofjs.com/en-US/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://product.st.inc",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "TypeScript v4.9からv5.5で追加された機能のおさらい - STORES Product Blog",
+      "url": "https://product.st.inc/entry/2024/06/24/152109"
+    },
+    "rssUrl": "https://product.st.inc/feed"
   }
 ]

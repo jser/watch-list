@@ -839,12 +839,6 @@
     ]
   },
   {
-    "url": "https://github.com/socketio/socket.io",
-    "feeds": [
-      "https://github.com/socketio/socket.io/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/astoilkov/main-thread-scheduling",
     "feeds": [
       "https://github.com/astoilkov/main-thread-scheduling/releases.atom"
@@ -2265,6 +2259,12 @@
     ]
   },
   {
+    "url": "https://kaleidawave.github.io",
+    "feeds": [
+      "https://kaleidawave.github.io/feed.xml"
+    ]
+  },
+  {
     "url": "https://katainaka0503.hatenablog.com",
     "feeds": [
       "https://katainaka0503.hatenablog.com/feed",
@@ -2524,6 +2524,13 @@
     "feeds": [
       "https://prettier.io/blog/atom.xml",
       "https://prettier.io/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://product.st.inc",
+    "feeds": [
+      "https://product.st.inc/feed",
+      "https://product.st.inc/rss"
     ]
   },
   {
