@@ -665,6 +665,12 @@
     ]
   },
   {
+    "url": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -767,12 +773,6 @@
     ]
   },
   {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
@@ -836,36 +836,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/astoilkov/main-thread-scheduling",
-    "feeds": [
-      "https://github.com/astoilkov/main-thread-scheduling/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/open-source-labs/reactime",
-    "feeds": [
-      "https://github.com/open-source-labs/reactime/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/foliojs/fontkit",
-    "feeds": [
-      "https://github.com/foliojs/fontkit/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/angular-eslint/angular-eslint",
-    "feeds": [
-      "https://github.com/angular-eslint/angular-eslint/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/timocov/dts-bundle-generator",
-    "feeds": [
-      "https://github.com/timocov/dts-bundle-generator/releases.atom"
     ]
   },
   {
@@ -3155,12 +3125,6 @@
     "feeds": [
       "https://www.zachleat.com/web/feed/",
       "https://www.zachleat.com/follow/"
-    ]
-  },
-  {
-    "url": "https://www.zhenghao.io",
-    "feeds": [
-      "https://www.zhenghao.io/rss.xml"
     ]
   },
   {
