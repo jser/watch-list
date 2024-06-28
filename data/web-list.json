@@ -116,7 +116,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 26,
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -223,21 +223,6 @@
   },
   {
     "count": 11,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "news",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Introducing the ESLint Configuration Migrator - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/05/eslint-configuration-migrator/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 11,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -296,6 +281,20 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.44.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing the ESLint Configuration Migrator - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/05/eslint-configuration-migrator/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 10,
@@ -425,6 +424,23 @@
   },
   {
     "count": 7,
+    "url": "https://2ality.com",
+    "tags": [
+      "node.js",
+      "article",
+      "URL",
+      "ECMAScript",
+      "proposal",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Ecma International approves ECMAScript 2024: What’s new?",
+      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
+  },
+  {
+    "count": 7,
     "url": "https://nuxt.com",
     "tags": [
       "Vue",
@@ -490,23 +506,6 @@
       "url": "https://react.dev/learn/react-compiler"
     },
     "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 6,
-    "url": "https://2ality.com",
-    "tags": [
-      "node.js",
-      "article",
-      "URL",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "TypeScript and native ESM on Node.js",
-      "url": "https://2ality.com/2021/06/typescript-esm-nodejs.html"
-    },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
   },
   {
     "count": 6,
@@ -578,26 +577,6 @@
       "url": "https://github.com/web-infra-dev/rspack/discussions/6315"
     },
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "book",
-      "ReleaseNote",
-      "node.js",
-      "CommonJS",
-      "article",
-      "npm",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Node.jsで機能やパッケージの非推奨メッセージを通知する方法 | Web Scratch",
-      "url": "https://efcl.info/2024/02/04/emitwarning/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 5,
@@ -1075,6 +1054,26 @@
   },
   {
     "count": 4,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "ECMAScript",
+      "CommonJS",
+      "article",
+      "book",
+      "ReleaseNote",
+      "npm",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Node.jsで機能やパッケージの非推奨メッセージを通知する方法 | Web Scratch",
+      "url": "https://efcl.info/2024/02/04/emitwarning/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
+  },
+  {
+    "count": 4,
     "url": "https://developer.mozilla.org",
     "tags": [
       "CSS",
@@ -1353,6 +1352,21 @@
       "url": "https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm"
     },
     "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote",
+      "spec",
+      "news"
+    ],
+    "example": {
+      "title": "Release ES2024 Candidate February 28th 2024 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02-28"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 3,
@@ -2058,20 +2072,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote",
-      "spec"
-    ],
-    "example": {
-      "title": "Release ES2024 Candidate February 2024 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
@@ -2451,90 +2451,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://www.zhenghao.io",
-    "tags": [
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "When You Should Prefer Map Over Object In JavaScript",
-      "url": "https://www.zhenghao.io/posts/object-vs-map"
-    },
-    "rssUrl": "https://www.zhenghao.io/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/astoilkov/main-thread-scheduling",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "astoilkov/main-thread-scheduling: Fast and consistently responsive apps using a single function call",
-      "url": "https://github.com/astoilkov/main-thread-scheduling"
-    },
-    "rssUrl": "https://github.com/astoilkov/main-thread-scheduling/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/open-source-labs/reactime",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "debug"
-    ],
-    "example": {
-      "title": "Release Version 14.0.0 · open-source-labs/reactime",
-      "url": "https://github.com/open-source-labs/reactime/releases/tag/v14.0.0"
-    },
-    "rssUrl": "https://github.com/open-source-labs/reactime/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/foliojs/fontkit",
-    "tags": [
-      "fonts",
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "browser"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · foliojs/fontkit",
-      "url": "https://github.com/foliojs/fontkit/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/foliojs/fontkit/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/angular-eslint/angular-eslint",
-    "tags": [
-      "Angular",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v14.0.0 · angular-eslint/angular-eslint",
-      "url": "https://github.com/angular-eslint/angular-eslint/releases/tag/v14.0.0"
-    },
-    "rssUrl": "https://github.com/angular-eslint/angular-eslint/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/timocov/dts-bundle-generator",
-    "tags": [
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "timocov/dts-bundle-generator: Tool to generate a single bundle of dts",
-      "url": "https://github.com/timocov/dts-bundle-generator"
-    },
-    "rssUrl": "https://github.com/timocov/dts-bundle-generator/releases.atom"
   },
   {
     "count": 1,

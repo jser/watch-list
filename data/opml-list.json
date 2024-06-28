@@ -1472,12 +1472,6 @@
     ]
   },
   {
-    "url": "https://www.zhenghao.io",
-    "feeds": [
-      "https://www.zhenghao.io/rss.xml"
-    ]
-  },
-  {
     "url": "https://yarnpkg.com",
     "feeds": [
       "https://yarnpkg.com/blog/rss.xml",

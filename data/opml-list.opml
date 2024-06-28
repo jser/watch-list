@@ -232,7 +232,6 @@
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="www.zachleat.com" title="www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
-<outline text="www.zhenghao.io" title="www.zhenghao.io" type="rss" xmlUrl="https://www.zhenghao.io/rss.xml"/>
 <outline text="yarnpkg.com" title="yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
 <outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
 <outline text="yosuke-furukawa.hatenablog.com" title="yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
