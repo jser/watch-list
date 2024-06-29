@@ -2377,21 +2377,6 @@
   },
   {
     "count": 1,
-    "url": "https://alexkrupp.typepad.com",
-    "tags": [
-      "Angular",
-      "React",
-      "performance",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Sensemaking: Angular without SSR is faster than Next.js with SSR. I have the data.",
-      "url": "https://alexkrupp.typepad.com/sensemaking/2022/06/angular-without-ssr-is-faster-than-nextjs-with-ssr-i-have-the-data.html"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/WebKit/standards-positions",
     "tags": [
       "webkit",
