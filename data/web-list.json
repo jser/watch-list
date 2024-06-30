@@ -223,20 +223,6 @@
   },
   {
     "count": 11,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "relre",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15 RC | Next.js",
-      "url": "https://nextjs.org/blog/next-15-rc"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -312,6 +298,20 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0-beta.5"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "relre",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15 RC | Next.js",
+      "url": "https://nextjs.org/blog/next-15-rc"
+    }
   },
   {
     "count": 10,
@@ -2440,6 +2440,21 @@
   },
   {
     "count": 2,
+    "url": "https://scrapbox.io",
+    "tags": [
+      "CSS",
+      "slide",
+      "Bun",
+      "article"
+    ],
+    "example": {
+      "title": "Bun の非互換な拡張 API - moriken's project",
+      "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
+    },
+    "rssUrl": "https://scrapbox.io/api/feed/yamanoku"
+  },
+  {
+    "count": 2,
     "url": "https://zenn.dev/morinokami/",
     "tags": [
       "astro",
@@ -2451,21 +2466,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/WebKit/standards-positions",
-    "tags": [
-      "webkit",
-      "proposal",
-      "safari",
-      "apple"
-    ],
-    "example": {
-      "title": "WebKit/standards-positions: WebKit's positions on emerging web specifications",
-      "url": "https://github.com/WebKit/standards-positions"
-    },
-    "rssUrl": "https://github.com/WebKit/standards-positions/releases.atom"
   },
   {
     "count": 1,
@@ -7379,7 +7379,8 @@
     "example": {
       "title": "ViteConf",
       "url": "https://viteconf.org/23/replay/welcome"
-    }
+    },
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 1,
@@ -7877,19 +7878,6 @@
       "url": "https://github.com/facebook/stylex"
     },
     "rssUrl": "https://github.com/facebook/stylex/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://scrapbox.io",
-    "tags": [
-      "CSS",
-      "slide"
-    ],
-    "example": {
-      "title": "2020年から2023年までのCSSの変遷を振り返る - yamaScrapbox",
-      "url": "https://scrapbox.io/yamanoku/2020%E5%B9%B4%E3%81%8B%E3%82%892023%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AECSS%E3%81%AE%E5%A4%89%E9%81%B7%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B"
-    },
-    "rssUrl": "https://scrapbox.io/api/feed/yamanoku"
   },
   {
     "count": 1,

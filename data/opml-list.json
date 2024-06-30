@@ -1156,6 +1156,14 @@
     ]
   },
   {
+    "url": "https://viteconf.org",
+    "feeds": [
+      "https://www.youtube.com/feed/subscriptions",
+      "https://www.youtube.com/feed/you",
+      "https://www.youtube.com/feed/history"
+    ]
+  },
+  {
     "url": "https://vitejs.dev",
     "feeds": [
       "https://vitejs.dev/blog.rss"
@@ -1452,16 +1460,6 @@
     "feeds": [
       "https://www.webkit.org/feed/",
       "https://www.webkit.org/feed/atom/"
-    ]
-  },
-  {
-    "url": "https://www.youtube.com",
-    "feeds": [
-      "https://www.youtube.com/feed/subscriptions",
-      "https://www.youtube.com/feed/you",
-      "https://www.youtube.com/feed/history",
-      "https://www.youtube.com/feed/trending",
-      "https://www.youtube.com/feed/trending"
     ]
   },
   {
