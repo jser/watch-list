@@ -839,12 +839,6 @@
     ]
   },
   {
-    "url": "https://github.com/WebKit/standards-positions",
-    "feeds": [
-      "https://github.com/WebKit/standards-positions/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/codemix/deprank",
     "feeds": [
       "https://github.com/codemix/deprank/releases.atom"
@@ -2803,6 +2797,14 @@
     "url": "https://vercel.com",
     "feeds": [
       "https://vercel.com/atom"
+    ]
+  },
+  {
+    "url": "https://viteconf.org",
+    "feeds": [
+      "https://www.youtube.com/feed/subscriptions",
+      "https://www.youtube.com/feed/you",
+      "https://www.youtube.com/feed/history"
     ]
   },
   {

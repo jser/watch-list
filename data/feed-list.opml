@@ -140,7 +140,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/WebKit/standards-positions" title="github.com/WebKit/standards-positions" type="rss" xmlUrl="https://github.com/WebKit/standards-positions/releases.atom"/>
 <outline text="github.com/codemix/deprank" title="github.com/codemix/deprank" type="rss" xmlUrl="https://github.com/codemix/deprank/releases.atom"/>
 <outline text="github.com/samchon/typescript-json" title="github.com/samchon/typescript-json" type="rss" xmlUrl="https://github.com/samchon/typescript-json/releases.atom"/>
 <outline text="github.com/jcubic/wayne" title="github.com/jcubic/wayne" type="rss" xmlUrl="https://github.com/jcubic/wayne/releases.atom"/>
@@ -460,6 +459,7 @@
 <outline text="v2.vuejs.org" title="v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
 <outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
+<outline text="viteconf.org" title="viteconf.org" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>

@@ -185,6 +185,7 @@
 <outline text="v2.vuejs.org" title="v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
 <outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
+<outline text="viteconf.org" title="viteconf.org" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
@@ -230,7 +231,6 @@
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.wantedly.com" title="www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"/>
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
-<outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="www.zachleat.com" title="www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
 <outline text="yarnpkg.com" title="yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
 <outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
