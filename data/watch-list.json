@@ -411,6 +411,23 @@
     }
   },
   {
+    "count": 8,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "webpack",
+      "Rust",
+      "Tools",
+      "bundler",
+      "ReleaseNote",
+      "rspack",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Announcing Rspack v1.0 Alpha - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
+    }
+  },
+  {
     "count": 7,
     "url": "https://2ality.com",
     "tags": [
@@ -456,23 +473,6 @@
       "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
     },
     "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "webpack",
-      "Rust",
-      "Tools",
-      "bundler",
-      "ReleaseNote",
-      "rspack",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Announcing Rspack v0.7 - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-0-7"
-    }
   },
   {
     "count": 7,
@@ -9645,5 +9645,34 @@
       "title": "TypeScript v4.9からv5.5で追加された機能のおさらい - STORES Product Blog",
       "url": "https://product.st.inc/entry/2024/06/24/152109"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/e18e/e18e",
+    "tags": [
+      "JavaScript",
+      "npm",
+      "performance",
+      "document"
+    ],
+    "example": {
+      "title": "e18e/e18e",
+      "url": "https://github.com/e18e/e18e"
+    },
+    "rssUrl": "https://github.com/e18e/e18e/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/es-tooling/eslint-plugin-depend",
+    "tags": [
+      "ESLint",
+      "plugin",
+      "npm"
+    ],
+    "example": {
+      "title": "es-tooling/eslint-plugin-depend: An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.",
+      "url": "https://github.com/es-tooling/eslint-plugin-depend"
+    },
+    "rssUrl": "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
   }
 ]

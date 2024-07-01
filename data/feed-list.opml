@@ -361,6 +361,8 @@
 <outline text="github.com/slevithan/regex" title="github.com/slevithan/regex" type="rss" xmlUrl="https://github.com/slevithan/regex/releases.atom"/>
 <outline text="github.com/tinylibs/tinypool" title="github.com/tinylibs/tinypool" type="rss" xmlUrl="https://github.com/tinylibs/tinypool/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
+<outline text="github.com/e18e/e18e" title="github.com/e18e/e18e" type="rss" xmlUrl="https://github.com/e18e/e18e/releases.atom"/>
+<outline text="github.com/es-tooling/eslint-plugin-depend" title="github.com/es-tooling/eslint-plugin-depend" type="rss" xmlUrl="https://github.com/es-tooling/eslint-plugin-depend/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
