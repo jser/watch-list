@@ -2165,6 +2165,18 @@
     ]
   },
   {
+    "url": "https://github.com/e18e/e18e",
+    "feeds": [
+      "https://github.com/e18e/e18e/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/es-tooling/eslint-plugin-depend",
+    "feeds": [
+      "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
