@@ -539,15 +539,15 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -2177,6 +2177,12 @@
     ]
   },
   {
+    "url": "https://github.com/facebook/relay",
+    "feeds": [
+      "https://github.com/facebook/relay/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2316,6 +2322,12 @@
     "url": "https://lit.dev",
     "feeds": [
       "https://lit.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://marmelab.com",
+    "feeds": [
+      "https://marmelab.com/atom.xml"
     ]
   },
   {
@@ -2563,6 +2575,12 @@
     "feeds": [
       "https://rviscomi.dev/feed/",
       "https://rviscomi.dev/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://sansec.io",
+    "feeds": [
+      "https://sansec.io/atom.xml"
     ]
   },
   {
@@ -2830,6 +2848,12 @@
     "feeds": [
       "https://webkit.org/feed/",
       "https://webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "url": "https://workos.com",
+    "feeds": [
+      "https://workos.com/blog/rss.xml"
     ]
   },
   {
