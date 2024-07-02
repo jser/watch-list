@@ -669,6 +669,12 @@
     ]
   },
   {
+    "url": "https://marmelab.com",
+    "feeds": [
+      "https://marmelab.com/atom.xml"
+    ]
+  },
+  {
     "url": "https://marmooo.blogspot.com",
     "feeds": [
       "https://marmooo.blogspot.com/feeds/posts/default",
@@ -913,6 +919,12 @@
     "feeds": [
       "https://rviscomi.dev/feed/",
       "https://rviscomi.dev/comments/feed/"
+    ]
+  },
+  {
+    "url": "https://sansec.io",
+    "feeds": [
+      "https://sansec.io/atom.xml"
     ]
   },
   {
@@ -1174,6 +1186,12 @@
     "feeds": [
       "https://webkit.org/feed/",
       "https://webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "url": "https://workos.com",
+    "feeds": [
+      "https://workos.com/blog/rss.xml"
     ]
   },
   {

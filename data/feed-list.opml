@@ -90,8 +90,8 @@
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
-<outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
+<outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
@@ -363,6 +363,7 @@
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/e18e/e18e" title="github.com/e18e/e18e" type="rss" xmlUrl="https://github.com/e18e/e18e/releases.atom"/>
 <outline text="github.com/es-tooling/eslint-plugin-depend" title="github.com/es-tooling/eslint-plugin-depend" type="rss" xmlUrl="https://github.com/es-tooling/eslint-plugin-depend/releases.atom"/>
+<outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -385,6 +386,7 @@
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
+<outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="marvinh.dev" title="marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
 <outline text="maximorlov.com" title="maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
@@ -424,6 +426,7 @@
 <outline text="rsbuild.dev" title="rsbuild.dev" type="rss" xmlUrl="https://rsbuild.dev/rss/releases.xml"/>
 <outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
+<outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
 <outline text="scrapbox.io" title="scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>
 <outline text="semaphoreci.com" title="semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
@@ -464,6 +467,7 @@
 <outline text="viteconf.org" title="viteconf.org" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
+<outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
 <outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>

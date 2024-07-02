@@ -223,6 +223,23 @@
   },
   {
     "count": 11,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "JavaScript",
+      "browser",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "playwright"
+    ],
+    "example": {
+      "title": "Release v1.45.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 11,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -250,23 +267,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "playwright"
-    ],
-    "example": {
-      "title": "Release v1.44.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.44.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 10,
@@ -1370,6 +1370,22 @@
   },
   {
     "count": 3,
+    "url": "https://lea.verou.me",
+    "tags": [
+      "JavaScript",
+      "article",
+      "HTML",
+      "Survey",
+      "CSS"
+    ],
+    "example": {
+      "title": "Inline conditionals in CSS, now? • Lea Verou",
+      "url": "https://lea.verou.me/blog/2024/css-conditionals-now/"
+    },
+    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
+  },
+  {
+    "count": 3,
     "url": "https://learning.oreilly.com",
     "tags": [
       "nodejs",
@@ -1927,6 +1943,20 @@
   },
   {
     "count": 2,
+    "url": "https://tkdodo.eu",
+    "tags": [
+      "JavaScript",
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "React 19 and Suspense - A Drama in 3 Acts | TkDodo's blog",
+      "url": "https://tkdodo.eu/blog/react-19-and-suspense-a-drama-in-3-acts"
+    },
+    "rssUrl": "https://tkdodo.eu/blog/rss.xml"
+  },
+  {
+    "count": 2,
     "url": "https://tauri.app",
     "tags": [
       "JavaScript",
@@ -2191,21 +2221,6 @@
       "url": "https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f"
     },
     "rssUrl": "https://medium.com/feed/dartlang"
-  },
-  {
-    "count": 2,
-    "url": "https://lea.verou.me",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "Survey"
-    ],
-    "example": {
-      "title": "State of HTML 2023 now open! • Lea Verou",
-      "url": "https://lea.verou.me/blog/2023/state-of-html-2023/"
-    },
-    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
   },
   {
     "count": 2,
@@ -4171,20 +4186,6 @@
       "url": "https://escape.tech/blog/from-vue2-to-svelte/"
     },
     "rssUrl": "https://escape.tech/blog/rss/"
-  },
-  {
-    "count": 1,
-    "url": "https://tkdodo.eu",
-    "tags": [
-      "JavaScript",
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Working with Zustand | TkDodo's blog",
-      "url": "https://tkdodo.eu/blog/working-with-zustand"
-    },
-    "rssUrl": "https://tkdodo.eu/blog/rss.xml"
   },
   {
     "count": 1,
@@ -9934,5 +9935,62 @@
       "url": "https://github.com/es-tooling/eslint-plugin-depend"
     },
     "rssUrl": "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://workos.com",
+    "tags": [
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "Migrating to Next.js App Router with zero downtime — WorkOS",
+      "url": "https://workos.com/blog/migrating-to-next-js-app-router-with-zero-downtime"
+    },
+    "rssUrl": "https://workos.com/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/relay",
+    "tags": [
+      "GraphQL",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 17.0.0 Release Notes · facebook/relay",
+      "url": "https://github.com/facebook/relay/releases/tag/v17.0.0"
+    },
+    "rssUrl": "https://github.com/facebook/relay/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://marmelab.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing React-Admin V5",
+      "url": "https://marmelab.com/blog/2024/06/20/react-admin-v5.html"
+    },
+    "rssUrl": "https://marmelab.com/atom.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://sansec.io",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "security",
+      "news"
+    ],
+    "example": {
+      "title": "Polyfill supply chain attack hits 100K+ sites",
+      "url": "https://sansec.io/research/polyfill-supply-chain-attack"
+    },
+    "rssUrl": "https://sansec.io/atom.xml"
   }
 ]
