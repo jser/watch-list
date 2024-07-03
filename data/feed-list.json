@@ -539,15 +539,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -623,12 +623,6 @@
     ]
   },
   {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/cloudflare/miniflare",
     "feeds": [
       "https://github.com/cloudflare/miniflare/releases.atom"
@@ -674,12 +668,6 @@
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/capricorn86/happy-dom",
-    "feeds": [
-      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {
@@ -815,6 +803,12 @@
     ]
   },
   {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -836,12 +830,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/codemix/deprank",
-    "feeds": [
-      "https://github.com/codemix/deprank/releases.atom"
     ]
   },
   {
@@ -1946,6 +1934,12 @@
     "url": "https://github.com/speed-highlight/core",
     "feeds": [
       "https://github.com/speed-highlight/core/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/capricorn86/happy-dom",
+    "feeds": [
+      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {

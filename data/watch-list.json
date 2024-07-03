@@ -70,17 +70,17 @@
     }
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "React",
       "ReleaseNote",
       "news",
       "V8",
       "article",
       "JavaScript",
       "library",
+      "React",
       "denoe",
       "dneo",
       "npm"
@@ -91,14 +91,14 @@
     }
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://webkit.org",
     "tags": [
-      "webkit",
-      "ReleaseNote",
       "safari",
+      "ReleaseNote",
       "CSS",
       "article",
+      "webkit",
       "serverless",
       "アンケート",
       "JavaScript",
@@ -173,21 +173,6 @@
   },
   {
     "count": 16,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "npm",
-      "pnpm",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release v9.0.0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 16,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -199,7 +184,21 @@
     }
   },
   {
-    "count": 14,
+    "count": 15,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release v9.0.0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 15,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -210,27 +209,10 @@
       "esbuild"
     ],
     "example": {
-      "title": "Release v0.21.3 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.21.3"
+      "title": "Release v0.22.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.22.0"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 11,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "playwright"
-    ],
-    "example": {
-      "title": "Release v1.45.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -273,6 +255,22 @@
       "title": "Introducing the ESLint Configuration Migrator - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2024/05/eslint-configuration-migrator/"
     }
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.45.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 10,
@@ -707,22 +705,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "ReleaseNote",
-      "TypeScript",
-      "vite",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing VitePress 1.0 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vitepress-1.0"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://www.mitsue.co.jp",
     "tags": [
       "JavaScript",
@@ -1070,56 +1052,6 @@
   },
   {
     "count": 3,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote",
-      "accessibility"
-    ],
-    "example": {
-      "title": "May 1, 2024 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2024-05-01.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "JavaScript",
-      "database",
-      "library",
-      "ReleaseNote",
-      "node.js",
-      "prisma"
-    ],
-    "example": {
-      "title": "Release 5.11.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/5.11.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://dwango.github.io",
-    "tags": [
-      "kubernetes",
-      "document",
-      "CSS",
-      "SVG",
-      "Cargo",
-      "HTML",
-      "browser",
-      "article"
-    ],
-    "example": {
-      "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
-      "url": "https://dwango.github.io/articles/html-loading-attribute/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/cloudflare/miniflare",
     "tags": [
       "cloudflare",
@@ -1326,6 +1258,22 @@
   },
   {
     "count": 3,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "Vue",
+      "TypeScript",
+      "ReleaseNote",
+      "vite",
+      "document",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing VitePress 1.0 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vitepress-1.0"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://lea.verou.me",
     "tags": [
       "JavaScript",
@@ -1386,21 +1334,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/capricorn86/happy-dom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · capricorn86/happy-dom",
-      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
   },
   {
     "count": 2,
@@ -1882,6 +1815,22 @@
   },
   {
     "count": 2,
+    "url": "https://dwango.github.io",
+    "tags": [
+      "CSS",
+      "SVG",
+      "Cargo",
+      "HTML",
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
+      "url": "https://dwango.github.io/articles/html-loading-attribute/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://tkdodo.eu",
     "tags": [
       "JavaScript",
@@ -2255,6 +2204,23 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "database",
+      "library",
+      "ReleaseNote",
+      "prisma"
+    ],
+    "example": {
+      "title": "Release 5.11.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/5.11.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://blog.getbootstrap.com",
     "tags": [
       "CSP",
@@ -2392,6 +2358,19 @@
   },
   {
     "count": 2,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "May 1, 2024 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2024-05-01.html"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://zenn.dev/morinokami/",
     "tags": [
       "astro",
@@ -2402,19 +2381,6 @@
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/codemix/deprank",
-    "tags": [
-      "JavaScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "codemix/deprank: Use PageRank to find the most important files in your codebase.",
-      "url": "https://github.com/codemix/deprank"
-    },
-    "rssUrl": "https://github.com/codemix/deprank/releases.atom"
   },
   {
     "count": 1,
@@ -7958,6 +7924,20 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/capricorn86/happy-dom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v13.0.0 · capricorn86/happy-dom",
+      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
+    },
+    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://zenn.dev/yamachan0625/",
     "tags": [
       "DDD",
@@ -9728,6 +9708,19 @@
     "example": {
       "title": "Polyfill supply chain attack hits 100K+ sites",
       "url": "https://sansec.io/research/polyfill-supply-chain-attack"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://openapi-ts.dev",
+    "tags": [
+      "TypeScript",
+      "OpenAPI",
+      "Tools"
+    ],
+    "example": {
+      "title": "OpenAPI TypeScript",
+      "url": "https://openapi-ts.dev/"
     }
   }
 ]
