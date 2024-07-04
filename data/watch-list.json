@@ -2384,21 +2384,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/dajiaji/",
-    "tags": [
-      "deno",
-      "node.js",
-      "cloudflare",
-      "library",
-      "article"
-    ],
-    "example": {
-      "title": "ブラウザ, Node, Cloudflareでも動くDenoモジュール開発",
-      "url": "https://zenn.dev/dajiaji/articles/c5340c38d11d4d"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://blog.koh.dev",
     "tags": [
       "JavaScript",
