@@ -188,13 +188,6 @@
     ]
   },
   {
-    "url": "https://blog.nnn.dev",
-    "feeds": [
-      "https://blog.nnn.dev/feed",
-      "https://blog.nnn.dev/rss"
-    ]
-  },
-  {
     "url": "https://blog.nrwl.io",
     "feeds": [
       "https://blog.nrwl.io/feed"
