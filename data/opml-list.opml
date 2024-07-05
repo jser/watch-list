@@ -34,7 +34,6 @@
 <outline text="blog.jxck.io" title="blog.jxck.io" type="rss" xmlUrl="https://blog.jxck.io/feeds/atom.xml"/>
 <outline text="blog.maximeheckel.com" title="blog.maximeheckel.com" type="rss" xmlUrl="https://blog.maximeheckel.com/rss.xml"/>
 <outline text="blog.mozilla.org" title="blog.mozilla.org" type="rss" xmlUrl="https://blog.mozilla.org/en/feed/"/>
-<outline text="blog.nnn.dev" title="blog.nnn.dev" type="rss" xmlUrl="https://blog.nnn.dev/feed"/>
 <outline text="blog.nrwl.io" title="blog.nrwl.io" type="rss" xmlUrl="https://blog.nrwl.io/feed"/>
 <outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>

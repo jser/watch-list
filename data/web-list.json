@@ -23,6 +23,28 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
+    "count": 44,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bundler",
+      "article",
+      "CommonJS",
+      "ECMAScript",
+      "module",
+      "yarn",
+      "npm",
+      "TypeScript",
+      "windows"
+    ],
+    "example": {
+      "title": "Bun v1.1.18 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.18"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
+  },
+  {
     "count": 43,
     "url": "https://developer.chrome.com",
     "tags": [
@@ -48,28 +70,6 @@
       "title": "New in Chrome 126  |  Blog  |  Chrome for Developers",
       "url": "https://developer.chrome.com/blog/new-in-chrome-126?hl=en"
     }
-  },
-  {
-    "count": 43,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bundler",
-      "article",
-      "CommonJS",
-      "ECMAScript",
-      "module",
-      "yarn",
-      "npm",
-      "TypeScript",
-      "windows"
-    ],
-    "example": {
-      "title": "Bun v1.1.13 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.13"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 28,
@@ -2023,6 +2023,23 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/nodejs/node",
+    "tags": [
+      "node.js",
+      "URL",
+      "issue",
+      "performance",
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 2024-07-02, Version 22.4.0 (Current), @targos · nodejs/node",
+      "url": "https://github.com/nodejs/node/releases/tag/v22.4.0"
+    },
+    "rssUrl": "https://github.com/nodejs/node/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/kaleidawave/ezno",
     "tags": [
       "TypeScript",
@@ -2460,35 +2477,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.koh.dev",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "jestでDBありのテストを高速化する | kohsweblog",
-      "url": "https://blog.koh.dev/2022-07-02-jest-speedup/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.nnn.dev",
-    "tags": [
-      "HTML",
-      "CSS",
-      "fonts",
-      "article"
-    ],
-    "example": {
-      "title": "縦書きHTMLにおける文字の向きはどのように定まるか - ドワンゴ教育サービス開発者ブログ",
-      "url": "https://blog.nnn.dev/entry/2022/07/01/180000"
-    },
-    "rssUrl": "https://blog.nnn.dev/feed"
   },
   {
     "count": 1,
@@ -4889,21 +4877,6 @@
       "title": "shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.",
       "url": "https://ui.shadcn.com/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nodejs/node",
-    "tags": [
-      "node.js",
-      "URL",
-      "issue",
-      "performance"
-    ],
-    "example": {
-      "title": "deps: replace url parser with Ada by anonrig · Pull Request #46410 · nodejs/node",
-      "url": "https://github.com/nodejs/node/pull/46410"
-    },
-    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 1,

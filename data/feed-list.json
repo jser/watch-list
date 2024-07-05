@@ -188,13 +188,6 @@
     ]
   },
   {
-    "url": "https://blog.nnn.dev",
-    "feeds": [
-      "https://blog.nnn.dev/feed",
-      "https://blog.nnn.dev/rss"
-    ]
-  },
-  {
     "url": "https://blog.nrwl.io",
     "feeds": [
       "https://blog.nrwl.io/feed"
@@ -746,6 +739,12 @@
     "url": "https://github.com/mswjs/msw",
     "feeds": [
       "https://github.com/mswjs/msw/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/node",
+    "feeds": [
+      "https://github.com/nodejs/node/releases.atom"
     ]
   },
   {
@@ -1334,12 +1333,6 @@
     "url": "https://github.com/tanekloc/tmsg",
     "feeds": [
       "https://github.com/tanekloc/tmsg/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nodejs/node",
-    "feeds": [
-      "https://github.com/nodejs/node/releases.atom"
     ]
   },
   {
