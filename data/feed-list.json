@@ -3105,6 +3105,12 @@
     ]
   },
   {
+    "url": "https://www.speedcurve.com",
+    "feeds": [
+      "https://www.speedcurve.com/blog/rss/"
+    ]
+  },
+  {
     "url": "https://www.theverge.com",
     "feeds": [
       "https://www.theverge.com/rss/index.xml"
