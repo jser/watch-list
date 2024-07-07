@@ -1449,6 +1449,12 @@
     ]
   },
   {
+    "url": "https://www.speedcurve.com",
+    "feeds": [
+      "https://www.speedcurve.com/blog/rss/"
+    ]
+  },
+  {
     "url": "https://www.totaltypescript.com",
     "feeds": [
       "https://www.totaltypescript.com/rss.xml"
