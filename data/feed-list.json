@@ -832,12 +832,6 @@
     ]
   },
   {
-    "url": "https://github.com/samchon/typescript-json",
-    "feeds": [
-      "https://github.com/samchon/typescript-json/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jcubic/wayne",
     "feeds": [
       "https://github.com/jcubic/wayne/releases.atom"
@@ -2167,6 +2161,12 @@
     "url": "https://github.com/facebook/relay",
     "feeds": [
       "https://github.com/facebook/relay/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/loaders",
+    "feeds": [
+      "https://github.com/nodejs/loaders/releases.atom"
     ]
   },
   {
