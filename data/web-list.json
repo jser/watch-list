@@ -179,6 +179,20 @@
   },
   {
     "count": 16,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release pnpm 9.5 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.5.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 16,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -188,20 +202,6 @@
       "title": "Firefox 127.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/127.0/releasenotes/"
     }
-  },
-  {
-    "count": 15,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release v9.0.0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 15,
@@ -219,6 +219,20 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.22.0"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "What's coming next for ESLint - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/07/whats-coming-next-for-eslint/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 11,
@@ -249,20 +263,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Introducing the ESLint Configuration Migrator - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/05/eslint-configuration-migrator/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 10,
@@ -2477,21 +2477,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/samchon/typescript-json",
-    "tags": [
-      "TypeScript",
-      "JSON",
-      "Tools",
-      "library"
-    ],
-    "example": {
-      "title": "samchon/typescript-json: Runtime type checkers and 5x faster JSON.stringify()",
-      "url": "https://github.com/samchon/typescript-json"
-    },
-    "rssUrl": "https://github.com/samchon/typescript-json/releases.atom"
   },
   {
     "count": 1,
@@ -9955,5 +9940,31 @@
       "url": "https://www.speedcurve.com/web-performance-guide/"
     },
     "rssUrl": "https://www.speedcurve.com/blog/rss/"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nodejs/loaders",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "issue"
+    ],
+    "example": {
+      "title": "Support typescript with --experimental-strip-types · Issue #208 · nodejs/loaders",
+      "url": "https://github.com/nodejs/loaders/issues/208"
+    },
+    "rssUrl": "https://github.com/nodejs/loaders/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://ladybird.org",
+    "tags": [
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "Ladybird",
+      "url": "https://ladybird.org/announcement/"
+    }
   }
 ]
