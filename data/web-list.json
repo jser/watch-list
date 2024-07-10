@@ -1,6 +1,6 @@
 [
   {
-    "count": 58,
+    "count": 59,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v20.15.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v20.15.0"
+      "title": "Node.js — Monday, July 8, 2024 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/july-2024-security-releases"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
