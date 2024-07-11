@@ -178,6 +178,7 @@
 <outline text="the-guild.dev" title="the-guild.dev" type="rss" xmlUrl="https://the-guild.dev/feed.xml"/>
 <outline text="timkadlec.com" title="timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/remembers/atom.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
+<outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
 <outline text="trpc.io" title="trpc.io" type="rss" xmlUrl="https://trpc.io/blog/rss.xml"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
 <outline text="typescript-eslint.io" title="typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>

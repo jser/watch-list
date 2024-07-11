@@ -127,7 +127,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
       "Chrome",
@@ -149,8 +149,8 @@
       "WebPlatformAPI"
     ],
     "example": {
-      "title": "Popover API lands in Baseline  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/popover-api?hl=en"
+      "title": "How to use container queries now  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/how-to-use-container-queries-now?hl=en"
     }
   },
   {
@@ -705,22 +705,6 @@
   },
   {
     "count": 4,
-    "url": "https://www.mitsue.co.jp",
-    "tags": [
-      "JavaScript",
-      "performance",
-      "article",
-      "CSS",
-      "browser",
-      "WebPlatformAPI"
-    ],
-    "example": {
-      "title": "Interop 2024がスタート | フロントエンドBlog | ミツエーリンクス",
-      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202402/02_1152.html"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/vitejs/vite",
     "tags": [
       "vite",
@@ -953,6 +937,22 @@
   },
   {
     "count": 4,
+    "url": "https://socket.dev",
+    "tags": [
+      "npm",
+      "article",
+      "security",
+      "nodejs",
+      "discussion",
+      "pnpm"
+    ],
+    "example": {
+      "title": "pnpm 9.5 Introduces Catalogs: Shareable Dependency Version Specifiers - Socket",
+      "url": "https://socket.dev/blog/pnpm-9-5-introduces-catalogs-shareable-dependency-version-specifiers"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/esm-dev/esm.sh",
     "tags": [
       "cdn",
@@ -1048,6 +1048,20 @@
     "example": {
       "title": "Headless UI v2.0 for React - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://www.mitsue.co.jp",
+    "tags": [
+      "CSS",
+      "article",
+      "browser",
+      "WebPlatformAPI"
+    ],
+    "example": {
+      "title": "Interop 2024がスタート | フロントエンドBlog | ミツエーリンクス",
+      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202402/02_1152.html"
     }
   },
   {
@@ -1224,21 +1238,6 @@
     "example": {
       "title": "Node.js Security Progress Report: Redefining Security Processes and Key Initiatives | OpenJS Foundation",
       "url": "https://openjsf.org/blog/nodejs-security-progress-report-may-2024?utm_content=297186945&utm_medium=social&utm_source=twitter&hss_channel=tw-91985735"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "security",
-      "nodejs",
-      "discussion"
-    ],
-    "example": {
-      "title": "Node.js Community Debate Intensifies Over Enabling Corepack by Default and Potentially Unbundling npm - Socket",
-      "url": "https://socket.dev/blog/node-community-debates-enabling-corepack-unbundling-npm"
     }
   },
   {
@@ -9656,19 +9655,6 @@
   },
   {
     "count": 1,
-    "url": "https://openapi-ts.dev",
-    "tags": [
-      "TypeScript",
-      "OpenAPI",
-      "Tools"
-    ],
-    "example": {
-      "title": "OpenAPI TypeScript",
-      "url": "https://openapi-ts.dev/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://www.speedcurve.com",
     "tags": [
       "performance",
@@ -9703,6 +9689,45 @@
     "example": {
       "title": "Ladybird",
       "url": "https://ladybird.org/announcement/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://poteboy.dev",
+    "tags": [
+      "ECMAScript",
+      "module",
+      "article"
+    ],
+    "example": {
+      "title": "ESModules プラットフォームとエコシステムの狭間で | poteboy",
+      "url": "https://poteboy.dev/posts/20240708-esm-platform-and-ecosystem"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://openapi-ts.dev",
+    "tags": [
+      "TypeScript",
+      "OpenAPI",
+      "Tools",
+      "library"
+    ],
+    "example": {
+      "title": "OpenAPI TypeScript",
+      "url": "https://openapi-ts.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://tonyalicea.dev",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "Understanding React Compiler | Tony Alicea",
+      "url": "https://tonyalicea.dev/blog/understanding-react-compiler/"
     }
   }
 ]
