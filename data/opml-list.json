@@ -1108,6 +1108,12 @@
     ]
   },
   {
+    "url": "https://tonyalicea.dev",
+    "feeds": [
+      "https://tonyalicea.dev/feed/feed.xml"
+    ]
+  },
+  {
     "url": "https://trpc.io",
     "feeds": [
       "https://trpc.io/blog/rss.xml",
