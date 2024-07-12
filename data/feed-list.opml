@@ -111,7 +111,6 @@
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
-<outline text="github.com/oven-sh/bun" title="github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/riot/riot" title="github.com/riot/riot" type="rss" xmlUrl="https://github.com/riot/riot/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
@@ -139,8 +138,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/jcubic/wayne" title="github.com/jcubic/wayne" type="rss" xmlUrl="https://github.com/jcubic/wayne/releases.atom"/>
-<outline text="github.com/oguimbal/pg-mem" title="github.com/oguimbal/pg-mem" type="rss" xmlUrl="https://github.com/oguimbal/pg-mem/releases.atom"/>
 <outline text="github.com/moment/luxon" title="github.com/moment/luxon" type="rss" xmlUrl="https://github.com/moment/luxon/releases.atom"/>
 <outline text="github.com/tuplo/numberfmt" title="github.com/tuplo/numberfmt" type="rss" xmlUrl="https://github.com/tuplo/numberfmt/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
@@ -155,6 +152,7 @@
 <outline text="github.com/electron/electron" title="github.com/electron/electron" type="rss" xmlUrl="https://github.com/electron/electron/releases.atom"/>
 <outline text="github.com/infernojs/inferno" title="github.com/infernojs/inferno" type="rss" xmlUrl="https://github.com/infernojs/inferno/releases.atom"/>
 <outline text="github.com/puppeteer/puppeteer" title="github.com/puppeteer/puppeteer" type="rss" xmlUrl="https://github.com/puppeteer/puppeteer/releases.atom"/>
+<outline text="github.com/oven-sh/bun" title="github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
 <outline text="github.com/sofn-xyz/mailing" title="github.com/sofn-xyz/mailing" type="rss" xmlUrl="https://github.com/sofn-xyz/mailing/releases.atom"/>
 <outline text="github.com/mjmlio/mjml" title="github.com/mjmlio/mjml" type="rss" xmlUrl="https://github.com/mjmlio/mjml/releases.atom"/>
 <outline text="github.com/pemistahl/grex-js" title="github.com/pemistahl/grex-js" type="rss" xmlUrl="https://github.com/pemistahl/grex-js/releases.atom"/>

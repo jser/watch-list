@@ -664,12 +664,6 @@
     ]
   },
   {
-    "url": "https://github.com/oven-sh/bun",
-    "feeds": [
-      "https://github.com/oven-sh/bun/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
@@ -832,18 +826,6 @@
     ]
   },
   {
-    "url": "https://github.com/jcubic/wayne",
-    "feeds": [
-      "https://github.com/jcubic/wayne/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/oguimbal/pg-mem",
-    "feeds": [
-      "https://github.com/oguimbal/pg-mem/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/moment/luxon",
     "feeds": [
       "https://github.com/moment/luxon/releases.atom"
@@ -925,6 +907,12 @@
     "url": "https://github.com/puppeteer/puppeteer",
     "feeds": [
       "https://github.com/puppeteer/puppeteer/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/oven-sh/bun",
+    "feeds": [
+      "https://github.com/oven-sh/bun/releases.atom"
     ]
   },
   {
