@@ -96,7 +96,6 @@
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
-<outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
@@ -105,6 +104,7 @@
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
+<outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
@@ -360,6 +360,7 @@
 <outline text="github.com/es-tooling/eslint-plugin-depend" title="github.com/es-tooling/eslint-plugin-depend" type="rss" xmlUrl="https://github.com/es-tooling/eslint-plugin-depend/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
 <outline text="github.com/nodejs/loaders" title="github.com/nodejs/loaders" type="rss" xmlUrl="https://github.com/nodejs/loaders/releases.atom"/>
+<outline text="github.com/toss/es-toolkit?tab=readme-ov-file" title="github.com/toss/es-toolkit?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -370,7 +371,6 @@
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
 <outline text="jrsinclair.com" title="jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
 <outline text="kaleidawave.github.io" title="kaleidawave.github.io" type="rss" xmlUrl="https://kaleidawave.github.io/feed.xml"/>
-<outline text="katainaka0503.hatenablog.com" title="katainaka0503.hatenablog.com" type="rss" xmlUrl="https://katainaka0503.hatenablog.com/feed"/>
 <outline text="katashin.info" title="katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>
 <outline text="kentcdodds.com" title="kentcdodds.com" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>
 <outline text="kettanaito.com" title="kettanaito.com" type="rss" xmlUrl="https://kettanaito.com/blog/rss.xml"/>
@@ -382,6 +382,7 @@
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
+<outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="marvinh.dev" title="marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
@@ -519,7 +520,6 @@
 <outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
-<outline text="zenn.dev/mjhd/" title="zenn.dev/mjhd/" type="rss" xmlUrl="https://zenn.dev/mjhd/feed"/>
 <outline text="zenn.dev/yukiyada/" title="zenn.dev/yukiyada/" type="rss" xmlUrl="https://zenn.dev/yukiyada/feed"/>
 <outline text="zenn.dev/panda_program/" title="zenn.dev/panda_program/" type="rss" xmlUrl="https://zenn.dev/panda_program/feed"/>
 <outline text="zenn.dev/0kate/" title="zenn.dev/0kate/" type="rss" xmlUrl="https://zenn.dev/0kate/feed"/>

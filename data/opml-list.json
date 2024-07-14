@@ -584,13 +584,6 @@
     ]
   },
   {
-    "url": "https://katainaka0503.hatenablog.com",
-    "feeds": [
-      "https://katainaka0503.hatenablog.com/feed",
-      "https://katainaka0503.hatenablog.com/rss"
-    ]
-  },
-  {
     "url": "https://katashin.info",
     "feeds": [
       "https://katashin.info/feed/feed.xml"
@@ -659,6 +652,12 @@
     "url": "https://lit.dev",
     "feeds": [
       "https://lit.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://makojs.dev",
+    "feeds": [
+      "https://makojs.dev/rss.xml"
     ]
   },
   {
@@ -1535,12 +1534,6 @@
     "url": "https://zenn.dev/morinokami/",
     "feeds": [
       "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mjhd/",
-    "feeds": [
-      "https://zenn.dev/mjhd/feed"
     ]
   },
   {

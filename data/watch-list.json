@@ -1,12 +1,12 @@
 [
   {
-    "count": 59,
+    "count": 58,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "security",
       "ReleaseNote",
       "serverless",
+      "security",
       "seuc",
       "document",
       "npm",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "count": 44,
+    "count": 45,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -38,8 +38,8 @@
       "windows"
     ],
     "example": {
-      "title": "Bun v1.1.18 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.18"
+      "title": "Bun v1.1.19 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.19"
     }
   },
   {
@@ -70,7 +70,7 @@
     }
   },
   {
-    "count": 28,
+    "count": 29,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -86,8 +86,8 @@
       "npm"
     ],
     "example": {
-      "title": "Deno 1.44: Private npm registries, improved Node.js compat, and performance boosts",
-      "url": "https://deno.com/blog/v1.44"
+      "title": "Deno 1.45: Workspace and Monorepo Support",
+      "url": "https://deno.com/blog/v1.45"
     }
   },
   {
@@ -172,6 +172,18 @@
     }
   },
   {
+    "count": 17,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 128.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/128.0/releasenotes/"
+    }
+  },
+  {
     "count": 16,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -184,18 +196,6 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v9.5.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 16,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 127.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/127.0/releasenotes/"
-    }
   },
   {
     "count": 15,
@@ -426,22 +426,6 @@
   },
   {
     "count": 7,
-    "url": "https://2ality.com",
-    "tags": [
-      "node.js",
-      "article",
-      "URL",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Ecma International approves ECMAScript 2024: What’s new?",
-      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://nuxt.com",
     "tags": [
       "Vue",
@@ -486,6 +470,22 @@
     "example": {
       "title": "React Compiler – React",
       "url": "https://react.dev/learn/react-compiler"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://2ality.com",
+    "tags": [
+      "node.js",
+      "article",
+      "URL",
+      "ECMAScript",
+      "proposal",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Ecma International approves ECMAScript 2024: What’s new?",
+      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
     }
   },
   {
@@ -701,19 +701,6 @@
       "title": "Biome v1.7 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/vitejs/vite",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vite/CHANGELOG.md at main · vitejs/vite",
-      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
-    },
-    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 4,
@@ -1129,6 +1116,19 @@
       "title": "How to Pass a Component as a Prop in React | Total TypeScript",
       "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/vitejs/vite",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "vite/CHANGELOG.md at main · vitejs/vite",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
+    },
+    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 3,
@@ -2363,46 +2363,6 @@
     "example": {
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/mjhd/",
-    "tags": [
-      "Flutter",
-      "history",
-      "article"
-    ],
-    "example": {
-      "title": "Flutter前史: ChromeがFlutterになるまで",
-      "url": "https://zenn.dev/mjhd/articles/680a19ae893c1e"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://katainaka0503.hatenablog.com",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "article"
-    ],
-    "example": {
-      "title": "NestJS製GraphQLサーバの起動が遅かったので調査した話 - もうずっといなかぐらし",
-      "url": "https://katainaka0503.hatenablog.com/entry/2022/07/09/190340"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://gimli.app",
-    "tags": [
-      "Chrome",
-      "Extension",
-      "CSS",
-      "Tools"
-    ],
-    "example": {
-      "title": "Tailwind DX",
-      "url": "https://gimli.app/tailwinddx.html"
     }
   },
   {
@@ -9695,5 +9655,33 @@
       "title": "Understanding React Compiler | Tony Alicea",
       "url": "https://tonyalicea.dev/blog/understanding-react-compiler/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://makojs.dev",
+    "tags": [
+      "webpack",
+      "bundler",
+      "Rust",
+      "Tools",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Mako - Extremely fast, Production-grade web bundler",
+      "url": "https://makojs.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "toss/es-toolkit: A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+      "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
   }
 ]

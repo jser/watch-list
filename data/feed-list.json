@@ -574,12 +574,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -625,6 +619,12 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
@@ -2158,6 +2158,12 @@
     ]
   },
   {
+    "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2219,13 +2225,6 @@
     "url": "https://kaleidawave.github.io",
     "feeds": [
       "https://kaleidawave.github.io/feed.xml"
-    ]
-  },
-  {
-    "url": "https://katainaka0503.hatenablog.com",
-    "feeds": [
-      "https://katainaka0503.hatenablog.com/feed",
-      "https://katainaka0503.hatenablog.com/rss"
     ]
   },
   {
@@ -2297,6 +2296,12 @@
     "url": "https://lit.dev",
     "feeds": [
       "https://lit.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://makojs.dev",
+    "feeds": [
+      "https://makojs.dev/rss.xml"
     ]
   },
   {
@@ -3195,12 +3200,6 @@
     "url": "https://zenn.dev/morinokami/",
     "feeds": [
       "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mjhd/",
-    "feeds": [
-      "https://zenn.dev/mjhd/feed"
     ]
   },
   {

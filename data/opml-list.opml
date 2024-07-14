@@ -97,7 +97,6 @@
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
 <outline text="jrsinclair.com" title="jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
 <outline text="kaleidawave.github.io" title="kaleidawave.github.io" type="rss" xmlUrl="https://kaleidawave.github.io/feed.xml"/>
-<outline text="katainaka0503.hatenablog.com" title="katainaka0503.hatenablog.com" type="rss" xmlUrl="https://katainaka0503.hatenablog.com/feed"/>
 <outline text="katashin.info" title="katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>
 <outline text="kentcdodds.com" title="kentcdodds.com" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml"/>
 <outline text="kettanaito.com" title="kettanaito.com" type="rss" xmlUrl="https://kettanaito.com/blog/rss.xml"/>
@@ -109,6 +108,7 @@
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
+<outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="marvinh.dev" title="marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
@@ -243,7 +243,6 @@
 <outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
-<outline text="zenn.dev/mjhd/" title="zenn.dev/mjhd/" type="rss" xmlUrl="https://zenn.dev/mjhd/feed"/>
 <outline text="zenn.dev/yukiyada/" title="zenn.dev/yukiyada/" type="rss" xmlUrl="https://zenn.dev/yukiyada/feed"/>
 <outline text="zenn.dev/panda_program/" title="zenn.dev/panda_program/" type="rss" xmlUrl="https://zenn.dev/panda_program/feed"/>
 <outline text="zenn.dev/0kate/" title="zenn.dev/0kate/" type="rss" xmlUrl="https://zenn.dev/0kate/feed"/>
