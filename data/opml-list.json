@@ -243,6 +243,12 @@
     ]
   },
   {
+    "url": "https://blog.val.town",
+    "feeds": [
+      "https://blog.val.town/rss.xml"
+    ]
+  },
+  {
     "url": "https://blog.vuejs.org",
     "feeds": [
       "https://blog.vuejs.org/feed.rss"
