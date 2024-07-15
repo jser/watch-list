@@ -9945,5 +9945,18 @@
       "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.val.town",
+    "tags": [
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "Moving from express to fastify, pt 1",
+      "url": "https://blog.val.town/blog/fastify/"
+    },
+    "rssUrl": "https://blog.val.town/rss.xml"
   }
 ]
