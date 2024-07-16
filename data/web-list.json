@@ -1,11 +1,11 @@
 [
   {
-    "count": 58,
+    "count": 57,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "ReleaseNote",
       "serverless",
+      "ReleaseNote",
       "security",
       "seuc",
       "document",
