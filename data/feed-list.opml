@@ -139,7 +139,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/moment/luxon" title="github.com/moment/luxon" type="rss" xmlUrl="https://github.com/moment/luxon/releases.atom"/>
 <outline text="github.com/tuplo/numberfmt" title="github.com/tuplo/numberfmt" type="rss" xmlUrl="https://github.com/tuplo/numberfmt/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/danielroe/magic-regexp" title="github.com/danielroe/magic-regexp" type="rss" xmlUrl="https://github.com/danielroe/magic-regexp/releases.atom"/>
