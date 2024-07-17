@@ -2445,33 +2445,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/moment/luxon",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "luxon/CHANGELOG.md at master · moment/luxon",
-      "url": "https://github.com/moment/luxon/blob/master/CHANGELOG.md#300-2022-07-09"
-    },
-    "rssUrl": "https://github.com/moment/luxon/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://trilon.io",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "NestJS v9 is now available - Trilon Consulting",
-      "url": "https://trilon.io/blog/nestjs-9-is-now-available"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/tuplo/numberfmt",
     "tags": [
       "JavaScript",

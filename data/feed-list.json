@@ -832,12 +832,6 @@
     ]
   },
   {
-    "url": "https://github.com/moment/luxon",
-    "feeds": [
-      "https://github.com/moment/luxon/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tuplo/numberfmt",
     "feeds": [
       "https://github.com/tuplo/numberfmt/releases.atom"
