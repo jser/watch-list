@@ -200,6 +200,13 @@
     ]
   },
   {
+    "url": "https://blog.platformatic.dev",
+    "feeds": [
+      "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml",
+      "https://blog.platformatic.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://blog.rafaelgss.dev",
     "feeds": [
       "https://blog.rafaelgss.dev/rss"
@@ -538,6 +545,12 @@
     ]
   },
   {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
@@ -547,12 +560,6 @@
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
     ]
   },
   {
@@ -829,12 +836,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tuplo/numberfmt",
-    "feeds": [
-      "https://github.com/tuplo/numberfmt/releases.atom"
     ]
   },
   {
@@ -2161,6 +2162,12 @@
     "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file",
     "feeds": [
       "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/mjackson/fetch-super-headers",
+    "feeds": [
+      "https://github.com/mjackson/fetch-super-headers/releases.atom"
     ]
   },
   {

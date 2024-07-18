@@ -200,6 +200,13 @@
     ]
   },
   {
+    "url": "https://blog.platformatic.dev",
+    "feeds": [
+      "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml",
+      "https://blog.platformatic.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://blog.rafaelgss.dev",
     "feeds": [
       "https://blog.rafaelgss.dev/rss"

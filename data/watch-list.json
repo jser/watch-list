@@ -1,6 +1,6 @@
 [
   {
-    "count": 57,
+    "count": 58,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Monday, July 8, 2024 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/july-2024-security-releases"
+      "title": "Node.js — Node v22.5.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.5.0"
     }
   },
   {
@@ -43,7 +43,7 @@
     }
   },
   {
-    "count": 43,
+    "count": 44,
     "url": "https://developer.chrome.com",
     "tags": [
       "CSS",
@@ -65,8 +65,8 @@
       "LanguageModel"
     ],
     "example": {
-      "title": "New in Chrome 126  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-chrome-126?hl=en"
+      "title": "Misconceptions about view transitions  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/view-transitions-misconceptions?hl=en"
     }
   },
   {
@@ -91,7 +91,7 @@
     }
   },
   {
-    "count": 28,
+    "count": 29,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -104,11 +104,12 @@
       "JavaScript",
       "browser",
       "benchmark",
-      "performance"
+      "performance",
+      "privacy"
     ],
     "example": {
-      "title": "News from WWDC24: WebKit in Safari 18 beta | WebKit",
-      "url": "https://webkit.org/blog/15443/news-from-wwdc24-webkit-in-safari-18-beta/"
+      "title": "Private Browsing 2.0 | WebKit",
+      "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
     }
   },
   {
@@ -229,6 +230,23 @@
   },
   {
     "count": 11,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "library",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 11,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -271,23 +289,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "library",
-      "JavaScript",
-      "test"
-    ],
-    "example": {
-      "title": "Release v2.0.0-beta.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0-beta.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 10,
@@ -490,6 +491,19 @@
   },
   {
     "count": 6,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "jquery]"
+    ],
+    "example": {
+      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://remix.run",
     "tags": [
       "React",
@@ -585,19 +599,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "jquery]"
-    ],
-    "example": {
-      "title": "jQuery 4.0.0 BETA! | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/"
-    }
   },
   {
     "count": 5,
@@ -2364,19 +2365,6 @@
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tuplo/numberfmt",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "tuplo/numberfmt: Number formatting using a text pattern and native Intl.NumberFormat()",
-      "url": "https://github.com/tuplo/numberfmt"
-    },
-    "rssUrl": "https://github.com/tuplo/numberfmt/releases.atom"
   },
   {
     "count": 1,
@@ -9667,6 +9655,60 @@
     "example": {
       "title": "Moving from express to fastify, pt 1",
       "url": "https://blog.val.town/blog/fastify/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/mjackson/fetch-super-headers",
+    "tags": [
+      "TypeScript",
+      "library"
+    ],
+    "example": {
+      "title": "mjackson/fetch-super-headers: A drop-in replacement for JavaScript `Headers` with type-safe access",
+      "url": "https://github.com/mjackson/fetch-super-headers"
+    },
+    "rssUrl": "https://github.com/mjackson/fetch-super-headers/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://cssgridgenerator.io",
+    "tags": [
+      "CSS",
+      "Tools"
+    ],
+    "example": {
+      "title": "CSS Grid Generator",
+      "url": "https://cssgridgenerator.io/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://poku.io",
+    "tags": [
+      "JavaScript",
+      "nodejs",
+      "Bun",
+      "deno",
+      "test",
+      "library"
+    ],
+    "example": {
+      "title": "Poku - Making Testing Easy",
+      "url": "https://poku.io/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.platformatic.dev",
+    "tags": [
+      "nodejs",
+      "stream",
+      "article"
+    ],
+    "example": {
+      "title": "Reading and writing Node.js streams",
+      "url": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams"
     }
   }
 ]
