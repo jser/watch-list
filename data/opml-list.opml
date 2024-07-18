@@ -36,6 +36,7 @@
 <outline text="blog.mozilla.org" title="blog.mozilla.org" type="rss" xmlUrl="https://blog.mozilla.org/en/feed/"/>
 <outline text="blog.nrwl.io" title="blog.nrwl.io" type="rss" xmlUrl="https://blog.nrwl.io/feed"/>
 <outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
+<outline text="blog.platformatic.dev" title="blog.platformatic.dev" type="rss" xmlUrl="https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.s2n.tech" title="blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
