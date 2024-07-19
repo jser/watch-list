@@ -592,24 +592,6 @@
   },
   {
     "count": 5,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "article",
-      "ReleaseNote",
-      "TypeScript",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -811,6 +793,23 @@
       "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/rollup/rollup/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "ReleaseNote",
+      "TypeScript",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1378,21 +1377,6 @@
       "url": "https://v8.dev/blog/jspi-newapi"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://nodered.org",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Version 4.0 released : Node-RED",
-      "url": "https://nodered.org/blog/2024/06/20/version-4-0-released"
-    },
-    "rssUrl": "https://nodered.org/feed.xml"
   },
   {
     "count": 2,
@@ -2443,46 +2427,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nodejs/undici",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.8.0 · nodejs/undici",
-      "url": "https://github.com/nodejs/undici/releases/tag/v5.8.0"
-    },
-    "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://konstantinlebedev.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Applying SOLID principles in React | Konstantin Lebedev blog",
-      "url": "https://konstantinlebedev.com/solid-in-react/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/danielroe/magic-regexp",
-    "tags": [
-      "RegExp",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "danielroe/magic-regexp: A compiled-away, type-safe, readable RegExp alternative",
-      "url": "https://github.com/danielroe/magic-regexp"
-    },
-    "rssUrl": "https://github.com/danielroe/magic-regexp/releases.atom"
   },
   {
     "count": 1,
@@ -9699,6 +9643,19 @@
       "title": "State of JavaScript 2023",
       "url": "https://2023.stateofjs.com/en-US/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://nodered.org",
+    "tags": [
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Version 4.0 released : Node-RED",
+      "url": "https://nodered.org/blog/2024/06/20/version-4-0-released"
+    },
+    "rssUrl": "https://nodered.org/feed.xml"
   },
   {
     "count": 1,

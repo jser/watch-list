@@ -839,18 +839,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/undici",
-    "feeds": [
-      "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/danielroe/magic-regexp",
-    "feeds": [
-      "https://github.com/danielroe/magic-regexp/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/yaakov123/hagana",
     "feeds": [
       "https://github.com/yaakov123/hagana/releases.atom"

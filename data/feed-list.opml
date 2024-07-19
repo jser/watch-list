@@ -140,8 +140,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/danielroe/magic-regexp" title="github.com/danielroe/magic-regexp" type="rss" xmlUrl="https://github.com/danielroe/magic-regexp/releases.atom"/>
 <outline text="github.com/yaakov123/hagana" title="github.com/yaakov123/hagana" type="rss" xmlUrl="https://github.com/yaakov123/hagana/releases.atom"/>
 <outline text="github.com/modfy/nominal" title="github.com/modfy/nominal" type="rss" xmlUrl="https://github.com/modfy/nominal/releases.atom"/>
 <outline text="github.com/5t3ph/css-browser-support" title="github.com/5t3ph/css-browser-support" type="rss" xmlUrl="https://github.com/5t3ph/css-browser-support/releases.atom"/>
