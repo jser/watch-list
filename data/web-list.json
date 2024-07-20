@@ -223,20 +223,6 @@
   },
   {
     "count": 11,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "What's coming next for ESLint - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/07/whats-coming-next-for-eslint/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 11,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -297,6 +283,20 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "What's coming next for ESLint - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/07/whats-coming-next-for-eslint/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 10,
@@ -1380,22 +1380,6 @@
   },
   {
     "count": 2,
-    "url": "https://zenn.dev/teppeis/",
-    "tags": [
-      "ECMAScript",
-      "vite",
-      "node.js",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "TypeScript 5.0 で追加された verbatimModuleSyntax とは何か？",
-      "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax"
-    },
-    "rssUrl": "https://zenn.dev/teppeis/feed"
-  },
-  {
-    "count": 2,
     "url": "https://ishadeed.com",
     "tags": [
       "CSS",
@@ -2427,46 +2411,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://cloudscape.design",
-    "tags": [
-      "aws",
-      "Design",
-      "accessibility",
-      "document"
-    ],
-    "example": {
-      "title": "Cloudscape – Cloudscape Design System",
-      "url": "https://cloudscape.design/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://rety.verou.me",
-    "tags": [
-      "JavaScript",
-      "library",
-      "presentation"
-    ],
-    "example": {
-      "title": "rety: Live coding without the stress",
-      "url": "https://rety.verou.me/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://defensivecss.dev",
-    "tags": [
-      "CSS",
-      "document"
-    ],
-    "example": {
-      "title": "Defensive CSS",
-      "url": "https://defensivecss.dev/"
-    },
-    "rssUrl": "https://defensivecss.dev/feed/feed.xml"
   },
   {
     "count": 1,
@@ -5342,6 +5286,19 @@
       "url": "https://github.com/unjs/magicast"
     },
     "rssUrl": "https://github.com/unjs/magicast/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/teppeis/",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "TypeScript 5.0 で追加された verbatimModuleSyntax とは何か？",
+      "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax"
+    },
+    "rssUrl": "https://zenn.dev/teppeis/feed"
   },
   {
     "count": 1,
