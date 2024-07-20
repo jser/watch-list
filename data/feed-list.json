@@ -350,12 +350,6 @@
     ]
   },
   {
-    "url": "https://defensivecss.dev",
-    "feeds": [
-      "https://defensivecss.dev/feed/feed.xml"
-    ]
-  },
-  {
     "url": "https://deno.com",
     "feeds": [
       "https://deno.com/feed"
@@ -3180,12 +3174,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/teppeis/",
-    "feeds": [
-      "https://zenn.dev/teppeis/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/sa2knight/",
     "feeds": [
       "https://zenn.dev/sa2knight/feed"
@@ -3255,6 +3243,12 @@
     "url": "https://zenn.dev/tnyo43/",
     "feeds": [
       "https://zenn.dev/tnyo43/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/teppeis/",
+    "feeds": [
+      "https://zenn.dev/teppeis/feed"
     ]
   },
   {

@@ -60,7 +60,6 @@
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="daverupert.com" title="daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
-<outline text="defensivecss.dev" title="defensivecss.dev" type="rss" xmlUrl="https://defensivecss.dev/feed/feed.xml"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
 <outline text="dev.to/hemanth/" title="dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
@@ -242,7 +241,6 @@
 <outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
 <outline text="yosuke-furukawa.hatenablog.com" title="yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
-<outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/yukiyada/" title="zenn.dev/yukiyada/" type="rss" xmlUrl="https://zenn.dev/yukiyada/feed"/>
@@ -255,6 +253,7 @@
 <outline text="zenn.dev/terrierscript/" title="zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
 <outline text="zenn.dev/yusukehirao/" title="zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>
 <outline text="zenn.dev/tnyo43/" title="zenn.dev/tnyo43/" type="rss" xmlUrl="https://zenn.dev/tnyo43/feed"/>
+<outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/wakamsha/" title="zenn.dev/wakamsha/" type="rss" xmlUrl="https://zenn.dev/wakamsha/feed"/>
 <outline text="zenn.dev/taisei_13046/" title="zenn.dev/taisei_13046/" type="rss" xmlUrl="https://zenn.dev/taisei_13046/feed"/>
 <outline text="zenn.dev/nakaakist/" title="zenn.dev/nakaakist/" type="rss" xmlUrl="https://zenn.dev/nakaakist/feed"/>
