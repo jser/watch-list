@@ -1,6 +1,6 @@
 [
   {
-    "count": 58,
+    "count": 59,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -17,8 +17,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.5.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.5.0"
+      "title": "Node.js — Node v22.5.1 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.5.1"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -352,6 +352,29 @@
     "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
+    "count": 10,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "React",
+      "video",
+      "JavaScript",
+      "Conference",
+      "performance",
+      "TypeScript",
+      "blink",
+      "Chrome",
+      "C++",
+      "Next.js",
+      "nodejs",
+      "history"
+    ],
+    "example": {
+      "title": "JSConf Budapest 2024 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy"
+    },
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
     "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
@@ -369,29 +392,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.37.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "React",
-      "video",
-      "JavaScript",
-      "Conference",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "C++",
-      "Next.js",
-      "nodejs",
-      "history"
-    ],
-    "example": {
-      "title": "Node.js: The Documentary | An origin story - YouTube",
-      "url": "https://www.youtube.com/watch?v=LB8KwiiUGy0"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 8,
@@ -709,18 +709,6 @@
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://developer.apple.com",
-    "tags": [
-      "safari",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
-      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
-    }
   },
   {
     "count": 4,
@@ -1235,6 +1223,18 @@
       "url": "https://github.com/ije/esm.sh/releases/tag/v111"
     },
     "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://developer.apple.com",
+    "tags": [
+      "safari",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
+    }
   },
   {
     "count": 3,
@@ -2411,20 +2411,6 @@
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     },
     "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/yaakov123/hagana",
-    "tags": [
-      "node.js",
-      "security",
-      "library"
-    ],
-    "example": {
-      "title": "yaakov123/hagana: NodeJS runtime protection for supply chain attacks",
-      "url": "https://github.com/yaakov123/hagana"
-    },
-    "rssUrl": "https://github.com/yaakov123/hagana/releases.atom"
   },
   {
     "count": 1,
