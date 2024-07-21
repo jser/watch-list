@@ -833,12 +833,6 @@
     ]
   },
   {
-    "url": "https://github.com/yaakov123/hagana",
-    "feeds": [
-      "https://github.com/yaakov123/hagana/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/modfy/nominal",
     "feeds": [
       "https://github.com/modfy/nominal/releases.atom"
