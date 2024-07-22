@@ -84,6 +84,7 @@
 <outline text="escape.tech" title="escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
 <outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
+<outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
 <outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
 <outline text="gist.github.com/andrewbranch" title="gist.github.com/andrewbranch" type="rss" xmlUrl="https://gist.github.com/andrewbranch.atom"/>

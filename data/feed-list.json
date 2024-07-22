@@ -501,6 +501,12 @@
     ]
   },
   {
+    "url": "https://forums.meteor.com",
+    "feeds": [
+      "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"
+    ]
+  },
+  {
     "url": "https://fosdem.org",
     "feeds": [
       "https://fosdem.org/2024/atom.xml",
