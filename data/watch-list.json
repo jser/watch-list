@@ -71,27 +71,6 @@
   },
   {
     "count": 29,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "news",
-      "V8",
-      "article",
-      "JavaScript",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 1.45: Workspace and Monorepo Support",
-      "url": "https://deno.com/blog/v1.45"
-    }
-  },
-  {
-    "count": 29,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -110,6 +89,27 @@
     "example": {
       "title": "Private Browsing 2.0 | WebKit",
       "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
+    }
+  },
+  {
+    "count": 28,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "news",
+      "V8",
+      "article",
+      "ReleaseNote",
+      "JavaScript",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 1.45: Workspace and Monorepo Support",
+      "url": "https://deno.com/blog/v1.45"
     }
   },
   {
@@ -156,6 +156,20 @@
   },
   {
     "count": 17,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release pnpm 9.6 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.6.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -183,20 +197,6 @@
       "title": "Firefox 128.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/128.0/releasenotes/"
     }
-  },
-  {
-    "count": 16,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release pnpm 9.5 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.5.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 15,
@@ -1026,6 +1026,21 @@
   },
   {
     "count": 3,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "CSS",
+      "figma",
+      "article",
+      "Design",
+      "mobile"
+    ],
+    "example": {
+      "title": "CSS Grid Areas",
+      "url": "https://ishadeed.com/article/css-grid-area/"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://www.mitsue.co.jp",
     "tags": [
       "CSS",
@@ -1335,21 +1350,6 @@
   },
   {
     "count": 2,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "figma",
-      "article",
-      "Design",
-      "mobile"
-    ],
-    "example": {
-      "title": "Designing better target sizes",
-      "url": "https://ishadeed.com/article/target-size"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://jakearchibald.com",
     "tags": [
       "HTML",
@@ -1649,6 +1649,21 @@
     "example": {
       "title": "Japa",
       "url": "https://japa.dev/docs/introduction"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://exploringjs.com",
+    "tags": [
+      "node.js",
+      "book",
+      "ShellScript",
+      "JavaScript",
+      "ECMAScript"
+    ],
+    "example": {
+      "title": "Exploring JavaScript (ES2024 Edition)",
+      "url": "https://exploringjs.com/js/index.html"
     }
   },
   {
@@ -2334,20 +2349,6 @@
     "example": {
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://docs.nest-book.jp",
-    "tags": [
-      "node.js",
-      "library",
-      "book",
-      "GraphQL"
-    ],
-    "example": {
-      "title": "はじめに - NestJSの強化書 βversion",
-      "url": "https://docs.nest-book.jp/"
     }
   },
   {
@@ -3263,19 +3264,6 @@
       "url": "https://github.com/facebook/lexical/releases/tag/v0.5.0"
     },
     "rssUrl": "https://github.com/facebook/lexical/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://exploringjs.com",
-    "tags": [
-      "node.js",
-      "book",
-      "ShellScript"
-    ],
-    "example": {
-      "title": "Shell scripting with Node.js",
-      "url": "https://exploringjs.com/nodejs-shell-scripting/"
-    }
   },
   {
     "count": 1,
@@ -9610,6 +9598,20 @@
     "example": {
       "title": "Reading and writing Node.js streams",
       "url": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://forums.meteor.com",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "It's official, Meteor 3.0 Official Release is out! - announce - Meteor.js forums",
+      "url": "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860"
     }
   }
 ]
