@@ -156,20 +156,6 @@
   },
   {
     "count": 17,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release pnpm 9.6 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.6.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -197,6 +183,20 @@
       "title": "Firefox 128.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/128.0/releasenotes/"
     }
+  },
+  {
+    "count": 16,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release pnpm 9.6 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.6.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 15,
@@ -1333,6 +1333,19 @@
   },
   {
     "count": 3,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "July 22, 2024 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2024-07-22.html"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://v8.dev",
     "tags": [
       "ECMAScript",
@@ -2327,19 +2340,6 @@
   },
   {
     "count": 2,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "May 1, 2024 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2024-05-01.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://zenn.dev/morinokami/",
     "tags": [
       "astro",
@@ -2350,19 +2350,6 @@
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/modfy/nominal",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "modfy/nominal: 🔒 The new way to do types in typescript.",
-      "url": "https://github.com/modfy/nominal"
-    },
-    "rssUrl": "https://github.com/modfy/nominal/releases.atom"
   },
   {
     "count": 1,

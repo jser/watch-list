@@ -839,12 +839,6 @@
     ]
   },
   {
-    "url": "https://github.com/modfy/nominal",
-    "feeds": [
-      "https://github.com/modfy/nominal/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/5t3ph/css-browser-support",
     "feeds": [
       "https://github.com/5t3ph/css-browser-support/releases.atom"
