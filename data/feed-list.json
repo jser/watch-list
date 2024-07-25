@@ -362,12 +362,6 @@
     ]
   },
   {
-    "url": "https://dev.to/hemanth/",
-    "feeds": [
-      "https://dev.to/feed/hemanth"
-    ]
-  },
-  {
     "url": "https://dev.to/srmagura/",
     "feeds": [
       "https://dev.to/feed/srmagura"
@@ -557,15 +551,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -836,12 +830,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/5t3ph/css-browser-support",
-    "feeds": [
-      "https://github.com/5t3ph/css-browser-support/releases.atom"
     ]
   },
   {
@@ -2245,6 +2233,12 @@
     "feeds": [
       "https://ladle.dev/blog/rss.xml",
       "https://ladle.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://ladybird.org",
+    "feeds": [
+      "https://ladybird.org/posts.xml"
     ]
   },
   {
