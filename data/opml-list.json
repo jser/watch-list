@@ -362,12 +362,6 @@
     ]
   },
   {
-    "url": "https://dev.to/hemanth/",
-    "feeds": [
-      "https://dev.to/feed/hemanth"
-    ]
-  },
-  {
     "url": "https://dev.to/srmagura/",
     "feeds": [
       "https://dev.to/feed/srmagura"
@@ -631,6 +625,12 @@
     "feeds": [
       "https://ladle.dev/blog/rss.xml",
       "https://ladle.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://ladybird.org",
+    "feeds": [
+      "https://ladybird.org/posts.xml"
     ]
   },
   {

@@ -62,7 +62,6 @@
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
-<outline text="dev.to/hemanth/" title="dev.to/hemanth/" type="rss" xmlUrl="https://dev.to/feed/hemanth"/>
 <outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
 <outline text="dev.to/nicklucas/" title="dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
 <outline text="dev.to/codux/" title="dev.to/codux/" type="rss" xmlUrl="https://dev.to/feed/codux"/>
@@ -105,6 +104,7 @@
 <outline text="kizu.dev" title="kizu.dev" type="rss" xmlUrl="https://feeds.feedburner.com/kizuruen"/>
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
 <outline text="ladle.dev" title="ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
+<outline text="ladybird.org" title="ladybird.org" type="rss" xmlUrl="https://ladybird.org/posts.xml"/>
 <outline text="lazamar.github.io" title="lazamar.github.io" type="rss" xmlUrl="https://lazamar.github.io/feed.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
