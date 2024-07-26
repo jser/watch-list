@@ -349,25 +349,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "library",
-      "ReleaseNote",
-      "Bun",
-      "article",
-      "OpenSource",
-      "opinion"
-    ],
-    "example": {
-      "title": "Release 3.37.0 - 2024.04.17 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.37.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -407,6 +388,24 @@
       "title": "Improved Cloudflare Workers testing via Vitest and workerd",
       "url": "https://blog.cloudflare.com/workers-vitest-integration/"
     }
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "library",
+      "ReleaseNote",
+      "article",
+      "OpenSource",
+      "opinion"
+    ],
+    "example": {
+      "title": "Release 3.37.0 - 2024.04.17 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.37.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
@@ -685,19 +684,6 @@
       "title": "Biome v1.7 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.90.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
@@ -1026,21 +1012,6 @@
   },
   {
     "count": 3,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "figma",
-      "article",
-      "Design",
-      "mobile"
-    ],
-    "example": {
-      "title": "CSS Grid Areas",
-      "url": "https://ishadeed.com/article/css-grid-area/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://www.mitsue.co.jp",
     "tags": [
       "CSS",
@@ -1238,6 +1209,19 @@
       "url": "https://github.com/google/zx/releases/tag/8.1.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.90.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 3,
@@ -2349,6 +2333,20 @@
     "example": {
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "CSS",
+      "Design",
+      "mobile",
+      "article"
+    ],
+    "example": {
+      "title": "CSS Grid Areas",
+      "url": "https://ishadeed.com/article/css-grid-area/"
     }
   },
   {
