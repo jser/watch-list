@@ -112,7 +112,6 @@
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
-<outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/riot/riot" title="github.com/riot/riot" type="rss" xmlUrl="https://github.com/riot/riot/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/denoland/deno" title="github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
@@ -243,6 +242,7 @@
 <outline text="github.com/liriliri/eruda" title="github.com/liriliri/eruda" type="rss" xmlUrl="https://github.com/liriliri/eruda/releases.atom"/>
 <outline text="github.com/divriots/jampack" title="github.com/divriots/jampack" type="rss" xmlUrl="https://github.com/divriots/jampack/releases.atom"/>
 <outline text="github.com/open-draft/logger" title="github.com/open-draft/logger" type="rss" xmlUrl="https://github.com/open-draft/logger/releases.atom"/>
+<outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/immerjs/immer" title="github.com/immerjs/immer" type="rss" xmlUrl="https://github.com/immerjs/immer/releases.atom"/>
 <outline text="github.com/yoavbls/pretty-ts-errors" title="github.com/yoavbls/pretty-ts-errors" type="rss" xmlUrl="https://github.com/yoavbls/pretty-ts-errors/releases.atom"/>
 <outline text="github.com/HeyPuter/kv.js" title="github.com/HeyPuter/kv.js" type="rss" xmlUrl="https://github.com/HeyPuter/kv.js/releases.atom"/>

@@ -671,12 +671,6 @@
     ]
   },
   {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/riot/riot",
     "feeds": [
       "https://github.com/riot/riot/releases.atom"
@@ -1454,6 +1448,12 @@
     "url": "https://github.com/open-draft/logger",
     "feeds": [
       "https://github.com/open-draft/logger/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {
