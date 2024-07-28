@@ -827,12 +827,6 @@
     ]
   },
   {
-    "url": "https://github.com/video-dev/hls.js",
-    "feeds": [
-      "https://github.com/video-dev/hls.js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ronami/HypeScript",
     "feeds": [
       "https://github.com/ronami/HypeScript/releases.atom"
@@ -2538,6 +2532,12 @@
     "url": "https://sansec.io",
     "feeds": [
       "https://sansec.io/atom.xml"
+    ]
+  },
+  {
+    "url": "https://sass-lang.com",
+    "feeds": [
+      "https://sass-lang.com/feed.xml"
     ]
   },
   {
