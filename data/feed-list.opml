@@ -138,7 +138,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/video-dev/hls.js" title="github.com/video-dev/hls.js" type="rss" xmlUrl="https://github.com/video-dev/hls.js/releases.atom"/>
 <outline text="github.com/ronami/HypeScript" title="github.com/ronami/HypeScript" type="rss" xmlUrl="https://github.com/ronami/HypeScript/releases.atom"/>
 <outline text="github.com/losfair/blueboat" title="github.com/losfair/blueboat" type="rss" xmlUrl="https://github.com/losfair/blueboat/releases.atom"/>
 <outline text="github.com/ehmicky/safe-json-value" title="github.com/ehmicky/safe-json-value" type="rss" xmlUrl="https://github.com/ehmicky/safe-json-value/releases.atom"/>
@@ -420,6 +419,7 @@
 <outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
+<outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
 <outline text="scrapbox.io" title="scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>
 <outline text="semaphoreci.com" title="semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>

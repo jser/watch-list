@@ -1,10 +1,9 @@
 [
   {
-    "count": 59,
+    "count": 58,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "serverless",
       "ReleaseNote",
       "security",
       "seuc",
@@ -1347,19 +1346,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.google",
-    "tags": [
-      "Chrome",
-      "privacy",
-      "news"
-    ],
-    "example": {
-      "title": "Google shares update on next step toward phasing out third-party cookies in Chrome",
-      "url": "https://blog.google/products/chrome/privacy-sandbox-tracking-protection/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://azu.github.io",
     "tags": [
       "monorepo",
@@ -2320,21 +2306,6 @@
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/video-dev/hls.js",
-    "tags": [
-      "HLS",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.2.0 · video-dev/hls.js",
-      "url": "https://github.com/video-dev/hls.js/releases/tag/v1.2.0"
-    },
-    "rssUrl": "https://github.com/video-dev/hls.js/releases.atom"
   },
   {
     "count": 1,
@@ -7550,6 +7521,19 @@
   },
   {
     "count": 1,
+    "url": "https://blog.google",
+    "tags": [
+      "Chrome",
+      "privacy",
+      "news"
+    ],
+    "example": {
+      "title": "Google shares update on next step toward phasing out third-party cookies in Chrome",
+      "url": "https://blog.google/products/chrome/privacy-sandbox-tracking-protection/"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://julesblom.com",
     "tags": [
       "React",
@@ -9557,6 +9541,32 @@
     "example": {
       "title": "It's official, Meteor 3.0 Official Release is out! - announce - Meteor.js forums",
       "url": "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://privacysandbox.com",
+    "tags": [
+      "Chrome",
+      "privacy",
+      "news"
+    ],
+    "example": {
+      "title": "A new path for Privacy Sandbox on the web",
+      "url": "https://privacysandbox.com/news/privacy-sandbox-update/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://sass-lang.com",
+    "tags": [
+      "nodejs",
+      "Sass",
+      "news"
+    ],
+    "example": {
+      "title": "Sass: Node Sass is end-of-life",
+      "url": "https://sass-lang.com/blog/node-sass-is-end-of-life/"
     }
   }
 ]

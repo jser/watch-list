@@ -933,6 +933,12 @@
     ]
   },
   {
+    "url": "https://sass-lang.com",
+    "feeds": [
+      "https://sass-lang.com/feed.xml"
+    ]
+  },
+  {
     "url": "https://security.googleblog.com",
     "feeds": [
       "https://googleonlinesecurity.blogspot.com/atom.xml"

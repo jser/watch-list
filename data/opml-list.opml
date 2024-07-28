@@ -152,6 +152,7 @@
 <outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
+<outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
 <outline text="security.googleblog.com" title="security.googleblog.com" type="rss" xmlUrl="https://googleonlinesecurity.blogspot.com/atom.xml"/>
 <outline text="semaphoreci.com" title="semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
 <outline text="shisama.hatenablog.com" title="shisama.hatenablog.com" type="rss" xmlUrl="https://shisama.hatenablog.com/feed"/>
