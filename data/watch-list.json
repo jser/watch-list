@@ -1,6 +1,6 @@
 [
   {
-    "count": 58,
+    "count": 59,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,12 +16,12 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.5.1 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.5.1"
+      "title": "Node.js — Node v20.16.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v20.16.0"
     }
   },
   {
-    "count": 45,
+    "count": 46,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -37,8 +37,8 @@
       "windows"
     ],
     "example": {
-      "title": "Bun v1.1.19 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.19"
+      "title": "Bun v1.1.21 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.21"
     }
   },
   {
@@ -112,7 +112,7 @@
     }
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -122,8 +122,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.5 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"
+      "title": "Announcing TypeScript 5.6 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/"
     }
   },
   {
@@ -154,7 +154,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 18,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -167,8 +167,8 @@
       "article"
     ],
     "example": {
-      "title": "Astro 4.8 | Astro",
-      "url": "https://astro.build/blog/astro-480/"
+      "title": "Astro 4.12: Server Islands | Astro",
+      "url": "https://astro.build/blog/astro-4120/"
     }
   },
   {
@@ -2253,6 +2253,20 @@
   },
   {
     "count": 2,
+    "url": "https://speakerdeck.com/sajikix/",
+    "tags": [
+      "i18n",
+      "JavaScript",
+      "ECMAScript",
+      "slide"
+    ],
+    "example": {
+      "title": "Temporalを取り巻く仕様を整理する - Speaker Deck",
+      "url": "https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
@@ -2306,34 +2320,6 @@
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ronami/HypeScript",
-    "tags": [
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "ronami/HypeScript: 🐬 A simplified implementation of TypeScript's type system written in TypeScript's own type system",
-      "url": "https://github.com/ronami/HypeScript"
-    },
-    "rssUrl": "https://github.com/ronami/HypeScript/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/losfair/blueboat",
-    "tags": [
-      "JavaScript",
-      "serverless",
-      "cloudflare",
-      "Tools"
-    ],
-    "example": {
-      "title": "losfair/blueboat: All-in-one, multi-tenant serverless JavaScript runtime.",
-      "url": "https://github.com/losfair/blueboat"
-    },
-    "rssUrl": "https://github.com/losfair/blueboat/releases.atom"
   },
   {
     "count": 1,
@@ -7130,20 +7116,6 @@
   },
   {
     "count": 1,
-    "url": "https://speakerdeck.com/sajikix/",
-    "tags": [
-      "i18n",
-      "JavaScript",
-      "ECMAScript",
-      "slide"
-    ],
-    "example": {
-      "title": "Intlの今までとこれから - Speaker Deck",
-      "url": "https://speakerdeck.com/sajikix/intlnojin-madetokorekara"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://majors.nullvoxpopuli.com",
     "tags": [
       "npm",
@@ -9568,5 +9540,30 @@
       "title": "Sass: Node Sass is end-of-life",
       "url": "https://sass-lang.com/blog/node-sass-is-end-of-life/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://2023.stateofreact.com",
+    "tags": [
+      "React",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of React 2023",
+      "url": "https://2023.stateofreact.com/en-US"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://gist.github.com/azu",
+    "tags": [
+      "nodejs",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Node.jsのTypeScriptサポートについて",
+      "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
+    },
+    "rssUrl": "https://gist.github.com/azu.atom"
   }
 ]

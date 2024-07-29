@@ -520,6 +520,12 @@
     ]
   },
   {
+    "url": "https://gist.github.com/azu",
+    "feeds": [
+      "https://gist.github.com/azu.atom"
+    ]
+  },
+  {
     "url": "https://github.blog",
     "feeds": [
       "https://github.blog/feed/",
@@ -824,18 +830,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ronami/HypeScript",
-    "feeds": [
-      "https://github.com/ronami/HypeScript/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/losfair/blueboat",
-    "feeds": [
-      "https://github.com/losfair/blueboat/releases.atom"
     ]
   },
   {
@@ -2593,6 +2587,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/sajikix/",
+    "feeds": [
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
+    ]
+  },
+  {
     "url": "https://speakerdeck.com/nichimu/",
     "feeds": [
       "https://speakerdeck.com/nichimu.atom",
@@ -2618,13 +2619,6 @@
     "feeds": [
       "https://speakerdeck.com/recruitengineers.atom",
       "https://speakerdeck.com/recruitengineers.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sajikix/",
-    "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {
