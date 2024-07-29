@@ -520,6 +520,12 @@
     ]
   },
   {
+    "url": "https://gist.github.com/azu",
+    "feeds": [
+      "https://gist.github.com/azu.atom"
+    ]
+  },
+  {
     "url": "https://github.blog",
     "feeds": [
       "https://github.blog/feed/",
@@ -985,6 +991,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/sajikix/",
+    "feeds": [
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
+    ]
+  },
+  {
     "url": "https://speakerdeck.com/nichimu/",
     "feeds": [
       "https://speakerdeck.com/nichimu.atom",
@@ -1010,13 +1023,6 @@
     "feeds": [
       "https://speakerdeck.com/recruitengineers.atom",
       "https://speakerdeck.com/recruitengineers.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sajikix/",
-    "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {
