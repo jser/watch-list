@@ -1011,20 +1011,6 @@
   },
   {
     "count": 3,
-    "url": "https://www.mitsue.co.jp",
-    "tags": [
-      "CSS",
-      "article",
-      "browser",
-      "WebPlatformAPI"
-    ],
-    "example": {
-      "title": "Interop 2024がスタート | フロントエンドBlog | ミツエーリンクス",
-      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202402/02_1152.html"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/cloudflare/miniflare",
     "tags": [
       "cloudflare",
@@ -1342,22 +1328,6 @@
     "example": {
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://azu.github.io",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "slide",
-      "JavaScript",
-      "node.js",
-      "npm"
-    ],
-    "example": {
-      "title": "Corepackを使ってNode.jsをアップデートする ⬆️⬆️",
-      "url": "https://azu.github.io/slide/2023/nodejs-corepack/corepack.html"
     }
   },
   {
@@ -2282,6 +2252,20 @@
   },
   {
     "count": 2,
+    "url": "https://www.mitsue.co.jp",
+    "tags": [
+      "CSS",
+      "article",
+      "browser",
+      "WebPlatformAPI"
+    ],
+    "example": {
+      "title": "Interop 2024がスタート | フロントエンドBlog | ミツエーリンクス",
+      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202402/02_1152.html"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://scrapbox.io",
     "tags": [
       "CSS",
@@ -2320,20 +2304,6 @@
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ehmicky/safe-json-value",
-    "tags": [
-      "JavaScript",
-      "library",
-      "JSON"
-    ],
-    "example": {
-      "title": "ehmicky/safe-json-value: ⛑️ JSON serialization should never fail",
-      "url": "https://github.com/ehmicky/safe-json-value"
-    },
-    "rssUrl": "https://github.com/ehmicky/safe-json-value/releases.atom"
   },
   {
     "count": 1,
@@ -5329,6 +5299,19 @@
     "example": {
       "title": "現実世界におけるスキーマ設計の妥協 - Speaker Deck",
       "url": "https://speakerdeck.com/sadnessojisan/xian-shi-shi-jie-niokerusukimashe-ji-notuo-xie"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://azu.github.io",
+    "tags": [
+      "node.js",
+      "npm",
+      "slide"
+    ],
+    "example": {
+      "title": "Corepackを使ってNode.jsをアップデートする ⬆️⬆️",
+      "url": "https://azu.github.io/slide/2023/nodejs-corepack/corepack.html"
     }
   },
   {

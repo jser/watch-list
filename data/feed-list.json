@@ -833,12 +833,6 @@
     ]
   },
   {
-    "url": "https://github.com/ehmicky/safe-json-value",
-    "feeds": [
-      "https://github.com/ehmicky/safe-json-value/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/electron/electron",
     "feeds": [
       "https://github.com/electron/electron/releases.atom"
