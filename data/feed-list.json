@@ -411,17 +411,6 @@
     ]
   },
   {
-    "url": "https://docusaurus.io",
-    "feeds": [
-      "https://docusaurus.io/blog/rss.xml",
-      "https://docusaurus.io/blog/atom.xml",
-      "https://docusaurus.io/changelog/rss.xml",
-      "https://docusaurus.io/changelog/atom.xml",
-      "https://docusaurus.io/tests/blog/rss.xml",
-      "https://docusaurus.io/tests/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://dwango.github.io",
     "feeds": [
       "https://dwango.github.io/index.xml"
@@ -830,12 +819,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/electron/electron",
-    "feeds": [
-      "https://github.com/electron/electron/releases.atom"
     ]
   },
   {

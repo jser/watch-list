@@ -42,13 +42,11 @@
     }
   },
   {
-    "count": 44,
+    "count": 43,
     "url": "https://developer.chrome.com",
     "tags": [
-      "CSS",
-      "article",
-      "アンケート",
       "browser",
+      "article",
       "Chrome",
       "ReleaseNote",
       "performance",
@@ -56,6 +54,7 @@
       "debug",
       "Tools",
       "puppeteer",
+      "CSS",
       "HTML",
       "testing",
       "WebGL",
@@ -1635,6 +1634,19 @@
   },
   {
     "count": 2,
+    "url": "https://www.mizdra.net",
+    "tags": [
+      "CSS",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "tsconfig.json の include オプションには何を指定すべきか - mizdra's blog",
+      "url": "https://www.mizdra.net/entry/2024/07/27/193815"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
@@ -2304,45 +2316,6 @@
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://skeleton.brainandbonesllc.com",
-    "tags": [
-      "Svelte",
-      "CSS",
-      "library"
-    ],
-    "example": {
-      "title": "Skeleton",
-      "url": "https://skeleton.brainandbonesllc.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://docusaurus.io",
-    "tags": [
-      "React",
-      "document",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Docusaurus 2.0 | Docusaurus",
-      "url": "https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/electron/electron",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release electron v20.0.0 · electron/electron",
-      "url": "https://github.com/electron/electron/releases/tag/v20.0.0"
-    },
-    "rssUrl": "https://github.com/electron/electron/releases.atom"
   },
   {
     "count": 1,
@@ -3343,19 +3316,6 @@
     "example": {
       "title": "The magical world of Particles with React Three Fiber and Shaders - Maxime Heckel's Blog",
       "url": "https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.mizdra.net",
-    "tags": [
-      "CSS",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "コードジャンプ可能な CSS Modules を実現する happy-css-modules の紹介 - mizdra's blog",
-      "url": "https://www.mizdra.net/entry/2022/11/14/102506"
     }
   },
   {
