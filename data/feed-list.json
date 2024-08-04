@@ -666,12 +666,6 @@
     ]
   },
   {
-    "url": "https://github.com/riot/riot",
-    "feeds": [
-      "https://github.com/riot/riot/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
@@ -819,18 +813,6 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/infernojs/inferno",
-    "feeds": [
-      "https://github.com/infernojs/inferno/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/puppeteer/puppeteer",
-    "feeds": [
-      "https://github.com/puppeteer/puppeteer/releases.atom"
     ]
   },
   {
@@ -1587,6 +1569,12 @@
     "url": "https://github.com/fabian-hiller/valibot",
     "feeds": [
       "https://github.com/fabian-hiller/valibot/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/riot/riot",
+    "feeds": [
+      "https://github.com/riot/riot/releases.atom"
     ]
   },
   {
@@ -2649,6 +2637,13 @@
     "feeds": [
       "https://tauri.app/blog/rss.xml",
       "https://tauri.app/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://tduyng.com",
+    "feeds": [
+      "https://tduyng.com/atom.xml",
+      "https://tduyng.com/tags/rss/"
     ]
   },
   {

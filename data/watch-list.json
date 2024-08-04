@@ -669,6 +669,25 @@
   },
   {
     "count": 5,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "JavaScript",
+      "article",
+      "TypeScript",
+      "eslib",
+      "Tools",
+      "RegExp",
+      "browser",
+      "Extension",
+      "library"
+    ],
+    "example": {
+      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
+      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -926,22 +945,6 @@
   },
   {
     "count": 4,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "JavaScript",
-      "article",
-      "TypeScript",
-      "eslib",
-      "Tools",
-      "RegExp"
-    ],
-    "example": {
-      "title": "TypeScript 5.5 で追加された正規表現構文チェックを理解する",
-      "url": "https://zenn.dev/cybozu_frontend/articles/349e9a778dfe0b"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
@@ -1103,6 +1106,21 @@
       "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://medium.com/airbnb-engineering/",
+    "tags": [
+      "CSS",
+      "article",
+      "opinion",
+      "accessibility",
+      "React"
+    ],
+    "example": {
+      "title": "How Airbnb Smoothly Upgrades React | by Andre Wiggins | The Airbnb Tech Blog | Jul, 2024 | Medium",
+      "url": "https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd"
+    }
   },
   {
     "count": 3,
@@ -1270,6 +1288,36 @@
   },
   {
     "count": 3,
+    "url": "https://typescript-eslint.io",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing typescript-eslint v8 | typescript-eslint",
+      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "HTML",
+      "CSS",
+      "book",
+      "DOM",
+      "performance"
+    ],
+    "example": {
+      "title": "Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript – Frontend Masters Boost",
+      "url": "https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://learning.oreilly.com",
     "tags": [
       "nodejs",
@@ -1328,20 +1376,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/riot/riot",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Evergreen · riot/riot",
-      "url": "https://github.com/riot/riot/releases/tag/v9.0.0"
-    },
-    "rssUrl": "https://github.com/riot/riot/releases.atom"
   },
   {
     "count": 2,
@@ -1601,20 +1635,6 @@
     "example": {
       "title": "Practical WebAssembly [Book]",
       "url": "https://www.oreilly.com/library/view/practical-webassembly/9781098142513/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://medium.com/airbnb-engineering/",
-    "tags": [
-      "CSS",
-      "article",
-      "opinion",
-      "accessibility"
-    ],
-    "example": {
-      "title": "Rethinking Text Resizing on Web. Airbnb has made significant strides in… | by Steven Bassett | The Airbnb Tech Blog | May, 2024 | Medium",
-      "url": "https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881"
     }
   },
   {
@@ -2097,19 +2117,6 @@
   },
   {
     "count": 2,
-    "url": "https://typescript-eslint.io",
-    "tags": [
-      "TypeScript",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing typescript-eslint v7 | typescript-eslint",
-      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v7/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "JavaScript",
@@ -2137,21 +2144,6 @@
     "example": {
       "title": "Bootstrap 5.3.2 | Bootstrap Blog",
       "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "CSS",
-      "book"
-    ],
-    "example": {
-      "title": "The Front End Developer/Engineer Handbook 2024",
-      "url": "https://frontendmasters.com/guides/front-end-handbook/2024/"
     }
   },
   {
@@ -2316,34 +2308,6 @@
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/infernojs/inferno",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Inferno v8.0.0 · infernojs/inferno",
-      "url": "https://github.com/infernojs/inferno/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/infernojs/inferno/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/puppeteer/puppeteer",
-    "tags": [
-      "puppeteer",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v16.0.0 · puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer/releases/tag/v16.0.0"
-    },
-    "rssUrl": "https://github.com/puppeteer/puppeteer/releases.atom"
   },
   {
     "count": 1,
@@ -5975,6 +5939,20 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/riot/riot",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Evergreen · riot/riot",
+      "url": "https://github.com/riot/riot/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/riot/riot/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://remotesynthesis.com",
     "tags": [
       "community",
@@ -9508,5 +9486,42 @@
       "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
     },
     "rssUrl": "https://gist.github.com/azu.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://conf.react.dev",
+    "tags": [
+      "React",
+      "video"
+    ],
+    "example": {
+      "title": "React Conf 2024 Talks",
+      "url": "https://conf.react.dev/talks"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://porffor.dev",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "Tools"
+    ],
+    "example": {
+      "title": "Porffor",
+      "url": "https://porffor.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://tduyng.com",
+    "tags": [
+      "ESLint",
+      "article"
+    ],
+    "example": {
+      "title": "Migrate to ESLint 9.x • ~/Z",
+      "url": "https://tduyng.com/blog/migrating-to-eslint9x/"
+    }
   }
 ]
