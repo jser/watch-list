@@ -173,6 +173,7 @@
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tauri.app" title="tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>
+<outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
 <outline text="tech.basicinc.jp" title="tech.basicinc.jp" type="rss" xmlUrl="https://tech.basicinc.jp/feed"/>
 <outline text="tech.high-link.co.jp" title="tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
 <outline text="tech.repro.io" title="tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
