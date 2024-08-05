@@ -1426,21 +1426,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/parcel-bundler/parcel",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "parcel"
-    ],
-    "example": {
-      "title": "Release v2.10.0 · parcel-bundler/parcel",
-      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://www.honeybadger.io",
     "tags": [
       "ECMAScript",
@@ -6885,6 +6870,19 @@
       "url": "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs"
     },
     "rssUrl": "https://api.substack.com/feed/podcast/55725.rss"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/parcel-bundler/parcel",
+    "tags": [
+      "parcel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.10.0 · parcel-bundler/parcel",
+      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
   },
   {
     "count": 1,

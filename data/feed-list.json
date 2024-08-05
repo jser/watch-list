@@ -666,12 +666,6 @@
     ]
   },
   {
-    "url": "https://github.com/parcel-bundler/parcel",
-    "feeds": [
-      "https://github.com/parcel-bundler/parcel/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/denoland/deno",
     "feeds": [
       "https://github.com/denoland/deno/releases.atom"
@@ -1713,6 +1707,12 @@
     "url": "https://github.com/arktypeio/arktype",
     "feeds": [
       "https://github.com/arktypeio/arktype/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/parcel-bundler/parcel",
+    "feeds": [
+      "https://github.com/parcel-bundler/parcel/releases.atom"
     ]
   },
   {
