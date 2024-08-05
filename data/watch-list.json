@@ -1379,21 +1379,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/parcel-bundler/parcel",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "parcel"
-    ],
-    "example": {
-      "title": "Release v2.10.0 · parcel-bundler/parcel",
-      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://www.honeybadger.io",
     "tags": [
       "ECMAScript",
@@ -6701,6 +6686,19 @@
       "title": "The Hidden Performance Cost of NodeJS and GraphQL",
       "url": "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/parcel-bundler/parcel",
+    "tags": [
+      "parcel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.10.0 · parcel-bundler/parcel",
+      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
   },
   {
     "count": 1,
