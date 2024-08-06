@@ -31,6 +31,7 @@
 <outline text="blog.hog.as" title="blog.hog.as" type="rss" xmlUrl="https://blog.hog.as/feed"/>
 <outline text="blog.isquaredsoftware.com" title="blog.isquaredsoftware.com" type="rss" xmlUrl="https://blog.isquaredsoftware.com/index.xml"/>
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
+<outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
 <outline text="blog.jxck.io" title="blog.jxck.io" type="rss" xmlUrl="https://blog.jxck.io/feeds/atom.xml"/>
 <outline text="blog.maximeheckel.com" title="blog.maximeheckel.com" type="rss" xmlUrl="https://blog.maximeheckel.com/rss.xml"/>
 <outline text="blog.mozilla.org" title="blog.mozilla.org" type="rss" xmlUrl="https://blog.mozilla.org/en/feed/"/>
@@ -176,6 +177,7 @@
 <outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
 <outline text="tech.basicinc.jp" title="tech.basicinc.jp" type="rss" xmlUrl="https://tech.basicinc.jp/feed"/>
 <outline text="tech.high-link.co.jp" title="tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
+<outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.repro.io" title="tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
 <outline text="techblog.yahoo.co.jp" title="techblog.yahoo.co.jp" type="rss" xmlUrl="https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"/>
 <outline text="textslashplain.com" title="textslashplain.com" type="rss" xmlUrl="https://textslashplain.com/feed/"/>

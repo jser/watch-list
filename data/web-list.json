@@ -252,6 +252,21 @@
   },
   {
     "count": 11,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-07 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/08/06/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 11,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -293,21 +308,6 @@
       "title": "Next.js 15 RC | Next.js",
       "url": "https://nextjs.org/blog/next-15-rc"
     }
-  },
-  {
-    "count": 10,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-06 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/06/15/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 10,
@@ -373,6 +373,24 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
+    "count": 9,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "library",
+      "ReleaseNote",
+      "article",
+      "OpenSource",
+      "opinion"
+    ],
+    "example": {
+      "title": "Release 3.38.0 - 2024.08.05 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
     "count": 8,
     "url": "https://blog.cloudflare.com",
     "tags": [
@@ -398,24 +416,6 @@
       "url": "https://blog.cloudflare.com/workers-vitest-integration/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "library",
-      "ReleaseNote",
-      "article",
-      "OpenSource",
-      "opinion"
-    ],
-    "example": {
-      "title": "Release 3.37.0 - 2024.04.17 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.37.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
@@ -644,6 +644,25 @@
   },
   {
     "count": 5,
+    "url": "https://vercel.com",
+    "tags": [
+      "Next.js",
+      "article",
+      "React",
+      "webservice",
+      "news",
+      "google",
+      "SEO",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "How Google handles JavaScript throughout the indexing process – Vercel",
+      "url": "https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process"
+    },
+    "rssUrl": "https://vercel.com/atom"
+  },
+  {
+    "count": 5,
     "url": "https://blog.angular.io",
     "tags": [
       "Angular",
@@ -830,22 +849,6 @@
       "url": "https://blog.emberjs.com/ember-5-0-released/"
     },
     "rssUrl": "https://blog.emberjs.com/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://vercel.com",
-    "tags": [
-      "Next.js",
-      "article",
-      "React",
-      "webservice",
-      "news"
-    ],
-    "example": {
-      "title": "How React 18 Improves Application Performance – Vercel",
-      "url": "https://vercel.com/blog/how-react-18-improves-application-performance"
-    },
-    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 4,
@@ -9786,5 +9789,32 @@
       "url": "https://tduyng.com/blog/migrating-to-eslint9x/"
     },
     "rssUrl": "https://tduyng.com/atom.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.jqueryui.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "jQuery UI 1.14.0 released | jQuery UI Blog",
+      "url": "https://blog.jqueryui.com/2024/08/jquery-ui-1-14-0-released/"
+    },
+    "rssUrl": "https://blog.jqueryui.com/feed/"
+  },
+  {
+    "count": 1,
+    "url": "https://tech.legalforce.co.jp",
+    "tags": [
+      "Datadog",
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "フロントエンド開発に役立つ Datadog 活用法 - LegalOn Technologies Engineering Blog",
+      "url": "https://tech.legalforce.co.jp/entry/2024/08/05/154617"
+    },
+    "rssUrl": "https://tech.legalforce.co.jp/feed"
   }
 ]

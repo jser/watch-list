@@ -169,6 +169,13 @@
     ]
   },
   {
+    "url": "https://blog.jqueryui.com",
+    "feeds": [
+      "https://blog.jqueryui.com/feed/",
+      "https://blog.jqueryui.com/comments/feed/"
+    ]
+  },
+  {
     "url": "https://blog.jxck.io",
     "feeds": [
       "https://blog.jxck.io/feeds/atom.xml"
@@ -1085,6 +1092,13 @@
     "feeds": [
       "https://tech.high-link.co.jp/feed",
       "https://tech.high-link.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://tech.legalforce.co.jp",
+    "feeds": [
+      "https://tech.legalforce.co.jp/feed",
+      "https://tech.legalforce.co.jp/rss"
     ]
   },
   {
