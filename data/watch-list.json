@@ -722,20 +722,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "redux",
@@ -1047,6 +1033,20 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
+    }
   },
   {
     "count": 3,
@@ -1378,20 +1378,6 @@
     "example": {
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://www.honeybadger.io",
-    "tags": [
-      "ECMAScript",
-      "JavaScript",
-      "article",
-      "RegExp"
-    ],
-    "example": {
-      "title": "Regular expressions in JavaScript - Honeybadger Developer Blog",
-      "url": "https://www.honeybadger.io/blog/javascript-regular-expressions/"
     }
   },
   {
@@ -2296,20 +2282,6 @@
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/oven-sh/bun",
-    "tags": [
-      "Bun",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release bun v0.1.7 · oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun/releases/tag/bun-v0.1.7"
-    },
-    "rssUrl": "https://github.com/oven-sh/bun/releases.atom"
   },
   {
     "count": 1,
@@ -5403,6 +5375,19 @@
       "url": "https://github.com/microsoft/devicescript"
     },
     "rssUrl": "https://github.com/microsoft/devicescript/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.honeybadger.io",
+    "tags": [
+      "JavaScript",
+      "RegExp",
+      "article"
+    ],
+    "example": {
+      "title": "Regular expressions in JavaScript - Honeybadger Developer Blog",
+      "url": "https://www.honeybadger.io/blog/javascript-regular-expressions/"
+    }
   },
   {
     "count": 1,
