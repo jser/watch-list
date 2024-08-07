@@ -137,7 +137,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/oven-sh/bun" title="github.com/oven-sh/bun" type="rss" xmlUrl="https://github.com/oven-sh/bun/releases.atom"/>
 <outline text="github.com/sofn-xyz/mailing" title="github.com/sofn-xyz/mailing" type="rss" xmlUrl="https://github.com/sofn-xyz/mailing/releases.atom"/>
 <outline text="github.com/mjmlio/mjml" title="github.com/mjmlio/mjml" type="rss" xmlUrl="https://github.com/mjmlio/mjml/releases.atom"/>
 <outline text="github.com/pemistahl/grex-js" title="github.com/pemistahl/grex-js" type="rss" xmlUrl="https://github.com/pemistahl/grex-js/releases.atom"/>

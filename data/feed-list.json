@@ -817,12 +817,6 @@
     ]
   },
   {
-    "url": "https://github.com/oven-sh/bun",
-    "feeds": [
-      "https://github.com/oven-sh/bun/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/sofn-xyz/mailing",
     "feeds": [
       "https://github.com/sofn-xyz/mailing/releases.atom"
