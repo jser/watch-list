@@ -657,6 +657,12 @@
     ]
   },
   {
+    "url": "https://leaysgur.github.io",
+    "feeds": [
+      "https://leaysgur.github.io/posts/rss.xml"
+    ]
+  },
+  {
     "url": "https://link-and-motivation.hatenablog.com",
     "feeds": [
       "https://link-and-motivation.hatenablog.com/feed",

@@ -2361,35 +2361,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/sofn-xyz/mailing",
-    "tags": [
-      "JavaScript",
-      "React",
-      "mail",
-      "library"
-    ],
-    "example": {
-      "title": "sofn-xyz/mailing: Build, test, send emails with React",
-      "url": "https://github.com/sofn-xyz/mailing"
-    },
-    "rssUrl": "https://github.com/sofn-xyz/mailing/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mjmlio/mjml",
-    "tags": [
-      "mail",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "mjmlio/mjml: MJML: the only framework that makes responsive-email easy",
-      "url": "https://github.com/mjmlio/mjml"
-    },
-    "rssUrl": "https://github.com/mjmlio/mjml/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://orizens.com",
     "tags": [
       "React",
@@ -9801,5 +9772,20 @@
       "url": "https://tech.legalforce.co.jp/entry/2024/08/05/154617"
     },
     "rssUrl": "https://tech.legalforce.co.jp/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://leaysgur.github.io",
+    "tags": [
+      "JavaScript",
+      "RegExp",
+      "AST",
+      "article"
+    ],
+    "example": {
+      "title": "JSで書かれたECMAScript RegExpパーサーの比較 | Memory ice cubes",
+      "url": "https://leaysgur.github.io/posts/2024/08/05/143855/"
+    },
+    "rssUrl": "https://leaysgur.github.io/posts/rss.xml"
   }
 ]
