@@ -137,8 +137,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/sofn-xyz/mailing" title="github.com/sofn-xyz/mailing" type="rss" xmlUrl="https://github.com/sofn-xyz/mailing/releases.atom"/>
-<outline text="github.com/mjmlio/mjml" title="github.com/mjmlio/mjml" type="rss" xmlUrl="https://github.com/mjmlio/mjml/releases.atom"/>
 <outline text="github.com/pemistahl/grex-js" title="github.com/pemistahl/grex-js" type="rss" xmlUrl="https://github.com/pemistahl/grex-js/releases.atom"/>
 <outline text="github.com/prettier/prettier" title="github.com/prettier/prettier" type="rss" xmlUrl="https://github.com/prettier/prettier/releases.atom"/>
 <outline text="github.com/react-pdf-viewer/react-pdf-viewer" title="github.com/react-pdf-viewer/react-pdf-viewer" type="rss" xmlUrl="https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"/>
@@ -369,6 +367,7 @@
 <outline text="lazamar.github.io" title="lazamar.github.io" type="rss" xmlUrl="https://lazamar.github.io/feed.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
+<outline text="leaysgur.github.io" title="leaysgur.github.io" type="rss" xmlUrl="https://leaysgur.github.io/posts/rss.xml"/>
 <outline text="link-and-motivation.hatenablog.com" title="link-and-motivation.hatenablog.com" type="rss" xmlUrl="https://link-and-motivation.hatenablog.com/feed"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
 <outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>

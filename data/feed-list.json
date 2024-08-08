@@ -817,18 +817,6 @@
     ]
   },
   {
-    "url": "https://github.com/sofn-xyz/mailing",
-    "feeds": [
-      "https://github.com/sofn-xyz/mailing/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mjmlio/mjml",
-    "feeds": [
-      "https://github.com/mjmlio/mjml/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pemistahl/grex-js",
     "feeds": [
       "https://github.com/pemistahl/grex-js/releases.atom"
@@ -2214,6 +2202,12 @@
     "url": "https://leanrada.com",
     "feeds": [
       "https://leanrada.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://leaysgur.github.io",
+    "feeds": [
+      "https://leaysgur.github.io/posts/rss.xml"
     ]
   },
   {
