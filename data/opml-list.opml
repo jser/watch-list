@@ -122,7 +122,6 @@
 <outline text="medium.com/miro-engineering/" title="medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
 <outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>
 <outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
-<outline text="mmazzarolo.com" title="mmazzarolo.com" type="rss" xmlUrl="https://mmazzarolo.com/blog/index.xml"/>
 <outline text="moderncss.dev" title="moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
 <outline text="mwskwong.com" title="mwskwong.com" type="rss" xmlUrl="https://mwskwong.com/blog/rss.xml"/>
@@ -134,7 +133,6 @@
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="obyford.com" title="obyford.com" type="rss" xmlUrl="https://obyford.com/feed/feed.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
-<outline text="orizens.com" title="orizens.com" type="rss" xmlUrl="https://orizens.com/rss.xml"/>
 <outline text="oxc-project.github.io" title="oxc-project.github.io" type="rss" xmlUrl="https://oxc-project.github.io/feeds/blog-en.rss"/>
 <outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
 <outline text="pavel-romanov.com" title="pavel-romanov.com" type="rss" xmlUrl="https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml"/>

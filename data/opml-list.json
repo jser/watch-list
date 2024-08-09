@@ -738,12 +738,6 @@
     ]
   },
   {
-    "url": "https://mmazzarolo.com",
-    "feeds": [
-      "https://mmazzarolo.com/blog/index.xml"
-    ]
-  },
-  {
     "url": "https://moderncss.dev",
     "feeds": [
       "https://moderncss.dev/feed/"
@@ -810,12 +804,6 @@
     "feeds": [
       "https://oisham.hatenablog.com/feed",
       "https://oisham.hatenablog.com/rss"
-    ]
-  },
-  {
-    "url": "https://orizens.com",
-    "feeds": [
-      "https://orizens.com/rss.xml"
     ]
   },
   {
