@@ -1,6 +1,6 @@
 [
   {
-    "count": 59,
+    "count": 60,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,8 +16,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v20.16.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v20.16.0"
+      "title": "Node.js — Node v22.6.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.6.0"
     }
   },
   {
@@ -472,22 +472,6 @@
   },
   {
     "count": 6,
-    "url": "https://2ality.com",
-    "tags": [
-      "node.js",
-      "article",
-      "URL",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Ecma International approves ECMAScript 2024: What’s new?",
-      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -579,6 +563,22 @@
       "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://2ality.com",
+    "tags": [
+      "node.js",
+      "URL",
+      "article",
+      "ECMAScript",
+      "proposal",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Ecma International approves ECMAScript 2024: What’s new?",
+      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
+    }
   },
   {
     "count": 5,
@@ -2281,31 +2281,6 @@
     "example": {
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://orizens.com",
-    "tags": [
-      "React",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "500ms to 1.7ms In React: A Journey And A Checklist | Orizens",
-      "url": "https://orizens.com/blog/500ms-to-1-7ms-in-react-a-journey-and-a%20checklist/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://mmazzarolo.com",
-    "tags": [
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Checking if a JavaScript native function is monkey patched · mmazzarolo.com",
-      "url": "https://mmazzarolo.com/blog/2022-07-30-checking-if-a-javascript-native-function-was-monkey-patched/"
     }
   },
   {
