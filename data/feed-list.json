@@ -461,12 +461,6 @@
     ]
   },
   {
-    "url": "https://engineering.linecorp.com",
-    "feeds": [
-      "https://engineering.linecorp.com/en"
-    ]
-  },
-  {
     "url": "https://erock.prose.sh",
     "feeds": [
       "https://erock.prose.sh/rss"
@@ -577,12 +571,6 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -598,6 +586,12 @@
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {

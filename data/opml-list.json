@@ -461,12 +461,6 @@
     ]
   },
   {
-    "url": "https://engineering.linecorp.com",
-    "feeds": [
-      "https://engineering.linecorp.com/en"
-    ]
-  },
-  {
     "url": "https://erock.prose.sh",
     "feeds": [
       "https://erock.prose.sh/rss"

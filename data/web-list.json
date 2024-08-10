@@ -158,23 +158,18 @@
     }
   },
   {
-    "count": 18,
-    "url": "https://astro.build",
+    "count": 17,
+    "url": "https://github.com/pnpm/pnpm",
     "tags": [
-      "JavaScript",
-      "Tools",
+      "pnpm",
       "ReleaseNote",
-      "library",
-      "astro",
-      "nodejs",
-      "testing",
-      "article"
+      "performance"
     ],
     "example": {
-      "title": "Astro 4.12: Server Islands | Astro",
-      "url": "https://astro.build/blog/astro-4120/"
+      "title": "Release pnpm 9.7 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.7.0"
     },
-    "rssUrl": "https://astro.build/rss.xml"
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 17,
@@ -189,18 +184,22 @@
     }
   },
   {
-    "count": 16,
-    "url": "https://github.com/pnpm/pnpm",
+    "count": 17,
+    "url": "https://astro.build",
     "tags": [
-      "pnpm",
+      "JavaScript",
+      "library",
       "ReleaseNote",
-      "performance"
+      "astro",
+      "nodejs",
+      "testing",
+      "article"
     ],
     "example": {
-      "title": "Release pnpm 9.6 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.6.0"
+      "title": "Astro 4.12: Server Islands | Astro",
+      "url": "https://astro.build/blog/astro-4120/"
     },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 15,
@@ -572,19 +571,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "node.js",
@@ -819,6 +805,19 @@
       "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
     },
     "rssUrl": "https://babeljs.io/blog/rss.xml"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 4,
@@ -2358,21 +2357,6 @@
       "url": "https://ishadeed.com/article/css-grid-area/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://engineering.linecorp.com",
-    "tags": [
-      "Vue",
-      "performance",
-      "article",
-      "refactoring"
-    ],
-    "example": {
-      "title": "LINE MUSIC のパフォーマンスを向上させた Vue3 マイグレーション",
-      "url": "https://engineering.linecorp.com/ja/blog/vue3-migration-with-improved-line-music-performance/"
-    },
-    "rssUrl": "https://engineering.linecorp.com/en"
   },
   {
     "count": 1,
