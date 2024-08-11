@@ -44,7 +44,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 43,
+    "count": 44,
     "url": "https://developer.chrome.com",
     "tags": [
       "browser",
@@ -62,11 +62,12 @@
       "WebGL",
       "WebGPU",
       "WebAssembly",
-      "LanguageModel"
+      "LanguageModel",
+      "Firefox"
     ],
     "example": {
-      "title": "Misconceptions about view transitions  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/view-transitions-misconceptions?hl=en"
+      "title": "WebDriver BiDi production-ready in Firefox, Chrome and Puppeteer  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/firefox-support-in-puppeteer-with-webdriver-bidi"
     }
   },
   {
@@ -158,6 +159,18 @@
     }
   },
   {
+    "count": 18,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 129.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/129.0/releasenotes/"
+    }
+  },
+  {
     "count": 17,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -170,18 +183,6 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v9.7.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 17,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 128.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/128.0/releasenotes/"
-    }
   },
   {
     "count": 17,
@@ -202,7 +203,7 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 15,
+    "count": 14,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
