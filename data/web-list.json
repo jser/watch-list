@@ -9745,5 +9745,18 @@
       "url": "https://leaysgur.github.io/posts/2024/08/05/143855/"
     },
     "rssUrl": "https://leaysgur.github.io/posts/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/versotile-org/verso",
+    "tags": [
+      "Rust",
+      "browser"
+    ],
+    "example": {
+      "title": "versotile-org/verso: A web browser that plays old world blues to build new world hope",
+      "url": "https://github.com/versotile-org/verso"
+    },
+    "rssUrl": "https://github.com/versotile-org/verso/releases.atom"
   }
 ]

@@ -2071,6 +2071,12 @@
     ]
   },
   {
+    "url": "https://github.com/versotile-org/verso",
+    "feeds": [
+      "https://github.com/versotile-org/verso/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"

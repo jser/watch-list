@@ -346,6 +346,7 @@
 <outline text="github.com/nodejs/loaders" title="github.com/nodejs/loaders" type="rss" xmlUrl="https://github.com/nodejs/loaders/releases.atom"/>
 <outline text="github.com/toss/es-toolkit?tab=readme-ov-file" title="github.com/toss/es-toolkit?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/mjackson/fetch-super-headers" title="github.com/mjackson/fetch-super-headers" type="rss" xmlUrl="https://github.com/mjackson/fetch-super-headers/releases.atom"/>
+<outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
