@@ -69,28 +69,6 @@
     }
   },
   {
-    "count": 29,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "CSS",
-      "article",
-      "webkit",
-      "serverless",
-      "アンケート",
-      "JavaScript",
-      "browser",
-      "benchmark",
-      "performance",
-      "privacy"
-    ],
-    "example": {
-      "title": "Private Browsing 2.0 | WebKit",
-      "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
-    }
-  },
-  {
     "count": 28,
     "url": "https://deno.com",
     "tags": [
@@ -112,7 +90,29 @@
     }
   },
   {
-    "count": 26,
+    "count": 28,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "CSS",
+      "article",
+      "webkit",
+      "serverless",
+      "アンケート",
+      "JavaScript",
+      "browser",
+      "benchmark",
+      "performance",
+      "privacy"
+    ],
+    "example": {
+      "title": "Private Browsing 2.0 | WebKit",
+      "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
+    }
+  },
+  {
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -127,7 +127,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://web.dev",
     "tags": [
       "Chrome",
@@ -146,11 +146,12 @@
       "CSS",
       "testing",
       "nodejs",
-      "WebPlatformAPI"
+      "WebPlatformAPI",
+      "css "
     ],
     "example": {
-      "title": "How to use container queries now  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/how-to-use-container-queries-now?hl=en"
+      "title": "Now in Baseline: animating entry effects  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/baseline-entry-animations?hl=en"
     }
   },
   {
@@ -232,6 +233,19 @@
   },
   {
     "count": 11,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "ESLint v9.9.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/08/eslint-v9.9.0-released/"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -272,19 +286,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "What's coming next for ESLint - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/07/whats-coming-next-for-eslint/"
-    }
   },
   {
     "count": 10,
@@ -2281,18 +2282,6 @@
     "example": {
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.learningtypescript.com",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "Objects, Functions, and Type Narrowing | Learning TypeScript",
-      "url": "https://www.learningtypescript.com/articles/objects-functions-and-type-narrowing?s=t"
     }
   },
   {
@@ -9493,5 +9482,18 @@
       "url": "https://github.com/versotile-org/verso"
     },
     "rssUrl": "https://github.com/versotile-org/verso/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "tags": [
+      "nodejs",
+      "document"
+    ],
+    "example": {
+      "title": "goldbergyoni/nodebestpractices: :white_check_mark: The Node.js best practices list (July 2024)",
+      "url": "https://github.com/goldbergyoni/nodebestpractices"
+    },
+    "rssUrl": "https://github.com/goldbergyoni/nodebestpractices/releases.atom"
   }
 ]

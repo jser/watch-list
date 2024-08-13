@@ -1364,13 +1364,6 @@
     ]
   },
   {
-    "url": "https://www.learningtypescript.com",
-    "feeds": [
-      "https://www.learningtypescript.com/articles/rss.xml",
-      "https://www.learningtypescript.com/articles/atom.xml"
-    ]
-  },
-  {
     "url": "https://www.m3tech.blog",
     "feeds": [
       "https://www.m3tech.blog/feed",

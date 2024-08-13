@@ -347,6 +347,7 @@
 <outline text="github.com/toss/es-toolkit?tab=readme-ov-file" title="github.com/toss/es-toolkit?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/mjackson/fetch-super-headers" title="github.com/mjackson/fetch-super-headers" type="rss" xmlUrl="https://github.com/mjackson/fetch-super-headers/releases.atom"/>
 <outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
+<outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -477,7 +478,6 @@
 <outline text="www.inngest.com" title="www.inngest.com" type="rss" xmlUrl="https://www.inngest.com/api/rss.xml"/>
 <outline text="www.jantrid.net" title="www.jantrid.net" type="rss" xmlUrl="https://www.jantrid.net/feeds/posts/default/index.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
-<outline text="www.learningtypescript.com" title="www.learningtypescript.com" type="rss" xmlUrl="https://www.learningtypescript.com/articles/rss.xml"/>
 <outline text="www.m3tech.blog" title="www.m3tech.blog" type="rss" xmlUrl="https://www.m3tech.blog/feed"/>
 <outline text="www.matuzo.at" title="www.matuzo.at" type="rss" xmlUrl="https://www.matuzo.at/feed.xml"/>
 <outline text="www.mitsue.co.jp" title="www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
