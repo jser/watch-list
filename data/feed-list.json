@@ -2077,6 +2077,12 @@
     ]
   },
   {
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "feeds": [
+      "https://github.com/goldbergyoni/nodebestpractices/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2921,13 +2927,6 @@
     "url": "https://www.joshwcomeau.com",
     "feeds": [
       "https://www.joshwcomeau.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.learningtypescript.com",
-    "feeds": [
-      "https://www.learningtypescript.com/articles/rss.xml",
-      "https://www.learningtypescript.com/articles/atom.xml"
     ]
   },
   {
