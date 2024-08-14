@@ -2362,20 +2362,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/pemistahl/grex-js",
-    "tags": [
-      "JavaScript",
-      "RegExp",
-      "library"
-    ],
-    "example": {
-      "title": "pemistahl/grex-js: A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases",
-      "url": "https://github.com/pemistahl/grex-js"
-    },
-    "rssUrl": "https://github.com/pemistahl/grex-js/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/prettier/prettier",
     "tags": [
       "JavaScript",
