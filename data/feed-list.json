@@ -811,12 +811,6 @@
     ]
   },
   {
-    "url": "https://github.com/pemistahl/grex-js",
-    "feeds": [
-      "https://github.com/pemistahl/grex-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/prettier/prettier",
     "feeds": [
       "https://github.com/prettier/prettier/releases.atom"
