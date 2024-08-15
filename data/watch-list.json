@@ -970,6 +970,22 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "ReleaseNote",
+      "security",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release Release v1.7.4 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.7.4"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://developer.mozilla.org",
     "tags": [
       "CSS",
@@ -1337,22 +1353,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "ReleaseNote",
-      "security",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release Release v1.7.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.7.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -1379,24 +1379,6 @@
     "example": {
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://semaphoreci.com",
-    "tags": [
-      "node.js",
-      "deno",
-      "Bun",
-      "JavaScript",
-      "benchmark",
-      "article",
-      "React",
-      "test"
-    ],
-    "example": {
-      "title": "Flaky Tests In React: Detection, Prevention and Tools - Semaphore",
-      "url": "https://semaphoreci.com/blog/flaky-react"
     }
   },
   {
@@ -8305,6 +8287,19 @@
   },
   {
     "count": 1,
+    "url": "https://semaphoreci.com",
+    "tags": [
+      "React",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Flaky Tests In React: Detection, Prevention and Tools - Semaphore",
+      "url": "https://semaphoreci.com/blog/flaky-react"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://www.radix-ui.com",
     "tags": [
       "JavaScript",
@@ -9481,5 +9476,47 @@
       "url": "https://github.com/goldbergyoni/nodebestpractices"
     },
     "rssUrl": "https://github.com/goldbergyoni/nodebestpractices/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://supabase.com",
+    "tags": [
+      "PostgreSQL",
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "postgres.new: In-browser Postgres with an AI interface",
+      "url": "https://supabase.com/blog/postgres-new"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.oligo.security",
+    "tags": [
+      "browser",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "0.0.0.0 Day: Exploiting Localhost APIs From the Browser | Oligo Security",
+      "url": "https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://tech.plaid.co.jp",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "Design",
+      "React",
+      "Tools",
+      "article"
+    ],
+    "example": {
+      "title": "ソースコードを解析して社内向けUIライブラリの使用状況を自動で集計する",
+      "url": "https://tech.plaid.co.jp/analyze-internal-ui-library-usage"
+    }
   }
 ]

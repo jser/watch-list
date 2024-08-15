@@ -102,6 +102,7 @@
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
+<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
@@ -111,7 +112,6 @@
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
-<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/denoland/deno" title="github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
 <outline text="github.com/httptoolkit/brotli-wasm" title="github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
@@ -429,6 +429,7 @@
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
+<outline text="supabase.com" title="supabase.com" type="rss" xmlUrl="https://supabase.com/feed.xml"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tauri.app" title="tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>
@@ -436,6 +437,7 @@
 <outline text="tech.basicinc.jp" title="tech.basicinc.jp" type="rss" xmlUrl="https://tech.basicinc.jp/feed"/>
 <outline text="tech.high-link.co.jp" title="tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
+<outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="tech.repro.io" title="tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
 <outline text="techblog.yahoo.co.jp" title="techblog.yahoo.co.jp" type="rss" xmlUrl="https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"/>
 <outline text="textslashplain.com" title="textslashplain.com" type="rss" xmlUrl="https://textslashplain.com/feed/"/>
