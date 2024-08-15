@@ -607,6 +607,12 @@
     ]
   },
   {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/cloudflare/miniflare",
     "feeds": [
       "https://github.com/cloudflare/miniflare/releases.atom"
@@ -658,12 +664,6 @@
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -2603,6 +2603,13 @@
     ]
   },
   {
+    "url": "https://supabase.com",
+    "feeds": [
+      "https://supabase.com/feed.xml",
+      "https://supabase.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://svelte.dev",
     "feeds": [
       "https://svelte.dev/blog/rss.xml"
@@ -2647,6 +2654,13 @@
     "feeds": [
       "https://tech.legalforce.co.jp/feed",
       "https://tech.legalforce.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://tech.plaid.co.jp",
+    "feeds": [
+      "https://tech.plaid.co.jp/rss.xml",
+      "https://tech.plaid.co.jp/atom.xml"
     ]
   },
   {
