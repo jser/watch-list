@@ -1,6 +1,6 @@
 [
   {
-    "count": 60,
+    "count": 59,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -72,28 +72,6 @@
   },
   {
     "count": 28,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "news",
-      "V8",
-      "article",
-      "ReleaseNote",
-      "JavaScript",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 1.45: Workspace and Monorepo Support",
-      "url": "https://deno.com/blog/v1.45"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 28,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -116,6 +94,27 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
+    "count": 27,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "V8",
+      "article",
+      "ReleaseNote",
+      "JavaScript",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 1.45: Workspace and Monorepo Support",
+      "url": "https://deno.com/blog/v1.45"
+    },
+    "rssUrl": "https://deno.com/feed"
+  },
+  {
     "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
@@ -132,15 +131,15 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
-      "Chrome",
-      "performance",
-      "article",
       "HTML",
       "tutorial",
+      "Chrome",
       "browser",
+      "performance",
+      "article",
       "accessibility",
       "Image",
       "privacy",
@@ -222,23 +221,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "library",
-      "JavaScript",
-      "test"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -295,6 +277,23 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "ReleaseNote",
+      "testing",
+      "library",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 10,
@@ -1926,6 +1925,20 @@
       "url": "https://github.com/remix-run/react-router/releases/tag/react-router%406.14.0"
     },
     "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v11.0.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v11.0.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 2,
@@ -5020,20 +5033,6 @@
       "url": "https://www.netlify.com/blog/framework-popularity-on-netlify/"
     },
     "rssUrl": "https://www.netlify.com/community-feed.xml/"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vueuse/vueuse",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 1,
@@ -9784,5 +9783,19 @@
       "url": "https://tech.plaid.co.jp/analyze-internal-ui-library-usage"
     },
     "rssUrl": "https://tech.plaid.co.jp/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://webdriver.io",
+    "tags": [
+      "webdriver",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "WebdriverIO v9 Released | WebdriverIO",
+      "url": "https://webdriver.io/blog/2024/08/15/webdriverio-v9-release/"
+    },
+    "rssUrl": "https://webdriver.io/blog/rss.xml"
   }
 ]
