@@ -1217,6 +1217,13 @@
     ]
   },
   {
+    "url": "https://webdriver.io",
+    "feeds": [
+      "https://webdriver.io/blog/rss.xml",
+      "https://webdriver.io/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://webkit.org",
     "feeds": [
       "https://webkit.org/feed/",

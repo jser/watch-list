@@ -535,15 +535,15 @@
     ]
   },
   {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
     ]
   },
   {
@@ -736,6 +736,12 @@
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {
@@ -1366,12 +1372,6 @@
     "url": "https://github.com/open-draft/logger",
     "feeds": [
       "https://github.com/open-draft/logger/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {
@@ -2774,6 +2774,13 @@
     "url": "https://vitejs.dev",
     "feeds": [
       "https://vitejs.dev/blog.rss"
+    ]
+  },
+  {
+    "url": "https://webdriver.io",
+    "feeds": [
+      "https://webdriver.io/blog/rss.xml",
+      "https://webdriver.io/blog/atom.xml"
     ]
   },
   {
