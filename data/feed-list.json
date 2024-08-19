@@ -817,12 +817,6 @@
     ]
   },
   {
-    "url": "https://github.com/prettier/prettier",
-    "feeds": [
-      "https://github.com/prettier/prettier/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
     "feeds": [
       "https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"
@@ -2952,15 +2946,6 @@
     ]
   },
   {
-    "url": "https://www.matuzo.at",
-    "feeds": [
-      "https://www.matuzo.at/feed.xml",
-      "https://www.matuzo.at/feed_til.xml",
-      "https://www.matuzo.at/feed_all.xml",
-      "https://www.matuzo.at/feed_100dayscss.xml"
-    ]
-  },
-  {
     "url": "https://www.mitsue.co.jp",
     "feeds": [
       "https://www.mitsue.co.jp/index.rdf"
@@ -3054,12 +3039,6 @@
     "url": "https://www.speedcurve.com",
     "feeds": [
       "https://www.speedcurve.com/blog/rss/"
-    ]
-  },
-  {
-    "url": "https://www.theverge.com",
-    "feeds": [
-      "https://www.theverge.com/rss/index.xml"
     ]
   },
   {

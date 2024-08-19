@@ -1392,15 +1392,6 @@
     ]
   },
   {
-    "url": "https://www.matuzo.at",
-    "feeds": [
-      "https://www.matuzo.at/feed.xml",
-      "https://www.matuzo.at/feed_til.xml",
-      "https://www.matuzo.at/feed_all.xml",
-      "https://www.matuzo.at/feed_100dayscss.xml"
-    ]
-  },
-  {
     "url": "https://www.mitsue.co.jp",
     "feeds": [
       "https://www.mitsue.co.jp/index.rdf"

@@ -137,7 +137,6 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/prettier/prettier" title="github.com/prettier/prettier" type="rss" xmlUrl="https://github.com/prettier/prettier/releases.atom"/>
 <outline text="github.com/react-pdf-viewer/react-pdf-viewer" title="github.com/react-pdf-viewer/react-pdf-viewer" type="rss" xmlUrl="https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"/>
 <outline text="github.com/rayepps/radash" title="github.com/rayepps/radash" type="rss" xmlUrl="https://github.com/rayepps/radash/releases.atom"/>
 <outline text="github.com/apify/crawlee" title="github.com/apify/crawlee" type="rss" xmlUrl="https://github.com/apify/crawlee/releases.atom"/>
@@ -481,7 +480,6 @@
 <outline text="www.jantrid.net" title="www.jantrid.net" type="rss" xmlUrl="https://www.jantrid.net/feeds/posts/default/index.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.m3tech.blog" title="www.m3tech.blog" type="rss" xmlUrl="https://www.m3tech.blog/feed"/>
-<outline text="www.matuzo.at" title="www.matuzo.at" type="rss" xmlUrl="https://www.matuzo.at/feed.xml"/>
 <outline text="www.mitsue.co.jp" title="www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
 <outline text="www.mizdra.net" title="www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
@@ -497,7 +495,6 @@
 <outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
 <outline text="www.sonarsource.com" title="www.sonarsource.com" type="rss" xmlUrl="https://www.sonarsource.com/rss.xml"/>
 <outline text="www.speedcurve.com" title="www.speedcurve.com" type="rss" xmlUrl="https://www.speedcurve.com/blog/rss/"/>
-<outline text="www.theverge.com" title="www.theverge.com" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
 <outline text="www.totaltypescript.com" title="www.totaltypescript.com" type="rss" xmlUrl="https://www.totaltypescript.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.wantedly.com" title="www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"/>
