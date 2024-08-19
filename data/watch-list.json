@@ -2281,46 +2281,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/prettier/prettier",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 3.0.0-alpha.0 · prettier/prettier",
-      "url": "https://github.com/prettier/prettier/releases/tag/3.0.0-alpha.0"
-    },
-    "rssUrl": "https://github.com/prettier/prettier/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.matuzo.at",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "outline is your friend - Manuel Matuzović",
-      "url": "https://www.matuzo.at/blog/2022/focus-outline/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.theverge.com",
-    "tags": [
-      "accessibility",
-      "software",
-      "history",
-      "article"
-    ],
-    "example": {
-      "title": "The blind programmers who created screen readers - The Verge",
-      "url": "https://www.theverge.com/23203911/screen-readers-history-blind-henter-curran-teh-nvda"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
     "tags": [
       "React",
