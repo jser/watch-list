@@ -553,22 +553,6 @@
   },
   {
     "count": 5,
-    "url": "https://2ality.com",
-    "tags": [
-      "node.js",
-      "URL",
-      "article",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Ecma International approves ECMAScript 2024: What’s new?",
-      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://www.builder.io",
     "tags": [
       "JavaScript",
@@ -709,18 +693,18 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/reduxjs/redux-toolkit",
+    "url": "https://2ality.com",
     "tags": [
-      "redux",
-      "library",
-      "ReleaseNote",
-      "React"
+      "node.js",
+      "article",
+      "ECMAScript",
+      "proposal",
+      "TypeScript"
     ],
     "example": {
-      "title": "Release v2.0.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+      "title": "Ecma International approves ECMAScript 2024: What’s new?",
+      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
+    }
   },
   {
     "count": 4,
@@ -1018,23 +1002,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/cloudflare/miniflare",
-    "tags": [
-      "cloudflare",
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · cloudflare/miniflare",
-      "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/cloudflare/miniflare/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/solidjs/solid",
     "tags": [
       "JavaScript",
@@ -1125,6 +1092,21 @@
       "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "redux",
+      "ReleaseNote",
+      "library",
+      "React"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 3,
@@ -1382,23 +1364,6 @@
   },
   {
     "count": 2,
-    "url": "https://buf.build",
-    "tags": [
-      "grpc",
-      "TypeScript",
-      "article",
-      "node.js",
-      "ProtocolBuffers",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Buf | Connect for Node.js is now available",
-      "url": "https://buf.build/blog/connect-node-beta"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/denoland/deno",
     "tags": [
       "deno",
@@ -1503,6 +1468,21 @@
       "title": "Vite は使ってないけど Jest を Vitest に移行する",
       "url": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/cloudflare/miniflare",
+    "tags": [
+      "cloudflare",
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · cloudflare/miniflare",
+      "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/cloudflare/miniflare/releases.atom"
   },
   {
     "count": 2,
@@ -4343,6 +4323,20 @@
     "example": {
       "title": "You Don't Need Rails to Start Using Hotwire",
       "url": "https://www.akshaykhot.com/using-hotwire-without-rails/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://buf.build",
+    "tags": [
+      "node.js",
+      "ProtocolBuffers",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Buf | Connect for Node.js is now available",
+      "url": "https://buf.build/blog/connect-node-beta"
     }
   },
   {
