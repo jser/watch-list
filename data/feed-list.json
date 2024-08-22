@@ -571,12 +571,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lerna/lerna",
     "feeds": [
       "https://github.com/lerna/lerna/releases.atom"
@@ -613,12 +607,6 @@
     ]
   },
   {
-    "url": "https://github.com/cloudflare/miniflare",
-    "feeds": [
-      "https://github.com/cloudflare/miniflare/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -634,6 +622,12 @@
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -688,6 +682,12 @@
     "url": "https://github.com/avajs/ava",
     "feeds": [
       "https://github.com/avajs/ava/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/cloudflare/miniflare",
+    "feeds": [
+      "https://github.com/cloudflare/miniflare/releases.atom"
     ]
   },
   {
