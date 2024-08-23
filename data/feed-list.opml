@@ -137,7 +137,7 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
-<outline text="github.com/react-pdf-viewer/react-pdf-viewer" title="github.com/react-pdf-viewer/react-pdf-viewer" type="rss" xmlUrl="https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"/>
+<outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/rayepps/radash" title="github.com/rayepps/radash" type="rss" xmlUrl="https://github.com/rayepps/radash/releases.atom"/>
 <outline text="github.com/apify/crawlee" title="github.com/apify/crawlee" type="rss" xmlUrl="https://github.com/apify/crawlee/releases.atom"/>
 <outline text="github.com/nadeesha/ts-prune" title="github.com/nadeesha/ts-prune" type="rss" xmlUrl="https://github.com/nadeesha/ts-prune/releases.atom"/>
@@ -301,7 +301,6 @@
 <outline text="github.com/webui-dev/webui" title="github.com/webui-dev/webui" type="rss" xmlUrl="https://github.com/webui-dev/webui/releases.atom"/>
 <outline text="github.com/moment/moment" title="github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
 <outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
-<outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/cloudflare/next-on-pages" title="github.com/cloudflare/next-on-pages" type="rss" xmlUrl="https://github.com/cloudflare/next-on-pages/releases.atom"/>
 <outline text="github.com/wevm/vocs" title="github.com/wevm/vocs" type="rss" xmlUrl="https://github.com/wevm/vocs/releases.atom"/>
 <outline text="github.com/penrose/penrose" title="github.com/penrose/penrose" type="rss" xmlUrl="https://github.com/penrose/penrose/releases.atom"/>
@@ -346,6 +345,7 @@
 <outline text="github.com/mjackson/fetch-super-headers" title="github.com/mjackson/fetch-super-headers" type="rss" xmlUrl="https://github.com/mjackson/fetch-super-headers/releases.atom"/>
 <outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
 <outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
+<outline text="github.com/stackblitz-labs/pkg.pr.new" title="github.com/stackblitz-labs/pkg.pr.new" type="rss" xmlUrl="https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>

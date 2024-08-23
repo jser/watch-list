@@ -817,9 +817,9 @@
     ]
   },
   {
-    "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
+    "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
-      "https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"
+      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {
@@ -1801,12 +1801,6 @@
     ]
   },
   {
-    "url": "https://github.com/capricorn86/happy-dom",
-    "feeds": [
-      "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/cloudflare/next-on-pages",
     "feeds": [
       "https://github.com/cloudflare/next-on-pages/releases.atom"
@@ -2068,6 +2062,12 @@
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "feeds": [
       "https://github.com/goldbergyoni/nodebestpractices/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/stackblitz-labs/pkg.pr.new",
+    "feeds": [
+      "https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"
     ]
   },
   {
