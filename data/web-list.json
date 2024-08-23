@@ -1,6 +1,6 @@
 [
   {
-    "count": 59,
+    "count": 60,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,13 +16,13 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.6.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.6.0"
+      "title": "Node.js — Node v20.17.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v20.17.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 46,
+    "count": 47,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -38,8 +38,8 @@
       "windows"
     ],
     "example": {
-      "title": "Bun v1.1.21 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.21"
+      "title": "Bun v1.1.25 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.25"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -1831,6 +1831,22 @@
   },
   {
     "count": 2,
+    "url": "https://csswizardry.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "performance",
+      "HTML",
+      "browser"
+    ],
+    "example": {
+      "title": "blocking=render: Why would you do that?! – Harry Roberts – Web Performance Consultant",
+      "url": "https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/"
+    },
+    "rssUrl": "https://feeds.feedburner.com/csswizardry"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/facebook/jest",
     "tags": [
       "JavaScript",
@@ -2320,6 +2336,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/capricorn86/happy-dom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote",
+      "nodejs",
+      "library"
+    ],
+    "example": {
+      "title": "Release v15.0.0 · capricorn86/happy-dom",
+      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.0.0"
+    },
+    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://ishadeed.com",
     "tags": [
       "CSS",
@@ -2332,34 +2364,6 @@
       "url": "https://ishadeed.com/article/css-grid-area/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/react-pdf-viewer/react-pdf-viewer",
-    "tags": [
-      "React",
-      "PDF",
-      "library"
-    ],
-    "example": {
-      "title": "react-pdf-viewer/react-pdf-viewer: A React component to view a PDF document",
-      "url": "https://github.com/react-pdf-viewer/react-pdf-viewer"
-    },
-    "rssUrl": "https://github.com/react-pdf-viewer/react-pdf-viewer/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://wasmlabs.dev",
-    "tags": [
-      "wordpress",
-      "SQLite",
-      "WebAssembly",
-      "article"
-    ],
-    "example": {
-      "title": "Running WordPress in the Browser",
-      "url": "https://wasmlabs.dev/articles/wordpress-in-the-browser/"
-    }
   },
   {
     "count": 1,
@@ -3901,20 +3905,6 @@
       "url": "https://zenn.dev/mkt/articles/543669021d9a1e"
     },
     "rssUrl": "https://zenn.dev/mkt/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://csswizardry.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Why Not document.write()? – CSS Wizardry – Web Performance Optimisation",
-      "url": "https://csswizardry.com/2023/01/why-not-document-write/"
-    },
-    "rssUrl": "https://feeds.feedburner.com/csswizardry"
   },
   {
     "count": 1,
@@ -7462,20 +7452,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/capricorn86/happy-dom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · capricorn86/happy-dom",
-      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://zenn.dev/yamachan0625/",
     "tags": [
       "DDD",
@@ -9749,5 +9725,19 @@
       "url": "https://webdriver.io/blog/2024/08/15/webdriverio-v9-release/"
     },
     "rssUrl": "https://webdriver.io/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/stackblitz-labs/pkg.pr.new",
+    "tags": [
+      "npm",
+      "github",
+      "CI"
+    ],
+    "example": {
+      "title": "stackblitz-labs/pkg.pr.new: Continuous (Preview) Releases for your libraries!",
+      "url": "https://github.com/stackblitz-labs/pkg.pr.new"
+    },
+    "rssUrl": "https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"
   }
 ]
