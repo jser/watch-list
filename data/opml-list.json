@@ -461,12 +461,6 @@
     ]
   },
   {
-    "url": "https://erock.prose.sh",
-    "feeds": [
-      "https://erock.prose.sh/rss"
-    ]
-  },
-  {
     "url": "https://escape.tech",
     "feeds": [
       "https://escape.tech/blog/rss/"

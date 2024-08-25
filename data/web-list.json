@@ -1,6 +1,6 @@
 [
   {
-    "count": 60,
+    "count": 61,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,8 +16,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v20.17.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v20.17.0"
+      "title": "Node.js — Node v22.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.7.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -94,7 +94,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 27,
+    "count": 28,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -109,13 +109,13 @@
       "npm"
     ],
     "example": {
-      "title": "Deno 1.45: Workspace and Monorepo Support",
-      "url": "https://deno.com/blog/v1.45"
+      "title": "Deno 1.46: The Last 1.x Release",
+      "url": "https://deno.com/blog/v1.46"
     },
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -125,8 +125,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.6 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/"
+      "title": "Announcing TypeScript 5.6 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -220,6 +220,20 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 32.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-32-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
     "count": 11,
     "url": "https://eslint.org",
     "tags": [
@@ -232,20 +246,6 @@
       "url": "https://eslint.org/blog/2024/08/eslint-v9.9.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 11,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 31.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-31-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
@@ -419,6 +419,23 @@
   },
   {
     "count": 8,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "article",
+      "news",
+      "Nuxt"
+    ],
+    "example": {
+      "title": "Nuxt 3.13 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-13"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 8,
     "url": "https://www.rspack.dev",
     "tags": [
       "webpack",
@@ -434,22 +451,6 @@
       "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
-  },
-  {
-    "count": 7,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "article",
-      "news"
-    ],
-    "example": {
-      "title": "Nuxt 3.12 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-12"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 7,
@@ -484,6 +485,23 @@
       "url": "https://react.dev/learn/react-compiler"
     },
     "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "webpack",
+      "rspack",
+      "ReleaseNote",
+      "bundler",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Release v1.0.0-rc.0 · web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.0.0-rc.0"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 6,
@@ -552,23 +570,6 @@
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 6,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "webpack",
-      "rspack",
-      "ReleaseNote",
-      "bundler",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Rspack v1.0 Release Plan · web-infra-dev/rspack · Discussion #6315",
-      "url": "https://github.com/web-infra-dev/rspack/discussions/6315"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 5,
@@ -697,6 +698,27 @@
       "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
       "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "ECMAScript",
+      "CommonJS",
+      "article",
+      "book",
+      "ReleaseNote",
+      "npm",
+      "nodejs",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Node.jsで型安全な環境変数を扱うスニペット | Web Scratch",
+      "url": "https://efcl.info/2024/08/24/type-safe-env/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 5,
@@ -965,26 +987,6 @@
       "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
     },
     "rssUrl": "https://github.com/jestjs/jest/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "ECMAScript",
-      "CommonJS",
-      "article",
-      "book",
-      "ReleaseNote",
-      "npm",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Node.jsで機能やパッケージの非推奨メッセージを通知する方法 | Web Scratch",
-      "url": "https://efcl.info/2024/02/04/emitwarning/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 4,
@@ -2364,59 +2366,6 @@
       "url": "https://ishadeed.com/article/css-grid-area/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://oven.sh",
-    "tags": [
-      "Bun",
-      "news",
-      "company"
-    ],
-    "example": {
-      "title": "Oven: the company behind Bun",
-      "url": "https://oven.sh/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/rayepps/radash",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "rayepps/radash: Functional utility library - modern, simple, typed, powerful",
-      "url": "https://github.com/rayepps/radash"
-    },
-    "rssUrl": "https://github.com/rayepps/radash/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://erock.prose.sh",
-    "tags": [
-      "TypeScript",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Typescipt is terrible for library developers: We spend a disproportionate amount of time on types",
-      "url": "https://erock.prose.sh/typescript-terrible-for-library-developers"
-    },
-    "rssUrl": "https://erock.prose.sh/rss"
-  },
-  {
-    "count": 1,
-    "url": "https://www.dmitrysoshnikov.education",
-    "tags": [
-      "TypeScript",
-      "video",
-      "tutorial"
-    ],
-    "example": {
-      "title": "Building a Typechecker from scratch | Dmitry Soshnikov | Education",
-      "url": "https://www.dmitrysoshnikov.education/p/typechecker"
-    }
   },
   {
     "count": 1,
@@ -9739,5 +9688,19 @@
       "url": "https://github.com/stackblitz-labs/pkg.pr.new"
     },
     "rssUrl": "https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file",
+    "tags": [
+      "test",
+      "ESLint",
+      "plugin"
+    ],
+    "example": {
+      "title": "vitest-dev/eslint-plugin-vitest: eslint plugin for vitest",
+      "url": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"
   }
 ]

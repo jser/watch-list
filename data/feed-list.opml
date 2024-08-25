@@ -78,7 +78,6 @@
 <outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
 <outline text="eh-career.com" title="eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
 <outline text="endtimes.dev" title="endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed.xml"/>
-<outline text="erock.prose.sh" title="erock.prose.sh" type="rss" xmlUrl="https://erock.prose.sh/rss"/>
 <outline text="escape.tech" title="escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
 <outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
@@ -138,7 +137,6 @@
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
-<outline text="github.com/rayepps/radash" title="github.com/rayepps/radash" type="rss" xmlUrl="https://github.com/rayepps/radash/releases.atom"/>
 <outline text="github.com/apify/crawlee" title="github.com/apify/crawlee" type="rss" xmlUrl="https://github.com/apify/crawlee/releases.atom"/>
 <outline text="github.com/nadeesha/ts-prune" title="github.com/nadeesha/ts-prune" type="rss" xmlUrl="https://github.com/nadeesha/ts-prune/releases.atom"/>
 <outline text="github.com/frehner/modern-guide-to-packaging-js-library" title="github.com/frehner/modern-guide-to-packaging-js-library" type="rss" xmlUrl="https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"/>
@@ -346,6 +344,7 @@
 <outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
 <outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
 <outline text="github.com/stackblitz-labs/pkg.pr.new" title="github.com/stackblitz-labs/pkg.pr.new" type="rss" xmlUrl="https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"/>
+<outline text="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" title="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
