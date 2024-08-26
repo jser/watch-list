@@ -655,9 +655,9 @@
     ]
   },
   {
-    "url": "https://github.com/denoland/deno",
+    "url": "https://github.com/jsdom/jsdom",
     "feeds": [
-      "https://github.com/denoland/deno/releases.atom"
+      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -748,12 +748,6 @@
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -1132,6 +1126,12 @@
     "url": "https://github.com/Brooooooklyn/canvas",
     "feeds": [
       "https://github.com/Brooooooklyn/canvas/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/denoland/deno",
+    "feeds": [
+      "https://github.com/denoland/deno/releases.atom"
     ]
   },
   {

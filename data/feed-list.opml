@@ -110,7 +110,7 @@
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
-<outline text="github.com/denoland/deno" title="github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
+<outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/httptoolkit/brotli-wasm" title="github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
 <outline text="github.com/avajs/ava" title="github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
@@ -126,7 +126,6 @@
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
-<outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/reduxjs/redux" title="github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
@@ -190,6 +189,7 @@
 <outline text="github.com/shuding/react-wrap-balancer" title="github.com/shuding/react-wrap-balancer" type="rss" xmlUrl="https://github.com/shuding/react-wrap-balancer/releases.atom"/>
 <outline text="github.com/azu/tsconfig-to-dual-package" title="github.com/azu/tsconfig-to-dual-package" type="rss" xmlUrl="https://github.com/azu/tsconfig-to-dual-package/releases.atom"/>
 <outline text="github.com/Brooooooklyn/canvas" title="github.com/Brooooooklyn/canvas" type="rss" xmlUrl="https://github.com/Brooooooklyn/canvas/releases.atom"/>
+<outline text="github.com/denoland/deno" title="github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
 <outline text="github.com/amandaghassaei/gpu-io" title="github.com/amandaghassaei/gpu-io" type="rss" xmlUrl="https://github.com/amandaghassaei/gpu-io/releases.atom"/>
 <outline text="github.com/deca-org/deca-ui" title="github.com/deca-org/deca-ui" type="rss" xmlUrl="https://github.com/deca-org/deca-ui/releases.atom"/>
 <outline text="github.com/cyclic-software/s3fs" title="github.com/cyclic-software/s3fs" type="rss" xmlUrl="https://github.com/cyclic-software/s3fs/releases.atom"/>
