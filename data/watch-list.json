@@ -1,6 +1,6 @@
 [
   {
-    "count": 61,
+    "count": 60,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -42,7 +42,7 @@
     }
   },
   {
-    "count": 44,
+    "count": 45,
     "url": "https://developer.chrome.com",
     "tags": [
       "browser",
@@ -64,30 +64,8 @@
       "Firefox"
     ],
     "example": {
-      "title": "WebDriver BiDi production-ready in Firefox, Chrome and Puppeteer  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/firefox-support-in-puppeteer-with-webdriver-bidi"
-    }
-  },
-  {
-    "count": 28,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "CSS",
-      "article",
-      "webkit",
-      "serverless",
-      "アンケート",
-      "JavaScript",
-      "browser",
-      "benchmark",
-      "performance",
-      "privacy"
-    ],
-    "example": {
-      "title": "Private Browsing 2.0 | WebKit",
-      "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
+      "title": "Chrome 129 beta  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-129-beta?hl=en"
     }
   },
   {
@@ -123,6 +101,28 @@
     "example": {
       "title": "Announcing TypeScript 5.6 RC - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/"
+    }
+  },
+  {
+    "count": 26,
+    "url": "https://webkit.org",
+    "tags": [
+      "webkit",
+      "safari",
+      "ReleaseNote",
+      "serverless",
+      "CSS",
+      "アンケート",
+      "article",
+      "JavaScript",
+      "browser",
+      "benchmark",
+      "performance",
+      "privacy"
+    ],
+    "example": {
+      "title": "Private Browsing 2.0 | WebKit",
+      "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
     }
   },
   {
@@ -1260,6 +1260,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 25.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/25.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://blog.vuejs.org",
     "tags": [
       "Vue",
@@ -1363,21 +1378,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/denoland/deno",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "issue",
-      "proposal"
-    ],
-    "example": {
-      "title": "Q1 Roadmap · Issue #17475 · denoland/deno",
-      "url": "https://github.com/denoland/deno/issues/17475"
-    },
-    "rssUrl": "https://github.com/denoland/deno/releases.atom"
   },
   {
     "count": 2,
@@ -1934,21 +1934,6 @@
       "url": "https://github.com/redwoodjs/redwood/releases/tag/v6.0.0"
     },
     "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 23.2.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/23.2.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 2,
@@ -3791,6 +3776,20 @@
       "url": "https://github.com/Brooooooklyn/canvas"
     },
     "rssUrl": "https://github.com/Brooooooklyn/canvas/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/denoland/deno",
+    "tags": [
+      "deno",
+      "issue",
+      "proposal"
+    ],
+    "example": {
+      "title": "Q1 Roadmap · Issue #17475 · denoland/deno",
+      "url": "https://github.com/denoland/deno/issues/17475"
+    },
+    "rssUrl": "https://github.com/denoland/deno/releases.atom"
   },
   {
     "count": 1,
