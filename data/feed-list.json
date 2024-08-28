@@ -455,12 +455,6 @@
     ]
   },
   {
-    "url": "https://endtimes.dev",
-    "feeds": [
-      "https://endtimes.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://escape.tech",
     "feeds": [
       "https://escape.tech/blog/rss/"
@@ -2065,6 +2059,12 @@
     ]
   },
   {
+    "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2107,13 +2107,6 @@
     "url": "https://jakearchibald.com",
     "feeds": [
       "https://jakearchibald.com/posts.rss"
-    ]
-  },
-  {
-    "url": "https://jestjs.io",
-    "feeds": [
-      "https://jestjs.io/blog/rss.xml",
-      "https://jestjs.io/blog/atom.xml"
     ]
   },
   {

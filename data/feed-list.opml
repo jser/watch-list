@@ -77,7 +77,6 @@
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
 <outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
 <outline text="eh-career.com" title="eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
-<outline text="endtimes.dev" title="endtimes.dev" type="rss" xmlUrl="https://endtimes.dev/feed.xml"/>
 <outline text="escape.tech" title="escape.tech" type="rss" xmlUrl="https://escape.tech/blog/rss/"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
 <outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
@@ -345,6 +344,7 @@
 <outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
 <outline text="github.com/stackblitz-labs/pkg.pr.new" title="github.com/stackblitz-labs/pkg.pr.new" type="rss" xmlUrl="https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"/>
 <outline text="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" title="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"/>
+<outline text="github.com/vue-email/vue-email?tab=readme-ov-file" title="github.com/vue-email/vue-email?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -352,7 +352,6 @@
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
 <outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
-<outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
 <outline text="jrsinclair.com" title="jrsinclair.com" type="rss" xmlUrl="https://jrsinclair.com/index.rss"/>
 <outline text="kaleidawave.github.io" title="kaleidawave.github.io" type="rss" xmlUrl="https://kaleidawave.github.io/feed.xml"/>
 <outline text="katashin.info" title="katashin.info" type="rss" xmlUrl="https://katashin.info/feed/feed.xml"/>

@@ -93,22 +93,6 @@
   },
   {
     "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.6 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
-    "count": 26,
     "url": "https://webkit.org",
     "tags": [
       "webkit",
@@ -129,6 +113,22 @@
       "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.6 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 20,
@@ -232,20 +232,6 @@
       "url": "https://www.electronjs.org/blog/electron-32-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 11,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "ESLint v9.9.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/08/eslint-v9.9.0-released/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 11,
@@ -355,6 +341,20 @@
       "url": "https://www.youtube.com/playlist?list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 10,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "ESLint v9.9.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/08/eslint-v9.9.0-released/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 9,
@@ -505,20 +505,6 @@
   },
   {
     "count": 6,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "jquery]"
-    ],
-    "example": {
-      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
-    },
-    "rssUrl": "https://blog.jquery.com/feed/"
-  },
-  {
-    "count": 6,
     "url": "https://remix.run",
     "tags": [
       "React",
@@ -665,6 +651,20 @@
       "title": "WinterJS 1.0 · Blog · Wasmer",
       "url": "https://wasmer.io/posts/winterjs-v1"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "jquery]"
+    ],
+    "example": {
+      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
+    },
+    "rssUrl": "https://blog.jquery.com/feed/"
   },
   {
     "count": 5,
@@ -2351,34 +2351,6 @@
       "url": "https://ishadeed.com/article/css-grid-area/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://jestjs.io",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Jest 29: Snapshot format changes · Jest",
-      "url": "https://jestjs.io/blog/2022/08/25/jest-29"
-    },
-    "rssUrl": "https://jestjs.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://endtimes.dev",
-    "tags": [
-      "HTTP",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Why your website should be under 14kB in size | endtimes.dev",
-      "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/"
-    },
-    "rssUrl": "https://endtimes.dev/feed.xml"
   },
   {
     "count": 1,
@@ -9701,5 +9673,18 @@
       "url": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file",
+    "tags": [
+      "Vue",
+      "mail"
+    ],
+    "example": {
+      "title": "vue-email/vue-email: 💌 Write email templates with vue",
+      "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"
   }
 ]
