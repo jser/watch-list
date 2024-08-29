@@ -714,21 +714,6 @@
   },
   {
     "count": 4,
-    "url": "https://2ality.com",
-    "tags": [
-      "node.js",
-      "article",
-      "ECMAScript",
-      "proposal",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Ecma International approves ECMAScript 2024: What’s new?",
-      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/lerna/lerna",
     "tags": [
       "monorepo",
@@ -1004,23 +989,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/solidjs/solid",
-    "tags": [
-      "JavaScript",
-      "library",
-      "DOM",
-      "ReleaseNote",
-      "React",
-      "Solid"
-    ],
-    "example": {
-      "title": "Release v1.8.0 - Bifröst · solidjs/solid",
-      "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
-    },
-    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://blog.chromium.org",
     "tags": [
       "Chrome",
@@ -1172,6 +1140,21 @@
       "url": "https://github.com/ije/esm.sh/releases/tag/v111"
     },
     "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://2ality.com",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "article",
+      "node.js",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Ecma International approves ECMAScript 2024: What’s new?",
+      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
+    }
   },
   {
     "count": 3,
@@ -1378,20 +1361,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/httptoolkit/brotli-wasm",
-    "tags": [
-      "JavaScript",
-      "library",
-      "WebAssembly"
-    ],
-    "example": {
-      "title": "httptoolkit/brotli-wasm: A reliable compressor and decompressor for Brotli, supporting node & browsers via wasm",
-      "url": "https://github.com/httptoolkit/brotli-wasm"
-    },
-    "rssUrl": "https://github.com/httptoolkit/brotli-wasm/releases.atom"
   },
   {
     "count": 2,
@@ -1861,6 +1830,22 @@
       "url": "https://github.com/remix-run/react-router/releases/tag/react-router%406.14.0"
     },
     "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/solidjs/solid",
+    "tags": [
+      "JavaScript",
+      "React",
+      "ReleaseNote",
+      "Solid",
+      "library"
+    ],
+    "example": {
+      "title": "Release v1.8.0 - Bifröst · solidjs/solid",
+      "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
   },
   {
     "count": 2,
@@ -5627,6 +5612,20 @@
       "url": "https://github.com/fabian-hiller/valibot"
     },
     "rssUrl": "https://github.com/fabian-hiller/valibot/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/httptoolkit/brotli-wasm",
+    "tags": [
+      "WebAssembly",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "httptoolkit/brotli-wasm: A reliable compressor and decompressor for Brotli, supporting node & browsers via wasm",
+      "url": "https://github.com/httptoolkit/brotli-wasm"
+    },
+    "rssUrl": "https://github.com/httptoolkit/brotli-wasm/releases.atom"
   },
   {
     "count": 1,
@@ -9424,5 +9423,18 @@
       "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "webpack"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.0 - Rspack",
+      "url": "https://rspack.dev/blog/announcing-1-0"
+    }
   }
 ]
