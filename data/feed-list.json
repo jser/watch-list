@@ -595,12 +595,6 @@
     ]
   },
   {
-    "url": "https://github.com/solidjs/solid",
-    "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
@@ -652,12 +646,6 @@
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/httptoolkit/brotli-wasm",
-    "feeds": [
-      "https://github.com/httptoolkit/brotli-wasm/releases.atom"
     ]
   },
   {
@@ -724,6 +712,12 @@
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
@@ -1516,6 +1510,12 @@
     "url": "https://github.com/fabian-hiller/valibot",
     "feeds": [
       "https://github.com/fabian-hiller/valibot/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/httptoolkit/brotli-wasm",
+    "feeds": [
+      "https://github.com/httptoolkit/brotli-wasm/releases.atom"
     ]
   },
   {
@@ -2436,6 +2436,12 @@
     "url": "https://rsbuild.dev",
     "feeds": [
       "https://rsbuild.dev/rss/releases.xml"
+    ]
+  },
+  {
+    "url": "https://rspack.dev",
+    "feeds": [
+      "https://rspack.dev/rss/blog-rss.xml"
     ]
   },
   {

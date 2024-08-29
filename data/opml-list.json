@@ -885,6 +885,12 @@
     ]
   },
   {
+    "url": "https://rspack.dev",
+    "feeds": [
+      "https://rspack.dev/rss/blog-rss.xml"
+    ]
+  },
+  {
     "url": "https://rumarchive.com",
     "feeds": [
       "https://rumarchive.com/blog/feed.xml"

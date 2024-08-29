@@ -145,6 +145,7 @@
 <outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
 <outline text="romgrk.com" title="romgrk.com" type="rss" xmlUrl="https://romgrk.com/rss.xml"/>
 <outline text="rsbuild.dev" title="rsbuild.dev" type="rss" xmlUrl="https://rsbuild.dev/rss/releases.xml"/>
+<outline text="rspack.dev" title="rspack.dev" type="rss" xmlUrl="https://rspack.dev/rss/blog-rss.xml"/>
 <outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
