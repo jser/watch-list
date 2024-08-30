@@ -649,6 +649,12 @@
     ]
   },
   {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/styled-components/styled-components",
     "feeds": [
       "https://github.com/styled-components/styled-components/releases.atom"
@@ -763,12 +769,6 @@
     ]
   },
   {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -796,12 +796,6 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/apify/crawlee",
-    "feeds": [
-      "https://github.com/apify/crawlee/releases.atom"
     ]
   },
   {
