@@ -1200,6 +1200,20 @@
   },
   {
     "count": 3,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "news",
+      "css "
+    ],
+    "example": {
+      "title": "State of CSS 2024",
+      "url": "https://survey.devographics.com/en-US/survey/state-of-css/2024"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://developer.apple.com",
     "tags": [
       "safari",
@@ -1344,6 +1358,24 @@
       "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
     },
     "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "database",
+      "library",
+      "ReleaseNote",
+      "prisma",
+      "MySQL"
+    ],
+    "example": {
+      "title": "Release 5.19.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/5.19.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 3,
@@ -1624,19 +1656,6 @@
       "url": "https://www.mizdra.net/entry/2024/07/27/193815"
     },
     "rssUrl": "https://www.mizdra.net/feed"
-  },
-  {
-    "count": 2,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "JavaScript",
-      "Survey",
-      "news"
-    ],
-    "example": {
-      "title": "State of JavaScript 2023",
-      "url": "https://survey.devographics.com/en-US/survey/state-of-js/2023"
-    }
   },
   {
     "count": 2,
@@ -2121,23 +2140,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "database",
-      "library",
-      "ReleaseNote",
-      "prisma"
-    ],
-    "example": {
-      "title": "Release 5.11.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/5.11.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://blog.getbootstrap.com",
     "tags": [
       "CSP",
@@ -2336,21 +2338,6 @@
       "url": "https://ishadeed.com/article/css-grid-area/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/apify/crawlee",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "library",
-      "node.js"
-    ],
-    "example": {
-      "title": "apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
-      "url": "https://github.com/apify/crawlee"
-    },
-    "rssUrl": "https://github.com/apify/crawlee/releases.atom"
   },
   {
     "count": 1,
