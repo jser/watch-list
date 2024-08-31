@@ -799,12 +799,6 @@
     ]
   },
   {
-    "url": "https://github.com/nadeesha/ts-prune",
-    "feeds": [
-      "https://github.com/nadeesha/ts-prune/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/frehner/modern-guide-to-packaging-js-library",
     "feeds": [
       "https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"
@@ -2618,12 +2612,6 @@
     ]
   },
   {
-    "url": "https://tech.basicinc.jp",
-    "feeds": [
-      "https://tech.basicinc.jp/feed"
-    ]
-  },
-  {
     "url": "https://tech.high-link.co.jp",
     "feeds": [
       "https://tech.high-link.co.jp/feed",
@@ -2655,13 +2643,6 @@
     "url": "https://techblog.yahoo.co.jp",
     "feeds": [
       "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
-    ]
-  },
-  {
-    "url": "https://textslashplain.com",
-    "feeds": [
-      "https://textslashplain.com/feed/",
-      "https://textslashplain.com/comments/feed/"
     ]
   },
   {
