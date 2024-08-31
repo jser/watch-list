@@ -1396,21 +1396,6 @@
   },
   {
     "count": 2,
-    "url": "https://spidermonkey.dev",
-    "tags": [
-      "Firefox",
-      "JavaScript",
-      "article",
-      "module",
-      "ECMAScript"
-    ],
-    "example": {
-      "title": "JavaScript Import maps, Part 1: Introduction | SpiderMonkey JavaScript/WebAssembly Engine",
-      "url": "https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/styled-components/styled-components",
     "tags": [
       "JavaScript",
@@ -2262,45 +2247,6 @@
     "example": {
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nadeesha/ts-prune",
-    "tags": [
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "nadeesha/ts-prune: Find unused exports in a typescript project. 🛀",
-      "url": "https://github.com/nadeesha/ts-prune"
-    },
-    "rssUrl": "https://github.com/nadeesha/ts-prune/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://textslashplain.com",
-    "tags": [
-      "browser",
-      "privacy",
-      "article"
-    ],
-    "example": {
-      "title": "New Recipes for 3rd Party Cookies – text/plain",
-      "url": "https://textslashplain.com/2022/07/27/new-recipes-for-cookies/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tech.basicinc.jp",
-    "tags": [
-      "browser",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "今時の CSRF 対策ってなにをすればいいの？ | Basicinc Enjoy Hacking!",
-      "url": "https://tech.basicinc.jp/articles/231"
     }
   },
   {
@@ -4194,6 +4140,20 @@
     "example": {
       "title": "🪄 | ts-rest",
       "url": "https://ts-rest.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://spidermonkey.dev",
+    "tags": [
+      "JavaScript",
+      "module",
+      "ECMAScript",
+      "article"
+    ],
+    "example": {
+      "title": "JavaScript Import maps, Part 1: Introduction | SpiderMonkey JavaScript/WebAssembly Engine",
+      "url": "https://spidermonkey.dev/blog/2023/02/23/javascript-import-maps-part-1-introduction.html"
     }
   },
   {

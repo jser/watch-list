@@ -134,7 +134,6 @@
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
-<outline text="github.com/nadeesha/ts-prune" title="github.com/nadeesha/ts-prune" type="rss" xmlUrl="https://github.com/nadeesha/ts-prune/releases.atom"/>
 <outline text="github.com/frehner/modern-guide-to-packaging-js-library" title="github.com/frehner/modern-guide-to-packaging-js-library" type="rss" xmlUrl="https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"/>
 <outline text="github.com/bluwy/whyframe" title="github.com/bluwy/whyframe" type="rss" xmlUrl="https://github.com/bluwy/whyframe/releases.atom"/>
 <outline text="github.com/layerhub-io/react-design-editor" title="github.com/layerhub-io/react-design-editor" type="rss" xmlUrl="https://github.com/layerhub-io/react-design-editor/releases.atom"/>
@@ -431,13 +430,11 @@
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tauri.app" title="tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>
 <outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
-<outline text="tech.basicinc.jp" title="tech.basicinc.jp" type="rss" xmlUrl="https://tech.basicinc.jp/feed"/>
 <outline text="tech.high-link.co.jp" title="tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="tech.repro.io" title="tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
 <outline text="techblog.yahoo.co.jp" title="techblog.yahoo.co.jp" type="rss" xmlUrl="https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"/>
-<outline text="textslashplain.com" title="textslashplain.com" type="rss" xmlUrl="https://textslashplain.com/feed/"/>
 <outline text="the-guild.dev" title="the-guild.dev" type="rss" xmlUrl="https://the-guild.dev/feed.xml"/>
 <outline text="timkadlec.com" title="timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/remembers/atom.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
