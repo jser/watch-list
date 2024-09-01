@@ -89,7 +89,7 @@
     }
   },
   {
-    "count": 26,
+    "count": 27,
     "url": "https://webkit.org",
     "tags": [
       "webkit",
@@ -106,8 +106,8 @@
       "privacy"
     ],
     "example": {
-      "title": "Private Browsing 2.0 | WebKit",
-      "url": "https://webkit.org/blog/15697/private-browsing-2-0/"
+      "title": "Release Notes for Safari Technology Preview 202 | WebKit",
+      "url": "https://webkit.org/blog/15798/release-notes-for-safari-technology-preview-202/"
     }
   },
   {
@@ -1172,6 +1172,23 @@
   },
   {
     "count": 3,
+    "url": "https://zenn.dev/yumemi_inc/",
+    "tags": [
+      "JavaScript",
+      "Conference",
+      "slire",
+      "video",
+      "HTML",
+      "CSS",
+      "slide"
+    ],
+    "example": {
+      "title": "フロントエンドカンファレンス北海道 2024 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/yumemi_inc/articles/2024-08-25-frontend-conf-hokkaido-2024"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://developer.apple.com",
     "tags": [
       "safari",
@@ -1600,23 +1617,6 @@
     "example": {
       "title": "クライアントの Cookie などのデータを削除する Clear Site Data という仕様について | blog.bokken.io",
       "url": "https://blog.bokken.io/articles/2023-02-28/about-clear-site-data.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/yumemi_inc/",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "slire",
-      "video",
-      "HTML",
-      "CSS",
-      "slide"
-    ],
-    "example": {
-      "title": "フロントエンドカンファレンス沖縄 2023 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/yumemi_inc/articles/2023-11-18-frontend-conf-okinawa-2023"
     }
   },
   {
@@ -9382,6 +9382,79 @@
     "example": {
       "title": "Announcing Rspack 1.0 - Rspack",
       "url": "https://rspack.dev/blog/announcing-1-0"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/pmndrs/valtio",
+    "tags": [
+      "React",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · pmndrs/valtio",
+      "url": "https://github.com/pmndrs/valtio/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/pmndrs/valtio/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://tech.newmo.me",
+    "tags": [
+      "npm",
+      "pnpm",
+      "monorepo",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "monorepo内でのパッケージのバージョンを1つだけに統一するOne Version Ruleをpnpm catalogで実装する - newmo 技術ブログ",
+      "url": "https://tech.newmo.me/entry/one-version-rule-built-on-pnpm-catalog"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/bramus/style-observer",
+    "tags": [
+      "css ",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "bramus/style-observer: MutationObserver for CSS. Get notified when the computed value of a CSS property changes.",
+      "url": "https://github.com/bramus/style-observer"
+    },
+    "rssUrl": "https://github.com/bramus/style-observer/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/advisories/GHSA-8266-84wp-wv5c",
+    "tags": [
+      "Svelte",
+      "security",
+      "ReleaseNote",
+      "XSS"
+    ],
+    "example": {
+      "title": "Svelte has a potential mXSS vulnerability due to improper HTML escaping · CVE-2024-45047 · GitHub Advisory Database",
+      "url": "https://github.com/advisories/GHSA-8266-84wp-wv5c"
+    },
+    "rssUrl": "https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://mui.com",
+    "tags": [
+      "React",
+      "UI",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Material UI v6 is out now 🎉 - MUI",
+      "url": "https://mui.com/blog/material-ui-v6-is-out/"
     }
   }
 ]

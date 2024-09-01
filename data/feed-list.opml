@@ -343,6 +343,9 @@
 <outline text="github.com/stackblitz-labs/pkg.pr.new" title="github.com/stackblitz-labs/pkg.pr.new" type="rss" xmlUrl="https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"/>
 <outline text="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" title="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/vue-email/vue-email?tab=readme-ov-file" title="github.com/vue-email/vue-email?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"/>
+<outline text="github.com/pmndrs/valtio" title="github.com/pmndrs/valtio" type="rss" xmlUrl="https://github.com/pmndrs/valtio/releases.atom"/>
+<outline text="github.com/bramus/style-observer" title="github.com/bramus/style-observer" type="rss" xmlUrl="https://github.com/bramus/style-observer/releases.atom"/>
+<outline text="github.com/advisories/GHSA-8266-84wp-wv5c" title="github.com/advisories/GHSA-8266-84wp-wv5c" type="rss" xmlUrl="https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -377,6 +380,7 @@
 <outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
 <outline text="moderncss.dev" title="moderncss.dev" type="rss" xmlUrl="https://moderncss.dev/feed/"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
+<outline text="mui.com" title="mui.com" type="rss" xmlUrl="https://mui.com/feed/blog/rss.xml"/>
 <outline text="mwskwong.com" title="mwskwong.com" type="rss" xmlUrl="https://mwskwong.com/blog/rss.xml"/>
 <outline text="nanto.asablo.jp" title="nanto.asablo.jp" type="rss" xmlUrl="https://nanto.asablo.jp/blog/rss"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
@@ -432,6 +436,7 @@
 <outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
 <outline text="tech.high-link.co.jp" title="tech.high-link.co.jp" type="rss" xmlUrl="https://tech.high-link.co.jp/feed"/>
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
+<outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="tech.repro.io" title="tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
 <outline text="techblog.yahoo.co.jp" title="techblog.yahoo.co.jp" type="rss" xmlUrl="https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"/>

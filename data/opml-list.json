@@ -726,6 +726,12 @@
     ]
   },
   {
+    "url": "https://mui.com",
+    "feeds": [
+      "https://mui.com/feed/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://mwskwong.com",
     "feeds": [
       "https://mwskwong.com/blog/rss.xml"
@@ -1075,6 +1081,13 @@
     "feeds": [
       "https://tech.legalforce.co.jp/feed",
       "https://tech.legalforce.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://tech.newmo.me",
+    "feeds": [
+      "https://tech.newmo.me/feed",
+      "https://tech.newmo.me/rss"
     ]
   },
   {
