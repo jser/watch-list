@@ -2053,6 +2053,24 @@
     ]
   },
   {
+    "url": "https://github.com/pmndrs/valtio",
+    "feeds": [
+      "https://github.com/pmndrs/valtio/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/bramus/style-observer",
+    "feeds": [
+      "https://github.com/bramus/style-observer/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/advisories/GHSA-8266-84wp-wv5c",
+    "feeds": [
+      "https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2265,6 +2283,12 @@
     "feeds": [
       "https://moonrepo.dev/blog/rss.xml",
       "https://moonrepo.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://mui.com",
+    "feeds": [
+      "https://mui.com/feed/blog/rss.xml"
     ]
   },
   {
@@ -2623,6 +2647,13 @@
     "feeds": [
       "https://tech.legalforce.co.jp/feed",
       "https://tech.legalforce.co.jp/rss"
+    ]
+  },
+  {
+    "url": "https://tech.newmo.me",
+    "feeds": [
+      "https://tech.newmo.me/feed",
+      "https://tech.newmo.me/rss"
     ]
   },
   {
