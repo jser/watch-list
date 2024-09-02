@@ -405,6 +405,12 @@
     ]
   },
   {
+    "url": "https://developers.cyberagent.co.jp",
+    "feeds": [
+      "https://developers.cyberagent.co.jp/blog/feed/"
+    ]
+  },
+  {
     "url": "https://developers.prtimes.jp",
     "feeds": [
       "https://developers.prtimes.jp/feed/",
@@ -415,6 +421,13 @@
     "url": "https://devtoolstips.org",
     "feeds": [
       "https://devtoolstips.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://docs.timetime.in",
+    "feeds": [
+      "https://docs.timetime.in/blog/rss.xml",
+      "https://docs.timetime.in/blog/atom.xml"
     ]
   },
   {
@@ -1546,6 +1559,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/akfm/",
+    "feeds": [
+      "https://zenn.dev/akfm/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/yukiyada/",
     "feeds": [
       "https://zenn.dev/yukiyada/feed"
@@ -1657,12 +1676,6 @@
     "url": "https://zenn.dev/yamachan0625/",
     "feeds": [
       "https://zenn.dev/yamachan0625/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/akfm/",
-    "feeds": [
-      "https://zenn.dev/akfm/feed"
     ]
   },
   {

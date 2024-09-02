@@ -126,7 +126,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://web.dev",
     "tags": [
       "HTML",
@@ -149,8 +149,8 @@
       "css "
     ],
     "example": {
-      "title": "Now in Baseline: animating entry effects  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/baseline-entry-animations?hl=en"
+      "title": "Common misconceptions about how to optimize LCP  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/common-misconceptions-lcp?hl=en"
     }
   },
   {
@@ -893,6 +893,20 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "DOM Clobbering Gadget found in Webpack's AutoPublicPathRuntimeModule that leads to XSS · Advisory · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/security/advisories/GHSA-4vvj-4cpr-p986"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -1228,19 +1242,6 @@
       "url": "https://github.com/google/zx/releases/tag/8.1.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.90.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.90.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 3,
@@ -2247,6 +2248,20 @@
     "example": {
       "title": "CSS Grid Areas",
       "url": "https://ishadeed.com/article/css-grid-area/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/akfm/",
+    "tags": [
+      "Next.js",
+      "React",
+      "article",
+      "book"
+    ],
+    "example": {
+      "title": "Next.jsの考え方",
+      "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
   },
   {
@@ -7861,19 +7876,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/akfm/",
-    "tags": [
-      "Next.js",
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Server Actions時代のformライブラリconform",
-      "url": "https://zenn.dev/akfm/articles/server-actions-with-conform"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/devongovett/unplugin-parcel-macros",
     "tags": [
       "parcel",
@@ -9455,6 +9457,46 @@
     "example": {
       "title": "Material UI v6 is out now 🎉 - MUI",
       "url": "https://mui.com/blog/material-ui-v6-is-out/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://developers.cyberagent.co.jp",
+    "tags": [
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "ジャンプTOON Next.js App Router の活用〜得られた恩恵と課題〜 | CyberAgent Developers Blog",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/49429/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/hoppergee/heic-to?tab=readme-ov-file",
+    "tags": [
+      "JavaScript",
+      "browser",
+      "Image",
+      "library"
+    ],
+    "example": {
+      "title": "hoppergee/heic-to: Convert HEIC/HEIF images to JPEG, PNG in browser",
+      "url": "https://github.com/hoppergee/heic-to?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://docs.timetime.in",
+    "tags": [
+      "ECMAScript",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "JS Dates Are About to Be Fixed | TimeTime",
+      "url": "https://docs.timetime.in/blog/js-dates-finally-fixed/"
     }
   }
 ]
