@@ -405,6 +405,12 @@
     ]
   },
   {
+    "url": "https://developers.cyberagent.co.jp",
+    "feeds": [
+      "https://developers.cyberagent.co.jp/blog/feed/"
+    ]
+  },
+  {
     "url": "https://developers.prtimes.jp",
     "feeds": [
       "https://developers.prtimes.jp/feed/",
@@ -415,6 +421,13 @@
     "url": "https://devtoolstips.org",
     "feeds": [
       "https://devtoolstips.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://docs.timetime.in",
+    "feeds": [
+      "https://docs.timetime.in/blog/rss.xml",
+      "https://docs.timetime.in/blog/atom.xml"
     ]
   },
   {
@@ -577,6 +590,12 @@
     ]
   },
   {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
@@ -628,12 +647,6 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -2071,6 +2084,12 @@
     ]
   },
   {
+    "url": "https://github.com/hoppergee/heic-to?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3122,6 +3141,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/akfm/",
+    "feeds": [
+      "https://zenn.dev/akfm/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/yukiyada/",
     "feeds": [
       "https://zenn.dev/yukiyada/feed"
@@ -3233,12 +3258,6 @@
     "url": "https://zenn.dev/yamachan0625/",
     "feeds": [
       "https://zenn.dev/yamachan0625/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/akfm/",
-    "feeds": [
-      "https://zenn.dev/akfm/feed"
     ]
   },
   {
