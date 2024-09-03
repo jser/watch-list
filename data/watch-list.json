@@ -540,6 +540,26 @@
     }
   },
   {
+    "count": 6,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "ECMAScript",
+      "CommonJS",
+      "article",
+      "book",
+      "ReleaseNote",
+      "npm",
+      "nodejs",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "JavaScript Primer v6.0.0リリース: ES2024の対応とNode.jsのユースケースを刷新 | Web Scratch",
+      "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
+    }
+  },
+  {
     "count": 5,
     "url": "https://www.builder.io",
     "tags": [
@@ -678,26 +698,6 @@
   },
   {
     "count": 5,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "ECMAScript",
-      "CommonJS",
-      "article",
-      "book",
-      "ReleaseNote",
-      "npm",
-      "nodejs",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Node.jsで型安全な環境変数を扱うスニペット | Web Scratch",
-      "url": "https://efcl.info/2024/08/24/type-safe-env/"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -711,21 +711,6 @@
       "title": "Biome v1.7 | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/lerna/lerna",
-    "tags": [
-      "monorepo",
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · lerna/lerna",
-      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
   },
   {
     "count": 4,
@@ -1203,6 +1188,20 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/lerna/lerna",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · lerna/lerna",
+      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://developer.apple.com",
     "tags": [
       "safari",
@@ -1411,22 +1410,6 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/styled-components/styled-components",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "alib"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · styled-components/styled-components",
-      "url": "https://github.com/styled-components/styled-components/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/styled-components/styled-components/releases.atom"
   },
   {
     "count": 2,
@@ -2263,35 +2246,6 @@
       "title": "Next.jsの考え方",
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/frehner/modern-guide-to-packaging-js-library",
-    "tags": [
-      "node.js",
-      "JavaScript",
-      "library",
-      "document"
-    ],
-    "example": {
-      "title": "frehner/modern-guide-to-packaging-js-library",
-      "url": "https://github.com/frehner/modern-guide-to-packaging-js-library"
-    },
-    "rssUrl": "https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/bluwy/whyframe",
-    "tags": [
-      "JavaScript",
-      "library",
-      "UI"
-    ],
-    "example": {
-      "title": "bluwy/whyframe: Develop components in isolation",
-      "url": "https://github.com/bluwy/whyframe"
-    },
-    "rssUrl": "https://github.com/bluwy/whyframe/releases.atom"
   },
   {
     "count": 1,
@@ -5463,6 +5417,21 @@
       "title": "アニメーションの実装が劇的に簡単になるFLIPテクニック",
       "url": "https://katashin.info/posts/flip-animation/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/styled-components/styled-components",
+    "tags": [
+      "CSS",
+      "JavaScript",
+      "alib",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · styled-components/styled-components",
+      "url": "https://github.com/styled-components/styled-components/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/styled-components/styled-components/releases.atom"
   },
   {
     "count": 1,
