@@ -572,12 +572,6 @@
     ]
   },
   {
-    "url": "https://github.com/lerna/lerna",
-    "feeds": [
-      "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
@@ -638,6 +632,12 @@
     ]
   },
   {
+    "url": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
@@ -665,12 +665,6 @@
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/styled-components/styled-components",
-    "feeds": [
-      "https://github.com/styled-components/styled-components/releases.atom"
     ]
   },
   {
@@ -809,18 +803,6 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/frehner/modern-guide-to-packaging-js-library",
-    "feeds": [
-      "https://github.com/frehner/modern-guide-to-packaging-js-library/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/bluwy/whyframe",
-    "feeds": [
-      "https://github.com/bluwy/whyframe/releases.atom"
     ]
   },
   {
@@ -1481,6 +1463,12 @@
     "url": "https://github.com/gibbok/typescript-book",
     "feeds": [
       "https://github.com/gibbok/typescript-book/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/styled-components/styled-components",
+    "feeds": [
+      "https://github.com/styled-components/styled-components/releases.atom"
     ]
   },
   {
