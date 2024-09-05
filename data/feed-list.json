@@ -342,12 +342,6 @@
     ]
   },
   {
-    "url": "https://daverupert.com",
-    "feeds": [
-      "https://daverupert.com/atom.xml"
-    ]
-  },
-  {
     "url": "https://davidwalsh.name",
     "feeds": [
       "https://davidwalsh.name/feed/atom",
@@ -542,12 +536,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
@@ -560,6 +548,12 @@
     ]
   },
   {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
@@ -569,12 +563,6 @@
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/rollup/rollup",
-    "feeds": [
-      "https://github.com/rollup/rollup/releases.atom"
     ]
   },
   {
@@ -638,6 +626,12 @@
     ]
   },
   {
+    "url": "https://github.com/rollup/rollup",
+    "feeds": [
+      "https://github.com/rollup/rollup/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
@@ -665,12 +659,6 @@
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/avajs/ava",
-    "feeds": [
-      "https://github.com/avajs/ava/releases.atom"
     ]
   },
   {
@@ -803,30 +791,6 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/layerhub-io/react-design-editor",
-    "feeds": [
-      "https://github.com/layerhub-io/react-design-editor/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ossf/package-manager-best-practices",
-    "feeds": [
-      "https://github.com/ossf/package-manager-best-practices/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tinylibs/tinyspy",
-    "feeds": [
-      "https://github.com/tinylibs/tinyspy/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/flomesh-io/pipy",
-    "feeds": [
-      "https://github.com/flomesh-io/pipy/releases.atom"
     ]
   },
   {
@@ -1727,6 +1691,12 @@
     "url": "https://github.com/unjs/unenv",
     "feeds": [
       "https://github.com/unjs/unenv/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/avajs/ava",
+    "feeds": [
+      "https://github.com/avajs/ava/releases.atom"
     ]
   },
   {

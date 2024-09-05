@@ -342,12 +342,6 @@
     ]
   },
   {
-    "url": "https://daverupert.com",
-    "feeds": [
-      "https://daverupert.com/atom.xml"
-    ]
-  },
-  {
     "url": "https://davidwalsh.name",
     "feeds": [
       "https://davidwalsh.name/feed/atom",

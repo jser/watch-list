@@ -44,15 +44,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 45,
+    "count": 44,
     "url": "https://developer.chrome.com",
     "tags": [
-      "browser",
-      "article",
       "Chrome",
       "ReleaseNote",
       "performance",
+      "article",
       "JavaScript",
+      "browser",
       "debug",
       "Tools",
       "puppeteer",
@@ -172,20 +172,6 @@
   },
   {
     "count": 17,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release pnpm 9.7 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.7.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -201,6 +187,20 @@
       "url": "https://astro.build/blog/astro-4120/"
     },
     "rssUrl": "https://astro.build/rss.xml"
+  },
+  {
+    "count": 16,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release pnpm 9.7 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.7.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 14,
@@ -263,23 +263,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "ReleaseNote",
-      "testing",
-      "library",
-      "JavaScript",
-      "test"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 10,
@@ -389,6 +372,23 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "library",
+      "JavaScript",
+      "test"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 8,
@@ -736,20 +736,6 @@
       "url": "https://biomejs.dev/blog/biome-v1-7/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/rollup/rollup",
-    "tags": [
-      "rollup",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v4.1.0 · rollup/rollup",
-      "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
-    },
-    "rssUrl": "https://github.com/rollup/rollup/releases.atom"
   },
   {
     "count": 4,
@@ -1244,6 +1230,20 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/rollup/rollup",
+    "tags": [
+      "rollup",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release v4.1.0 · rollup/rollup",
+      "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
+    },
+    "rssUrl": "https://github.com/rollup/rollup/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://developer.apple.com",
     "tags": [
       "safari",
@@ -1457,39 +1457,6 @@
       "url": "https://v8.dev/blog/jspi-newapi"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://blog.tomayac.com",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "article",
-      "macOS",
-      "safari"
-    ],
-    "example": {
-      "title": "Web Apps on macOS Sonoma 14 Beta",
-      "url": "https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/"
-    },
-    "rssUrl": "https://blog.tomayac.com/feed/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/avajs/ava",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "testing",
-      "ReleaseNote",
-      "nodejs",
-      "jailbreak"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · avajs/ava",
-      "url": "https://github.com/avajs/ava/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/avajs/ava/releases.atom"
   },
   {
     "count": 2,
@@ -2321,78 +2288,6 @@
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     },
     "rssUrl": "https://zenn.dev/akfm/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://daverupert.com",
-    "tags": [
-      "CSS",
-      "architecture",
-      "article"
-    ],
-    "example": {
-      "title": "Modern alternatives to BEM - daverupert.com",
-      "url": "https://daverupert.com/2022/08/modern-alternatives-to-bem/"
-    },
-    "rssUrl": "https://daverupert.com/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/layerhub-io/react-design-editor",
-    "tags": [
-      "React",
-      "video",
-      "editor",
-      "library"
-    ],
-    "example": {
-      "title": "layerhub-io/react-design-editor: Image, Presentation and Video editor. React design editor using fabric.js. Canva clone",
-      "url": "https://github.com/layerhub-io/react-design-editor"
-    },
-    "rssUrl": "https://github.com/layerhub-io/react-design-editor/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ossf/package-manager-best-practices",
-    "tags": [
-      "npm",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "package-manager-best-practices/npm.md at main · ossf/package-manager-best-practices",
-      "url": "https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md"
-    },
-    "rssUrl": "https://github.com/ossf/package-manager-best-practices/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tinylibs/tinyspy",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library"
-    ],
-    "example": {
-      "title": "tinylibs/tinyspy: 🕵🏻‍♂️ minimal fork of nanospy, with more features",
-      "url": "https://github.com/tinylibs/tinyspy"
-    },
-    "rssUrl": "https://github.com/tinylibs/tinyspy/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/flomesh-io/pipy",
-    "tags": [
-      "JavaScript",
-      "proxy",
-      "C++",
-      "software"
-    ],
-    "example": {
-      "title": "flomesh-io/pipy: Pipy is a programmable proxy for the cloud, edge and IoT.",
-      "url": "https://github.com/flomesh-io/pipy"
-    },
-    "rssUrl": "https://github.com/flomesh-io/pipy/releases.atom"
   },
   {
     "count": 1,
@@ -5415,6 +5310,20 @@
   },
   {
     "count": 1,
+    "url": "https://blog.tomayac.com",
+    "tags": [
+      "macOS",
+      "safari",
+      "article"
+    ],
+    "example": {
+      "title": "Web Apps on macOS Sonoma 14 Beta",
+      "url": "https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/"
+    },
+    "rssUrl": "https://blog.tomayac.com/feed/feed.xml"
+  },
+  {
+    "count": 1,
     "url": "https://panda-css.com",
     "tags": [
       "CSS",
@@ -6984,6 +6893,21 @@
       "url": "https://github.com/unjs/unenv/tree/main"
     },
     "rssUrl": "https://github.com/unjs/unenv/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/avajs/ava",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "jailbreak",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · avajs/ava",
+      "url": "https://github.com/avajs/ava/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/avajs/ava/releases.atom"
   },
   {
     "count": 1,

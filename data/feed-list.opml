@@ -59,7 +59,6 @@
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
-<outline text="daverupert.com" title="daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
@@ -91,12 +90,11 @@
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
-<outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
+<outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
-<outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
@@ -107,12 +105,12 @@
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
+<outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
-<outline text="github.com/avajs/ava" title="github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
 <outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
 <outline text="github.com/parcel-bundler/lightningcss" title="github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>
@@ -135,10 +133,6 @@
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
-<outline text="github.com/layerhub-io/react-design-editor" title="github.com/layerhub-io/react-design-editor" type="rss" xmlUrl="https://github.com/layerhub-io/react-design-editor/releases.atom"/>
-<outline text="github.com/ossf/package-manager-best-practices" title="github.com/ossf/package-manager-best-practices" type="rss" xmlUrl="https://github.com/ossf/package-manager-best-practices/releases.atom"/>
-<outline text="github.com/tinylibs/tinyspy" title="github.com/tinylibs/tinyspy" type="rss" xmlUrl="https://github.com/tinylibs/tinyspy/releases.atom"/>
-<outline text="github.com/flomesh-io/pipy" title="github.com/flomesh-io/pipy" type="rss" xmlUrl="https://github.com/flomesh-io/pipy/releases.atom"/>
 <outline text="github.com/BetterTyped/hyper-fetch" title="github.com/BetterTyped/hyper-fetch" type="rss" xmlUrl="https://github.com/BetterTyped/hyper-fetch/releases.atom"/>
 <outline text="github.com/preactjs/signals" title="github.com/preactjs/signals" type="rss" xmlUrl="https://github.com/preactjs/signals/releases.atom"/>
 <outline text="github.com/nuxt/content" title="github.com/nuxt/content" type="rss" xmlUrl="https://github.com/nuxt/content/releases.atom"/>
@@ -289,6 +283,7 @@
 <outline text="github.com/cosmiconfig/cosmiconfig" title="github.com/cosmiconfig/cosmiconfig" type="rss" xmlUrl="https://github.com/cosmiconfig/cosmiconfig/releases.atom"/>
 <outline text="github.com/architect/aws-lite" title="github.com/architect/aws-lite" type="rss" xmlUrl="https://github.com/architect/aws-lite/releases.atom"/>
 <outline text="github.com/unjs/unenv" title="github.com/unjs/unenv" type="rss" xmlUrl="https://github.com/unjs/unenv/releases.atom"/>
+<outline text="github.com/avajs/ava" title="github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
 <outline text="github.com/facebook/stylex" title="github.com/facebook/stylex" type="rss" xmlUrl="https://github.com/facebook/stylex/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
 <outline text="github.com/BuilderIO/hydration-overlay" title="github.com/BuilderIO/hydration-overlay" type="rss" xmlUrl="https://github.com/BuilderIO/hydration-overlay/releases.atom"/>
