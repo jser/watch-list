@@ -237,11 +237,9 @@
 <outline text="www.speedcurve.com" title="www.speedcurve.com" type="rss" xmlUrl="https://www.speedcurve.com/blog/rss/"/>
 <outline text="www.totaltypescript.com" title="www.totaltypescript.com" type="rss" xmlUrl="https://www.totaltypescript.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
-<outline text="www.wantedly.com" title="www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"/>
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
 <outline text="www.zachleat.com" title="www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
 <outline text="yarnpkg.com" title="yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
-<outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
 <outline text="yosuke-furukawa.hatenablog.com" title="yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>

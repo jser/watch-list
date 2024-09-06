@@ -109,6 +109,7 @@
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
+<outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
@@ -123,7 +124,6 @@
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
-<outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/reduxjs/redux" title="github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
@@ -133,7 +133,6 @@
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
-<outline text="github.com/BetterTyped/hyper-fetch" title="github.com/BetterTyped/hyper-fetch" type="rss" xmlUrl="https://github.com/BetterTyped/hyper-fetch/releases.atom"/>
 <outline text="github.com/preactjs/signals" title="github.com/preactjs/signals" type="rss" xmlUrl="https://github.com/preactjs/signals/releases.atom"/>
 <outline text="github.com/nuxt/content" title="github.com/nuxt/content" type="rss" xmlUrl="https://github.com/nuxt/content/releases.atom"/>
 <outline text="github.com/hand-dot/react-inspector" title="github.com/hand-dot/react-inspector" type="rss" xmlUrl="https://github.com/hand-dot/react-inspector/releases.atom"/>
@@ -342,6 +341,7 @@
 <outline text="github.com/bramus/style-observer" title="github.com/bramus/style-observer" type="rss" xmlUrl="https://github.com/bramus/style-observer/releases.atom"/>
 <outline text="github.com/advisories/GHSA-8266-84wp-wv5c" title="github.com/advisories/GHSA-8266-84wp-wv5c" type="rss" xmlUrl="https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"/>
 <outline text="github.com/hoppergee/heic-to?tab=readme-ov-file" title="github.com/hoppergee/heic-to?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"/>
+<outline text="github.com/faker-js/faker" title="github.com/faker-js/faker" type="rss" xmlUrl="https://github.com/faker-js/faker/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -493,12 +493,10 @@
 <outline text="www.speedcurve.com" title="www.speedcurve.com" type="rss" xmlUrl="https://www.speedcurve.com/blog/rss/"/>
 <outline text="www.totaltypescript.com" title="www.totaltypescript.com" type="rss" xmlUrl="https://www.totaltypescript.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
-<outline text="www.wantedly.com" title="www.wantedly.com" type="rss" xmlUrl="https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"/>
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="www.zachleat.com" title="www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
 <outline text="yarnpkg.com" title="yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
-<outline text="yieldcode.blog" title="yieldcode.blog" type="rss" xmlUrl="https://www.yieldcode.blog/rss/feed.xml"/>
 <outline text="yosuke-furukawa.hatenablog.com" title="yosuke-furukawa.hatenablog.com" type="rss" xmlUrl="https://yosuke-furukawa.hatenablog.com/feed"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
 <outline text="zenn.dev/sa2knight/" title="zenn.dev/sa2knight/" type="rss" xmlUrl="https://zenn.dev/sa2knight/feed"/>
