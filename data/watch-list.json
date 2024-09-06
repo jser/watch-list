@@ -1,6 +1,6 @@
 [
   {
-    "count": 60,
+    "count": 61,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,8 +16,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.7.0"
+      "title": "Node.js — Node v22.8.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.8.0"
     }
   },
   {
@@ -974,20 +974,6 @@
   },
   {
     "count": 3,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://bytecodealliance.org",
     "tags": [
       "WebAssembly",
@@ -1271,6 +1257,22 @@
       "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02-28"
     },
     "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/redwoodjs/redwood",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "library",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v8.0.0 · redwoodjs/redwood",
+      "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 3,
@@ -1616,6 +1618,19 @@
   },
   {
     "count": 2,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://tauri.app",
     "tags": [
       "JavaScript",
@@ -1859,22 +1874,6 @@
       "title": "Node.js v21 の主な変更点 - 別にしんどくないブログ",
       "url": "https://shisama.hatenablog.com/entry/2023/12/16/151553"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/redwoodjs/redwood",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · redwoodjs/redwood",
-      "url": "https://github.com/redwoodjs/redwood/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 2,
@@ -2213,60 +2212,6 @@
     "example": {
       "title": "Next.jsの考え方",
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://testcafe.io",
-    "tags": [
-      "browser",
-      "testing",
-      "E2E",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "TestCafe v2.0.0 Released | Framework | Release Notes",
-      "url": "https://testcafe.io/404018/release-notes/framework/2022-8-31-testcafe-v2-0-0-released"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/BetterTyped/hyper-fetch",
-    "tags": [
-      "JavaScript",
-      "library",
-      "Fetch"
-    ],
-    "example": {
-      "title": "BetterTyped/hyper-fetch: ⚡ Backend agnostic fetching framework for any javascript environment - queues, caching, persistence, builders, commands, offline and more!",
-      "url": "https://github.com/BetterTyped/hyper-fetch"
-    },
-    "rssUrl": "https://github.com/BetterTyped/hyper-fetch/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://yieldcode.blog",
-    "tags": [
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Implementing Promisable setTimeout | yield code(); - Dmitry Kudryavtsev",
-      "url": "https://yieldcode.blog/post/implementing-promisable-set-timeout"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.wantedly.com",
-    "tags": [
-      "node.js",
-      "ECMAScript",
-      "module",
-      "article"
-    ],
-    "example": {
-      "title": "実践 Node.js Native ESM — Wantedlyでのアプリケーション移行事例 | Wantedly Engineer Blog",
-      "url": "https://www.wantedly.com/companies/wantedly/post_articles/410531"
     }
   },
   {
@@ -9392,5 +9337,19 @@
       "title": "JS Dates Are About to Be Fixed | TimeTime",
       "url": "https://docs.timetime.in/blog/js-dates-finally-fixed/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/faker-js/faker",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.0.0 · faker-js/faker",
+      "url": "https://github.com/faker-js/faker/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/faker-js/faker/releases.atom"
   }
 ]

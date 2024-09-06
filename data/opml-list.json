@@ -1494,12 +1494,6 @@
     ]
   },
   {
-    "url": "https://www.wantedly.com",
-    "feeds": [
-      "https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.webkit.org",
     "feeds": [
       "https://www.webkit.org/feed/",
@@ -1518,13 +1512,6 @@
     "feeds": [
       "https://yarnpkg.com/blog/rss.xml",
       "https://yarnpkg.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://yieldcode.blog",
-    "feeds": [
-      "https://www.yieldcode.blog/rss/feed.xml",
-      "https://www.yieldcode.blog/rss/feed.xml"
     ]
   },
   {

@@ -650,6 +650,12 @@
     ]
   },
   {
+    "url": "https://github.com/redwoodjs/redwood",
+    "feeds": [
+      "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
@@ -734,12 +740,6 @@
     ]
   },
   {
-    "url": "https://github.com/redwoodjs/redwood",
-    "feeds": [
-      "https://github.com/redwoodjs/redwood/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/markedjs/marked",
     "feeds": [
       "https://github.com/markedjs/marked/releases.atom"
@@ -791,12 +791,6 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/BetterTyped/hyper-fetch",
-    "feeds": [
-      "https://github.com/BetterTyped/hyper-fetch/releases.atom"
     ]
   },
   {
@@ -2048,6 +2042,12 @@
     ]
   },
   {
+    "url": "https://github.com/faker-js/faker",
+    "feeds": [
+      "https://github.com/faker-js/faker/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3030,12 +3030,6 @@
     ]
   },
   {
-    "url": "https://www.wantedly.com",
-    "feeds": [
-      "https://www.wantedly.com/stories/s/wantedly_engineers/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.webkit.org",
     "feeds": [
       "https://www.webkit.org/feed/",
@@ -3064,13 +3058,6 @@
     "feeds": [
       "https://yarnpkg.com/blog/rss.xml",
       "https://yarnpkg.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://yieldcode.blog",
-    "feeds": [
-      "https://www.yieldcode.blog/rss/feed.xml",
-      "https://www.yieldcode.blog/rss/feed.xml"
     ]
   },
   {
