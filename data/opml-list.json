@@ -1528,12 +1528,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/sa2knight/",
-    "feeds": [
-      "https://zenn.dev/sa2knight/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/morinokami/",
     "feeds": [
       "https://zenn.dev/morinokami/feed"
@@ -1639,6 +1633,12 @@
     "url": "https://zenn.dev/zawa_kyo/",
     "feeds": [
       "https://zenn.dev/zawa_kyo/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/sa2knight/",
+    "feeds": [
+      "https://zenn.dev/sa2knight/feed"
     ]
   },
   {
