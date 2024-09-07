@@ -739,37 +739,6 @@
   },
   {
     "count": 4,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "ReleaseNote",
-      "TypeScript",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
-      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
-    },
-    "rssUrl": "https://babeljs.io/blog/rss.xml"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -1058,6 +1027,19 @@
   },
   {
     "count": 3,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
+    },
+    "rssUrl": "https://babeljs.io/blog/rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/pixijs/pixijs",
     "tags": [
       "JavaScript",
@@ -1198,6 +1180,23 @@
       "title": "フロントエンドカンファレンス北海道 2024 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/yumemi_inc/articles/2024-08-25-frontend-conf-hokkaido-2024"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "ReleaseNote",
+      "TypeScript",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1458,22 +1457,6 @@
       "url": "https://v8.dev/blog/jspi-newapi"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/sa2knight/",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "article",
-      "npm",
-      "testing"
-    ],
-    "example": {
-      "title": "Vite は使ってないけど Jest を Vitest に移行する",
-      "url": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest"
-    },
-    "rssUrl": "https://zenn.dev/sa2knight/feed"
   },
   {
     "count": 2,
@@ -6893,6 +6876,20 @@
       "url": "https://zenn.dev/zawa_kyo/articles/d671e0935ae0c0"
     },
     "rssUrl": "https://zenn.dev/zawa_kyo/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/sa2knight/",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Vite は使ってないけど Jest を Vitest に移行する",
+      "url": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest"
+    },
+    "rssUrl": "https://zenn.dev/sa2knight/feed"
   },
   {
     "count": 1,
