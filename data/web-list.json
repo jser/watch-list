@@ -159,15 +159,15 @@
     }
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 129.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/129.0/releasenotes/"
+      "title": "Firefox 130.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/130.0/releasenotes/"
     }
   },
   {
@@ -265,6 +265,20 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
+    "count": 11,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "ESLint v9.10.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/09/eslint-v9.10.0-released/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
     "count": 10,
     "url": "https://nextjs.org",
     "tags": [
@@ -277,6 +291,22 @@
       "title": "Next.js 15 RC | Next.js",
       "url": "https://nextjs.org/blog/next-15-rc"
     }
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.47.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.47.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 10,
@@ -324,36 +354,6 @@
       "url": "https://www.youtube.com/playlist?list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 10,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "ESLint v9.9.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/08/eslint-v9.9.0-released/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.45.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.45.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 9,
@@ -912,6 +912,23 @@
   },
   {
     "count": 4,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "Vue",
+      "TypeScript",
+      "ReleaseNote",
+      "vite",
+      "document",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing Vue 3.5 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vue-3-5"
+    },
+    "rssUrl": "https://blog.vuejs.org/feed.rss"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
@@ -976,22 +993,6 @@
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://bytecodealliance.org",
-    "tags": [
-      "WebAssembly",
-      "article",
-      "ReleaseNote",
-      "JavaScript",
-      "news"
-    ],
-    "example": {
-      "title": "Bytecode Alliance — Welcoming Javy: A new hosted project",
-      "url": "https://bytecodealliance.org/articles/javy-hosted-project"
-    },
-    "rssUrl": "https://bytecodealliance.org/feed.xml"
   },
   {
     "count": 3,
@@ -1331,23 +1332,6 @@
   },
   {
     "count": 3,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "TypeScript",
-      "ReleaseNote",
-      "vite",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing VitePress 1.0 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vitepress-1.0"
-    },
-    "rssUrl": "https://blog.vuejs.org/feed.rss"
-  },
-  {
-    "count": 3,
     "url": "https://lea.verou.me",
     "tags": [
       "JavaScript",
@@ -1460,21 +1444,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/cloudflare/miniflare",
-    "tags": [
-      "cloudflare",
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · cloudflare/miniflare",
-      "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/cloudflare/miniflare/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/jasmine/jasmine",
     "tags": [
       "JavaScript",
@@ -1502,6 +1471,21 @@
       "url": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/"
     },
     "rssUrl": "https://css-tricks.com/feed/"
+  },
+  {
+    "count": 2,
+    "url": "https://bytecodealliance.org",
+    "tags": [
+      "WebAssembly",
+      "ReleaseNote",
+      "JavaScript",
+      "news"
+    ],
+    "example": {
+      "title": "Bytecode Alliance — Welcoming Javy: A new hosted project",
+      "url": "https://bytecodealliance.org/articles/javy-hosted-project"
+    },
+    "rssUrl": "https://bytecodealliance.org/feed.xml"
   },
   {
     "count": 2,
@@ -2270,35 +2254,6 @@
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     },
     "rssUrl": "https://zenn.dev/akfm/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/preactjs/signals",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "performance"
-    ],
-    "example": {
-      "title": "preactjs/signals",
-      "url": "https://github.com/preactjs/signals"
-    },
-    "rssUrl": "https://github.com/preactjs/signals/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nuxt/content",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.1.0 · nuxt/content",
-      "url": "https://github.com/nuxt/content/releases/tag/v2.1.0"
-    },
-    "rssUrl": "https://github.com/nuxt/content/releases.atom"
   },
   {
     "count": 1,
@@ -5286,6 +5241,20 @@
       "url": "https://kizu.dev/cyclic-toggles/"
     },
     "rssUrl": "https://feeds.feedburner.com/kizuruen"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/cloudflare/miniflare",
+    "tags": [
+      "cloudflare",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · cloudflare/miniflare",
+      "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/cloudflare/miniflare/releases.atom"
   },
   {
     "count": 1,
