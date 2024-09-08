@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/cloudflare/miniflare",
-    "feeds": [
-      "https://github.com/cloudflare/miniflare/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jasmine/jasmine",
     "feeds": [
       "https://github.com/jasmine/jasmine/releases.atom"
@@ -791,18 +785,6 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/preactjs/signals",
-    "feeds": [
-      "https://github.com/preactjs/signals/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nuxt/content",
-    "feeds": [
-      "https://github.com/nuxt/content/releases.atom"
     ]
   },
   {
@@ -1403,6 +1385,12 @@
     "url": "https://github.com/gvergnaud/ts-pattern",
     "feeds": [
       "https://github.com/gvergnaud/ts-pattern/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/cloudflare/miniflare",
+    "feeds": [
+      "https://github.com/cloudflare/miniflare/releases.atom"
     ]
   },
   {
