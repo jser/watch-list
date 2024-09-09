@@ -2036,6 +2036,12 @@
     ]
   },
   {
+    "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
