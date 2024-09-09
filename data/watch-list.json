@@ -21,7 +21,7 @@
     }
   },
   {
-    "count": 47,
+    "count": 48,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -34,11 +34,12 @@
       "yarn",
       "npm",
       "TypeScript",
-      "windows"
+      "windows",
+      "bum"
     ],
     "example": {
-      "title": "Bun v1.1.25 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.25"
+      "title": "Bun v1.1.27 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.27"
     }
   },
   {
@@ -508,6 +509,24 @@
   },
   {
     "count": 6,
+    "url": "https://vercel.com",
+    "tags": [
+      "Next.js",
+      "article",
+      "React",
+      "webservice",
+      "news",
+      "google",
+      "SEO",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "What’s new in React 19 – Vercel",
+      "url": "https://vercel.com/blog/whats-new-in-react-19"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -598,24 +617,6 @@
     "example": {
       "title": "State of Vite (ViteConf 2023) - Google スライド",
       "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://vercel.com",
-    "tags": [
-      "Next.js",
-      "article",
-      "React",
-      "webservice",
-      "news",
-      "google",
-      "SEO",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "How Google handles JavaScript throughout the indexing process – Vercel",
-      "url": "https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process"
     }
   },
   {
@@ -1569,6 +1570,20 @@
     "example": {
       "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
       "url": "https://dwango.github.io/articles/html-loading-attribute/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://www.debugbear.com",
+    "tags": [
+      "Image",
+      "performance",
+      "article",
+      "fonts"
+    ],
+    "example": {
+      "title": "The Ultimate Guide to Font Performance Optimization | DebugBear",
+      "url": "https://www.debugbear.com/blog/website-font-performance"
     }
   },
   {
@@ -2856,19 +2871,6 @@
       "url": "https://github.com/primus/eventemitter3/releases/tag/5.0.0"
     },
     "rssUrl": "https://github.com/primus/eventemitter3/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.debugbear.com",
-    "tags": [
-      "Image",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Image Formats for the Web | DebugBear",
-      "url": "https://www.debugbear.com/blog/image-formats"
-    }
   },
   {
     "count": 1,
@@ -9317,5 +9319,20 @@
       "url": "https://github.com/faker-js/faker/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/faker-js/faker/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file",
+    "tags": [
+      "accessibility",
+      "Firefox",
+      "Chrome",
+      "Extension"
+    ],
+    "example": {
+      "title": "ymrl/a11y-visualizer: A Browser Extension for Enhanced Web Accessibility Checking",
+      "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
   }
 ]
