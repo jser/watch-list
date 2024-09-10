@@ -1211,6 +1211,12 @@
     ]
   },
   {
+    "url": "https://web.dev",
+    "feeds": [
+      "https://web.dev/static/blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://webdriver.io",
     "feeds": [
       "https://webdriver.io/blog/rss.xml",

@@ -1,6 +1,6 @@
 [
   {
-    "count": 61,
+    "count": 60,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -93,13 +93,13 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://webkit.org",
     "tags": [
-      "webkit",
       "safari",
       "ReleaseNote",
       "serverless",
+      "webkit",
       "CSS",
       "アンケート",
       "article",
@@ -157,7 +157,8 @@
     "example": {
       "title": "Common misconceptions about how to optimize LCP  |  Blog  |  web.dev",
       "url": "https://web.dev/blog/common-misconceptions-lcp?hl=en"
-    }
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
     "count": 19,
@@ -281,20 +282,6 @@
   },
   {
     "count": 10,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "relre",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15 RC | Next.js",
-      "url": "https://nextjs.org/blog/next-15-rc"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -373,6 +360,20 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "relre",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15 RC | Next.js",
+      "url": "https://nextjs.org/blog/next-15-rc"
+    }
   },
   {
     "count": 9,
