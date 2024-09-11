@@ -69,7 +69,8 @@
     "example": {
       "title": "Chrome 129 beta  |  Blog  |  Chrome for Developers",
       "url": "https://developer.chrome.com/blog/chrome-129-beta?hl=en"
-    }
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 28,
@@ -3265,7 +3266,8 @@
     "example": {
       "title": "Gluon",
       "url": "https://gluonjs.org/"
-    }
+    },
+    "rssUrl": "https://gluonjs.org/index.xml"
   },
   {
     "count": 1,
