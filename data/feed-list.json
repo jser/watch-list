@@ -393,6 +393,12 @@
     ]
   },
   {
+    "url": "https://developer.chrome.com",
+    "feeds": [
+      "https://developer.chrome.com/static/blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://developer.mozilla.org",
     "feeds": [
       "https://developer.mozilla.org/en-US/blog/rss.xml"
@@ -2045,6 +2051,12 @@
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://gluonjs.org",
+    "feeds": [
+      "https://gluonjs.org/index.xml"
     ]
   },
   {
