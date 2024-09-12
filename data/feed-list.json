@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/jasmine/jasmine",
-    "feeds": [
-      "https://github.com/jasmine/jasmine/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/parcel-bundler/lightningcss",
     "feeds": [
       "https://github.com/parcel-bundler/lightningcss/releases.atom"
@@ -791,24 +785,6 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/hand-dot/react-inspector",
-    "feeds": [
-      "https://github.com/hand-dot/react-inspector/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/frameable/el",
-    "feeds": [
-      "https://github.com/frameable/el/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/AlexeyBoiko/DgrmJS",
-    "feeds": [
-      "https://github.com/AlexeyBoiko/DgrmJS/releases.atom"
     ]
   },
   {
@@ -1313,6 +1289,12 @@
     "url": "https://github.com/vadimdemedes/ink-ui",
     "feeds": [
       "https://github.com/vadimdemedes/ink-ui/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jasmine/jasmine",
+    "feeds": [
+      "https://github.com/jasmine/jasmine/releases.atom"
     ]
   },
   {

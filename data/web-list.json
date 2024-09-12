@@ -1447,21 +1447,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/jasmine/jasmine",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "jasmine/5.0.0.md at main · jasmine/jasmine · GitHub",
-      "url": "https://github.com/jasmine/jasmine/blob/main/release_notes/5.0.0.md"
-    },
-    "rssUrl": "https://github.com/jasmine/jasmine/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://css-tricks.com",
     "tags": [
       "JavaScript",
@@ -2272,61 +2257,6 @@
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     },
     "rssUrl": "https://zenn.dev/akfm/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/hand-dot/react-inspector",
-    "tags": [
-      "React",
-      "debug",
-      "Tools"
-    ],
-    "example": {
-      "title": "hand-dot/react-inspector: Easily detect React components source code from Chrome!",
-      "url": "https://github.com/hand-dot/react-inspector"
-    },
-    "rssUrl": "https://github.com/hand-dot/react-inspector/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://gradejs.com",
-    "tags": [
-      "webpack",
-      "Tools",
-      "webservice"
-    ],
-    "example": {
-      "title": "GradeJS | Production Webpack Bundle Analyzer",
-      "url": "https://gradejs.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/frameable/el",
-    "tags": [
-      "WebComponents",
-      "library"
-    ],
-    "example": {
-      "title": "frameable/el: Minimal JavaScript application framework / WebComponents base class",
-      "url": "https://github.com/frameable/el"
-    },
-    "rssUrl": "https://github.com/frameable/el/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/AlexeyBoiko/DgrmJS",
-    "tags": [
-      "SVG",
-      "diagram",
-      "library",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "AlexeyBoiko/DgrmJS: DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM (Business Process Management) systems. Works on desktop and mobile, has no dependency, 3.5 KB gzipped.",
-      "url": "https://github.com/AlexeyBoiko/DgrmJS"
-    },
-    "rssUrl": "https://github.com/AlexeyBoiko/DgrmJS/releases.atom"
   },
   {
     "count": 1,
@@ -4894,6 +4824,21 @@
       "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539"
     },
     "rssUrl": "https://hub.packtpub.com/feed/"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jasmine/jasmine",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "jasmine/5.0.0.md at main · jasmine/jasmine · GitHub",
+      "url": "https://github.com/jasmine/jasmine/blob/main/release_notes/5.0.0.md"
+    },
+    "rssUrl": "https://github.com/jasmine/jasmine/releases.atom"
   },
   {
     "count": 1,
