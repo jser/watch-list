@@ -113,7 +113,6 @@
 <outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
-<outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
 <outline text="github.com/parcel-bundler/lightningcss" title="github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>
 <outline text="github.com/facebook/flow" title="github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
 <outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
@@ -133,9 +132,6 @@
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
-<outline text="github.com/hand-dot/react-inspector" title="github.com/hand-dot/react-inspector" type="rss" xmlUrl="https://github.com/hand-dot/react-inspector/releases.atom"/>
-<outline text="github.com/frameable/el" title="github.com/frameable/el" type="rss" xmlUrl="https://github.com/frameable/el/releases.atom"/>
-<outline text="github.com/AlexeyBoiko/DgrmJS" title="github.com/AlexeyBoiko/DgrmJS" type="rss" xmlUrl="https://github.com/AlexeyBoiko/DgrmJS/releases.atom"/>
 <outline text="github.com/facebookincubator/memlab" title="github.com/facebookincubator/memlab" type="rss" xmlUrl="https://github.com/facebookincubator/memlab/releases.atom"/>
 <outline text="github.com/skovhus/jest-codemods" title="github.com/skovhus/jest-codemods" type="rss" xmlUrl="https://github.com/skovhus/jest-codemods/releases.atom"/>
 <outline text="github.com/TypeStrong/ts-loader" title="github.com/TypeStrong/ts-loader" type="rss" xmlUrl="https://github.com/TypeStrong/ts-loader/releases.atom"/>
@@ -220,6 +216,7 @@
 <outline text="github.com/SBoudrias/Inquirer.js" title="github.com/SBoudrias/Inquirer.js" type="rss" xmlUrl="https://github.com/SBoudrias/Inquirer.js/releases.atom"/>
 <outline text="github.com/natemoo-re/ultramatter" title="github.com/natemoo-re/ultramatter" type="rss" xmlUrl="https://github.com/natemoo-re/ultramatter/releases.atom"/>
 <outline text="github.com/vadimdemedes/ink-ui" title="github.com/vadimdemedes/ink-ui" type="rss" xmlUrl="https://github.com/vadimdemedes/ink-ui/releases.atom"/>
+<outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
 <outline text="github.com/microsoft/deoptexplorer-vscode" title="github.com/microsoft/deoptexplorer-vscode" type="rss" xmlUrl="https://github.com/microsoft/deoptexplorer-vscode/releases.atom"/>
 <outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
 <outline text="github.com/microsoft/TypeScript" title="github.com/microsoft/TypeScript" type="rss" xmlUrl="https://github.com/microsoft/TypeScript/releases.atom"/>
