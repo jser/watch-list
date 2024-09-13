@@ -91,12 +91,27 @@
   },
   {
     "count": 26,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.6 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
+    }
+  },
+  {
+    "count": 25,
     "url": "https://webkit.org",
     "tags": [
       "safari",
-      "ReleaseNote",
       "serverless",
       "webkit",
+      "ReleaseNote",
       "CSS",
       "アンケート",
       "article",
@@ -109,21 +124,6 @@
     "example": {
       "title": "Release Notes for Safari Technology Preview 202 | WebKit",
       "url": "https://webkit.org/blog/15798/release-notes-for-safari-technology-preview-202/"
-    }
-  },
-  {
-    "count": 25,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.6 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-rc/"
     }
   },
   {
@@ -579,6 +579,22 @@
     }
   },
   {
+    "count": 6,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "news",
+      "Rust",
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Biome v1.9 Anniversary Release | Biome",
+      "url": "https://biomejs.dev/blog/biome-v1-9/"
+    }
+  },
+  {
     "count": 5,
     "url": "https://www.builder.io",
     "tags": [
@@ -696,35 +712,6 @@
       "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
       "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
     }
-  },
-  {
-    "count": 5,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "news",
-      "Rust",
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Biome v1.7 | Biome",
-      "url": "https://biomejs.dev/blog/biome-v1-7/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 4,
@@ -1198,6 +1185,19 @@
       "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
       "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 3,
@@ -2181,21 +2181,6 @@
       "title": "Next.jsの考え方",
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebookincubator/memlab",
-    "tags": [
-      "JavaScript",
-      "debug",
-      "Tools",
-      "puppeteer"
-    ],
-    "example": {
-      "title": "facebookincubator/memlab: A testing framework for finding JavaScript memory leaks and analyzing heap snapshots",
-      "url": "https://github.com/facebookincubator/memlab"
-    },
-    "rssUrl": "https://github.com/facebookincubator/memlab/releases.atom"
   },
   {
     "count": 1,
