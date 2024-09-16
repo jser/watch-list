@@ -833,6 +833,12 @@
     ]
   },
   {
+    "url": "https://philipwalton.com",
+    "feeds": [
+      "https://feeds.feedburner.com/philipwalton"
+    ]
+  },
+  {
     "url": "https://postd.cc",
     "feeds": [
       "https://postd.cc/feed/"

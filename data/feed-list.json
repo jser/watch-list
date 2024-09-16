@@ -716,6 +716,12 @@
     ]
   },
   {
+    "url": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -785,6 +791,12 @@
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
     ]
   },
   {
@@ -1121,12 +1133,6 @@
     "url": "https://github.com/open-draft/event-contract",
     "feeds": [
       "https://github.com/open-draft/event-contract/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/storybookjs/storybook",
-    "feeds": [
-      "https://github.com/storybookjs/storybook/releases.atom"
     ]
   },
   {
@@ -1784,12 +1790,6 @@
     ]
   },
   {
-    "url": "https://github.com/expressjs/express",
-    "feeds": [
-      "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
     "feeds": [
       "https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"
@@ -2021,6 +2021,12 @@
     "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file",
     "feeds": [
       "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jimp-dev/jimp",
+    "feeds": [
+      "https://github.com/jimp-dev/jimp/releases.atom"
     ]
   },
   {
@@ -2330,6 +2336,12 @@
     "url": "https://pawelgrzybek.com",
     "feeds": [
       "https://pawelgrzybek.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://philipwalton.com",
+    "feeds": [
+      "https://feeds.feedburner.com/philipwalton"
     ]
   },
   {
