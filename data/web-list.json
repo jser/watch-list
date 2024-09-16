@@ -347,6 +347,33 @@
   },
   {
     "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "ReleaseNote",
+      "C++",
+      "puppeteer",
+      "article",
+      "node.js",
+      "console",
+      "Tools",
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test"
+    ],
+    "example": {
+      "title": "More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs",
+      "url": "https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -393,33 +420,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "ReleaseNote",
-      "C++",
-      "puppeteer",
-      "article",
-      "node.js",
-      "console",
-      "Tools",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test"
-    ],
-    "example": {
-      "title": "Improved Cloudflare Workers testing via Vitest and workerd",
-      "url": "https://blog.cloudflare.com/workers-vitest-integration/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -1402,6 +1402,22 @@
   },
   {
     "count": 3,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "React",
+      "article",
+      "Next.js",
+      "CSS",
+      "css "
+    ],
+    "example": {
+      "title": "The Undeniable Utility Of CSS :has • Josh W. Comeau",
+      "url": "https://www.joshwcomeau.com/css/has/"
+    },
+    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://learning.oreilly.com",
     "tags": [
       "nodejs",
@@ -1834,6 +1850,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/storybookjs/storybook",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "Tools",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "storybook/CHANGELOG.md at next · storybookjs/storybook",
+      "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#830"
+    },
+    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/solidjs/solid",
     "tags": [
       "JavaScript",
@@ -2075,21 +2107,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "React",
-      "article",
-      "Next.js",
-      "CSS"
-    ],
-    "example": {
-      "title": "CSS in React Server Components",
-      "url": "https://www.joshwcomeau.com/react/css-in-rsc/"
-    },
-    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
-  },
-  {
-    "count": 2,
     "url": "https://lit.dev",
     "tags": [
       "JavaScript",
@@ -2243,6 +2260,20 @@
       "url": "https://ishadeed.com/article/css-grid-area/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/expressjs/express",
+    "tags": [
+      "express",
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 5.0.0 · expressjs/express",
+      "url": "https://github.com/expressjs/express/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/expressjs/express/releases.atom"
   },
   {
     "count": 2,
@@ -4063,21 +4094,6 @@
       "url": "https://github.com/open-draft/event-contract"
     },
     "rssUrl": "https://github.com/open-draft/event-contract/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/storybookjs/storybook",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v7.0.0-rc.0 · storybookjs/storybook",
-      "url": "https://github.com/storybookjs/storybook/releases/tag/v7.0.0-rc.0"
-    },
-    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
   },
   {
     "count": 1,
@@ -7665,20 +7681,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/expressjs/express",
-    "tags": [
-      "express",
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 4.18.3 · expressjs/express",
-      "url": "https://github.com/expressjs/express/releases/tag/4.18.3"
-    },
-    "rssUrl": "https://github.com/expressjs/express/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
     "tags": [
       "browser",
@@ -9530,5 +9532,33 @@
       "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jimp-dev/jimp",
+    "tags": [
+      "nodejs",
+      "Image",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.0.2 · jimp-dev/jimp",
+      "url": "https://github.com/jimp-dev/jimp/releases/tag/v1.0.2"
+    },
+    "rssUrl": "https://github.com/jimp-dev/jimp/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://philipwalton.com",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "The State of ES5 on the Web — Philip Walton",
+      "url": "https://philipwalton.com/articles/the-state-of-es5-on-the-web/"
+    },
+    "rssUrl": "https://feeds.feedburner.com/philipwalton"
   }
 ]
