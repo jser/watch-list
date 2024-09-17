@@ -1175,6 +1175,22 @@
   },
   {
     "count": 3,
+    "url": "https://www.debugbear.com",
+    "tags": [
+      "Image",
+      "performance",
+      "article",
+      "fonts",
+      "Chrome"
+    ],
+    "example": {
+      "title": "Brand New Performance Features in Chrome DevTools | DebugBear",
+      "url": "https://www.debugbear.com/blog/fix-web-performance-devtools"
+    },
+    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -1626,21 +1642,6 @@
       "url": "https://dwango.github.io/articles/html-loading-attribute/"
     },
     "rssUrl": "https://dwango.github.io/index.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://www.debugbear.com",
-    "tags": [
-      "Image",
-      "performance",
-      "article",
-      "fonts"
-    ],
-    "example": {
-      "title": "The Ultimate Guide to Font Performance Optimization | DebugBear",
-      "url": "https://www.debugbear.com/blog/website-font-performance"
-    },
-    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 2,
@@ -9560,5 +9561,20 @@
       "url": "https://philipwalton.com/articles/the-state-of-es5-on-the-web/"
     },
     "rssUrl": "https://feeds.feedburner.com/philipwalton"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/govuk-vue/govuk-vue",
+    "tags": [
+      "Vue",
+      "Design",
+      "UI",
+      "library"
+    ],
+    "example": {
+      "title": "govuk-vue/govuk-vue: A Vue 3 component library for GOV.UK Frontend and the GOV.UK Design System",
+      "url": "https://github.com/govuk-vue/govuk-vue"
+    },
+    "rssUrl": "https://github.com/govuk-vue/govuk-vue/releases.atom"
   }
 ]

@@ -2030,6 +2030,12 @@
     ]
   },
   {
+    "url": "https://github.com/govuk-vue/govuk-vue",
+    "feeds": [
+      "https://github.com/govuk-vue/govuk-vue/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
