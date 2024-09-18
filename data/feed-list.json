@@ -788,6 +788,12 @@
     ]
   },
   {
+    "url": "https://github.com/date-fns/date-fns",
+    "feeds": [
+      "https://github.com/date-fns/date-fns/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
@@ -1685,12 +1691,6 @@
     "url": "https://github.com/BuilderIO/hydration-overlay",
     "feeds": [
       "https://github.com/BuilderIO/hydration-overlay/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/date-fns/date-fns",
-    "feeds": [
-      "https://github.com/date-fns/date-fns/releases.atom"
     ]
   },
   {

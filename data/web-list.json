@@ -743,21 +743,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "TypeScript",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ember 5.0 Released",
-      "url": "https://blog.emberjs.com/ember-5-0-released/"
-    },
-    "rssUrl": "https://blog.emberjs.com/rss.xml"
-  },
-  {
-    "count": 4,
     "url": "https://rome.tools",
     "tags": [
       "JavaScript",
@@ -1188,6 +1173,20 @@
       "url": "https://www.debugbear.com/blog/fix-web-performance-devtools"
     },
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Ember 5.0 Released",
+      "url": "https://blog.emberjs.com/ember-5-0-released/"
+    },
+    "rssUrl": "https://blog.emberjs.com/rss.xml"
   },
   {
     "count": 3,
@@ -2216,6 +2215,20 @@
       "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
     },
     "rssUrl": "https://scrapbox.io/api/feed/yamanoku"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/date-fns/date-fns",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · date-fns/date-fns",
+      "url": "https://github.com/date-fns/date-fns/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/date-fns/date-fns/releases.atom"
   },
   {
     "count": 2,
@@ -6907,20 +6920,6 @@
       "title": "Movies App",
       "url": "https://tastejs.com/movies/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/date-fns/date-fns",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · date-fns/date-fns",
-      "url": "https://github.com/date-fns/date-fns/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/date-fns/date-fns/releases.atom"
   },
   {
     "count": 1,
