@@ -132,6 +132,7 @@
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
+<outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/skovhus/jest-codemods" title="github.com/skovhus/jest-codemods" type="rss" xmlUrl="https://github.com/skovhus/jest-codemods/releases.atom"/>
@@ -282,7 +283,6 @@
 <outline text="github.com/facebook/stylex" title="github.com/facebook/stylex" type="rss" xmlUrl="https://github.com/facebook/stylex/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
 <outline text="github.com/BuilderIO/hydration-overlay" title="github.com/BuilderIO/hydration-overlay" type="rss" xmlUrl="https://github.com/BuilderIO/hydration-overlay/releases.atom"/>
-<outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/webui-dev/webui" title="github.com/webui-dev/webui" type="rss" xmlUrl="https://github.com/webui-dev/webui/releases.atom"/>
 <outline text="github.com/moment/moment" title="github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
 <outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
