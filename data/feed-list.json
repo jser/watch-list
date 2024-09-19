@@ -806,12 +806,6 @@
     ]
   },
   {
-    "url": "https://github.com/skovhus/jest-codemods",
-    "feeds": [
-      "https://github.com/skovhus/jest-codemods/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/TypeStrong/ts-loader",
     "feeds": [
       "https://github.com/TypeStrong/ts-loader/releases.atom"

@@ -135,7 +135,6 @@
 <outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
-<outline text="github.com/skovhus/jest-codemods" title="github.com/skovhus/jest-codemods" type="rss" xmlUrl="https://github.com/skovhus/jest-codemods/releases.atom"/>
 <outline text="github.com/TypeStrong/ts-loader" title="github.com/TypeStrong/ts-loader" type="rss" xmlUrl="https://github.com/TypeStrong/ts-loader/releases.atom"/>
 <outline text="github.com/lost-pixel/lost-pixel" title="github.com/lost-pixel/lost-pixel" type="rss" xmlUrl="https://github.com/lost-pixel/lost-pixel/releases.atom"/>
 <outline text="github.com/ts-safeql/safeql" title="github.com/ts-safeql/safeql" type="rss" xmlUrl="https://github.com/ts-safeql/safeql/releases.atom"/>
