@@ -1,6 +1,6 @@
 [
   {
-    "count": 60,
+    "count": 61,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,8 +16,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.8.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v22.8.0"
+      "title": "Node.js — Node v22.9.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v22.9.0"
     }
   },
   {
@@ -2227,21 +2227,6 @@
       "title": "Next.jsの考え方",
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/skovhus/jest-codemods",
-    "tags": [
-      "jest",
-      "JavaScript",
-      "testing",
-      "Tools"
-    ],
-    "example": {
-      "title": "skovhus/jest-codemods: Codemods for migrating to Jest https://github.com/facebook/jest 👾",
-      "url": "https://github.com/skovhus/jest-codemods"
-    },
-    "rssUrl": "https://github.com/skovhus/jest-codemods/releases.atom"
   },
   {
     "count": 1,
