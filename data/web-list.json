@@ -2306,20 +2306,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/TypeStrong/ts-loader",
-    "tags": [
-      "TypeScript",
-      "webpack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.4.0 · TypeStrong/ts-loader",
-      "url": "https://github.com/TypeStrong/ts-loader/releases/tag/v9.4.0"
-    },
-    "rssUrl": "https://github.com/TypeStrong/ts-loader/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/lost-pixel/lost-pixel",
     "tags": [
       "JavaScript",
@@ -9560,5 +9546,20 @@
       "url": "https://github.com/govuk-vue/govuk-vue"
     },
     "rssUrl": "https://github.com/govuk-vue/govuk-vue/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/fastify/fastify",
+    "tags": [
+      "nodejs",
+      "server",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.0.0 · fastify/fastify",
+      "url": "https://github.com/fastify/fastify/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/fastify/fastify/releases.atom"
   }
 ]
