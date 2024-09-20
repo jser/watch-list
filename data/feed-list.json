@@ -806,12 +806,6 @@
     ]
   },
   {
-    "url": "https://github.com/TypeStrong/ts-loader",
-    "feeds": [
-      "https://github.com/TypeStrong/ts-loader/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lost-pixel/lost-pixel",
     "feeds": [
       "https://github.com/lost-pixel/lost-pixel/releases.atom"
@@ -2027,6 +2021,12 @@
     "url": "https://github.com/govuk-vue/govuk-vue",
     "feeds": [
       "https://github.com/govuk-vue/govuk-vue/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/fastify/fastify",
+    "feeds": [
+      "https://github.com/fastify/fastify/releases.atom"
     ]
   },
   {
