@@ -135,11 +135,6 @@
 <outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
-<outline text="github.com/lost-pixel/lost-pixel" title="github.com/lost-pixel/lost-pixel" type="rss" xmlUrl="https://github.com/lost-pixel/lost-pixel/releases.atom"/>
-<outline text="github.com/ts-safeql/safeql" title="github.com/ts-safeql/safeql" type="rss" xmlUrl="https://github.com/ts-safeql/safeql/releases.atom"/>
-<outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
-<outline text="github.com/anonrig/fast-querystring" title="github.com/anonrig/fast-querystring" type="rss" xmlUrl="https://github.com/anonrig/fast-querystring/releases.atom"/>
-<outline text="github.com/tokencss/tokencss" title="github.com/tokencss/tokencss" type="rss" xmlUrl="https://github.com/tokencss/tokencss/releases.atom"/>
 <outline text="github.com/gioboa/vite-module-federation" title="github.com/gioboa/vite-module-federation" type="rss" xmlUrl="https://github.com/gioboa/vite-module-federation/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
 <outline text="github.com/facebook/lexical" title="github.com/facebook/lexical" type="rss" xmlUrl="https://github.com/facebook/lexical/releases.atom"/>

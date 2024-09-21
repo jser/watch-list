@@ -806,36 +806,6 @@
     ]
   },
   {
-    "url": "https://github.com/lost-pixel/lost-pixel",
-    "feeds": [
-      "https://github.com/lost-pixel/lost-pixel/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ts-safeql/safeql",
-    "feeds": [
-      "https://github.com/ts-safeql/safeql/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tinylibs/tinybench",
-    "feeds": [
-      "https://github.com/tinylibs/tinybench/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/anonrig/fast-querystring",
-    "feeds": [
-      "https://github.com/anonrig/fast-querystring/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tokencss/tokencss",
-    "feeds": [
-      "https://github.com/tokencss/tokencss/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/gioboa/vite-module-federation",
     "feeds": [
       "https://github.com/gioboa/vite-module-federation/releases.atom"
