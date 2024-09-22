@@ -284,22 +284,6 @@
   },
   {
     "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.47.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.47.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 10,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -371,6 +355,22 @@
       "url": "https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.47.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.47.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 9,
@@ -1472,37 +1472,6 @@
       "url": "https://v8.dev/blog/jspi-newapi"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://bytecodealliance.org",
-    "tags": [
-      "WebAssembly",
-      "ReleaseNote",
-      "JavaScript",
-      "news"
-    ],
-    "example": {
-      "title": "Bytecode Alliance — Welcoming Javy: A new hosted project",
-      "url": "https://bytecodealliance.org/articles/javy-hosted-project"
-    },
-    "rssUrl": "https://bytecodealliance.org/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/parcel-bundler/lightningcss",
-    "tags": [
-      "Rust",
-      "CSS",
-      "library",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.24.0 · parcel-bundler/lightningcss",
-      "url": "https://github.com/parcel-bundler/lightningcss/releases/tag/v1.24.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/lightningcss/releases.atom"
   },
   {
     "count": 2,
@@ -5245,6 +5214,20 @@
   },
   {
     "count": 1,
+    "url": "https://bytecodealliance.org",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "news"
+    ],
+    "example": {
+      "title": "Bytecode Alliance — Welcoming Javy: A new hosted project",
+      "url": "https://bytecodealliance.org/articles/javy-hosted-project"
+    },
+    "rssUrl": "https://bytecodealliance.org/feed.xml"
+  },
+  {
+    "count": 1,
     "url": "https://scroll-driven-animations.style",
     "tags": [
       "JavaScript",
@@ -7462,6 +7445,20 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/parcel-bundler/lightningcss",
+    "tags": [
+      "CSS",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.24.0 · parcel-bundler/lightningcss",
+      "url": "https://github.com/parcel-bundler/lightningcss/releases/tag/v1.24.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/lightningcss/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/fabiospampinato/fast-string-width",
     "tags": [
       "JavaScript",
@@ -9480,5 +9477,19 @@
       "url": "https://github.com/fastify/fastify/releases/tag/v5.0.0"
     },
     "rssUrl": "https://github.com/fastify/fastify/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/bloomberg/ts-blank-space",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "library"
+    ],
+    "example": {
+      "title": "bloomberg/ts-blank-space: A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.",
+      "url": "https://github.com/bloomberg/ts-blank-space"
+    },
+    "rssUrl": "https://github.com/bloomberg/ts-blank-space/releases.atom"
   }
 ]

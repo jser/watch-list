@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/parcel-bundler/lightningcss",
-    "feeds": [
-      "https://github.com/parcel-bundler/lightningcss/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/flow",
     "feeds": [
       "https://github.com/facebook/flow/releases.atom"
@@ -1730,6 +1724,12 @@
     ]
   },
   {
+    "url": "https://github.com/parcel-bundler/lightningcss",
+    "feeds": [
+      "https://github.com/parcel-bundler/lightningcss/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/fabiospampinato/fast-string-width",
     "feeds": [
       "https://github.com/fabiospampinato/fast-string-width/releases.atom"
@@ -1997,6 +1997,12 @@
     "url": "https://github.com/fastify/fastify",
     "feeds": [
       "https://github.com/fastify/fastify/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/bloomberg/ts-blank-space",
+    "feeds": [
+      "https://github.com/bloomberg/ts-blank-space/releases.atom"
     ]
   },
   {
