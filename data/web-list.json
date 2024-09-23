@@ -73,7 +73,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 28,
+    "count": 29,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -88,8 +88,8 @@
       "npm"
     ],
     "example": {
-      "title": "Deno 1.46: The Last 1.x Release",
-      "url": "https://deno.com/blog/v1.46"
+      "title": "Deno 2.0 Release Candidate",
+      "url": "https://deno.com/blog/v2.0-release-candidate"
     },
     "rssUrl": "https://deno.com/feed"
   },
@@ -174,7 +174,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 18,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -186,8 +186,8 @@
       "article"
     ],
     "example": {
-      "title": "Astro 4.12: Server Islands | Astro",
-      "url": "https://astro.build/blog/astro-4120/"
+      "title": "Astro 5.0 Beta Release | Astro",
+      "url": "https://astro.build/blog/astro-5-beta/"
     },
     "rssUrl": "https://astro.build/rss.xml"
   },
@@ -206,7 +206,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -217,8 +217,8 @@
       "esbuild"
     ],
     "example": {
-      "title": "Release v0.22.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.22.0"
+      "title": "Release v0.24.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.24.0"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
@@ -235,6 +235,22 @@
       "url": "https://www.electronjs.org/blog/electron-32-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.6.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 12,
@@ -265,22 +281,6 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2024/08/06/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 11,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.4.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.4.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 10,
@@ -9491,5 +9491,44 @@
       "url": "https://github.com/bloomberg/ts-blank-space"
     },
     "rssUrl": "https://github.com/bloomberg/ts-blank-space/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/line/ts-remove-unused",
+    "tags": [
+      "TypeScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "line/ts-remove-unused: Remove unused code from your TypeScript project",
+      "url": "https://github.com/line/ts-remove-unused"
+    },
+    "rssUrl": "https://github.com/line/ts-remove-unused/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://novajs.co",
+    "tags": [
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "Nova.js - A collection of dependency-free React hooks",
+      "url": "https://novajs.co/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/paulmillr/chokidar",
+    "tags": [
+      "nodejs",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 4.0.0 · paulmillr/chokidar",
+      "url": "https://github.com/paulmillr/chokidar/releases/tag/4.0.0"
+    },
+    "rssUrl": "https://github.com/paulmillr/chokidar/releases.atom"
   }
 ]
