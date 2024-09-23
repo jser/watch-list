@@ -2006,6 +2006,18 @@
     ]
   },
   {
+    "url": "https://github.com/line/ts-remove-unused",
+    "feeds": [
+      "https://github.com/line/ts-remove-unused/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/paulmillr/chokidar",
+    "feeds": [
+      "https://github.com/paulmillr/chokidar/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
