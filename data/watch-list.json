@@ -43,7 +43,7 @@
     }
   },
   {
-    "count": 44,
+    "count": 45,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -65,8 +65,8 @@
       "Firefox"
     ],
     "example": {
-      "title": "Chrome 129 beta  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-129-beta?hl=en"
+      "title": "Request for developer feedback: customizable select  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/rfc-customizable-select"
     }
   },
   {
@@ -105,7 +105,7 @@
     }
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -122,8 +122,8 @@
       "privacy"
     ],
     "example": {
-      "title": "Release Notes for Safari Technology Preview 202 | WebKit",
-      "url": "https://webkit.org/blog/15798/release-notes-for-safari-technology-preview-202/"
+      "title": "WebKit Features in Safari 18.0 | WebKit",
+      "url": "https://webkit.org/blog/15865/webkit-features-in-safari-18-0/"
     }
   },
   {
@@ -883,6 +883,23 @@
   },
   {
     "count": 4,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "HTML",
+      "CSS",
+      "book",
+      "DOM",
+      "performance"
+    ],
+    "example": {
+      "title": "Introducing TanStack Router – Frontend Masters Boost",
+      "url": "https://frontendmasters.com/blog/introducing-tanstack-router/"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
@@ -1346,23 +1363,6 @@
       "url": "https://github.com/prisma/prisma/releases/tag/5.19.0"
     },
     "rssUrl": "https://github.com/prisma/prisma/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "CSS",
-      "book",
-      "DOM",
-      "performance"
-    ],
-    "example": {
-      "title": "Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript – Frontend Masters Boost",
-      "url": "https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/"
-    }
   },
   {
     "count": 3,
@@ -2181,17 +2181,18 @@
     }
   },
   {
-    "count": 1,
-    "url": "https://github.com/gioboa/vite-module-federation",
+    "count": 2,
+    "url": "https://kettanaito.com",
     "tags": [
-      "vite",
-      "plugin"
+      "Fetch",
+      "JavaScript",
+      "article",
+      "opinion"
     ],
     "example": {
-      "title": "gioboa/vite-module-federation: Module Federation with Vite now is possible",
-      "url": "https://github.com/gioboa/vite-module-federation"
-    },
-    "rssUrl": "https://github.com/gioboa/vite-module-federation/releases.atom"
+      "title": "Don't Sleep on AbortController - kettanaito.com",
+      "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller"
+    }
   },
   {
     "count": 1,
@@ -8065,20 +8066,6 @@
       "url": "https://github.com/jasonkuhrt/graphql-request/releases/tag/7.0.0"
     },
     "rssUrl": "https://github.com/jasonkuhrt/graphql-request/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://kettanaito.com",
-    "tags": [
-      "Fetch",
-      "JavaScript",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Why Patching Globals Is Harmful - kettanaito.com",
-      "url": "https://kettanaito.com/blog/why-patching-globals-is-harmful"
-    }
   },
   {
     "count": 1,
