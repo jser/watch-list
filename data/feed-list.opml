@@ -134,7 +134,6 @@
 <outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
-<outline text="github.com/gioboa/vite-module-federation" title="github.com/gioboa/vite-module-federation" type="rss" xmlUrl="https://github.com/gioboa/vite-module-federation/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
 <outline text="github.com/facebook/lexical" title="github.com/facebook/lexical" type="rss" xmlUrl="https://github.com/facebook/lexical/releases.atom"/>
 <outline text="github.com/mozilla/pdf.js" title="github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>

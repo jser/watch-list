@@ -800,12 +800,6 @@
     ]
   },
   {
-    "url": "https://github.com/gioboa/vite-module-federation",
-    "feeds": [
-      "https://github.com/gioboa/vite-module-federation/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/actions/setup-node",
     "feeds": [
       "https://github.com/actions/setup-node/releases.atom"
