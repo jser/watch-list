@@ -1,12 +1,12 @@
 [
   {
-    "count": 61,
+    "count": 60,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
       "ReleaseNote",
-      "security",
       "seuc",
+      "security",
       "document",
       "npm",
       "news",
@@ -91,21 +91,6 @@
   },
   {
     "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.6 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
-    }
-  },
-  {
-    "count": 26,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -124,6 +109,21 @@
     "example": {
       "title": "WebKit Features in Safari 18.0 | WebKit",
       "url": "https://webkit.org/blog/15865/webkit-features-in-safari-18-0/"
+    }
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.6 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
     }
   },
   {
@@ -492,24 +492,6 @@
   },
   {
     "count": 6,
-    "url": "https://vercel.com",
-    "tags": [
-      "Next.js",
-      "article",
-      "React",
-      "webservice",
-      "news",
-      "google",
-      "SEO",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "What’s new in React 19 – Vercel",
-      "url": "https://vercel.com/blog/whats-new-in-react-19"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -650,6 +632,24 @@
     "example": {
       "title": "Svelte 5 Release Candidate",
       "url": "https://svelte.dev/blog/svelte-5-release-candidate"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://vercel.com",
+    "tags": [
+      "React",
+      "Next.js",
+      "article",
+      "webservice",
+      "news",
+      "google",
+      "SEO",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "What’s new in React 19 – Vercel",
+      "url": "https://vercel.com/blog/whats-new-in-react-19"
     }
   },
   {
@@ -1422,22 +1422,6 @@
     "example": {
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://japa.dev",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "testing",
-      "library",
-      "nodejs",
-      "Tools"
-    ],
-    "example": {
-      "title": "Japa",
-      "url": "https://japa.dev/docs/introduction"
     }
   },
   {
@@ -6003,6 +5987,21 @@
     "example": {
       "title": "The Hidden Performance Cost of NodeJS and GraphQL",
       "url": "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://japa.dev",
+    "tags": [
+      "JavaScript",
+      "nodejs",
+      "testing",
+      "library",
+      "Tools"
+    ],
+    "example": {
+      "title": "Japa",
+      "url": "https://japa.dev/docs/introduction"
     }
   },
   {
