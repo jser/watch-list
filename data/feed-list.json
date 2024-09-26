@@ -650,6 +650,12 @@
     ]
   },
   {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
@@ -713,12 +719,6 @@
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/solidjs/solid",
-    "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
@@ -2009,6 +2009,12 @@
     "url": "https://github.com/paulmillr/chokidar",
     "feeds": [
       "https://github.com/paulmillr/chokidar/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/unjs/jiti",
+    "feeds": [
+      "https://github.com/unjs/jiti/releases.atom"
     ]
   },
   {
