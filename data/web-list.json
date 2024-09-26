@@ -1319,6 +1319,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/solidjs/solid",
+    "tags": [
+      "JavaScript",
+      "React",
+      "ReleaseNote",
+      "Solid",
+      "library"
+    ],
+    "example": {
+      "title": "Release v1.9.0 - LGTM! · solidjs/solid",
+      "url": "https://github.com/solidjs/solid/releases/tag/v1.9.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/tc39/ecma262",
     "tags": [
       "ECMAScript",
@@ -1797,22 +1813,6 @@
       "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#830"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/solidjs/solid",
-    "tags": [
-      "JavaScript",
-      "React",
-      "ReleaseNote",
-      "Solid",
-      "library"
-    ],
-    "example": {
-      "title": "Release v1.8.0 - Bifröst · solidjs/solid",
-      "url": "https://github.com/solidjs/solid/releases/tag/v1.8.0"
-    },
-    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
   },
   {
     "count": 2,
@@ -9516,5 +9516,21 @@
       "url": "https://github.com/paulmillr/chokidar/releases/tag/4.0.0"
     },
     "rssUrl": "https://github.com/paulmillr/chokidar/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/unjs/jiti",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "library",
+      "TypeScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.0.0 · unjs/jiti",
+      "url": "https://github.com/unjs/jiti/releases/tag/v2.0.0"
+    },
+    "rssUrl": "https://github.com/unjs/jiti/releases.atom"
   }
 ]
