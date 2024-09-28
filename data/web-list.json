@@ -7135,7 +7135,8 @@
     "example": {
       "title": "The AHA Stack | AHA",
       "url": "https://ahastack.dev/"
-    }
+    },
+    "rssUrl": "https://ahastack.dev/rss.xml"
   },
   {
     "count": 1,
