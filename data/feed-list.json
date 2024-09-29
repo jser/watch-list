@@ -37,12 +37,6 @@
     ]
   },
   {
-    "url": "https://almanac.httparchive.org",
-    "feeds": [
-      "https://almanac.httparchive.org/en/rss.xml"
-    ]
-  },
-  {
     "url": "https://alttexthalloffame.org",
     "feeds": [
       "https://alttexthalloffame.org/en/feed/",
@@ -803,12 +797,6 @@
     "url": "https://github.com/expressjs/express",
     "feeds": [
       "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/actions/setup-node",
-    "feeds": [
-      "https://github.com/actions/setup-node/releases.atom"
     ]
   },
   {
@@ -2024,6 +2012,12 @@
     ]
   },
   {
+    "url": "https://github.com/mieszkosabo/tartak",
+    "feeds": [
+      "https://github.com/mieszkosabo/tartak/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2078,12 +2072,6 @@
     "url": "https://jrsinclair.com",
     "feeds": [
       "https://jrsinclair.com/index.rss"
-    ]
-  },
-  {
-    "url": "https://kaleidawave.github.io",
-    "feeds": [
-      "https://kaleidawave.github.io/feed.xml"
     ]
   },
   {
