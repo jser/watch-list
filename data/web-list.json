@@ -73,14 +73,13 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "V8",
-      "article",
       "ReleaseNote",
       "JavaScript",
+      "article",
       "library",
       "React",
       "denoe",
@@ -331,33 +330,6 @@
   },
   {
     "count": 9,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "ReleaseNote",
-      "C++",
-      "puppeteer",
-      "article",
-      "node.js",
-      "console",
-      "Tools",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test"
-    ],
-    "example": {
-      "title": "More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs",
-      "url": "https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 9,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -437,6 +409,32 @@
       "url": "https://nuxt.com/blog/v3-13"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "puppeteer",
+      "article",
+      "node.js",
+      "console",
+      "Tools",
+      "ReleaseNote",
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test"
+    ],
+    "example": {
+      "title": "More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs",
+      "url": "https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -633,6 +631,25 @@
   },
   {
     "count": 5,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "security",
+      "article",
+      "Github",
+      "news",
+      "nodejs",
+      "github",
+      "Actions"
+    ],
+    "example": {
+      "title": "End of life for Actions Node16 - GitHub Changelog",
+      "url": "https://github.blog/changelog/2024-09-25-end-of-life-for-actions-node16/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 5,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -731,22 +748,6 @@
       "title": "State of Vite (ViteConf 2023) - Google スライド",
       "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "security",
-      "article",
-      "Github",
-      "news"
-    ],
-    "example": {
-      "title": "npm provenance general availability - The GitHub Blog",
-      "url": "https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 4,
@@ -983,25 +984,6 @@
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://www.totaltypescript.com",
-    "tags": [
-      "TypeScript",
-      "tutorial",
-      "video",
-      "JavaScript",
-      "ECMAScript",
-      "proposal",
-      "article",
-      "React"
-    ],
-    "example": {
-      "title": "How to Pass a Component as a Prop in React | Total TypeScript",
-      "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
-    },
-    "rssUrl": "https://www.totaltypescript.com/rss.xml"
   },
   {
     "count": 3,
@@ -1995,6 +1977,23 @@
   },
   {
     "count": 2,
+    "url": "https://www.totaltypescript.com",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "ECMAScript",
+      "proposal",
+      "article",
+      "React"
+    ],
+    "example": {
+      "title": "How to Pass a Component as a Prop in React | Total TypeScript",
+      "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
+    },
+    "rssUrl": "https://www.totaltypescript.com/rss.xml"
+  },
+  {
+    "count": 2,
     "url": "https://module-federation.io",
     "tags": [
       "JavaScript",
@@ -2252,53 +2251,6 @@
       "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller"
     },
     "rssUrl": "https://kettanaito.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/actions/setup-node",
-    "tags": [
-      "Actions",
-      "node.js",
-      "ReleaseNote",
-      "Github"
-    ],
-    "example": {
-      "title": "Release Add support for engines.node and Volta · actions/setup-node",
-      "url": "https://github.com/actions/setup-node/releases/tag/v3.5.0"
-    },
-    "rssUrl": "https://github.com/actions/setup-node/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://kaleidawave.github.io",
-    "tags": [
-      "Rust",
-      "TypeScript",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Introducing Ezno",
-      "url": "https://kaleidawave.github.io/posts/introducing-ezno/"
-    },
-    "rssUrl": "https://kaleidawave.github.io/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://almanac.httparchive.org",
-    "tags": [
-      "web ",
-      "book",
-      "browser",
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "example": {
-      "title": "The 2022 Web Almanac",
-      "url": "https://almanac.httparchive.org/en/2022/"
-    },
-    "rssUrl": "https://almanac.httparchive.org/en/rss.xml"
   },
   {
     "count": 1,
@@ -9533,5 +9485,33 @@
       "url": "https://github.com/unjs/jiti/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/unjs/jiti/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/mieszkosabo/tartak",
+    "tags": [
+      "TypeScript",
+      "language",
+      "Tools"
+    ],
+    "example": {
+      "title": "mieszkosabo/tartak: Tartak is a functional programming language that compiles to TypeScript types.",
+      "url": "https://github.com/mieszkosabo/tartak"
+    },
+    "rssUrl": "https://github.com/mieszkosabo/tartak/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://opennext.js.org",
+    "tags": [
+      "Next.js",
+      "cloudflare",
+      "aws",
+      "library"
+    ],
+    "example": {
+      "title": "OpenNext - OpenNext",
+      "url": "https://opennext.js.org/"
+    }
   }
 ]

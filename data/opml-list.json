@@ -37,12 +37,6 @@
     ]
   },
   {
-    "url": "https://almanac.httparchive.org",
-    "feeds": [
-      "https://almanac.httparchive.org/en/rss.xml"
-    ]
-  },
-  {
     "url": "https://alttexthalloffame.org",
     "feeds": [
       "https://alttexthalloffame.org/en/feed/",
@@ -584,12 +578,6 @@
     "url": "https://jrsinclair.com",
     "feeds": [
       "https://jrsinclair.com/index.rss"
-    ]
-  },
-  {
-    "url": "https://kaleidawave.github.io",
-    "feeds": [
-      "https://kaleidawave.github.io/feed.xml"
     ]
   },
   {
