@@ -93,11 +93,26 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 26,
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.6 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 25,
     "url": "https://webkit.org",
     "tags": [
       "safari",
-      "serverless",
       "webkit",
       "ReleaseNote",
       "CSS",
@@ -116,32 +131,15 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 25,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.6 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
-    "count": 21,
+    "count": 20,
     "url": "https://web.dev",
     "tags": [
-      "HTML",
-      "tutorial",
       "Chrome",
       "browser",
       "performance",
       "article",
       "accessibility",
+      "tutorial",
       "Image",
       "privacy",
       "sourcemap",
@@ -152,6 +150,7 @@
       "testing",
       "nodejs",
       "WebPlatformAPI",
+      "HTML",
       "css "
     ],
     "example": {
@@ -1473,21 +1472,6 @@
   },
   {
     "count": 2,
-    "url": "https://exploringjs.com",
-    "tags": [
-      "node.js",
-      "book",
-      "ShellScript",
-      "JavaScript",
-      "ECMAScript"
-    ],
-    "example": {
-      "title": "Exploring JavaScript (ES2024 Edition)",
-      "url": "https://exploringjs.com/js/index.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://www.oreilly.com",
     "tags": [
       "React",
@@ -2251,37 +2235,6 @@
       "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller"
     },
     "rssUrl": "https://kettanaito.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/lexical",
-    "tags": [
-      "JavaScript",
-      "React",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v0.5.0 · facebook/lexical",
-      "url": "https://github.com/facebook/lexical/releases/tag/v0.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/lexical/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.docswell.com/user/ockeghem",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "XSS",
-      "SQL",
-      "security",
-      "slide"
-    ],
-    "example": {
-      "title": "SPAセキュリティ超入門 | ドクセル",
-      "url": "https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022"
-    },
-    "rssUrl": "https://www.docswell.com/user/ockeghem/feed"
   },
   {
     "count": 1,
@@ -8929,6 +8882,19 @@
   },
   {
     "count": 1,
+    "url": "https://exploringjs.com",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "book"
+    ],
+    "example": {
+      "title": "Exploring JavaScript (ES2024 Edition)",
+      "url": "https://exploringjs.com/js/index.html"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://forums.meteor.com",
     "tags": [
       "JavaScript",
@@ -9512,6 +9478,60 @@
     "example": {
       "title": "OpenNext - OpenNext",
       "url": "https://opennext.js.org/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/helmetjs/helmet",
+    "tags": [
+      "nodejs",
+      "security",
+      "library"
+    ],
+    "example": {
+      "title": "helmet/CHANGELOG.md at main · helmetjs/helmet",
+      "url": "https://github.com/helmetjs/helmet/blob/main/CHANGELOG.md#800"
+    },
+    "rssUrl": "https://github.com/helmetjs/helmet/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.trevorlasn.com",
+    "tags": [
+      "nodejs",
+      "express",
+      "article"
+    ],
+    "example": {
+      "title": "What's New in Express.js v5.0",
+      "url": "https://www.trevorlasn.com/blog/whats-new-in-express-5"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Oxc Transformer Alpha | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2024-09-29-transformer-alpha.html"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
+  },
+  {
+    "count": 1,
+    "url": "https://www.platformatichq.com",
+    "tags": [
+      "nodejs",
+      "document"
+    ],
+    "example": {
+      "title": "The Nine Node Pillars",
+      "url": "https://www.platformatichq.com/node-principles"
     }
   }
 ]

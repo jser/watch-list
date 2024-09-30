@@ -134,7 +134,6 @@
 <outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
-<outline text="github.com/facebook/lexical" title="github.com/facebook/lexical" type="rss" xmlUrl="https://github.com/facebook/lexical/releases.atom"/>
 <outline text="github.com/mozilla/pdf.js" title="github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>
 <outline text="github.com/dudykr/stc" title="github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
 <outline text="github.com/vuetifyjs/vuetify" title="github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
@@ -337,6 +336,7 @@
 <outline text="github.com/paulmillr/chokidar" title="github.com/paulmillr/chokidar" type="rss" xmlUrl="https://github.com/paulmillr/chokidar/releases.atom"/>
 <outline text="github.com/unjs/jiti" title="github.com/unjs/jiti" type="rss" xmlUrl="https://github.com/unjs/jiti/releases.atom"/>
 <outline text="github.com/mieszkosabo/tartak" title="github.com/mieszkosabo/tartak" type="rss" xmlUrl="https://github.com/mieszkosabo/tartak/releases.atom"/>
+<outline text="github.com/helmetjs/helmet" title="github.com/helmetjs/helmet" type="rss" xmlUrl="https://github.com/helmetjs/helmet/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
@@ -382,6 +382,7 @@
 <outline text="obyford.com" title="obyford.com" type="rss" xmlUrl="https://obyford.com/feed/feed.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
 <outline text="oxc-project.github.io" title="oxc-project.github.io" type="rss" xmlUrl="https://oxc-project.github.io/feeds/blog-en.rss"/>
+<outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
 <outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
 <outline text="pavel-romanov.com" title="pavel-romanov.com" type="rss" xmlUrl="https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml"/>
 <outline text="pawelgrzybek.com" title="pawelgrzybek.com" type="rss" xmlUrl="https://pawelgrzybek.com/feed.xml"/>
@@ -462,7 +463,6 @@
 <outline text="www.checklyhq.com" title="www.checklyhq.com" type="rss" xmlUrl="https://www.checklyhq.com/rss.xml"/>
 <outline text="www.codeflashbacks.com" title="www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
-<outline text="www.docswell.com/user/ockeghem" title="www.docswell.com/user/ockeghem" type="rss" xmlUrl="https://www.docswell.com/user/ockeghem/feed"/>
 <outline text="www.ecma-international.org" title="www.ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.feelback.dev" title="www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
