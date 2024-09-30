@@ -808,6 +808,13 @@
     ]
   },
   {
+    "url": "https://oxc.rs",
+    "feeds": [
+      "https://oxc.rs/feeds/blog-en.rss",
+      "https://oxc.rs/feeds/blog-en.atom"
+    ]
+  },
+  {
     "url": "https://parceljs.org",
     "feeds": [
       "https://parceljs.org/feed.xml"
@@ -1330,12 +1337,6 @@
     "feeds": [
       "https://www.debugbear.com/blog/rss.xml",
       "https://www.debugbear.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.docswell.com/user/ockeghem",
-    "feeds": [
-      "https://www.docswell.com/user/ockeghem/feed"
     ]
   },
   {

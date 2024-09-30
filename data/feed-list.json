@@ -800,12 +800,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/lexical",
-    "feeds": [
-      "https://github.com/facebook/lexical/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mozilla/pdf.js",
     "feeds": [
       "https://github.com/mozilla/pdf.js/releases.atom"
@@ -2018,6 +2012,12 @@
     ]
   },
   {
+    "url": "https://github.com/helmetjs/helmet",
+    "feeds": [
+      "https://github.com/helmetjs/helmet/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2299,6 +2299,13 @@
     "feeds": [
       "https://oxc-project.github.io/feeds/blog-en.rss",
       "https://oxc-project.github.io/feeds/blog-en.atom"
+    ]
+  },
+  {
+    "url": "https://oxc.rs",
+    "feeds": [
+      "https://oxc.rs/feeds/blog-en.rss",
+      "https://oxc.rs/feeds/blog-en.atom"
     ]
   },
   {
@@ -2830,12 +2837,6 @@
     "feeds": [
       "https://www.debugbear.com/blog/rss.xml",
       "https://www.debugbear.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.docswell.com/user/ockeghem",
-    "feeds": [
-      "https://www.docswell.com/user/ockeghem/feed"
     ]
   },
   {
