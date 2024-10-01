@@ -60,6 +60,7 @@
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
+<outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
 <outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
@@ -134,6 +135,7 @@
 <outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
+<outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/mozilla/pdf.js" title="github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>
 <outline text="github.com/dudykr/stc" title="github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
 <outline text="github.com/vuetifyjs/vuetify" title="github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
@@ -304,7 +306,6 @@
 <outline text="github.com/sindresorhus/execa" title="github.com/sindresorhus/execa" type="rss" xmlUrl="https://github.com/sindresorhus/execa/releases.atom"/>
 <outline text="github.com/jasonkuhrt/graphql-request" title="github.com/jasonkuhrt/graphql-request" type="rss" xmlUrl="https://github.com/jasonkuhrt/graphql-request/releases.atom"/>
 <outline text="github.com/farzher/fuzzysort" title="github.com/farzher/fuzzysort" type="rss" xmlUrl="https://github.com/farzher/fuzzysort/releases.atom"/>
-<outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file" title="github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/biomejs/biome" title="github.com/biomejs/biome" type="rss" xmlUrl="https://github.com/biomejs/biome/releases.atom"/>
 <outline text="github.com/twada/power-assert-monorepo" title="github.com/twada/power-assert-monorepo" type="rss" xmlUrl="https://github.com/twada/power-assert-monorepo/releases.atom"/>
@@ -521,5 +522,6 @@
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 <outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
+<outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 </body>
 </opml>
