@@ -351,6 +351,12 @@
     ]
   },
   {
+    "url": "https://deezer.io",
+    "feeds": [
+      "https://deezer.io/feed"
+    ]
+  },
+  {
     "url": "https://deno.com",
     "feeds": [
       "https://deno.com/feed"
@@ -1694,6 +1700,12 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yuneco/",
+    "feeds": [
+      "https://zenn.dev/yuneco/feed"
     ]
   }
 ]

@@ -89,22 +89,7 @@
     }
   },
   {
-    "count": 25,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.6 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
-    }
-  },
-  {
-    "count": 25,
+    "count": 26,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -120,8 +105,23 @@
       "privacy"
     ],
     "example": {
-      "title": "WebKit Features in Safari 18.0 | WebKit",
-      "url": "https://webkit.org/blog/15865/webkit-features-in-safari-18-0/"
+      "title": "Release Notes for Safari Technology Preview 204 | WebKit",
+      "url": "https://webkit.org/blog/15978/release-notes-for-safari-technology-preview-204/"
+    }
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.6 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
     }
   },
   {
@@ -2160,6 +2160,21 @@
       "title": "Don't Sleep on AbortController - kettanaito.com",
       "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/chakra-ui/ark",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @ark-ui/react@4.0.0 · chakra-ui/ark",
+      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%404.0.0"
+    },
+    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
   },
   {
     "count": 1,
@@ -8067,21 +8082,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/chakra-ui/ark",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release @ark-ui/react@3.0.0 · chakra-ui/ark",
-      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%403.0.0"
-    },
-    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file",
     "tags": [
       "UI",
@@ -9266,6 +9266,31 @@
     "example": {
       "title": "The Nine Node Pillars",
       "url": "https://www.platformatichq.com/node-principles"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/yuneco/",
+    "tags": [
+      "React",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Jotaiのatomを自由にテストしたいときに見る記事",
+      "url": "https://zenn.dev/yuneco/articles/jotai-atom-testing"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://deezer.io",
+    "tags": [
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "Node.js 20 upgrade: a journey through unexpected HEAP issues with Kubernetes | by Ztec | Sep, 2024 | Deezer I/O",
+      "url": "https://deezer.io/node-js-20-upgrade-a-journey-through-unexpected-heap-issues-with-kubernetes-27ae3d325646"
     }
   }
 ]
