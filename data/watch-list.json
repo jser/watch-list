@@ -9292,5 +9292,18 @@
       "title": "Node.js 20 upgrade: a journey through unexpected HEAP issues with Kubernetes | by Ztec | Sep, 2024 | Deezer I/O",
       "url": "https://deezer.io/node-js-20-upgrade-a-journey-through-unexpected-heap-issues-with-kubernetes-27ae3d325646"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://web-platform-dx.github.io",
+    "tags": [
+      "WebPlatformAPI",
+      "news",
+      "webservice"
+    ],
+    "example": {
+      "title": "Web features explorer - Web platform release notes",
+      "url": "https://web-platform-dx.github.io/web-features-explorer/release-notes/"
+    }
   }
 ]

@@ -1236,6 +1236,12 @@
     ]
   },
   {
+    "url": "https://web-platform-dx.github.io",
+    "feeds": [
+      "https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"
+    ]
+  },
+  {
     "url": "https://web.dev",
     "feeds": [
       "https://web.dev/static/blog/feed.xml"
