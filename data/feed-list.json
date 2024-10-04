@@ -578,6 +578,12 @@
     ]
   },
   {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -635,12 +641,6 @@
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
