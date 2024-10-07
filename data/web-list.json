@@ -221,6 +221,23 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
+    "count": 13,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article",
+      "news",
+      "JSON",
+      "Markdown"
+    ],
+    "example": {
+      "title": "ESLint now officially supports linting of JSON and Markdown - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/10/eslint-json-markdown-support/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
     "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
@@ -251,21 +268,6 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
-    "count": 12,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article",
-      "news"
-    ],
-    "example": {
-      "title": "Version support policy and ESLint v8.x end of life - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/09/eslint-v8-eol-version-support/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
     "count": 11,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -279,6 +281,30 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2024/08/06/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 11,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "React",
+      "video",
+      "JavaScript",
+      "Conference",
+      "performance",
+      "TypeScript",
+      "blink",
+      "Chrome",
+      "C++",
+      "Next.js",
+      "nodejs",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "ViteConf 2024 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLqGQbXn_GDmnObDzgjUF4Krsfl6OUKxtp"
+    },
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 10,
@@ -303,29 +329,6 @@
       "url": "https://storybook.js.org/blog/storybook-8-1/"
     },
     "rssUrl": "https://storybook.js.org/blog/rss/"
-  },
-  {
-    "count": 10,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "React",
-      "video",
-      "JavaScript",
-      "Conference",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "C++",
-      "Next.js",
-      "nodejs",
-      "history"
-    ],
-    "example": {
-      "title": "JSConf Budapest 2024 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 9,
@@ -9574,5 +9577,20 @@
       "url": "https://web-platform-dx.github.io/web-features-explorer/release-notes/"
     },
     "rssUrl": "https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://v2.tauri.app",
+    "tags": [
+      "Rust",
+      "JavaScript",
+      "GUI",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Tauri 2.0 Stable Release | Tauri",
+      "url": "https://v2.tauri.app/blog/tauri-20/"
+    },
+    "rssUrl": "https://v2.tauri.app/blog/rss.xml"
   }
 ]
