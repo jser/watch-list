@@ -22,7 +22,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 48,
+    "count": 49,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -36,11 +36,14 @@
       "npm",
       "TypeScript",
       "windows",
-      "bum"
+      "bum",
+      "V8",
+      "webkit",
+      "C++"
     ],
     "example": {
-      "title": "Bun v1.1.27 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.27"
+      "title": "How Bun supports V8 APIs without using V8 (part 1) | Bun Blog",
+      "url": "https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-1"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -917,6 +920,24 @@
   },
   {
     "count": 4,
+    "url": "https://lea.verou.me",
+    "tags": [
+      "JavaScript",
+      "article",
+      "HTML",
+      "Survey",
+      "CSS",
+      "WebComponents",
+      "opinion"
+    ],
+    "example": {
+      "title": "Web Components are not Framework Components — and That’s Okay • Lea Verou",
+      "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
+    },
+    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
@@ -999,6 +1020,19 @@
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 4,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "September 30, 2024 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2024-09-30.html"
+    }
   },
   {
     "count": 3,
@@ -1365,22 +1399,6 @@
   },
   {
     "count": 3,
-    "url": "https://lea.verou.me",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "Survey",
-      "CSS"
-    ],
-    "example": {
-      "title": "Inline conditionals in CSS, now? • Lea Verou",
-      "url": "https://lea.verou.me/blog/2024/css-conditionals-now/"
-    },
-    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
-  },
-  {
-    "count": 3,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -1440,19 +1458,6 @@
     "example": {
       "title": "Fluent React",
       "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "July 22, 2024 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2024-07-22.html"
     }
   },
   {
@@ -9592,5 +9597,60 @@
       "url": "https://v2.tauri.app/blog/tauri-20/"
     },
     "rssUrl": "https://v2.tauri.app/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/dimdenGD/ultimate-express",
+    "tags": [
+      "express",
+      "library"
+    ],
+    "example": {
+      "title": "dimdenGD/ultimate-express: The Ultimate Express. Fastest http server with full Express compatibility, based on µWebSockets.",
+      "url": "https://github.com/dimdenGD/ultimate-express"
+    },
+    "rssUrl": "https://github.com/dimdenGD/ultimate-express/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://cruxvis.withgoogle.com",
+    "tags": [
+      "webservice",
+      "performance"
+    ],
+    "example": {
+      "title": "CrUX Vis",
+      "url": "https://cruxvis.withgoogle.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nrwl/nx",
+    "tags": [
+      "nodejs",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 20.0.0 · nrwl/nx",
+      "url": "https://github.com/nrwl/nx/releases/tag/20.0.0"
+    },
+    "rssUrl": "https://github.com/nrwl/nx/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://stylexjs.com",
+    "tags": [
+      "css ",
+      "JavaScript",
+      "library",
+      "React",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 0.8.0 | StyleX",
+      "url": "https://stylexjs.com/blog/v0.8.0"
+    },
+    "rssUrl": "https://stylexjs.com/blog/rss.xml"
   }
 ]
