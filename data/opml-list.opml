@@ -173,6 +173,7 @@
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
+<outline text="stylexjs.com" title="stylexjs.com" type="rss" xmlUrl="https://stylexjs.com/blog/rss.xml"/>
 <outline text="supabase.com" title="supabase.com" type="rss" xmlUrl="https://supabase.com/feed.xml"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
