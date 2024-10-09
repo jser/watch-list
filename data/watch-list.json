@@ -21,7 +21,7 @@
     }
   },
   {
-    "count": 49,
+    "count": 50,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -38,11 +38,12 @@
       "bum",
       "V8",
       "webkit",
-      "C++"
+      "C++",
+      "css"
     ],
     "example": {
-      "title": "How Bun supports V8 APIs without using V8 (part 1) | Bun Blog",
-      "url": "https://bun.sh/blog/how-bun-supports-v8-apis-without-using-v8-part-1"
+      "title": "Bun v1.1.30 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.30"
     }
   },
   {
@@ -9380,6 +9381,19 @@
     "example": {
       "title": "Release 0.8.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.8.0"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/ryo_kawamata/",
+    "tags": [
+      "webpack",
+      "rspack",
+      "article"
+    ],
+    "example": {
+      "title": "webpack to Rspack ~ Rspack移行の結果と注意点 ~",
+      "url": "https://zenn.dev/ryo_kawamata/articles/b2df9989fe2c6e"
     }
   }
 ]

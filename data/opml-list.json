@@ -1727,5 +1727,11 @@
     "feeds": [
       "https://zenn.dev/yuneco/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/ryo_kawamata/",
+    "feeds": [
+      "https://zenn.dev/ryo_kawamata/feed"
+    ]
   }
 ]
