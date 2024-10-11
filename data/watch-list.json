@@ -74,7 +74,7 @@
     }
   },
   {
-    "count": 28,
+    "count": 29,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -88,8 +88,8 @@
       "npm"
     ],
     "example": {
-      "title": "Deno 2.0 Release Candidate",
-      "url": "https://deno.com/blog/v2.0-release-candidate"
+      "title": "Announcing Deno 2",
+      "url": "https://deno.com/blog/v2.0"
     }
   },
   {
