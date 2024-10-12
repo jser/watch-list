@@ -2342,7 +2342,8 @@
     "example": {
       "title": "Full Stack Components | Epic Web Dev by Kent C. Dodds",
       "url": "https://www.epicweb.dev/full-stack-components"
-    }
+    },
+    "rssUrl": "https://www.epicweb.dev/rss.xml"
   },
   {
     "count": 1,

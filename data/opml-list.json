@@ -1380,6 +1380,12 @@
     ]
   },
   {
+    "url": "https://www.epicweb.dev",
+    "feeds": [
+      "https://www.epicweb.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.feelback.dev",
     "feeds": [
       "https://www.feelback.dev/rss.xml"

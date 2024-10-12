@@ -471,6 +471,7 @@
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
 <outline text="www.ecma-international.org" title="www.ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
+<outline text="www.epicweb.dev" title="www.epicweb.dev" type="rss" xmlUrl="https://www.epicweb.dev/rss.xml"/>
 <outline text="www.feelback.dev" title="www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
 <outline text="www.fermyon.com" title="www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
 <outline text="www.honeybadger.io" title="www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
