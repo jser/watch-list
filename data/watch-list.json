@@ -93,7 +93,7 @@
     }
   },
   {
-    "count": 26,
+    "count": 27,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -109,12 +109,12 @@
       "privacy"
     ],
     "example": {
-      "title": "Release Notes for Safari Technology Preview 204 | WebKit",
-      "url": "https://webkit.org/blog/15978/release-notes-for-safari-technology-preview-204/"
+      "title": "Release Notes for Safari Technology Preview 205 | WebKit",
+      "url": "https://webkit.org/blog/15999/release-notes-for-safari-technology-preview-205/"
     }
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -124,8 +124,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.6 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6/"
+      "title": "Announcing TypeScript 5.7 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/"
     }
   },
   {
@@ -247,6 +247,20 @@
   },
   {
     "count": 12,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-10 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/10/12/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -260,20 +274,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-07 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/08/06/ecmascript-proposal-update"
-    }
   },
   {
     "count": 11,
@@ -300,6 +300,22 @@
   },
   {
     "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.48.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.48.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 10,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -320,22 +336,6 @@
       "title": "Storybook 8.1",
       "url": "https://storybook.js.org/blog/storybook-8-1/"
     }
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.47.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.47.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 9,
@@ -2155,6 +2155,20 @@
       "title": "Next.jsの考え方",
       "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "React",
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Release eslint-plugin-react-hooks@5.0.0 (Oct 11, 2024) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/eslint-plugin-react-hooks%405.0.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 2,
@@ -7919,19 +7933,6 @@
       "title": "Webフロントエンド版DX Criteria (v202402)/プロダクトのユーザー体験と変化に適応するチームのためのガイドライン",
       "url": "https://dxcriteria.cto-a.org/frontend"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "React",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 18.3.0 (April 25, 2024) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/v18.3.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 1,

@@ -806,6 +806,12 @@
     ]
   },
   {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/chakra-ui/ark",
     "feeds": [
       "https://github.com/chakra-ui/ark/releases.atom"
@@ -1805,12 +1811,6 @@
     "url": "https://github.com/jacob-ebey/turbo-stream",
     "feeds": [
       "https://github.com/jacob-ebey/turbo-stream/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/react",
-    "feeds": [
-      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
