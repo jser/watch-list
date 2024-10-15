@@ -340,6 +340,8 @@
 <outline text="github.com/helmetjs/helmet" title="github.com/helmetjs/helmet" type="rss" xmlUrl="https://github.com/helmetjs/helmet/releases.atom"/>
 <outline text="github.com/dimdenGD/ultimate-express" title="github.com/dimdenGD/ultimate-express" type="rss" xmlUrl="https://github.com/dimdenGD/ultimate-express/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
+<outline text="github.com/facebook/metro" title="github.com/facebook/metro" type="rss" xmlUrl="https://github.com/facebook/metro/releases.atom"/>
+<outline text="github.com/trynova/nova" title="github.com/trynova/nova" type="rss" xmlUrl="https://github.com/trynova/nova/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>

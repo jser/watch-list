@@ -9669,5 +9669,35 @@
       "url": "https://zenn.dev/ryo_kawamata/articles/b2df9989fe2c6e"
     },
     "rssUrl": "https://zenn.dev/ryo_kawamata/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/metro",
+    "tags": [
+      "React",
+      "Native",
+      "Tools",
+      "ReleaseNote",
+      "bundler"
+    ],
+    "example": {
+      "title": "Release v0.81.0 · facebook/metro",
+      "url": "https://github.com/facebook/metro/releases/tag/v0.81.0"
+    },
+    "rssUrl": "https://github.com/facebook/metro/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/trynova/nova",
+    "tags": [
+      "JavaScript",
+      "Rust",
+      "Tools"
+    ],
+    "example": {
+      "title": "trynova/nova: JS engine lolz",
+      "url": "https://github.com/trynova/nova"
+    },
+    "rssUrl": "https://github.com/trynova/nova/releases.atom"
   }
 ]
