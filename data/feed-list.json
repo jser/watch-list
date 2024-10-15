@@ -2036,6 +2036,18 @@
     ]
   },
   {
+    "url": "https://github.com/facebook/metro",
+    "feeds": [
+      "https://github.com/facebook/metro/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/trynova/nova",
+    "feeds": [
+      "https://github.com/trynova/nova/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
