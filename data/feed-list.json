@@ -578,6 +578,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
@@ -617,12 +623,6 @@
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -3119,6 +3119,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/uki00a/",
+    "feeds": [
+      "https://zenn.dev/uki00a/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
@@ -3230,12 +3236,6 @@
     "url": "https://zenn.dev/urotea/",
     "feeds": [
       "https://zenn.dev/urotea/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/uki00a/",
-    "feeds": [
-      "https://zenn.dev/uki00a/feed"
     ]
   },
   {

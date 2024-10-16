@@ -695,6 +695,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "redux",
+      "ReleaseNote",
+      "library",
+      "React"
+    ],
+    "example": {
+      "title": "Release v2.3.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.3.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://rome.tools",
     "tags": [
       "JavaScript",
@@ -1037,21 +1052,6 @@
       "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "redux",
-      "ReleaseNote",
-      "library",
-      "React"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 3,
@@ -2096,6 +2096,18 @@
     "example": {
       "title": "Node.js の進化に伴い不要となったかもしれないパッケージたち",
       "url": "https://zenn.dev/morinokami/articles/npm-uninstall"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/uki00a/",
+    "tags": [
+      "deno",
+      "article"
+    ],
+    "example": {
+      "title": "Deno v2がリリース🎉 - Deno v1.0.0の頃からの変化と現在のプラクティスについて",
+      "url": "https://zenn.dev/uki00a/articles/deno-v2-what-has-changed-from-v1"
     }
   },
   {
@@ -6676,18 +6688,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/uki00a/",
-    "tags": [
-      "deno",
-      "article"
-    ],
-    "example": {
-      "title": "2023年のDenoの変更点やできごとのまとめ",
-      "url": "https://zenn.dev/uki00a/articles/whats-new-for-deno-in-2023"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://blog.google",
     "tags": [
       "Chrome",
@@ -9426,5 +9426,18 @@
       "url": "https://github.com/trynova/nova"
     },
     "rssUrl": "https://github.com/trynova/nova/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.voorhoede.nl",
+    "tags": [
+      "HTML",
+      "PostCSS",
+      "article"
+    ],
+    "example": {
+      "title": "The Popover API: Your New Best Friend for Tooltips",
+      "url": "https://www.voorhoede.nl/en/blog/the-popover-api-your-new-best-friend-for-tooltips/"
+    }
   }
 ]
