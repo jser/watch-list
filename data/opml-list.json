@@ -1585,6 +1585,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/uki00a/",
+    "feeds": [
+      "https://zenn.dev/uki00a/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
@@ -1696,12 +1702,6 @@
     "url": "https://zenn.dev/urotea/",
     "feeds": [
       "https://zenn.dev/urotea/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/uki00a/",
-    "feeds": [
-      "https://zenn.dev/uki00a/feed"
     ]
   },
   {
