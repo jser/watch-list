@@ -9439,5 +9439,19 @@
       "title": "The Popover API: Your New Best Friend for Tooltips",
       "url": "https://www.voorhoede.nl/en/blog/the-popover-api-your-new-best-friend-for-tooltips/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://nx.dev",
+    "tags": [
+      "nodejs",
+      "Tools",
+      "monorepo",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Nx 20 | Nx Blog",
+      "url": "https://nx.dev/blog/announcing-nx-20"
+    }
   }
 ]

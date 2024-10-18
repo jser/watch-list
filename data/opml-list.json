@@ -149,6 +149,12 @@
     ]
   },
   {
+    "url": "https://blog.google",
+    "feeds": [
+      "https://blog.google/rss/"
+    ]
+  },
+  {
     "url": "https://blog.hog.as",
     "feeds": [
       "https://blog.hog.as/feed",
