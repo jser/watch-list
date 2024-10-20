@@ -1,6 +1,6 @@
 [
   {
-    "count": 61,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -16,8 +16,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v20.18.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v20.18.0"
+      "title": "Node.js — Node v23.0.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.0.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -225,7 +225,7 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
-    "count": 13,
+    "count": 14,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -236,13 +236,13 @@
       "Markdown"
     ],
     "example": {
-      "title": "ESLint now officially supports linting of JSON and Markdown - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/10/eslint-json-markdown-support/"
+      "title": "ESLint v9.13.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2024/10/eslint-v9.13.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 12,
+    "count": 13,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -250,8 +250,8 @@
       "article"
     ],
     "example": {
-      "title": "Electron 32.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-32-0"
+      "title": "Electron 33.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-33-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
@@ -1400,6 +1400,21 @@
   },
   {
     "count": 3,
+    "url": "https://turbo.build",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "monorepo"
+    ],
+    "example": {
+      "title": "Turborepo 2.2",
+      "url": "https://turbo.build/blog/turbo-2-2-0"
+    },
+    "rssUrl": "https://turbo.build/feed.xml"
+  },
+  {
+    "count": 3,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -1940,21 +1955,6 @@
   },
   {
     "count": 2,
-    "url": "https://turbo.build",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "monorepo"
-    ],
-    "example": {
-      "title": "Turborepo 2.0",
-      "url": "https://turbo.build/blog/turbo-2-0"
-    },
-    "rssUrl": "https://turbo.build/feed.xml"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/reduxjs/react-redux",
     "tags": [
       "React",
@@ -2286,6 +2286,22 @@
       "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%404.0.0"
     },
     "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 1,
@@ -9518,21 +9534,6 @@
       "title": "What's New in Express.js v5.0",
       "url": "https://www.trevorlasn.com/blog/whats-new-in-express-5"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Oxc Transformer Alpha | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2024-09-29-transformer-alpha.html"
-    },
-    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 1,
