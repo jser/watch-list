@@ -351,6 +351,20 @@
     "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
+    "count": 10,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "relre",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15 RC 2 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-rc2"
+    }
+  },
+  {
     "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
@@ -367,20 +381,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "relre",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15 RC | Next.js",
-      "url": "https://nextjs.org/blog/next-15-rc"
-    }
   },
   {
     "count": 9,
