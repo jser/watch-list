@@ -22,7 +22,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 50,
+    "count": 51,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -43,8 +43,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.1.30 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.30"
+      "title": "Bun v1.1.31 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.31"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -288,6 +288,20 @@
   },
   {
     "count": 11,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "relre",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15 | Next.js",
+      "url": "https://nextjs.org/blog/next-15"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
       "React",
@@ -351,18 +365,31 @@
     "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
-    "count": 10,
-    "url": "https://nextjs.org",
+    "count": 9,
+    "url": "https://blog.cloudflare.com",
     "tags": [
-      "Next.js",
-      "relre",
+      "cloudflare",
+      "puppeteer",
+      "article",
+      "node.js",
+      "console",
+      "Tools",
       "ReleaseNote",
-      "article"
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "Hono"
     ],
     "example": {
-      "title": "Next.js 15 RC 2 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-rc2"
-    }
+      "title": "The story of web framework Hono, from the creator of Hono",
+      "url": "https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 9,
@@ -415,32 +442,6 @@
       "url": "https://nuxt.com/blog/v3-13"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "puppeteer",
-      "article",
-      "node.js",
-      "console",
-      "Tools",
-      "ReleaseNote",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test"
-    ],
-    "example": {
-      "title": "More NPM packages on Cloudflare Workers: Combining polyfills and native code to support Node.js APIs",
-      "url": "https://blog.cloudflare.com/more-npm-packages-on-cloudflare-workers-combining-polyfills-and-native-code/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -9727,6 +9728,43 @@
     "example": {
       "title": "Announcing Nx 20 | Nx Blog",
       "url": "https://nx.dev/blog/announcing-nx-20"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://pkg-graph.info",
+    "tags": [
+      "npm",
+      "webservice"
+    ],
+    "example": {
+      "title": "pkg-graph | Visualize the dependency graph of npm packages.",
+      "url": "https://pkg-graph.info/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file",
+    "tags": [
+      "Rust",
+      "browser"
+    ],
+    "example": {
+      "title": "gosub-io/gosub-engine: Our main browser engine repository.",
+      "url": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://expressjs.com",
+    "tags": [
+      "express",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing Express v5: A New Era for Node.js Framework",
+      "url": "https://expressjs.com/2024/10/15/v5-release.html"
     }
   }
 ]
