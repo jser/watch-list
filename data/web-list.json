@@ -549,6 +549,20 @@
   },
   {
     "count": 6,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Svelte 5 is alive",
+      "url": "https://svelte.dev/blog/svelte-5-is-alive"
+    },
+    "rssUrl": "https://svelte.dev/blog/rss.xml"
+  },
+  {
+    "count": 6,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -668,20 +682,6 @@
       "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
     },
     "rssUrl": "https://blog.jquery.com/feed/"
-  },
-  {
-    "count": 5,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Svelte 5 Release Candidate",
-      "url": "https://svelte.dev/blog/svelte-5-release-candidate"
-    },
-    "rssUrl": "https://svelte.dev/blog/rss.xml"
   },
   {
     "count": 5,
