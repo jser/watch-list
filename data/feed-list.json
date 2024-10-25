@@ -2060,6 +2060,12 @@
     ]
   },
   {
+    "url": "https://github.com/pmndrs/zustand",
+    "feeds": [
+      "https://github.com/pmndrs/zustand/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
