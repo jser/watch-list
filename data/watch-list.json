@@ -129,7 +129,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://web.dev",
     "tags": [
       "Chrome",
@@ -149,11 +149,12 @@
       "nodejs",
       "WebPlatformAPI",
       "HTML",
-      "css "
+      "css ",
+      "Unicode"
     ],
     "example": {
-      "title": "Common misconceptions about how to optimize LCP  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/common-misconceptions-lcp?hl=en"
+      "title": "The nuances of base64 encoding strings in JavaScript  |  Articles  |  web.dev",
+      "url": "https://web.dev/articles/base64-encoding"
     }
   },
   {
@@ -9492,5 +9493,20 @@
       "title": "Introducing Express v5: A New Era for Node.js Framework",
       "url": "https://expressjs.com/2024/10/15/v5-release.html"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/pmndrs/zustand",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.0.0 · pmndrs/zustand",
+      "url": "https://github.com/pmndrs/zustand/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/pmndrs/zustand/releases.atom"
   }
 ]
