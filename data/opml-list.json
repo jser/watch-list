@@ -168,6 +168,13 @@
     ]
   },
   {
+    "url": "https://blog.jetbrains.com",
+    "feeds": [
+      "https://blog.jetbrains.com/blog/feed/",
+      "https://blog.jetbrains.com/feed/"
+    ]
+  },
+  {
     "url": "https://blog.jquery.com",
     "feeds": [
       "https://blog.jquery.com/feed/",

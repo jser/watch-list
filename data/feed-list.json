@@ -168,6 +168,13 @@
     ]
   },
   {
+    "url": "https://blog.jetbrains.com",
+    "feeds": [
+      "https://blog.jetbrains.com/blog/feed/",
+      "https://blog.jetbrains.com/feed/"
+    ]
+  },
+  {
     "url": "https://blog.jquery.com",
     "feeds": [
       "https://blog.jquery.com/feed/",
@@ -620,12 +627,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
@@ -689,6 +690,12 @@
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {

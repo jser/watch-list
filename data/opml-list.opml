@@ -31,6 +31,7 @@
 <outline text="blog.google" title="blog.google" type="rss" xmlUrl="https://blog.google/rss/"/>
 <outline text="blog.hog.as" title="blog.hog.as" type="rss" xmlUrl="https://blog.hog.as/feed"/>
 <outline text="blog.isquaredsoftware.com" title="blog.isquaredsoftware.com" type="rss" xmlUrl="https://blog.isquaredsoftware.com/index.xml"/>
+<outline text="blog.jetbrains.com" title="blog.jetbrains.com" type="rss" xmlUrl="https://blog.jetbrains.com/blog/feed/"/>
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
 <outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
 <outline text="blog.jxck.io" title="blog.jxck.io" type="rss" xmlUrl="https://blog.jxck.io/feeds/atom.xml"/>
