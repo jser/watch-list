@@ -4,8 +4,8 @@
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "ReleaseNote",
       "seuc",
+      "ReleaseNote",
       "security",
       "document",
       "npm",
@@ -16,8 +16,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v23.0.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.0.0"
+      "title": "Node.js — Node v23.1.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.1.0"
     }
   },
   {
@@ -262,6 +262,20 @@
   },
   {
     "count": 12,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "relre",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Our Journey with Caching | Next.js",
+      "url": "https://nextjs.org/blog/our-journey-with-caching"
+    }
+  },
+  {
+    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -275,20 +289,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 11,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "relre",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15 | Next.js",
-      "url": "https://nextjs.org/blog/next-15"
-    }
   },
   {
     "count": 11,
@@ -1016,19 +1016,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/vitejs/vite",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vite/CHANGELOG.md at main · vitejs/vite",
-      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
-    },
-    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://babeljs.io",
     "tags": [
       "babel",
@@ -1449,19 +1436,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.oreilly.com",
-    "tags": [
-      "React",
-      "book",
-      "WebAssembly"
-    ],
-    "example": {
-      "title": "Practical WebAssembly [Book]",
-      "url": "https://www.oreilly.com/library/view/practical-webassembly/9781098142513/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://shopify.engineering",
     "tags": [
       "Remix",
@@ -1474,6 +1448,19 @@
       "title": "Bringing Javascript to WebAssembly for Shopify Functions (2023)",
       "url": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/vitejs/vite",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "vite/CHANGELOG.md at main · vitejs/vite",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
+    },
+    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 2,
@@ -3889,6 +3876,18 @@
     "example": {
       "title": "Transformers.js",
       "url": "https://xenova.github.io/transformers.js/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.oreilly.com",
+    "tags": [
+      "WebAssembly",
+      "book"
+    ],
+    "example": {
+      "title": "Practical WebAssembly [Book]",
+      "url": "https://www.oreilly.com/library/view/practical-webassembly/9781098142513/"
     }
   },
   {
@@ -9508,5 +9507,47 @@
       "url": "https://github.com/pmndrs/zustand/releases/tag/v5.0.0"
     },
     "rssUrl": "https://github.com/pmndrs/zustand/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.jetbrains.com",
+    "tags": [
+      "WebStorm",
+      "editor",
+      "JavaScript",
+      "software"
+    ],
+    "example": {
+      "title": "WebStorm and Rider Are Now Free for Non-Commercial Use | The JetBrains Blog",
+      "url": "https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://onestack.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "library"
+    ],
+    "example": {
+      "title": "One, a React Framework",
+      "url": "https://onestack.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.jeasx.dev",
+    "tags": [
+      "JavaScript",
+      "jsx",
+      "server",
+      "library"
+    ],
+    "example": {
+      "title": "Homepage » Jeasx - JSX with Ease",
+      "url": "https://www.jeasx.dev/"
+    }
   }
 ]
