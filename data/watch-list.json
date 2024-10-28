@@ -1016,18 +1016,6 @@
   },
   {
     "count": 3,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
-      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/pixijs/pixijs",
     "tags": [
       "JavaScript",
@@ -1952,6 +1940,18 @@
       "url": "https://github.com/nodejs/corepack/releases/tag/v0.25.0"
     },
     "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
+    }
   },
   {
     "count": 2,
