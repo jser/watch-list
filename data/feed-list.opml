@@ -139,6 +139,7 @@
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
+<outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/mozilla/pdf.js" title="github.com/mozilla/pdf.js" type="rss" xmlUrl="https://github.com/mozilla/pdf.js/releases.atom"/>
 <outline text="github.com/dudykr/stc" title="github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
 <outline text="github.com/vuetifyjs/vuetify" title="github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
@@ -313,7 +314,6 @@
 <outline text="github.com/twada/power-assert-monorepo" title="github.com/twada/power-assert-monorepo" type="rss" xmlUrl="https://github.com/twada/power-assert-monorepo/releases.atom"/>
 <outline text="github.com/slevithan/regex" title="github.com/slevithan/regex" type="rss" xmlUrl="https://github.com/slevithan/regex/releases.atom"/>
 <outline text="github.com/tinylibs/tinypool" title="github.com/tinylibs/tinypool" type="rss" xmlUrl="https://github.com/tinylibs/tinypool/releases.atom"/>
-<outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/e18e/e18e" title="github.com/e18e/e18e" type="rss" xmlUrl="https://github.com/e18e/e18e/releases.atom"/>
 <outline text="github.com/es-tooling/eslint-plugin-depend" title="github.com/es-tooling/eslint-plugin-depend" type="rss" xmlUrl="https://github.com/es-tooling/eslint-plugin-depend/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
@@ -346,6 +346,7 @@
 <outline text="github.com/trynova/nova" title="github.com/trynova/nova" type="rss" xmlUrl="https://github.com/trynova/nova/releases.atom"/>
 <outline text="github.com/gosub-io/gosub-engine?tab=readme-ov-file" title="github.com/gosub-io/gosub-engine?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/gosub-io/gosub-engine?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/pmndrs/zustand" title="github.com/pmndrs/zustand" type="rss" xmlUrl="https://github.com/pmndrs/zustand/releases.atom"/>
+<outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
