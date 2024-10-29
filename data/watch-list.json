@@ -74,7 +74,7 @@
     }
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -187,7 +187,7 @@
     }
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -195,8 +195,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm 9.7 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v9.7.0"
+      "title": "Release pnpm 10.0 Alpha 0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-alpha.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -2199,6 +2199,21 @@
       "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%404.0.0"
     },
     "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/acornjs/acorn",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release Version 8.14.0 · acornjs/acorn",
+      "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
+    },
+    "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
   },
   {
     "count": 2,
@@ -8330,20 +8345,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/acornjs/acorn",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 8.12.0 · acornjs/acorn",
-      "url": "https://github.com/acornjs/acorn/releases/tag/8.12.0"
-    },
-    "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://codemod.com",
     "tags": [
       "React",
@@ -9548,6 +9549,33 @@
     "example": {
       "title": "Homepage » Jeasx - JSX with Ease",
       "url": "https://www.jeasx.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tinylibs/tinybench",
+    "tags": [
+      "JavaScript",
+      "benchmark",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · tinylibs/tinybench",
+      "url": "https://github.com/tinylibs/tinybench/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/tinylibs/tinybench/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://2024.stateofcss.com",
+    "tags": [
+      "css ",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of CSS 2024",
+      "url": "https://2024.stateofcss.com/en-US/"
     }
   }
 ]

@@ -831,6 +831,12 @@
     ]
   },
   {
+    "url": "https://github.com/acornjs/acorn",
+    "feeds": [
+      "https://github.com/acornjs/acorn/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/mozilla/pdf.js",
     "feeds": [
       "https://github.com/mozilla/pdf.js/releases.atom"
@@ -1875,12 +1881,6 @@
     ]
   },
   {
-    "url": "https://github.com/acornjs/acorn",
-    "feeds": [
-      "https://github.com/acornjs/acorn/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/e18e/e18e",
     "feeds": [
       "https://github.com/e18e/e18e/releases.atom"
@@ -2070,6 +2070,12 @@
     "url": "https://github.com/pmndrs/zustand",
     "feeds": [
       "https://github.com/pmndrs/zustand/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tinylibs/tinybench",
+    "feeds": [
+      "https://github.com/tinylibs/tinybench/releases.atom"
     ]
   },
   {
