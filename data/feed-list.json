@@ -627,12 +627,6 @@
     ]
   },
   {
-    "url": "https://github.com/pixijs/pixijs",
-    "feeds": [
-      "https://github.com/pixijs/pixijs/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ije/esm.sh",
     "feeds": [
       "https://github.com/ije/esm.sh/releases.atom"
@@ -648,6 +642,12 @@
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/mswjs/msw",
+    "feeds": [
+      "https://github.com/mswjs/msw/releases.atom"
     ]
   },
   {
@@ -711,12 +711,6 @@
     ]
   },
   {
-    "url": "https://github.com/mswjs/msw",
-    "feeds": [
-      "https://github.com/mswjs/msw/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/node",
     "feeds": [
       "https://github.com/nodejs/node/releases.atom"
@@ -777,6 +771,12 @@
     ]
   },
   {
+    "url": "https://github.com/pixijs/pixijs",
+    "feeds": [
+      "https://github.com/pixijs/pixijs/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -834,12 +834,6 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mozilla/pdf.js",
-    "feeds": [
-      "https://github.com/mozilla/pdf.js/releases.atom"
     ]
   },
   {
