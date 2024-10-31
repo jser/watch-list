@@ -25,6 +25,12 @@
     ]
   },
   {
+    "url": "https://adonisjs.com",
+    "feeds": [
+      "https://adonisjs.com/feeds/blog.xml"
+    ]
+  },
+  {
     "url": "https://ahastack.dev",
     "feeds": [
       "https://ahastack.dev/rss.xml"
