@@ -7154,7 +7154,8 @@
     "example": {
       "title": "Announcing AdonisJS v6",
       "url": "https://adonisjs.com/blog/adonisjs-v6-announcement"
-    }
+    },
+    "rssUrl": "https://adonisjs.com/feeds/blog.xml"
   },
   {
     "count": 1,
