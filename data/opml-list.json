@@ -388,12 +388,6 @@
     ]
   },
   {
-    "url": "https://dev.to/srmagura/",
-    "feeds": [
-      "https://dev.to/feed/srmagura"
-    ]
-  },
-  {
     "url": "https://dev.to/nicklucas/",
     "feeds": [
       "https://dev.to/feed/nicklucas"
@@ -721,15 +715,15 @@
     ]
   },
   {
-    "url": "https://medium.com/airbnb-engineering/",
-    "feeds": [
-      "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
     "url": "https://medium.com/dartlang/",
     "feeds": [
       "https://medium.com/feed/dartlang"
+    ]
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/",
+    "feeds": [
+      "https://medium.com/feed/airbnb-engineering"
     ]
   },
   {

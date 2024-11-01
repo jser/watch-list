@@ -66,7 +66,6 @@
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
-<outline text="dev.to/srmagura/" title="dev.to/srmagura/" type="rss" xmlUrl="https://dev.to/feed/srmagura"/>
 <outline text="dev.to/nicklucas/" title="dev.to/nicklucas/" type="rss" xmlUrl="https://dev.to/feed/nicklucas"/>
 <outline text="dev.to/codux/" title="dev.to/codux/" type="rss" xmlUrl="https://dev.to/feed/codux"/>
 <outline text="dev.to/subu_hunter/" title="dev.to/subu_hunter/" type="rss" xmlUrl="https://dev.to/feed/subu_hunter"/>
@@ -100,7 +99,6 @@
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
-<outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
@@ -109,6 +107,7 @@
 <outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
+<outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
@@ -141,7 +140,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/dudykr/stc" title="github.com/dudykr/stc" type="rss" xmlUrl="https://github.com/dudykr/stc/releases.atom"/>
 <outline text="github.com/vuetifyjs/vuetify" title="github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
 <outline text="github.com/hapijs/hapi" title="github.com/hapijs/hapi" type="rss" xmlUrl="https://github.com/hapijs/hapi/releases.atom"/>
 <outline text="github.com/cypress-io/cypress" title="github.com/cypress-io/cypress" type="rss" xmlUrl="https://github.com/cypress-io/cypress/releases.atom"/>
@@ -374,8 +372,8 @@
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="marvinh.dev" title="marvinh.dev" type="rss" xmlUrl="https://marvinh.dev/feed.xml"/>
 <outline text="maximorlov.com" title="maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
-<outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/dartlang/" title="medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>
+<outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/miro-engineering/" title="medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
 <outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>
 <outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
