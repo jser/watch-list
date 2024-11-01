@@ -388,12 +388,6 @@
     ]
   },
   {
-    "url": "https://dev.to/srmagura/",
-    "feeds": [
-      "https://dev.to/feed/srmagura"
-    ]
-  },
-  {
     "url": "https://dev.to/nicklucas/",
     "feeds": [
       "https://dev.to/feed/nicklucas"
@@ -597,12 +591,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
@@ -648,6 +636,12 @@
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -840,12 +834,6 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/dudykr/stc",
-    "feeds": [
-      "https://github.com/dudykr/stc/releases.atom"
     ]
   },
   {
@@ -2251,15 +2239,15 @@
     ]
   },
   {
-    "url": "https://medium.com/airbnb-engineering/",
-    "feeds": [
-      "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
     "url": "https://medium.com/dartlang/",
     "feeds": [
       "https://medium.com/feed/dartlang"
+    ]
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering/",
+    "feeds": [
+      "https://medium.com/feed/airbnb-engineering"
     ]
   },
   {
