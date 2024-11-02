@@ -114,7 +114,7 @@
     }
   },
   {
-    "count": 26,
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -1409,21 +1409,6 @@
   },
   {
     "count": 2,
-    "url": "https://shopify.engineering",
-    "tags": [
-      "Remix",
-      "news",
-      "WebAssembly",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Bringing Javascript to WebAssembly for Shopify Functions (2023)",
-      "url": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/vitejs/vite",
     "tags": [
       "vite",
@@ -2226,19 +2211,6 @@
     "example": {
       "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/yukiyada/",
-    "tags": [
-      "CSS",
-      "article",
-      "Tools"
-    ],
-    "example": {
-      "title": "【脱ランタイムCSS in JS】styled-componentsを別のCSS in JSに自動置換するCLIツールの開発",
-      "url": "https://zenn.dev/yukiyada/articles/0ac6ef8d566b96"
     }
   },
   {
@@ -3359,6 +3331,19 @@
     "example": {
       "title": "On building the enterprise-grade Node.js applications | Code Flashbacks",
       "url": "https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://shopify.engineering",
+    "tags": [
+      "WebAssembly",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Bringing Javascript to WebAssembly for Shopify Functions (2023)",
+      "url": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions"
     }
   },
   {
