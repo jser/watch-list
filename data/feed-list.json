@@ -499,6 +499,12 @@
     ]
   },
   {
+    "url": "https://evanhahn.com",
+    "feeds": [
+      "https://evanhahn.com/blog/index.xml"
+    ]
+  },
+  {
     "url": "https://firebase.blog",
     "feeds": [
       "https://firebase.blog/rss.xml"
@@ -2067,6 +2073,12 @@
     ]
   },
   {
+    "url": "https://github.com/astahmer/atomic-css-devtools",
+    "feeds": [
+      "https://github.com/astahmer/atomic-css-devtools/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2380,6 +2392,15 @@
     "url": "https://philipwalton.com",
     "feeds": [
       "https://feeds.feedburner.com/philipwalton"
+    ]
+  },
+  {
+    "url": "https://piccalil.li",
+    "feeds": [
+      "https://piccalil.li/feed.xml",
+      "https://piccalil.li/articles.xml",
+      "https://piccalil.li/links.xml",
+      "https://piccalil.li/the-index/feed.xml"
     ]
   },
   {

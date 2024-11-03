@@ -9792,5 +9792,47 @@
       "title": "State of CSS 2024",
       "url": "https://2024.stateofcss.com/en-US/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/astahmer/atomic-css-devtools",
+    "tags": [
+      "css ",
+      "debug",
+      "browser",
+      "Extension"
+    ],
+    "example": {
+      "title": "astahmer/atomic-css-devtools: A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox",
+      "url": "https://github.com/astahmer/atomic-css-devtools"
+    },
+    "rssUrl": "https://github.com/astahmer/atomic-css-devtools/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://piccalil.li",
+    "tags": [
+      "css ",
+      "article"
+    ],
+    "example": {
+      "title": "Making content-aware components using CSS :has(), grid, and quantity queries - Piccalilli",
+      "url": "https://piccalil.li/blog/making-content-aware-components-using-css-has-grid-and-quantity-queries/"
+    },
+    "rssUrl": "https://piccalil.li/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://evanhahn.com",
+    "tags": [
+      "ECMAScript",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Re-implementing JavaScript's == in JavaScript",
+      "url": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
+    },
+    "rssUrl": "https://evanhahn.com/blog/index.xml"
   }
 ]
