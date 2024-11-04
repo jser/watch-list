@@ -2172,6 +2172,23 @@
   },
   {
     "count": 2,
+    "url": "https://leanrada.com",
+    "tags": [
+      "HTML",
+      "JavaScript",
+      "library",
+      "css ",
+      "animation",
+      "article"
+    ],
+    "example": {
+      "title": "CSS sprite sheet animations · leanrada.com",
+      "url": "https://leanrada.com/notes/css-sprite-sheets/"
+    },
+    "rssUrl": "https://leanrada.com/rss.xml"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/expressjs/express",
     "tags": [
       "express",
@@ -7333,20 +7350,6 @@
       "url": "https://github.com/pashak09/ts-expect-error-validator"
     },
     "rssUrl": "https://github.com/pashak09/ts-expect-error-validator/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://leanrada.com",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "htmz - a low power tool for html",
-      "url": "http://leanrada.com/htmz/"
-    },
-    "rssUrl": "https://leanrada.com/rss.xml"
   },
   {
     "count": 1,
