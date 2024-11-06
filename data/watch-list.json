@@ -354,6 +354,22 @@
   },
   {
     "count": 9,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "article",
+      "news",
+      "Nuxt"
+    ],
+    "example": {
+      "title": "Nuxt 3.14 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-14"
+    }
+  },
+  {
+    "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -412,22 +428,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "article",
-      "news",
-      "Nuxt"
-    ],
-    "example": {
-      "title": "Nuxt 3.13 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-13"
-    }
   },
   {
     "count": 8,
@@ -576,22 +576,6 @@
     "example": {
       "title": "Biome v1.9 Anniversary Release | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-9/"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "Remix",
-      "article",
-      "vite",
-      "document",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Merging Remix and React Router | Remix",
-      "url": "https://remix.run/blog/merging-remix-and-react-router"
     }
   },
   {
@@ -935,6 +919,22 @@
     "example": {
       "title": "Introducing TanStack Router – Frontend Masters Boost",
       "url": "https://frontendmasters.com/blog/introducing-tanstack-router/"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "document",
+      "React",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Merging Remix and React Router | Remix",
+      "url": "https://remix.run/blog/merging-remix-and-react-router"
     }
   },
   {
@@ -9561,5 +9561,33 @@
       "title": "Re-implementing JavaScript's == in JavaScript",
       "url": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/immutable-js/immutable-js",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.0.0 · immutable-js/immutable-js",
+      "url": "https://github.com/immutable-js/immutable-js/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/immutable-js/immutable-js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/mylesmmurphy/prettify-ts",
+    "tags": [
+      "TypeScript",
+      "VSCode",
+      "Extension"
+    ],
+    "example": {
+      "title": "mylesmmurphy/prettify-ts: Prettify TypeScript: Better Type Previews",
+      "url": "https://github.com/mylesmmurphy/prettify-ts"
+    },
+    "rssUrl": "https://github.com/mylesmmurphy/prettify-ts/releases.atom"
   }
 ]

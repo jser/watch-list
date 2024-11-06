@@ -2079,6 +2079,18 @@
     ]
   },
   {
+    "url": "https://github.com/immutable-js/immutable-js",
+    "feeds": [
+      "https://github.com/immutable-js/immutable-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/mylesmmurphy/prettify-ts",
+    "feeds": [
+      "https://github.com/mylesmmurphy/prettify-ts/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"

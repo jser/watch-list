@@ -347,6 +347,8 @@
 <outline text="github.com/pmndrs/zustand" title="github.com/pmndrs/zustand" type="rss" xmlUrl="https://github.com/pmndrs/zustand/releases.atom"/>
 <outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
 <outline text="github.com/astahmer/atomic-css-devtools" title="github.com/astahmer/atomic-css-devtools" type="rss" xmlUrl="https://github.com/astahmer/atomic-css-devtools/releases.atom"/>
+<outline text="github.com/immutable-js/immutable-js" title="github.com/immutable-js/immutable-js" type="rss" xmlUrl="https://github.com/immutable-js/immutable-js/releases.atom"/>
+<outline text="github.com/mylesmmurphy/prettify-ts" title="github.com/mylesmmurphy/prettify-ts" type="rss" xmlUrl="https://github.com/mylesmmurphy/prettify-ts/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
