@@ -9589,5 +9589,58 @@
       "url": "https://github.com/mylesmmurphy/prettify-ts"
     },
     "rssUrl": "https://github.com/mylesmmurphy/prettify-ts/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.vlt.sh",
+    "tags": [
+      "npm",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing the vlt Package Manager & Serverless Registry",
+      "url": "https://blog.vlt.sh/blog/introducing-vlt-and-vsr"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://npm.chart.dev",
+    "tags": [
+      "npm",
+      "webservice"
+    ],
+    "example": {
+      "title": "NPM Chart",
+      "url": "https://npm.chart.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "nodejs",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "happy-dom allows for server side code to be executed by a <script> tag · CVE-2024-51757 · GitHub Advisory Database",
+      "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8"
+    },
+    "rssUrl": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/zaru_sakuraba/",
+    "tags": [
+      "Next.js",
+      "security",
+      "slide"
+    ],
+    "example": {
+      "title": "Next.js App Router セキュリティ - Speaker Deck",
+      "url": "https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei"
+    }
   }
 ]
