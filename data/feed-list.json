@@ -282,6 +282,12 @@
     ]
   },
   {
+    "url": "https://blog.vlt.sh",
+    "feeds": [
+      "https://blog.vlt.sh/feed.xml"
+    ]
+  },
+  {
     "url": "https://blog.vuejs.org",
     "feeds": [
       "https://blog.vuejs.org/feed.rss"
@@ -2091,6 +2097,12 @@
     ]
   },
   {
+    "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8",
+    "feeds": [
+      "https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2629,6 +2641,13 @@
     "feeds": [
       "https://speakerdeck.com/exoego.atom",
       "https://speakerdeck.com/exoego.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/zaru_sakuraba/",
+    "feeds": [
+      "https://speakerdeck.com/zaru_sakuraba.atom",
+      "https://speakerdeck.com/zaru_sakuraba.rss"
     ]
   },
   {

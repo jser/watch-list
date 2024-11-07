@@ -49,6 +49,7 @@
 <outline text="blog.stackblitz.com" title="blog.stackblitz.com" type="rss" xmlUrl="https://blog.stackblitz.com/rss.xml"/>
 <outline text="blog.tomayac.com" title="blog.tomayac.com" type="rss" xmlUrl="https://blog.tomayac.com/feed/feed.xml"/>
 <outline text="blog.val.town" title="blog.val.town" type="rss" xmlUrl="https://blog.val.town/rss.xml"/>
+<outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="boajs.dev" title="boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
 <outline text="buf.build" title="buf.build" type="rss" xmlUrl="https://buf.build/rss.xml"/>
@@ -349,6 +350,7 @@
 <outline text="github.com/astahmer/atomic-css-devtools" title="github.com/astahmer/atomic-css-devtools" type="rss" xmlUrl="https://github.com/astahmer/atomic-css-devtools/releases.atom"/>
 <outline text="github.com/immutable-js/immutable-js" title="github.com/immutable-js/immutable-js" type="rss" xmlUrl="https://github.com/immutable-js/immutable-js/releases.atom"/>
 <outline text="github.com/mylesmmurphy/prettify-ts" title="github.com/mylesmmurphy/prettify-ts" type="rss" xmlUrl="https://github.com/mylesmmurphy/prettify-ts/releases.atom"/>
+<outline text="github.com/advisories/GHSA-96g7-g7g9-jxw8" title="github.com/advisories/GHSA-96g7-g7g9-jxw8" type="rss" xmlUrl="https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
@@ -433,6 +435,7 @@
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
 <outline text="speakerdeck.com/steelydylan/" title="speakerdeck.com/steelydylan/" type="rss" xmlUrl="https://speakerdeck.com/steelydylan.atom"/>
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
+<outline text="speakerdeck.com/zaru_sakuraba/" title="speakerdeck.com/zaru_sakuraba/" type="rss" xmlUrl="https://speakerdeck.com/zaru_sakuraba.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stylexjs.com" title="stylexjs.com" type="rss" xmlUrl="https://stylexjs.com/blog/rss.xml"/>

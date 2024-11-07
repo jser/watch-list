@@ -282,6 +282,12 @@
     ]
   },
   {
+    "url": "https://blog.vlt.sh",
+    "feeds": [
+      "https://blog.vlt.sh/feed.xml"
+    ]
+  },
+  {
     "url": "https://blog.vuejs.org",
     "feeds": [
       "https://blog.vuejs.org/feed.rss"
@@ -1081,6 +1087,13 @@
     "feeds": [
       "https://speakerdeck.com/exoego.atom",
       "https://speakerdeck.com/exoego.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/zaru_sakuraba/",
+    "feeds": [
+      "https://speakerdeck.com/zaru_sakuraba.atom",
+      "https://speakerdeck.com/zaru_sakuraba.rss"
     ]
   },
   {
