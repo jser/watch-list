@@ -118,7 +118,6 @@
 <outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
-<outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/facebook/flow" title="github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
 <outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
@@ -142,7 +141,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/vuetifyjs/vuetify" title="github.com/vuetifyjs/vuetify" type="rss" xmlUrl="https://github.com/vuetifyjs/vuetify/releases.atom"/>
 <outline text="github.com/hapijs/hapi" title="github.com/hapijs/hapi" type="rss" xmlUrl="https://github.com/hapijs/hapi/releases.atom"/>
 <outline text="github.com/cypress-io/cypress" title="github.com/cypress-io/cypress" type="rss" xmlUrl="https://github.com/cypress-io/cypress/releases.atom"/>
 <outline text="github.com/hadmean/hadmean" title="github.com/hadmean/hadmean" type="rss" xmlUrl="https://github.com/hadmean/hadmean/releases.atom"/>
@@ -187,6 +185,7 @@
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/open-draft/event-contract" title="github.com/open-draft/event-contract" type="rss" xmlUrl="https://github.com/open-draft/event-contract/releases.atom"/>
 <outline text="github.com/antonmedv/finder" title="github.com/antonmedv/finder" type="rss" xmlUrl="https://github.com/antonmedv/finder/releases.atom"/>
+<outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/total-typescript/ts-reset" title="github.com/total-typescript/ts-reset" type="rss" xmlUrl="https://github.com/total-typescript/ts-reset/releases.atom"/>
 <outline text="github.com/lagonapp/lagon" title="github.com/lagonapp/lagon" type="rss" xmlUrl="https://github.com/lagonapp/lagon/releases.atom"/>
 <outline text="github.com/gajus/turbowatch" title="github.com/gajus/turbowatch" type="rss" xmlUrl="https://github.com/gajus/turbowatch/releases.atom"/>
@@ -484,7 +483,6 @@
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
 <outline text="www.ecma-international.org" title="www.ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
-<outline text="www.epicweb.dev" title="www.epicweb.dev" type="rss" xmlUrl="https://www.epicweb.dev/rss.xml"/>
 <outline text="www.feelback.dev" title="www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
 <outline text="www.fermyon.com" title="www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
 <outline text="www.honeybadger.io" title="www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>

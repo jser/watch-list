@@ -1409,19 +1409,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/vitejs/vite",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vite/CHANGELOG.md at main · vitejs/vite",
-      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
-    },
-    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://www.mizdra.net",
     "tags": [
       "CSS",
@@ -2227,33 +2214,6 @@
     "example": {
       "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vuetifyjs/vuetify",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vuetifyjs/vuetify: 🐉 Material Component Framework for Vue",
-      "url": "https://github.com/vuetifyjs/vuetify/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/vuetifyjs/vuetify/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.epicweb.dev",
-    "tags": [
-      "Remix",
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Full Stack Components | Epic Web Dev by Kent C. Dodds",
-      "url": "https://www.epicweb.dev/full-stack-components"
     }
   },
   {
@@ -3794,6 +3754,19 @@
       "url": "https://github.com/antonmedv/finder"
     },
     "rssUrl": "https://github.com/antonmedv/finder/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vitejs/vite",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "vite/CHANGELOG.md at main · vitejs/vite",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#420-2023-03-16"
+    },
+    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 1,
