@@ -705,12 +705,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/flow",
     "feeds": [
       "https://github.com/facebook/flow/releases.atom"
@@ -846,12 +840,6 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vuetifyjs/vuetify",
-    "feeds": [
-      "https://github.com/vuetifyjs/vuetify/releases.atom"
     ]
   },
   {
@@ -1116,6 +1104,12 @@
     "url": "https://github.com/antonmedv/finder",
     "feeds": [
       "https://github.com/antonmedv/finder/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
@@ -2972,12 +2966,6 @@
     "feeds": [
       "https://www.electronjs.org/blog/rss.xml",
       "https://www.electronjs.org/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.epicweb.dev",
-    "feeds": [
-      "https://www.epicweb.dev/rss.xml"
     ]
   },
   {
