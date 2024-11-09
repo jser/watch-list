@@ -843,12 +843,6 @@
     ]
   },
   {
-    "url": "https://github.com/hapijs/hapi",
-    "feeds": [
-      "https://github.com/hapijs/hapi/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/cypress-io/cypress",
     "feeds": [
       "https://github.com/cypress-io/cypress/releases.atom"
@@ -3187,12 +3181,6 @@
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/panda_program/",
-    "feeds": [
-      "https://zenn.dev/panda_program/feed"
     ]
   },
   {
