@@ -1,13 +1,12 @@
 [
   {
-    "count": 64,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "seuc",
-      "ReleaseNote",
       "security",
       "document",
+      "ReleaseNote",
       "npm",
       "news",
       "nodejs",
@@ -987,22 +986,6 @@
   },
   {
     "count": 3,
-    "url": "https://docs.cypress.io",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "testing",
-      "E2E",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Changelog | Cypress Documentation",
-      "url": "https://docs.cypress.io/guides/references/changelog#13-0-0"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://parceljs.org",
     "tags": [
       "parcel",
@@ -1616,6 +1599,22 @@
       "url": "https://github.com/nodejs/node/releases/tag/v22.4.0"
     },
     "rssUrl": "https://github.com/nodejs/node/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://docs.cypress.io",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "browser",
+      "library",
+      "ReleaseNote",
+      "E2E"
+    ],
+    "example": {
+      "title": "Changelog | Cypress Documentation",
+      "url": "https://docs.cypress.io/guides/references/changelog#13-0-0"
+    }
   },
   {
     "count": 2,
