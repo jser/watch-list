@@ -96,7 +96,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 27,
+    "count": 28,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -112,13 +112,13 @@
       "privacy"
     ],
     "example": {
-      "title": "WebKit Features in Safari 18.1 | WebKit",
-      "url": "https://webkit.org/blog/16188/webkit-features-in-safari-18-1/"
+      "title": "Release Notes for Safari Technology Preview 207 | WebKit",
+      "url": "https://webkit.org/blog/16205/release-notes-for-safari-technology-preview-207/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -128,8 +128,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.7 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/"
+      "title": "Announcing TypeScript 5.7 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -2274,6 +2274,20 @@
       "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
     },
     "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "webpack"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.1 - Rspack",
+      "url": "https://rspack.dev/blog/announcing-1-1"
+    },
+    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
   },
   {
     "count": 2,
@@ -9052,20 +9066,6 @@
       "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "webpack"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.0 - Rspack",
-      "url": "https://rspack.dev/blog/announcing-1-0"
-    },
-    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
   },
   {
     "count": 1,
