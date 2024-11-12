@@ -2091,6 +2091,12 @@
     ]
   },
   {
+    "url": "https://github.com/drogus/jawsm",
+    "feeds": [
+      "https://github.com/drogus/jawsm/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"

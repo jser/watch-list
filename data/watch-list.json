@@ -4,10 +4,9 @@
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "security",
-      "document",
       "ReleaseNote",
       "npm",
+      "security",
       "news",
       "nodejs",
       "secu",
@@ -15,8 +14,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v22.11.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v22.11.0"
+      "title": "Node.js — Node v23.2.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.2.0"
     }
   },
   {
@@ -986,21 +985,6 @@
   },
   {
     "count": 3,
-    "url": "https://parceljs.org",
-    "tags": [
-      "parcel",
-      "bundler",
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Parcel v2.12.0",
-      "url": "https://parceljs.org/blog/v2-12-0/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/ije/esm.sh",
     "tags": [
       "ECMAScript",
@@ -1775,6 +1759,19 @@
       "url": "https://github.com/vanjs-org/van/discussions/72"
     },
     "rssUrl": "https://github.com/vanjs-org/van/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://parceljs.org",
+    "tags": [
+      "bundler",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Parcel v2.12.0",
+      "url": "https://parceljs.org/blog/v2-12-0/"
+    }
   },
   {
     "count": 2,
@@ -9559,5 +9556,19 @@
       "title": "Next.js App Router セキュリティ - Speaker Deck",
       "url": "https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/drogus/jawsm",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "Tools"
+    ],
+    "example": {
+      "title": "drogus/jawsm: JavaScript to WASM compiler",
+      "url": "https://github.com/drogus/jawsm"
+    },
+    "rssUrl": "https://github.com/drogus/jawsm/releases.atom"
   }
 ]
