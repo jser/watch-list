@@ -1465,6 +1465,12 @@
     ]
   },
   {
+    "url": "https://www.keithcirkel.co.uk",
+    "feeds": [
+      "https://www.keithcirkel.co.uk/feed.xml"
+    ]
+  },
+  {
     "url": "https://www.m3tech.blog",
     "feeds": [
       "https://www.m3tech.blog/feed",
