@@ -9394,7 +9394,8 @@
     "example": {
       "title": "What's New in Express.js v5.0",
       "url": "https://www.trevorlasn.com/blog/whats-new-in-express-5"
-    }
+    },
+    "rssUrl": "https://www.trevorlasn.com/rss.xml"
   },
   {
     "count": 1,
