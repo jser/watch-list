@@ -1580,6 +1580,12 @@
     ]
   },
   {
+    "url": "https://www.trevorlasn.com",
+    "feeds": [
+      "https://www.trevorlasn.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.w3.org",
     "feeds": [
       "https://www.w3.org/WAI/feed.xml"
