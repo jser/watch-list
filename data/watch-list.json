@@ -73,25 +73,6 @@
   },
   {
     "count": 28,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Announcing Deno 2",
-      "url": "https://deno.com/blog/v2.0"
-    }
-  },
-  {
-    "count": 28,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -109,6 +90,25 @@
     "example": {
       "title": "Release Notes for Safari Technology Preview 207 | WebKit",
       "url": "https://webkit.org/blog/16205/release-notes-for-safari-technology-preview-207/"
+    }
+  },
+  {
+    "count": 27,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Announcing Deno 2",
+      "url": "https://deno.com/blog/v2.0"
     }
   },
   {
@@ -985,23 +985,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/ije/esm.sh",
-    "tags": [
-      "ECMAScript",
-      "module",
-      "cdn",
-      "ReleaseNote",
-      "library",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v111 · ije/esm.sh",
-      "url": "https://github.com/ije/esm.sh/releases/tag/v111"
-    },
-    "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -1471,6 +1454,23 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/ije/esm.sh",
+    "tags": [
+      "ECMAScript",
+      "cdn",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "module"
+    ],
+    "example": {
+      "title": "Release v111 · ije/esm.sh",
+      "url": "https://github.com/ije/esm.sh/releases/tag/v111"
+    },
+    "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://v2.vuejs.org",
     "tags": [
       "Vue",
@@ -1920,6 +1920,19 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/parcel-bundler/parcel",
+    "tags": [
+      "parcel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.13.0 · parcel-bundler/parcel",
+      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.13.0"
+    },
+    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/farm-fe/farm",
     "tags": [
       "vite",
@@ -2239,19 +2252,6 @@
     "example": {
       "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://portswigger.net",
-    "tags": [
-      "browser",
-      "security",
-      "tutorial"
-    ],
-    "example": {
-      "title": "Client-side prototype pollution | Web Security Academy",
-      "url": "https://portswigger.net/web-security/prototype-pollution"
     }
   },
   {
@@ -5892,19 +5892,6 @@
       "title": "Japa",
       "url": "https://japa.dev/docs/introduction"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/parcel-bundler/parcel",
-    "tags": [
-      "parcel",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.10.0 · parcel-bundler/parcel",
-      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.10.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
   },
   {
     "count": 1,
@@ -9587,6 +9574,32 @@
     "example": {
       "title": "i-html, an inline-html import element",
       "url": "https://www.keithcirkel.co.uk/i-html/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://nuejs.org",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "A better Next.js? • Nue 1.0 (RC) is out - Nue",
+      "url": "https://nuejs.org/blog/nue-release-candidate/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://react-querybuilder.js.org",
+    "tags": [
+      "React",
+      "library",
+      "GUI"
+    ],
+    "example": {
+      "title": "React Query Builder",
+      "url": "https://react-querybuilder.js.org/"
     }
   }
 ]
