@@ -1,6 +1,6 @@
 [
   {
-    "count": 63,
+    "count": 62,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -726,6 +726,23 @@
   },
   {
     "count": 4,
+    "url": "https://www.debugbear.com",
+    "tags": [
+      "Image",
+      "performance",
+      "article",
+      "fonts",
+      "Chrome",
+      "Vue"
+    ],
+    "example": {
+      "title": "How To Optimize Performance In Vue Apps | DebugBear",
+      "url": "https://www.debugbear.com/blog/optimize-vue-performance"
+    },
+    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
+  },
+  {
+    "count": 4,
     "url": "https://vitejs.dev",
     "tags": [
       "vite",
@@ -1067,22 +1084,6 @@
       "title": "フロントエンドカンファレンス北海道 2024 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/yumemi_inc/articles/2024-08-25-frontend-conf-hokkaido-2024"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://www.debugbear.com",
-    "tags": [
-      "Image",
-      "performance",
-      "article",
-      "fonts",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Brand New Performance Features in Chrome DevTools | DebugBear",
-      "url": "https://www.debugbear.com/blog/fix-web-performance-devtools"
-    },
-    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 3,
@@ -2332,31 +2333,6 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://www.gatsbyjs.com",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Gatsby 5: The Fastest Gatsby Yet | Gatsby",
-      "url": "https://www.gatsbyjs.com/blog/gatsby-5/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://frontendmastery.com",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "The evolution of scalable CSS",
-      "url": "https://frontendmastery.com/posts/the-evolution-of-scalable-css/"
-    }
   },
   {
     "count": 1,
@@ -9878,6 +9854,21 @@
     "example": {
       "title": "React Query Builder",
       "url": "https://react-querybuilder.js.org/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://mizu.re",
+    "tags": [
+      "XSS",
+      "JavaScript",
+      "DOM",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Exploring the DOMPurify library: Bypasses and Fixes | mizu.re",
+      "url": "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes"
     }
   }
 ]
