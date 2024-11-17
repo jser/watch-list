@@ -142,7 +142,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/cypress-io/cypress" title="github.com/cypress-io/cypress" type="rss" xmlUrl="https://github.com/cypress-io/cypress/releases.atom"/>
 <outline text="github.com/hadmean/hadmean" title="github.com/hadmean/hadmean" type="rss" xmlUrl="https://github.com/hadmean/hadmean/releases.atom"/>
 <outline text="github.com/1Password/typeshare" title="github.com/1Password/typeshare" type="rss" xmlUrl="https://github.com/1Password/typeshare/releases.atom"/>
 <outline text="github.com/es-meta/esmeta" title="github.com/es-meta/esmeta" type="rss" xmlUrl="https://github.com/es-meta/esmeta/releases.atom"/>

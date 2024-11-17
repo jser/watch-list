@@ -849,12 +849,6 @@
     ]
   },
   {
-    "url": "https://github.com/cypress-io/cypress",
-    "feeds": [
-      "https://github.com/cypress-io/cypress/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/hadmean/hadmean",
     "feeds": [
       "https://github.com/hadmean/hadmean/releases.atom"
