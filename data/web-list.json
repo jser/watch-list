@@ -117,7 +117,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 26,
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -365,23 +365,6 @@
   },
   {
     "count": 9,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "article",
-      "news",
-      "Nuxt"
-    ],
-    "example": {
-      "title": "Nuxt 3.14 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-14"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -459,6 +442,23 @@
       "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 8,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "article",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt"
+    ],
+    "example": {
+      "title": "Nuxt 3.14 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-14"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 7,
@@ -597,24 +597,6 @@
       "url": "https://biomejs.dev/blog/biome-v1-9/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "Angular",
-      "ReleaseNote",
-      "JavaScript",
-      "browser",
-      "testing",
-      "article",
-      "document"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    },
-    "rssUrl": "https://blog.angular.io/feed"
   },
   {
     "count": 5,
@@ -887,6 +869,24 @@
       "url": "https://github.com/esm-dev/esm.sh/releases/tag/v135"
     },
     "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://blog.angular.io",
+    "tags": [
+      "Angular",
+      "ReleaseNote",
+      "JavaScript",
+      "browser",
+      "testing",
+      "article",
+      "document"
+    ],
+    "example": {
+      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
+    },
+    "rssUrl": "https://blog.angular.io/feed"
   },
   {
     "count": 4,
@@ -2333,22 +2333,6 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cypress-io/cypress",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v11.1.0 · cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress/releases/tag/v11.1.0"
-    },
-    "rssUrl": "https://github.com/cypress-io/cypress/releases.atom"
   },
   {
     "count": 1,
