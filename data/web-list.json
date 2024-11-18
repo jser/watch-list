@@ -75,14 +75,14 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 28,
+    "count": 27,
     "url": "https://webkit.org",
     "tags": [
-      "safari",
-      "ReleaseNote",
       "CSS",
       "アンケート",
       "article",
+      "safari",
+      "ReleaseNote",
       "JavaScript",
       "browser",
       "benchmark",
@@ -2333,22 +2333,6 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://link-and-motivation.hatenablog.com",
-    "tags": [
-      "JavaScript",
-      "Github",
-      "Actions",
-      "library",
-      "article"
-    ],
-    "example": {
-      "title": "LernaとGithub Actionsでmonorepoライブラリのリリースを楽にする - Link and Motivation Developers' Blog",
-      "url": "https://link-and-motivation.hatenablog.com/entry/2022/11/16/190305"
-    },
-    "rssUrl": "https://link-and-motivation.hatenablog.com/feed"
   },
   {
     "count": 1,
