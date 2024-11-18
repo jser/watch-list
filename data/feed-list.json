@@ -2218,13 +2218,6 @@
     ]
   },
   {
-    "url": "https://link-and-motivation.hatenablog.com",
-    "feeds": [
-      "https://link-and-motivation.hatenablog.com/feed",
-      "https://link-and-motivation.hatenablog.com/rss"
-    ]
-  },
-  {
     "url": "https://lit.dev",
     "feeds": [
       "https://lit.dev/blog/atom.xml"
