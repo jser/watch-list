@@ -1,6 +1,6 @@
 [
   {
-    "count": 62,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,13 +14,13 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v23.2.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.2.0"
+      "title": "Node.js — Node v23.3.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.3.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 51,
+    "count": 52,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -41,8 +41,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.1.31 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.31"
+      "title": "Bun v1.1.35 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.1.35"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -193,7 +193,7 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -348,7 +348,7 @@
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
-    "count": 10,
+    "count": 9,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -362,33 +362,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.48.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "puppeteer",
-      "article",
-      "node.js",
-      "console",
-      "Tools",
-      "ReleaseNote",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test",
-      "Hono"
-    ],
-    "example": {
-      "title": "The story of web framework Hono, from the creator of Hono",
-      "url": "https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 9,
@@ -442,6 +415,32 @@
       "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 8,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "node.js",
+      "article",
+      "console",
+      "Tools",
+      "ReleaseNote",
+      "HTTP3",
+      "performance",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "Hono"
+    ],
+    "example": {
+      "title": "The story of web framework Hono, from the creator of Hono",
+      "url": "https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -1040,22 +1039,6 @@
   },
   {
     "count": 3,
-    "url": "https://2ality.com",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "article",
-      "node.js",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Ecma International approves ECMAScript 2024: What’s new?",
-      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
-    },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
-  },
-  {
-    "count": 3,
     "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
@@ -1405,20 +1388,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.mizdra.net",
-    "tags": [
-      "CSS",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "tsconfig.json の include オプションには何を指定すべきか - mizdra's blog",
-      "url": "https://www.mizdra.net/entry/2024/07/27/193815"
-    },
-    "rssUrl": "https://www.mizdra.net/feed"
-  },
-  {
-    "count": 2,
     "url": "https://blog.bokken.io",
     "tags": [
       "Chrome",
@@ -1430,6 +1399,21 @@
       "url": "https://blog.bokken.io/articles/2023-02-28/about-clear-site-data.html"
     },
     "rssUrl": "https://blog.bokken.io/feeds/atom.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://2ality.com",
+    "tags": [
+      "node.js",
+      "TypeScript",
+      "article",
+      "ECMAScript"
+    ],
+    "example": {
+      "title": "Ecma International approves ECMAScript 2024: What’s new?",
+      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
   },
   {
     "count": 2,
@@ -2276,6 +2260,19 @@
   },
   {
     "count": 2,
+    "url": "https://blog.angular.dev",
+    "tags": [
+      "Angular",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Meet Angular v19. In the past two years we doubled down… | by Minko Gechev | Nov, 2024 | Angular Blog",
+      "url": "https://blog.angular.dev/meet-angular-v19-7b29dfd05b84"
+    },
+    "rssUrl": "https://blog.angular.dev/feed"
+  },
+  {
+    "count": 2,
     "url": "https://medium.com/airbnb-engineering/",
     "tags": [
       "accessibility",
@@ -2333,51 +2330,6 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.maximeheckel.com",
-    "tags": [
-      "React",
-      "WebGL",
-      "article",
-      "tutorial"
-    ],
-    "example": {
-      "title": "The magical world of Particles with React Three Fiber and Shaders - Maxime Heckel's Blog",
-      "url": "https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/"
-    },
-    "rssUrl": "https://blog.maximeheckel.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.mozilla.org",
-    "tags": [
-      "Firefox",
-      "Extension",
-      "article"
-    ],
-    "example": {
-      "title": "Manifest v3 signing available November 21 on Firefox Nightly | Mozilla Add-ons Community Blog",
-      "url": "https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/"
-    },
-    "rssUrl": "https://blog.mozilla.org/en/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://www.coursera.org",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "tutorial",
-      "video"
-    ],
-    "example": {
-      "title": "メタフロントエンド開発者 プロフェッショナル認定証 | Coursera",
-      "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
-    }
   },
   {
     "count": 1,
@@ -8211,19 +8163,6 @@
   },
   {
     "count": 1,
-    "url": "https://blog.angular.dev",
-    "tags": [
-      "Angular",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Angular v18 is now available!. Today we are excited to share the next… | by Minko Gechev | May, 2024 | Angular Blog",
-      "url": "https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe"
-    },
-    "rssUrl": "https://blog.angular.dev/feed"
-  },
-  {
-    "count": 1,
     "url": "https://lazamar.github.io",
     "tags": [
       "JavaScript",
@@ -8793,6 +8732,19 @@
       "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
     },
     "rssUrl": "https://gist.github.com/azu.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.mizdra.net",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "tsconfig.json の include オプションには何を指定すべきか - mizdra's blog",
+      "url": "https://www.mizdra.net/entry/2024/07/27/193815"
+    },
+    "rssUrl": "https://www.mizdra.net/feed"
   },
   {
     "count": 1,
