@@ -201,19 +201,6 @@
     ]
   },
   {
-    "url": "https://blog.maximeheckel.com",
-    "feeds": [
-      "https://blog.maximeheckel.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://blog.mozilla.org",
-    "feeds": [
-      "https://blog.mozilla.org/en/feed/",
-      "https://blog.mozilla.org/en/comments/feed/"
-    ]
-  },
-  {
     "url": "https://blog.nrwl.io",
     "feeds": [
       "https://blog.nrwl.io/feed"
