@@ -1523,12 +1523,6 @@
     ]
   },
   {
-    "url": "https://www.simoahava.com",
-    "feeds": [
-      "https://www.simoahava.com/index.xml"
-    ]
-  },
-  {
     "url": "https://www.smashingmagazine.com",
     "feeds": [
       "https://www.smashingmagazine.com/feed/"

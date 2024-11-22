@@ -836,12 +836,6 @@
     ]
   },
   {
-    "url": "https://github.com/hadmean/hadmean",
-    "feeds": [
-      "https://github.com/hadmean/hadmean/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/1Password/typeshare",
     "feeds": [
       "https://github.com/1Password/typeshare/releases.atom"
@@ -3062,12 +3056,6 @@
     "url": "https://www.rspack.dev",
     "feeds": [
       "https://www.rspack.dev/rss/blog-en.rss"
-    ]
-  },
-  {
-    "url": "https://www.simoahava.com",
-    "feeds": [
-      "https://www.simoahava.com/index.xml"
     ]
   },
   {

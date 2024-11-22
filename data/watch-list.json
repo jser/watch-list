@@ -72,6 +72,25 @@
     }
   },
   {
+    "count": 28,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 2.1: Wasm Imports and other enhancements",
+      "url": "https://deno.com/blog/v2.1"
+    }
+  },
+  {
     "count": 27,
     "url": "https://webkit.org",
     "tags": [
@@ -90,25 +109,6 @@
     "example": {
       "title": "Release Notes for Safari Technology Preview 207 | WebKit",
       "url": "https://webkit.org/blog/16205/release-notes-for-safari-technology-preview-207/"
-    }
-  },
-  {
-    "count": 27,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Announcing Deno 2",
-      "url": "https://deno.com/blog/v2.0"
     }
   },
   {
@@ -660,24 +660,17 @@
     }
   },
   {
-    "count": 4,
-    "url": "https://docs.google.com",
+    "count": 5,
+    "url": "https://react-spectrum.adobe.com",
     "tags": [
-      "browser",
-      "Chrome",
-      "spec",
-      "document",
-      "JavaScript",
-      "slide",
-      "testing",
-      "vite",
-      "Rust",
-      "rollup",
-      "bundler"
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
     ],
     "example": {
-      "title": "State of Vite (ViteConf 2023) - Google スライド",
-      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
+      "title": "November 20, 2024 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2024-11-20.html"
     }
   },
   {
@@ -986,33 +979,6 @@
     }
   },
   {
-    "count": 4,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "September 30, 2024 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2024-09-30.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "JavaScript",
-      "Survey",
-      "news",
-      "css "
-    ],
-    "example": {
-      "title": "State of CSS 2024",
-      "url": "https://survey.devographics.com/en-US/survey/state-of-css/2024"
-    }
-  },
-  {
     "count": 3,
     "url": "https://zenn.dev/yumemi_inc/",
     "tags": [
@@ -1027,6 +993,23 @@
     "example": {
       "title": "フロントエンドカンファレンス北海道 2024 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/yumemi_inc/articles/2024-08-25-frontend-conf-hokkaido-2024"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://docs.google.com",
+    "tags": [
+      "JavaScript",
+      "slide",
+      "testing",
+      "vite",
+      "Rust",
+      "rollup",
+      "bundler"
+    ],
+    "example": {
+      "title": "State of Vite (ViteConf 2023) - Google スライド",
+      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
     }
   },
   {
@@ -1969,6 +1952,19 @@
   },
   {
     "count": 2,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "css "
+    ],
+    "example": {
+      "title": "State of CSS 2024",
+      "url": "https://survey.devographics.com/en-US/survey/state-of-css/2024"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
@@ -2250,45 +2246,6 @@
     "example": {
       "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/hadmean/hadmean",
-    "tags": [
-      "node.js",
-      "Tools"
-    ],
-    "example": {
-      "title": "hadmean/hadmean: Generate powerful, fully functional, ready-to-be-deployed admin apps in seconds with just `npx hadmean`. No Javascript, no SQL, no components, no tutorials, and finally zero maintenance. Stop building and maintaining admin apps that you can auto-generate.",
-      "url": "https://github.com/hadmean/hadmean"
-    },
-    "rssUrl": "https://github.com/hadmean/hadmean/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.simoahava.com",
-    "tags": [
-      "browser",
-      "safari",
-      "privacy"
-    ],
-    "example": {
-      "title": "Expiration Cap Removed From JavaScript Cookies In WebKit Browsers | Simo Ahava's blog",
-      "url": "https://www.simoahava.com/privacy/first-party-cookies-webkit-revisited/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.techpit.jp",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "book"
-    ],
-    "example": {
-      "title": "JavaScript と比較しながら学ぶ TypeScript | Techpit",
-      "url": "https://www.techpit.jp/courses/248"
     }
   },
   {
