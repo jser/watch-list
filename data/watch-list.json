@@ -2250,24 +2250,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/1Password/typeshare",
-    "tags": [
-      "Rust",
-      "TypeScript",
-      "kotlin",
-      "swift",
-      "golang",
-      "library",
-      "Tools"
-    ],
-    "example": {
-      "title": "1Password/typeshare: Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.",
-      "url": "https://github.com/1Password/typeshare"
-    },
-    "rssUrl": "https://github.com/1Password/typeshare/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/es-meta/esmeta",
     "tags": [
       "ECMAScript",

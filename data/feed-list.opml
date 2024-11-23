@@ -140,7 +140,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/1Password/typeshare" title="github.com/1Password/typeshare" type="rss" xmlUrl="https://github.com/1Password/typeshare/releases.atom"/>
 <outline text="github.com/es-meta/esmeta" title="github.com/es-meta/esmeta" type="rss" xmlUrl="https://github.com/es-meta/esmeta/releases.atom"/>
 <outline text="github.com/shuding/nextra" title="github.com/shuding/nextra" type="rss" xmlUrl="https://github.com/shuding/nextra/releases.atom"/>
 <outline text="github.com/primus/eventemitter3" title="github.com/primus/eventemitter3" type="rss" xmlUrl="https://github.com/primus/eventemitter3/releases.atom"/>
