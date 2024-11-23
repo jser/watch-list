@@ -836,12 +836,6 @@
     ]
   },
   {
-    "url": "https://github.com/1Password/typeshare",
-    "feeds": [
-      "https://github.com/1Password/typeshare/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/es-meta/esmeta",
     "feeds": [
       "https://github.com/es-meta/esmeta/releases.atom"
