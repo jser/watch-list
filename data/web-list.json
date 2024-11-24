@@ -512,23 +512,6 @@
   },
   {
     "count": 6,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.3: New Flow features and a lot of bug fixes · Prettier",
-      "url": "https://prettier.io/blog/2024/06/01/3.3.0.html"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
-  },
-  {
-    "count": 6,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "Next.js",
@@ -683,6 +666,23 @@
       "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
       "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.3: New Flow features and a lot of bug fixes · Prettier",
+      "url": "https://prettier.io/blog/2024/06/01/3.3.0.html"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 5,
