@@ -661,6 +661,22 @@
   },
   {
     "count": 5,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "document",
+      "React",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "React Router v7 | Remix",
+      "url": "https://remix.run/blog/react-router-v7"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -911,22 +927,6 @@
     "example": {
       "title": "Introducing TanStack Router – Frontend Masters Boost",
       "url": "https://frontendmasters.com/blog/introducing-tanstack-router/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "vite",
-      "document",
-      "React",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Merging Remix and React Router | Remix",
-      "url": "https://remix.run/blog/merging-remix-and-react-router"
     }
   },
   {
@@ -2060,6 +2060,21 @@
       "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.0.0"
     },
     "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://azukiazusa.dev",
+    "tags": [
+      "Remix",
+      "article",
+      "playwright",
+      "test",
+      "accessibility"
+    ],
+    "example": {
+      "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
+      "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
+    }
   },
   {
     "count": 2,
@@ -6548,18 +6563,6 @@
       "url": "https://github.com/wevm/vocs"
     },
     "rssUrl": "https://github.com/wevm/vocs/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://azukiazusa.dev",
-    "tags": [
-      "Remix",
-      "article"
-    ],
-    "example": {
-      "title": "Remix の SPA モード",
-      "url": "https://azukiazusa.dev/blog/remix-spa-mode/"
-    }
   },
   {
     "count": 1,
