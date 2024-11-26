@@ -2066,6 +2066,12 @@
     ]
   },
   {
+    "url": "https://github.com/ysk8hori/typescript-graph",
+    "feeds": [
+      "https://github.com/ysk8hori/typescript-graph/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"

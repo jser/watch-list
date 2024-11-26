@@ -117,7 +117,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -127,8 +127,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.7 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-rc/"
+      "title": "Announcing TypeScript 5.7 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -348,7 +348,7 @@
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
-    "count": 9,
+    "count": 10,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -358,8 +358,8 @@
       "testing"
     ],
     "example": {
-      "title": "Release v1.48.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.48.0"
+      "title": "Release v1.49.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.49.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
@@ -717,6 +717,23 @@
   },
   {
     "count": 4,
+    "url": "https://zenn.dev/yumemi_inc/",
+    "tags": [
+      "JavaScript",
+      "Conference",
+      "slire",
+      "video",
+      "HTML",
+      "CSS",
+      "slide"
+    ],
+    "example": {
+      "title": "JSConf JP 2024 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://www.debugbear.com",
     "tags": [
       "Image",
@@ -1016,23 +1033,6 @@
       "url": "https://tailwindcss.com/blog/headless-ui-v2"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://zenn.dev/yumemi_inc/",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "slire",
-      "video",
-      "HTML",
-      "CSS",
-      "slide"
-    ],
-    "example": {
-      "title": "フロントエンドカンファレンス北海道 2024 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/yumemi_inc/articles/2024-08-25-frontend-conf-hokkaido-2024"
-    }
   },
   {
     "count": 3,
@@ -9730,6 +9730,32 @@
     "example": {
       "title": "Exploring the DOMPurify library: Bypasses and Fixes | mizu.re",
       "url": "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ysk8hori/typescript-graph",
+    "tags": [
+      "TypeScript",
+      "tool"
+    ],
+    "example": {
+      "title": "ysk8hori/typescript-graph: A CLI to visualize the dependencies between files in the TypeScript codebase.",
+      "url": "https://github.com/ysk8hori/typescript-graph"
+    },
+    "rssUrl": "https://github.com/ysk8hori/typescript-graph/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://react-scan.million.dev",
+    "tags": [
+      "React",
+      "performance",
+      "tool"
+    ],
+    "example": {
+      "title": "React Scan",
+      "url": "https://react-scan.million.dev/"
     }
   }
 ]
