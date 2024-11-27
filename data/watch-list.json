@@ -626,6 +626,19 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v11.0.0-pre.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.0.0-pre.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://zenn.dev/cybozu_frontend/",
     "tags": [
       "JavaScript",
@@ -787,19 +800,6 @@
       "title": "Implementing Vertical Form Controls | WebKit",
       "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.9.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v10.9.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 4,
@@ -9482,6 +9482,19 @@
     "example": {
       "title": "React Scan",
       "url": "https://react-scan.million.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://2024.stateofhtml.com",
+    "tags": [
+      "HTML",
+      "Survey",
+      "news"
+    ],
+    "example": {
+      "title": "State of HTML 2024",
+      "url": "https://2024.stateofhtml.com/en-US/"
     }
   }
 ]
