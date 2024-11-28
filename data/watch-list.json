@@ -1203,6 +1203,20 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v12.0.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.0.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/redwoodjs/redwood",
     "tags": [
       "JavaScript",
@@ -1612,20 +1626,6 @@
       "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#830"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/vueuse/vueuse",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v11.0.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v11.0.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 2,
