@@ -156,15 +156,15 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 130.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/130.0/releasenotes/"
+      "title": "Firefox 133.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/133.0/releasenotes/"
     }
   },
   {
@@ -561,22 +561,6 @@
   },
   {
     "count": 5,
-    "url": "https://wasmer.io",
-    "tags": [
-      "WebAssembly",
-      "ReleaseNote",
-      "article",
-      "webservice",
-      "JavaScript",
-      "ServiceWorker"
-    ],
-    "example": {
-      "title": "WinterJS 1.0 · Blog · Wasmer",
-      "url": "https://wasmer.io/posts/winterjs-v1"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.blog",
     "tags": [
       "npm",
@@ -846,6 +830,22 @@
     "example": {
       "title": "pnpm 9.5 Introduces Catalogs: Shareable Dependency Version Specifiers - Socket",
       "url": "https://socket.dev/blog/pnpm-9-5-introduces-catalogs-shareable-dependency-version-specifiers"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://wasmer.io",
+    "tags": [
+      "WebAssembly",
+      "article",
+      "webservice",
+      "JavaScript",
+      "ServiceWorker",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "WinterJS 1.0 · Blog · Wasmer",
+      "url": "https://wasmer.io/posts/winterjs-v1"
     }
   },
   {
@@ -2261,59 +2261,6 @@
     "example": {
       "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/es-meta/esmeta",
-    "tags": [
-      "ECMAScript",
-      "JavaScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "es-meta/esmeta: ECMAScript Specification (ECMA-262) Metalanguage",
-      "url": "https://github.com/es-meta/esmeta"
-    },
-    "rssUrl": "https://github.com/es-meta/esmeta/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/0kate/",
-    "tags": [
-      "WebAssembly",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Wasmはなぜセキュアなのか？",
-      "url": "https://zenn.dev/0kate/articles/83e48c177ff709"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://trpc.io",
-    "tags": [
-      "TypeScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing tRPC v10 | tRPC",
-      "url": "https://trpc.io/blog/announcing-trpc-10"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://jrsinclair.com",
-    "tags": [
-      "JavaScript",
-      "functional",
-      "book"
-    ],
-    "example": {
-      "title": "A Skeptic’s Guide to Functional Programming with JavaScript",
-      "url": "https://jrsinclair.com/skeptics-guide"
     }
   },
   {
@@ -9496,5 +9443,20 @@
       "title": "State of HTML 2024",
       "url": "https://2024.stateofhtml.com/en-US/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nodejs/undici",
+    "tags": [
+      "nodejs",
+      "Fetch",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v7.0.0 · nodejs/undici",
+      "url": "https://github.com/nodejs/undici/releases/tag/v7.0.0"
+    },
+    "rssUrl": "https://github.com/nodejs/undici/releases.atom"
   }
 ]
