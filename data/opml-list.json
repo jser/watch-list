@@ -593,12 +593,6 @@
     ]
   },
   {
-    "url": "https://jrsinclair.com",
-    "feeds": [
-      "https://jrsinclair.com/index.rss"
-    ]
-  },
-  {
     "url": "https://katashin.info",
     "feeds": [
       "https://katashin.info/feed/feed.xml"
@@ -1197,13 +1191,6 @@
     ]
   },
   {
-    "url": "https://trpc.io",
-    "feeds": [
-      "https://trpc.io/blog/rss.xml",
-      "https://trpc.io/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://turbo.build",
     "feeds": [
       "https://turbo.build/feed.xml"
@@ -1615,12 +1602,6 @@
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/0kate/",
-    "feeds": [
-      "https://zenn.dev/0kate/feed"
     ]
   },
   {

@@ -836,12 +836,6 @@
     ]
   },
   {
-    "url": "https://github.com/es-meta/esmeta",
-    "feeds": [
-      "https://github.com/es-meta/esmeta/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/shuding/nextra",
     "feeds": [
       "https://github.com/shuding/nextra/releases.atom"
@@ -2072,6 +2066,12 @@
     ]
   },
   {
+    "url": "https://github.com/nodejs/undici",
+    "feeds": [
+      "https://github.com/nodejs/undici/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2120,12 +2120,6 @@
     "url": "https://jakearchibald.com",
     "feeds": [
       "https://jakearchibald.com/posts.rss"
-    ]
-  },
-  {
-    "url": "https://jrsinclair.com",
-    "feeds": [
-      "https://jrsinclair.com/index.rss"
     ]
   },
   {
@@ -2733,13 +2727,6 @@
     ]
   },
   {
-    "url": "https://trpc.io",
-    "feeds": [
-      "https://trpc.io/blog/rss.xml",
-      "https://trpc.io/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://turbo.build",
     "feeds": [
       "https://turbo.build/feed.xml"
@@ -3161,12 +3148,6 @@
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/0kate/",
-    "feeds": [
-      "https://zenn.dev/0kate/feed"
     ]
   },
   {
