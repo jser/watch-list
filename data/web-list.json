@@ -193,7 +193,7 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -201,8 +201,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm 10.0 Alpha 0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-alpha.0"
+      "title": "Release pnpm v10.0 Beta 1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-beta.1"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -950,6 +950,25 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "JavaScript",
+      "node.js",
+      "database",
+      "library",
+      "ReleaseNote",
+      "prisma",
+      "MySQL",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Release 6.0.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://frontendmasters.com",
     "tags": [
       "JavaScript",
@@ -1298,24 +1317,6 @@
       "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
     },
     "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "database",
-      "library",
-      "ReleaseNote",
-      "prisma",
-      "MySQL"
-    ],
-    "example": {
-      "title": "Release 5.19.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/5.19.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 3,
