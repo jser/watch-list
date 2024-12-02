@@ -199,6 +199,7 @@
 <outline text="v2.vuejs.org" title="v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
 <outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
+<outline text="vite.dev" title="vite.dev" type="rss" xmlUrl="https://vite.dev/blog.rss"/>
 <outline text="viteconf.org" title="viteconf.org" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="web-platform-dx.github.io" title="web-platform-dx.github.io" type="rss" xmlUrl="https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"/>

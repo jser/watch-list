@@ -596,6 +596,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -635,12 +641,6 @@
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -2777,6 +2777,12 @@
     "url": "https://vercel.com",
     "feeds": [
       "https://vercel.com/atom"
+    ]
+  },
+  {
+    "url": "https://vite.dev",
+    "feeds": [
+      "https://vite.dev/blog.rss"
     ]
   },
   {
