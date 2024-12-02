@@ -232,19 +232,6 @@
     }
   },
   {
-    "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 33.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-33-0"
-    }
-  },
-  {
     "count": 12,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -270,6 +257,19 @@
     "example": {
       "title": "Our Journey with Caching | Next.js",
       "url": "https://nextjs.org/blog/our-journey-with-caching"
+    }
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 33.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-33-0"
     }
   },
   {
@@ -674,6 +674,22 @@
   },
   {
     "count": 5,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "UI",
+      "React",
+      "css "
+    ],
+    "example": {
+      "title": "Tailwind CSS v4.0 Beta 1 - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/tailwindcss-v4-beta"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -751,6 +767,21 @@
       "title": "Qwik Reaches v1.0",
       "url": "https://www.builder.io/blog/qwik-v1"
     }
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "library",
+      "redux",
+      "ReleaseNote",
+      "React"
+    ],
+    "example": {
+      "title": "Release v2.4.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.4.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 4,
@@ -983,21 +1014,6 @@
     }
   },
   {
-    "count": 4,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "UI",
-      "React"
-    ],
-    "example": {
-      "title": "Headless UI v2.0 for React - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/headless-ui-v2"
-    }
-  },
-  {
     "count": 3,
     "url": "https://docs.google.com",
     "tags": [
@@ -1083,21 +1099,6 @@
       "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/rollup/rollup/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "library",
-      "redux",
-      "ReleaseNote",
-      "React"
-    ],
-    "example": {
-      "title": "Release v2.3.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.3.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 3,
@@ -9428,5 +9429,17 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.0.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://vite.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vite 6.0 is out! | Vite",
+      "url": "https://vite.dev/blog/announcing-vite6"
+    }
   }
 ]

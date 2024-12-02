@@ -1244,6 +1244,12 @@
     ]
   },
   {
+    "url": "https://vite.dev",
+    "feeds": [
+      "https://vite.dev/blog.rss"
+    ]
+  },
+  {
     "url": "https://viteconf.org",
     "feeds": [
       "https://www.youtube.com/feed/subscriptions",
