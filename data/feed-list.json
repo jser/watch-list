@@ -2072,6 +2072,18 @@
     ]
   },
   {
+    "url": "https://github.com/eslint/css",
+    "feeds": [
+      "https://github.com/eslint/css/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/litdb/litdb",
+    "feeds": [
+      "https://github.com/litdb/litdb/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
