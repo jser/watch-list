@@ -9713,5 +9713,33 @@
       "url": "https://vite.dev/blog/announcing-vite6"
     },
     "rssUrl": "https://vite.dev/blog.rss"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/eslint/css",
+    "tags": [
+      "ESLint",
+      "css ",
+      "plugin"
+    ],
+    "example": {
+      "title": "eslint/css: CSS language plugin for ESLint",
+      "url": "https://github.com/eslint/css"
+    },
+    "rssUrl": "https://github.com/eslint/css/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/litdb/litdb",
+    "tags": [
+      "TypeScript",
+      "database",
+      "library"
+    ],
+    "example": {
+      "title": "litdb/litdb: Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL",
+      "url": "https://github.com/litdb/litdb"
+    },
+    "rssUrl": "https://github.com/litdb/litdb/releases.atom"
   }
 ]
