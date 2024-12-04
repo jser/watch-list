@@ -1,6 +1,6 @@
 [
   {
-    "count": 63,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "windows"
     ],
     "example": {
-      "title": "Node.js — Node v23.3.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.3.0"
+      "title": "Node.js — Trip report: Node.js collaboration summit (2024 Dublin)",
+      "url": "https://nodejs.org/en/blog/events/collab-summit-2024-dublin"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -2269,6 +2269,22 @@
       "url": "https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd"
     },
     "rssUrl": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/mizchi/",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "article",
+      "Chrome",
+      "debug"
+    ],
+    "example": {
+      "title": "DevTools の使い方を可能な限りスクショ付きで解説してみる",
+      "url": "https://zenn.dev/mizchi/scraps/c72e6a55deca18"
+    },
+    "rssUrl": "https://zenn.dev/mizchi/feed"
   },
   {
     "count": 2,
@@ -8158,20 +8174,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/mizchi/",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "TypeScriptの型と値とバリデーション",
-      "url": "https://zenn.dev/mizchi/articles/typescript-type-value-validation"
-    },
-    "rssUrl": "https://zenn.dev/mizchi/feed"
-  },
-  {
-    "count": 1,
     "url": "https://codemod.com",
     "tags": [
       "React",
@@ -9741,5 +9743,21 @@
       "url": "https://github.com/litdb/litdb"
     },
     "rssUrl": "https://github.com/litdb/litdb/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/berlysia/",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "nodejs",
+      "module",
+      "slide"
+    ],
+    "example": {
+      "title": "JavaScriptのモジュール解決の相互運用性 / JSConf JP 2024 - Interoperability of Module Resolutions in JavaScript - Speaker Deck",
+      "url": "https://speakerdeck.com/berlysia/interoperability-of-module-resolutions-in-javascript"
+    },
+    "rssUrl": "https://speakerdeck.com/berlysia.atom"
   }
 ]
