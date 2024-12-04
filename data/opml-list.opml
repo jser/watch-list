@@ -173,6 +173,7 @@
 <outline text="speakerdeck.com/steelydylan/" title="speakerdeck.com/steelydylan/" type="rss" xmlUrl="https://speakerdeck.com/steelydylan.atom"/>
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
 <outline text="speakerdeck.com/zaru_sakuraba/" title="speakerdeck.com/zaru_sakuraba/" type="rss" xmlUrl="https://speakerdeck.com/zaru_sakuraba.atom"/>
+<outline text="speakerdeck.com/berlysia/" title="speakerdeck.com/berlysia/" type="rss" xmlUrl="https://speakerdeck.com/berlysia.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stylexjs.com" title="stylexjs.com" type="rss" xmlUrl="https://stylexjs.com/blog/rss.xml"/>
@@ -255,6 +256,7 @@
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
+<outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/yhatt/" title="zenn.dev/yhatt/" type="rss" xmlUrl="https://zenn.dev/yhatt/feed"/>
 <outline text="zenn.dev/yend724/" title="zenn.dev/yend724/" type="rss" xmlUrl="https://zenn.dev/yend724/feed"/>
 <outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
@@ -273,7 +275,6 @@
 <outline text="zenn.dev/yamachan0625/" title="zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 <outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
-<outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 <outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
 </body>

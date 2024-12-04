@@ -2619,6 +2619,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/berlysia/",
+    "feeds": [
+      "https://speakerdeck.com/berlysia.atom",
+      "https://speakerdeck.com/berlysia.rss"
+    ]
+  },
+  {
     "url": "https://spidermonkey.dev",
     "feeds": [
       "https://spidermonkey.dev/feed.xml"
@@ -3169,6 +3176,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/mizchi/",
+    "feeds": [
+      "https://zenn.dev/mizchi/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/yhatt/",
     "feeds": [
       "https://zenn.dev/yhatt/feed"
@@ -3274,12 +3287,6 @@
     "url": "https://zenn.dev/uhyo/",
     "feeds": [
       "https://zenn.dev/uhyo/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mizchi/",
-    "feeds": [
-      "https://zenn.dev/mizchi/feed"
     ]
   },
   {
