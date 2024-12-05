@@ -836,18 +836,6 @@
     ]
   },
   {
-    "url": "https://github.com/shuding/nextra",
-    "feeds": [
-      "https://github.com/shuding/nextra/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/primus/eventemitter3",
-    "feeds": [
-      "https://github.com/primus/eventemitter3/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/elysiajs/elysia",
     "feeds": [
       "https://github.com/elysiajs/elysia/releases.atom"

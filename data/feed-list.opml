@@ -140,8 +140,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/shuding/nextra" title="github.com/shuding/nextra" type="rss" xmlUrl="https://github.com/shuding/nextra/releases.atom"/>
-<outline text="github.com/primus/eventemitter3" title="github.com/primus/eventemitter3" type="rss" xmlUrl="https://github.com/primus/eventemitter3/releases.atom"/>
 <outline text="github.com/elysiajs/elysia" title="github.com/elysiajs/elysia" type="rss" xmlUrl="https://github.com/elysiajs/elysia/releases.atom"/>
 <outline text="github.com/socketsupply/socket" title="github.com/socketsupply/socket" type="rss" xmlUrl="https://github.com/socketsupply/socket/releases.atom"/>
 <outline text="github.com/DanielXMoore/Civet" title="github.com/DanielXMoore/Civet" type="rss" xmlUrl="https://github.com/DanielXMoore/Civet/releases.atom"/>
