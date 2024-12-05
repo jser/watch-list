@@ -1341,20 +1341,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.prisma.io",
-    "tags": [
-      "TypeScript",
-      "article",
-      "database",
-      "library"
-    ],
-    "example": {
-      "title": "Prisma Client Just Became a Lot More Flexible",
-      "url": "https://www.prisma.io/blog/client-extensions-preview-8t3w27xkrxxn"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://dwango.github.io",
     "tags": [
       "CSS",
@@ -2254,33 +2240,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/shuding/nextra",
-    "tags": [
-      "Next.js",
-      "library"
-    ],
-    "example": {
-      "title": "shuding/nextra: Simple, powerful and flexible site generation framework with everything you love from Next.js.",
-      "url": "https://github.com/shuding/nextra"
-    },
-    "rssUrl": "https://github.com/shuding/nextra/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/primus/eventemitter3",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 5.0.0 · primus/eventemitter3",
-      "url": "https://github.com/primus/eventemitter3/releases/tag/5.0.0"
-    },
-    "rssUrl": "https://github.com/primus/eventemitter3/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://escape.tech",
     "tags": [
       "Vue",
@@ -2441,6 +2400,20 @@
     "example": {
       "title": "RUM Archive - Homepage",
       "url": "https://rumarchive.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.prisma.io",
+    "tags": [
+      "TypeScript",
+      "database",
+      "library",
+      "article"
+    ],
+    "example": {
+      "title": "Prisma Client Just Became a Lot More Flexible",
+      "url": "https://www.prisma.io/blog/client-extensions-preview-8t3w27xkrxxn"
     }
   },
   {
