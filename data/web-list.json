@@ -242,21 +242,6 @@
   },
   {
     "count": 12,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-10 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/10/12/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 12,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -322,6 +307,21 @@
       "url": "https://storybook.js.org/blog/storybook-8-4/"
     },
     "rssUrl": "https://storybook.js.org/blog/rss/"
+  },
+  {
+    "count": 11,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-10 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/10/12/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 11,
@@ -728,23 +728,6 @@
       "title": "November 20, 2024 Release – React Spectrum Releases",
       "url": "https://react-spectrum.adobe.com/releases/2024-11-20.html"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://www.debugbear.com",
-    "tags": [
-      "Image",
-      "performance",
-      "article",
-      "fonts",
-      "Chrome",
-      "Vue"
-    ],
-    "example": {
-      "title": "How To Optimize Performance In Vue Apps | DebugBear",
-      "url": "https://www.debugbear.com/blog/optimize-vue-performance"
-    },
-    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1385,21 +1368,20 @@
     "rssUrl": "https://v8.dev/blog.atom"
   },
   {
-    "count": 2,
-    "url": "https://dwango.github.io",
+    "count": 3,
+    "url": "https://www.debugbear.com",
     "tags": [
-      "CSS",
-      "SVG",
-      "Cargo",
-      "HTML",
-      "browser",
-      "article"
+      "article",
+      "fonts",
+      "performance",
+      "Chrome",
+      "Vue"
     ],
     "example": {
-      "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
-      "url": "https://dwango.github.io/articles/html-loading-attribute/"
+      "title": "How To Optimize Performance In Vue Apps | DebugBear",
+      "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     },
-    "rssUrl": "https://dwango.github.io/index.xml"
+    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 2,
@@ -6091,6 +6073,20 @@
       "title": "HTML DOM — Phuoc Nguyen",
       "url": "https://phuoc.ng/collection/html-dom/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://dwango.github.io",
+    "tags": [
+      "HTML",
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
+      "url": "https://dwango.github.io/articles/html-loading-attribute/"
+    },
+    "rssUrl": "https://dwango.github.io/index.xml"
   },
   {
     "count": 1,
