@@ -47,17 +47,17 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 45,
+    "count": 43,
     "url": "https://developer.chrome.com",
     "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "performance",
-      "article",
       "JavaScript",
       "browser",
+      "article",
+      "Chrome",
       "debug",
       "Tools",
+      "performance",
+      "ReleaseNote",
       "puppeteer",
       "CSS",
       "HTML",
@@ -582,25 +582,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "security",
-      "article",
-      "Github",
-      "news",
-      "nodejs",
-      "github",
-      "Actions"
-    ],
-    "example": {
-      "title": "End of life for Actions Node16 - GitHub Changelog",
-      "url": "https://github.blog/changelog/2024-09-25-end-of-life-for-actions-node16/"
-    },
-    "rssUrl": "https://github.blog/feed/"
-  },
-  {
-    "count": 5,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -896,6 +877,25 @@
   },
   {
     "count": 4,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "security",
+      "article",
+      "Github",
+      "news",
+      "nodejs",
+      "github",
+      "Actions"
+    ],
+    "example": {
+      "title": "End of life for Actions Node16 - GitHub Changelog",
+      "url": "https://github.blog/changelog/2024-09-25-end-of-life-for-actions-node16/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 4,
     "url": "https://blog.angular.io",
     "tags": [
       "Angular",
@@ -1034,23 +1034,6 @@
       "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://docs.google.com",
-    "tags": [
-      "JavaScript",
-      "slide",
-      "testing",
-      "vite",
-      "Rust",
-      "rollup",
-      "bundler"
-    ],
-    "example": {
-      "title": "State of Vite (ViteConf 2023) - Google スライド",
-      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
-    }
   },
   {
     "count": 3,
@@ -1382,20 +1365,6 @@
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     },
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://tkdodo.eu",
-    "tags": [
-      "JavaScript",
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "React 19 and Suspense - A Drama in 3 Acts | TkDodo's blog",
-      "url": "https://tkdodo.eu/blog/react-19-and-suspense-a-drama-in-3-acts"
-    },
-    "rssUrl": "https://tkdodo.eu/blog/rss.xml"
   },
   {
     "count": 2,
@@ -1802,6 +1771,23 @@
       "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
     },
     "rssUrl": "https://www.totaltypescript.com/rss.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://docs.google.com",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "slide",
+      "vite",
+      "Rust",
+      "rollup",
+      "bundler"
+    ],
+    "example": {
+      "title": "State of Vite (ViteConf 2023) - Google スライド",
+      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
+    }
   },
   {
     "count": 2,
@@ -2298,48 +2284,6 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://escape.tech",
-    "tags": [
-      "Vue",
-      "Svelte",
-      "article"
-    ],
-    "example": {
-      "title": "Migrating from Vue 2 to Svelte",
-      "url": "https://escape.tech/blog/from-vue2-to-svelte/"
-    },
-    "rssUrl": "https://escape.tech/blog/rss/"
-  },
-  {
-    "count": 1,
-    "url": "https://marvinh.dev",
-    "tags": [
-      "JavaScript",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Speeding up the JavaScript ecosystem - one library at a time",
-      "url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/"
-    },
-    "rssUrl": "https://marvinh.dev/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/elysiajs/elysia",
-    "tags": [
-      "Bun",
-      "library",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "elysiajs/elysia: Fast, and friendly Bun web framework",
-      "url": "https://github.com/elysiajs/elysia"
-    },
-    "rssUrl": "https://github.com/elysiajs/elysia/releases.atom"
   },
   {
     "count": 1,
@@ -8273,6 +8217,19 @@
       "url": "https://github.com/facebook/relay/releases/tag/v17.0.0"
     },
     "rssUrl": "https://github.com/facebook/relay/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://tkdodo.eu",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "React 19 and Suspense - A Drama in 3 Acts | TkDodo's blog",
+      "url": "https://tkdodo.eu/blog/react-19-and-suspense-a-drama-in-3-acts"
+    },
+    "rssUrl": "https://tkdodo.eu/blog/rss.xml"
   },
   {
     "count": 1,

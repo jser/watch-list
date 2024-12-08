@@ -480,12 +480,6 @@
     ]
   },
   {
-    "url": "https://escape.tech",
-    "feeds": [
-      "https://escape.tech/blog/rss/"
-    ]
-  },
-  {
     "url": "https://eslint.org",
     "feeds": [
       "https://eslint.org/feed.xml"
@@ -686,12 +680,6 @@
       "https://marmooo.blogspot.com/feeds/posts/default",
       "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
       "https://www.blogger.com/feeds/8574128763595619046/posts/default"
-    ]
-  },
-  {
-    "url": "https://marvinh.dev",
-    "feeds": [
-      "https://marvinh.dev/feed.xml"
     ]
   },
   {
