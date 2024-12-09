@@ -256,6 +256,21 @@
   },
   {
     "count": 12,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-12 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -307,21 +322,6 @@
       "url": "https://storybook.js.org/blog/storybook-8-4/"
     },
     "rssUrl": "https://storybook.js.org/blog/rss/"
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-10 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/10/12/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 11,
@@ -418,6 +418,24 @@
   },
   {
     "count": 8,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "document",
+      "news",
+      "article",
+      "TypeScript",
+      "ReleaseNote",
+      "babel"
+    ],
+    "example": {
+      "title": "React v19 – React",
+      "url": "https://react.dev/blog/2024/12/05/react-19"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 8,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -474,24 +492,6 @@
       "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
     },
     "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "document",
-      "news",
-      "article",
-      "TypeScript",
-      "ReleaseNote",
-      "babel"
-    ],
-    "example": {
-      "title": "React Compiler – React",
-      "url": "https://react.dev/learn/react-compiler"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 7,
@@ -9685,5 +9685,32 @@
       "url": "https://speakerdeck.com/berlysia/interoperability-of-module-resolutions-in-javascript"
     },
     "rssUrl": "https://speakerdeck.com/berlysia.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/okkun/",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "改めて学ぶ satisfies 演算子",
+      "url": "https://zenn.dev/okkun/articles/ed6f146e03c60a"
+    },
+    "rssUrl": "https://zenn.dev/okkun/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/thiry/",
+    "tags": [
+      "webpack",
+      "rspack",
+      "article"
+    ],
+    "example": {
+      "title": "ニコニコ生放送のアプリケーションにRspackを導入している話",
+      "url": "https://zenn.dev/thiry/articles/0f671d086b2fb0"
+    },
+    "rssUrl": "https://zenn.dev/thiry/feed"
   }
 ]

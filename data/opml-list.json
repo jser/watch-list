@@ -1730,5 +1730,17 @@
     "feeds": [
       "https://zenn.dev/ryo_kawamata/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/okkun/",
+    "feeds": [
+      "https://zenn.dev/okkun/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/thiry/",
+    "feeds": [
+      "https://zenn.dev/thiry/feed"
+    ]
   }
 ]
