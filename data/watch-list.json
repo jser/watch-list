@@ -386,6 +386,22 @@
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
+    "count": 9,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "article",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt"
+    ],
+    "example": {
+      "title": "Introducing Nuxt Icon v1 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/nuxt-icon-v1-0"
+    }
+  },
+  {
     "count": 8,
     "url": "https://www.rspack.dev",
     "tags": [
@@ -442,22 +458,6 @@
     "example": {
       "title": "The story of web framework Hono, from the creator of Hono",
       "url": "https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/"
-    }
-  },
-  {
-    "count": 8,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "article",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt"
-    ],
-    "example": {
-      "title": "Nuxt 3.14 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-14"
     }
   },
   {
