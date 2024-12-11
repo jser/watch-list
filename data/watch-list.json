@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 52,
+    "count": 51,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "count": 43,
+    "count": 44,
     "url": "https://developer.chrome.com",
     "tags": [
       "JavaScript",
@@ -67,8 +67,8 @@
       "Firefox"
     ],
     "example": {
-      "title": "Request for developer feedback: customizable select  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/rfc-customizable-select"
+      "title": "What's new in DevTools, Chrome 132  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-132?hl=en"
     }
   },
   {
@@ -168,7 +168,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://astro.build",
     "tags": [
       "JavaScript",
@@ -180,8 +180,8 @@
       "article"
     ],
     "example": {
-      "title": "Astro 5.0 Beta Release | Astro",
-      "url": "https://astro.build/blog/astro-5-beta/"
+      "title": "Astro 5.0 | Astro",
+      "url": "https://astro.build/blog/astro-5/"
     }
   },
   {
@@ -999,19 +999,6 @@
   },
   {
     "count": 3,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Ember 5.0 Released",
-      "url": "https://blog.emberjs.com/ember-5-0-released/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://rome.tools",
     "tags": [
       "JavaScript",
@@ -1291,6 +1278,19 @@
   },
   {
     "count": 3,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "css "
+    ],
+    "example": {
+      "title": "State of JavaScript 2024",
+      "url": "https://survey.devographics.com/survey/state-of-js/2024"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://v8.dev",
     "tags": [
       "ECMAScript",
@@ -1319,33 +1319,6 @@
     "example": {
       "title": "How To Optimize Performance In Vue Apps | DebugBear",
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://tauri.app",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "mobile",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Tauri 1.3.0 | Tauri Apps",
-      "url": "https://tauri.app/blog/2023/05/03/tauri-1-3/"
     }
   },
   {
@@ -1585,6 +1558,19 @@
   },
   {
     "count": 2,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ember 5.0 Released",
+      "url": "https://blog.emberjs.com/ember-5-0-released/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://babylonjs.medium.com",
     "tags": [
       "JavaScript",
@@ -1764,6 +1750,21 @@
   },
   {
     "count": 2,
+    "url": "https://kurtextrem.de",
+    "tags": [
+      "JavaScript",
+      "SVG",
+      "article",
+      "performance",
+      "React"
+    ],
+    "example": {
+      "title": "How To Improve INP: Yield Patterns | Jacob 'Kurt' Groß",
+      "url": "https://kurtextrem.de/posts/improve-inp"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://blog.getbootstrap.com",
     "tags": [
       "CSP",
@@ -1878,19 +1879,6 @@
     "example": {
       "title": "Temporalを取り巻く仕様を整理する - Speaker Deck",
       "url": "https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "JavaScript",
-      "Survey",
-      "css "
-    ],
-    "example": {
-      "title": "State of CSS 2024",
-      "url": "https://survey.devographics.com/en-US/survey/state-of-css/2024"
     }
   },
   {
@@ -2207,63 +2195,6 @@
       "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/socketsupply/socket",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "software"
-    ],
-    "example": {
-      "title": "socketsupply/socket: Create networked, native, cross-platform software on mobile and desktop using HTML, CSS, and JavaScript.",
-      "url": "https://github.com/socketsupply/socket"
-    },
-    "rssUrl": "https://github.com/socketsupply/socket/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/DanielXMoore/Civet",
-    "tags": [
-      "CoffeeScript",
-      "TypeScript",
-      "Tools",
-      "program"
-    ],
-    "example": {
-      "title": "DanielXMoore/Civet: The CoffeeScript of TypeScript",
-      "url": "https://github.com/DanielXMoore/Civet"
-    },
-    "rssUrl": "https://github.com/DanielXMoore/Civet/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://swr.vercel.app",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing SWR 2.0 – SWR",
-      "url": "https://swr.vercel.app/blog/swr-v2"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/zenorocha/react-email",
-    "tags": [
-      "React",
-      "mail",
-      "library"
-    ],
-    "example": {
-      "title": "zenorocha/react-email: 💌 Build and send emails using React",
-      "url": "https://github.com/zenorocha/react-email"
-    },
-    "rssUrl": "https://github.com/zenorocha/react-email/releases.atom"
   },
   {
     "count": 1,
@@ -4024,6 +3955,19 @@
   },
   {
     "count": 1,
+    "url": "https://tauri.app",
+    "tags": [
+      "Rust",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Tauri 1.3.0 | Tauri Apps",
+      "url": "https://tauri.app/blog/2023/05/03/tauri-1-3/"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/SBoudrias/Inquirer.js",
     "tags": [
       "node.js",
@@ -4090,6 +4034,19 @@
     "example": {
       "title": "5 Lessons Learned From Taking Next.js App Router to Production - Inngest Blog",
       "url": "https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.chromium.org",
+    "tags": [
+      "Chrome",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "Chromium Blog: An Update on the Lock Icon",
+      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
     }
   },
   {
@@ -4558,20 +4515,6 @@
       "url": "https://github.com/gibbok/typescript-book"
     },
     "rssUrl": "https://github.com/gibbok/typescript-book/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://kurtextrem.de",
-    "tags": [
-      "JavaScript",
-      "SVG",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Breaking Up with SVG-in-JS in 2023 | Jacob Groß | kurtextrem.de",
-      "url": "https://kurtextrem.de/posts/svg-in-js"
-    }
   },
   {
     "count": 1,
@@ -9439,5 +9382,48 @@
       "title": "ニコニコ生放送のアプリケーションにRspackを導入している話",
       "url": "https://zenn.dev/thiry/articles/0f671d086b2fb0"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://chrome.dev",
+    "tags": [
+      "browser",
+      "css ",
+      "document",
+      "example",
+      "Chrome"
+    ],
+    "example": {
+      "title": "CSS Wrapped 2024",
+      "url": "https://chrome.dev/css-wrapped-2024/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://medium.com/airtable-eng/",
+    "tags": [
+      "TypeScript",
+      "article",
+      "performance"
+    ],
+    "example": {
+      "title": "A leap in the evolution of Airtable’s codebase: Scaling TypeScript to thousands of projects | by Michael Mitchell | The Airtable Engineering Blog | Dec, 2024 | Medium",
+      "url": "https://medium.com/airtable-eng/a-leap-in-the-evolution-of-airtables-codebase-scaling-typescript-to-thousands-of-projects-734326c3a553"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/onlook-dev/onlook",
+    "tags": [
+      "React",
+      "figma",
+      "editor",
+      "software"
+    ],
+    "example": {
+      "title": "onlook-dev/onlook: The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.",
+      "url": "https://github.com/onlook-dev/onlook"
+    },
+    "rssUrl": "https://github.com/onlook-dev/onlook/releases.atom"
   }
 ]

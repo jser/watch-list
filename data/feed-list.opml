@@ -139,9 +139,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/socketsupply/socket" title="github.com/socketsupply/socket" type="rss" xmlUrl="https://github.com/socketsupply/socket/releases.atom"/>
-<outline text="github.com/DanielXMoore/Civet" title="github.com/DanielXMoore/Civet" type="rss" xmlUrl="https://github.com/DanielXMoore/Civet/releases.atom"/>
-<outline text="github.com/zenorocha/react-email" title="github.com/zenorocha/react-email" type="rss" xmlUrl="https://github.com/zenorocha/react-email/releases.atom"/>
 <outline text="github.com/rafasofizada/pechkin" title="github.com/rafasofizada/pechkin" type="rss" xmlUrl="https://github.com/rafasofizada/pechkin/releases.atom"/>
 <outline text="github.com/bluwy/publint" title="github.com/bluwy/publint" type="rss" xmlUrl="https://github.com/bluwy/publint/releases.atom"/>
 <outline text="github.com/ericclemmons/click-to-component" title="github.com/ericclemmons/click-to-component" type="rss" xmlUrl="https://github.com/ericclemmons/click-to-component/releases.atom"/>
@@ -344,6 +341,7 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/eslint/css" title="github.com/eslint/css" type="rss" xmlUrl="https://github.com/eslint/css/releases.atom"/>
 <outline text="github.com/litdb/litdb" title="github.com/litdb/litdb" type="rss" xmlUrl="https://github.com/litdb/litdb/releases.atom"/>
+<outline text="github.com/onlook-dev/onlook" title="github.com/onlook-dev/onlook" type="rss" xmlUrl="https://github.com/onlook-dev/onlook/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>

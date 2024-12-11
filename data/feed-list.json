@@ -830,24 +830,6 @@
     ]
   },
   {
-    "url": "https://github.com/socketsupply/socket",
-    "feeds": [
-      "https://github.com/socketsupply/socket/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/DanielXMoore/Civet",
-    "feeds": [
-      "https://github.com/DanielXMoore/Civet/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/zenorocha/react-email",
-    "feeds": [
-      "https://github.com/zenorocha/react-email/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/rafasofizada/pechkin",
     "feeds": [
       "https://github.com/rafasofizada/pechkin/releases.atom"
@@ -2057,6 +2039,12 @@
     "url": "https://github.com/litdb/litdb",
     "feeds": [
       "https://github.com/litdb/litdb/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/onlook-dev/onlook",
+    "feeds": [
+      "https://github.com/onlook-dev/onlook/releases.atom"
     ]
   },
   {
