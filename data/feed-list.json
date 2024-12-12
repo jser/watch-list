@@ -43,6 +43,12 @@
     ]
   },
   {
+    "url": "https://almanac.httparchive.org",
+    "feeds": [
+      "https://almanac.httparchive.org/en/rss.xml"
+    ]
+  },
+  {
     "url": "https://alttexthalloffame.org",
     "feeds": [
       "https://alttexthalloffame.org/en/feed/",
@@ -827,12 +833,6 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/rafasofizada/pechkin",
-    "feeds": [
-      "https://github.com/rafasofizada/pechkin/releases.atom"
     ]
   },
   {

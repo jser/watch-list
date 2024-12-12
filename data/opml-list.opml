@@ -11,6 +11,7 @@
 <outline text="adonisjs.com" title="adonisjs.com" type="rss" xmlUrl="https://adonisjs.com/feeds/blog.xml"/>
 <outline text="ahastack.dev" title="ahastack.dev" type="rss" xmlUrl="https://ahastack.dev/rss.xml"/>
 <outline text="alexharri.com" title="alexharri.com" type="rss" xmlUrl="https://alexharri.com/rss.xml"/>
+<outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="alttexthalloffame.org" title="alttexthalloffame.org" type="rss" xmlUrl="https://alttexthalloffame.org/en/feed/"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
