@@ -11,6 +11,7 @@
 <outline text="adonisjs.com" title="adonisjs.com" type="rss" xmlUrl="https://adonisjs.com/feeds/blog.xml"/>
 <outline text="ahastack.dev" title="ahastack.dev" type="rss" xmlUrl="https://ahastack.dev/rss.xml"/>
 <outline text="alexharri.com" title="alexharri.com" type="rss" xmlUrl="https://alexharri.com/rss.xml"/>
+<outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="alttexthalloffame.org" title="alttexthalloffame.org" type="rss" xmlUrl="https://alttexthalloffame.org/en/feed/"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
@@ -139,7 +140,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
-<outline text="github.com/rafasofizada/pechkin" title="github.com/rafasofizada/pechkin" type="rss" xmlUrl="https://github.com/rafasofizada/pechkin/releases.atom"/>
 <outline text="github.com/bluwy/publint" title="github.com/bluwy/publint" type="rss" xmlUrl="https://github.com/bluwy/publint/releases.atom"/>
 <outline text="github.com/ericclemmons/click-to-component" title="github.com/ericclemmons/click-to-component" type="rss" xmlUrl="https://github.com/ericclemmons/click-to-component/releases.atom"/>
 <outline text="github.com/PuruVJ/neodrag" title="github.com/PuruVJ/neodrag" type="rss" xmlUrl="https://github.com/PuruVJ/neodrag/releases.atom"/>
