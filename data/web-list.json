@@ -512,24 +512,6 @@
   },
   {
     "count": 6,
-    "url": "https://calendar.perfplanet.com",
-    "tags": [
-      "Next.js",
-      "performance",
-      "article",
-      "JavaScript",
-      "browser",
-      "HTTP2",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
-      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
-    },
-    "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 6,
     "url": "https://svelte.dev",
     "tags": [
       "Svelte",
@@ -593,6 +575,23 @@
       "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
     },
     "rssUrl": "https://blog.jquery.com/feed/"
+  },
+  {
+    "count": 5,
+    "url": "https://calendar.perfplanet.com",
+    "tags": [
+      "JavaScript",
+      "browser",
+      "performance",
+      "article",
+      "HTTP2",
+      "Chrome"
+    ],
+    "example": {
+      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
+      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
+    },
+    "rssUrl": "https://calendar.perfplanet.com/feed/"
   },
   {
     "count": 5,
