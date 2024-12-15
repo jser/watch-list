@@ -495,19 +495,6 @@
   },
   {
     "count": 6,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Svelte 5 is alive",
-      "url": "https://svelte.dev/blog/svelte-5-is-alive"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -540,19 +527,6 @@
     "example": {
       "title": "Biome v1.9 Anniversary Release | Biome",
       "url": "https://biomejs.dev/blog/biome-v1-9/"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "jquery]"
-    ],
-    "example": {
-      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
     }
   },
   {
@@ -623,6 +597,19 @@
   },
   {
     "count": 5,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Svelte 5 is alive",
+      "url": "https://svelte.dev/blog/svelte-5-is-alive"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -681,18 +668,6 @@
     "example": {
       "title": "November 20, 2024 Release – React Spectrum Releases",
       "url": "https://react-spectrum.adobe.com/releases/2024-11-20.html"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://vitejs.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 5.1 is out! | Vite",
-      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
     }
   },
   {
@@ -794,6 +769,19 @@
       "url": "https://github.com/webpack/webpack/security/advisories/GHSA-4vvj-4cpr-p986"
     },
     "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "jquery]"
+    ],
+    "example": {
+      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
+    }
   },
   {
     "count": 4,
@@ -1157,6 +1145,18 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v12.0.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://vitejs.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vite 5.1 is out! | Vite",
+      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
+    }
   },
   {
     "count": 3,
@@ -9409,6 +9409,19 @@
     "example": {
       "title": "The 2024 Web Almanac",
       "url": "https://almanac.httparchive.org/en/2024/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://tc39.es",
+    "tags": [
+      "sourcemap",
+      "ecma",
+      "spec"
+    ],
+    "example": {
+      "title": "Source map format specification",
+      "url": "https://tc39.es/ecma426/"
     }
   }
 ]
