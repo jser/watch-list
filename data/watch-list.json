@@ -73,25 +73,6 @@
   },
   {
     "count": 28,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 2.1: Wasm Imports and other enhancements",
-      "url": "https://deno.com/blog/v2.1"
-    }
-  },
-  {
-    "count": 27,
     "url": "https://webkit.org",
     "tags": [
       "CSS",
@@ -107,8 +88,27 @@
       "privacy"
     ],
     "example": {
-      "title": "Release Notes for Safari Technology Preview 207 | WebKit",
-      "url": "https://webkit.org/blog/16205/release-notes-for-safari-technology-preview-207/"
+      "title": "WebKit Features in Safari 18.2 | WebKit",
+      "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
+    }
+  },
+  {
+    "count": 28,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 2.1: Wasm Imports and other enhancements",
+      "url": "https://deno.com/blog/v2.1"
     }
   },
   {
@@ -9423,5 +9423,33 @@
       "title": "Source map format specification",
       "url": "https://tc39.es/ecma426/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lingui/js-lingui?tab=readme-ov-file",
+    "tags": [
+      "JavaScript",
+      "React",
+      "i18n",
+      "library"
+    ],
+    "example": {
+      "title": "lingui/js-lingui: 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript",
+      "url": "https://github.com/lingui/js-lingui?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/lingui/js-lingui?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nissy-dev/tenbin",
+    "tags": [
+      "test",
+      "library"
+    ],
+    "example": {
+      "title": "nissy-dev/tenbin: Tenbin provides tools to minimize the differences in test execution times across shards.",
+      "url": "https://github.com/nissy-dev/tenbin"
+    },
+    "rssUrl": "https://github.com/nissy-dev/tenbin/releases.atom"
   }
 ]

@@ -342,6 +342,8 @@
 <outline text="github.com/eslint/css" title="github.com/eslint/css" type="rss" xmlUrl="https://github.com/eslint/css/releases.atom"/>
 <outline text="github.com/litdb/litdb" title="github.com/litdb/litdb" type="rss" xmlUrl="https://github.com/litdb/litdb/releases.atom"/>
 <outline text="github.com/onlook-dev/onlook" title="github.com/onlook-dev/onlook" type="rss" xmlUrl="https://github.com/onlook-dev/onlook/releases.atom"/>
+<outline text="github.com/lingui/js-lingui?tab=readme-ov-file" title="github.com/lingui/js-lingui?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/lingui/js-lingui?tab=readme-ov-file/releases.atom"/>
+<outline text="github.com/nissy-dev/tenbin" title="github.com/nissy-dev/tenbin" type="rss" xmlUrl="https://github.com/nissy-dev/tenbin/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="gluonjs.org" title="gluonjs.org" type="rss" xmlUrl="https://gluonjs.org/index.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>

@@ -2048,6 +2048,18 @@
     ]
   },
   {
+    "url": "https://github.com/lingui/js-lingui?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/lingui/js-lingui?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nissy-dev/tenbin",
+    "feeds": [
+      "https://github.com/nissy-dev/tenbin/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
