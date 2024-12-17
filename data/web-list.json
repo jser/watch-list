@@ -512,6 +512,19 @@
   },
   {
     "count": 6,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v11.0.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.0.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 6,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -583,19 +596,6 @@
       "url": "https://vercel.com/blog/whats-new-in-react-19"
     },
     "rssUrl": "https://vercel.com/atom"
-  },
-  {
-    "count": 5,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v11.0.0-pre.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v11.0.0-pre.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 5,
@@ -1245,6 +1245,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/reduxjs/react-redux",
+    "tags": [
+      "React",
+      "redux",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release v9.2.0 · reduxjs/react-redux",
+      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -1722,21 +1737,6 @@
       "url": "https://blog.rafaelgss.dev/nodejs-2023-year-in-review"
     },
     "rssUrl": "https://blog.rafaelgss.dev/rss"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/reduxjs/react-redux",
-    "tags": [
-      "React",
-      "redux",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v9.0.0-alpha.0 · reduxjs/react-redux",
-      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.0.0-alpha.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
   },
   {
     "count": 2,
@@ -2270,20 +2270,6 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://devtoolstips.org",
-    "tags": [
-      "CSS",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Find the most expensive CSS selectors",
-      "url": "https://devtoolstips.org/tips/en/find-expensive-selectors/"
-    },
-    "rssUrl": "https://devtoolstips.org/feed.xml"
   },
   {
     "count": 1,
