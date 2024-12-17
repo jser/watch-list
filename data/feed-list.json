@@ -436,12 +436,6 @@
     ]
   },
   {
-    "url": "https://devtoolstips.org",
-    "feeds": [
-      "https://devtoolstips.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://docs.timetime.in",
     "feeds": [
       "https://docs.timetime.in/blog/rss.xml",
@@ -692,6 +686,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/react-redux",
+    "feeds": [
+      "https://github.com/reduxjs/react-redux/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/ije/esm.sh",
     "feeds": [
       "https://github.com/ije/esm.sh/releases.atom"
@@ -755,12 +755,6 @@
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/react-redux",
-    "feeds": [
-      "https://github.com/reduxjs/react-redux/releases.atom"
     ]
   },
   {

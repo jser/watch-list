@@ -436,12 +436,6 @@
     ]
   },
   {
-    "url": "https://devtoolstips.org",
-    "feeds": [
-      "https://devtoolstips.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://docs.timetime.in",
     "feeds": [
       "https://docs.timetime.in/blog/rss.xml",
