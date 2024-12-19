@@ -925,12 +925,6 @@
     ]
   },
   {
-    "url": "https://rumarchive.com",
-    "feeds": [
-      "https://rumarchive.com/blog/feed.xml"
-    ]
-  },
-  {
     "url": "https://rviscomi.dev",
     "feeds": [
       "https://rviscomi.dev/feed/",
@@ -1063,6 +1057,13 @@
     "feeds": [
       "https://speakerdeck.com/berlysia.atom",
       "https://speakerdeck.com/berlysia.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/kirik/",
+    "feeds": [
+      "https://speakerdeck.com/kirik.atom",
+      "https://speakerdeck.com/kirik.rss"
     ]
   },
   {

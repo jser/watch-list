@@ -151,7 +151,6 @@
 <outline text="romgrk.com" title="romgrk.com" type="rss" xmlUrl="https://romgrk.com/rss.xml"/>
 <outline text="rsbuild.dev" title="rsbuild.dev" type="rss" xmlUrl="https://rsbuild.dev/rss/releases.xml"/>
 <outline text="rspack.dev" title="rspack.dev" type="rss" xmlUrl="https://rspack.dev/rss/blog-rss.xml"/>
-<outline text="rumarchive.com" title="rumarchive.com" type="rss" xmlUrl="https://rumarchive.com/blog/feed.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
 <outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
@@ -172,6 +171,7 @@
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
 <outline text="speakerdeck.com/zaru_sakuraba/" title="speakerdeck.com/zaru_sakuraba/" type="rss" xmlUrl="https://speakerdeck.com/zaru_sakuraba.atom"/>
 <outline text="speakerdeck.com/berlysia/" title="speakerdeck.com/berlysia/" type="rss" xmlUrl="https://speakerdeck.com/berlysia.atom"/>
+<outline text="speakerdeck.com/kirik/" title="speakerdeck.com/kirik/" type="rss" xmlUrl="https://speakerdeck.com/kirik.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stylexjs.com" title="stylexjs.com" type="rss" xmlUrl="https://stylexjs.com/blog/rss.xml"/>

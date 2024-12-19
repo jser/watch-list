@@ -830,9 +830,9 @@
     ]
   },
   {
-    "url": "https://github.com/bluwy/publint",
+    "url": "https://github.com/nodejs/undici",
     "feeds": [
-      "https://github.com/bluwy/publint/releases.atom"
+      "https://github.com/nodejs/undici/releases.atom"
     ]
   },
   {
@@ -2018,12 +2018,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/undici",
-    "feeds": [
-      "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/eslint/css",
     "feeds": [
       "https://github.com/eslint/css/releases.atom"
@@ -2051,6 +2045,12 @@
     "url": "https://github.com/nissy-dev/tenbin",
     "feeds": [
       "https://github.com/nissy-dev/tenbin/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/mui/base-ui",
+    "feeds": [
+      "https://github.com/mui/base-ui/releases.atom"
     ]
   },
   {
@@ -2443,12 +2443,6 @@
     ]
   },
   {
-    "url": "https://rumarchive.com",
-    "feeds": [
-      "https://rumarchive.com/blog/feed.xml"
-    ]
-  },
-  {
     "url": "https://rviscomi.dev",
     "feeds": [
       "https://rviscomi.dev/feed/",
@@ -2587,6 +2581,13 @@
     "feeds": [
       "https://speakerdeck.com/berlysia.atom",
       "https://speakerdeck.com/berlysia.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/kirik/",
+    "feeds": [
+      "https://speakerdeck.com/kirik.atom",
+      "https://speakerdeck.com/kirik.rss"
     ]
   },
   {
