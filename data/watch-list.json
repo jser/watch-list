@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -312,22 +312,6 @@
   },
   {
     "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.49.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.49.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 10,
     "url": "https://storybook.js.org",
     "tags": [
       "TypeScript",
@@ -399,6 +383,22 @@
       "title": "Introducing Nuxt Icon v1 · Nuxt Blog",
       "url": "https://nuxt.com/blog/nuxt-icon-v1-0"
     }
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.49.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.49.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 8,
