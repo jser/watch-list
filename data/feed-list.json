@@ -554,12 +554,6 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
@@ -569,6 +563,12 @@
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
