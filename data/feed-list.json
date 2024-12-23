@@ -836,12 +836,6 @@
     ]
   },
   {
-    "url": "https://github.com/ericclemmons/click-to-component",
-    "feeds": [
-      "https://github.com/ericclemmons/click-to-component/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/PuruVJ/neodrag",
     "feeds": [
       "https://github.com/PuruVJ/neodrag/releases.atom"
