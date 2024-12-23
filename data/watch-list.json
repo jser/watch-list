@@ -72,25 +72,6 @@
     }
   },
   {
-    "count": 28,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 2.1: Wasm Imports and other enhancements",
-      "url": "https://deno.com/blog/v2.1"
-    }
-  },
-  {
     "count": 27,
     "url": "https://webkit.org",
     "tags": [
@@ -108,6 +89,25 @@
     "example": {
       "title": "WebKit Features in Safari 18.2 | WebKit",
       "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
+    }
+  },
+  {
+    "count": 27,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 2.1: Wasm Imports and other enhancements",
+      "url": "https://deno.com/blog/v2.1"
     }
   },
   {
@@ -2240,32 +2240,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/moneyforward/",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "TypeScript 4.9のas const satisfiesが便利。型チェックとwidening防止を同時に行う",
-      "url": "https://zenn.dev/moneyforward/articles/typescript-as-const-satisfies"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ericclemmons/click-to-component",
-    "tags": [
-      "React",
-      "debug",
-      "library"
-    ],
-    "example": {
-      "title": "ericclemmons/click-to-component: Option+Click React components in your browser to instantly open the source in VS Code",
-      "url": "https://github.com/ericclemmons/click-to-component"
-    },
-    "rssUrl": "https://github.com/ericclemmons/click-to-component/releases.atom"
   },
   {
     "count": 1,
@@ -9441,6 +9415,18 @@
     "example": {
       "title": "Recoilを剥がしている話 - Speaker Deck",
       "url": "https://speakerdeck.com/kirik/recoilwobo-gasiteiruhua"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://2024.stateofjs.com",
+    "tags": [
+      "JavaScript",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of JavaScript 2024",
+      "url": "https://2024.stateofjs.com/en-US"
     }
   }
 ]
