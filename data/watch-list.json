@@ -2243,19 +2243,6 @@
   },
   {
     "count": 1,
-    "url": "https://leanpub.com",
-    "tags": [
-      "JavaScript",
-      "security",
-      "book"
-    ],
-    "example": {
-      "title": "JavaScript for hackers by Gareth Heyes [Leanpub PDF/iPad/Kindle]",
-      "url": "https://leanpub.com/javascriptforhackers/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/PuruVJ/neodrag",
     "tags": [
       "JavaScript",
