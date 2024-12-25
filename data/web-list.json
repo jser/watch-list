@@ -20,7 +20,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 52,
+    "count": 51,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -347,6 +347,23 @@
     "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
+    "count": 10,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "article",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt"
+    ],
+    "example": {
+      "title": "Nuxt 3.15 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-15"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
     "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
@@ -380,23 +397,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "article",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt"
-    ],
-    "example": {
-      "title": "Introducing Nuxt Icon v1 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/nuxt-icon-v1-0"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 9,
@@ -786,6 +786,22 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "ShellScript",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release 8.3.0 – Pipes of Steel · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.3.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -1106,22 +1122,6 @@
       "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0"
     },
     "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "ShellScript",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release 8.1.0 · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/8.1.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 3,
@@ -1559,6 +1559,21 @@
       "url": "https://github.com/kaleidawave/ezno/discussions/21"
     },
     "rssUrl": "https://github.com/kaleidawave/ezno/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/vercel/swr",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.3.0 · vercel/swr",
+      "url": "https://github.com/vercel/swr/releases/tag/v2.3.0"
+    },
+    "rssUrl": "https://github.com/vercel/swr/releases.atom"
   },
   {
     "count": 2,
@@ -2316,22 +2331,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/PuruVJ/neodrag",
-    "tags": [
-      "JavaScript",
-      "Svelte",
-      "React",
-      "Vue",
-      "library"
-    ],
-    "example": {
-      "title": "PuruVJ/neodrag: One Draggable to rule them all 💍",
-      "url": "https://github.com/PuruVJ/neodrag"
-    },
-    "rssUrl": "https://github.com/PuruVJ/neodrag/releases.atom"
   },
   {
     "count": 1,
@@ -3280,21 +3279,6 @@
       "url": "https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3"
     },
     "rssUrl": "https://dev.to/feed/codux"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vercel/swr",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.1.0 · vercel/swr",
-      "url": "https://github.com/vercel/swr/releases/tag/v2.1.0"
-    },
-    "rssUrl": "https://github.com/vercel/swr/releases.atom"
   },
   {
     "count": 1,
