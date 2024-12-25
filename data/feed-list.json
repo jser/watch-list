@@ -596,6 +596,12 @@
     ]
   },
   {
+    "url": "https://github.com/google/zx",
+    "feeds": [
+      "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -647,12 +653,6 @@
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/google/zx",
-    "feeds": [
-      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
@@ -725,6 +725,12 @@
     "url": "https://github.com/kaleidawave/ezno",
     "feeds": [
       "https://github.com/kaleidawave/ezno/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel/swr",
+    "feeds": [
+      "https://github.com/vercel/swr/releases.atom"
     ]
   },
   {
@@ -833,12 +839,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/PuruVJ/neodrag",
-    "feeds": [
-      "https://github.com/PuruVJ/neodrag/releases.atom"
     ]
   },
   {
@@ -995,12 +995,6 @@
     "url": "https://github.com/natemoo-re/clack",
     "feeds": [
       "https://github.com/natemoo-re/clack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vercel/swr",
-    "feeds": [
-      "https://github.com/vercel/swr/releases.atom"
     ]
   },
   {
