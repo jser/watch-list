@@ -184,7 +184,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -351,24 +351,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "library",
-      "ReleaseNote",
-      "article",
-      "OpenSource",
-      "opinion"
-    ],
-    "example": {
-      "title": "Release 3.38.0 - 2024.08.05 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -399,6 +381,24 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.49.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "library",
+      "ReleaseNote",
+      "article",
+      "OpenSource",
+      "opinion"
+    ],
+    "example": {
+      "title": "Release 3.38.0 - 2024.08.05 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
@@ -651,22 +651,6 @@
     "example": {
       "title": "November 20, 2024 Release – React Spectrum Releases",
       "url": "https://react-spectrum.adobe.com/releases/2024-11-20.html"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://calendar.perfplanet.com",
-    "tags": [
-      "HTTP2",
-      "browser",
-      "article",
-      "performance",
-      "JavaScript",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
-      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     }
   },
   {
@@ -1302,6 +1286,20 @@
     "example": {
       "title": "State of JavaScript 2024",
       "url": "https://survey.devographics.com/survey/state-of-js/2024"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://calendar.perfplanet.com",
+    "tags": [
+      "JavaScript",
+      "performance",
+      "article",
+      "Chrome"
+    ],
+    "example": {
+      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
+      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     }
   },
   {
@@ -9398,6 +9396,31 @@
     "example": {
       "title": "State of JavaScript 2024",
       "url": "https://2024.stateofjs.com/en-US"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://kaminashi-developer.hatenablog.jp",
+    "tags": [
+      "ServiceWorker",
+      "article"
+    ],
+    "example": {
+      "title": "Service Worker がページをコントロールし始めるタイミングを skipWaiting と clients.claim から理解する - カミナシ エンジニアブログ",
+      "url": "https://kaminashi-developer.hatenablog.jp/entry/2024/12/20/080000"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://qiita.com/advent-calendar/",
+    "tags": [
+      "React",
+      "accessibility",
+      "article"
+    ],
+    "example": {
+      "title": "React Ariaの実装読むぞ - Qiita Advent Calendar 2024 - Qiita",
+      "url": "https://qiita.com/advent-calendar/2024/react-aria"
     }
   }
 ]

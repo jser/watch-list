@@ -587,6 +587,13 @@
     ]
   },
   {
+    "url": "https://kaminashi-developer.hatenablog.jp",
+    "feeds": [
+      "https://kaminashi-developer.hatenablog.jp/feed",
+      "https://kaminashi-developer.hatenablog.jp/rss"
+    ]
+  },
+  {
     "url": "https://katashin.info",
     "feeds": [
       "https://katashin.info/feed/feed.xml"
