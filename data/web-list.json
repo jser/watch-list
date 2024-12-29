@@ -192,7 +192,7 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -200,8 +200,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm v10.0 Beta 1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-beta.1"
+      "title": "Release pnpm 10.0 RC 1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-rc.1"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -221,20 +221,6 @@
       "url": "https://eslint.org/blog/2024/10/eslint-v9.13.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 13,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "relre",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15.1 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-1"
-    }
   },
   {
     "count": 13,
@@ -297,6 +283,19 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 12,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15.1 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-1"
+    }
   },
   {
     "count": 11,
@@ -477,6 +476,24 @@
     "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
+    "count": 8,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "webpack",
+      "rspack",
+      "ReleaseNote",
+      "bundler",
+      "JavaScript",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Release v1.1.8 · web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
+  },
+  {
     "count": 7,
     "url": "https://github.com/remix-run/remix",
     "tags": [
@@ -491,23 +508,6 @@
       "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
     },
     "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "webpack",
-      "rspack",
-      "ReleaseNote",
-      "bundler",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Release v1.0.0-rc.0 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.0.0-rc.0"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 6,
@@ -559,25 +559,6 @@
       "url": "https://biomejs.dev/blog/biome-v1-9/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://vercel.com",
-    "tags": [
-      "React",
-      "Next.js",
-      "article",
-      "webservice",
-      "news",
-      "google",
-      "SEO",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "What’s new in React 19 – Vercel",
-      "url": "https://vercel.com/blog/whats-new-in-react-19"
-    },
-    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 5,
@@ -877,6 +858,24 @@
       "url": "https://github.blog/changelog/2024-09-25-end-of-life-for-actions-node16/"
     },
     "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 4,
+    "url": "https://vercel.com",
+    "tags": [
+      "webservice",
+      "news",
+      "React",
+      "article",
+      "google",
+      "SEO",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "What’s new in React 19 – Vercel",
+      "url": "https://vercel.com/blog/whats-new-in-react-19"
+    },
+    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 4,
@@ -1391,23 +1390,6 @@
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     },
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/ije/esm.sh",
-    "tags": [
-      "ECMAScript",
-      "cdn",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "module"
-    ],
-    "example": {
-      "title": "Release v111 · ije/esm.sh",
-      "url": "https://github.com/ije/esm.sh/releases/tag/v111"
-    },
-    "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
   },
   {
     "count": 2,
@@ -2316,6 +2298,20 @@
   },
   {
     "count": 2,
+    "url": "https://piccalil.li",
+    "tags": [
+      "css ",
+      "article",
+      "fonts"
+    ],
+    "example": {
+      "title": "Why I’m excited about text-box-trim as a designer - Piccalilli",
+      "url": "https://piccalil.li/blog/why-im-excited-about-text-box-trim-as-a-designer/"
+    },
+    "rssUrl": "https://piccalil.li/feed.xml"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/nodejs/undici",
     "tags": [
       "nodejs",
@@ -2329,20 +2325,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/yhatt/",
-    "tags": [
-      "cdn",
-      "news",
-      "twitter"
-    ],
-    "example": {
-      "title": "Twemojiが2023年になると表示されなくなる(かもしれない)問題に対処する",
-      "url": "https://zenn.dev/yhatt/articles/60ce0c3ca79994"
-    },
-    "rssUrl": "https://zenn.dev/yhatt/feed"
   },
   {
     "count": 1,
@@ -3277,6 +3259,20 @@
       "url": "https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3"
     },
     "rssUrl": "https://dev.to/feed/codux"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ije/esm.sh",
+    "tags": [
+      "JavaScript",
+      "cdn",
+      "module"
+    ],
+    "example": {
+      "title": "Release v111 · ije/esm.sh",
+      "url": "https://github.com/ije/esm.sh/releases/tag/v111"
+    },
+    "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
   },
   {
     "count": 1,
@@ -9220,19 +9216,6 @@
   },
   {
     "count": 1,
-    "url": "https://piccalil.li",
-    "tags": [
-      "css ",
-      "article"
-    ],
-    "example": {
-      "title": "Making content-aware components using CSS :has(), grid, and quantity queries - Piccalilli",
-      "url": "https://piccalil.li/blog/making-content-aware-components-using-css-has-grid-and-quantity-queries/"
-    },
-    "rssUrl": "https://piccalil.li/feed.xml"
-  },
-  {
-    "count": 1,
     "url": "https://evanhahn.com",
     "tags": [
       "ECMAScript",
@@ -9695,6 +9678,21 @@
     "example": {
       "title": "React Ariaの実装読むぞ - Qiita Advent Calendar 2024 - Qiita",
       "url": "https://qiita.com/advent-calendar/2024/react-aria"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zero.rocicorp.dev",
+    "tags": [
+      "JavaScript",
+      "React",
+      "WebSocket",
+      "library",
+      "database"
+    ],
+    "example": {
+      "title": "Zero Docs",
+      "url": "https://zero.rocicorp.dev/"
     }
   }
 ]

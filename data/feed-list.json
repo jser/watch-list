@@ -572,15 +572,15 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -695,12 +695,6 @@
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ije/esm.sh",
-    "feeds": [
-      "https://github.com/ije/esm.sh/releases.atom"
     ]
   },
   {
@@ -995,6 +989,12 @@
     "url": "https://github.com/natemoo-re/clack",
     "feeds": [
       "https://github.com/natemoo-re/clack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ije/esm.sh",
+    "feeds": [
+      "https://github.com/ije/esm.sh/releases.atom"
     ]
   },
   {
@@ -3139,12 +3139,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yhatt/",
-    "feeds": [
-      "https://zenn.dev/yhatt/feed"
     ]
   },
   {
