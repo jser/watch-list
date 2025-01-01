@@ -2328,20 +2328,6 @@
   },
   {
     "count": 1,
-    "url": "https://authjs.dev",
-    "tags": [
-      "JavaScript",
-      "WebAuthentication",
-      "OAuth",
-      "library"
-    ],
-    "example": {
-      "title": "Auth.js",
-      "url": "https://authjs.dev/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://zenn.dev/yend724/",
     "tags": [
       "CSS",
