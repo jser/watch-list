@@ -1393,20 +1393,6 @@
   },
   {
     "count": 2,
-    "url": "https://v2.vuejs.org",
-    "tags": [
-      "Vue",
-      "document",
-      "news"
-    ],
-    "example": {
-      "title": "Vue.js",
-      "url": "https://v2.vuejs.org/eol/"
-    },
-    "rssUrl": "https://v2.vuejs.org/atom.xml"
-  },
-  {
-    "count": 2,
     "url": "https://postd.cc",
     "tags": [
       "JavaScript",
@@ -2325,48 +2311,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/yend724/",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "そろそろカスケードレイヤー(@layer)と向き合う",
-      "url": "https://zenn.dev/yend724/articles/20221227-fcz1jh70bhnqof2v"
-    },
-    "rssUrl": "https://zenn.dev/yend724/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
-    "tags": [
-      "JSON",
-      "JavaScript",
-      "library",
-      "security",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prototype Pollution in JSON5 via Parse Method · CVE-2022-46175 · GitHub Advisory Database",
-      "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h"
-    },
-    "rssUrl": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://tamagui.dev",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Tamagui 1.0 🎉 — Tamagui",
-      "url": "https://tamagui.dev/blog/version-one"
-    }
   },
   {
     "count": 1,
@@ -6263,6 +6207,19 @@
       "url": "https://github.com/speed-highlight/core"
     },
     "rssUrl": "https://github.com/speed-highlight/core/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://v2.vuejs.org",
+    "tags": [
+      "Vue",
+      "news"
+    ],
+    "example": {
+      "title": "Vue.js",
+      "url": "https://v2.vuejs.org/eol/"
+    },
+    "rssUrl": "https://v2.vuejs.org/atom.xml"
   },
   {
     "count": 1,

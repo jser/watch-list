@@ -836,12 +836,6 @@
     ]
   },
   {
-    "url": "https://github.com/advisories/GHSA-9c47-m6qq-7p4h",
-    "feeds": [
-      "https://github.com/advisories/GHSA-9c47-m6qq-7p4h/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/Dunks1980/bay.js",
     "feeds": [
       "https://github.com/Dunks1980/bay.js/releases.atom"
@@ -3139,12 +3133,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yend724/",
-    "feeds": [
-      "https://zenn.dev/yend724/feed"
     ]
   },
   {
