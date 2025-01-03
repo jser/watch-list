@@ -336,6 +336,12 @@
     ]
   },
   {
+    "url": "https://codspeed.io",
+    "feeds": [
+      "https://codspeed.io/blog/feed/rss.xml"
+    ]
+  },
+  {
     "url": "https://colinhacks.com",
     "feeds": [
       "https://colinhacks.com/rss.xml"
@@ -608,6 +614,12 @@
     ]
   },
   {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
@@ -671,12 +683,6 @@
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {

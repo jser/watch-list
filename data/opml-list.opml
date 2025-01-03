@@ -58,6 +58,7 @@
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
 <outline text="chriscoyier.net" title="chriscoyier.net" type="rss" xmlUrl="https://chriscoyier.net/feed/"/>
 <outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
+<outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>

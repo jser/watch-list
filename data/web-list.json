@@ -827,6 +827,20 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v12.3.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/esm-dev/esm.sh",
     "tags": [
       "cdn",
@@ -1165,20 +1179,6 @@
       "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02-28"
     },
     "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/vueuse/vueuse",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v12.0.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.0.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 3,
@@ -9637,5 +9637,21 @@
       "title": "Zero Docs",
       "url": "https://zero.rocicorp.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://codspeed.io",
+    "tags": [
+      "webservice",
+      "benchmark",
+      "python",
+      "Rust",
+      "nodejs"
+    ],
+    "example": {
+      "title": "CodSpeed: Optimize Performance, Eliminate Regressions",
+      "url": "https://codspeed.io/"
+    },
+    "rssUrl": "https://codspeed.io/blog/feed/rss.xml"
   }
 ]
