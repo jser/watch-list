@@ -223,7 +223,7 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 13,
+    "count": 12,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -2281,6 +2281,23 @@
       "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
+  },
+  {
+    "count": 2,
+    "url": "https://stylexjs.com",
+    "tags": [
+      "css ",
+      "JavaScript",
+      "library",
+      "React",
+      "ReleaseNote",
+      "PostCSS"
+    ],
+    "example": {
+      "title": "Release 0.10.0 | StyleX",
+      "url": "https://stylexjs.com/blog/v0.10.0"
+    },
+    "rssUrl": "https://stylexjs.com/blog/rss.xml"
   },
   {
     "count": 2,
@@ -8935,22 +8952,6 @@
   },
   {
     "count": 1,
-    "url": "https://stylexjs.com",
-    "tags": [
-      "css ",
-      "JavaScript",
-      "library",
-      "React",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 0.8.0 | StyleX",
-      "url": "https://stylexjs.com/blog/v0.8.0"
-    },
-    "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
     "url": "https://zenn.dev/ryo_kawamata/",
     "tags": [
       "webpack",
@@ -9653,5 +9654,19 @@
       "url": "https://codspeed.io/"
     },
     "rssUrl": "https://codspeed.io/blog/feed/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/chakra-ui/panda",
+    "tags": [
+      "pandacs",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @pandacss/dev@0.50.0 · chakra-ui/panda",
+      "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%400.50.0"
+    },
+    "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
   }
 ]
