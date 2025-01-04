@@ -2042,6 +2042,12 @@
     ]
   },
   {
+    "url": "https://github.com/chakra-ui/panda",
+    "feeds": [
+      "https://github.com/chakra-ui/panda/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
