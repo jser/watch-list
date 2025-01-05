@@ -214,6 +214,19 @@
     }
   },
   {
+    "count": 13,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Composable Caching with Next.js | Next.js",
+      "url": "https://nextjs.org/blog/composable-caching"
+    }
+  },
+  {
     "count": 12,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
@@ -272,19 +285,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 12,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15.1 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-1"
-    }
   },
   {
     "count": 11,
