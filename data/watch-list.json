@@ -998,22 +998,6 @@
   },
   {
     "count": 3,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "ReleaseNote",
-      "TypeScript",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/lerna/lerna",
     "tags": [
       "JavaScript",
@@ -1142,6 +1126,22 @@
       "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02-28"
     },
     "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "npm"
+    ],
+    "example": {
+      "title": "Release v3.11.0 · lerna-lite/lerna-lite",
+      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v3.11.0"
+    },
+    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 3,
@@ -1376,6 +1376,22 @@
   },
   {
     "count": 2,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "TypeScript",
+      "ReleaseNote",
+      "iOS",
+      "Android"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://risingstars.js.org",
     "tags": [
       "JavaScript",
@@ -1521,21 +1537,6 @@
       "title": "Rome v12.1.0",
       "url": "https://rome.tools/blog/2023/05/10/rome12_1/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · lerna-lite/lerna-lite",
-      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 2,
