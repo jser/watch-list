@@ -686,6 +686,12 @@
     ]
   },
   {
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "feeds": [
+      "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
@@ -737,12 +743,6 @@
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "feeds": [
-      "https://github.com/lerna-lite/lerna-lite/releases.atom"
     ]
   },
   {
