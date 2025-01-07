@@ -548,12 +548,6 @@
     ]
   },
   {
-    "url": "https://gluonjs.org",
-    "feeds": [
-      "https://gluonjs.org/index.xml"
-    ]
-  },
-  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

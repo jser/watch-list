@@ -644,12 +644,6 @@
     ]
   },
   {
-    "url": "https://github.com/lerna/lerna",
-    "feeds": [
-      "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
@@ -749,6 +743,12 @@
     "url": "https://github.com/markedjs/marked",
     "feeds": [
       "https://github.com/markedjs/marked/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
     ]
   },
   {
@@ -2048,15 +2048,15 @@
     ]
   },
   {
-    "url": "https://glebbahmutov.com",
+    "url": "https://github.com/facebookexperimental/Recoil",
     "feeds": [
-      "https://glebbahmutov.com/blog/atom.xml"
+      "https://github.com/facebookexperimental/Recoil/releases.atom"
     ]
   },
   {
-    "url": "https://gluonjs.org",
+    "url": "https://glebbahmutov.com",
     "feeds": [
-      "https://gluonjs.org/index.xml"
+      "https://glebbahmutov.com/blog/atom.xml"
     ]
   },
   {
