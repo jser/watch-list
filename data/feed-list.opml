@@ -9,6 +9,7 @@
 <outline text="abduvik.medium.com" title="abduvik.medium.com" type="rss" xmlUrl="https://medium.com/feed/@abduvik"/>
 <outline text="accessibility.blog.gov.uk" title="accessibility.blog.gov.uk" type="rss" xmlUrl="https://accessibility.blog.gov.uk/feed/"/>
 <outline text="adonisjs.com" title="adonisjs.com" type="rss" xmlUrl="https://adonisjs.com/feeds/blog.xml"/>
+<outline text="adventar.org" title="adventar.org" type="rss" xmlUrl="https://adventar.org/calendars/10555.rss"/>
 <outline text="ahastack.dev" title="ahastack.dev" type="rss" xmlUrl="https://ahastack.dev/rss.xml"/>
 <outline text="alexharri.com" title="alexharri.com" type="rss" xmlUrl="https://alexharri.com/rss.xml"/>
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
@@ -78,6 +79,7 @@
 <outline text="docs.timetime.in" title="docs.timetime.in" type="rss" xmlUrl="https://docs.timetime.in/blog/rss.xml"/>
 <outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
 <outline text="dxcriteria.cto-a.org" title="dxcriteria.cto-a.org" type="rss" xmlUrl="https://dxcriteria.cto-a.org/feed.xml"/>
+<outline text="e18e.dev" title="e18e.dev" type="rss" xmlUrl="https://e18e.dev/blog.rss"/>
 <outline text="ecmascript-daily.github.io" title="ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
 <outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>

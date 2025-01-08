@@ -31,6 +31,12 @@
     ]
   },
   {
+    "url": "https://adventar.org",
+    "feeds": [
+      "https://adventar.org/calendars/10555.rss"
+    ]
+  },
+  {
     "url": "https://ahastack.dev",
     "feeds": [
       "https://ahastack.dev/rss.xml"
@@ -458,6 +464,12 @@
     "url": "https://dxcriteria.cto-a.org",
     "feeds": [
       "https://dxcriteria.cto-a.org/feed.xml"
+    ]
+  },
+  {
+    "url": "https://e18e.dev",
+    "feeds": [
+      "https://e18e.dev/blog.rss"
     ]
   },
   {
