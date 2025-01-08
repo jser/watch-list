@@ -184,7 +184,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 19,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -192,8 +192,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm 10.0 RC 1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0-rc.1"
+      "title": "Release pnpm 10 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -9394,5 +9394,32 @@
       "url": "https://github.com/facebookexperimental/Recoil"
     },
     "rssUrl": "https://github.com/facebookexperimental/Recoil/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://e18e.dev",
+    "tags": [
+      "performance",
+      "nodejs",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "The journey so far | e18e",
+      "url": "https://e18e.dev/blog/journey-so-far.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://adventar.org",
+    "tags": [
+      "JavaScript",
+      "i18n",
+      "article"
+    ],
+    "example": {
+      "title": "1人 Intl Advent Calendar 2024 - Adventar",
+      "url": "https://adventar.org/calendars/10555"
+    }
   }
 ]
