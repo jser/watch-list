@@ -1,11 +1,11 @@
 [
   {
-    "count": 66,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "ReleaseNote",
       "npm",
+      "ReleaseNote",
       "security",
       "news",
       "nodejs",
@@ -1335,20 +1335,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.jxck.io",
-    "tags": [
-      "CSS",
-      "article",
-      "Fetch",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
-      "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -2239,19 +2225,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://obyford.com",
-    "tags": [
-      "webkit",
-      "issue",
-      "article"
-    ],
-    "example": {
-      "title": "The Safari bug that never was",
-      "url": "https://obyford.com/posts/the-safari-bug-that-never-was/"
-    }
   },
   {
     "count": 1,
@@ -4070,6 +4043,19 @@
     "example": {
       "title": "300ms Faster: Reducing Wikipedia's Total Blocking Time",
       "url": "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.jxck.io",
+    "tags": [
+      "Fetch",
+      "article",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
+      "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
     }
   },
   {
