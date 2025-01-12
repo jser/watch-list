@@ -473,6 +473,13 @@
     ]
   },
   {
+    "url": "https://ecma-international.org",
+    "feeds": [
+      "https://ecma-international.org/feed/",
+      "https://ecma-international.org/comments/feed/"
+    ]
+  },
+  {
     "url": "https://ecmascript-daily.github.io",
     "feeds": [
       "https://ecmascript-daily.github.io/atom.xml",
@@ -1386,13 +1393,6 @@
     "feeds": [
       "https://www.debugbear.com/blog/rss.xml",
       "https://www.debugbear.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.ecma-international.org",
-    "feeds": [
-      "https://ecma-international.org/feed/",
-      "https://ecma-international.org/comments/feed/"
     ]
   },
   {

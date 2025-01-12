@@ -473,6 +473,13 @@
     ]
   },
   {
+    "url": "https://ecma-international.org",
+    "feeds": [
+      "https://ecma-international.org/feed/",
+      "https://ecma-international.org/comments/feed/"
+    ]
+  },
+  {
     "url": "https://ecmascript-daily.github.io",
     "feeds": [
       "https://ecmascript-daily.github.io/atom.xml",
