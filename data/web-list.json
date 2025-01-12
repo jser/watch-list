@@ -207,7 +207,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -215,11 +215,12 @@
       "article",
       "news",
       "JSON",
-      "Markdown"
+      "Markdown",
+      "TypeScript"
     ],
     "example": {
-      "title": "ESLint v9.13.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2024/10/eslint-v9.13.0-released/"
+      "title": "ESLint v9.18.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/01/eslint-v9.18.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
   },
@@ -563,6 +564,23 @@
   },
   {
     "count": 5,
+    "url": "https://socket.dev",
+    "tags": [
+      "npm",
+      "article",
+      "security",
+      "nodejs",
+      "discussion",
+      "pnpm"
+    ],
+    "example": {
+      "title": "pnpm 10.0.0 Blocks Lifecycle Scripts by Default - Socket",
+      "url": "https://socket.dev/blog/pnpm-10-0-0-blocks-lifecycle-scripts-by-default"
+    },
+    "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
+    "count": 5,
     "url": "https://zenn.dev/cybozu_frontend/",
     "tags": [
       "JavaScript",
@@ -792,23 +810,6 @@
       "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
     },
     "rssUrl": "https://blog.jquery.com/feed/"
-  },
-  {
-    "count": 4,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "security",
-      "nodejs",
-      "discussion",
-      "pnpm"
-    ],
-    "example": {
-      "title": "pnpm 9.5 Introduces Catalogs: Shareable Dependency Version Specifiers - Socket",
-      "url": "https://socket.dev/blog/pnpm-9-5-introduces-catalogs-shareable-dependency-version-specifiers"
-    },
-    "rssUrl": "https://socket.dev/api/feed.atom"
   },
   {
     "count": 4,
@@ -2300,18 +2301,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://2022.stateofjs.com",
-    "tags": [
-      "JavaScript",
-      "Survey"
-    ],
-    "example": {
-      "title": "The State of JS 2022",
-      "url": "https://2022.stateofjs.com/en-US/"
-    }
   },
   {
     "count": 1,
@@ -9696,5 +9685,21 @@
       "url": "https://github.com/open-source-labs/Reactime/releases/tag/v26.0"
     },
     "rssUrl": "https://github.com/open-source-labs/Reactime/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://ecma-international.org",
+    "tags": [
+      "ecma",
+      "news",
+      "nodejs",
+      "deno",
+      "cloudflare"
+    ],
+    "example": {
+      "title": "Collaborating across W3C and Ecma for web-interoperable server runtimes through WinterTC - Ecma International",
+      "url": "https://ecma-international.org/news/collaborating-across-w3c-and-ecma-for-web-interoperable-server-runtimes-through-wintertc/"
+    },
+    "rssUrl": "https://ecma-international.org/feed/"
   }
 ]
