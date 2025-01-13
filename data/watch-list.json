@@ -74,26 +74,6 @@
   },
   {
     "count": 27,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "CSS",
-      "article",
-      "JavaScript",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy"
-    ],
-    "example": {
-      "title": "WebKit Features in Safari 18.2 | WebKit",
-      "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
-    }
-  },
-  {
-    "count": 27,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -127,6 +107,26 @@
     }
   },
   {
+    "count": 26,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "CSS",
+      "article",
+      "JavaScript",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy"
+    ],
+    "example": {
+      "title": "WebKit Features in Safari 18.2 | WebKit",
+      "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
+    }
+  },
+  {
     "count": 21,
     "url": "https://www.mozilla.org",
     "tags": [
@@ -136,35 +136,6 @@
     "example": {
       "title": "Firefox 134.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/134.0/releasenotes/"
-    }
-  },
-  {
-    "count": 19,
-    "url": "https://web.dev",
-    "tags": [
-      "accessibility",
-      "article",
-      "performance",
-      "browser",
-      "tutorial",
-      "Image",
-      "privacy",
-      "sourcemap",
-      "debug",
-      "Chrome",
-      "Extension",
-      "JavaScript",
-      "CSS",
-      "testing",
-      "nodejs",
-      "WebPlatformAPI",
-      "HTML",
-      "css ",
-      "Unicode"
-    ],
-    "example": {
-      "title": "The nuances of base64 encoding strings in JavaScript  |  Articles  |  web.dev",
-      "url": "https://web.dev/articles/base64-encoding"
     }
   },
   {
@@ -197,6 +168,34 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 18,
+    "url": "https://web.dev",
+    "tags": [
+      "performance",
+      "browser",
+      "article",
+      "tutorial",
+      "Image",
+      "privacy",
+      "sourcemap",
+      "debug",
+      "Chrome",
+      "Extension",
+      "JavaScript",
+      "CSS",
+      "testing",
+      "nodejs",
+      "WebPlatformAPI",
+      "HTML",
+      "css ",
+      "Unicode"
+    ],
+    "example": {
+      "title": "The nuances of base64 encoding strings in JavaScript  |  Articles  |  web.dev",
+      "url": "https://web.dev/articles/base64-encoding"
+    }
   },
   {
     "count": 15,
@@ -352,6 +351,24 @@
   },
   {
     "count": 9,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "library",
+      "ReleaseNote",
+      "article",
+      "OpenSource",
+      "opinion"
+    ],
+    "example": {
+      "title": "Release 3.40.0 - 2025.01.08 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.40.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 9,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -382,24 +399,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.49.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "library",
-      "ReleaseNote",
-      "article",
-      "OpenSource",
-      "opinion"
-    ],
-    "example": {
-      "title": "Release 3.38.0 - 2024.08.05 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.38.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
@@ -479,7 +478,7 @@
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
-    "count": 7,
+    "count": 6,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "Remix",
@@ -881,6 +880,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 26.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/26.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://blog.vuejs.org",
     "tags": [
       "Vue",
@@ -997,20 +1011,6 @@
       "title": "New JavaScript Set methods | MDN Blog",
       "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/rollup/rollup",
-    "tags": [
-      "rollup",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v4.1.0 · rollup/rollup",
-      "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
-    },
-    "rssUrl": "https://github.com/rollup/rollup/releases.atom"
   },
   {
     "count": 3,
@@ -1158,21 +1158,6 @@
       "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 25.0.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/25.0.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 3,
@@ -1332,22 +1317,6 @@
     "example": {
       "title": "How To Optimize Performance In Vue Apps | DebugBear",
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "Native",
-      "TypeScript",
-      "ReleaseNote",
-      "iOS",
-      "Android"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
     }
   },
   {
@@ -1789,6 +1758,19 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/rollup/rollup",
+    "tags": [
+      "rollup",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.1.0 · rollup/rollup",
+      "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
+    },
+    "rssUrl": "https://github.com/rollup/rollup/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/parcel-bundler/parcel",
     "tags": [
       "parcel",
@@ -2226,18 +2208,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://npm-kiosk.remotion.dev",
-    "tags": [
-      "npm",
-      "article"
-    ],
-    "example": {
-      "title": "NPM Kiosk - A new way to sell NPM packages",
-      "url": "https://npm-kiosk.remotion.dev/"
-    }
   },
   {
     "count": 1,
@@ -7183,6 +7153,20 @@
   },
   {
     "count": 1,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
+      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/quilljs/quill",
     "tags": [
       "JavaScript",
@@ -9427,5 +9411,20 @@
       "title": "Collaborating across W3C and Ecma for web-interoperable server runtimes through WinterTC - Ecma International",
       "url": "https://ecma-international.org/news/collaborating-across-w3c-and-ecma-for-web-interoperable-server-runtimes-through-wintertc/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/Automattic/node-canvas",
+    "tags": [
+      "nodejs",
+      "canvas",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · Automattic/node-canvas",
+      "url": "https://github.com/Automattic/node-canvas/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/Automattic/node-canvas/releases.atom"
   }
 ]
