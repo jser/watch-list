@@ -1321,20 +1321,6 @@
   },
   {
     "count": 2,
-    "url": "https://risingstars.js.org",
-    "tags": [
-      "JavaScript",
-      "library",
-      "Github",
-      "news"
-    ],
-    "example": {
-      "title": "2023 JavaScript Rising Stars",
-      "url": "https://risingstars.js.org/2023/en"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/facebook/flow",
     "tags": [
       "flowtype",
@@ -2208,60 +2194,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://accessibility.blog.gov.uk",
-    "tags": [
-      "accessibility",
-      "article"
-    ],
-    "example": {
-      "title": "A new accessibility strategy for the GOV.UK Design System - Accessibility in government",
-      "url": "https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/Dunks1980/bay.js",
-    "tags": [
-      "JavaScript",
-      "template",
-      "WebComponents",
-      "library"
-    ],
-    "example": {
-      "title": "Dunks1980/bay.js: An easy to use, lightweight library for web-components.",
-      "url": "https://github.com/Dunks1980/bay.js"
-    },
-    "rssUrl": "https://github.com/Dunks1980/bay.js/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://yosuke-furukawa.hatenablog.com",
-    "tags": [
-      "node.js",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js にプロセスレベルの Permission が入りそうな話 - from scratch",
-      "url": "https://yosuke-furukawa.hatenablog.com/entry/2023/01/12/160406"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/isaacs/rimraf",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "rimraf/CHANGELOG.md at main · isaacs/rimraf",
-      "url": "https://github.com/isaacs/rimraf/blob/main/CHANGELOG.md#v40"
-    },
-    "rssUrl": "https://github.com/isaacs/rimraf/releases.atom"
   },
   {
     "count": 1,
@@ -6030,6 +5962,19 @@
     "example": {
       "title": "Google shares update on next step toward phasing out third-party cookies in Chrome",
       "url": "https://blog.google/products/chrome/privacy-sandbox-tracking-protection/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://risingstars.js.org",
+    "tags": [
+      "JavaScript",
+      "Github",
+      "news"
+    ],
+    "example": {
+      "title": "2023 JavaScript Rising Stars",
+      "url": "https://risingstars.js.org/2023/en"
     }
   },
   {

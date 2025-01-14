@@ -19,12 +19,6 @@
     ]
   },
   {
-    "url": "https://accessibility.blog.gov.uk",
-    "feeds": [
-      "https://accessibility.blog.gov.uk/feed/"
-    ]
-  },
-  {
     "url": "https://adonisjs.com",
     "feeds": [
       "https://adonisjs.com/feeds/blog.xml"
@@ -1586,13 +1580,6 @@
     "feeds": [
       "https://yarnpkg.com/blog/rss.xml",
       "https://yarnpkg.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://yosuke-furukawa.hatenablog.com",
-    "feeds": [
-      "https://yosuke-furukawa.hatenablog.com/feed",
-      "https://yosuke-furukawa.hatenablog.com/rss"
     ]
   },
   {
