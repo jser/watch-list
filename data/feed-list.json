@@ -561,15 +561,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -852,18 +852,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tsmodule/tsmodule",
-    "feeds": [
-      "https://github.com/tsmodule/tsmodule/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/GiuseppeRaso/structura.js",
-    "feeds": [
-      "https://github.com/GiuseppeRaso/structura.js/releases.atom"
     ]
   },
   {
@@ -2064,6 +2052,12 @@
     "url": "https://github.com/Automattic/node-canvas",
     "feeds": [
       "https://github.com/Automattic/node-canvas/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/standard-schema/standard-schema",
+    "feeds": [
+      "https://github.com/standard-schema/standard-schema/releases.atom"
     ]
   },
   {

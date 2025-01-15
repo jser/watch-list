@@ -229,23 +229,6 @@
   },
   {
     "count": 12,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "bundler",
-      "CSS",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.24.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.24.0"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 12,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -286,6 +269,23 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote",
+      "Tools",
+      "CSS",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.24.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.24.0"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 11,
@@ -2194,33 +2194,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tsmodule/tsmodule",
-    "tags": [
-      "TypeScript",
-      "ECMAScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "tsmodule/tsmodule: TypeScript to ES Module loader and compiler.",
-      "url": "https://github.com/tsmodule/tsmodule"
-    },
-    "rssUrl": "https://github.com/tsmodule/tsmodule/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/GiuseppeRaso/structura.js",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "giusepperaso/structura.js: A very fast and lightweight Typescript library to create immutable states with a mutable syntax",
-      "url": "https://github.com/GiuseppeRaso/structura.js"
-    },
-    "rssUrl": "https://github.com/GiuseppeRaso/structura.js/releases.atom"
   },
   {
     "count": 1,
@@ -9371,5 +9344,18 @@
       "url": "https://github.com/Automattic/node-canvas/releases/tag/v3.0.0"
     },
     "rssUrl": "https://github.com/Automattic/node-canvas/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/standard-schema/standard-schema",
+    "tags": [
+      "TypeScript",
+      "proposal"
+    ],
+    "example": {
+      "title": "standard-schema/standard-schema: A standard interface for TypeScript schema validation libraries",
+      "url": "https://github.com/standard-schema/standard-schema"
+    },
+    "rssUrl": "https://github.com/standard-schema/standard-schema/releases.atom"
   }
 ]
