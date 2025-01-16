@@ -711,12 +711,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/flow",
-    "feeds": [
-      "https://github.com/facebook/flow/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/jest",
     "feeds": [
       "https://github.com/facebook/jest/releases.atom"
@@ -855,12 +849,6 @@
     ]
   },
   {
-    "url": "https://github.com/LyraSearch/lyra",
-    "feeds": [
-      "https://github.com/LyraSearch/lyra/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/azu/eslint-cjs-to-esm",
     "feeds": [
       "https://github.com/azu/eslint-cjs-to-esm/releases.atom"
@@ -966,6 +954,12 @@
     "url": "https://github.com/codesandbox/nodebox-runtime",
     "feeds": [
       "https://github.com/codesandbox/nodebox-runtime/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/flow",
+    "feeds": [
+      "https://github.com/facebook/flow/releases.atom"
     ]
   },
   {

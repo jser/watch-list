@@ -1321,19 +1321,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/facebook/flow",
-    "tags": [
-      "flowtype",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v0.200.0 · facebook/flow",
-      "url": "https://github.com/facebook/flow/releases/tag/v0.200.0"
-    },
-    "rssUrl": "https://github.com/facebook/flow/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://csswizardry.com",
     "tags": [
       "JavaScript",
@@ -2197,20 +2184,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/LyraSearch/lyra",
-    "tags": [
-      "TypeScript",
-      "search ",
-      "library"
-    ],
-    "example": {
-      "title": "LyraSearch/lyra: 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
-      "url": "https://github.com/LyraSearch/lyra"
-    },
-    "rssUrl": "https://github.com/LyraSearch/lyra/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/azu/eslint-cjs-to-esm",
     "tags": [
       "node.js",
@@ -2701,6 +2674,19 @@
       "title": "Announcing Sandpack 2.0 and a Node.js runtime for any browser",
       "url": "https://codesandbox.io/blog/announcing-sandpack-2"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/flow",
+    "tags": [
+      "flowtype",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.200.0 · facebook/flow",
+      "url": "https://github.com/facebook/flow/releases/tag/v0.200.0"
+    },
+    "rssUrl": "https://github.com/facebook/flow/releases.atom"
   },
   {
     "count": 1,
