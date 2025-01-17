@@ -543,6 +543,20 @@
     }
   },
   {
+    "count": 6,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "January 15, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-01-15.html"
+    }
+  },
+  {
     "count": 5,
     "url": "https://socket.dev",
     "tags": [
@@ -557,6 +571,21 @@
       "title": "pnpm 10.0.0 Blocks Lifecycle Scripts by Default - Socket",
       "url": "https://socket.dev/blog/pnpm-10-0-0-blocks-lifecycle-scripts-by-default"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/esm-dev/esm.sh",
+    "tags": [
+      "cdn",
+      "JavaScript",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release v136 · esm-dev/esm.sh",
+      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
+    },
+    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
   },
   {
     "count": 5,
@@ -608,6 +637,24 @@
   },
   {
     "count": 5,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "HTML",
+      "CSS",
+      "book",
+      "DOM",
+      "performance",
+      "React"
+    ],
+    "example": {
+      "title": "Introducing TanStack Start – Frontend Masters Boost",
+      "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://remix.run",
     "tags": [
       "Remix",
@@ -636,40 +683,6 @@
     "example": {
       "title": "Tailwind CSS v4.0 Beta 1 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4-beta"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "November 20, 2024 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2024-11-20.html"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://moonrepo.dev",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "node.js",
-      "deno",
-      "Bun",
-      "golang",
-      "console",
-      "Rust",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
-      "url": "https://moonrepo.dev/blog/moon-v1.0"
     }
   },
   {
@@ -813,21 +826,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/esm-dev/esm.sh",
-    "tags": [
-      "cdn",
-      "JavaScript",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v135 / Introducing esm.sh/run · esm-dev/esm.sh",
-      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v135"
-    },
-    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.blog",
     "tags": [
       "npm",
@@ -963,23 +961,6 @@
   },
   {
     "count": 4,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "CSS",
-      "book",
-      "DOM",
-      "performance"
-    ],
-    "example": {
-      "title": "Introducing TanStack Router – Frontend Masters Boost",
-      "url": "https://frontendmasters.com/blog/introducing-tanstack-router/"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
@@ -1053,6 +1034,26 @@
       "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0"
     },
     "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://moonrepo.dev",
+    "tags": [
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "node.js",
+      "deno",
+      "Bun",
+      "golang",
+      "console",
+      "Rust",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
+      "url": "https://moonrepo.dev/blog/moon-v1.0"
+    }
   },
   {
     "count": 3,
@@ -1302,6 +1303,19 @@
     "example": {
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://blog.angular.dev",
+    "tags": [
+      "Angular",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Angular 2025 Strategy. For the past two and a half years… | by Minko Gechev | Jan, 2025 | Angular Blog",
+      "url": "https://blog.angular.dev/angular-2025-strategy-9ca333dfc334"
     }
   },
   {
@@ -1891,6 +1905,20 @@
   },
   {
     "count": 2,
+    "url": "https://risingstars.js.org",
+    "tags": [
+      "JavaScript",
+      "Github",
+      "news",
+      "library"
+    ],
+    "example": {
+      "title": "2024 JavaScript Rising Stars",
+      "url": "https://risingstars.js.org/2024/en"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/capricorn86/happy-dom",
     "tags": [
       "JavaScript",
@@ -2040,18 +2068,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.angular.dev",
-    "tags": [
-      "Angular",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Meet Angular v19. In the past two years we doubled down… | by Minko Gechev | Nov, 2024 | Angular Blog",
-      "url": "https://blog.angular.dev/meet-angular-v19-7b29dfd05b84"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://medium.com/airbnb-engineering/",
     "tags": [
       "accessibility",
@@ -2181,23 +2197,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/azu/eslint-cjs-to-esm",
-    "tags": [
-      "node.js",
-      "JavaScript",
-      "ECMAScript",
-      "CommonJS",
-      "Tools",
-      "ESLint"
-    ],
-    "example": {
-      "title": "azu/eslint-cjs-to-esm: ESLint wrapper for migration from CJS to ESM.",
-      "url": "https://github.com/azu/eslint-cjs-to-esm"
-    },
-    "rssUrl": "https://github.com/azu/eslint-cjs-to-esm/releases.atom"
   },
   {
     "count": 1,
@@ -5925,19 +5924,6 @@
   },
   {
     "count": 1,
-    "url": "https://risingstars.js.org",
-    "tags": [
-      "JavaScript",
-      "Github",
-      "news"
-    ],
-    "example": {
-      "title": "2023 JavaScript Rising Stars",
-      "url": "https://risingstars.js.org/2023/en"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://julesblom.com",
     "tags": [
       "React",
@@ -9343,5 +9329,18 @@
       "url": "https://github.com/standard-schema/standard-schema"
     },
     "rssUrl": "https://github.com/standard-schema/standard-schema/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://satanacchio.hashnode.dev",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "Node.js Type Stripping Explained",
+      "url": "https://satanacchio.hashnode.dev/everything-you-need-to-know-about-nodejs-type-stripping"
+    }
   }
 ]

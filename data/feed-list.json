@@ -609,6 +609,12 @@
     ]
   },
   {
+    "url": "https://github.com/esm-dev/esm.sh",
+    "feeds": [
+      "https://github.com/esm-dev/esm.sh/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -630,12 +636,6 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/esm-dev/esm.sh",
-    "feeds": [
-      "https://github.com/esm-dev/esm.sh/releases.atom"
     ]
   },
   {
@@ -846,12 +846,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/azu/eslint-cjs-to-esm",
-    "feeds": [
-      "https://github.com/azu/eslint-cjs-to-esm/releases.atom"
     ]
   },
   {
