@@ -712,25 +712,6 @@
   },
   {
     "count": 4,
-    "url": "https://www.builder.io",
-    "tags": [
-      "JavaScript",
-      "Fetch",
-      "article",
-      "React",
-      "Chrome",
-      "debug",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Qwik Reaches v1.0",
-      "url": "https://www.builder.io/blog/qwik-v1"
-    },
-    "rssUrl": "https://www.builder.io/blog/feed.xml"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "library",
@@ -1039,6 +1020,24 @@
       "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
       "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://www.builder.io",
+    "tags": [
+      "React",
+      "article",
+      "Chrome",
+      "debug",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Qwik Reaches v1.0",
+      "url": "https://www.builder.io/blog/qwik-v1"
+    },
+    "rssUrl": "https://www.builder.io/blog/feed.xml"
   },
   {
     "count": 3,
