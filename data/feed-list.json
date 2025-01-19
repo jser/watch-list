@@ -849,18 +849,6 @@
     ]
   },
   {
-    "url": "https://github.com/shuding/react-wrap-balancer",
-    "feeds": [
-      "https://github.com/shuding/react-wrap-balancer/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/azu/tsconfig-to-dual-package",
-    "feeds": [
-      "https://github.com/azu/tsconfig-to-dual-package/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/Brooooooklyn/canvas",
     "feeds": [
       "https://github.com/Brooooooklyn/canvas/releases.atom"
@@ -3127,12 +3115,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/qnighy/",
-    "feeds": [
-      "https://zenn.dev/qnighy/feed"
     ]
   },
   {
