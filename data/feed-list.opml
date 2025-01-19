@@ -142,8 +142,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/shuding/react-wrap-balancer" title="github.com/shuding/react-wrap-balancer" type="rss" xmlUrl="https://github.com/shuding/react-wrap-balancer/releases.atom"/>
-<outline text="github.com/azu/tsconfig-to-dual-package" title="github.com/azu/tsconfig-to-dual-package" type="rss" xmlUrl="https://github.com/azu/tsconfig-to-dual-package/releases.atom"/>
 <outline text="github.com/Brooooooklyn/canvas" title="github.com/Brooooooklyn/canvas" type="rss" xmlUrl="https://github.com/Brooooooklyn/canvas/releases.atom"/>
 <outline text="github.com/denoland/deno" title="github.com/denoland/deno" type="rss" xmlUrl="https://github.com/denoland/deno/releases.atom"/>
 <outline text="github.com/amandaghassaei/gpu-io" title="github.com/amandaghassaei/gpu-io" type="rss" xmlUrl="https://github.com/amandaghassaei/gpu-io/releases.atom"/>
@@ -507,7 +505,6 @@
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
-<outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/mkt/" title="zenn.dev/mkt/" type="rss" xmlUrl="https://zenn.dev/mkt/feed"/>
 <outline text="zenn.dev/terrierscript/" title="zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
 <outline text="zenn.dev/yusukehirao/" title="zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>
