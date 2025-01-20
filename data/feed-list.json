@@ -681,6 +681,12 @@
     ]
   },
   {
+    "url": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -732,12 +738,6 @@
     "url": "https://github.com/vercel/swr",
     "feeds": [
       "https://github.com/vercel/swr/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/storybookjs/storybook",
-    "feeds": [
-      "https://github.com/storybookjs/storybook/releases.atom"
     ]
   },
   {
