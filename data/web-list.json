@@ -48,7 +48,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 44,
+    "count": 45,
     "url": "https://developer.chrome.com",
     "tags": [
       "JavaScript",
@@ -70,8 +70,8 @@
       "Firefox"
     ],
     "example": {
-      "title": "What's new in DevTools, Chrome 132  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-devtools-132?hl=en"
+      "title": "Chrome 132  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/132"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -225,6 +225,20 @@
   },
   {
     "count": 13,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 34.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-34-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -250,20 +264,6 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 33.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-33-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 12,
@@ -1071,6 +1071,23 @@
   },
   {
     "count": 3,
+    "url": "https://docs.cypress.io",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "browser",
+      "library",
+      "ReleaseNote",
+      "E2E",
+      "test"
+    ],
+    "example": {
+      "title": "Changelog: Cypress App | Cypress Documentation",
+      "url": "https://docs.cypress.io/app/references/changelog#14-0-0"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://moonrepo.dev",
     "tags": [
       "monorepo",
@@ -1104,6 +1121,23 @@
       "url": "https://github.com/remix-run/react-router/blob/main/CHANGELOG.md#v710"
     },
     "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/storybookjs/storybook",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "Tools",
+      "ReleaseNote",
+      "library",
+      "storybook"
+    ],
+    "example": {
+      "title": "Release v8.5.0 · storybookjs/storybook",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v8.5.0"
+    },
+    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
   },
   {
     "count": 3,
@@ -1427,19 +1461,19 @@
   },
   {
     "count": 2,
-    "url": "https://docs.cypress.io",
+    "url": "https://shopify.engineering",
     "tags": [
+      "WebAssembly",
       "JavaScript",
-      "testing",
-      "browser",
-      "library",
-      "ReleaseNote",
-      "E2E"
+      "article",
+      "React",
+      "Native"
     ],
     "example": {
-      "title": "Changelog | Cypress Documentation",
-      "url": "https://docs.cypress.io/guides/references/changelog#13-0-0"
-    }
+      "title": "Five years of React Native at Shopify (2025) - Shopify",
+      "url": "https://shopify.engineering/five-years-of-react-native-at-shopify"
+    },
+    "rssUrl": "https://shopify.engineering/blog.atom"
   },
   {
     "count": 2,
@@ -1469,22 +1503,6 @@
       "url": "https://github.com/vercel/swr/releases/tag/v2.3.0"
     },
     "rssUrl": "https://github.com/vercel/swr/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/storybookjs/storybook",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "Tools",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "storybook/CHANGELOG.md at next · storybookjs/storybook",
-      "url": "https://github.com/storybookjs/storybook/blob/next/CHANGELOG.md#830"
-    },
-    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
   },
   {
     "count": 2,
@@ -2196,6 +2214,20 @@
   },
   {
     "count": 2,
+    "url": "https://2ality.com",
+    "tags": [
+      "ECMAScript",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "A checklist for your `tsconfig.json`",
+      "url": "https://2ality.com/2025/01/tsconfig-json.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
+  },
+  {
+    "count": 2,
     "url": "https://rspack.dev",
     "tags": [
       "rspack",
@@ -2547,20 +2579,6 @@
       "url": "https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/"
     },
     "rssUrl": "https://www.codeflashbacks.com/rss/"
-  },
-  {
-    "count": 1,
-    "url": "https://shopify.engineering",
-    "tags": [
-      "WebAssembly",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Bringing Javascript to WebAssembly for Shopify Functions (2023)",
-      "url": "https://shopify.engineering/javascript-in-webassembly-for-shopify-functions"
-    },
-    "rssUrl": "https://shopify.engineering/blog.atom"
   },
   {
     "count": 1,
@@ -7716,19 +7734,6 @@
   },
   {
     "count": 1,
-    "url": "https://2ality.com",
-    "tags": [
-      "ECMAScript",
-      "article"
-    ],
-    "example": {
-      "title": "Ecma International approves ECMAScript 2024: What’s new?",
-      "url": "https://2ality.com/2024/06/ecmascript-2024.html"
-    },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/e18e/e18e",
     "tags": [
       "JavaScript",
@@ -9569,6 +9574,32 @@
     "example": {
       "title": "Node.js Type Stripping Explained",
       "url": "https://satanacchio.hashnode.dev/everything-you-need-to-know-about-nodejs-type-stripping"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://content.nuxt.com",
+    "tags": [
+      "Nuxt",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Nuxt Content version 3",
+      "url": "https://content.nuxt.com/blog/v3"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://vitest.dev",
+    "tags": [
+      "vite",
+      "test",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vitest 3.0 is out! | Vitest",
+      "url": "https://vitest.dev/blog/vitest-3"
     }
   }
 ]
