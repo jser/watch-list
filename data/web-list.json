@@ -624,7 +624,8 @@
     "example": {
       "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
       "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
-    }
+    },
+    "rssUrl": "https://zenn.dev/p/cybozu_frontend/feed"
   },
   {
     "count": 5,
@@ -1319,7 +1320,8 @@
     "example": {
       "title": "JSConf JP 2024 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
-    }
+    },
+    "rssUrl": "https://zenn.dev/p/yumemi_inc/feed"
   },
   {
     "count": 3,
@@ -3667,7 +3669,8 @@
     "example": {
       "title": "【Chrome DevTools】Performance Insightsでフロントエンドパフォーマンス改善",
       "url": "https://zenn.dev/chot/articles/ce7296779048a2"
-    }
+    },
+    "rssUrl": "https://zenn.dev/p/chot/feed"
   },
   {
     "count": 1,
@@ -6334,7 +6337,8 @@
     "example": {
       "title": "CodeMirror v6によるZennのMarkdownエディタの作り方",
       "url": "https://zenn.dev/team_zenn/articles/zenn-markdown-editor-by-cm6"
-    }
+    },
+    "rssUrl": "https://zenn.dev/p/team_zenn/feed"
   },
   {
     "count": 1,
@@ -6609,7 +6613,8 @@
     "example": {
       "title": "TanStack Router（& Query）はSPA開発で求めていたものだった✨【Reactのルーティングとデータ取得】",
       "url": "https://zenn.dev/aishift/articles/ad1744836509dd"
-    }
+    },
+    "rssUrl": "https://zenn.dev/p/aishift/feed"
   },
   {
     "count": 1,
@@ -7325,7 +7330,8 @@
     "example": {
       "title": "TypeScript の型検査にかかる時間を短縮した話",
       "url": "https://zenn.dev/knowledgework/articles/speedup-typecheck"
-    }
+    },
+    "rssUrl": "https://zenn.dev/p/knowledgework/feed"
   },
   {
     "count": 1,
@@ -9600,6 +9606,20 @@
     "example": {
       "title": "Vitest 3.0 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-3"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://react-server.dev",
+    "tags": [
+      "React",
+      "vite",
+      "server",
+      "library"
+    ],
+    "example": {
+      "title": "@lazarv/react-server",
+      "url": "https://react-server.dev/"
     }
   }
 ]

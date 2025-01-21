@@ -9330,5 +9330,19 @@
       "title": "Vitest 3.0 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-3"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://react-server.dev",
+    "tags": [
+      "React",
+      "vite",
+      "server",
+      "library"
+    ],
+    "example": {
+      "title": "@lazarv/react-server",
+      "url": "https://react-server.dev/"
+    }
   }
 ]

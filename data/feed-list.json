@@ -3100,6 +3100,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "feeds": [
+      "https://zenn.dev/p/cybozu_frontend/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/uki00a/",
     "feeds": [
       "https://zenn.dev/uki00a/feed"
@@ -3136,6 +3142,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/yumemi_inc/",
+    "feeds": [
+      "https://zenn.dev/p/yumemi_inc/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/tnyo43/",
     "feeds": [
       "https://zenn.dev/tnyo43/feed"
@@ -3151,6 +3163,12 @@
     "url": "https://zenn.dev/wakamsha/",
     "feeds": [
       "https://zenn.dev/wakamsha/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/chot/",
+    "feeds": [
+      "https://zenn.dev/p/chot/feed"
     ]
   },
   {
@@ -3196,6 +3214,18 @@
     ]
   },
   {
+    "url": "https://zenn.dev/team_zenn/",
+    "feeds": [
+      "https://zenn.dev/p/team_zenn/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/aishift/",
+    "feeds": [
+      "https://zenn.dev/p/aishift/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/inaniwaudon/",
     "feeds": [
       "https://zenn.dev/inaniwaudon/feed"
@@ -3205,6 +3235,12 @@
     "url": "https://zenn.dev/uhyo/",
     "feeds": [
       "https://zenn.dev/uhyo/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/knowledgework/",
+    "feeds": [
+      "https://zenn.dev/p/knowledgework/feed"
     ]
   },
   {
