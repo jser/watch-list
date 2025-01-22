@@ -1353,6 +1353,19 @@
   },
   {
     "count": 3,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "webpack"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.2 - Rspack",
+      "url": "https://rspack.dev/blog/announcing-1-2"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://www.debugbear.com",
     "tags": [
       "article",
@@ -2024,6 +2037,21 @@
   },
   {
     "count": 2,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "ReleaseNote",
+      "Native"
+    ],
+    "example": {
+      "title": "React Native 0.77 - New Styling Features, Android’s 16KB page support, Swift Template · React Native",
+      "url": "https://reactnative.dev/blog/2025/01/21/version-0.77"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://www.w3.org",
     "tags": [
       "WAI-ARIA",
@@ -2152,19 +2180,6 @@
     "example": {
       "title": "A checklist for your `tsconfig.json`",
       "url": "https://2ality.com/2025/01/tsconfig-json.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "webpack"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.1 - Rspack",
-      "url": "https://rspack.dev/blog/announcing-1-1"
     }
   },
   {
@@ -7014,20 +7029,6 @@
       "url": "https://github.com/LavaMoat/LavaDome"
     },
     "rssUrl": "https://github.com/LavaMoat/LavaDome/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "iOS",
-      "Android",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "React Native 0.74 - Yoga 3.0, Bridgeless New Architecture, and more · React Native",
-      "url": "https://reactnative.dev/blog/2024/04/22/release-0.74"
-    }
   },
   {
     "count": 1,
