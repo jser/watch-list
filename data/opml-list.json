@@ -118,12 +118,6 @@
     ]
   },
   {
-    "url": "https://blog.bitsrc.io",
-    "feeds": [
-      "https://blog.bitsrc.io/feed"
-    ]
-  },
-  {
     "url": "https://blog.bokken.io",
     "feeds": [
       "https://blog.bokken.io/feeds/atom.xml"
@@ -610,12 +604,6 @@
     "url": "https://katashin.info",
     "feeds": [
       "https://katashin.info/feed/feed.xml"
-    ]
-  },
-  {
-    "url": "https://kentcdodds.com",
-    "feeds": [
-      "https://kentcdodds.com/blog/rss.xml"
     ]
   },
   {
@@ -1622,12 +1610,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mkt/",
-    "feeds": [
-      "https://zenn.dev/mkt/feed"
     ]
   },
   {

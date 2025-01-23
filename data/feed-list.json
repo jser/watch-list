@@ -118,12 +118,6 @@
     ]
   },
   {
-    "url": "https://blog.bitsrc.io",
-    "feeds": [
-      "https://blog.bitsrc.io/feed"
-    ]
-  },
-  {
     "url": "https://blog.bokken.io",
     "feeds": [
       "https://blog.bokken.io/feeds/atom.xml"
@@ -615,12 +609,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
@@ -714,6 +702,12 @@
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -846,18 +840,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/Brooooooklyn/canvas",
-    "feeds": [
-      "https://github.com/Brooooooklyn/canvas/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/denoland/deno",
-    "feeds": [
-      "https://github.com/denoland/deno/releases.atom"
     ]
   },
   {
@@ -2037,6 +2019,18 @@
     ]
   },
   {
+    "url": "https://github.com/desko27/react-call",
+    "feeds": [
+      "https://github.com/desko27/react-call/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2092,12 +2086,6 @@
     "url": "https://katashin.info",
     "feeds": [
       "https://katashin.info/feed/feed.xml"
-    ]
-  },
-  {
-    "url": "https://kentcdodds.com",
-    "feeds": [
-      "https://kentcdodds.com/blog/rss.xml"
     ]
   },
   {
@@ -3127,12 +3115,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/mkt/",
-    "feeds": [
-      "https://zenn.dev/mkt/feed"
     ]
   },
   {

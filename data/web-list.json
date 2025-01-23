@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -15,8 +15,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Node.js — Node v23.6.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.6.0"
+      "title": "Node.js — Tuesday, January 21, 2025 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -713,21 +713,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "library",
-      "redux",
-      "ReleaseNote",
-      "React"
-    ],
-    "example": {
-      "title": "Release v2.4.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.4.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://www.webkit.org",
     "tags": [
       "WebComponents",
@@ -1338,6 +1323,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "React",
+      "redux",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.4.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.4.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "JavaScript",
@@ -1426,22 +1426,6 @@
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     },
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://csswizardry.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "performance",
-      "HTML",
-      "browser"
-    ],
-    "example": {
-      "title": "blocking=render: Why would you do that?! – Harry Roberts – Web Performance Consultant",
-      "url": "https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/"
-    },
-    "rssUrl": "https://feeds.feedburner.com/csswizardry"
   },
   {
     "count": 2,
@@ -2320,79 +2304,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/mkt/",
-    "tags": [
-      "Next.js",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Next.js製アプリケーションのコンパイルを約100倍高速化した話",
-      "url": "https://zenn.dev/mkt/articles/543669021d9a1e"
-    },
-    "rssUrl": "https://zenn.dev/mkt/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.bitsrc.io",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Why Is My Jest Test Suite So Slow? | by Steven Lemon | Jan, 2023 | Bits and Pieces",
-      "url": "https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0"
-    },
-    "rssUrl": "https://blog.bitsrc.io/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://kentcdodds.com",
-    "tags": [
-      "node.js",
-      "JavaScript",
-      "debug",
-      "article",
-      "video"
-    ],
-    "example": {
-      "title": "Fixing a Memory Leak in a Production Node.js App",
-      "url": "https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app"
-    },
-    "rssUrl": "https://kentcdodds.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/Brooooooklyn/canvas",
-    "tags": [
-      "node.js",
-      "canvas",
-      "library"
-    ],
-    "example": {
-      "title": "Brooooooklyn/canvas: High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.",
-      "url": "https://github.com/Brooooooklyn/canvas"
-    },
-    "rssUrl": "https://github.com/Brooooooklyn/canvas/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/denoland/deno",
-    "tags": [
-      "deno",
-      "issue",
-      "proposal"
-    ],
-    "example": {
-      "title": "Q1 Roadmap · Issue #17475 · denoland/deno",
-      "url": "https://github.com/denoland/deno/issues/17475"
-    },
-    "rssUrl": "https://github.com/denoland/deno/releases.atom"
   },
   {
     "count": 1,
@@ -8274,6 +8185,20 @@
   },
   {
     "count": 1,
+    "url": "https://csswizardry.com",
+    "tags": [
+      "HTML",
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "blocking=render: Why would you do that?! – Harry Roberts – Web Performance Consultant",
+      "url": "https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/"
+    },
+    "rssUrl": "https://feeds.feedburner.com/csswizardry"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/stackblitz-labs/pkg.pr.new",
     "tags": [
       "npm",
@@ -9608,6 +9533,34 @@
       "title": "Vitest 3.0 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-3"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/desko27/react-call",
+    "tags": [
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "desko27/react-call: ⚛️ 📡 Call your React components",
+      "url": "https://github.com/desko27/react-call"
+    },
+    "rssUrl": "https://github.com/desko27/react-call/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file",
+    "tags": [
+      "nodejs",
+      "Rust",
+      "audio",
+      "library"
+    ],
+    "example": {
+      "title": "ircam-ismm/node-web-audio-api: Web Audio API implementation for Node.js",
+      "url": "https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file/releases.atom"
   },
   {
     "count": 1,
