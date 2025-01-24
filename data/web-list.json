@@ -21,7 +21,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 50,
+    "count": 51,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -42,8 +42,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.1.40 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.1.40"
+      "title": "Bun 1.2 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -177,17 +177,17 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 18,
+    "count": 17,
     "url": "https://web.dev",
     "tags": [
-      "performance",
-      "browser",
-      "article",
       "tutorial",
       "Image",
+      "article",
       "privacy",
       "sourcemap",
       "debug",
+      "browser",
+      "performance",
       "Chrome",
       "Extension",
       "JavaScript",
@@ -364,6 +364,22 @@
     "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.50.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.50.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
     "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
@@ -397,22 +413,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.49.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.49.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 8,
@@ -2304,32 +2304,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://fffuel.co",
-    "tags": [
-      "SVG",
-      "tutorial"
-    ],
-    "example": {
-      "title": "SSSVG: An Interactive SVG Reference | fffuel",
-      "url": "https://fffuel.co/sssvg/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/amandaghassaei/gpu-io",
-    "tags": [
-      "WebGL",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "amandaghassaei/gpu-io: A GPU-accelerated computing library for physics simulations and other mathematical calculations",
-      "url": "https://github.com/amandaghassaei/gpu-io"
-    },
-    "rssUrl": "https://github.com/amandaghassaei/gpu-io/releases.atom"
   },
   {
     "count": 1,
