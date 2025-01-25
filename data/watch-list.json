@@ -140,23 +140,6 @@
   },
   {
     "count": 19,
-    "url": "https://astro.build",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "astro",
-      "nodejs",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.0 | Astro",
-      "url": "https://astro.build/blog/astro-5/"
-    }
-  },
-  {
-    "count": 19,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -168,6 +151,22 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 18,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.0 | Astro",
+      "url": "https://astro.build/blog/astro-5/"
+    }
   },
   {
     "count": 17,
@@ -479,22 +478,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "Remix",
-      "ReleaseNote",
-      "React",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "remix/CHANGELOG.md at main · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -586,6 +569,22 @@
       "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
     },
     "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "Remix",
+      "ReleaseNote",
+      "React",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "remix/CHANGELOG.md at main · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 5,
@@ -958,18 +957,6 @@
     "example": {
       "title": "New JavaScript Set methods | MDN Blog",
       "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://developer.apple.com",
-    "tags": [
-      "safari",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
-      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
   },
   {
@@ -1381,21 +1368,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/facebook/jest",
-    "tags": [
-      "JavaScript",
-      "jest",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v29.5.0 · facebook/jest",
-      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/jest/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/nodejs/node",
     "tags": [
       "node.js",
@@ -1424,6 +1396,18 @@
     "example": {
       "title": "Five years of React Native at Shopify (2025) - Shopify",
       "url": "https://shopify.engineering/five-years-of-react-native-at-shopify"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://developer.apple.com",
+    "tags": [
+      "safari",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
   },
   {
@@ -2791,6 +2775,20 @@
       "url": "https://github.com/ije/esm.sh/releases/tag/v111"
     },
     "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/jest",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v29.5.0 · facebook/jest",
+      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
+    },
+    "rssUrl": "https://github.com/facebook/jest/releases.atom"
   },
   {
     "count": 1,
