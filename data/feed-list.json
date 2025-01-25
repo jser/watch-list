@@ -591,12 +591,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
@@ -606,6 +600,12 @@
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -708,12 +708,6 @@
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/jest",
-    "feeds": [
-      "https://github.com/facebook/jest/releases.atom"
     ]
   },
   {
@@ -936,6 +930,12 @@
     "url": "https://github.com/ije/esm.sh",
     "feeds": [
       "https://github.com/ije/esm.sh/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/jest",
+    "feeds": [
+      "https://github.com/facebook/jest/releases.atom"
     ]
   },
   {
