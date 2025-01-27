@@ -140,7 +140,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/deca-org/deca-ui" title="github.com/deca-org/deca-ui" type="rss" xmlUrl="https://github.com/deca-org/deca-ui/releases.atom"/>
 <outline text="github.com/cyclic-software/s3fs" title="github.com/cyclic-software/s3fs" type="rss" xmlUrl="https://github.com/cyclic-software/s3fs/releases.atom"/>
 <outline text="github.com/jakebailey/hereby" title="github.com/jakebailey/hereby" type="rss" xmlUrl="https://github.com/jakebailey/hereby/releases.atom"/>
 <outline text="github.com/reactjs/reactjs.org" title="github.com/reactjs/reactjs.org" type="rss" xmlUrl="https://github.com/reactjs/reactjs.org/releases.atom"/>

@@ -73,25 +73,6 @@
     }
   },
   {
-    "count": 27,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 2.1: Wasm Imports and other enhancements",
-      "url": "https://deno.com/blog/v2.1"
-    }
-  },
-  {
     "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
@@ -124,6 +105,25 @@
     "example": {
       "title": "WebKit Features in Safari 18.2 | WebKit",
       "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
+    }
+  },
+  {
+    "count": 26,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 2.1: Wasm Imports and other enhancements",
+      "url": "https://deno.com/blog/v2.1"
     }
   },
   {
@@ -2210,19 +2210,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/deca-org/deca-ui",
-    "tags": [
-      "React",
-      "library"
-    ],
-    "example": {
-      "title": "deca-org/deca-ui: DecaUI is production-ready themeable component library built with StitchesJS.",
-      "url": "https://github.com/deca-org/deca-ui"
-    },
-    "rssUrl": "https://github.com/deca-org/deca-ui/releases.atom"
   },
   {
     "count": 1,
