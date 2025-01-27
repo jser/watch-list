@@ -837,12 +837,6 @@
     ]
   },
   {
-    "url": "https://github.com/deca-org/deca-ui",
-    "feeds": [
-      "https://github.com/deca-org/deca-ui/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/cyclic-software/s3fs",
     "feeds": [
       "https://github.com/cyclic-software/s3fs/releases.atom"
