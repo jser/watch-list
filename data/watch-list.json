@@ -20,7 +20,7 @@
     }
   },
   {
-    "count": 51,
+    "count": 52,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -41,8 +41,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun 1.2 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2"
+      "title": "Bun v1.2.1 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.1"
     }
   },
   {
@@ -139,7 +139,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -147,8 +147,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm 10 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.0.0"
+      "title": "Release pnpm 10.1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.1.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -197,7 +197,7 @@
     }
   },
   {
-    "count": 15,
+    "count": 16,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -209,8 +209,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "ESLint v9.18.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/01/eslint-v9.18.0-released/"
+      "title": "ESLint v9.19.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/01/eslint-v9.19.0-released/"
     }
   },
   {
@@ -527,6 +527,22 @@
   },
   {
     "count": 6,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "UI",
+      "React",
+      "css "
+    ],
+    "example": {
+      "title": "Tailwind CSS v4.0 - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/tailwindcss-v4"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -666,22 +682,6 @@
     "example": {
       "title": "React Router v7 | Remix",
       "url": "https://remix.run/blog/react-router-v7"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "UI",
-      "React",
-      "css "
-    ],
-    "example": {
-      "title": "Tailwind CSS v4.0 Beta 1 - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/tailwindcss-v4-beta"
     }
   },
   {
@@ -9260,5 +9260,19 @@
       "title": "@lazarv/react-server",
       "url": "https://react-server.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/irsyadadl/justd",
+    "tags": [
+      "React",
+      "UI",
+      "library"
+    ],
+    "example": {
+      "title": "irsyadadl/justd: Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.",
+      "url": "https://github.com/irsyadadl/justd"
+    },
+    "rssUrl": "https://github.com/irsyadadl/justd/releases.atom"
   }
 ]
