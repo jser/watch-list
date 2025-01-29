@@ -4,7 +4,6 @@
     <title>JSer.info Watch List</title>
 </head>
 <body>
-<outline text="00f.net" title="00f.net" type="rss" xmlUrl="https://00f.net/rss.xml"/>
 <outline text="2ality.com" title="2ality.com" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom"/>
 <outline text="abduvik.medium.com" title="abduvik.medium.com" type="rss" xmlUrl="https://medium.com/feed/@abduvik"/>
 <outline text="adonisjs.com" title="adonisjs.com" type="rss" xmlUrl="https://adonisjs.com/feeds/blog.xml"/>
@@ -109,7 +108,6 @@
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
-<outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
@@ -137,11 +135,10 @@
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+<outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/cyclic-software/s3fs" title="github.com/cyclic-software/s3fs" type="rss" xmlUrl="https://github.com/cyclic-software/s3fs/releases.atom"/>
-<outline text="github.com/jakebailey/hereby" title="github.com/jakebailey/hereby" type="rss" xmlUrl="https://github.com/jakebailey/hereby/releases.atom"/>
 <outline text="github.com/reactjs/reactjs.org" title="github.com/reactjs/reactjs.org" type="rss" xmlUrl="https://github.com/reactjs/reactjs.org/releases.atom"/>
 <outline text="github.com/pmndrs/jotai" title="github.com/pmndrs/jotai" type="rss" xmlUrl="https://github.com/pmndrs/jotai/releases.atom"/>
 <outline text="github.com/CodeIntelligenceTesting/jazzer.js" title="github.com/CodeIntelligenceTesting/jazzer.js" type="rss" xmlUrl="https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"/>
@@ -453,7 +450,6 @@
 <outline text="webdriver.io" title="webdriver.io" type="rss" xmlUrl="https://webdriver.io/blog/rss.xml"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
-<outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
 <outline text="www.angulararchitects.io" title="www.angulararchitects.io" type="rss" xmlUrl="https://www.angulararchitects.io/sample-page/feed/"/>

@@ -1,12 +1,5 @@
 [
   {
-    "url": "https://00f.net",
-    "feeds": [
-      "https://00f.net/rss.xml",
-      "https://00f.net/atom.xml"
-    ]
-  },
-  {
     "url": "https://2ality.com",
     "feeds": [
       "https://2ality.com/feeds/posts.atom"
@@ -1291,12 +1284,6 @@
     "url": "https://workos.com",
     "feeds": [
       "https://workos.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.11ty.dev",
-    "feeds": [
-      "https://www.11ty.dev/docs/plugins/rss/"
     ]
   },
   {
