@@ -4,7 +4,6 @@
     <title>JSer.info Watch List</title>
 </head>
 <body>
-<outline text="00f.net" title="00f.net" type="rss" xmlUrl="https://00f.net/rss.xml"/>
 <outline text="2ality.com" title="2ality.com" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom"/>
 <outline text="abduvik.medium.com" title="abduvik.medium.com" type="rss" xmlUrl="https://medium.com/feed/@abduvik"/>
 <outline text="adonisjs.com" title="adonisjs.com" type="rss" xmlUrl="https://adonisjs.com/feeds/blog.xml"/>
@@ -206,7 +205,6 @@
 <outline text="webdriver.io" title="webdriver.io" type="rss" xmlUrl="https://webdriver.io/blog/rss.xml"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
-<outline text="www.11ty.dev" title="www.11ty.dev" type="rss" xmlUrl="https://www.11ty.dev/docs/plugins/rss/"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
 <outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
 <outline text="www.angulararchitects.io" title="www.angulararchitects.io" type="rss" xmlUrl="https://www.angulararchitects.io/sample-page/feed/"/>

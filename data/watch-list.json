@@ -74,21 +74,6 @@
   },
   {
     "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.7 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/"
-    }
-  },
-  {
-    "count": 26,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -124,6 +109,21 @@
     "example": {
       "title": "Deno 2.1: Wasm Imports and other enhancements",
       "url": "https://deno.com/blog/v2.1"
+    }
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.7 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/"
     }
   },
   {
@@ -271,23 +271,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "Tools",
-      "CSS",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.24.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.24.0"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
       "React",
@@ -331,6 +314,23 @@
       "title": "Storybook 8.4",
       "url": "https://storybook.js.org/blog/storybook-8-4/"
     }
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "CSS",
+      "bundler",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.24.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.24.0"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 10,
@@ -961,39 +961,6 @@
   },
   {
     "count": 3,
-    "url": "https://www.builder.io",
-    "tags": [
-      "React",
-      "article",
-      "Chrome",
-      "debug",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Qwik Reaches v1.0",
-      "url": "https://www.builder.io/blog/qwik-v1"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/mswjs/msw",
-    "tags": [
-      "ServiceWorker",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "test"
-    ],
-    "example": {
-      "title": "Release v2.6.0 · mswjs/msw",
-      "url": "https://github.com/mswjs/msw/releases/tag/v2.6.0"
-    },
-    "rssUrl": "https://github.com/mswjs/msw/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/nuxt/nuxt",
     "tags": [
       "Vue",
@@ -1396,6 +1363,22 @@
     "example": {
       "title": "Five years of React Native at Shopify (2025) - Shopify",
       "url": "https://shopify.engineering/five-years-of-react-native-at-shopify"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://www.builder.io",
+    "tags": [
+      "Chrome",
+      "debug",
+      "article",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Qwik Reaches v1.0",
+      "url": "https://www.builder.io/blog/qwik-v1"
     }
   },
   {
@@ -2052,6 +2035,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/mswjs/msw",
+    "tags": [
+      "JavaScript",
+      "test",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.6.0 · mswjs/msw",
+      "url": "https://github.com/mswjs/msw/releases/tag/v2.6.0"
+    },
+    "rssUrl": "https://github.com/mswjs/msw/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://kettanaito.com",
     "tags": [
       "Fetch",
@@ -2210,60 +2208,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.11ty.dev",
-    "tags": [
-      "JavaScript",
-      "template",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "The very first beta release of Eleventy v2.0 — Eleventy",
-      "url": "https://www.11ty.dev/blog/eleventy-v2-beta/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cyclic-software/s3fs",
-    "tags": [
-      "aws",
-      "node.js",
-      "library"
-    ],
-    "example": {
-      "title": "cyclic-software/s3fs: Drop in replacement for the Node.js fs library backed by AWS S3",
-      "url": "https://github.com/cyclic-software/s3fs"
-    },
-    "rssUrl": "https://github.com/cyclic-software/s3fs/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://00f.net",
-    "tags": [
-      "WebAssembly",
-      "article",
-      "benchmark",
-      "performance"
-    ],
-    "example": {
-      "title": "Performance of WebAssembly runtimes in 2023 | Frank DENIS random thoughts.",
-      "url": "https://00f.net/2023/01/04/webassembly-benchmark-2023/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jakebailey/hereby",
-    "tags": [
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "jakebailey/hereby: A simple Node.js task runner",
-      "url": "https://github.com/jakebailey/hereby"
-    },
-    "rssUrl": "https://github.com/jakebailey/hereby/releases.atom"
   },
   {
     "count": 1,
