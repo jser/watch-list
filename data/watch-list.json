@@ -46,18 +46,18 @@
     }
   },
   {
-    "count": 45,
+    "count": 44,
     "url": "https://developer.chrome.com",
     "tags": [
-      "JavaScript",
-      "browser",
-      "article",
       "Chrome",
       "debug",
       "Tools",
+      "browser",
       "performance",
       "ReleaseNote",
+      "article",
       "puppeteer",
+      "JavaScript",
       "CSS",
       "HTML",
       "testing",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -122,8 +122,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.7 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/"
+      "title": "Announcing TypeScript 5.8 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/"
     }
   },
   {
@@ -1856,6 +1856,19 @@
     "example": {
       "title": "Bun の非互換な拡張 API - moriken's project",
       "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://developers.prtimes.jp",
+    "tags": [
+      "Next.js",
+      "article",
+      "ESLint"
+    ],
+    "example": {
+      "title": "eslint-plugin-no-barrel-filesを導入してBarrel filesをやめた話 | PR TIMES 開発者ブログ",
+      "url": "https://developers.prtimes.jp/2025/01/28/avoid-barrel-files-in-prtimes/"
     }
   },
   {
@@ -5547,18 +5560,6 @@
   },
   {
     "count": 1,
-    "url": "https://developers.prtimes.jp",
-    "tags": [
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "【月間9000万PVのPR TIMES】プレスリリース掲載ページの Next.js 移行でやったこと | PR TIMES 開発者ブログ",
-      "url": "https://developers.prtimes.jp/2023/12/13/replace-press-release-page-with-nextjs/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://tastejs.com",
     "tags": [
       "JavaScript",
@@ -9218,5 +9219,18 @@
       "url": "https://github.com/irsyadadl/justd"
     },
     "rssUrl": "https://github.com/irsyadadl/justd/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://standardschema.dev",
+    "tags": [
+      "TypeScript",
+      "spec",
+      "library"
+    ],
+    "example": {
+      "title": "Standard Schema",
+      "url": "https://standardschema.dev/"
+    }
   }
 ]
