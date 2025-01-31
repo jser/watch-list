@@ -477,15 +477,15 @@
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
-    "count": 6,
+    "count": 7,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release v11.0.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v11.0.0"
+      "title": "Release v11.1.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
