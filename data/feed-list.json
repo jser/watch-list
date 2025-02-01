@@ -830,12 +830,6 @@
     ]
   },
   {
-    "url": "https://github.com/reactjs/reactjs.org",
-    "feeds": [
-      "https://github.com/reactjs/reactjs.org/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pmndrs/jotai",
     "feeds": [
       "https://github.com/pmndrs/jotai/releases.atom"
@@ -3084,12 +3078,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/terrierscript/",
-    "feeds": [
-      "https://zenn.dev/terrierscript/feed"
     ]
   },
   {

@@ -2303,33 +2303,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/reactjs/reactjs.org",
-    "tags": [
-      "React",
-      "proposal",
-      "issue"
-    ],
-    "example": {
-      "title": "Replace Create React App recommendation with Vite by t3dotgg · Pull Request #5487 · reactjs/reactjs.org",
-      "url": "https://github.com/reactjs/reactjs.org/pull/5487#issuecomment-1409720741"
-    },
-    "rssUrl": "https://github.com/reactjs/reactjs.org/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/terrierscript/",
-    "tags": [
-      "TypeScript",
-      "book"
-    ],
-    "example": {
-      "title": "逆引き 型ファースト Zod",
-      "url": "https://zenn.dev/terrierscript/books/2023-01-typed-zod"
-    },
-    "rssUrl": "https://zenn.dev/terrierscript/feed"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/pmndrs/jotai",
     "tags": [
       "JavaScript",

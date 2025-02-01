@@ -139,7 +139,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/reactjs/reactjs.org" title="github.com/reactjs/reactjs.org" type="rss" xmlUrl="https://github.com/reactjs/reactjs.org/releases.atom"/>
 <outline text="github.com/pmndrs/jotai" title="github.com/pmndrs/jotai" type="rss" xmlUrl="https://github.com/pmndrs/jotai/releases.atom"/>
 <outline text="github.com/CodeIntelligenceTesting/jazzer.js" title="github.com/CodeIntelligenceTesting/jazzer.js" type="rss" xmlUrl="https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"/>
 <outline text="github.com/tanekloc/tmsg" title="github.com/tanekloc/tmsg" type="rss" xmlUrl="https://github.com/tanekloc/tmsg/releases.atom"/>
@@ -500,7 +499,6 @@
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
-<outline text="zenn.dev/terrierscript/" title="zenn.dev/terrierscript/" type="rss" xmlUrl="https://zenn.dev/terrierscript/feed"/>
 <outline text="zenn.dev/yusukehirao/" title="zenn.dev/yusukehirao/" type="rss" xmlUrl="https://zenn.dev/yusukehirao/feed"/>
 <outline text="zenn.dev/tnyo43/" title="zenn.dev/tnyo43/" type="rss" xmlUrl="https://zenn.dev/tnyo43/feed"/>
 <outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
