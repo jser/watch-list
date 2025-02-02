@@ -684,6 +684,12 @@
     ]
   },
   {
+    "url": "https://martijnhols.nl",
+    "feeds": [
+      "https://martijnhols.nl/rss.xml"
+    ]
+  },
+  {
     "url": "https://maximorlov.com",
     "feeds": [
       "https://maximorlov.com/feed.xml"
