@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -15,8 +15,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Node.js — Tuesday, January 21, 2025 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/january-2025-security-releases"
+      "title": "Node.js — Node v23.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.7.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -1215,6 +1215,23 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/nodejs/corepack",
+    "tags": [
+      "nodejs",
+      "Tools",
+      "ReleaseNote",
+      "tool",
+      "npm",
+      "pnpm"
+    ],
+    "example": {
+      "title": "Release v0.31.0 · nodejs/corepack",
+      "url": "https://github.com/nodejs/corepack/releases/tag/v0.31.0"
+    },
+    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://www.joshwcomeau.com",
     "tags": [
       "React",
@@ -1741,21 +1758,6 @@
       "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
     },
     "rssUrl": "https://blog.getbootstrap.com/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/nodejs/corepack",
-    "tags": [
-      "nodejs",
-      "Tools",
-      "ReleaseNote",
-      "tool"
-    ],
-    "example": {
-      "title": "Release v0.25.0 · nodejs/corepack",
-      "url": "https://github.com/nodejs/corepack/releases/tag/v0.25.0"
-    },
-    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
   },
   {
     "count": 2,
@@ -2300,20 +2302,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/pmndrs/jotai",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · pmndrs/jotai",
-      "url": "https://github.com/pmndrs/jotai/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/pmndrs/jotai/releases.atom"
   },
   {
     "count": 1,
@@ -9477,5 +9465,18 @@
       "title": "Standard Schema",
       "url": "https://standardschema.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://martijnhols.nl",
+    "tags": [
+      "accessibility",
+      "article"
+    ],
+    "example": {
+      "title": "Accessibility essentials every front-end developer should know by Martijn Hols",
+      "url": "https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know"
+    },
+    "rssUrl": "https://martijnhols.nl/rss.xml"
   }
 ]

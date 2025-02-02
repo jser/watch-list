@@ -692,6 +692,12 @@
     ]
   },
   {
+    "url": "https://github.com/nodejs/corepack",
+    "feeds": [
+      "https://github.com/nodejs/corepack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -743,12 +749,6 @@
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nodejs/corepack",
-    "feeds": [
-      "https://github.com/nodejs/corepack/releases.atom"
     ]
   },
   {
@@ -827,12 +827,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/pmndrs/jotai",
-    "feeds": [
-      "https://github.com/pmndrs/jotai/releases.atom"
     ]
   },
   {
@@ -2139,6 +2133,12 @@
       "https://marmooo.blogspot.com/feeds/posts/default",
       "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
       "https://www.blogger.com/feeds/8574128763595619046/posts/default"
+    ]
+  },
+  {
+    "url": "https://martijnhols.nl",
+    "feeds": [
+      "https://martijnhols.nl/rss.xml"
     ]
   },
   {
