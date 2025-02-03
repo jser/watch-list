@@ -169,14 +169,13 @@
     }
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://web.dev",
     "tags": [
-      "tutorial",
-      "Image",
-      "article",
       "privacy",
+      "tutorial",
       "sourcemap",
+      "article",
       "debug",
       "browser",
       "performance",
@@ -241,20 +240,6 @@
   },
   {
     "count": 12,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-12 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -290,6 +275,20 @@
     "example": {
       "title": "ViteConf 2024 - YouTube",
       "url": "https://www.youtube.com/playlist?list=PLqGQbXn_GDmnObDzgjUF4Krsfl6OUKxtp"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2024-12 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update"
     }
   },
   {
@@ -2223,19 +2222,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://wpt.fyi",
-    "tags": [
-      "browser",
-      "testing",
-      "web "
-    ],
-    "example": {
-      "title": "web-platform-tests dashboard",
-      "url": "https://wpt.fyi/interop-2023"
-    }
   },
   {
     "count": 1,
@@ -9206,5 +9192,21 @@
       "title": "Accessibility essentials every front-end developer should know by Martijn Hols",
       "url": "https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/plotly/plotly.js",
+    "tags": [
+      "JavaScript",
+      "graphic",
+      "chart",
+      "library",
+      "Azure"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · plotly/plotly.js",
+      "url": "https://github.com/plotly/plotly.js/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/plotly/plotly.js/releases.atom"
   }
 ]

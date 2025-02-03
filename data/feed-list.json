@@ -1994,6 +1994,12 @@
     ]
   },
   {
+    "url": "https://github.com/plotly/plotly.js",
+    "feeds": [
+      "https://github.com/plotly/plotly.js/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
