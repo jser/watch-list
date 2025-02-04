@@ -830,12 +830,6 @@
     ]
   },
   {
-    "url": "https://github.com/CodeIntelligenceTesting/jazzer.js",
-    "feeds": [
-      "https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tanekloc/tmsg",
     "feeds": [
       "https://github.com/tanekloc/tmsg/releases.atom"
