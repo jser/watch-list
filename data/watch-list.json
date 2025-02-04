@@ -1,10 +1,9 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "npm",
       "ReleaseNote",
       "security",
       "news",
@@ -2222,20 +2221,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/CodeIntelligenceTesting/jazzer.js",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library"
-    ],
-    "example": {
-      "title": "CodeIntelligenceTesting/jazzer.js: Coverage-guided, in-process fuzzing for the Node.js",
-      "url": "https://github.com/CodeIntelligenceTesting/jazzer.js"
-    },
-    "rssUrl": "https://github.com/CodeIntelligenceTesting/jazzer.js/releases.atom"
   },
   {
     "count": 1,
