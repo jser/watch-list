@@ -830,12 +830,6 @@
     ]
   },
   {
-    "url": "https://github.com/tanekloc/tmsg",
-    "feeds": [
-      "https://github.com/tanekloc/tmsg/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/upgradejs/depngn",
     "feeds": [
       "https://github.com/upgradejs/depngn/releases.atom"
