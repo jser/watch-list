@@ -2224,21 +2224,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/tanekloc/tmsg",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "library",
-      "i18n"
-    ],
-    "example": {
-      "title": "tanekloc/tmsg: Type-safe i18n library for TypeScript apps. Based on and largely compatible with MessageFormat.",
-      "url": "https://github.com/tanekloc/tmsg"
-    },
-    "rssUrl": "https://github.com/tanekloc/tmsg/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://ui.shadcn.com",
     "tags": [
       "React",
