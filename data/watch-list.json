@@ -586,6 +586,25 @@
   },
   {
     "count": 5,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "security",
+      "article",
+      "Github",
+      "news",
+      "nodejs",
+      "github",
+      "Actions",
+      "pnpm"
+    ],
+    "example": {
+      "title": "Dependabot now supports pnpm workspace catalogs (GA) - GitHub Changelog",
+      "url": "https://github.blog/changelog/2025-02-04-dependabot-now-supports-pnpm-workspace-catalogs-ga/"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "Remix",
@@ -787,24 +806,6 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "security",
-      "article",
-      "Github",
-      "news",
-      "nodejs",
-      "github",
-      "Actions"
-    ],
-    "example": {
-      "title": "End of life for Actions Node16 - GitHub Changelog",
-      "url": "https://github.blog/changelog/2024-09-25-end-of-life-for-actions-node16/"
-    }
   },
   {
     "count": 4,
@@ -2221,19 +2222,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://ui.shadcn.com",
-    "tags": [
-      "React",
-      "UI",
-      "library"
-    ],
-    "example": {
-      "title": "shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.",
-      "url": "https://ui.shadcn.com/"
-    }
   },
   {
     "count": 1,
