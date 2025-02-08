@@ -1,12 +1,12 @@
 [
   {
-    "count": 66,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "ReleaseNote",
       "security",
       "news",
+      "ReleaseNote",
       "nodejs",
       "secu",
       "article",
@@ -47,19 +47,19 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 44,
+    "count": 43,
     "url": "https://developer.chrome.com",
     "tags": [
-      "Chrome",
-      "debug",
-      "Tools",
       "browser",
       "performance",
+      "Tools",
       "ReleaseNote",
+      "Chrome",
       "article",
       "puppeteer",
       "JavaScript",
       "CSS",
+      "debug",
       "HTML",
       "testing",
       "WebGL",
@@ -492,7 +492,7 @@
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
-    "count": 7,
+    "count": 6,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -727,23 +727,6 @@
       "url": "https://remix.run/blog/react-router-v7"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://www.webkit.org",
-    "tags": [
-      "WebComponents",
-      "article",
-      "ReleaseNote",
-      "safari",
-      "webkit",
-      "CSS"
-    ],
-    "example": {
-      "title": "Implementing Vertical Form Controls | WebKit",
-      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
-    },
-    "rssUrl": "https://www.webkit.org/feed/"
   },
   {
     "count": 4,
@@ -1214,6 +1197,22 @@
   },
   {
     "count": 3,
+    "url": "https://www.webkit.org",
+    "tags": [
+      "ReleaseNote",
+      "safari",
+      "webkit",
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "Implementing Vertical Form Controls | WebKit",
+      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
+    },
+    "rssUrl": "https://www.webkit.org/feed/"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/nodejs/corepack",
     "tags": [
       "nodejs",
@@ -1395,23 +1394,6 @@
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     },
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/nodejs/node",
-    "tags": [
-      "node.js",
-      "URL",
-      "issue",
-      "performance",
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 2024-07-02, Version 22.4.0 (Current), @targos · nodejs/node",
-      "url": "https://github.com/nodejs/node/releases/tag/v22.4.0"
-    },
-    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 2,
@@ -2301,19 +2283,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.codeflashbacks.com",
-    "tags": [
-      "node.js",
-      "article"
-    ],
-    "example": {
-      "title": "On building the enterprise-grade Node.js applications | Code Flashbacks",
-      "url": "https://www.codeflashbacks.com/announcing-the-enterprise-node-js-service-template/"
-    },
-    "rssUrl": "https://www.codeflashbacks.com/rss/"
   },
   {
     "count": 1,
@@ -7555,6 +7524,19 @@
       "url": "https://sansec.io/research/polyfill-supply-chain-attack"
     },
     "rssUrl": "https://sansec.io/atom.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nodejs/node",
+    "tags": [
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 2024-07-02, Version 22.4.0 (Current), @targos · nodejs/node",
+      "url": "https://github.com/nodejs/node/releases/tag/v22.4.0"
+    },
+    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 1,

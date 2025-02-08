@@ -215,7 +215,6 @@
 <outline text="www.browsercat.com" title="www.browsercat.com" type="rss" xmlUrl="https://www.browsercat.com/feed/posts.rss.xml"/>
 <outline text="www.builder.io" title="www.builder.io" type="rss" xmlUrl="https://www.builder.io/blog/feed.xml"/>
 <outline text="www.checklyhq.com" title="www.checklyhq.com" type="rss" xmlUrl="https://www.checklyhq.com/rss.xml"/>
-<outline text="www.codeflashbacks.com" title="www.codeflashbacks.com" type="rss" xmlUrl="https://www.codeflashbacks.com/rss/"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.feelback.dev" title="www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>

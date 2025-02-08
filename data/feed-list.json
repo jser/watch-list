@@ -704,12 +704,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/node",
-    "feeds": [
-      "https://github.com/nodejs/node/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/kaleidawave/ezno",
     "feeds": [
       "https://github.com/kaleidawave/ezno/releases.atom"
@@ -1679,6 +1673,12 @@
     "url": "https://github.com/facebook/relay",
     "feeds": [
       "https://github.com/facebook/relay/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/node",
+    "feeds": [
+      "https://github.com/nodejs/node/releases.atom"
     ]
   },
   {
@@ -2807,12 +2807,6 @@
     "url": "https://www.checklyhq.com",
     "feeds": [
       "https://www.checklyhq.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.codeflashbacks.com",
-    "feeds": [
-      "https://www.codeflashbacks.com/rss/"
     ]
   },
   {
