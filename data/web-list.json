@@ -76,27 +76,6 @@
   },
   {
     "count": 26,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "CSS",
-      "article",
-      "JavaScript",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy"
-    ],
-    "example": {
-      "title": "WebKit Features in Safari 18.2 | WebKit",
-      "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 26,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -130,6 +109,27 @@
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 25,
+    "url": "https://webkit.org",
+    "tags": [
+      "CSS",
+      "article",
+      "safari",
+      "ReleaseNote",
+      "JavaScript",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy"
+    ],
+    "example": {
+      "title": "WebKit Features in Safari 18.2 | WebKit",
+      "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 20,
