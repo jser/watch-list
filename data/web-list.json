@@ -47,7 +47,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 43,
+    "count": 44,
     "url": "https://developer.chrome.com",
     "tags": [
       "browser",
@@ -69,8 +69,8 @@
       "Firefox"
     ],
     "example": {
-      "title": "Chrome 132  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/132"
+      "title": "Chrome 133  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/133"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -132,15 +132,15 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 134.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/134.0/releasenotes/"
+      "title": "Firefox 135.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/135.0/releasenotes/"
     }
   },
   {
@@ -236,6 +236,22 @@
   },
   {
     "count": 13,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.7.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -249,22 +265,6 @@
   },
   {
     "count": 12,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.6.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.6.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
       "React",
@@ -279,11 +279,12 @@
       "Next.js",
       "nodejs",
       "history",
-      "vite"
+      "vite",
+      "Angular"
     ],
     "example": {
-      "title": "ViteConf 2024 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLqGQbXn_GDmnObDzgjUF4Krsfl6OUKxtp"
+      "title": "Angular: The Documentary | An origin story - YouTube",
+      "url": "https://www.youtube.com/watch?v=cRC9DlH45lA"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
@@ -301,6 +302,23 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 11,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "CSS",
+      "bundler",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.25.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.0"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 10,
@@ -325,23 +343,6 @@
       "url": "https://storybook.js.org/blog/storybook-8-4/"
     },
     "rssUrl": "https://storybook.js.org/blog/rss/"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "CSS",
-      "bundler",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.24.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.24.0"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 10,
@@ -503,6 +504,23 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.5: New objectWrap option, experimentalOperatorPosition option and TS config file support! · Prettier",
+      "url": "https://prettier.io/blog/2025/02/09/3.5.0.html"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 6,
@@ -674,23 +692,6 @@
       "url": "https://svelte.dev/blog/svelte-5-is-alive"
     },
     "rssUrl": "https://svelte.dev/blog/rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.3: New Flow features and a lot of bug fixes · Prettier",
-      "url": "https://prettier.io/blog/2024/06/01/3.3.0.html"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 5,
@@ -975,20 +976,6 @@
       "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/nuxt/nuxt",
-    "tags": [
-      "Vue",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v3.10.0 · nuxt/nuxt",
-      "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0"
-    },
-    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
   },
   {
     "count": 3,
@@ -1397,22 +1384,6 @@
   },
   {
     "count": 2,
-    "url": "https://shopify.engineering",
-    "tags": [
-      "WebAssembly",
-      "JavaScript",
-      "article",
-      "React",
-      "Native"
-    ],
-    "example": {
-      "title": "Five years of React Native at Shopify (2025) - Shopify",
-      "url": "https://shopify.engineering/five-years-of-react-native-at-shopify"
-    },
-    "rssUrl": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "count": 2,
     "url": "https://www.builder.io",
     "tags": [
       "Chrome",
@@ -1793,6 +1764,20 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.13.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/nuxt/nuxt",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.10.0 · nuxt/nuxt",
+      "url": "https://github.com/nuxt/nuxt/releases/tag/v3.10.0"
+    },
+    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
   },
   {
     "count": 2,
@@ -9322,6 +9307,20 @@
       "title": "Vitest 3.0 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-3"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://shopify.engineering",
+    "tags": [
+      "React",
+      "Native",
+      "article"
+    ],
+    "example": {
+      "title": "Five years of React Native at Shopify (2025) - Shopify",
+      "url": "https://shopify.engineering/five-years-of-react-native-at-shopify"
+    },
+    "rssUrl": "https://shopify.engineering/blog.atom"
   },
   {
     "count": 1,

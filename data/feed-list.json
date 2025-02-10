@@ -644,12 +644,6 @@
     ]
   },
   {
-    "url": "https://github.com/nuxt/nuxt",
-    "feeds": [
-      "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
@@ -755,6 +749,12 @@
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
     ]
   },
   {
