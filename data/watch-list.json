@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Node.js — Node v23.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.7.0"
+      "title": "Node.js — Node v22.14.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v22.14.0"
     }
   },
   {
@@ -490,6 +490,26 @@
   },
   {
     "count": 6,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "security",
+      "article",
+      "Github",
+      "news",
+      "nodejs",
+      "github",
+      "Actions",
+      "pnpm",
+      "accessibility"
+    ],
+    "example": {
+      "title": "Considerations for making a tree view component accessible - The GitHub Blog",
+      "url": "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -600,25 +620,6 @@
       "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
     },
     "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "security",
-      "article",
-      "Github",
-      "news",
-      "nodejs",
-      "github",
-      "Actions",
-      "pnpm"
-    ],
-    "example": {
-      "title": "Dependabot now supports pnpm workspace catalogs (GA) - GitHub Changelog",
-      "url": "https://github.blog/changelog/2025-02-04-dependabot-now-supports-pnpm-workspace-catalogs-ga/"
-    }
   },
   {
     "count": 5,
@@ -9148,5 +9149,32 @@
       "url": "https://github.com/plotly/plotly.js/releases/tag/v3.0.0"
     },
     "rssUrl": "https://github.com/plotly/plotly.js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/solidjs/solid-start",
+    "tags": [
+      "Solid",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.1.0 - Gear 5 · solidjs/solid-start",
+      "url": "https://github.com/solidjs/solid-start/releases/tag/%40solidjs%2Fstart%401.1.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid-start/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file",
+    "tags": [
+      "nodejs",
+      "npm",
+      "Tools"
+    ],
+    "example": {
+      "title": "antfu/node-modules-inspector: Interactive UI for local node modules inspection",
+      "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file/releases.atom"
   }
 ]

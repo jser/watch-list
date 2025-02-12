@@ -1988,6 +1988,18 @@
     ]
   },
   {
+    "url": "https://github.com/solidjs/solid-start",
+    "feeds": [
+      "https://github.com/solidjs/solid-start/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
