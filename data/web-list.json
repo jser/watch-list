@@ -47,21 +47,21 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 44,
+    "count": 43,
     "url": "https://developer.chrome.com",
     "tags": [
+      "Chrome",
       "browser",
       "performance",
-      "Tools",
-      "ReleaseNote",
-      "Chrome",
       "article",
       "puppeteer",
+      "ReleaseNote",
       "JavaScript",
       "CSS",
       "debug",
       "HTML",
       "testing",
+      "Tools",
       "WebGL",
       "WebGPU",
       "WebAssembly",
@@ -222,20 +222,6 @@
   },
   {
     "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 34.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-34-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 13,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -287,6 +273,20 @@
       "url": "https://www.youtube.com/watch?v=cRC9DlH45lA"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 34.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-34-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
