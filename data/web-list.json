@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Node.js — Node v22.14.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v22.14.0"
+      "title": "Node.js — Node v23.8.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.8.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -614,6 +614,20 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v5.98.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.98.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -763,20 +777,6 @@
       "url": "https://github.com/google/zx/releases/tag/8.3.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "DOM Clobbering Gadget found in Webpack's AutoPublicPathRuntimeModule that leads to XSS · Advisory · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/security/advisories/GHSA-4vvj-4cpr-p986"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
@@ -1352,6 +1352,20 @@
       "url": "https://blog.angular.dev/angular-2025-strategy-9ca333dfc334"
     },
     "rssUrl": "https://blog.angular.dev/feed"
+  },
+  {
+    "count": 3,
+    "url": "https://2ality.com",
+    "tags": [
+      "ECMAScript",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "TypeScript: the `satisfies` operator",
+      "url": "https://2ality.com/2025/02/satisfies-operator.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
   },
   {
     "count": 3,
@@ -2195,20 +2209,6 @@
   },
   {
     "count": 2,
-    "url": "https://2ality.com",
-    "tags": [
-      "ECMAScript",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "A checklist for your `tsconfig.json`",
-      "url": "https://2ality.com/2025/01/tsconfig-json.html"
-    },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
-  },
-  {
-    "count": 2,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -2269,48 +2269,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/upgradejs/depngn",
-    "tags": [
-      "node.js",
-      "Tools"
-    ],
-    "example": {
-      "title": "upgradejs/depngn: A CLI tool to find out if your dependencies support a given version of node.",
-      "url": "https://github.com/upgradejs/depngn"
-    },
-    "rssUrl": "https://github.com/upgradejs/depngn/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jquense/yup",
-    "tags": [
-      "TypeScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1 Because I finally got around to it · jquense/yup",
-      "url": "https://github.com/jquense/yup/releases/tag/v1.0.0"
-    },
-    "rssUrl": "https://github.com/jquense/yup/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cure53/DOMPurify",
-    "tags": [
-      "DOM",
-      "security",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release DOMPurify 3.0.0 · cure53/DOMPurify",
-      "url": "https://github.com/cure53/DOMPurify/releases/tag/3.0.0"
-    },
-    "rssUrl": "https://github.com/cure53/DOMPurify/releases.atom"
   },
   {
     "count": 1,
@@ -9447,5 +9405,33 @@
       "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/apollographql/apollo-client",
+    "tags": [
+      "GraphQL",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.13.0 · apollographql/apollo-client",
+      "url": "https://github.com/apollographql/apollo-client/releases/tag/v3.13.0"
+    },
+    "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://valibot.dev",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Valibot v1 RC is now available | Valibot",
+      "url": "https://valibot.dev/blog/valibot-v1-rc-is-available/"
+    }
   }
 ]

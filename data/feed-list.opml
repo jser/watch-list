@@ -99,10 +99,10 @@
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
+<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
-<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
@@ -138,9 +138,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/upgradejs/depngn" title="github.com/upgradejs/depngn" type="rss" xmlUrl="https://github.com/upgradejs/depngn/releases.atom"/>
-<outline text="github.com/jquense/yup" title="github.com/jquense/yup" type="rss" xmlUrl="https://github.com/jquense/yup/releases.atom"/>
-<outline text="github.com/cure53/DOMPurify" title="github.com/cure53/DOMPurify" type="rss" xmlUrl="https://github.com/cure53/DOMPurify/releases.atom"/>
 <outline text="github.com/slashd-analytics/run" title="github.com/slashd-analytics/run" type="rss" xmlUrl="https://github.com/slashd-analytics/run/releases.atom"/>
 <outline text="github.com/codesandbox/nodebox-runtime" title="github.com/codesandbox/nodebox-runtime" type="rss" xmlUrl="https://github.com/codesandbox/nodebox-runtime/releases.atom"/>
 <outline text="github.com/facebook/flow" title="github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
@@ -334,6 +331,7 @@
 <outline text="github.com/plotly/plotly.js" title="github.com/plotly/plotly.js" type="rss" xmlUrl="https://github.com/plotly/plotly.js/releases.atom"/>
 <outline text="github.com/solidjs/solid-start" title="github.com/solidjs/solid-start" type="rss" xmlUrl="https://github.com/solidjs/solid-start/releases.atom"/>
 <outline text="github.com/antfu/node-modules-inspector?tab=readme-ov-file" title="github.com/antfu/node-modules-inspector?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/antfu/node-modules-inspector?tab=readme-ov-file/releases.atom"/>
+<outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
