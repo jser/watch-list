@@ -590,6 +590,12 @@
     ]
   },
   {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
@@ -605,12 +611,6 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -821,24 +821,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/upgradejs/depngn",
-    "feeds": [
-      "https://github.com/upgradejs/depngn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jquense/yup",
-    "feeds": [
-      "https://github.com/jquense/yup/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/cure53/DOMPurify",
-    "feeds": [
-      "https://github.com/cure53/DOMPurify/releases.atom"
     ]
   },
   {
@@ -1997,6 +1979,12 @@
     "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file",
     "feeds": [
       "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/apollographql/apollo-client",
+    "feeds": [
+      "https://github.com/apollographql/apollo-client/releases.atom"
     ]
   },
   {
