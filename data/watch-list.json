@@ -72,6 +72,21 @@
     }
   },
   {
+    "count": 27,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.8 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/"
+    }
+  },
+  {
     "count": 26,
     "url": "https://deno.com",
     "tags": [
@@ -88,21 +103,6 @@
     "example": {
       "title": "Deno 2.1: Wasm Imports and other enhancements",
       "url": "https://deno.com/blog/v2.1"
-    }
-  },
-  {
-    "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.8 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-beta/"
     }
   },
   {
@@ -138,7 +138,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -146,8 +146,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm 10.1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.1.0"
+      "title": "Release pnpm 10.4 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.4.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -365,24 +365,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "library",
-      "ReleaseNote",
-      "article",
-      "OpenSource",
-      "opinion"
-    ],
-    "example": {
-      "title": "Release 3.40.0 - 2025.01.08 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.40.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -397,6 +379,24 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v2.0.0"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "article",
+      "OpenSource",
+      "opinion",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 3.40.0 - 2025.01.08 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.40.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
