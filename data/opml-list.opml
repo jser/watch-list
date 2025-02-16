@@ -186,7 +186,6 @@
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="tech.repro.io" title="tech.repro.io" type="rss" xmlUrl="https://tech.repro.io/feed"/>
 <outline text="techblog.yahoo.co.jp" title="techblog.yahoo.co.jp" type="rss" xmlUrl="https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"/>
-<outline text="the-guild.dev" title="the-guild.dev" type="rss" xmlUrl="https://the-guild.dev/feed.xml"/>
 <outline text="timkadlec.com" title="timkadlec.com" type="rss" xmlUrl="https://timkadlec.com/remembers/atom.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
 <outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
@@ -244,7 +243,6 @@
 <outline text="www.trevorlasn.com" title="www.trevorlasn.com" type="rss" xmlUrl="https://www.trevorlasn.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
-<outline text="www.zachleat.com" title="www.zachleat.com" type="rss" xmlUrl="https://www.zachleat.com/web/feed/"/>
 <outline text="yarnpkg.com" title="yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
 <outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
 <outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
