@@ -1162,12 +1162,6 @@
     ]
   },
   {
-    "url": "https://the-guild.dev",
-    "feeds": [
-      "https://the-guild.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://timkadlec.com",
     "feeds": [
       "https://timkadlec.com/remembers/atom.xml",
@@ -1541,13 +1535,6 @@
     "feeds": [
       "https://www.webkit.org/feed/",
       "https://www.webkit.org/feed/atom/"
-    ]
-  },
-  {
-    "url": "https://www.zachleat.com",
-    "feeds": [
-      "https://www.zachleat.com/web/feed/",
-      "https://www.zachleat.com/follow/"
     ]
   },
   {

@@ -572,15 +572,15 @@
     ]
   },
   {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -821,12 +821,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/slashd-analytics/run",
-    "feeds": [
-      "https://github.com/slashd-analytics/run/releases.atom"
     ]
   },
   {
@@ -2614,12 +2608,6 @@
     ]
   },
   {
-    "url": "https://the-guild.dev",
-    "feeds": [
-      "https://the-guild.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://timkadlec.com",
     "feeds": [
       "https://timkadlec.com/remembers/atom.xml",
@@ -3010,13 +2998,6 @@
       "https://www.youtube.com/feed/history",
       "https://www.youtube.com/feed/trending",
       "https://www.youtube.com/feed/trending"
-    ]
-  },
-  {
-    "url": "https://www.zachleat.com",
-    "feeds": [
-      "https://www.zachleat.com/web/feed/",
-      "https://www.zachleat.com/follow/"
     ]
   },
   {
