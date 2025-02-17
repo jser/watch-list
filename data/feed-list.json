@@ -824,12 +824,6 @@
     ]
   },
   {
-    "url": "https://github.com/codesandbox/nodebox-runtime",
-    "feeds": [
-      "https://github.com/codesandbox/nodebox-runtime/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/flow",
     "feeds": [
       "https://github.com/facebook/flow/releases.atom"
