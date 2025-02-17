@@ -371,6 +371,24 @@
   },
   {
     "count": 9,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "document",
+      "news",
+      "article",
+      "TypeScript",
+      "ReleaseNote",
+      "babel"
+    ],
+    "example": {
+      "title": "Sunsetting Create React App – React",
+      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 9,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -409,24 +427,6 @@
       "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
-  },
-  {
-    "count": 8,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "document",
-      "news",
-      "article",
-      "TypeScript",
-      "ReleaseNote",
-      "babel"
-    ],
-    "example": {
-      "title": "React v19 – React",
-      "url": "https://react.dev/blog/2024/12/05/react-19"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 8,
@@ -2263,35 +2263,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/codesandbox/nodebox-runtime",
-    "tags": [
-      "node.js",
-      "browser",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "codesandbox/nodebox-runtime: The open source version of the nodebox repository, a Node.js runtime for the browser",
-      "url": "https://github.com/codesandbox/nodebox-runtime"
-    },
-    "rssUrl": "https://github.com/codesandbox/nodebox-runtime/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://codesandbox.io",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "browser",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Sandpack 2.0 and a Node.js runtime for any browser",
-      "url": "https://codesandbox.io/blog/announcing-sandpack-2"
-    }
   },
   {
     "count": 1,
