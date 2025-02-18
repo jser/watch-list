@@ -824,12 +824,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/flow",
-    "feeds": [
-      "https://github.com/facebook/flow/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/chaijs/chai",
     "feeds": [
       "https://github.com/chaijs/chai/releases.atom"

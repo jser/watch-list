@@ -2266,19 +2266,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/facebook/flow",
-    "tags": [
-      "flowtype",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v0.200.0 · facebook/flow",
-      "url": "https://github.com/facebook/flow/releases/tag/v0.200.0"
-    },
-    "rssUrl": "https://github.com/facebook/flow/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://results.stateofreactnative.com",
     "tags": [
       "React",
