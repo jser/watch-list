@@ -138,7 +138,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/facebook/flow" title="github.com/facebook/flow" type="rss" xmlUrl="https://github.com/facebook/flow/releases.atom"/>
 <outline text="github.com/chaijs/chai" title="github.com/chaijs/chai" type="rss" xmlUrl="https://github.com/chaijs/chai/releases.atom"/>
 <outline text="github.com/natemoo-re/clack" title="github.com/natemoo-re/clack" type="rss" xmlUrl="https://github.com/natemoo-re/clack/releases.atom"/>
 <outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
