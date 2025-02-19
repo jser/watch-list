@@ -560,15 +560,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -707,6 +707,12 @@
     "url": "https://github.com/vercel/swr",
     "feeds": [
       "https://github.com/vercel/swr/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
@@ -857,12 +863,6 @@
     "url": "https://github.com/antonmedv/finder",
     "feeds": [
       "https://github.com/antonmedv/finder/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
