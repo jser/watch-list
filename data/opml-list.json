@@ -769,13 +769,6 @@
     ]
   },
   {
-    "url": "https://nolanlawson.com",
-    "feeds": [
-      "https://nolanlawson.com/feed/",
-      "https://nolanlawson.com/comments/feed/"
-    ]
-  },
-  {
     "url": "https://nsaunders.dev",
     "feeds": [
       "https://nsaunders.dev/rss.xml"

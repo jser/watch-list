@@ -584,12 +584,6 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -605,6 +599,12 @@
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
@@ -827,12 +827,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/chaijs/chai",
-    "feeds": [
-      "https://github.com/chaijs/chai/releases.atom"
     ]
   },
   {
@@ -2194,13 +2188,6 @@
     "url": "https://nodered.org",
     "feeds": [
       "https://nodered.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://nolanlawson.com",
-    "feeds": [
-      "https://nolanlawson.com/feed/",
-      "https://nolanlawson.com/comments/feed/"
     ]
   },
   {

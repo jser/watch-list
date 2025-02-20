@@ -1,12 +1,11 @@
 [
   {
-    "count": 68,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
-      "security",
-      "news",
       "ReleaseNote",
+      "security",
       "nodejs",
       "secu",
       "article",
@@ -213,22 +212,6 @@
   },
   {
     "count": 13,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.7.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -252,6 +235,22 @@
       "title": "Electron 34.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-34-0"
     }
+  },
+  {
+    "count": 12,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.7.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 11,
@@ -473,19 +472,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v11.1.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://github.blog",
     "tags": [
       "npm",
@@ -696,6 +682,19 @@
       "title": "Introducing TanStack Start – Frontend Masters Boost",
       "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v11.1.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 5,
@@ -1342,34 +1341,6 @@
     "example": {
       "title": "How To Optimize Performance In Vue Apps | DebugBear",
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://www.builder.io",
-    "tags": [
-      "Chrome",
-      "debug",
-      "article",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Qwik Reaches v1.0",
-      "url": "https://www.builder.io/blog/qwik-v1"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://developer.apple.com",
-    "tags": [
-      "safari",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
-      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
     }
   },
   {
@@ -2199,48 +2170,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://results.stateofreactnative.com",
-    "tags": [
-      "React",
-      "Native",
-      "Survey"
-    ],
-    "example": {
-      "title": "State of React Native 2022",
-      "url": "https://results.stateofreactnative.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://nolanlawson.com",
-    "tags": [
-      "CSS",
-      "performance",
-      "article",
-      "video"
-    ],
-    "example": {
-      "title": "My talk on CSS runtime performance | Read the Tea Leaves",
-      "url": "https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/chaijs/chai",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.0.0-alpha.0 · chaijs/chai",
-      "url": "https://github.com/chaijs/chai/releases/tag/v5.0.0-alpha.0"
-    },
-    "rssUrl": "https://github.com/chaijs/chai/releases.atom"
   },
   {
     "count": 1,
@@ -3112,6 +3041,19 @@
       "url": "https://github.com/karma-runner/karma/commit/450fdfdac5b999967daec1020f1ac69cf9b854ab"
     },
     "rssUrl": "https://github.com/karma-runner/karma/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.builder.io",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Qwik Reaches v1.0",
+      "url": "https://www.builder.io/blog/qwik-v1"
+    }
   },
   {
     "count": 1,
@@ -5611,6 +5553,18 @@
       "url": "https://github.com/chrisguttandin/worker-timers"
     },
     "rssUrl": "https://github.com/chrisguttandin/worker-timers/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://developer.apple.com",
+    "tags": [
+      "safari",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
+      "url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes"
+    }
   },
   {
     "count": 1,
