@@ -72,6 +72,25 @@
   },
   {
     "count": 27,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "library",
+      "React",
+      "denoe",
+      "dneo",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
+      "url": "https://deno.com/blog/v2.2"
+    }
+  },
+  {
+    "count": 27,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -86,33 +105,14 @@
     }
   },
   {
-    "count": 26,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 2.1: Wasm Imports and other enhancements",
-      "url": "https://deno.com/blog/v2.1"
-    }
-  },
-  {
-    "count": 25,
+    "count": 24,
     "url": "https://webkit.org",
     "tags": [
-      "CSS",
-      "article",
       "safari",
       "ReleaseNote",
       "JavaScript",
+      "article",
+      "CSS",
       "browser",
       "benchmark",
       "performance",
@@ -167,6 +167,24 @@
     }
   },
   {
+    "count": 17,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article",
+      "news",
+      "JSON",
+      "Markdown",
+      "TypeScript",
+      "css"
+    ],
+    "example": {
+      "title": "ESLint now officially supports linting of CSS - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/02/eslint-css-support/"
+    }
+  },
+  {
     "count": 16,
     "url": "https://web.dev",
     "tags": [
@@ -191,23 +209,6 @@
     "example": {
       "title": "The nuances of base64 encoding strings in JavaScript  |  Articles  |  web.dev",
       "url": "https://web.dev/articles/base64-encoding"
-    }
-  },
-  {
-    "count": 16,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article",
-      "news",
-      "JSON",
-      "Markdown",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "ESLint v9.19.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/01/eslint-v9.19.0-released/"
     }
   },
   {
@@ -2170,19 +2171,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/yusukehirao/",
-    "tags": [
-      "HTML",
-      "accessibility",
-      "article"
-    ],
-    "example": {
-      "title": "Popover API - JavaScript不要、HTMLのみでポップオーバーUI",
-      "url": "https://zenn.dev/yusukehirao/articles/popover-api-and-attributes"
-    }
   },
   {
     "count": 1,
@@ -8989,5 +8977,20 @@
       "title": "Valibot v1 RC is now available | Valibot",
       "url": "https://valibot.dev/blog/valibot-v1-rc-is-available/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/codesandbox/sandpack",
+    "tags": [
+      "JavaScript",
+      "library",
+      "editor",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.20.0 · codesandbox/sandpack",
+      "url": "https://github.com/codesandbox/sandpack/releases/tag/v2.20.0"
+    },
+    "rssUrl": "https://github.com/codesandbox/sandpack/releases.atom"
   }
 ]
