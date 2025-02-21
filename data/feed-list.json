@@ -1964,6 +1964,12 @@
     ]
   },
   {
+    "url": "https://github.com/codesandbox/sandpack",
+    "feeds": [
+      "https://github.com/codesandbox/sandpack/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3022,12 +3028,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yusukehirao/",
-    "feeds": [
-      "https://zenn.dev/yusukehirao/feed"
     ]
   },
   {
