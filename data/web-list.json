@@ -175,25 +175,6 @@
   },
   {
     "count": 17,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article",
-      "news",
-      "JSON",
-      "Markdown",
-      "TypeScript",
-      "css"
-    ],
-    "example": {
-      "title": "ESLint now officially supports linting of CSS - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/02/eslint-css-support/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 16,
     "url": "https://web.dev",
     "tags": [
       "privacy",
@@ -215,10 +196,29 @@
       "Unicode"
     ],
     "example": {
-      "title": "The nuances of base64 encoding strings in JavaScript  |  Articles  |  web.dev",
-      "url": "https://web.dev/articles/base64-encoding"
+      "title": "The Popover API is now Baseline Newly available  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/popover-baseline?hl=en"
     },
     "rssUrl": "https://web.dev/static/blog/feed.xml"
+  },
+  {
+    "count": 17,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article",
+      "news",
+      "JSON",
+      "Markdown",
+      "TypeScript",
+      "css"
+    ],
+    "example": {
+      "title": "ESLint now officially supports linting of CSS - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/02/eslint-css-support/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 13,
@@ -1274,6 +1274,21 @@
   },
   {
     "count": 3,
+    "url": "https://www.mitsue.co.jp",
+    "tags": [
+      "CSS",
+      "article",
+      "browser",
+      "WebPlatformAPI"
+    ],
+    "example": {
+      "title": "Interop 2025がスタート | フロントエンドBlog | ミツエーリンクス",
+      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html"
+    },
+    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "React",
@@ -1853,21 +1868,6 @@
       "url": "https://github.com/tapjs/tsimp"
     },
     "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://www.mitsue.co.jp",
-    "tags": [
-      "CSS",
-      "article",
-      "browser",
-      "WebPlatformAPI"
-    ],
-    "example": {
-      "title": "Interop 2024がスタート | フロントエンドBlog | ミツエーリンクス",
-      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202402/02_1152.html"
-    },
-    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
   },
   {
     "count": 2,
