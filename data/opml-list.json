@@ -194,12 +194,6 @@
     ]
   },
   {
-    "url": "https://blog.nrwl.io",
-    "feeds": [
-      "https://blog.nrwl.io/feed"
-    ]
-  },
-  {
     "url": "https://blog.osstech.co.jp",
     "feeds": [
       "https://blog.osstech.co.jp/posts/index.xml"

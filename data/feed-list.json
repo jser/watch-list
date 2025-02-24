@@ -194,12 +194,6 @@
     ]
   },
   {
-    "url": "https://blog.nrwl.io",
-    "feeds": [
-      "https://blog.nrwl.io/feed"
-    ]
-  },
-  {
     "url": "https://blog.osstech.co.jp",
     "feeds": [
       "https://blog.osstech.co.jp/posts/index.xml"
@@ -827,12 +821,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/natemoo-re/clack",
-    "feeds": [
-      "https://github.com/natemoo-re/clack/releases.atom"
     ]
   },
   {
