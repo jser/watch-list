@@ -19,7 +19,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 53,
+    "count": 52,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -46,15 +46,14 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 42,
+    "count": 41,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "article",
-      "puppeteer",
       "ReleaseNote",
       "browser",
       "JavaScript",
+      "article",
       "CSS",
       "debug",
       "HTML",
@@ -65,7 +64,8 @@
       "WebGPU",
       "WebAssembly",
       "LanguageModel",
-      "Firefox"
+      "Firefox",
+      "puppeteer"
     ],
     "example": {
       "title": "Chrome 133  |  Release notes  |  Chrome for Developers",
@@ -75,6 +75,22 @@
   },
   {
     "count": 27,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "V8",
+      "performance"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.8 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 26,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -92,22 +108,6 @@
       "url": "https://deno.com/blog/v2.2"
     },
     "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 27,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.8 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 24,
@@ -220,17 +220,19 @@
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
-    "count": 13,
-    "url": "https://nextjs.org",
+    "count": 12,
+    "url": "https://ecmascript-daily.github.io",
     "tags": [
-      "Next.js",
-      "ReleaseNote",
+      "ECMAScript",
+      "proposal",
+      "news",
       "article"
     ],
     "example": {
-      "title": "Composable Caching with Next.js | Next.js",
-      "url": "https://nextjs.org/blog/composable-caching"
-    }
+      "title": "ECMAScript proposal updates @ 2025-02 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/02/24/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 12,
@@ -248,6 +250,19 @@
   },
   {
     "count": 12,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Composable Caching with Next.js | Next.js",
+      "url": "https://nextjs.org/blog/composable-caching"
+    }
+  },
+  {
+    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -261,21 +276,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2024-12 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2024/12/08/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 11,
@@ -956,6 +956,21 @@
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
+    "count": 4,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "React",
+      "redux",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.6.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.6.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
     "count": 3,
     "url": "https://docs.cypress.io",
     "tags": [
@@ -1285,21 +1300,6 @@
       "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html"
     },
     "rssUrl": "https://www.mitsue.co.jp/index.rdf"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "React",
-      "redux",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.4.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.4.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 3,
@@ -2247,32 +2247,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://dev.to/nicklucas/",
-    "tags": [
-      "TypeScript",
-      "article",
-      "library"
-    ],
-    "example": {
-      "title": "Typescript Runtime Validators and DX, a type-checking performance analysis of zod/superstruct/yup/typebox - DEV Community",
-      "url": "https://dev.to/nicklucas/typescript-runtime-validators-and-dx-a-type-checking-performance-analysis-of-zodsuperstructyuptypebox-5416"
-    },
-    "rssUrl": "https://dev.to/feed/nicklucas"
-  },
-  {
-    "count": 1,
-    "url": "https://ts-rest.com",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "🪄 | ts-rest",
-      "url": "https://ts-rest.com/"
-    }
   },
   {
     "count": 1,
@@ -9229,5 +9203,47 @@
       "url": "https://github.com/codesandbox/sandpack/releases/tag/v2.20.0"
     },
     "rssUrl": "https://github.com/codesandbox/sandpack/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://mastra.ai",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "LanguageModel",
+      "API",
+      "library"
+    ],
+    "example": {
+      "title": "The Typescript AI framework - Mastra",
+      "url": "https://mastra.ai/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/le0pard/re2js",
+    "tags": [
+      "JavaScript",
+      "RegExp",
+      "library"
+    ],
+    "example": {
+      "title": "le0pard/re2js: RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching",
+      "url": "https://github.com/le0pard/re2js"
+    },
+    "rssUrl": "https://github.com/le0pard/re2js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/sakito/",
+    "tags": [
+      "WebPlatformAPI",
+      "article"
+    ],
+    "example": {
+      "title": "Web技術の互換性を把握するためのBaselineとWeb Platform Status Dashboard",
+      "url": "https://zenn.dev/sakito/articles/26cba8397c4dbe"
+    },
+    "rssUrl": "https://zenn.dev/sakito/feed"
   }
 ]
