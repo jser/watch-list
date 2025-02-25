@@ -374,12 +374,6 @@
     ]
   },
   {
-    "url": "https://dev.to/nicklucas/",
-    "feeds": [
-      "https://dev.to/feed/nicklucas"
-    ]
-  },
-  {
     "url": "https://dev.to/codux/",
     "feeds": [
       "https://dev.to/feed/codux"
@@ -638,6 +632,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
@@ -683,12 +683,6 @@
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -1958,6 +1952,12 @@
     ]
   },
   {
+    "url": "https://github.com/le0pard/re2js",
+    "feeds": [
+      "https://github.com/le0pard/re2js/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3136,6 +3136,12 @@
     "url": "https://zenn.dev/thiry/",
     "feeds": [
       "https://zenn.dev/thiry/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/sakito/",
+    "feeds": [
+      "https://zenn.dev/sakito/feed"
     ]
   }
 ]

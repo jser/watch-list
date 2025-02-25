@@ -374,12 +374,6 @@
     ]
   },
   {
-    "url": "https://dev.to/nicklucas/",
-    "feeds": [
-      "https://dev.to/feed/nicklucas"
-    ]
-  },
-  {
     "url": "https://dev.to/codux/",
     "feeds": [
       "https://dev.to/feed/codux"
@@ -1691,6 +1685,12 @@
     "url": "https://zenn.dev/thiry/",
     "feeds": [
       "https://zenn.dev/thiry/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/sakito/",
+    "feeds": [
+      "https://zenn.dev/sakito/feed"
     ]
   }
 ]
