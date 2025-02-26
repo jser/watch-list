@@ -1049,12 +1049,6 @@
     ]
   },
   {
-    "url": "https://spidermonkey.dev",
-    "feeds": [
-      "https://spidermonkey.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://storybook.js.org",
     "feeds": [
       "https://storybook.js.org/blog/rss/"
