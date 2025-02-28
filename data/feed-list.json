@@ -305,6 +305,14 @@
     ]
   },
   {
+    "url": "https://cheerpj.com",
+    "feeds": [
+      "https://cheerpj.com/feed/",
+      "https://cheerpj.com/comments/feed/",
+      "https://cheerpj.com/cheerpj-3-now-generally-available/feed/"
+    ]
+  },
+  {
     "url": "https://chriscoyier.net",
     "feeds": [
       "https://chriscoyier.net/feed/"
@@ -548,15 +556,15 @@
     ]
   },
   {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
     ]
   },
   {
