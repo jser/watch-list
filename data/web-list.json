@@ -320,24 +320,6 @@
   },
   {
     "count": 10,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "library",
-      "JavaScript",
-      "test",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 10,
     "url": "https://nuxt.com",
     "tags": [
       "Vue",
@@ -386,6 +368,24 @@
       "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
     },
     "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "test",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 9,
@@ -969,23 +969,6 @@
       "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.6.0"
     },
     "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://docs.cypress.io",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "browser",
-      "library",
-      "ReleaseNote",
-      "E2E",
-      "test"
-    ],
-    "example": {
-      "title": "Changelog: Cypress App | Cypress Documentation",
-      "url": "https://docs.cypress.io/app/references/changelog#14-0-0"
-    }
   },
   {
     "count": 3,
@@ -1718,6 +1701,23 @@
       "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
     },
     "rssUrl": "https://blog.getbootstrap.com/feed.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://docs.cypress.io",
+    "tags": [
+      "E2E",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "browser",
+      "test"
+    ],
+    "example": {
+      "title": "Changelog: Cypress App | Cypress Documentation",
+      "url": "https://docs.cypress.io/app/references/changelog#14-0-0"
+    }
   },
   {
     "count": 2,
@@ -5822,7 +5822,8 @@
     "example": {
       "title": "CheerpJ 3.0 now generally available: Run any Java Application on Modern Browsers CheerpJ 3.0 now available: run any Java on modern browsers",
       "url": "https://cheerpj.com/cheerpj-3-now-generally-available/"
-    }
+    },
+    "rssUrl": "https://cheerpj.com/feed/"
   },
   {
     "count": 1,
@@ -9230,5 +9231,18 @@
       "url": "https://zenn.dev/sakito/articles/26cba8397c4dbe"
     },
     "rssUrl": "https://zenn.dev/sakito/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://arktype.io",
+    "tags": [
+      "TypeScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "ArkType Docs: Optimized runtime validation for TypeScript syntax",
+      "url": "https://arktype.io/docs/blog/2.1"
+    }
   }
 ]
