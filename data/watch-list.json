@@ -714,22 +714,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "ShellScript",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release 8.3.0 – Pipes of Steel · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/8.3.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1285,6 +1269,22 @@
       "title": "WebAssembly JSPI has a new API · V8",
       "url": "https://v8.dev/blog/jspi-newapi"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "JavaScript",
+      "ShellScript",
+      "library",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release 8.3.0 – Pipes of Steel · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.3.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 3,
