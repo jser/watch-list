@@ -274,12 +274,6 @@
     ]
   },
   {
-    "url": "https://buf.build",
-    "feeds": [
-      "https://buf.build/rss.xml"
-    ]
-  },
-  {
     "url": "https://bufferings.hatenablog.com",
     "feeds": [
       "https://bufferings.hatenablog.com/feed",
@@ -1274,12 +1268,6 @@
     "feeds": [
       "https://www.aha.io/blog/feed.xml",
       "https://www.aha.io/engineering/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.akshaykhot.com",
-    "feeds": [
-      "https://www.writesoftwarewell.com/rss/"
     ]
   },
   {

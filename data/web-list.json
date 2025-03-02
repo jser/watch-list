@@ -74,7 +74,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 27,
+    "count": 28,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -84,8 +84,8 @@
       "performance"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.8 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8-rc/"
+      "title": "Announcing TypeScript 5.8 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-8/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -473,7 +473,7 @@
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
-    "count": 7,
+    "count": 8,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -482,8 +482,8 @@
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release 3.40.0 - 2025.01.08 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.40.0"
+      "title": "Release 3.41.0 - 2025.03.01 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.41.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
@@ -956,27 +956,6 @@
   },
   {
     "count": 3,
-    "url": "https://moonrepo.dev",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "node.js",
-      "deno",
-      "Bun",
-      "golang",
-      "console",
-      "Rust",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
-      "url": "https://moonrepo.dev/blog/moon-v1.0"
-    },
-    "rssUrl": "https://moonrepo.dev/blog/rss.xml"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/remix-run/react-router",
     "tags": [
       "React",
@@ -1390,6 +1369,24 @@
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
+    "count": 3,
+    "url": "https://stylexjs.com",
+    "tags": [
+      "css ",
+      "JavaScript",
+      "library",
+      "React",
+      "ReleaseNote",
+      "PostCSS",
+      "css"
+    ],
+    "example": {
+      "title": "Release 0.11.0 | StyleX",
+      "url": "https://stylexjs.com/blog/v0.11.0"
+    },
+    "rssUrl": "https://stylexjs.com/blog/rss.xml"
+  },
+  {
     "count": 2,
     "url": "https://github.com/kaleidawave/ezno",
     "tags": [
@@ -1417,6 +1414,27 @@
       "url": "https://github.com/vercel/swr/releases/tag/v2.3.0"
     },
     "rssUrl": "https://github.com/vercel/swr/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://moonrepo.dev",
+    "tags": [
+      "node.js",
+      "deno",
+      "Bun",
+      "golang",
+      "console",
+      "Tools",
+      "monorepo",
+      "Rust",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
+      "url": "https://moonrepo.dev/blog/moon-v1.0"
+    },
+    "rssUrl": "https://moonrepo.dev/blog/rss.xml"
   },
   {
     "count": 2,
@@ -2203,23 +2221,6 @@
   },
   {
     "count": 2,
-    "url": "https://stylexjs.com",
-    "tags": [
-      "css ",
-      "JavaScript",
-      "library",
-      "React",
-      "ReleaseNote",
-      "PostCSS"
-    ],
-    "example": {
-      "title": "Release 0.10.0 | StyleX",
-      "url": "https://stylexjs.com/blog/v0.10.0"
-    },
-    "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 2,
     "url": "https://piccalil.li",
     "tags": [
       "css ",
@@ -2247,36 +2248,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.akshaykhot.com",
-    "tags": [
-      "JavaScript",
-      "rails",
-      "library",
-      "article"
-    ],
-    "example": {
-      "title": "You Don't Need Rails to Start Using Hotwire",
-      "url": "https://www.akshaykhot.com/using-hotwire-without-rails/"
-    },
-    "rssUrl": "https://www.writesoftwarewell.com/rss/"
-  },
-  {
-    "count": 1,
-    "url": "https://buf.build",
-    "tags": [
-      "node.js",
-      "ProtocolBuffers",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Buf | Connect for Node.js is now available",
-      "url": "https://buf.build/blog/connect-node-beta"
-    },
-    "rssUrl": "https://buf.build/rss.xml"
   },
   {
     "count": 1,

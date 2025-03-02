@@ -48,7 +48,6 @@
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="boajs.dev" title="boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
-<outline text="buf.build" title="buf.build" type="rss" xmlUrl="https://buf.build/rss.xml"/>
 <outline text="bufferings.hatenablog.com" title="bufferings.hatenablog.com" type="rss" xmlUrl="https://bufferings.hatenablog.com/feed"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
 <outline text="bytecodealliance.org" title="bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
@@ -442,7 +441,6 @@
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
 <outline text="www.aha.io" title="www.aha.io" type="rss" xmlUrl="https://www.aha.io/blog/feed.xml"/>
-<outline text="www.akshaykhot.com" title="www.akshaykhot.com" type="rss" xmlUrl="https://www.writesoftwarewell.com/rss/"/>
 <outline text="www.angulararchitects.io" title="www.angulararchitects.io" type="rss" xmlUrl="https://www.angulararchitects.io/sample-page/feed/"/>
 <outline text="www.apollographql.com" title="www.apollographql.com" type="rss" xmlUrl="https://www.apollographql.com/blog/rss.xml"/>
 <outline text="www.assetnote.io" title="www.assetnote.io" type="rss" xmlUrl="https://www.assetnote.io/resources/research/rss.xml"/>
