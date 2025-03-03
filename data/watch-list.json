@@ -125,6 +125,20 @@
     }
   },
   {
+    "count": 21,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release pnpm 10.5 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.5.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
     "count": 20,
     "url": "https://www.mozilla.org",
     "tags": [
@@ -135,20 +149,6 @@
       "title": "Firefox 135.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/135.0/releasenotes/"
     }
-  },
-  {
-    "count": 20,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release pnpm 10.4 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.4.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 18,
@@ -211,6 +211,19 @@
     }
   },
   {
+    "count": 13,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js 15.2 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-2"
+    }
+  },
+  {
     "count": 12,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -235,19 +248,6 @@
     "example": {
       "title": "Electron 34.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-34-0"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Composable Caching with Next.js | Next.js",
-      "url": "https://nextjs.org/blog/composable-caching"
     }
   },
   {
@@ -922,6 +922,19 @@
     "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
+    "count": 4,
+    "url": "https://2ality.com",
+    "tags": [
+      "ECMAScript",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "What is TypeScript? An overview for JavaScript programmers",
+      "url": "https://2ality.com/2025/02/what-is-typescript.html"
+    }
+  },
+  {
     "count": 3,
     "url": "https://github.com/remix-run/react-router",
     "tags": [
@@ -1277,19 +1290,6 @@
     "example": {
       "title": "Angular 2025 Strategy. For the past two and a half years… | by Minko Gechev | Jan, 2025 | Angular Blog",
       "url": "https://blog.angular.dev/angular-2025-strategy-9ca333dfc334"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://2ality.com",
-    "tags": [
-      "ECMAScript",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "TypeScript: the `satisfies` operator",
-      "url": "https://2ality.com/2025/02/satisfies-operator.html"
     }
   },
   {
@@ -8950,6 +8950,20 @@
     "example": {
       "title": "ArkType Docs: Optimized runtime validation for TypeScript syntax",
       "url": "https://arktype.io/docs/blog/2.1"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://re-pack.dev",
+    "tags": [
+      "React",
+      "Native",
+      "bundler",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Re.Pack 5: Mobile Microfrontends, 5x Faster, Less Configuration - Re.Pack",
+      "url": "https://re-pack.dev/blog/repack-5-release"
     }
   }
 ]
