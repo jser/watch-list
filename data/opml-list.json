@@ -111,12 +111,6 @@
     ]
   },
   {
-    "url": "https://blog.bokken.io",
-    "feeds": [
-      "https://blog.bokken.io/feeds/atom.xml"
-    ]
-  },
-  {
     "url": "https://blog.chromium.org",
     "feeds": [
       "http://blog.chromium.org/atom.xml"
@@ -229,12 +223,6 @@
     "feeds": [
       "https://blog.scottlogic.com/atom.xml",
       "https://blog.scottlogic.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://blog.sentry.io",
-    "feeds": [
-      "https://blog.sentry.io/feed.xml"
     ]
   },
   {
