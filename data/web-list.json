@@ -74,12 +74,12 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 28,
+    "count": 27,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
-      "ReleaseNote",
       "article",
+      "ReleaseNote",
       "V8",
       "performance"
     ],
@@ -2248,34 +2248,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.sentry.io",
-    "tags": [
-      "React",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library | Product Blog • Sentry",
-      "url": "https://blog.sentry.io/2023/02/23/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library/"
-    },
-    "rssUrl": "https://blog.sentry.io/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.bokken.io",
-    "tags": [
-      "browser",
-      "article"
-    ],
-    "example": {
-      "title": "クライアントの Cookie などのデータを削除する Clear Site Data という仕様について | blog.bokken.io",
-      "url": "https://blog.bokken.io/articles/2023-02-28/about-clear-site-data.html"
-    },
-    "rssUrl": "https://blog.bokken.io/feeds/atom.xml"
   },
   {
     "count": 1,
@@ -9228,6 +9200,19 @@
     "example": {
       "title": "Re.Pack 5: Mobile Microfrontends, 5x Faster, Less Configuration - Re.Pack",
       "url": "https://re-pack.dev/blog/repack-5-release"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://benhowdle.im",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "Migrating 160,000 Lines of Production Banking JavaScript to TypeScript with Zero Downtime - Ben Howdle - Software Consultant & Advisor",
+      "url": "https://benhowdle.im/migrating-js-to-ts-zero-downtime.html"
     }
   }
 ]
