@@ -325,6 +325,8 @@
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/codesandbox/sandpack" title="github.com/codesandbox/sandpack" type="rss" xmlUrl="https://github.com/codesandbox/sandpack/releases.atom"/>
 <outline text="github.com/le0pard/re2js" title="github.com/le0pard/re2js" type="rss" xmlUrl="https://github.com/le0pard/re2js/releases.atom"/>
+<outline text="github.com/lynx-family/primjs" title="github.com/lynx-family/primjs" type="rss" xmlUrl="https://github.com/lynx-family/primjs/releases.atom"/>
+<outline text="github.com/typescript-eslint/typescript-eslint" title="github.com/typescript-eslint/typescript-eslint" type="rss" xmlUrl="https://github.com/typescript-eslint/typescript-eslint/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -506,5 +508,6 @@
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>
 <outline text="zenn.dev/thiry/" title="zenn.dev/thiry/" type="rss" xmlUrl="https://zenn.dev/thiry/feed"/>
 <outline text="zenn.dev/sakito/" title="zenn.dev/sakito/" type="rss" xmlUrl="https://zenn.dev/sakito/feed"/>
+<outline text="zenn.dev/hiruno_tarte/" title="zenn.dev/hiruno_tarte/" type="rss" xmlUrl="https://zenn.dev/hiruno_tarte/feed"/>
 </body>
 </opml>

@@ -1670,5 +1670,11 @@
     "feeds": [
       "https://zenn.dev/sakito/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/hiruno_tarte/",
+    "feeds": [
+      "https://zenn.dev/hiruno_tarte/feed"
+    ]
   }
 ]
