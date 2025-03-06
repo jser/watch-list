@@ -1948,6 +1948,18 @@
     ]
   },
   {
+    "url": "https://github.com/lynx-family/primjs",
+    "feeds": [
+      "https://github.com/lynx-family/primjs/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "feeds": [
+      "https://github.com/typescript-eslint/typescript-eslint/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -3120,6 +3132,12 @@
     "url": "https://zenn.dev/sakito/",
     "feeds": [
       "https://zenn.dev/sakito/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/hiruno_tarte/",
+    "feeds": [
+      "https://zenn.dev/hiruno_tarte/feed"
     ]
   }
 ]

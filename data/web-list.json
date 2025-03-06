@@ -46,7 +46,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 41,
+    "count": 42,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -68,8 +68,8 @@
       "puppeteer"
     ],
     "example": {
-      "title": "Chrome 133  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/133"
+      "title": "Chrome 134  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/134"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -2250,28 +2250,18 @@
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
   },
   {
-    "count": 1,
-    "url": "https://nodejstoolbox.com",
+    "count": 2,
+    "url": "https://lynxjs.org",
     "tags": [
-      "node.js",
-      "library",
-      "search"
+      "React",
+      "Native",
+      "iOS",
+      "Android",
+      "article"
     ],
     "example": {
-      "title": "Node.js Toolbox",
-      "url": "https://nodejstoolbox.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://sandworm.dev",
-    "tags": [
-      "npm",
-      "webservice"
-    ],
-    "example": {
-      "title": "Sandworm: Keep Your JavaScript Code Secure and Compliant",
-      "url": "https://sandworm.dev/"
+      "title": "Lynx: Unlock Native for More - Lynx",
+      "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
   },
   {
@@ -9214,5 +9204,47 @@
       "title": "Migrating 160,000 Lines of Production Banking JavaScript to TypeScript with Zero Downtime - Ben Howdle - Software Consultant & Advisor",
       "url": "https://benhowdle.im/migrating-js-to-ts-zero-downtime.html"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lynx-family/primjs",
+    "tags": [
+      "JavaScript",
+      "Native",
+      "Tools",
+      "library"
+    ],
+    "example": {
+      "title": "lynx-family/primjs: JavaScript Engine Optimized for Lynx",
+      "url": "https://github.com/lynx-family/primjs"
+    },
+    "rssUrl": "https://github.com/lynx-family/primjs/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/typescript-eslint/typescript-eslint",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v8.26.0 · typescript-eslint/typescript-eslint",
+      "url": "https://github.com/typescript-eslint/typescript-eslint/releases/tag/v8.26.0"
+    },
+    "rssUrl": "https://github.com/typescript-eslint/typescript-eslint/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/hiruno_tarte/",
+    "tags": [
+      "ESLint",
+      "article"
+    ],
+    "example": {
+      "title": "oxlint で eslint を高速化させる",
+      "url": "https://zenn.dev/hiruno_tarte/articles/how-to-use-oxlint"
+    },
+    "rssUrl": "https://zenn.dev/hiruno_tarte/feed"
   }
 ]
