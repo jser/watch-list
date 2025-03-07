@@ -62,7 +62,6 @@
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
-<outline text="dev.to/codux/" title="dev.to/codux/" type="rss" xmlUrl="https://dev.to/feed/codux"/>
 <outline text="dev.to/subu_hunter/" title="dev.to/subu_hunter/" type="rss" xmlUrl="https://dev.to/feed/subu_hunter"/>
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.chrome.com" title="developer.chrome.com" type="rss" xmlUrl="https://developer.chrome.com/static/blog/feed.xml"/>
@@ -113,7 +112,6 @@
 <outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
-<outline text="github.com/kaleidawave/ezno" title="github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
@@ -135,7 +133,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/ije/esm.sh" title="github.com/ije/esm.sh" type="rss" xmlUrl="https://github.com/ije/esm.sh/releases.atom"/>
 <outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/open-draft/event-contract" title="github.com/open-draft/event-contract" type="rss" xmlUrl="https://github.com/open-draft/event-contract/releases.atom"/>
 <outline text="github.com/antonmedv/finder" title="github.com/antonmedv/finder" type="rss" xmlUrl="https://github.com/antonmedv/finder/releases.atom"/>
@@ -173,6 +170,7 @@
 <outline text="github.com/mizchi/lizod" title="github.com/mizchi/lizod" type="rss" xmlUrl="https://github.com/mizchi/lizod/releases.atom"/>
 <outline text="github.com/stepci/garph" title="github.com/stepci/garph" type="rss" xmlUrl="https://github.com/stepci/garph/releases.atom"/>
 <outline text="github.com/sveltejs/svelte" title="github.com/sveltejs/svelte" type="rss" xmlUrl="https://github.com/sveltejs/svelte/releases.atom"/>
+<outline text="github.com/kaleidawave/ezno" title="github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
 <outline text="github.com/tresjs/tres" title="github.com/tresjs/tres" type="rss" xmlUrl="https://github.com/tresjs/tres/releases.atom"/>
 <outline text="github.com/reactwg/server-components" title="github.com/reactwg/server-components" type="rss" xmlUrl="https://github.com/reactwg/server-components/releases.atom"/>
 <outline text="github.com/evanw/polywasm" title="github.com/evanw/polywasm" type="rss" xmlUrl="https://github.com/evanw/polywasm/releases.atom"/>

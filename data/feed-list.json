@@ -364,12 +364,6 @@
     ]
   },
   {
-    "url": "https://dev.to/codux/",
-    "feeds": [
-      "https://dev.to/feed/codux"
-    ]
-  },
-  {
     "url": "https://dev.to/subu_hunter/",
     "feeds": [
       "https://dev.to/feed/subu_hunter"
@@ -676,12 +670,6 @@
     ]
   },
   {
-    "url": "https://github.com/kaleidawave/ezno",
-    "feeds": [
-      "https://github.com/kaleidawave/ezno/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vercel/swr",
     "feeds": [
       "https://github.com/vercel/swr/releases.atom"
@@ -805,12 +793,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/ije/esm.sh",
-    "feeds": [
-      "https://github.com/ije/esm.sh/releases.atom"
     ]
   },
   {
@@ -1033,6 +1015,12 @@
     "url": "https://github.com/sveltejs/svelte",
     "feeds": [
       "https://github.com/sveltejs/svelte/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/kaleidawave/ezno",
+    "feeds": [
+      "https://github.com/kaleidawave/ezno/releases.atom"
     ]
   },
   {

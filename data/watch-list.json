@@ -471,6 +471,20 @@
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
+    "count": 7,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "March 5, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-03-05.html"
+    }
+  },
+  {
     "count": 6,
     "url": "https://github.blog",
     "tags": [
@@ -556,20 +570,6 @@
     "example": {
       "title": "Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "January 15, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-01-15.html"
     }
   },
   {
@@ -1336,20 +1336,6 @@
       "title": "Release 0.11.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.11.0"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/kaleidawave/ezno",
-    "tags": [
-      "TypeScript",
-      "Rust",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Open sourcing Ezno's checker and trying out / previewing the JavaScript type checker today · kaleidawave/ezno · Discussion #21",
-      "url": "https://github.com/kaleidawave/ezno/discussions/21"
-    },
-    "rssUrl": "https://github.com/kaleidawave/ezno/releases.atom"
   },
   {
     "count": 2,
@@ -2186,32 +2172,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://dev.to/codux/",
-    "tags": [
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Experiments with the JavaScript Garbage Collector - DEV Community",
-      "url": "https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ije/esm.sh",
-    "tags": [
-      "JavaScript",
-      "cdn",
-      "module"
-    ],
-    "example": {
-      "title": "Release v111 · ije/esm.sh",
-      "url": "https://github.com/ije/esm.sh/releases/tag/v111"
-    },
-    "rssUrl": "https://github.com/ije/esm.sh/releases.atom"
   },
   {
     "count": 1,
@@ -3219,6 +3179,20 @@
       "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
       "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/kaleidawave/ezno",
+    "tags": [
+      "TypeScript",
+      "Rust",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Open sourcing Ezno's checker and trying out / previewing the JavaScript type checker today · kaleidawave/ezno · Discussion #21",
+      "url": "https://github.com/kaleidawave/ezno/discussions/21"
+    },
+    "rssUrl": "https://github.com/kaleidawave/ezno/releases.atom"
   },
   {
     "count": 1,
