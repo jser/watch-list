@@ -1388,21 +1388,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/vercel/swr",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.3.0 · vercel/swr",
-      "url": "https://github.com/vercel/swr/releases/tag/v2.3.0"
-    },
-    "rssUrl": "https://github.com/vercel/swr/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://moonrepo.dev",
     "tags": [
       "node.js",
@@ -2249,20 +2234,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/jest",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v29.5.0 · facebook/jest",
-      "url": "https://github.com/facebook/jest/releases/tag/v29.5.0"
-    },
-    "rssUrl": "https://github.com/facebook/jest/releases.atom"
   },
   {
     "count": 1,
@@ -8701,6 +8672,20 @@
       "title": "State of JavaScript 2024",
       "url": "https://2024.stateofjs.com/en-US"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel/swr",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v2.3.0 · vercel/swr",
+      "url": "https://github.com/vercel/swr/releases/tag/v2.3.0"
+    },
+    "rssUrl": "https://github.com/vercel/swr/releases.atom"
   },
   {
     "count": 1,
