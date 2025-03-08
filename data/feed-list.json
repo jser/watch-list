@@ -670,12 +670,6 @@
     ]
   },
   {
-    "url": "https://github.com/vercel/swr",
-    "feeds": [
-      "https://github.com/vercel/swr/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
@@ -793,12 +787,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/jest",
-    "feeds": [
-      "https://github.com/facebook/jest/releases.atom"
     ]
   },
   {
@@ -1849,6 +1837,12 @@
     "url": "https://github.com/mui/base-ui",
     "feeds": [
       "https://github.com/mui/base-ui/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel/swr",
+    "feeds": [
+      "https://github.com/vercel/swr/releases.atom"
     ]
   },
   {

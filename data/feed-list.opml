@@ -112,7 +112,6 @@
 <outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
-<outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
@@ -133,7 +132,6 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/facebook/jest" title="github.com/facebook/jest" type="rss" xmlUrl="https://github.com/facebook/jest/releases.atom"/>
 <outline text="github.com/open-draft/event-contract" title="github.com/open-draft/event-contract" type="rss" xmlUrl="https://github.com/open-draft/event-contract/releases.atom"/>
 <outline text="github.com/antonmedv/finder" title="github.com/antonmedv/finder" type="rss" xmlUrl="https://github.com/antonmedv/finder/releases.atom"/>
 <outline text="github.com/total-typescript/ts-reset" title="github.com/total-typescript/ts-reset" type="rss" xmlUrl="https://github.com/total-typescript/ts-reset/releases.atom"/>
@@ -309,6 +307,7 @@
 <outline text="github.com/lingui/js-lingui?tab=readme-ov-file" title="github.com/lingui/js-lingui?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/lingui/js-lingui?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/nissy-dev/tenbin" title="github.com/nissy-dev/tenbin" type="rss" xmlUrl="https://github.com/nissy-dev/tenbin/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
+<outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/facebookexperimental/Recoil" title="github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
 <outline text="github.com/open-source-labs/Reactime" title="github.com/open-source-labs/Reactime" type="rss" xmlUrl="https://github.com/open-source-labs/Reactime/releases.atom"/>
