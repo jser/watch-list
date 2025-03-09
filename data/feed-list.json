@@ -664,9 +664,21 @@
     ]
   },
   {
+    "url": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/chakra-ui/ark",
+    "feeds": [
+      "https://github.com/chakra-ui/ark/releases.atom"
     ]
   },
   {
@@ -718,12 +730,6 @@
     ]
   },
   {
-    "url": "https://github.com/nuxt/nuxt",
-    "feeds": [
-      "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/farm-fe/farm",
     "feeds": [
       "https://github.com/farm-fe/farm/releases.atom"
@@ -769,12 +775,6 @@
     "url": "https://github.com/mswjs/msw",
     "feeds": [
       "https://github.com/mswjs/msw/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/chakra-ui/ark",
-    "feeds": [
-      "https://github.com/chakra-ui/ark/releases.atom"
     ]
   },
   {
@@ -2988,12 +2988,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/tnyo43/",
-    "feeds": [
-      "https://zenn.dev/tnyo43/feed"
     ]
   },
   {
