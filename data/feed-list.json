@@ -556,12 +556,6 @@
     ]
   },
   {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
@@ -583,6 +577,12 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -787,12 +787,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/open-draft/event-contract",
-    "feeds": [
-      "https://github.com/open-draft/event-contract/releases.atom"
     ]
   },
   {

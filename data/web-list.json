@@ -596,20 +596,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v5.98.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.98.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -741,20 +727,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "jquery]"
-    ],
-    "example": {
-      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
-    },
-    "rssUrl": "https://blog.jquery.com/feed/"
-  },
-  {
-    "count": 4,
     "url": "https://wasmer.io",
     "tags": [
       "WebAssembly",
@@ -782,6 +754,20 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v5.98.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.98.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
@@ -1107,6 +1093,20 @@
       "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
     },
     "rssUrl": "https://www.smashingmagazine.com/feed/"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jquery]",
+      "ReleaseNote",
+      "jQuery"
+    ],
+    "example": {
+      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
+    },
+    "rssUrl": "https://blog.jquery.com/feed/"
   },
   {
     "count": 3,
@@ -2236,19 +2236,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/open-draft/event-contract",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "open-draft/event-contract: Type-safe, implementation-agnostic event contract framework.",
-      "url": "https://github.com/open-draft/event-contract"
-    },
-    "rssUrl": "https://github.com/open-draft/event-contract/releases.atom"
   },
   {
     "count": 1,
