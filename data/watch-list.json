@@ -397,23 +397,6 @@
   },
   {
     "count": 8,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "webpack",
-      "Rust",
-      "Tools",
-      "bundler",
-      "ReleaseNote",
-      "rspack",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Announcing Rspack v1.0 Alpha - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -502,6 +485,21 @@
     "example": {
       "title": "Considerations for making a tree view component accessible - The GitHub Blog",
       "url": "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "webpack",
+      "rspack",
+      "ReleaseNote",
+      "JavaScript",
+      "bundler"
+    ],
+    "example": {
+      "title": "Announcing Rspack v1.0 Alpha - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     }
   },
   {
@@ -1366,26 +1364,6 @@
     "example": {
       "title": "Release 0.11.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.11.0"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://moonrepo.dev",
-    "tags": [
-      "node.js",
-      "deno",
-      "Bun",
-      "golang",
-      "console",
-      "Tools",
-      "monorepo",
-      "Rust",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
-      "url": "https://moonrepo.dev/blog/moon-v1.0"
     }
   },
   {
@@ -2389,6 +2367,21 @@
       "url": "https://github.com/mayank99/ecsstatic"
     },
     "rssUrl": "https://github.com/mayank99/ecsstatic/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://moonrepo.dev",
+    "tags": [
+      "monorepo",
+      "Rust",
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
+      "url": "https://moonrepo.dev/blog/moon-v1.0"
+    }
   },
   {
     "count": 1,
