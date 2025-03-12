@@ -319,12 +319,6 @@
     ]
   },
   {
-    "url": "https://css-tricks.com",
-    "feeds": [
-      "https://css-tricks.com/feed/"
-    ]
-  },
-  {
     "url": "https://csswizardry.com",
     "feeds": [
       "https://feeds.feedburner.com/csswizardry"
@@ -1936,6 +1930,12 @@
     ]
   },
   {
+    "url": "https://github.com/microsoft/typescript-go",
+    "feeds": [
+      "https://github.com/microsoft/typescript-go/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2227,6 +2227,13 @@
       "https://piccalil.li/articles.xml",
       "https://piccalil.li/links.xml",
       "https://piccalil.li/the-index/feed.xml"
+    ]
+  },
+  {
+    "url": "https://pikku.dev",
+    "feeds": [
+      "https://pikku.dev/blog/rss.xml",
+      "https://pikku.dev/blog/atom.xml"
     ]
   },
   {

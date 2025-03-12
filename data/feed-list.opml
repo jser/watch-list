@@ -55,7 +55,6 @@
 <outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
-<outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
@@ -323,6 +322,7 @@
 <outline text="github.com/le0pard/re2js" title="github.com/le0pard/re2js" type="rss" xmlUrl="https://github.com/le0pard/re2js/releases.atom"/>
 <outline text="github.com/lynx-family/primjs" title="github.com/lynx-family/primjs" type="rss" xmlUrl="https://github.com/lynx-family/primjs/releases.atom"/>
 <outline text="github.com/typescript-eslint/typescript-eslint" title="github.com/typescript-eslint/typescript-eslint" type="rss" xmlUrl="https://github.com/typescript-eslint/typescript-eslint/releases.atom"/>
+<outline text="github.com/microsoft/typescript-go" title="github.com/microsoft/typescript-go" type="rss" xmlUrl="https://github.com/microsoft/typescript-go/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -369,6 +369,7 @@
 <outline text="pawelgrzybek.com" title="pawelgrzybek.com" type="rss" xmlUrl="https://pawelgrzybek.com/feed.xml"/>
 <outline text="philipwalton.com" title="philipwalton.com" type="rss" xmlUrl="https://feeds.feedburner.com/philipwalton"/>
 <outline text="piccalil.li" title="piccalil.li" type="rss" xmlUrl="https://piccalil.li/feed.xml"/>
+<outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>
 <outline text="postd.cc" title="postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
 <outline text="practica.dev" title="practica.dev" type="rss" xmlUrl="https://practica.dev/blog/rss.xml"/>
 <outline text="prateeksurana.me" title="prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
