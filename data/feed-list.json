@@ -610,18 +610,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/react-router",
-    "feeds": [
-      "https://github.com/remix-run/react-router/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/storybookjs/storybook",
-    "feeds": [
-      "https://github.com/storybookjs/storybook/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -706,6 +694,12 @@
     ]
   },
   {
+    "url": "https://github.com/remix-run/react-router",
+    "feeds": [
+      "https://github.com/remix-run/react-router/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
@@ -775,6 +769,12 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
     ]
   },
   {
