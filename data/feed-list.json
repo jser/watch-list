@@ -784,12 +784,6 @@
     ]
   },
   {
-    "url": "https://github.com/antonmedv/finder",
-    "feeds": [
-      "https://github.com/antonmedv/finder/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/total-typescript/ts-reset",
     "feeds": [
       "https://github.com/total-typescript/ts-reset/releases.atom"

@@ -71,14 +71,14 @@
     }
   },
   {
-    "count": 28,
+    "count": 27,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
-      "article",
       "ReleaseNote",
       "V8",
-      "performance"
+      "performance",
+      "article"
     ],
     "example": {
       "title": "A 10x Faster TypeScript - TypeScript",
@@ -917,21 +917,6 @@
     "example": {
       "title": "What is TypeScript? An overview for JavaScript programmers",
       "url": "https://2ality.com/2025/02/what-is-typescript.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://openjsf.org",
-    "tags": [
-      "node.js",
-      "security",
-      "article",
-      "nodejs",
-      "npm"
-    ],
-    "example": {
-      "title": "Node.js Security Progress Report: Redefining Security Processes and Key Initiatives | OpenJS Foundation",
-      "url": "https://openjsf.org/blog/nodejs-security-progress-report-may-2024?utm_content=297186945&utm_medium=social&utm_source=twitter&hss_channel=tw-91985735"
     }
   },
   {
@@ -1916,6 +1901,19 @@
   },
   {
     "count": 2,
+    "url": "https://openjsf.org",
+    "tags": [
+      "nodejs",
+      "npm",
+      "article"
+    ],
+    "example": {
+      "title": "Node.js Security Progress Report: Redefining Security Processes and Key Initiatives | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/nodejs-security-progress-report-may-2024?utm_content=297186945&utm_medium=social&utm_source=twitter&hss_channel=tw-91985735"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://zenn.dev/akfm/",
     "tags": [
       "Next.js",
@@ -2136,32 +2134,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://betterstack.com",
-    "tags": [
-      "node.js",
-      "article"
-    ],
-    "example": {
-      "title": "A Complete Guide to Pino Logging in Node.js | Better Stack Community",
-      "url": "https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-pino-to-log-node-js-applications/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/antonmedv/finder",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "library"
-    ],
-    "example": {
-      "title": "antonmedv/finder: CSS Selector Generator 🗺",
-      "url": "https://github.com/antonmedv/finder"
-    },
-    "rssUrl": "https://github.com/antonmedv/finder/releases.atom"
   },
   {
     "count": 1,
