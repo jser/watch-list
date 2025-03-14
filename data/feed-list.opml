@@ -131,7 +131,6 @@
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/antonmedv/finder" title="github.com/antonmedv/finder" type="rss" xmlUrl="https://github.com/antonmedv/finder/releases.atom"/>
 <outline text="github.com/total-typescript/ts-reset" title="github.com/total-typescript/ts-reset" type="rss" xmlUrl="https://github.com/total-typescript/ts-reset/releases.atom"/>
 <outline text="github.com/lagonapp/lagon" title="github.com/lagonapp/lagon" type="rss" xmlUrl="https://github.com/lagonapp/lagon/releases.atom"/>
 <outline text="github.com/gajus/turbowatch" title="github.com/gajus/turbowatch" type="rss" xmlUrl="https://github.com/gajus/turbowatch/releases.atom"/>
