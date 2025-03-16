@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -13,8 +13,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Node.js — Node v23.8.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.8.0"
+      "title": "Node.js — Node v23.10.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.10.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
