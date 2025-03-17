@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -285,6 +285,23 @@
   },
   {
     "count": 11,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "article",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt UI v3 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/nuxt-ui-v3"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -320,22 +337,6 @@
     "example": {
       "title": "Angular: The Documentary | An origin story - YouTube",
       "url": "https://www.youtube.com/watch?v=cRC9DlH45lA"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "article",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt"
-    ],
-    "example": {
-      "title": "Nuxt 3.15 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-15"
     }
   },
   {
@@ -920,6 +921,22 @@
     }
   },
   {
+    "count": 4,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Oxlint Beta | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-03-15-oxlint-beta.html"
+    }
+  },
+  {
     "count": 3,
     "url": "https://github.com/solidjs/solid",
     "tags": [
@@ -1318,19 +1335,6 @@
       "title": "Release 0.11.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.11.0"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/vitejs/vite",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "vite/packages/vite/CHANGELOG.md at main · vitejs/vite",
-      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#610-2025-02-05"
-    },
-    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 2,
@@ -2075,21 +2079,6 @@
       "url": "https://github.com/storybookjs/storybook/releases/tag/v8.5.0"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Oxlint v0.10 Migration Guide | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2024-10-18-oxlint-v0.10-release"
-    }
   },
   {
     "count": 2,
@@ -8731,6 +8720,19 @@
       "title": "Valibot v1 RC is now available | Valibot",
       "url": "https://valibot.dev/blog/valibot-v1-rc-is-available/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vitejs/vite",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "vite/packages/vite/CHANGELOG.md at main · vitejs/vite",
+      "url": "https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#610-2025-02-05"
+    },
+    "rssUrl": "https://github.com/vitejs/vite/releases.atom"
   },
   {
     "count": 1,
