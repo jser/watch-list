@@ -664,12 +664,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitejs/vite",
-    "feeds": [
-      "https://github.com/vitejs/vite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/markedjs/marked",
     "feeds": [
       "https://github.com/markedjs/marked/releases.atom"
@@ -1897,6 +1891,12 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitejs/vite",
+    "feeds": [
+      "https://github.com/vitejs/vite/releases.atom"
     ]
   },
   {
