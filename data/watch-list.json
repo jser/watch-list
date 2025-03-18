@@ -71,21 +71,6 @@
     }
   },
   {
-    "count": 27,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "V8",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "A 10x Faster TypeScript - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-    }
-  },
-  {
     "count": 26,
     "url": "https://deno.com",
     "tags": [
@@ -102,6 +87,21 @@
     "example": {
       "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
       "url": "https://deno.com/blog/v2.2"
+    }
+  },
+  {
+    "count": 26,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "V8",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "A 10x Faster TypeScript - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
     }
   },
   {
@@ -341,23 +341,6 @@
   },
   {
     "count": 9,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "document",
-      "news",
-      "article",
-      "TypeScript",
-      "ReleaseNote",
-      "babel"
-    ],
-    "example": {
-      "title": "Sunsetting Create React App – React",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
-    }
-  },
-  {
-    "count": 9,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -419,6 +402,23 @@
     "example": {
       "title": "The story of web framework Hono, from the creator of Hono",
       "url": "https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "article",
+      "TypeScript",
+      "document",
+      "ReleaseNote",
+      "babel",
+      "news"
+    ],
+    "example": {
+      "title": "Sunsetting Create React App – React",
+      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
     }
   },
   {
