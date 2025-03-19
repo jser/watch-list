@@ -630,6 +630,12 @@
     ]
   },
   {
+    "url": "https://lynxjs.org",
+    "feeds": [
+      "https://lynxjs.org/rss/blog-rss.xml"
+    ]
+  },
+  {
     "url": "https://makojs.dev",
     "feeds": [
       "https://makojs.dev/rss.xml"
