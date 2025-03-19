@@ -104,6 +104,7 @@
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="leaysgur.github.io" title="leaysgur.github.io" type="rss" xmlUrl="https://leaysgur.github.io/posts/rss.xml"/>
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
+<outline text="lynxjs.org" title="lynxjs.org" type="rss" xmlUrl="https://lynxjs.org/rss/blog-rss.xml"/>
 <outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>

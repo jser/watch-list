@@ -778,12 +778,6 @@
     ]
   },
   {
-    "url": "https://github.com/total-typescript/ts-reset",
-    "feeds": [
-      "https://github.com/total-typescript/ts-reset/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lagonapp/lagon",
     "feeds": [
       "https://github.com/lagonapp/lagon/releases.atom"
@@ -2049,6 +2043,12 @@
     "url": "https://lit.dev",
     "feeds": [
       "https://lit.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://lynxjs.org",
+    "feeds": [
+      "https://lynxjs.org/rss/blog-rss.xml"
     ]
   },
   {

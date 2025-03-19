@@ -110,7 +110,7 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 24,
+    "count": 25,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -125,8 +125,8 @@
       "privacy"
     ],
     "example": {
-      "title": "WebKit Features in Safari 18.2 | WebKit",
-      "url": "https://webkit.org/blog/16301/webkit-features-in-safari-18-2/"
+      "title": "Release Notes for Safari Technology Preview 215 | WebKit",
+      "url": "https://webkit.org/blog/16523/release-notes-for-safari-technology-preview-215/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -2198,20 +2198,8 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/total-typescript/ts-reset",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "total-typescript/ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
-      "url": "https://github.com/total-typescript/ts-reset"
     },
-    "rssUrl": "https://github.com/total-typescript/ts-reset/releases.atom"
+    "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
   },
   {
     "count": 1,
