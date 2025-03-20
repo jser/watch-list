@@ -589,22 +589,6 @@
   },
   {
     "count": 5,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "security",
-      "nodejs",
-      "discussion",
-      "pnpm"
-    ],
-    "example": {
-      "title": "pnpm 10.0.0 Blocks Lifecycle Scripts by Default - Socket",
-      "url": "https://socket.dev/blog/pnpm-10-0-0-blocks-lifecycle-scripts-by-default"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.com/esm-dev/esm.sh",
     "tags": [
       "cdn",
@@ -906,6 +890,22 @@
       "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.6.0"
     },
     "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://socket.dev",
+    "tags": [
+      "npm",
+      "article",
+      "nodejs",
+      "discussion",
+      "pnpm",
+      "security"
+    ],
+    "example": {
+      "title": "pnpm 10.0.0 Blocks Lifecycle Scripts by Default - Socket",
+      "url": "https://socket.dev/blog/pnpm-10-0-0-blocks-lifecycle-scripts-by-default"
+    }
   },
   {
     "count": 4,
@@ -2111,6 +2111,19 @@
   },
   {
     "count": 2,
+    "url": "https://valibot.dev",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Valibot v1 - The 1 kB schema library | Valibot",
+      "url": "https://valibot.dev/blog/valibot-v1-the-1-kb-schema-library/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://lynxjs.org",
     "tags": [
       "React",
@@ -2123,21 +2136,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/lagonapp/lagon",
-    "tags": [
-      "V8",
-      "Rust",
-      "JavaScript",
-      "OpenSource"
-    ],
-    "example": {
-      "title": "lagonapp/lagon: Deploy Serverless Functions at the Edge. Current status: Dev",
-      "url": "https://github.com/lagonapp/lagon"
-    },
-    "rssUrl": "https://github.com/lagonapp/lagon/releases.atom"
   },
   {
     "count": 1,
@@ -8694,19 +8692,6 @@
       "url": "https://github.com/apollographql/apollo-client/releases/tag/v3.13.0"
     },
     "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://valibot.dev",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Valibot v1 RC is now available | Valibot",
-      "url": "https://valibot.dev/blog/valibot-v1-rc-is-available/"
-    }
   },
   {
     "count": 1,
