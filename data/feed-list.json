@@ -778,12 +778,6 @@
     ]
   },
   {
-    "url": "https://github.com/lagonapp/lagon",
-    "feeds": [
-      "https://github.com/lagonapp/lagon/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/gajus/turbowatch",
     "feeds": [
       "https://github.com/gajus/turbowatch/releases.atom"
