@@ -778,12 +778,6 @@
     ]
   },
   {
-    "url": "https://github.com/gajus/turbowatch",
-    "feeds": [
-      "https://github.com/gajus/turbowatch/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/styled-components/xstyled",
     "feeds": [
       "https://github.com/styled-components/xstyled/releases.atom"
