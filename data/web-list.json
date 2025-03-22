@@ -2216,33 +2216,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/gajus/turbowatch",
-    "tags": [
-      "node.js",
-      "library"
-    ],
-    "example": {
-      "title": "gajus/turbowatch: Extremely fast file change detector and task orchestrator for Node.js.",
-      "url": "https://github.com/gajus/turbowatch"
-    },
-    "rssUrl": "https://github.com/gajus/turbowatch/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://xenova.github.io",
-    "tags": [
-      "browser",
-      "JavaScript",
-      "library",
-      "MachineLearning"
-    ],
-    "example": {
-      "title": "Transformers.js",
-      "url": "https://xenova.github.io/transformers.js/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://www.oreilly.com",
     "tags": [
       "WebAssembly",
