@@ -262,13 +262,6 @@
     ]
   },
   {
-    "url": "https://bufferings.hatenablog.com",
-    "feeds": [
-      "https://bufferings.hatenablog.com/feed",
-      "https://bufferings.hatenablog.com/rss"
-    ]
-  },
-  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
@@ -775,18 +768,6 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/styled-components/xstyled",
-    "feeds": [
-      "https://github.com/styled-components/xstyled/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/anymaniax/orval",
-    "feeds": [
-      "https://github.com/anymaniax/orval/releases.atom"
     ]
   },
   {
@@ -1909,6 +1890,12 @@
     "url": "https://github.com/microsoft/typescript-go",
     "feeds": [
       "https://github.com/microsoft/typescript-go/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/TSC",
+    "feeds": [
+      "https://github.com/nodejs/TSC/releases.atom"
     ]
   },
   {
