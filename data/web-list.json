@@ -2216,62 +2216,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.oreilly.com",
-    "tags": [
-      "WebAssembly",
-      "book"
-    ],
-    "example": {
-      "title": "Practical WebAssembly [Book]",
-      "url": "https://www.oreilly.com/library/view/practical-webassembly/9781098142513/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://bufferings.hatenablog.com",
-    "tags": [
-      "npm",
-      "article",
-      "CI"
-    ],
-    "example": {
-      "title": "npm installとnpm ciの動作確認を簡単にやっておいた - Mitsuyuki.Shiiba",
-      "url": "https://bufferings.hatenablog.com/entry/2023/03/21/145023"
-    },
-    "rssUrl": "https://bufferings.hatenablog.com/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/styled-components/xstyled",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "news"
-    ],
-    "example": {
-      "title": "styled-components/xstyled: A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️",
-      "url": "https://github.com/styled-components/xstyled"
-    },
-    "rssUrl": "https://github.com/styled-components/xstyled/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/anymaniax/orval",
-    "tags": [
-      "OpenAPI",
-      "TypeScript",
-      "React",
-      "Tools",
-      "library"
-    ],
-    "example": {
-      "title": "anymaniax/orval: orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺",
-      "url": "https://github.com/anymaniax/orval"
-    },
-    "rssUrl": "https://github.com/anymaniax/orval/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/gvergnaud/hotscript",
     "tags": [
       "TypeScript",
@@ -9104,5 +9048,18 @@
       "url": "https://pikku.dev/"
     },
     "rssUrl": "https://pikku.dev/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nodejs/TSC",
+    "tags": [
+      "nodejs",
+      "news"
+    ],
+    "example": {
+      "title": "Should Corepack stay in the Node.js distribution? by github-actions[bot] · Pull Request #1697 · nodejs/TSC",
+      "url": "https://github.com/nodejs/TSC/pull/1697#issuecomment-2737093616"
+    },
+    "rssUrl": "https://github.com/nodejs/TSC/releases.atom"
   }
 ]

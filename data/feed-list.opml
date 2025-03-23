@@ -46,7 +46,6 @@
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="boajs.dev" title="boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
-<outline text="bufferings.hatenablog.com" title="bufferings.hatenablog.com" type="rss" xmlUrl="https://bufferings.hatenablog.com/feed"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
 <outline text="bytecodealliance.org" title="bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
@@ -130,8 +129,6 @@
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
-<outline text="github.com/styled-components/xstyled" title="github.com/styled-components/xstyled" type="rss" xmlUrl="https://github.com/styled-components/xstyled/releases.atom"/>
-<outline text="github.com/anymaniax/orval" title="github.com/anymaniax/orval" type="rss" xmlUrl="https://github.com/anymaniax/orval/releases.atom"/>
 <outline text="github.com/gvergnaud/hotscript" title="github.com/gvergnaud/hotscript" type="rss" xmlUrl="https://github.com/gvergnaud/hotscript/releases.atom"/>
 <outline text="github.com/mamiksik/parrot-intellij" title="github.com/mamiksik/parrot-intellij" type="rss" xmlUrl="https://github.com/mamiksik/parrot-intellij/releases.atom"/>
 <outline text="github.com/sinclairnick/brail" title="github.com/sinclairnick/brail" type="rss" xmlUrl="https://github.com/sinclairnick/brail/releases.atom"/>
@@ -319,6 +316,7 @@
 <outline text="github.com/lynx-family/primjs" title="github.com/lynx-family/primjs" type="rss" xmlUrl="https://github.com/lynx-family/primjs/releases.atom"/>
 <outline text="github.com/typescript-eslint/typescript-eslint" title="github.com/typescript-eslint/typescript-eslint" type="rss" xmlUrl="https://github.com/typescript-eslint/typescript-eslint/releases.atom"/>
 <outline text="github.com/microsoft/typescript-go" title="github.com/microsoft/typescript-go" type="rss" xmlUrl="https://github.com/microsoft/typescript-go/releases.atom"/>
+<outline text="github.com/nodejs/TSC" title="github.com/nodejs/TSC" type="rss" xmlUrl="https://github.com/nodejs/TSC/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>

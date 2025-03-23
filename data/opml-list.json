@@ -262,13 +262,6 @@
     ]
   },
   {
-    "url": "https://bufferings.hatenablog.com",
-    "feeds": [
-      "https://bufferings.hatenablog.com/feed",
-      "https://bufferings.hatenablog.com/rss"
-    ]
-  },
-  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"

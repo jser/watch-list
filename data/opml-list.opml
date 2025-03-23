@@ -46,7 +46,6 @@
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="boajs.dev" title="boajs.dev" type="rss" xmlUrl="https://boajs.dev/feed.xml"/>
-<outline text="bufferings.hatenablog.com" title="bufferings.hatenablog.com" type="rss" xmlUrl="https://bufferings.hatenablog.com/feed"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
 <outline text="bytecodealliance.org" title="bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
