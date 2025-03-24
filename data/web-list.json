@@ -110,7 +110,7 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 25,
+    "count": 24,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -9061,5 +9061,33 @@
       "url": "https://github.com/nodejs/TSC/pull/1697#issuecomment-2737093616"
     },
     "rssUrl": "https://github.com/nodejs/TSC/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw",
+    "tags": [
+      "Next.js",
+      "security",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Authorization Bypass in Next.js Middleware · CVE-2025-29927 · GitHub Advisory Database",
+      "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw"
+    },
+    "rssUrl": "https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://motion.dev",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "animation"
+    ],
+    "example": {
+      "title": "Introducing Motion for Vue - Motion Blog",
+      "url": "https://motion.dev/blog/introducing-motion-for-vue"
+    }
   }
 ]

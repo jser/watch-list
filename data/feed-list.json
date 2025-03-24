@@ -1899,6 +1899,12 @@
     ]
   },
   {
+    "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw",
+    "feeds": [
+      "https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"

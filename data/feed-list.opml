@@ -317,6 +317,7 @@
 <outline text="github.com/typescript-eslint/typescript-eslint" title="github.com/typescript-eslint/typescript-eslint" type="rss" xmlUrl="https://github.com/typescript-eslint/typescript-eslint/releases.atom"/>
 <outline text="github.com/microsoft/typescript-go" title="github.com/microsoft/typescript-go" type="rss" xmlUrl="https://github.com/microsoft/typescript-go/releases.atom"/>
 <outline text="github.com/nodejs/TSC" title="github.com/nodejs/TSC" type="rss" xmlUrl="https://github.com/nodejs/TSC/releases.atom"/>
+<outline text="github.com/advisories/GHSA-f82v-jwr5-mffw" title="github.com/advisories/GHSA-f82v-jwr5-mffw" type="rss" xmlUrl="https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
