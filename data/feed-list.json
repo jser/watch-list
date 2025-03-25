@@ -312,6 +312,13 @@
     ]
   },
   {
+    "url": "https://css-tricks.com",
+    "feeds": [
+      "https://css-tricks.com/feed/",
+      "https://css-tricks.com/functions-in-css/feed/"
+    ]
+  },
+  {
     "url": "https://csswizardry.com",
     "feeds": [
       "https://feeds.feedburner.com/csswizardry"
@@ -768,6 +775,12 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/apollographql/apollo-client",
+    "feeds": [
+      "https://github.com/apollographql/apollo-client/releases.atom"
     ]
   },
   {
@@ -1851,12 +1864,6 @@
     ]
   },
   {
-    "url": "https://github.com/apollographql/apollo-client",
-    "feeds": [
-      "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
@@ -1902,6 +1909,12 @@
     "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw",
     "feeds": [
       "https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/inokawa/virtua",
+    "feeds": [
+      "https://github.com/inokawa/virtua/releases.atom"
     ]
   },
   {
@@ -3090,6 +3103,12 @@
     "url": "https://zenn.dev/hiruno_tarte/",
     "feeds": [
       "https://zenn.dev/hiruno_tarte/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/comm_vue_nuxt/",
+    "feeds": [
+      "https://zenn.dev/p/comm_vue_nuxt/feed"
     ]
   }
 ]
