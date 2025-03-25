@@ -312,6 +312,13 @@
     ]
   },
   {
+    "url": "https://css-tricks.com",
+    "feeds": [
+      "https://css-tricks.com/feed/",
+      "https://css-tricks.com/functions-in-css/feed/"
+    ]
+  },
+  {
     "url": "https://csswizardry.com",
     "feeds": [
       "https://feeds.feedburner.com/csswizardry"
@@ -1663,6 +1670,12 @@
     "url": "https://zenn.dev/hiruno_tarte/",
     "feeds": [
       "https://zenn.dev/hiruno_tarte/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/comm_vue_nuxt/",
+    "feeds": [
+      "https://zenn.dev/p/comm_vue_nuxt/feed"
     ]
   }
 ]

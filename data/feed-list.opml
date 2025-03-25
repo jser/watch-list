@@ -54,6 +54,7 @@
 <outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
+<outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
@@ -129,6 +130,7 @@
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
+<outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/gvergnaud/hotscript" title="github.com/gvergnaud/hotscript" type="rss" xmlUrl="https://github.com/gvergnaud/hotscript/releases.atom"/>
 <outline text="github.com/mamiksik/parrot-intellij" title="github.com/mamiksik/parrot-intellij" type="rss" xmlUrl="https://github.com/mamiksik/parrot-intellij/releases.atom"/>
 <outline text="github.com/sinclairnick/brail" title="github.com/sinclairnick/brail" type="rss" xmlUrl="https://github.com/sinclairnick/brail/releases.atom"/>
@@ -309,7 +311,6 @@
 <outline text="github.com/plotly/plotly.js" title="github.com/plotly/plotly.js" type="rss" xmlUrl="https://github.com/plotly/plotly.js/releases.atom"/>
 <outline text="github.com/solidjs/solid-start" title="github.com/solidjs/solid-start" type="rss" xmlUrl="https://github.com/solidjs/solid-start/releases.atom"/>
 <outline text="github.com/antfu/node-modules-inspector?tab=readme-ov-file" title="github.com/antfu/node-modules-inspector?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/antfu/node-modules-inspector?tab=readme-ov-file/releases.atom"/>
-<outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/vitejs/vite" title="github.com/vitejs/vite" type="rss" xmlUrl="https://github.com/vitejs/vite/releases.atom"/>
 <outline text="github.com/codesandbox/sandpack" title="github.com/codesandbox/sandpack" type="rss" xmlUrl="https://github.com/codesandbox/sandpack/releases.atom"/>
 <outline text="github.com/le0pard/re2js" title="github.com/le0pard/re2js" type="rss" xmlUrl="https://github.com/le0pard/re2js/releases.atom"/>
@@ -318,6 +319,7 @@
 <outline text="github.com/microsoft/typescript-go" title="github.com/microsoft/typescript-go" type="rss" xmlUrl="https://github.com/microsoft/typescript-go/releases.atom"/>
 <outline text="github.com/nodejs/TSC" title="github.com/nodejs/TSC" type="rss" xmlUrl="https://github.com/nodejs/TSC/releases.atom"/>
 <outline text="github.com/advisories/GHSA-f82v-jwr5-mffw" title="github.com/advisories/GHSA-f82v-jwr5-mffw" type="rss" xmlUrl="https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"/>
+<outline text="github.com/inokawa/virtua" title="github.com/inokawa/virtua" type="rss" xmlUrl="https://github.com/inokawa/virtua/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
@@ -501,5 +503,6 @@
 <outline text="zenn.dev/thiry/" title="zenn.dev/thiry/" type="rss" xmlUrl="https://zenn.dev/thiry/feed"/>
 <outline text="zenn.dev/sakito/" title="zenn.dev/sakito/" type="rss" xmlUrl="https://zenn.dev/sakito/feed"/>
 <outline text="zenn.dev/hiruno_tarte/" title="zenn.dev/hiruno_tarte/" type="rss" xmlUrl="https://zenn.dev/hiruno_tarte/feed"/>
+<outline text="zenn.dev/comm_vue_nuxt/" title="zenn.dev/comm_vue_nuxt/" type="rss" xmlUrl="https://zenn.dev/p/comm_vue_nuxt/feed"/>
 </body>
 </opml>

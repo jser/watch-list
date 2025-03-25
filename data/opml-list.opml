@@ -54,6 +54,7 @@
 <outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
+<outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="davidwalsh.name" title="davidwalsh.name" type="rss" xmlUrl="https://davidwalsh.name/feed/atom"/>
@@ -264,5 +265,6 @@
 <outline text="zenn.dev/thiry/" title="zenn.dev/thiry/" type="rss" xmlUrl="https://zenn.dev/thiry/feed"/>
 <outline text="zenn.dev/sakito/" title="zenn.dev/sakito/" type="rss" xmlUrl="https://zenn.dev/sakito/feed"/>
 <outline text="zenn.dev/hiruno_tarte/" title="zenn.dev/hiruno_tarte/" type="rss" xmlUrl="https://zenn.dev/hiruno_tarte/feed"/>
+<outline text="zenn.dev/comm_vue_nuxt/" title="zenn.dev/comm_vue_nuxt/" type="rss" xmlUrl="https://zenn.dev/p/comm_vue_nuxt/feed"/>
 </body>
 </opml>
