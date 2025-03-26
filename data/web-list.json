@@ -131,7 +131,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 22,
+    "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -472,6 +472,23 @@
   },
   {
     "count": 7,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "news",
+      "Rust",
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Biome v2.0 beta | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-0-beta/"
+    },
+    "rssUrl": "https://biomejs.dev/feed.xml"
+  },
+  {
+    "count": 7,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -558,23 +575,6 @@
       "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
     },
     "rssUrl": "https://efcl.info/feed/"
-  },
-  {
-    "count": 6,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "news",
-      "Rust",
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Biome v1.9 Anniversary Release | Biome",
-      "url": "https://biomejs.dev/blog/biome-v1-9/"
-    },
-    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 6,
@@ -2229,19 +2229,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/gvergnaud/hotscript",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "gvergnaud/hotscript: A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.",
-      "url": "https://github.com/gvergnaud/hotscript"
-    },
-    "rssUrl": "https://github.com/gvergnaud/hotscript/releases.atom"
   },
   {
     "count": 1,

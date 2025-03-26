@@ -784,12 +784,6 @@
     ]
   },
   {
-    "url": "https://github.com/gvergnaud/hotscript",
-    "feeds": [
-      "https://github.com/gvergnaud/hotscript/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mamiksik/parrot-intellij",
     "feeds": [
       "https://github.com/mamiksik/parrot-intellij/releases.atom"
