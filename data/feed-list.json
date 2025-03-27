@@ -784,18 +784,6 @@
     ]
   },
   {
-    "url": "https://github.com/mamiksik/parrot-intellij",
-    "feeds": [
-      "https://github.com/mamiksik/parrot-intellij/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/sinclairnick/brail",
-    "feeds": [
-      "https://github.com/sinclairnick/brail/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mayank99/ecsstatic",
     "feeds": [
       "https://github.com/mayank99/ecsstatic/releases.atom"
