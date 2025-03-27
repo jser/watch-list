@@ -238,20 +238,6 @@
   },
   {
     "count": 12,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-02 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/02/24/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -337,6 +323,20 @@
     "example": {
       "title": "Angular: The Documentary | An origin story - YouTube",
       "url": "https://www.youtube.com/watch?v=cRC9DlH45lA"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-02 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/02/24/ecmascript-proposal-update"
     }
   },
   {
@@ -2151,62 +2151,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://superflare.dev",
-    "tags": [
-      "cloudflare",
-      "node.js",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "Hello, Superflare",
-      "url": "https://superflare.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mamiksik/parrot-intellij",
-    "tags": [
-      "JetBrains",
-      "plugin",
-      "LanguageModel"
-    ],
-    "example": {
-      "title": "mamiksik/parrot-intellij: AI Commit Messages Autocomplete for InteliJ",
-      "url": "https://github.com/mamiksik/parrot-intellij"
-    },
-    "rssUrl": "https://github.com/mamiksik/parrot-intellij/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/sinclairnick/brail",
-    "tags": [
-      "React",
-      "mail",
-      "library",
-      "Tools"
-    ],
-    "example": {
-      "title": "sinclairnick/brail: 💌 Transactional email that feels different",
-      "url": "https://github.com/sinclairnick/brail"
-    },
-    "rssUrl": "https://github.com/sinclairnick/brail/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://peaks.cc",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "book"
-    ],
-    "example": {
-      "title": "PEAKS（ピークス）｜Jestではじめるテスト入門",
-      "url": "https://peaks.cc/books/testing_with_jest"
     }
   },
   {

@@ -131,8 +131,6 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/mamiksik/parrot-intellij" title="github.com/mamiksik/parrot-intellij" type="rss" xmlUrl="https://github.com/mamiksik/parrot-intellij/releases.atom"/>
-<outline text="github.com/sinclairnick/brail" title="github.com/sinclairnick/brail" type="rss" xmlUrl="https://github.com/sinclairnick/brail/releases.atom"/>
 <outline text="github.com/mayank99/ecsstatic" title="github.com/mayank99/ecsstatic" type="rss" xmlUrl="https://github.com/mayank99/ecsstatic/releases.atom"/>
 <outline text="github.com/lxsmnsyc/seroval" title="github.com/lxsmnsyc/seroval" type="rss" xmlUrl="https://github.com/lxsmnsyc/seroval/releases.atom"/>
 <outline text="github.com/wantedly/react-declassify" title="github.com/wantedly/react-declassify" type="rss" xmlUrl="https://github.com/wantedly/react-declassify/releases.atom"/>
