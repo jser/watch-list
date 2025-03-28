@@ -784,12 +784,6 @@
     ]
   },
   {
-    "url": "https://github.com/mayank99/ecsstatic",
-    "feeds": [
-      "https://github.com/mayank99/ecsstatic/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lxsmnsyc/seroval",
     "feeds": [
       "https://github.com/lxsmnsyc/seroval/releases.atom"
