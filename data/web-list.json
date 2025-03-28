@@ -75,6 +75,22 @@
   },
   {
     "count": 26,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "V8",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "A 10x Faster TypeScript - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 25,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -92,22 +108,6 @@
       "url": "https://deno.com/blog/v2.2"
     },
     "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "V8",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "A 10x Faster TypeScript - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 24,
@@ -220,6 +220,21 @@
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
+    "count": 14,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js Support Policy | Next.js by Vercel - The React Framework",
+      "url": "https://nextjs.org/support-policy"
+    }
+  },
+  {
     "count": 13,
     "url": "https://www.electronjs.org",
     "tags": [
@@ -232,19 +247,6 @@
       "url": "https://www.electronjs.org/blog/electron-35-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 13,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 15.2 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-2"
-    }
   },
   {
     "count": 12,
@@ -395,32 +397,6 @@
   },
   {
     "count": 8,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "node.js",
-      "article",
-      "console",
-      "Tools",
-      "ReleaseNote",
-      "HTTP3",
-      "performance",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test",
-      "Hono"
-    ],
-    "example": {
-      "title": "The story of web framework Hono, from the creator of Hono",
-      "url": "https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 8,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -454,6 +430,32 @@
       "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
     },
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "console",
+      "Tools",
+      "ReleaseNote",
+      "HTTP3",
+      "performance",
+      "article",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "Hono",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/improving-web-standards-urlpattern/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -2229,19 +2231,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mayank99/ecsstatic",
-    "tags": [
-      "CSS",
-      "vite"
-    ],
-    "example": {
-      "title": "mayank99/ecsstatic: the predefinite CSS-in-JS library for vite",
-      "url": "https://github.com/mayank99/ecsstatic"
-    },
-    "rssUrl": "https://github.com/mayank99/ecsstatic/releases.atom"
   },
   {
     "count": 1,
