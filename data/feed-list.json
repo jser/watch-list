@@ -520,15 +520,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {

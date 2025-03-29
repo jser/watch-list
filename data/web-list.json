@@ -46,19 +46,19 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 41,
+    "count": 40,
     "url": "https://developer.chrome.com",
     "tags": [
-      "browser",
-      "JavaScript",
-      "article",
       "CSS",
+      "article",
       "Chrome",
       "ReleaseNote",
       "debug",
+      "browser",
       "HTML",
       "testing",
       "Tools",
+      "JavaScript",
       "performance",
       "WebGL",
       "WebGPU",
@@ -110,7 +110,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 24,
+    "count": 23,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -131,7 +131,19 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 21,
+    "count": 20,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 136.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/136.0/releasenotes/"
+    }
+  },
+  {
+    "count": 20,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -143,18 +155,6 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.6.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 20,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 136.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/136.0/releasenotes/"
-    }
   },
   {
     "count": 18,
@@ -266,41 +266,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "CSS",
-      "bundler",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.25.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.0"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 11,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "article",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt UI v3 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/nuxt-ui-v3"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 11,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -353,6 +318,41 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/02/24/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 10,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt UI v3 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/nuxt-ui-v3"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "Tools",
+      "ReleaseNote",
+      "bundler",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.25.0 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.0"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 9,
