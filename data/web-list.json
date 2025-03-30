@@ -19,7 +19,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 53,
+    "count": 54,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -40,8 +40,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.5 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.5"
+      "title": "Bun v1.2.7 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.7"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -110,7 +110,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -122,11 +122,12 @@
       "benchmark",
       "performance",
       "webkit",
-      "privacy"
+      "privacy",
+      "css"
     ],
     "example": {
-      "title": "Release Notes for Safari Technology Preview 215 | WebKit",
-      "url": "https://webkit.org/blog/16523/release-notes-for-safari-technology-preview-215/"
+      "title": "Item Flow, Part 1: A new unified concept for layout | WebKit",
+      "url": "https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -741,6 +742,23 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "npm",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · lerna-lite/lerna-lite",
+      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -957,6 +975,20 @@
   },
   {
     "count": 4,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "webpack"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.3 - Rspack",
+      "url": "https://rspack.dev/blog/announcing-1-3"
+    },
+    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
+  },
+  {
+    "count": 4,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -1002,22 +1034,6 @@
       "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02-28"
     },
     "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "npm"
-    ],
-    "example": {
-      "title": "Release v3.11.0 · lerna-lite/lerna-lite",
-      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v3.11.0"
-    },
-    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 3,
@@ -1327,6 +1343,20 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "React",
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Release 19.1.0 (March 28, 2025) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/v19.1.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/chakra-ui/ark",
     "tags": [
       "JavaScript",
@@ -1355,20 +1385,6 @@
       "url": "https://blog.angular.dev/angular-2025-strategy-9ca333dfc334"
     },
     "rssUrl": "https://blog.angular.dev/feed"
-  },
-  {
-    "count": 3,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "webpack"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.2 - Rspack",
-      "url": "https://rspack.dev/blog/announcing-1-2"
-    },
-    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
   },
   {
     "count": 3,
@@ -2005,6 +2021,20 @@
   },
   {
     "count": 2,
+    "url": "https://rsdoctor.dev",
+    "tags": [
+      "webpack",
+      "rspack",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rsdoctor 1.0 - Rsdoctor",
+      "url": "https://rsdoctor.dev/blog/release/release-note-1_0"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -2036,20 +2066,6 @@
       "url": "https://www.w3.org/news/2024/first-public-working-draft-web-audio-api-1-1/"
     },
     "rssUrl": "https://www.w3.org/WAI/feed.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Release eslint-plugin-react-hooks@5.0.0 (Oct 11, 2024) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/eslint-plugin-react-hooks%405.0.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 2,
@@ -2231,22 +2247,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://moonrepo.dev",
-    "tags": [
-      "monorepo",
-      "Rust",
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "moon v1.0 - Official release! Project constraints, tagging, and more! | moonrepo",
-      "url": "https://moonrepo.dev/blog/moon-v1.0"
-    },
-    "rssUrl": "https://moonrepo.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -5954,19 +5954,6 @@
       "url": "https://rsbuild.dev/community/releases/v0-5"
     },
     "rssUrl": "https://rsbuild.dev/rss/releases.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://rsdoctor.dev",
-    "tags": [
-      "webpack",
-      "rspack",
-      "Tools"
-    ],
-    "example": {
-      "title": "Rsdoctor",
-      "url": "https://rsdoctor.dev/"
-    }
   },
   {
     "count": 1,
