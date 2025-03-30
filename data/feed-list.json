@@ -574,6 +574,12 @@
     ]
   },
   {
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "feeds": [
+      "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -622,12 +628,6 @@
     ]
   },
   {
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "feeds": [
-      "https://github.com/lerna-lite/lerna-lite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
@@ -655,6 +655,12 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
@@ -745,12 +751,6 @@
     "url": "https://github.com/expressjs/express",
     "feeds": [
       "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/react",
-    "feeds": [
-      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
@@ -2087,13 +2087,6 @@
     "url": "https://moderncss.dev",
     "feeds": [
       "https://moderncss.dev/feed/"
-    ]
-  },
-  {
-    "url": "https://moonrepo.dev",
-    "feeds": [
-      "https://moonrepo.dev/blog/rss.xml",
-      "https://moonrepo.dev/blog/atom.xml"
     ]
   },
   {
