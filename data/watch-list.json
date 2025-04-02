@@ -686,6 +686,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote",
+      "spec",
+      "news"
+    ],
+    "example": {
+      "title": "Release ES2025 Candidate March 31st 2025 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2025-candidate-2025-03-31"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://wasmer.io",
     "tags": [
       "WebAssembly",
@@ -984,21 +999,6 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v1.9.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote",
-      "spec",
-      "news"
-    ],
-    "example": {
-      "title": "Release ES2024 Candidate February 28th 2024 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02-28"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 3,
@@ -8791,5 +8791,19 @@
       "title": "Functions in CSS?! | CSS-Tricks",
       "url": "https://css-tricks.com/functions-in-css/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "tags": [
+      "css",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.1.0 · tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.0"
+    },
+    "rssUrl": "https://github.com/tailwindlabs/tailwindcss/releases.atom"
   }
 ]

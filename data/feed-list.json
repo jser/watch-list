@@ -568,6 +568,12 @@
     ]
   },
   {
+    "url": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
@@ -619,12 +625,6 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -1891,6 +1891,12 @@
     "url": "https://github.com/inokawa/virtua",
     "feeds": [
       "https://github.com/inokawa/virtua/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "feeds": [
+      "https://github.com/tailwindlabs/tailwindcss/releases.atom"
     ]
   },
   {
