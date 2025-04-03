@@ -1371,19 +1371,6 @@
   },
   {
     "count": 2,
-    "url": "https://rome.tools",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Rome v12.1.0",
-      "url": "https://rome.tools/blog/2023/05/10/rome12_1/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://blog.stackblitz.com",
     "tags": [
       "JavaScript",
@@ -2733,6 +2720,19 @@
       "url": "https://github.com/jasmine/jasmine/blob/main/release_notes/5.0.0.md"
     },
     "rssUrl": "https://github.com/jasmine/jasmine/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://rome.tools",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Rome v12.1.0",
+      "url": "https://rome.tools/blog/2023/05/10/rome12_1/"
+    }
   },
   {
     "count": 1,
