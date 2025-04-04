@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -13,8 +13,8 @@
       "TypeScript"
     ],
     "example": {
-      "title": "Node.js — Node v23.10.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v23.10.0"
+      "title": "Node.js — Node v23.11.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v23.11.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -132,15 +132,15 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 136.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/136.0/releasenotes/"
+      "title": "Firefox 137.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/137.0/releasenotes/"
     }
   },
   {
@@ -398,24 +398,6 @@
   },
   {
     "count": 8,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "article",
-      "TypeScript",
-      "document",
-      "ReleaseNote",
-      "babel",
-      "news"
-    ],
-    "example": {
-      "title": "Sunsetting Create React App – React",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 8,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "webpack",
@@ -472,6 +454,24 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.41.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 7,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "article",
+      "TypeScript",
+      "document",
+      "ReleaseNote",
+      "babel",
+      "news"
+    ],
+    "example": {
+      "title": "Sunsetting Create React App – React",
+      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 7,
@@ -709,21 +709,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote",
-      "spec",
-      "news"
-    ],
-    "example": {
-      "title": "Release ES2025 Candidate March 31st 2025 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2025-candidate-2025-03-31"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 4,
@@ -976,6 +961,23 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "JavaScript",
+      "ShellScript",
+      "library",
+      "ReleaseNote",
+      "nodejs",
+      "Tools"
+    ],
+    "example": {
+      "title": "Release 8.5.0 — Flow Splitter · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.5.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -1018,22 +1020,6 @@
       "url": "https://oxc.rs/blog/2025-03-15-oxlint-beta.html"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/solidjs/solid",
-    "tags": [
-      "JavaScript",
-      "React",
-      "ReleaseNote",
-      "Solid",
-      "library"
-    ],
-    "example": {
-      "title": "Release v1.9.0 - LGTM! · solidjs/solid",
-      "url": "https://github.com/solidjs/solid/releases/tag/v1.9.0"
-    },
-    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
   },
   {
     "count": 3,
@@ -1327,19 +1313,18 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/google/zx",
+    "url": "https://github.com/tc39/ecma262",
     "tags": [
-      "JavaScript",
-      "ShellScript",
-      "library",
+      "ECMAScript",
+      "spec",
       "ReleaseNote",
-      "nodejs"
+      "news"
     ],
     "example": {
-      "title": "Release 8.3.0 – Pipes of Steel · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/8.3.0"
+      "title": "Release ES2025 Candidate March 31st 2025 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2025-candidate-2025-03-31"
     },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 3,
@@ -1750,6 +1735,21 @@
       "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/rollup/rollup/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/solidjs/solid",
+    "tags": [
+      "Solid",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.9.0 - LGTM! · solidjs/solid",
+      "url": "https://github.com/solidjs/solid/releases/tag/v1.9.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
   },
   {
     "count": 2,
@@ -2234,34 +2234,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/lxsmnsyc/seroval",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "lxsmnsyc/seroval: Stringify JS values",
-      "url": "https://github.com/lxsmnsyc/seroval"
-    },
-    "rssUrl": "https://github.com/lxsmnsyc/seroval/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://tech.high-link.co.jp",
-    "tags": [
-      "Next.js",
-      "rails",
-      "article",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "RailsアプリのフロントエンドをじわじわとNext.jsにリプレースした話と、その振り返り - High Link テックブログ",
-      "url": "https://tech.high-link.co.jp/entry/Rails-application-replace-Next.js"
-    },
-    "rssUrl": "https://tech.high-link.co.jp/feed"
   },
   {
     "count": 1,

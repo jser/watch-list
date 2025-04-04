@@ -568,12 +568,6 @@
     ]
   },
   {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
@@ -622,9 +616,9 @@
     ]
   },
   {
-    "url": "https://github.com/solidjs/solid",
+    "url": "https://github.com/google/zx",
     "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
+      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
@@ -652,9 +646,9 @@
     ]
   },
   {
-    "url": "https://github.com/google/zx",
+    "url": "https://github.com/tc39/ecma262",
     "feeds": [
-      "https://github.com/google/zx/releases.atom"
+      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -709,6 +703,12 @@
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
@@ -781,12 +781,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/lxsmnsyc/seroval",
-    "feeds": [
-      "https://github.com/lxsmnsyc/seroval/releases.atom"
     ]
   },
   {
@@ -2475,13 +2469,6 @@
     "feeds": [
       "https://tduyng.com/atom.xml",
       "https://tduyng.com/tags/rss/"
-    ]
-  },
-  {
-    "url": "https://tech.high-link.co.jp",
-    "feeds": [
-      "https://tech.high-link.co.jp/feed",
-      "https://tech.high-link.co.jp/rss"
     ]
   },
   {
