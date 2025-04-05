@@ -19,12 +19,12 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 54,
+    "count": 53,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "ReleaseNote",
       "bundler",
+      "ReleaseNote",
       "article",
       "CommonJS",
       "ECMAScript",
@@ -46,14 +46,14 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 40,
+    "count": 39,
     "url": "https://developer.chrome.com",
     "tags": [
-      "CSS",
-      "article",
       "Chrome",
       "ReleaseNote",
       "debug",
+      "article",
+      "CSS",
       "browser",
       "HTML",
       "testing",
@@ -194,13 +194,11 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 16,
+    "count": 15,
     "url": "https://web.dev",
     "tags": [
-      "sourcemap",
-      "article",
-      "debug",
       "browser",
+      "article",
       "performance",
       "Chrome",
       "Extension",
@@ -2234,20 +2232,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/wantedly/react-declassify",
-    "tags": [
-      "React",
-      "JavaScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "wantedly/react-declassify: say goodbye to class components",
-      "url": "https://github.com/wantedly/react-declassify"
-    },
-    "rssUrl": "https://github.com/wantedly/react-declassify/releases.atom"
   },
   {
     "count": 1,
