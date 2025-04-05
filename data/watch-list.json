@@ -18,12 +18,12 @@
     }
   },
   {
-    "count": 54,
+    "count": 53,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "ReleaseNote",
       "bundler",
+      "ReleaseNote",
       "article",
       "CommonJS",
       "ECMAScript",
@@ -44,14 +44,14 @@
     }
   },
   {
-    "count": 40,
+    "count": 39,
     "url": "https://developer.chrome.com",
     "tags": [
-      "CSS",
-      "article",
       "Chrome",
       "ReleaseNote",
       "debug",
+      "article",
+      "CSS",
       "browser",
       "HTML",
       "testing",
@@ -186,13 +186,11 @@
     }
   },
   {
-    "count": 16,
+    "count": 15,
     "url": "https://web.dev",
     "tags": [
-      "sourcemap",
-      "article",
-      "debug",
       "browser",
+      "article",
       "performance",
       "Chrome",
       "Extension",
@@ -2157,20 +2155,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/wantedly/react-declassify",
-    "tags": [
-      "React",
-      "JavaScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "wantedly/react-declassify: say goodbye to class components",
-      "url": "https://github.com/wantedly/react-declassify"
-    },
-    "rssUrl": "https://github.com/wantedly/react-declassify/releases.atom"
   },
   {
     "count": 1,

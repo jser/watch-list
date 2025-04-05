@@ -784,12 +784,6 @@
     ]
   },
   {
-    "url": "https://github.com/wantedly/react-declassify",
-    "feeds": [
-      "https://github.com/wantedly/react-declassify/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/unjs/magicast",
     "feeds": [
       "https://github.com/unjs/magicast/releases.atom"
