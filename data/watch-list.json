@@ -2086,6 +2086,18 @@
   },
   {
     "count": 2,
+    "url": "https://expressjs.com",
+    "tags": [
+      "express",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Express@5.1.0: Now the Default on npm with LTS Timeline",
+      "url": "https://expressjs.com/2025/03/31/v5-1-latest-release.html"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://piccalil.li",
     "tags": [
       "css ",
@@ -2155,20 +2167,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/unjs/magicast",
-    "tags": [
-      "JavaScript",
-      "AST",
-      "library"
-    ],
-    "example": {
-      "title": "unjs/magicast: 🧀 Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.",
-      "url": "https://github.com/unjs/magicast"
-    },
-    "rssUrl": "https://github.com/unjs/magicast/releases.atom"
   },
   {
     "count": 1,
@@ -7580,18 +7578,6 @@
   },
   {
     "count": 1,
-    "url": "https://expressjs.com",
-    "tags": [
-      "express",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing Express v5: A New Era for Node.js Framework",
-      "url": "https://expressjs.com/2024/10/15/v5-release.html"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/pmndrs/zustand",
     "tags": [
       "JavaScript",
@@ -8762,5 +8748,20 @@
       "url": "https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/tailwindlabs/tailwindcss/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/harrysolovay/standard-json-schema",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "JSON",
+      "library"
+    ],
+    "example": {
+      "title": "harrysolovay/standard-json-schema: Turn standard types into JSON schemas",
+      "url": "https://github.com/harrysolovay/standard-json-schema"
+    },
+    "rssUrl": "https://github.com/harrysolovay/standard-json-schema/releases.atom"
   }
 ]
