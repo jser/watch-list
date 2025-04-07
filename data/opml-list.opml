@@ -37,7 +37,6 @@
 <outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
 <outline text="blog.platformatic.dev" title="blog.platformatic.dev" type="rss" xmlUrl="https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
-<outline text="blog.s2n.tech" title="blog.s2n.tech" type="rss" xmlUrl="https://blog.s2n.tech/feed"/>
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
 <outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
 <outline text="blog.stackblitz.com" title="blog.stackblitz.com" type="rss" xmlUrl="https://blog.stackblitz.com/rss.xml"/>
@@ -242,7 +241,6 @@
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
-<outline text="zenn.dev/teppeis/" title="zenn.dev/teppeis/" type="rss" xmlUrl="https://zenn.dev/teppeis/feed"/>
 <outline text="zenn.dev/chot/" title="zenn.dev/chot/" type="rss" xmlUrl="https://zenn.dev/p/chot/feed"/>
 <outline text="zenn.dev/wakamsha/" title="zenn.dev/wakamsha/" type="rss" xmlUrl="https://zenn.dev/wakamsha/feed"/>
 <outline text="zenn.dev/taisei_13046/" title="zenn.dev/taisei_13046/" type="rss" xmlUrl="https://zenn.dev/taisei_13046/feed"/>

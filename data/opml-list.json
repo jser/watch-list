@@ -207,12 +207,6 @@
     ]
   },
   {
-    "url": "https://blog.s2n.tech",
-    "feeds": [
-      "https://blog.s2n.tech/feed"
-    ]
-  },
-  {
     "url": "https://blog.saeloun.com",
     "feeds": [
       "https://blog.saeloun.com/feed.xml"
@@ -1530,12 +1524,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/teppeis/",
-    "feeds": [
-      "https://zenn.dev/teppeis/feed"
     ]
   },
   {
