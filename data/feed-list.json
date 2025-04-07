@@ -207,12 +207,6 @@
     ]
   },
   {
-    "url": "https://blog.s2n.tech",
-    "feeds": [
-      "https://blog.s2n.tech/feed"
-    ]
-  },
-  {
     "url": "https://blog.saeloun.com",
     "feeds": [
       "https://blog.saeloun.com/feed.xml"
@@ -1876,15 +1870,27 @@
     ]
   },
   {
+    "url": "https://github.com/harrysolovay/standard-json-schema",
+    "feeds": [
+      "https://github.com/harrysolovay/standard-json-schema/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/tailwindlabs/tailwindcss",
     "feeds": [
       "https://github.com/tailwindlabs/tailwindcss/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/harrysolovay/standard-json-schema",
+    "url": "https://github.com/bytecodealliance/StarlingMonkey",
     "feeds": [
-      "https://github.com/harrysolovay/standard-json-schema/releases.atom"
+      "https://github.com/bytecodealliance/StarlingMonkey/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/holepunchto/bare",
+    "feeds": [
+      "https://github.com/holepunchto/bare/releases.atom"
     ]
   },
   {
@@ -2933,12 +2939,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/teppeis/",
-    "feeds": [
-      "https://zenn.dev/teppeis/feed"
     ]
   },
   {

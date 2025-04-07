@@ -87,6 +87,27 @@
   },
   {
     "count": 25,
+    "url": "https://webkit.org",
+    "tags": [
+      "JavaScript",
+      "article",
+      "safari",
+      "ReleaseNote",
+      "CSS",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "Meet Declarative Web Push | WebKit",
+      "url": "https://webkit.org/blog/16535/meet-declarative-web-push/"
+    }
+  },
+  {
+    "count": 25,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -102,27 +123,6 @@
     "example": {
       "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
       "url": "https://deno.com/blog/v2.2"
-    }
-  },
-  {
-    "count": 24,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "CSS",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "Item Flow, Part 1: A new unified concept for layout | WebKit",
-      "url": "https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/"
     }
   },
   {
@@ -225,19 +225,6 @@
     }
   },
   {
-    "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 35.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-35-0"
-    }
-  },
-  {
     "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
@@ -254,23 +241,7 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
-    "count": 11,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.51.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.51.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 11,
+    "count": 12,
     "url": "https://www.youtube.com",
     "tags": [
       "JavaScript",
@@ -285,12 +256,43 @@
       "nodejs",
       "history",
       "vite",
-      "Angular"
+      "Angular",
+      "React",
+      "slide"
     ],
     "example": {
-      "title": "Angular: The Documentary | An origin story - YouTube",
-      "url": "https://www.youtube.com/watch?v=cRC9DlH45lA"
+      "title": "React Query API Design – Lessons Learned - Dominik Dorfmeister - YouTube",
+      "url": "https://www.youtube.com/watch?v=l3PxErcKeAI"
     }
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 35.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-35-0"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.51.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.51.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -827,6 +829,20 @@
   },
   {
     "count": 4,
+    "url": "https://turbo.build",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "monorepo"
+    ],
+    "example": {
+      "title": "Turborepo 2.5 | Turborepo",
+      "url": "https://turbo.build/blog/turbo-2-5"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
@@ -1039,20 +1055,6 @@
     "example": {
       "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
       "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://turbo.build",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "monorepo"
-    ],
-    "example": {
-      "title": "Turborepo 2.2",
-      "url": "https://turbo.build/blog/turbo-2-2-0"
     }
   },
   {
@@ -2166,30 +2168,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/teppeis/",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "TypeScript 5.0 で追加された verbatimModuleSyntax とは何か？",
-      "url": "https://zenn.dev/teppeis/articles/2023-04-typescript-5_0-verbatim-module-syntax"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.s2n.tech",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "TypeScript で\"moduleResolution\": \"Node\"は使わないほうがいい",
-      "url": "https://blog.s2n.tech/articles/dont-use-moduleresolution-node"
     }
   },
   {
@@ -8737,6 +8715,21 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/harrysolovay/standard-json-schema",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "JSON",
+      "library"
+    ],
+    "example": {
+      "title": "harrysolovay/standard-json-schema: Turn standard types into JSON schemas",
+      "url": "https://github.com/harrysolovay/standard-json-schema"
+    },
+    "rssUrl": "https://github.com/harrysolovay/standard-json-schema/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/tailwindlabs/tailwindcss",
     "tags": [
       "css",
@@ -8751,17 +8744,42 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/harrysolovay/standard-json-schema",
+    "url": "https://www.telerik.com",
     "tags": [
       "JavaScript",
-      "TypeScript",
-      "JSON",
-      "library"
+      "WebPlatformAPI",
+      "article"
     ],
     "example": {
-      "title": "harrysolovay/standard-json-schema: Turn standard types into JSON schemas",
-      "url": "https://github.com/harrysolovay/standard-json-schema"
+      "title": "Modern Cookie Management with the Cookie Store API",
+      "url": "https://www.telerik.com/blogs/modern-cookie-management-cookie-store-api"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/bytecodealliance/StarlingMonkey",
+    "tags": [
+      "JavaScript",
+      "WebAssembly"
+    ],
+    "example": {
+      "title": "bytecodealliance/StarlingMonkey: The StarlingMonkey JS runtime",
+      "url": "https://github.com/bytecodealliance/StarlingMonkey"
     },
-    "rssUrl": "https://github.com/harrysolovay/standard-json-schema/releases.atom"
+    "rssUrl": "https://github.com/bytecodealliance/StarlingMonkey/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/holepunchto/bare",
+    "tags": [
+      "JavaScript",
+      "nodejs",
+      "Tools"
+    ],
+    "example": {
+      "title": "holepunchto/bare: Small and modular JavaScript runtime for desktop and mobile",
+      "url": "https://github.com/holepunchto/bare"
+    },
+    "rssUrl": "https://github.com/holepunchto/bare/releases.atom"
   }
 ]
