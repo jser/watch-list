@@ -778,12 +778,6 @@
     ]
   },
   {
-    "url": "https://github.com/sveltejs/kit",
-    "feeds": [
-      "https://github.com/sveltejs/kit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/hexagon/croner",
     "feeds": [
       "https://github.com/hexagon/croner/releases.atom"

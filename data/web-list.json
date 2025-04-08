@@ -2249,19 +2249,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/sveltejs/kit",
-    "tags": [
-      "Svelte",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release @sveltejs/kit@1.15.2 · sveltejs/kit",
-      "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%401.15.2"
-    },
-    "rssUrl": "https://github.com/sveltejs/kit/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://jspm.org",
     "tags": [
       "JavaScript",
