@@ -130,7 +130,6 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/sveltejs/kit" title="github.com/sveltejs/kit" type="rss" xmlUrl="https://github.com/sveltejs/kit/releases.atom"/>
 <outline text="github.com/hexagon/croner" title="github.com/hexagon/croner" type="rss" xmlUrl="https://github.com/hexagon/croner/releases.atom"/>
 <outline text="github.com/uhyo/nitrogql" title="github.com/uhyo/nitrogql" type="rss" xmlUrl="https://github.com/uhyo/nitrogql/releases.atom"/>
 <outline text="github.com/liriliri/eruda" title="github.com/liriliri/eruda" type="rss" xmlUrl="https://github.com/liriliri/eruda/releases.atom"/>
