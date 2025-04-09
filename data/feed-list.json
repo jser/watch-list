@@ -1888,6 +1888,12 @@
     ]
   },
   {
+    "url": "https://github.com/toss/es-git",
+    "feeds": [
+      "https://github.com/toss/es-git/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -1912,6 +1918,12 @@
       "https://humanwhocodes.com/feeds/blog.xml",
       "https://humanwhocodes.com/feeds/snippets.xml",
       "https://humanwhocodes.com/feeds/all.xml"
+    ]
+  },
+  {
+    "url": "https://ics.media",
+    "feeds": [
+      "https://ics.media/feed/atom.xml"
     ]
   },
   {
