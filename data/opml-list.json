@@ -529,6 +529,12 @@
     ]
   },
   {
+    "url": "https://ics.media",
+    "feeds": [
+      "https://ics.media/feed/atom.xml"
+    ]
+  },
+  {
     "url": "https://ishadeed.com",
     "feeds": [
       "https://ishadeed.com/feed.xml"

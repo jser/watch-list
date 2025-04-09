@@ -168,7 +168,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 18,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -181,8 +181,8 @@
       "css"
     ],
     "example": {
-      "title": "ESLint now officially supports linting of CSS - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/02/eslint-css-support/"
+      "title": "Introducing bulk suppressions - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/04/introducing-bulk-suppressions/"
     }
   },
   {
@@ -210,7 +210,7 @@
     }
   },
   {
-    "count": 14,
+    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -2072,6 +2072,23 @@
   },
   {
     "count": 2,
+    "url": "https://mui.com",
+    "tags": [
+      "React",
+      "UI",
+      "library",
+      "ReleaseNote",
+      "GUI",
+      "JavaScript",
+      "css"
+    ],
+    "example": {
+      "title": "Material UI v7 is here 🚀 - MUI",
+      "url": "https://mui.com/blog/material-ui-v7-is-here/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/storybookjs/storybook",
     "tags": [
       "JavaScript",
@@ -2168,20 +2185,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://jspm.org",
-    "tags": [
-      "JavaScript",
-      "module",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "JSPM - JSPM CLI Relaunch - Import Map Package Management",
-      "url": "https://jspm.org/jspm-cli"
     }
   },
   {
@@ -7081,20 +7084,6 @@
   },
   {
     "count": 1,
-    "url": "https://mui.com",
-    "tags": [
-      "React",
-      "UI",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Material UI v6 is out now 🎉 - MUI",
-      "url": "https://mui.com/blog/material-ui-v6-is-out/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://developers.cyberagent.co.jp",
     "tags": [
       "Next.js",
@@ -8768,5 +8757,32 @@
       "url": "https://github.com/holepunchto/bare"
     },
     "rssUrl": "https://github.com/holepunchto/bare/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/toss/es-git",
+    "tags": [
+      "nodejs",
+      "Rust",
+      "git ",
+      "library"
+    ],
+    "example": {
+      "title": "toss/es-git: A modern Git library built for Node.js with blazing-fast installation and rock-solid stability, powered by N-API.",
+      "url": "https://github.com/toss/es-git"
+    },
+    "rssUrl": "https://github.com/toss/es-git/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://ics.media",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "あらためて理解するArrayBuffer - JavaScriptでバイナリデータを扱う方法 - ICS MEDIA",
+      "url": "https://ics.media/entry/250408/"
+    }
   }
 ]

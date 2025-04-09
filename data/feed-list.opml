@@ -315,10 +315,12 @@
 <outline text="github.com/tailwindlabs/tailwindcss" title="github.com/tailwindlabs/tailwindcss" type="rss" xmlUrl="https://github.com/tailwindlabs/tailwindcss/releases.atom"/>
 <outline text="github.com/bytecodealliance/StarlingMonkey" title="github.com/bytecodealliance/StarlingMonkey" type="rss" xmlUrl="https://github.com/bytecodealliance/StarlingMonkey/releases.atom"/>
 <outline text="github.com/holepunchto/bare" title="github.com/holepunchto/bare" type="rss" xmlUrl="https://github.com/holepunchto/bare/releases.atom"/>
+<outline text="github.com/toss/es-git" title="github.com/toss/es-git" type="rss" xmlUrl="https://github.com/toss/es-git/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
+<outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
 <outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
