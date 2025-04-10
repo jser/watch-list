@@ -1404,12 +1404,6 @@
     ]
   },
   {
-    "url": "https://www.nodejs-security.com",
-    "feeds": [
-      "https://www.nodejs-security.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.nray.dev",
     "feeds": [
       "https://www.nray.dev/rss.xml"

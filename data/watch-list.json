@@ -18,7 +18,7 @@
     }
   },
   {
-    "count": 53,
+    "count": 54,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -39,8 +39,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.7 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.7"
+      "title": "Bun v1.2.9 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.9"
     }
   },
   {
@@ -210,7 +210,7 @@
     }
   },
   {
-    "count": 13,
+    "count": 14,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -220,8 +220,8 @@
       "document"
     ],
     "example": {
-      "title": "Next.js Support Policy | Next.js by Vercel - The React Framework",
-      "url": "https://nextjs.org/support-policy"
+      "title": "Next.js 15.3 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-3"
     }
   },
   {
@@ -344,24 +344,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "test",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -381,6 +363,24 @@
       "title": "Storybook 8.4",
       "url": "https://storybook.js.org/blog/storybook-8-4/"
     }
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "JavaScript",
+      "library",
+      "test",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 8,
@@ -2185,19 +2185,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.nodejs-security.com",
-    "tags": [
-      "node.js",
-      "book",
-      "security"
-    ],
-    "example": {
-      "title": "Node.js Secure Coding: Defending Against Command Injection Vulnerabilities",
-      "url": "https://www.nodejs-security.com/"
     }
   },
   {
@@ -8783,6 +8770,19 @@
     "example": {
       "title": "あらためて理解するArrayBuffer - JavaScriptでバイナリデータを扱う方法 - ICS MEDIA",
       "url": "https://ics.media/entry/250408/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://v4.zod.dev",
+    "tags": [
+      "TypeScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing Zod 4 | Zod Docs",
+      "url": "https://v4.zod.dev/v4"
     }
   }
 ]
