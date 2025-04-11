@@ -44,14 +44,14 @@
     }
   },
   {
-    "count": 39,
+    "count": 38,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "ReleaseNote",
       "debug",
       "article",
       "CSS",
+      "ReleaseNote",
       "browser",
       "HTML",
       "testing",
