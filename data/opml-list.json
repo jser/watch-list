@@ -668,15 +668,15 @@
     ]
   },
   {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
-    ]
-  },
-  {
     "url": "https://medium.com/airbnb-engineering/",
     "feeds": [
       "https://medium.com/feed/airbnb-engineering"
+    ]
+  },
+  {
+    "url": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
     ]
   },
   {
@@ -1030,6 +1030,12 @@
     "feeds": [
       "https://speakerdeck.com/kirik.atom",
       "https://speakerdeck.com/kirik.rss"
+    ]
+  },
+  {
+    "url": "https://spidermonkey.dev",
+    "feeds": [
+      "https://spidermonkey.dev/feed.xml"
     ]
   },
   {
@@ -1398,12 +1404,6 @@
     ]
   },
   {
-    "url": "https://www.netlify.com",
-    "feeds": [
-      "https://www.netlify.com/community-feed.xml/"
-    ]
-  },
-  {
     "url": "https://www.nray.dev",
     "feeds": [
       "https://www.nray.dev/rss.xml"
@@ -1650,6 +1650,12 @@
     "url": "https://zenn.dev/comm_vue_nuxt/",
     "feeds": [
       "https://zenn.dev/p/comm_vue_nuxt/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/canary_techblog/",
+    "feeds": [
+      "https://zenn.dev/p/canary_techblog/feed"
     ]
   }
 ]
