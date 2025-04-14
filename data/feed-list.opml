@@ -312,6 +312,7 @@
 <outline text="github.com/holepunchto/bare" title="github.com/holepunchto/bare" type="rss" xmlUrl="https://github.com/holepunchto/bare/releases.atom"/>
 <outline text="github.com/toss/es-git" title="github.com/toss/es-git" type="rss" xmlUrl="https://github.com/toss/es-git/releases.atom"/>
 <outline text="github.com/goldbergyoni/nodejs-testing-best-practices" title="github.com/goldbergyoni/nodejs-testing-best-practices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodejs-testing-best-practices/releases.atom"/>
+<outline text="github.com/lightpanda-io/browser" title="github.com/lightpanda-io/browser" type="rss" xmlUrl="https://github.com/lightpanda-io/browser/releases.atom"/>
 <outline text="glebbahmutov.com" title="glebbahmutov.com" type="rss" xmlUrl="https://glebbahmutov.com/blog/atom.xml"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="htmx.org" title="htmx.org" type="rss" xmlUrl="https://htmx.org/atom.xml"/>

@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 64,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -9004,5 +9004,19 @@
       "url": "https://spidermonkey.dev/blog/2025/04/11/shipping-temporal.html"
     },
     "rssUrl": "https://spidermonkey.dev/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lightpanda-io/browser",
+    "tags": [
+      "zig",
+      "browser",
+      "software"
+    ],
+    "example": {
+      "title": "lightpanda-io/browser: Lightpanda: the headless browser designed for AI and automation",
+      "url": "https://github.com/lightpanda-io/browser"
+    },
+    "rssUrl": "https://github.com/lightpanda-io/browser/releases.atom"
   }
 ]

@@ -1870,6 +1870,12 @@
     ]
   },
   {
+    "url": "https://github.com/lightpanda-io/browser",
+    "feeds": [
+      "https://github.com/lightpanda-io/browser/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
