@@ -77,6 +77,7 @@
 <outline text="eh-career.com" title="eh-career.com" type="rss" xmlUrl="https://eh-career.com/feed/index.xml"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
 <outline text="evanhahn.com" title="evanhahn.com" type="rss" xmlUrl="https://evanhahn.com/blog/index.xml"/>
+<outline text="expressjs.com" title="expressjs.com" type="rss" xmlUrl="https://expressjs.com/feed.xml"/>
 <outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
 <outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
@@ -106,6 +107,7 @@
 <outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
 <outline text="lynxjs.org" title="lynxjs.org" type="rss" xmlUrl="https://lynxjs.org/rss/blog-rss.xml"/>
 <outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
+<outline text="mametter.hatenablog.com" title="mametter.hatenablog.com" type="rss" xmlUrl="https://mametter.hatenablog.com/feed"/>
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="martijnhols.nl" title="martijnhols.nl" type="rss" xmlUrl="https://martijnhols.nl/rss.xml"/>

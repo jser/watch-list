@@ -712,35 +712,20 @@
     "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
-    "count": 4,
-    "url": "https://github.com/vueuse/vueuse",
+    "count": 5,
+    "url": "https://rspack.dev",
     "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v12.3.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "Tools",
+      "rspack",
       "ReleaseNote",
-      "npm",
-      "nodejs"
+      "webpack",
+      "Next.js",
+      "article"
     ],
     "example": {
-      "title": "Release v4.0.0 · lerna-lite/lerna-lite",
-      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0"
+      "title": "Rspack joins the Next.js ecosystem - Rspack",
+      "url": "https://rspack.dev/blog/rspack-next-partner"
     },
-    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
   },
   {
     "count": 4,
@@ -992,20 +977,6 @@
   },
   {
     "count": 4,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "webpack"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.3 - Rspack",
-      "url": "https://rspack.dev/blog/announcing-1-3"
-    },
-    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
-  },
-  {
-    "count": 4,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -1254,6 +1225,23 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "npm",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · lerna-lite/lerna-lite",
+      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://www.mitsue.co.jp",
     "tags": [
       "CSS",
@@ -1407,6 +1395,20 @@
       "url": "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b"
     },
     "rssUrl": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v12.3.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 3,
@@ -2193,7 +2195,8 @@
     "example": {
       "title": "Express@5.1.0: Now the Default on npm with LTS Timeline",
       "url": "https://expressjs.com/2025/03/31/v5-1-latest-release.html"
-    }
+    },
+    "rssUrl": "https://expressjs.com/feed.xml"
   },
   {
     "count": 2,
@@ -9018,5 +9021,32 @@
       "url": "https://github.com/lightpanda-io/browser"
     },
     "rssUrl": "https://github.com/lightpanda-io/browser/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/Ray-D-Song/lexe?tab=readme-ov-file",
+    "tags": [
+      "JavaScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "Ray-D-Song/lexe: Package your Node.js application into a single executable file, but only 10MB.🔥",
+      "url": "https://github.com/Ray-D-Song/lexe?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/Ray-D-Song/lexe?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://mametter.hatenablog.com",
+    "tags": [
+      "TypeScript",
+      "book",
+      "program"
+    ],
+    "example": {
+      "title": "「型システムのしくみ」発売のお知らせ - まめめも",
+      "url": "https://mametter.hatenablog.com/entry/2025/04/10/063009"
+    },
+    "rssUrl": "https://mametter.hatenablog.com/feed"
   }
 ]
