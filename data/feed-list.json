@@ -458,6 +458,13 @@
     ]
   },
   {
+    "url": "https://expressjs.com",
+    "feeds": [
+      "https://expressjs.com/feed.xml",
+      "https://expressjs.com/vulnerabilities.xml"
+    ]
+  },
+  {
     "url": "https://firebase.blog",
     "feeds": [
       "https://firebase.blog/rss.xml"
@@ -562,18 +569,6 @@
     ]
   },
   {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "feeds": [
-      "https://github.com/lerna-lite/lerna-lite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -640,6 +635,12 @@
     ]
   },
   {
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "feeds": [
+      "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
@@ -655,6 +656,12 @@
     "url": "https://github.com/chakra-ui/ark",
     "feeds": [
       "https://github.com/chakra-ui/ark/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {
@@ -1876,6 +1883,12 @@
     ]
   },
   {
+    "url": "https://github.com/Ray-D-Song/lexe?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/Ray-D-Song/lexe?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://glebbahmutov.com",
     "feeds": [
       "https://glebbahmutov.com/blog/atom.xml"
@@ -2013,6 +2026,13 @@
     "url": "https://makojs.dev",
     "feeds": [
       "https://makojs.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://mametter.hatenablog.com",
+    "feeds": [
+      "https://mametter.hatenablog.com/feed",
+      "https://mametter.hatenablog.com/rss"
     ]
   },
   {
