@@ -2195,20 +2195,6 @@
   },
   {
     "count": 1,
-    "url": "https://htmx.org",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "</> htmx ~ htmx 1.9.0 has been released!",
-      "url": "https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/immerjs/immer",
     "tags": [
       "JavaScript",

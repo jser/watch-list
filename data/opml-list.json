@@ -522,12 +522,6 @@
     ]
   },
   {
-    "url": "https://htmx.org",
-    "feeds": [
-      "https://htmx.org/atom.xml"
-    ]
-  },
-  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
