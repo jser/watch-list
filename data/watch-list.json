@@ -152,7 +152,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -163,8 +163,8 @@
       "article"
     ],
     "example": {
-      "title": "Astro 5.0 | Astro",
-      "url": "https://astro.build/blog/astro-5/"
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
     }
   },
   {
@@ -226,6 +226,22 @@
   },
   {
     "count": 12,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "browser",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.52.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -277,22 +293,6 @@
       "title": "Electron 35.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-35-0"
     }
-  },
-  {
-    "count": 11,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.51.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.51.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -687,6 +687,25 @@
   },
   {
     "count": 5,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "CSS",
+      "article",
+      "browser",
+      "HTML",
+      "JavaScript",
+      "tutorial",
+      "accessibility",
+      "ECMAScript",
+      "css"
+    ],
+    "example": {
+      "title": "Default styles for h1 elements are changing | MDN Blog",
+      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://rspack.dev",
     "tags": [
       "rspack",
@@ -860,24 +879,6 @@
       "url": "https://github.com/axios/axios/releases/tag/v1.7.4"
     },
     "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "CSS",
-      "article",
-      "browser",
-      "HTML",
-      "JavaScript",
-      "tutorial",
-      "accessibility",
-      "ECMAScript"
-    ],
-    "example": {
-      "title": "New JavaScript Set methods | MDN Blog",
-      "url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods/"
-    }
   },
   {
     "count": 4,
@@ -2192,20 +2193,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/immerjs/immer",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · immerjs/immer",
-      "url": "https://github.com/immerjs/immer/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/immerjs/immer/releases.atom"
   },
   {
     "count": 1,
@@ -8771,6 +8758,19 @@
     "example": {
       "title": "「型システムのしくみ」発売のお知らせ - まめめも",
       "url": "https://mametter.hatenablog.com/entry/2025/04/10/063009"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://largeapps.dev",
+    "tags": [
+      "React",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Advanced React in the Wild",
+      "url": "https://largeapps.dev/case-studies/advanced/"
     }
   }
 ]
