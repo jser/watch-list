@@ -551,12 +551,6 @@
     ]
   },
   {
-    "url": "https://github.com/esm-dev/esm.sh",
-    "feeds": [
-      "https://github.com/esm-dev/esm.sh/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
@@ -578,6 +572,12 @@
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/esm-dev/esm.sh",
+    "feeds": [
+      "https://github.com/esm-dev/esm.sh/releases.atom"
     ]
   },
   {
@@ -782,12 +782,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/yoavbls/pretty-ts-errors",
-    "feeds": [
-      "https://github.com/yoavbls/pretty-ts-errors/releases.atom"
     ]
   },
   {
@@ -1883,12 +1877,6 @@
     ]
   },
   {
-    "url": "https://glebbahmutov.com",
-    "feeds": [
-      "https://glebbahmutov.com/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2505,14 +2493,6 @@
     "url": "https://techblog.yahoo.co.jp",
     "feeds": [
       "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
-    ]
-  },
-  {
-    "url": "https://timkadlec.com",
-    "feeds": [
-      "https://timkadlec.com/remembers/atom.xml",
-      "https://timkadlec.com/read/atom.xml",
-      "https://timkadlec.com/saved/atom.xml"
     ]
   },
   {

@@ -132,18 +132,6 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 21,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 137.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/137.0/releasenotes/"
-    }
-  },
-  {
     "count": 20,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -156,6 +144,18 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.6.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 20,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 137.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/137.0/releasenotes/"
+    }
   },
   {
     "count": 19,
@@ -616,21 +616,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/esm-dev/esm.sh",
-    "tags": [
-      "cdn",
-      "JavaScript",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v136 · esm-dev/esm.sh",
-      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
-    },
-    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "Remix",
@@ -811,6 +796,21 @@
       "url": "https://github.com/jsdom/jsdom/releases/tag/26.0.0"
     },
     "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/esm-dev/esm.sh",
+    "tags": [
+      "JavaScript",
+      "cdn",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v136 · esm-dev/esm.sh",
+      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
+    },
+    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
   },
   {
     "count": 4,
@@ -2272,47 +2272,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/yoavbls/pretty-ts-errors",
-    "tags": [
-      "TypeScript",
-      "VSCode",
-      "Extension"
-    ],
-    "example": {
-      "title": "yoavbls/pretty-ts-errors: 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀",
-      "url": "https://github.com/yoavbls/pretty-ts-errors"
-    },
-    "rssUrl": "https://github.com/yoavbls/pretty-ts-errors/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://timkadlec.com",
-    "tags": [
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "The Performance Golden Rule Revisited - Web Performance Consulting | TimKadlec.com",
-      "url": "https://timkadlec.com/remembers/2023-04-10-the-golden-rule-revisited/"
-    },
-    "rssUrl": "https://timkadlec.com/remembers/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://glebbahmutov.com",
-    "tags": [
-      "node.js",
-      "article",
-      "testing"
-    ],
-    "example": {
-      "title": "Trying Node.js Test Runner | Better world by better software",
-      "url": "https://glebbahmutov.com/blog/trying-node-test-runner/"
-    },
-    "rssUrl": "https://glebbahmutov.com/blog/atom.xml"
   },
   {
     "count": 1,
