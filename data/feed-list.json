@@ -440,12 +440,6 @@
     ]
   },
   {
-    "url": "https://eh-career.com",
-    "feeds": [
-      "https://eh-career.com/feed/index.xml"
-    ]
-  },
-  {
     "url": "https://eslint.org",
     "feeds": [
       "https://eslint.org/feed.xml"
@@ -782,12 +776,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/HeyPuter/kv.js",
-    "feeds": [
-      "https://github.com/HeyPuter/kv.js/releases.atom"
     ]
   },
   {
