@@ -1,6 +1,6 @@
 [
   {
-    "count": 64,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -71,21 +71,6 @@
     }
   },
   {
-    "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "V8",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "A 10x Faster TypeScript - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-    }
-  },
-  {
     "count": 25,
     "url": "https://webkit.org",
     "tags": [
@@ -123,6 +108,21 @@
     "example": {
       "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
       "url": "https://deno.com/blog/v2.2"
+    }
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "V8",
+      "performance",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "A 10x Faster TypeScript - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
     }
   },
   {
@@ -283,6 +283,20 @@
   },
   {
     "count": 12,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-04 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -292,20 +306,6 @@
     "example": {
       "title": "Electron 35.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-35-0"
-    }
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-02 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/02/24/ecmascript-proposal-update"
     }
   },
   {
@@ -2192,32 +2192,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/HeyPuter/kv.js",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "HeyPuter/kv.js: Advanced in-memory caching module for JavaScript. For when you need caching but running Redis or Memcached would be an overkill.",
-      "url": "https://github.com/HeyPuter/kv.js"
-    },
-    "rssUrl": "https://github.com/HeyPuter/kv.js/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://eh-career.com",
-    "tags": [
-      "Next.js",
-      "tutorial",
-      "article"
-    ],
-    "example": {
-      "title": "新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう - エンジニアHub｜Webエンジニアのキャリアを考える！",
-      "url": "https://eh-career.com/engineerhub/entry/2023/04/18/093000"
     }
   },
   {

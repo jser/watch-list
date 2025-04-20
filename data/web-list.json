@@ -1,6 +1,6 @@
 [
   {
-    "count": 64,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -74,22 +74,6 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 26,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "V8",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "A 10x Faster TypeScript - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
     "count": 25,
     "url": "https://webkit.org",
     "tags": [
@@ -130,6 +114,22 @@
       "url": "https://deno.com/blog/v2.2"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "V8",
+      "performance",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "A 10x Faster TypeScript - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 20,
@@ -293,6 +293,21 @@
   },
   {
     "count": 12,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-04 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -304,21 +319,6 @@
       "url": "https://www.electronjs.org/blog/electron-35-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-02 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/02/24/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 10,
@@ -2272,33 +2272,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/HeyPuter/kv.js",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "HeyPuter/kv.js: Advanced in-memory caching module for JavaScript. For when you need caching but running Redis or Memcached would be an overkill.",
-      "url": "https://github.com/HeyPuter/kv.js"
-    },
-    "rssUrl": "https://github.com/HeyPuter/kv.js/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://eh-career.com",
-    "tags": [
-      "Next.js",
-      "tutorial",
-      "article"
-    ],
-    "example": {
-      "title": "新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう - エンジニアHub｜Webエンジニアのキャリアを考える！",
-      "url": "https://eh-career.com/engineerhub/entry/2023/04/18/093000"
-    },
-    "rssUrl": "https://eh-career.com/feed/index.xml"
   },
   {
     "count": 1,
