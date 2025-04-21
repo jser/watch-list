@@ -1865,6 +1865,12 @@
     ]
   },
   {
+    "url": "https://github.com/slevithan/oniguruma-to-es",
+    "feeds": [
+      "https://github.com/slevithan/oniguruma-to-es/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

@@ -8965,5 +8965,19 @@
       "title": "Advanced React in the Wild",
       "url": "https://largeapps.dev/case-studies/advanced/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/slevithan/oniguruma-to-es",
+    "tags": [
+      "JavaScript",
+      "library",
+      "RegExp"
+    ],
+    "example": {
+      "title": "slevithan/oniguruma-to-es: Convert patterns from Oniguruma (the regex flavor used by Ruby, TextMate grammars, etc.) to native JavaScript RegExp",
+      "url": "https://github.com/slevithan/oniguruma-to-es"
+    },
+    "rssUrl": "https://github.com/slevithan/oniguruma-to-es/releases.atom"
   }
 ]
