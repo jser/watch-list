@@ -1013,19 +1013,6 @@
   },
   {
     "count": 3,
-    "url": "https://vitejs.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 5.1 is out! | Vite",
-      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
-    },
-    "rssUrl": "https://vitejs.dev/blog.rss"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/redwoodjs/redwood",
     "tags": [
       "JavaScript",
@@ -1836,6 +1823,19 @@
       "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
     },
     "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://vitejs.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vite 5.1 is out! | Vite",
+      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
+    },
+    "rssUrl": "https://vitejs.dev/blog.rss"
   },
   {
     "count": 2,
