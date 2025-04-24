@@ -557,12 +557,6 @@
     ]
   },
   {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
@@ -632,6 +626,12 @@
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -1868,6 +1868,12 @@
     "url": "https://github.com/slevithan/oniguruma-to-es",
     "feeds": [
       "https://github.com/slevithan/oniguruma-to-es/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/fastify/fastify-vite",
+    "feeds": [
+      "https://github.com/fastify/fastify-vite/releases.atom"
     ]
   },
   {
