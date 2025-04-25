@@ -126,7 +126,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -134,8 +134,8 @@
       "performance"
     ],
     "example": {
-      "title": "Release pnpm 10.6 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.6.0"
+      "title": "Release pnpm 10.9 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.9.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -388,6 +388,23 @@
   },
   {
     "count": 8,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "article",
+      "TypeScript",
+      "document",
+      "ReleaseNote",
+      "babel",
+      "news"
+    ],
+    "example": {
+      "title": "React Labs: View Transitions, Activity, and more – React",
+      "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more"
+    }
+  },
+  {
+    "count": 8,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "webpack",
@@ -439,23 +456,6 @@
     "example": {
       "title": "Storybook 8.4",
       "url": "https://storybook.js.org/blog/storybook-8-4/"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "article",
-      "TypeScript",
-      "document",
-      "ReleaseNote",
-      "babel",
-      "news"
-    ],
-    "example": {
-      "title": "Sunsetting Create React App – React",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
     }
   },
   {
@@ -8735,5 +8735,18 @@
       "url": "https://github.com/fastify/fastify-vite/releases/tag/react-v1.0.0"
     },
     "rssUrl": "https://github.com/fastify/fastify-vite/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.developerway.com",
+    "tags": [
+      "css",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Tailwind vs Linaria: Performance Investigation",
+      "url": "https://www.developerway.com/posts/tailwind-vs-linaria-performance"
+    }
   }
 ]

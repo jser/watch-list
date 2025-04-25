@@ -1299,6 +1299,12 @@
     ]
   },
   {
+    "url": "https://www.developerway.com",
+    "feeds": [
+      "https://www.developerway.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.electronjs.org",
     "feeds": [
       "https://www.electronjs.org/blog/rss.xml",
