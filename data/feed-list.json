@@ -2679,6 +2679,12 @@
     ]
   },
   {
+    "url": "https://www.developerway.com",
+    "feeds": [
+      "https://www.developerway.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.ecma-international.org",
     "feeds": [
       "https://ecma-international.org/feed/",
