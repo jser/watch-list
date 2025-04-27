@@ -75,12 +75,6 @@
     ]
   },
   {
-    "url": "https://bhch.github.io",
-    "feeds": [
-      "https://bhch.github.io/feeds/atom.xml"
-    ]
-  },
-  {
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"
@@ -557,6 +551,12 @@
     ]
   },
   {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
@@ -578,12 +578,6 @@
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -1877,6 +1871,18 @@
     ]
   },
   {
+    "url": "https://github.com/Nom-nom-hub/flash-install",
+    "feeds": [
+      "https://github.com/Nom-nom-hub/flash-install/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/andrewmd5/hako",
+    "feeds": [
+      "https://github.com/andrewmd5/hako/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2147,12 +2153,6 @@
     "feeds": [
       "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml",
       "https://pavel-romanov.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://pawelgrzybek.com",
-    "feeds": [
-      "https://pawelgrzybek.com/feed.xml"
     ]
   },
   {
