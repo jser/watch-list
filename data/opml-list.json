@@ -75,12 +75,6 @@
     ]
   },
   {
-    "url": "https://bhch.github.io",
-    "feeds": [
-      "https://bhch.github.io/feeds/atom.xml"
-    ]
-  },
-  {
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"
@@ -773,12 +767,6 @@
     "feeds": [
       "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml",
       "https://pavel-romanov.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://pawelgrzybek.com",
-    "feeds": [
-      "https://pawelgrzybek.com/feed.xml"
     ]
   },
   {

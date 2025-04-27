@@ -16,7 +16,6 @@
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
 <outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
-<outline text="bhch.github.io" title="bhch.github.io" type="rss" xmlUrl="https://bhch.github.io/feeds/atom.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
 <outline text="blog.1password.com" title="blog.1password.com" type="rss" xmlUrl="https://blog.1password.com/index.xml"/>
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
@@ -127,7 +126,6 @@
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
 <outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
 <outline text="pavel-romanov.com" title="pavel-romanov.com" type="rss" xmlUrl="https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml"/>
-<outline text="pawelgrzybek.com" title="pawelgrzybek.com" type="rss" xmlUrl="https://pawelgrzybek.com/feed.xml"/>
 <outline text="philipwalton.com" title="philipwalton.com" type="rss" xmlUrl="https://feeds.feedburner.com/philipwalton"/>
 <outline text="piccalil.li" title="piccalil.li" type="rss" xmlUrl="https://piccalil.li/feed.xml"/>
 <outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>
