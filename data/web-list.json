@@ -235,22 +235,6 @@
   },
   {
     "count": 12,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "browser",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.52.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -321,6 +305,39 @@
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
+    "count": 11,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "browser",
+      "JavaScript",
+      "testing",
+      "ReleaseNote",
+      "playwright"
+    ],
+    "example": {
+      "title": "Release v1.52.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "Tools",
+      "ReleaseNote",
+      "bundler",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.25.3 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.3"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
     "count": 10,
     "url": "https://nuxt.com",
     "tags": [
@@ -337,23 +354,6 @@
       "url": "https://nuxt.com/blog/nuxt-ui-v3"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "Tools",
-      "ReleaseNote",
-      "bundler",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.25.0 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.0"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 9,
@@ -1077,6 +1077,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/remix-run/react-router",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "Remix"
+    ],
+    "example": {
+      "title": "react-router/CHANGELOG.md at main · remix-run/react-router",
+      "url": "https://github.com/remix-run/react-router/blob/main/CHANGELOG.md#v752"
+    },
+    "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -1592,21 +1607,6 @@
       "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
     },
     "rssUrl": "https://www.totaltypescript.com/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/remix-run/react-router",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "Remix"
-    ],
-    "example": {
-      "title": "react-router/CHANGELOG.md at main · remix-run/react-router",
-      "url": "https://github.com/remix-run/react-router/blob/main/CHANGELOG.md#v710"
-    },
-    "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
   },
   {
     "count": 2,
@@ -8983,5 +8983,19 @@
       "url": "https://github.com/andrewmd5/hako"
     },
     "rssUrl": "https://github.com/andrewmd5/hako/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/unnoq/orpc?tab=readme-ov-file",
+    "tags": [
+      "OpenAPI",
+      "nodejs",
+      "library"
+    ],
+    "example": {
+      "title": "unnoq/orpc: Typesafe APIs Made Simple 🪄",
+      "url": "https://github.com/unnoq/orpc?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/unnoq/orpc?tab=readme-ov-file/releases.atom"
   }
 ]
