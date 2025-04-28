@@ -503,15 +503,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -605,6 +605,12 @@
     ]
   },
   {
+    "url": "https://github.com/remix-run/react-router",
+    "feeds": [
+      "https://github.com/remix-run/react-router/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -674,12 +680,6 @@
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/remix-run/react-router",
-    "feeds": [
-      "https://github.com/remix-run/react-router/releases.atom"
     ]
   },
   {
@@ -1880,6 +1880,12 @@
     "url": "https://github.com/andrewmd5/hako",
     "feeds": [
       "https://github.com/andrewmd5/hako/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/unnoq/orpc?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/unnoq/orpc?tab=readme-ov-file/releases.atom"
     ]
   },
   {
