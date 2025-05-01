@@ -521,6 +521,12 @@
     ]
   },
   {
+    "url": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
@@ -530,12 +536,6 @@
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -2342,20 +2342,6 @@
     "feeds": [
       "https://speakerdeck.com/sajikix.atom",
       "https://speakerdeck.com/sajikix.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/nichimu/",
-    "feeds": [
-      "https://speakerdeck.com/nichimu.atom",
-      "https://speakerdeck.com/nichimu.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sadnessojisan/",
-    "feeds": [
-      "https://speakerdeck.com/sadnessojisan.atom",
-      "https://speakerdeck.com/sadnessojisan.rss"
     ]
   },
   {

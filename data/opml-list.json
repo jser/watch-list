@@ -947,20 +947,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/nichimu/",
-    "feeds": [
-      "https://speakerdeck.com/nichimu.atom",
-      "https://speakerdeck.com/nichimu.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sadnessojisan/",
-    "feeds": [
-      "https://speakerdeck.com/sadnessojisan.atom",
-      "https://speakerdeck.com/sadnessojisan.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/kazupon/",
     "feeds": [
       "https://speakerdeck.com/kazupon.atom",
