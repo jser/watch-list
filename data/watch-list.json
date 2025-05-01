@@ -72,25 +72,6 @@
   },
   {
     "count": 25,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "library",
-      "React",
-      "denoe",
-      "dneo",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
-      "url": "https://deno.com/blog/v2.2"
-    }
-  },
-  {
-    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -126,6 +107,25 @@
     }
   },
   {
+    "count": 23,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "library",
+      "React",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm"
+    ],
+    "example": {
+      "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
+      "url": "https://deno.com/blog/v2.2"
+    }
+  },
+  {
     "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -140,15 +140,15 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 137.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/137.0/releasenotes/"
+      "title": "Firefox 138.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/138.0/releasenotes/"
     }
   },
   {
@@ -369,6 +369,21 @@
     }
   },
   {
+    "count": 9,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "library",
+      "polyfill",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 3.42.0 - 2025.04.30 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.42.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
     "count": 8,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
@@ -420,21 +435,6 @@
       "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
     },
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "library",
-      "polyfill",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 3.41.0 - 2025.03.01 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.41.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
@@ -1380,19 +1380,6 @@
   },
   {
     "count": 2,
-    "url": "https://shisama.hatenablog.com",
-    "tags": [
-      "node.js",
-      "article",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Node.js v21 の主な変更点 - 別にしんどくないブログ",
-      "url": "https://shisama.hatenablog.com/entry/2023/12/16/151553"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://blog.emberjs.com",
     "tags": [
       "Ember",
@@ -2153,6 +2140,22 @@
   },
   {
     "count": 2,
+    "url": "https://kaminashi-developer.hatenablog.jp",
+    "tags": [
+      "ServiceWorker",
+      "article",
+      "Fetch",
+      "TypeScript",
+      "JavaScript",
+      "HTTP"
+    ],
+    "example": {
+      "title": "フロントエンド API コール時のエラーハンドリングを軽く整理（Fetch API・typescript-fetch・TanStack Query） - カミナシ エンジニアブログ",
+      "url": "https://kaminashi-developer.hatenablog.jp/entry/2025/04/30/080000"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/apollographql/apollo-client",
     "tags": [
       "GraphQL",
@@ -2192,44 +2195,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/nichimu/",
-    "tags": [
-      "JavaScript",
-      "slide"
-    ],
-    "example": {
-      "title": "これから先も戦えるサードパーティスクリプト - Speaker Deck",
-      "url": "https://speakerdeck.com/nichimu/korekaraxian-mozhan-erusadopateisukuriputo"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/sadnessojisan/",
-    "tags": [
-      "JSON",
-      "JavaScript",
-      "slide"
-    ],
-    "example": {
-      "title": "現実世界におけるスキーマ設計の妥協 - Speaker Deck",
-      "url": "https://speakerdeck.com/sadnessojisan/xian-shi-shi-jie-niokerusukimashe-ji-notuo-xie"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://azu.github.io",
-    "tags": [
-      "node.js",
-      "npm",
-      "slide"
-    ],
-    "example": {
-      "title": "Corepackを使ってNode.jsをアップデートする ⬆️⬆️",
-      "url": "https://azu.github.io/slide/2023/nodejs-corepack/corepack.html"
     }
   },
   {
@@ -4463,6 +4428,18 @@
     "example": {
       "title": "Movies App",
       "url": "https://tastejs.com/movies/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://shisama.hatenablog.com",
+    "tags": [
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "Node.js v21 の主な変更点 - 別にしんどくないブログ",
+      "url": "https://shisama.hatenablog.com/entry/2023/12/16/151553"
     }
   },
   {
@@ -7837,18 +7814,6 @@
       "url": "https://github.com/vercel/swr/releases/tag/v2.3.0"
     },
     "rssUrl": "https://github.com/vercel/swr/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://kaminashi-developer.hatenablog.jp",
-    "tags": [
-      "ServiceWorker",
-      "article"
-    ],
-    "example": {
-      "title": "Service Worker がページをコントロールし始めるタイミングを skipWaiting と clients.claim から理解する - カミナシ エンジニアブログ",
-      "url": "https://kaminashi-developer.hatenablog.jp/entry/2024/12/20/080000"
-    }
   },
   {
     "count": 1,

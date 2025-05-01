@@ -153,8 +153,6 @@
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/sajikix/" title="speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
-<outline text="speakerdeck.com/nichimu/" title="speakerdeck.com/nichimu/" type="rss" xmlUrl="https://speakerdeck.com/nichimu.atom"/>
-<outline text="speakerdeck.com/sadnessojisan/" title="speakerdeck.com/sadnessojisan/" type="rss" xmlUrl="https://speakerdeck.com/sadnessojisan.atom"/>
 <outline text="speakerdeck.com/kazupon/" title="speakerdeck.com/kazupon/" type="rss" xmlUrl="https://speakerdeck.com/kazupon.atom"/>
 <outline text="speakerdeck.com/recruitengineers/" title="speakerdeck.com/recruitengineers/" type="rss" xmlUrl="https://speakerdeck.com/recruitengineers.atom"/>
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
