@@ -107,7 +107,7 @@
     }
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -121,8 +121,8 @@
       "npm"
     ],
     "example": {
-      "title": "Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite",
-      "url": "https://deno.com/blog/v2.2"
+      "title": "Deno 2.3: Improved deno compile, local npm packages, and more",
+      "url": "https://deno.com/blog/v2.3"
     }
   },
   {
@@ -573,22 +573,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "Remix",
-      "ReleaseNote",
-      "React",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "remix/CHANGELOG.md at main · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://zenn.dev/cybozu_frontend/",
     "tags": [
       "JavaScript",
@@ -738,23 +722,6 @@
   },
   {
     "count": 4,
-    "url": "https://vercel.com",
-    "tags": [
-      "webservice",
-      "news",
-      "React",
-      "article",
-      "google",
-      "SEO",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "What’s new in React 19 – Vercel",
-      "url": "https://vercel.com/blog/whats-new-in-react-19"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://blog.angular.io",
     "tags": [
       "Angular",
@@ -884,6 +851,22 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "Remix",
+      "ReleaseNote",
+      "React",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "remix/CHANGELOG.md at main · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "React",
@@ -959,22 +942,6 @@
       "title": "Release 0.12.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.12.0"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/redwoodjs/redwood",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "library",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release v8.0.0 · redwoodjs/redwood",
-      "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 3,
@@ -1062,6 +1029,21 @@
     "example": {
       "title": "Announcing typescript-eslint v8 | typescript-eslint",
       "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://vercel.com",
+    "tags": [
+      "React",
+      "article",
+      "google",
+      "SEO",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "What’s new in React 19 – Vercel",
+      "url": "https://vercel.com/blog/whats-new-in-react-19"
     }
   },
   {
@@ -1380,19 +1362,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ember 5.0 Released",
-      "url": "https://blog.emberjs.com/ember-5-0-released/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://babylonjs.medium.com",
     "tags": [
       "JavaScript",
@@ -1583,6 +1552,20 @@
       "title": "How To Improve INP: Yield Patterns | Jacob 'Kurt' Groß",
       "url": "https://kurtextrem.de/posts/improve-inp"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/redwoodjs/redwood",
+    "tags": [
+      "nodejs",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release v8.0.0 · redwoodjs/redwood",
+      "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 2,
@@ -2199,34 +2182,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/chot/",
-    "tags": [
-      "Chrome",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "【Chrome DevTools】Performance Insightsでフロントエンドパフォーマンス改善",
-      "url": "https://zenn.dev/chot/articles/ce7296779048a2"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/karma-runner/karma",
-    "tags": [
-      "news",
-      "JavaScript",
-      "testing",
-      "library"
-    ],
-    "example": {
-      "title": "docs: Add deprecation notice to Karma README · karma-runner/karma@450fdfd",
-      "url": "https://github.com/karma-runner/karma/commit/450fdfdac5b999967daec1020f1ac69cf9b854ab"
-    },
-    "rssUrl": "https://github.com/karma-runner/karma/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://www.builder.io",
     "tags": [
       "JavaScript",
@@ -2755,6 +2710,18 @@
     "example": {
       "title": "Cyclic Dependency Space Toggles",
       "url": "https://kizu.dev/cyclic-toggles/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ember 5.0 Released",
+      "url": "https://blog.emberjs.com/ember-5-0-released/"
     }
   },
   {
