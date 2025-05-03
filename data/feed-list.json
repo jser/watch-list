@@ -539,12 +539,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
@@ -581,6 +575,12 @@
     ]
   },
   {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -590,12 +590,6 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/redwoodjs/redwood",
-    "feeds": [
-      "https://github.com/redwoodjs/redwood/releases.atom"
     ]
   },
   {
@@ -689,6 +683,12 @@
     ]
   },
   {
+    "url": "https://github.com/redwoodjs/redwood",
+    "feeds": [
+      "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
@@ -770,12 +770,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/karma-runner/karma",
-    "feeds": [
-      "https://github.com/karma-runner/karma/releases.atom"
     ]
   },
   {
@@ -2907,12 +2901,6 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/chot/",
-    "feeds": [
-      "https://zenn.dev/p/chot/feed"
     ]
   },
   {
