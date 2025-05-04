@@ -1,6 +1,6 @@
 [
   {
-    "count": 64,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -181,8 +181,8 @@
       "css"
     ],
     "example": {
-      "title": "Introducing bulk suppressions - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/04/introducing-bulk-suppressions/"
+      "title": "ESLint v9.26.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/05/eslint-v9.26.0-released/"
     }
   },
   {
@@ -2178,19 +2178,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.builder.io",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Qwik Reaches v1.0",
-      "url": "https://www.builder.io/blog/qwik-v1"
     }
   },
   {

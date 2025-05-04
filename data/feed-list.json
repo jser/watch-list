@@ -2645,13 +2645,6 @@
     ]
   },
   {
-    "url": "https://www.builder.io",
-    "feeds": [
-      "https://www.builder.io/blog/feed.xml",
-      "https://www.builder.io/blog/feed.atom"
-    ]
-  },
-  {
     "url": "https://www.checklyhq.com",
     "feeds": [
       "https://www.checklyhq.com/rss.xml"
