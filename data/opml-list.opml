@@ -167,7 +167,6 @@
 <outline text="supabase.com" title="supabase.com" type="rss" xmlUrl="https://supabase.com/feed.xml"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
-<outline text="tauri.app" title="tauri.app" type="rss" xmlUrl="https://tauri.app/blog/rss.xml"/>
 <outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>

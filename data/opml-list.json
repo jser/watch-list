@@ -1042,13 +1042,6 @@
     ]
   },
   {
-    "url": "https://tauri.app",
-    "feeds": [
-      "https://tauri.app/blog/rss.xml",
-      "https://tauri.app/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://tduyng.com",
     "feeds": [
       "https://tduyng.com/atom.xml",

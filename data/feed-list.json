@@ -527,15 +527,15 @@
     ]
   },
   {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
     ]
   },
   {
@@ -548,12 +548,6 @@
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -623,6 +617,12 @@
     ]
   },
   {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -650,12 +650,6 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/markedjs/marked",
-    "feeds": [
-      "https://github.com/markedjs/marked/releases.atom"
     ]
   },
   {
@@ -770,12 +764,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/SBoudrias/Inquirer.js",
-    "feeds": [
-      "https://github.com/SBoudrias/Inquirer.js/releases.atom"
     ]
   },
   {
@@ -950,6 +938,12 @@
     "url": "https://github.com/riot/riot",
     "feeds": [
       "https://github.com/riot/riot/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/markedjs/marked",
+    "feeds": [
+      "https://github.com/markedjs/marked/releases.atom"
     ]
   },
   {
@@ -1883,6 +1877,12 @@
     ]
   },
   {
+    "url": "https://github.com/koajs/koa",
+    "feeds": [
+      "https://github.com/koajs/koa/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2431,13 +2431,6 @@
     "feeds": [
       "https://tailwindcss.com/feeds/feed.xml",
       "https://tailwindcss.com/feeds/atom.xml"
-    ]
-  },
-  {
-    "url": "https://tauri.app",
-    "feeds": [
-      "https://tauri.app/blog/rss.xml",
-      "https://tauri.app/blog/atom.xml"
     ]
   },
   {
