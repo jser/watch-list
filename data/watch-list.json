@@ -44,14 +44,14 @@
     }
   },
   {
-    "count": 36,
+    "count": 35,
     "url": "https://developer.chrome.com",
     "tags": [
-      "Chrome",
-      "ReleaseNote",
       "browser",
       "HTML",
       "article",
+      "Chrome",
+      "ReleaseNote",
       "debug",
       "testing",
       "Tools",
@@ -225,6 +225,19 @@
     }
   },
   {
+    "count": 13,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 36.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-36-0"
+    }
+  },
+  {
     "count": 12,
     "url": "https://github.com/honojs/hono",
     "tags": [
@@ -277,19 +290,6 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2025-04 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 35.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-35-0"
     }
   },
   {
@@ -385,41 +385,6 @@
   },
   {
     "count": 8,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "JavaScript",
-      "library",
-      "test",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "article",
-      "TypeScript",
-      "document",
-      "ReleaseNote",
-      "babel",
-      "news"
-    ],
-    "example": {
-      "title": "React Labs: View Transitions, Activity, and more – React",
-      "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "webpack",
@@ -456,6 +421,41 @@
     "example": {
       "title": "Storybook 8.4",
       "url": "https://storybook.js.org/blog/storybook-8-4/"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "JavaScript",
+      "library",
+      "test",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 7,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "TypeScript",
+      "document",
+      "article",
+      "ReleaseNote",
+      "babel",
+      "news"
+    ],
+    "example": {
+      "title": "React Labs: View Transitions, Activity, and more – React",
+      "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more"
     }
   },
   {
@@ -722,38 +722,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "Angular",
-      "ReleaseNote",
-      "JavaScript",
-      "browser",
-      "testing",
-      "article",
-      "document"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 26.0.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/26.0.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/esm-dev/esm.sh",
     "tags": [
       "JavaScript",
@@ -945,22 +913,6 @@
   },
   {
     "count": 3,
-    "url": "https://www.smashingmagazine.com",
-    "tags": [
-      "webworker",
-      "article",
-      "debug",
-      "browser",
-      "HTML",
-      "CSS"
-    ],
-    "example": {
-      "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://blog.jquery.com",
     "tags": [
       "jquery]",
@@ -1059,6 +1011,23 @@
     "example": {
       "title": "Implementing Vertical Form Controls | WebKit",
       "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://blog.angular.io",
+    "tags": [
+      "JavaScript",
+      "browser",
+      "testing",
+      "article",
+      "Angular",
+      "document",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
     }
   },
   {
@@ -1208,6 +1177,20 @@
       "title": "Next.js PPR と比較して理解する Astro Server Islands",
       "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 26.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/26.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 3,
@@ -1362,36 +1345,6 @@
   },
   {
     "count": 2,
-    "url": "https://babylonjs.medium.com",
-    "tags": [
-      "JavaScript",
-      "3D",
-      "library",
-      "ReleaseNote",
-      "WebGL"
-    ],
-    "example": {
-      "title": "Introducing Babylon.js 7.0. Our mission is to build one of the most… | by Babylon.js | Mar, 2024 | Medium",
-      "url": "https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/markedjs/marked",
-    "tags": [
-      "Markdown",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · markedjs/marked",
-      "url": "https://github.com/markedjs/marked/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/markedjs/marked/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://medium.com/dartlang/",
     "tags": [
       "dart",
@@ -1537,6 +1490,21 @@
       "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://www.smashingmagazine.com",
+    "tags": [
+      "debug",
+      "browser",
+      "article",
+      "HTML",
+      "CSS"
+    ],
+    "example": {
+      "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
+    }
   },
   {
     "count": 2,
@@ -2179,33 +2147,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://tauri.app",
-    "tags": [
-      "Rust",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Tauri 1.3.0 | Tauri Apps",
-      "url": "https://tauri.app/blog/2023/05/03/tauri-1-3/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/SBoudrias/Inquirer.js",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Say Allo' to the new Inquirer (release of the rewrite) · SBoudrias/Inquirer.js · Discussion #1214",
-      "url": "https://github.com/SBoudrias/Inquirer.js/discussions/1214"
-    },
-    "rssUrl": "https://github.com/SBoudrias/Inquirer.js/releases.atom"
   },
   {
     "count": 1,
@@ -3025,6 +2966,21 @@
       "url": "https://github.com/riot/riot/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/riot/riot/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/markedjs/marked",
+    "tags": [
+      "Markdown",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · markedjs/marked",
+      "url": "https://github.com/markedjs/marked/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/markedjs/marked/releases.atom"
   },
   {
     "count": 1,
@@ -5498,6 +5454,20 @@
     "example": {
       "title": "Flaky Tests In React: Detection, Prevention and Tools - Semaphore",
       "url": "https://semaphoreci.com/blog/flaky-react"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://babylonjs.medium.com",
+    "tags": [
+      "WebGL",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing Babylon.js 7.0. Our mission is to build one of the most… | by Babylon.js | Mar, 2024 | Medium",
+      "url": "https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d"
     }
   },
   {
@@ -8657,5 +8627,18 @@
       "url": "https://github.com/unnoq/orpc?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/unnoq/orpc?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/koajs/koa",
+    "tags": [
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · koajs/koa",
+      "url": "https://github.com/koajs/koa/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/koajs/koa/releases.atom"
   }
 ]
