@@ -1,6 +1,6 @@
 [
   {
-    "count": 63,
+    "count": 64,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -10,11 +10,12 @@
       "secu",
       "article",
       "windows",
-      "TypeScript"
+      "TypeScript",
+      "news"
     ],
     "example": {
-      "title": "Node.js — Node v22.15.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v22.15.0"
+      "title": "Node.js — Node.js Releases",
+      "url": "https://nodejs.org/en/about/previous-releases"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
