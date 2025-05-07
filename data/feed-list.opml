@@ -85,8 +85,8 @@
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
-<outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
+<outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
@@ -126,6 +126,7 @@
 <outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
+<outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/natemoo-re/ultramatter" title="github.com/natemoo-re/ultramatter" type="rss" xmlUrl="https://github.com/natemoo-re/ultramatter/releases.atom"/>
@@ -261,7 +262,6 @@
 <outline text="github.com/mieszkosabo/tartak" title="github.com/mieszkosabo/tartak" type="rss" xmlUrl="https://github.com/mieszkosabo/tartak/releases.atom"/>
 <outline text="github.com/helmetjs/helmet" title="github.com/helmetjs/helmet" type="rss" xmlUrl="https://github.com/helmetjs/helmet/releases.atom"/>
 <outline text="github.com/dimdenGD/ultimate-express" title="github.com/dimdenGD/ultimate-express" type="rss" xmlUrl="https://github.com/dimdenGD/ultimate-express/releases.atom"/>
-<outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/facebook/metro" title="github.com/facebook/metro" type="rss" xmlUrl="https://github.com/facebook/metro/releases.atom"/>
 <outline text="github.com/trynova/nova" title="github.com/trynova/nova" type="rss" xmlUrl="https://github.com/trynova/nova/releases.atom"/>
 <outline text="github.com/gosub-io/gosub-engine?tab=readme-ov-file" title="github.com/gosub-io/gosub-engine?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/gosub-io/gosub-engine?tab=readme-ov-file/releases.atom"/>
@@ -314,6 +314,8 @@
 <outline text="github.com/andrewmd5/hako" title="github.com/andrewmd5/hako" type="rss" xmlUrl="https://github.com/andrewmd5/hako/releases.atom"/>
 <outline text="github.com/unnoq/orpc?tab=readme-ov-file" title="github.com/unnoq/orpc?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/unnoq/orpc?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/koajs/koa" title="github.com/koajs/koa" type="rss" xmlUrl="https://github.com/koajs/koa/releases.atom"/>
+<outline text="github.com/zumerlab/snapdom" title="github.com/zumerlab/snapdom" type="rss" xmlUrl="https://github.com/zumerlab/snapdom/releases.atom"/>
+<outline text="github.com/pulsar-edit/pulsar" title="github.com/pulsar-edit/pulsar" type="rss" xmlUrl="https://github.com/pulsar-edit/pulsar/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>

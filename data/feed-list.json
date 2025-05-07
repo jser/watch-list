@@ -509,15 +509,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -752,6 +752,12 @@
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nrwl/nx",
+    "feeds": [
+      "https://github.com/nrwl/nx/releases.atom"
     ]
   },
   {
@@ -1565,12 +1571,6 @@
     ]
   },
   {
-    "url": "https://github.com/nrwl/nx",
-    "feeds": [
-      "https://github.com/nrwl/nx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/metro",
     "feeds": [
       "https://github.com/facebook/metro/releases.atom"
@@ -1880,6 +1880,18 @@
     "url": "https://github.com/koajs/koa",
     "feeds": [
       "https://github.com/koajs/koa/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/zumerlab/snapdom",
+    "feeds": [
+      "https://github.com/zumerlab/snapdom/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/pulsar-edit/pulsar",
+    "feeds": [
+      "https://github.com/pulsar-edit/pulsar/releases.atom"
     ]
   },
   {
