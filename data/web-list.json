@@ -160,23 +160,6 @@
   },
   {
     "count": 19,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    },
-    "rssUrl": "https://astro.build/rss.xml"
-  },
-  {
-    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -193,6 +176,23 @@
       "url": "https://eslint.org/blog/2025/05/eslint-v9.26.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 18,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
+    },
+    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 15,
@@ -220,21 +220,6 @@
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
-    "count": 14,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "Next.js 15.3 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-3"
-    }
-  },
-  {
     "count": 13,
     "url": "https://www.electronjs.org",
     "tags": [
@@ -247,6 +232,21 @@
       "url": "https://www.electronjs.org/blog/electron-36-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 13,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "article",
+      "ReleaseNote",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 15.3 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-3"
+    }
   },
   {
     "count": 12,
@@ -8936,5 +8936,17 @@
       "url": "https://github.com/pulsar-edit/pulsar"
     },
     "rssUrl": "https://github.com/pulsar-edit/pulsar/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://designtokenscourse.com",
+    "tags": [
+      "Design",
+      "video"
+    ],
+    "example": {
+      "title": "Design Tokens Course with Brad Frost and Ian Frost",
+      "url": "https://designtokenscourse.com/"
+    }
   }
 ]

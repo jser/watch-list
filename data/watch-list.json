@@ -154,22 +154,6 @@
   },
   {
     "count": 19,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -184,6 +168,22 @@
     "example": {
       "title": "ESLint v9.26.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2025/05/eslint-v9.26.0-released/"
+    }
+  },
+  {
+    "count": 18,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
     }
   },
   {
@@ -211,21 +211,6 @@
     }
   },
   {
-    "count": 14,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "Next.js 15.3 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-3"
-    }
-  },
-  {
     "count": 13,
     "url": "https://www.electronjs.org",
     "tags": [
@@ -236,6 +221,21 @@
     "example": {
       "title": "Electron 36.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-36-0"
+    }
+  },
+  {
+    "count": 13,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "article",
+      "ReleaseNote",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 15.3 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-3"
     }
   },
   {
@@ -8684,5 +8684,17 @@
       "url": "https://github.com/pulsar-edit/pulsar"
     },
     "rssUrl": "https://github.com/pulsar-edit/pulsar/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://designtokenscourse.com",
+    "tags": [
+      "Design",
+      "video"
+    ],
+    "example": {
+      "title": "Design Tokens Course with Brad Frost and Ian Frost",
+      "url": "https://designtokenscourse.com/"
+    }
   }
 ]
