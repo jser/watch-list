@@ -21,7 +21,6 @@
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
 <outline text="blog.angular.io" title="blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
 <outline text="blog.appsignal.com" title="blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
-<outline text="blog.chromium.org" title="blog.chromium.org" type="rss" xmlUrl="http://blog.chromium.org/atom.xml"/>
 <outline text="blog.cloudflare.com" title="blog.cloudflare.com" type="rss" xmlUrl="https://blog.cloudflare.com/rss"/>
 <outline text="blog.emberjs.com" title="blog.emberjs.com" type="rss" xmlUrl="https://blog.emberjs.com/rss.xml"/>
 <outline text="blog.flatt.tech" title="blog.flatt.tech" type="rss" xmlUrl="https://blog.flatt.tech/feed"/>
@@ -129,8 +128,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/natemoo-re/ultramatter" title="github.com/natemoo-re/ultramatter" type="rss" xmlUrl="https://github.com/natemoo-re/ultramatter/releases.atom"/>
-<outline text="github.com/vadimdemedes/ink-ui" title="github.com/vadimdemedes/ink-ui" type="rss" xmlUrl="https://github.com/vadimdemedes/ink-ui/releases.atom"/>
 <outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
 <outline text="github.com/microsoft/deoptexplorer-vscode" title="github.com/microsoft/deoptexplorer-vscode" type="rss" xmlUrl="https://github.com/microsoft/deoptexplorer-vscode/releases.atom"/>
 <outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
@@ -440,8 +437,6 @@
 <outline text="www.fermyon.com" title="www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
 <outline text="www.honeybadger.io" title="www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
 <outline text="www.htmhell.dev" title="www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
-<outline text="www.inngest.com" title="www.inngest.com" type="rss" xmlUrl="https://www.inngest.com/api/rss.xml"/>
-<outline text="www.jantrid.net" title="www.jantrid.net" type="rss" xmlUrl="https://www.jantrid.net/feeds/posts/default/index.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.keithcirkel.co.uk" title="www.keithcirkel.co.uk" type="rss" xmlUrl="https://www.keithcirkel.co.uk/feed.xml"/>
 <outline text="www.m3tech.blog" title="www.m3tech.blog" type="rss" xmlUrl="https://www.m3tech.blog/feed"/>
@@ -450,7 +445,6 @@
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
 <outline text="www.mux.com" title="www.mux.com" type="rss" xmlUrl="https://www.mux.com/blog/rss.xml"/>
 <outline text="www.nray.dev" title="www.nray.dev" type="rss" xmlUrl="https://www.nray.dev/rss.xml"/>
-<outline text="www.packtpub.com" title="www.packtpub.com" type="rss" xmlUrl="https://hub.packtpub.com/feed/"/>
 <outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>

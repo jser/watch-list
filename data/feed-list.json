@@ -105,12 +105,6 @@
     ]
   },
   {
-    "url": "https://blog.chromium.org",
-    "feeds": [
-      "http://blog.chromium.org/atom.xml"
-    ]
-  },
-  {
     "url": "https://blog.cloudflare.com",
     "feeds": [
       "https://blog.cloudflare.com/rss"
@@ -770,18 +764,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/natemoo-re/ultramatter",
-    "feeds": [
-      "https://github.com/natemoo-re/ultramatter/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vadimdemedes/ink-ui",
-    "feeds": [
-      "https://github.com/vadimdemedes/ink-ui/releases.atom"
     ]
   },
   {
@@ -2709,18 +2691,6 @@
     ]
   },
   {
-    "url": "https://www.inngest.com",
-    "feeds": [
-      "https://www.inngest.com/api/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.jantrid.net",
-    "feeds": [
-      "https://www.jantrid.net/feeds/posts/default/index.xml"
-    ]
-  },
-  {
     "url": "https://www.joshwcomeau.com",
     "feeds": [
       "https://www.joshwcomeau.com/rss.xml"
@@ -2772,12 +2742,6 @@
     "url": "https://www.nray.dev",
     "feeds": [
       "https://www.nray.dev/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.packtpub.com",
-    "feeds": [
-      "https://hub.packtpub.com/feed/"
     ]
   },
   {
