@@ -127,12 +127,12 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
-      "ReleaseNote",
-      "performance"
+      "performance",
+      "ReleaseNote"
     ],
     "example": {
       "title": "Release pnpm 10.9 · pnpm/pnpm",
@@ -141,7 +141,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -386,24 +386,6 @@
   },
   {
     "count": 8,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "webpack",
-      "rspack",
-      "ReleaseNote",
-      "bundler",
-      "JavaScript",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Release v1.1.8 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 8,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -423,6 +405,24 @@
       "title": "Storybook 8.4",
       "url": "https://storybook.js.org/blog/storybook-8-4/"
     }
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "webpack",
+      "bundler",
+      "ReleaseNote",
+      "JavaScript",
+      "rspack",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Release v1.1.8 · web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 7,
@@ -570,25 +570,6 @@
     "example": {
       "title": "Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "JavaScript",
-      "article",
-      "TypeScript",
-      "eslib",
-      "Tools",
-      "RegExp",
-      "browser",
-      "Extension",
-      "library"
-    ],
-    "example": {
-      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
-      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
     }
   },
   {
@@ -817,6 +798,25 @@
       "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
     },
     "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "TypeScript",
+      "eslib",
+      "article",
+      "JavaScript",
+      "Tools",
+      "RegExp",
+      "browser",
+      "Extension",
+      "library"
+    ],
+    "example": {
+      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
+      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
+    }
   },
   {
     "count": 4,
@@ -2162,100 +2162,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://unlighthouse.dev",
-    "tags": [
-      "browser",
-      "JavaScript",
-      "Tools",
-      "performance",
-      "CI"
-    ],
-    "example": {
-      "title": "Unlighthouse - Site-wide Google Lighthouse · Unlighthouse",
-      "url": "https://unlighthouse.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/natemoo-re/ultramatter",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "natemoo-re/ultramatter: <1kB frontmatter parser that supports a reasonable subset of YAML",
-      "url": "https://github.com/natemoo-re/ultramatter"
-    },
-    "rssUrl": "https://github.com/natemoo-re/ultramatter/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vadimdemedes/ink-ui",
-    "tags": [
-      "JavaScript",
-      "React",
-      "console",
-      "library"
-    ],
-    "example": {
-      "title": "vadimdemedes/ink-ui: 💄 Ink-redible command-line interfaces made easy",
-      "url": "https://github.com/vadimdemedes/ink-ui"
-    },
-    "rssUrl": "https://github.com/vadimdemedes/ink-ui/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.inngest.com",
-    "tags": [
-      "React",
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "5 Lessons Learned From Taking Next.js App Router to Production - Inngest Blog",
-      "url": "https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.chromium.org",
-    "tags": [
-      "Chrome",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Chromium Blog: An Update on the Lock Icon",
-      "url": "https://blog.chromium.org/2023/05/an-update-on-lock-icon.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.jantrid.net",
-    "tags": [
-      "Firefox",
-      "accessibility",
-      "article"
-    ],
-    "example": {
-      "title": "Cache the World: Turbo Charging Firefox Accessibility Performance and Maintainability | Jantrid",
-      "url": "https://www.jantrid.net/2022/12/22/Cache-the-World/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.packtpub.com",
-    "tags": [
-      "React",
-      "book"
-    ],
-    "example": {
-      "title": "React Application Architecture for Production | Packt",
-      "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539"
     }
   },
   {
