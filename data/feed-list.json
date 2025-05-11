@@ -545,12 +545,6 @@
     ]
   },
   {
-    "url": "https://github.com/esm-dev/esm.sh",
-    "feeds": [
-      "https://github.com/esm-dev/esm.sh/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jestjs/jest",
     "feeds": [
       "https://github.com/jestjs/jest/releases.atom"
@@ -590,6 +584,12 @@
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/esm-dev/esm.sh",
+    "feeds": [
+      "https://github.com/esm-dev/esm.sh/releases.atom"
     ]
   },
   {
@@ -740,6 +740,12 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/relay",
+    "feeds": [
+      "https://github.com/facebook/relay/releases.atom"
     ]
   },
   {
@@ -1397,12 +1403,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/relay",
-    "feeds": [
-      "https://github.com/facebook/relay/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/node",
     "feeds": [
       "https://github.com/nodejs/node/releases.atom"
@@ -1877,6 +1877,12 @@
     ]
   },
   {
+    "url": "https://github.com/ije/mono-jsx",
+    "feeds": [
+      "https://github.com/ije/mono-jsx/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2044,12 +2050,6 @@
     ]
   },
   {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
-    ]
-  },
-  {
     "url": "https://medium.com/miro-engineering/",
     "feeds": [
       "https://medium.com/feed/miro-engineering"
@@ -2059,6 +2059,12 @@
     "url": "https://medium.com/flow-type/",
     "feeds": [
       "https://medium.com/feed/flow-type"
+    ]
+  },
+  {
+    "url": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
     ]
   },
   {
