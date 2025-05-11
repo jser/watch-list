@@ -658,12 +658,6 @@
     ]
   },
   {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
-    ]
-  },
-  {
     "url": "https://medium.com/miro-engineering/",
     "feeds": [
       "https://medium.com/feed/miro-engineering"
@@ -673,6 +667,12 @@
     "url": "https://medium.com/flow-type/",
     "feeds": [
       "https://medium.com/feed/flow-type"
+    ]
+  },
+  {
+    "url": "https://medium.com/dartlang/",
+    "feeds": [
+      "https://medium.com/feed/dartlang"
     ]
   },
   {

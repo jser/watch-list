@@ -732,21 +732,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/esm-dev/esm.sh",
-    "tags": [
-      "JavaScript",
-      "cdn",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v136 · esm-dev/esm.sh",
-      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
-    },
-    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://blog.vuejs.org",
     "tags": [
       "Vue",
@@ -1073,6 +1058,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/esm-dev/esm.sh",
+    "tags": [
+      "JavaScript",
+      "cdn",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v136 · esm-dev/esm.sh",
+      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
+    },
+    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://blog.angular.io",
     "tags": [
       "JavaScript",
@@ -1393,21 +1393,6 @@
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     },
     "rssUrl": "https://www.debugbear.com/blog/rss.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://medium.com/dartlang/",
-    "tags": [
-      "dart",
-      "ReleaseNote",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "History of JS interop in Dart. Support for Wasm just landed in the… | by Sigmund Cherem | Dart | Mar, 2024 | Medium",
-      "url": "https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f"
-    },
-    "rssUrl": "https://medium.com/feed/dartlang"
   },
   {
     "count": 2,
@@ -2071,6 +2056,21 @@
       "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
     },
     "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/facebook/relay",
+    "tags": [
+      "GraphQL",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v19.0.0 · facebook/relay",
+      "url": "https://github.com/facebook/relay/releases/tag/v19.0.0"
+    },
+    "rssUrl": "https://github.com/facebook/relay/releases.atom"
   },
   {
     "count": 2,
@@ -5628,6 +5628,20 @@
   },
   {
     "count": 1,
+    "url": "https://medium.com/dartlang/",
+    "tags": [
+      "dart",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "History of JS interop in Dart. Support for Wasm just landed in the… | by Sigmund Cherem | Dart | Mar, 2024 | Medium",
+      "url": "https://medium.com/dartlang/history-of-js-interop-in-dart-98b06991158f"
+    },
+    "rssUrl": "https://medium.com/feed/dartlang"
+  },
+  {
+    "count": 1,
     "url": "https://ark-ui.com",
     "tags": [
       "JavaScript",
@@ -6276,21 +6290,6 @@
       "url": "https://workos.com/blog/migrating-to-next-js-app-router-with-zero-downtime"
     },
     "rssUrl": "https://workos.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/relay",
-    "tags": [
-      "GraphQL",
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 17.0.0 Release Notes · facebook/relay",
-      "url": "https://github.com/facebook/relay/releases/tag/v17.0.0"
-    },
-    "rssUrl": "https://github.com/facebook/relay/releases.atom"
   },
   {
     "count": 1,
@@ -8850,5 +8849,20 @@
       "title": "Design Tokens Course with Brad Frost and Ian Frost",
       "url": "https://designtokenscourse.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ije/mono-jsx",
+    "tags": [
+      "JavaScript",
+      "jsx",
+      "server",
+      "library"
+    ],
+    "example": {
+      "title": "ije/mono-jsx: `<html>` as a `Response`.",
+      "url": "https://github.com/ije/mono-jsx"
+    },
+    "rssUrl": "https://github.com/ije/mono-jsx/releases.atom"
   }
 ]
