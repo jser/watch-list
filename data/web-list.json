@@ -75,23 +75,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 25,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "V8",
-      "performance",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "A 10x Faster TypeScript - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
-    "count": 25,
+    "count": 26,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -107,10 +91,26 @@
       "css"
     ],
     "example": {
-      "title": "Polishing your typography with line height units | WebKit",
-      "url": "https://webkit.org/blog/16831/line-height-units/"
+      "title": "WebKit Features in Safari 18.5 | WebKit",
+      "url": "https://webkit.org/blog/16923/webkit-features-in-safari-18-5/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 25,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "V8",
+      "performance",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "A 10x Faster TypeScript - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 24,
@@ -747,23 +747,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "TypeScript",
-      "ReleaseNote",
-      "vite",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing Vue 3.5 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vue-3-5"
-    },
-    "rssUrl": "https://blog.vuejs.org/feed.rss"
-  },
-  {
-    "count": 4,
     "url": "https://lea.verou.me",
     "tags": [
       "JavaScript",
@@ -1214,6 +1197,22 @@
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "Vue",
+      "ReleaseNote",
+      "vite",
+      "document",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing Vue 3.5 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vue-3-5"
+    },
+    "rssUrl": "https://blog.vuejs.org/feed.rss"
   },
   {
     "count": 3,
