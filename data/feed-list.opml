@@ -129,7 +129,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
 <outline text="github.com/microsoft/deoptexplorer-vscode" title="github.com/microsoft/deoptexplorer-vscode" type="rss" xmlUrl="https://github.com/microsoft/deoptexplorer-vscode/releases.atom"/>
 <outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
 <outline text="github.com/microsoft/TypeScript" title="github.com/microsoft/TypeScript" type="rss" xmlUrl="https://github.com/microsoft/TypeScript/releases.atom"/>
