@@ -773,12 +773,6 @@
     ]
   },
   {
-    "url": "https://github.com/jasmine/jasmine",
-    "feeds": [
-      "https://github.com/jasmine/jasmine/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/deoptexplorer-vscode",
     "feeds": [
       "https://github.com/microsoft/deoptexplorer-vscode/releases.atom"
