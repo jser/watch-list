@@ -8600,5 +8600,20 @@
       "title": "Version v8.0.0 | Mantine",
       "url": "https://mantine.dev/changelog/8-0-0/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/aidenybai/bippy",
+    "tags": [
+      "React",
+      "debug",
+      "Tools",
+      "library"
+    ],
+    "example": {
+      "title": "aidenybai/bippy: ⚠️ hack into react internals",
+      "url": "https://github.com/aidenybai/bippy"
+    },
+    "rssUrl": "https://github.com/aidenybai/bippy/releases.atom"
   }
 ]

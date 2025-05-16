@@ -1877,6 +1877,12 @@
     ]
   },
   {
+    "url": "https://github.com/aidenybai/bippy",
+    "feeds": [
+      "https://github.com/aidenybai/bippy/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
