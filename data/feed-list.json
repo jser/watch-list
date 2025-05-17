@@ -647,12 +647,6 @@
     ]
   },
   {
-    "url": "https://github.com/lerna/lerna",
-    "feeds": [
-      "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vanjs-org/van",
     "feeds": [
       "https://github.com/vanjs-org/van/releases.atom"
@@ -773,18 +767,6 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/deoptexplorer-vscode",
-    "feeds": [
-      "https://github.com/microsoft/deoptexplorer-vscode/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/sverweij/dependency-cruiser",
-    "feeds": [
-      "https://github.com/sverweij/dependency-cruiser/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/TypeScript",
     "feeds": [
       "https://github.com/microsoft/TypeScript/releases.atom"
@@ -824,6 +806,12 @@
     "url": "https://github.com/kaleidawave/ezno",
     "feeds": [
       "https://github.com/kaleidawave/ezno/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
     ]
   },
   {

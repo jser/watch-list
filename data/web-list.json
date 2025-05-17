@@ -20,11 +20,10 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 54,
+    "count": 53,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "bundler",
       "ReleaseNote",
       "article",
       "CommonJS",
@@ -97,14 +96,13 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 25,
+    "count": 24,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
-      "V8",
-      "performance",
+      "ReleaseNote",
       "article",
-      "ReleaseNote"
+      "performance"
     ],
     "example": {
       "title": "A 10x Faster TypeScript - TypeScript",
@@ -339,24 +337,6 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
-    "count": 10,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt UI v3 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/nuxt-ui-v3"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
     "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
@@ -397,6 +377,24 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.42.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt UI v3 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/nuxt-ui-v3"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 8,
@@ -1382,20 +1380,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/lerna/lerna",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · lerna/lerna",
-      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/vanjs-org/van",
     "tags": [
       "JavaScript",
@@ -2242,35 +2226,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/microsoft/deoptexplorer-vscode",
-    "tags": [
-      "VSCode",
-      "node.js",
-      "V8"
-    ],
-    "example": {
-      "title": "microsoft/deoptexplorer-vscode: A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).",
-      "url": "https://github.com/microsoft/deoptexplorer-vscode"
-    },
-    "rssUrl": "https://github.com/microsoft/deoptexplorer-vscode/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/sverweij/dependency-cruiser",
-    "tags": [
-      "node.js",
-      "library",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v13.0.0 · sverweij/dependency-cruiser",
-      "url": "https://github.com/sverweij/dependency-cruiser/releases/tag/v13.0.0"
-    },
-    "rssUrl": "https://github.com/sverweij/dependency-cruiser/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/microsoft/TypeScript",
     "tags": [
       "TypeScript",
@@ -2429,6 +2384,20 @@
       "url": "https://github.com/kaleidawave/ezno/discussions/21"
     },
     "rssUrl": "https://github.com/kaleidawave/ezno/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lerna/lerna",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · lerna/lerna",
+      "url": "https://github.com/lerna/lerna/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
   },
   {
     "count": 1,

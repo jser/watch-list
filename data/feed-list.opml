@@ -108,7 +108,6 @@
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
-<outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/reduxjs/redux" title="github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
@@ -129,8 +128,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/microsoft/deoptexplorer-vscode" title="github.com/microsoft/deoptexplorer-vscode" type="rss" xmlUrl="https://github.com/microsoft/deoptexplorer-vscode/releases.atom"/>
-<outline text="github.com/sverweij/dependency-cruiser" title="github.com/sverweij/dependency-cruiser" type="rss" xmlUrl="https://github.com/sverweij/dependency-cruiser/releases.atom"/>
 <outline text="github.com/microsoft/TypeScript" title="github.com/microsoft/TypeScript" type="rss" xmlUrl="https://github.com/microsoft/TypeScript/releases.atom"/>
 <outline text="github.com/microsoft/devicescript" title="github.com/microsoft/devicescript" type="rss" xmlUrl="https://github.com/microsoft/devicescript/releases.atom"/>
 <outline text="github.com/webpro/knip" title="github.com/webpro/knip" type="rss" xmlUrl="https://github.com/webpro/knip/releases.atom"/>
@@ -138,6 +135,7 @@
 <outline text="github.com/stepci/garph" title="github.com/stepci/garph" type="rss" xmlUrl="https://github.com/stepci/garph/releases.atom"/>
 <outline text="github.com/sveltejs/svelte" title="github.com/sveltejs/svelte" type="rss" xmlUrl="https://github.com/sveltejs/svelte/releases.atom"/>
 <outline text="github.com/kaleidawave/ezno" title="github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
+<outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="github.com/tresjs/tres" title="github.com/tresjs/tres" type="rss" xmlUrl="https://github.com/tresjs/tres/releases.atom"/>
 <outline text="github.com/reactwg/server-components" title="github.com/reactwg/server-components" type="rss" xmlUrl="https://github.com/reactwg/server-components/releases.atom"/>
 <outline text="github.com/evanw/polywasm" title="github.com/evanw/polywasm" type="rss" xmlUrl="https://github.com/evanw/polywasm/releases.atom"/>
