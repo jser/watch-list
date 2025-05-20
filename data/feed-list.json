@@ -1871,6 +1871,12 @@
     ]
   },
   {
+    "url": "https://github.com/webdiscus/ansis",
+    "feeds": [
+      "https://github.com/webdiscus/ansis/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
