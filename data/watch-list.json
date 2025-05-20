@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -92,6 +92,25 @@
     }
   },
   {
+    "count": 25,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "library",
+      "React",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm"
+    ],
+    "example": {
+      "title": "An Update on Fresh | Deno",
+      "url": "https://deno.com/blog/an-update-on-fresh"
+    }
+  },
+  {
     "count": 24,
     "url": "https://devblogs.microsoft.com",
     "tags": [
@@ -106,26 +125,7 @@
     }
   },
   {
-    "count": 24,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "library",
-      "React",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm"
-    ],
-    "example": {
-      "title": "Deno 2.3: Improved deno compile, local npm packages, and more",
-      "url": "https://deno.com/blog/v2.3"
-    }
-  },
-  {
-    "count": 20,
+    "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -133,8 +133,8 @@
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.9 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.9.0"
+      "title": "Release pnpm 10.11 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.11.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -151,7 +151,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 18,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -169,7 +169,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 17,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -185,14 +185,14 @@
     }
   },
   {
-    "count": 15,
+    "count": 14,
     "url": "https://web.dev",
     "tags": [
-      "browser",
-      "article",
       "performance",
+      "browser",
       "Chrome",
       "Extension",
+      "article",
       "JavaScript",
       "CSS",
       "tutorial",
@@ -405,6 +405,20 @@
     }
   },
   {
+    "count": 8,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "May 19, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-05-19.html"
+    }
+  },
+  {
     "count": 7,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
@@ -471,20 +485,6 @@
     "example": {
       "title": "Biome v2.0 beta | Biome",
       "url": "https://biomejs.dev/blog/biome-v2-0-beta/"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "March 5, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-03-05.html"
     }
   },
   {
@@ -712,23 +712,6 @@
     "example": {
       "title": "Rspack joins the Next.js ecosystem - Rspack",
       "url": "https://rspack.dev/blog/rspack-next-partner"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://lea.verou.me",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "Survey",
-      "CSS",
-      "WebComponents",
-      "opinion"
-    ],
-    "example": {
-      "title": "Web Components are not Framework Components — and That’s Okay • Lea Verou",
-      "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
     }
   },
   {
@@ -1063,6 +1046,22 @@
     "example": {
       "title": "Fluent React",
       "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://lea.verou.me",
+    "tags": [
+      "HTML",
+      "Survey",
+      "article",
+      "CSS",
+      "WebComponents",
+      "opinion"
+    ],
+    "example": {
+      "title": "Web Components are not Framework Components — and That’s Okay • Lea Verou",
+      "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
     }
   },
   {
@@ -8584,5 +8583,34 @@
       "url": "https://github.com/aidenybai/bippy"
     },
     "rssUrl": "https://github.com/aidenybai/bippy/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zod.dev",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing Zod 4 | Zod",
+      "url": "https://zod.dev/v4"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/webdiscus/ansis",
+    "tags": [
+      "JavaScript",
+      "library",
+      "color"
+    ],
+    "example": {
+      "title": "webdiscus/ansis: CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.",
+      "url": "https://github.com/webdiscus/ansis"
+    },
+    "rssUrl": "https://github.com/webdiscus/ansis/releases.atom"
   }
 ]
