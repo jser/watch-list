@@ -737,6 +737,13 @@
     ]
   },
   {
+    "url": "https://overreacted.io",
+    "feeds": [
+      "https://overreacted.io/atom.xml",
+      "https://overreacted.io/rss.xml"
+    ]
+  },
+  {
     "url": "https://oxc-project.github.io",
     "feeds": [
       "https://oxc-project.github.io/feeds/blog-en.rss",
