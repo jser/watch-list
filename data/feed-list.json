@@ -1877,6 +1877,12 @@
     ]
   },
   {
+    "url": "https://github.com/macieklamberski/feedsmith",
+    "feeds": [
+      "https://github.com/macieklamberski/feedsmith/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2120,6 +2126,13 @@
     "feeds": [
       "https://oisham.hatenablog.com/feed",
       "https://oisham.hatenablog.com/rss"
+    ]
+  },
+  {
+    "url": "https://overreacted.io",
+    "feeds": [
+      "https://overreacted.io/atom.xml",
+      "https://overreacted.io/rss.xml"
     ]
   },
   {

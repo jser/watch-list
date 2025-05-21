@@ -157,7 +157,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -167,11 +167,12 @@
       "JSON",
       "Markdown",
       "TypeScript",
-      "css"
+      "css",
+      "HTML"
     ],
     "example": {
-      "title": "ESLint v9.26.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/05/eslint-v9.26.0-released/"
+      "title": "ESLint can now lint HTML using the html-eslint language plugin - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/05/eslint-html-plugin/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
   },
@@ -8860,5 +8861,32 @@
       "url": "https://github.com/webdiscus/ansis"
     },
     "rssUrl": "https://github.com/webdiscus/ansis/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/macieklamberski/feedsmith",
+    "tags": [
+      "JavaScript",
+      "rss",
+      "library"
+    ],
+    "example": {
+      "title": "macieklamberski/feedsmith: Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.",
+      "url": "https://github.com/macieklamberski/feedsmith"
+    },
+    "rssUrl": "https://github.com/macieklamberski/feedsmith/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://overreacted.io",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "What Does \"use client\" Do? — overreacted",
+      "url": "https://overreacted.io/what-does-use-client-do/"
+    },
+    "rssUrl": "https://overreacted.io/atom.xml"
   }
 ]

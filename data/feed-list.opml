@@ -313,6 +313,7 @@
 <outline text="github.com/ije/mono-jsx" title="github.com/ije/mono-jsx" type="rss" xmlUrl="https://github.com/ije/mono-jsx/releases.atom"/>
 <outline text="github.com/aidenybai/bippy" title="github.com/aidenybai/bippy" type="rss" xmlUrl="https://github.com/aidenybai/bippy/releases.atom"/>
 <outline text="github.com/webdiscus/ansis" title="github.com/webdiscus/ansis" type="rss" xmlUrl="https://github.com/webdiscus/ansis/releases.atom"/>
+<outline text="github.com/macieklamberski/feedsmith" title="github.com/macieklamberski/feedsmith" type="rss" xmlUrl="https://github.com/macieklamberski/feedsmith/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
@@ -352,6 +353,7 @@
 <outline text="nsaunders.dev" title="nsaunders.dev" type="rss" xmlUrl="https://nsaunders.dev/rss.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
+<outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
 <outline text="oxc-project.github.io" title="oxc-project.github.io" type="rss" xmlUrl="https://oxc-project.github.io/feeds/blog-en.rss"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
 <outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
