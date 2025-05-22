@@ -767,12 +767,6 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/TypeScript",
-    "feeds": [
-      "https://github.com/microsoft/TypeScript/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/devicescript",
     "feeds": [
       "https://github.com/microsoft/devicescript/releases.atom"
