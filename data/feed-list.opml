@@ -128,7 +128,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/microsoft/TypeScript" title="github.com/microsoft/TypeScript" type="rss" xmlUrl="https://github.com/microsoft/TypeScript/releases.atom"/>
 <outline text="github.com/microsoft/devicescript" title="github.com/microsoft/devicescript" type="rss" xmlUrl="https://github.com/microsoft/devicescript/releases.atom"/>
 <outline text="github.com/webpro/knip" title="github.com/webpro/knip" type="rss" xmlUrl="https://github.com/webpro/knip/releases.atom"/>
 <outline text="github.com/mizchi/lizod" title="github.com/mizchi/lizod" type="rss" xmlUrl="https://github.com/mizchi/lizod/releases.atom"/>
