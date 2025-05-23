@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "news"
     ],
     "example": {
-      "title": "Node.js — Wednesday, May 14, 2025 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/may-2025-security-releases"
+      "title": "Node.js — Node v24.1.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.1.0"
     }
   },
   {
@@ -140,18 +140,6 @@
   },
   {
     "count": 20,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 138.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/138.0/releasenotes/"
-    }
-  },
-  {
-    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -165,8 +153,20 @@
       "HTML"
     ],
     "example": {
-      "title": "ESLint can now lint HTML using the html-eslint language plugin - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/05/eslint-html-plugin/"
+      "title": "ESLint v9.0.0: A retrospective - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/05/eslint-v9.0.0-retrospective/"
+    }
+  },
+  {
+    "count": 20,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 138.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/138.0/releasenotes/"
     }
   },
   {
@@ -310,14 +310,11 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
-    "count": 11,
+    "count": 10,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
-      "browser",
-      "JavaScript",
-      "testing",
-      "ReleaseNote",
-      "playwright"
+      "playwright",
+      "ReleaseNote"
     ],
     "example": {
       "title": "Release v1.52.0 · microsoft/playwright",
