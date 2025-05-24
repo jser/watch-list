@@ -116,17 +116,18 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
       "ReleaseNote",
       "article",
-      "performance"
+      "performance",
+      "golang"
     ],
     "example": {
-      "title": "A 10x Faster TypeScript - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/"
+      "title": "Announcing TypeScript Native Previews - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -430,24 +431,6 @@
   },
   {
     "count": 7,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "webpack",
-      "bundler",
-      "ReleaseNote",
-      "JavaScript",
-      "rspack",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Release v1.1.8 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 7,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -514,6 +497,24 @@
       "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 6,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "JavaScript",
+      "bundler",
+      "rspack",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Release v1.1.8 · web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 6,
