@@ -1588,5 +1588,11 @@
     "feeds": [
       "https://zenn.dev/p/canary_techblog/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/m_n/",
+    "feeds": [
+      "https://zenn.dev/m_n/feed"
+    ]
   }
 ]
