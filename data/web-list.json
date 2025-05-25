@@ -20,7 +20,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 53,
+    "count": 54,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -40,8 +40,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.9 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.9"
+      "title": "Bun v1.2.14 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.14"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -8870,5 +8870,19 @@
       "url": "https://overreacted.io/what-does-use-client-do/"
     },
     "rssUrl": "https://overreacted.io/atom.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/m_n/",
+    "tags": [
+      "TypeScript",
+      "Conference",
+      "document"
+    ],
+    "example": {
+      "title": "TSKaigi資料まとめ",
+      "url": "https://zenn.dev/m_n/articles/a1189e28e43313"
+    },
+    "rssUrl": "https://zenn.dev/m_n/feed"
   }
 ]

@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 53,
+    "count": 54,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -39,8 +39,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.9 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.9"
+      "title": "Bun v1.2.14 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.14"
     }
   },
   {
@@ -8620,6 +8620,19 @@
     "example": {
       "title": "What Does \"use client\" Do? — overreacted",
       "url": "https://overreacted.io/what-does-use-client-do/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/m_n/",
+    "tags": [
+      "TypeScript",
+      "Conference",
+      "document"
+    ],
+    "example": {
+      "title": "TSKaigi資料まとめ",
+      "url": "https://zenn.dev/m_n/articles/a1189e28e43313"
     }
   }
 ]
