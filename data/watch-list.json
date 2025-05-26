@@ -44,17 +44,15 @@
     }
   },
   {
-    "count": 35,
+    "count": 34,
     "url": "https://developer.chrome.com",
     "tags": [
-      "browser",
-      "HTML",
-      "article",
       "Chrome",
       "ReleaseNote",
       "debug",
       "testing",
       "Tools",
+      "article",
       "JavaScript",
       "performance",
       "WebGL",
@@ -63,7 +61,8 @@
       "WebAssembly",
       "LanguageModel",
       "Firefox",
-      "puppeteer"
+      "puppeteer",
+      "HTML"
     ],
     "example": {
       "title": "Chrome 134  |  Release notes  |  Chrome for Developers",
@@ -2141,32 +2140,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/microsoft/devicescript",
-    "tags": [
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "microsoft/devicescript: TypeScript for Tiny IoT Devices",
-      "url": "https://github.com/microsoft/devicescript"
-    },
-    "rssUrl": "https://github.com/microsoft/devicescript/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.honeybadger.io",
-    "tags": [
-      "JavaScript",
-      "RegExp",
-      "article"
-    ],
-    "example": {
-      "title": "Regular expressions in JavaScript - Honeybadger Developer Blog",
-      "url": "https://www.honeybadger.io/blog/javascript-regular-expressions/"
     }
   },
   {
