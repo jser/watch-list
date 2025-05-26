@@ -767,12 +767,6 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/devicescript",
-    "feeds": [
-      "https://github.com/microsoft/devicescript/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/webpro/knip",
     "feeds": [
       "https://github.com/webpro/knip/releases.atom"
@@ -2681,12 +2675,6 @@
     "url": "https://www.fermyon.com",
     "feeds": [
       "https://www.fermyon.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.honeybadger.io",
-    "feeds": [
-      "https://www.honeybadger.io/blog/feed.xml"
     ]
   },
   {

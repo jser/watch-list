@@ -128,7 +128,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/microsoft/devicescript" title="github.com/microsoft/devicescript" type="rss" xmlUrl="https://github.com/microsoft/devicescript/releases.atom"/>
 <outline text="github.com/webpro/knip" title="github.com/webpro/knip" type="rss" xmlUrl="https://github.com/webpro/knip/releases.atom"/>
 <outline text="github.com/mizchi/lizod" title="github.com/mizchi/lizod" type="rss" xmlUrl="https://github.com/mizchi/lizod/releases.atom"/>
 <outline text="github.com/stepci/garph" title="github.com/stepci/garph" type="rss" xmlUrl="https://github.com/stepci/garph/releases.atom"/>
@@ -436,7 +435,6 @@
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.feelback.dev" title="www.feelback.dev" type="rss" xmlUrl="https://www.feelback.dev/rss.xml"/>
 <outline text="www.fermyon.com" title="www.fermyon.com" type="rss" xmlUrl="https://www.fermyon.com/atom.xml"/>
-<outline text="www.honeybadger.io" title="www.honeybadger.io" type="rss" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
 <outline text="www.htmhell.dev" title="www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.keithcirkel.co.uk" title="www.keithcirkel.co.uk" type="rss" xmlUrl="https://www.keithcirkel.co.uk/feed.xml"/>

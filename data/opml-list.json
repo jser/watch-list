@@ -1285,12 +1285,6 @@
     ]
   },
   {
-    "url": "https://www.honeybadger.io",
-    "feeds": [
-      "https://www.honeybadger.io/blog/feed.xml"
-    ]
-  },
-  {
     "url": "https://www.htmhell.dev",
     "feeds": [
       "https://www.htmhell.dev/feed.xml",
