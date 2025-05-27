@@ -186,30 +186,6 @@
     }
   },
   {
-    "count": 14,
-    "url": "https://web.dev",
-    "tags": [
-      "performance",
-      "browser",
-      "Chrome",
-      "Extension",
-      "article",
-      "JavaScript",
-      "CSS",
-      "tutorial",
-      "testing",
-      "nodejs",
-      "WebPlatformAPI",
-      "HTML",
-      "css ",
-      "Unicode"
-    ],
-    "example": {
-      "title": "The Popover API is now Baseline Newly available  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/popover-baseline?hl=en"
-    }
-  },
-  {
     "count": 13,
     "url": "https://www.electronjs.org",
     "tags": [
@@ -220,6 +196,28 @@
     "example": {
       "title": "Electron 36.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-36-0"
+    }
+  },
+  {
+    "count": 13,
+    "url": "https://web.dev",
+    "tags": [
+      "JavaScript",
+      "article",
+      "CSS",
+      "performance",
+      "tutorial",
+      "browser",
+      "testing",
+      "nodejs",
+      "WebPlatformAPI",
+      "HTML",
+      "css ",
+      "Unicode"
+    ],
+    "example": {
+      "title": "The Popover API is now Baseline Newly available  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/popover-baseline?hl=en"
     }
   },
   {
@@ -235,47 +233,6 @@
     "example": {
       "title": "Next.js 15.3 | Next.js",
       "url": "https://nextjs.org/blog/next-15-3"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.7.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 12,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "video",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "C++",
-      "Next.js",
-      "nodejs",
-      "history",
-      "vite",
-      "Angular",
-      "React",
-      "slide"
-    ],
-    "example": {
-      "title": "React Query API Design – Lessons Learned - Dominik Dorfmeister - YouTube",
-      "url": "https://www.youtube.com/watch?v=l3PxErcKeAI"
     }
   },
   {
@@ -308,6 +265,47 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.4"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "JavaScript",
+      "video",
+      "performance",
+      "TypeScript",
+      "blink",
+      "Chrome",
+      "Conference",
+      "C++",
+      "Next.js",
+      "nodejs",
+      "history",
+      "vite",
+      "Angular",
+      "React",
+      "slide"
+    ],
+    "example": {
+      "title": "React Query API Design – Lessons Learned - Dominik Dorfmeister - YouTube",
+      "url": "https://www.youtube.com/watch?v=l3PxErcKeAI"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.7.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 10,
@@ -923,6 +921,23 @@
   },
   {
     "count": 3,
+    "url": "https://docs.google.com",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "slide",
+      "vite",
+      "Rust",
+      "rollup",
+      "bundler"
+    ],
+    "example": {
+      "title": "2025-05-23 SignalとObservable ― 新たなデータモデルを解きほぐす (TSKaigi 2025) - Google スライド",
+      "url": "https://docs.google.com/presentation/d/1c7fYqn7-v3hnbKtmwXHbvwuCs6cNq_ThLKVDZ7rvbA0/preview#slide=id.g260298bad6d_0_77"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -1325,21 +1340,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/vanjs-org/van",
-    "tags": [
-      "JavaScript",
-      "library",
-      "GUI",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "1.0.0: Milestone for API stability · vanjs-org/van · Discussion #72",
-      "url": "https://github.com/vanjs-org/van/discussions/72"
-    },
-    "rssUrl": "https://github.com/vanjs-org/van/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://parceljs.org",
     "tags": [
       "bundler",
@@ -1393,23 +1393,6 @@
     "example": {
       "title": "How to Pass a Component as a Prop in React | Total TypeScript",
       "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://docs.google.com",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "slide",
-      "vite",
-      "Rust",
-      "rollup",
-      "bundler"
-    ],
-    "example": {
-      "title": "State of Vite (ViteConf 2023) - Google スライド",
-      "url": "https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/mobilepresent#slide=id.p"
     }
   },
   {
@@ -2144,46 +2127,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/webpro/knip",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "webpro/knip: ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!",
-      "url": "https://github.com/webpro/knip"
-    },
-    "rssUrl": "https://github.com/webpro/knip/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.hog.as",
-    "tags": [
-      "Chrome",
-      "article",
-      "debug"
-    ],
-    "example": {
-      "title": "Chrome113でHTTPヘッダを上書きしていろんな状態をお試しできる - hogashi.*",
-      "url": "https://blog.hog.as/entry/2023/05/11/181952"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mizchi/lizod",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "mizchi/lizod",
-      "url": "https://github.com/mizchi/lizod"
-    },
-    "rssUrl": "https://github.com/mizchi/lizod/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/stepci/garph",
     "tags": [
       "TypeScript",
@@ -2866,6 +2809,20 @@
       "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v11.0.0"
     },
     "rssUrl": "https://github.com/GoogleChrome/lighthouse/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vanjs-org/van",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "1.0.0: Milestone for API stability · vanjs-org/van · Discussion #72",
+      "url": "https://github.com/vanjs-org/van/discussions/72"
+    },
+    "rssUrl": "https://github.com/vanjs-org/van/releases.atom"
   },
   {
     "count": 1,

@@ -136,13 +136,6 @@
     ]
   },
   {
-    "url": "https://blog.hog.as",
-    "feeds": [
-      "https://blog.hog.as/feed",
-      "https://blog.hog.as/rss"
-    ]
-  },
-  {
     "url": "https://blog.isquaredsoftware.com",
     "feeds": [
       "https://blog.isquaredsoftware.com/index.xml"
