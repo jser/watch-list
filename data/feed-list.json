@@ -136,13 +136,6 @@
     ]
   },
   {
-    "url": "https://blog.hog.as",
-    "feeds": [
-      "https://blog.hog.as/feed",
-      "https://blog.hog.as/rss"
-    ]
-  },
-  {
     "url": "https://blog.isquaredsoftware.com",
     "feeds": [
       "https://blog.isquaredsoftware.com/index.xml"
@@ -497,15 +490,15 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -647,12 +640,6 @@
     ]
   },
   {
-    "url": "https://github.com/vanjs-org/van",
-    "feeds": [
-      "https://github.com/vanjs-org/van/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
@@ -764,18 +751,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpro/knip",
-    "feeds": [
-      "https://github.com/webpro/knip/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mizchi/lizod",
-    "feeds": [
-      "https://github.com/mizchi/lizod/releases.atom"
     ]
   },
   {
@@ -920,6 +895,12 @@
     "url": "https://github.com/GoogleChrome/lighthouse",
     "feeds": [
       "https://github.com/GoogleChrome/lighthouse/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vanjs-org/van",
+    "feeds": [
+      "https://github.com/vanjs-org/van/releases.atom"
     ]
   },
   {

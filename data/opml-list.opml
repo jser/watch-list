@@ -26,7 +26,6 @@
 <outline text="blog.flatt.tech" title="blog.flatt.tech" type="rss" xmlUrl="https://blog.flatt.tech/feed"/>
 <outline text="blog.getbootstrap.com" title="blog.getbootstrap.com" type="rss" xmlUrl="https://blog.getbootstrap.com/feed.xml"/>
 <outline text="blog.google" title="blog.google" type="rss" xmlUrl="https://blog.google/rss/"/>
-<outline text="blog.hog.as" title="blog.hog.as" type="rss" xmlUrl="https://blog.hog.as/feed"/>
 <outline text="blog.isquaredsoftware.com" title="blog.isquaredsoftware.com" type="rss" xmlUrl="https://blog.isquaredsoftware.com/index.xml"/>
 <outline text="blog.jetbrains.com" title="blog.jetbrains.com" type="rss" xmlUrl="https://blog.jetbrains.com/blog/feed/"/>
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
