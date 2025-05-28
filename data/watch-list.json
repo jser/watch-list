@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 54,
+    "count": 53,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -71,25 +71,6 @@
   },
   {
     "count": 25,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "library",
-      "React",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm"
-    ],
-    "example": {
-      "title": "An Update on Fresh | Deno",
-      "url": "https://deno.com/blog/an-update-on-fresh"
-    }
-  },
-  {
-    "count": 25,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -122,6 +103,25 @@
     "example": {
       "title": "Announcing TypeScript Native Previews - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
+    }
+  },
+  {
+    "count": 24,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "library",
+      "ReleaseNote",
+      "React",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm"
+    ],
+    "example": {
+      "title": "An Update on Fresh | Deno",
+      "url": "https://deno.com/blog/an-update-on-fresh"
     }
   },
   {
@@ -1336,19 +1336,6 @@
     "example": {
       "title": "How To Optimize Performance In Vue Apps | DebugBear",
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://parceljs.org",
-    "tags": [
-      "bundler",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Parcel v2.12.0",
-      "url": "https://parceljs.org/blog/v2-12-0/"
     }
   },
   {
@@ -4865,6 +4852,19 @@
     "example": {
       "title": "方能CDN - 合作伙伴",
       "url": "https://funnull.com/Partner/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://parceljs.org",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Parcel v2.12.0",
+      "url": "https://parceljs.org/blog/v2-12-0/"
     }
   },
   {
