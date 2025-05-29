@@ -640,6 +640,12 @@
     ]
   },
   {
+    "url": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/redux",
     "feeds": [
       "https://github.com/reduxjs/redux/releases.atom"
@@ -727,12 +733,6 @@
     "url": "https://github.com/facebook/relay",
     "feeds": [
       "https://github.com/facebook/relay/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/storybookjs/storybook",
-    "feeds": [
-      "https://github.com/storybookjs/storybook/releases.atom"
     ]
   },
   {

@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 53,
+    "count": 54,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -39,12 +39,12 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.14 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.14"
+      "title": "Bun v1.2.15 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.15"
     }
   },
   {
-    "count": 34,
+    "count": 35,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -65,8 +65,29 @@
       "HTML"
     ],
     "example": {
-      "title": "Chrome 134  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/134"
+      "title": "New in Chrome 137  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-137?hl=en"
+    }
+  },
+  {
+    "count": 25,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "library",
+      "ReleaseNote",
+      "React",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history"
+    ],
+    "example": {
+      "title": "A brief history of JavaScript | Deno",
+      "url": "https://deno.com/blog/history-of-javascript"
     }
   },
   {
@@ -106,25 +127,6 @@
     }
   },
   {
-    "count": 24,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "library",
-      "ReleaseNote",
-      "React",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm"
-    ],
-    "example": {
-      "title": "An Update on Fresh | Deno",
-      "url": "https://deno.com/blog/an-update-on-fresh"
-    }
-  },
-  {
     "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -137,6 +139,18 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.11.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 21,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 139.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/139.0/releasenotes/"
+    }
   },
   {
     "count": 20,
@@ -155,18 +169,6 @@
     "example": {
       "title": "ESLint v9.0.0: A retrospective - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2025/05/eslint-v9.0.0-retrospective/"
-    }
-  },
-  {
-    "count": 20,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 138.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/138.0/releasenotes/"
     }
   },
   {
@@ -237,20 +239,6 @@
   },
   {
     "count": 12,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-04 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -289,6 +277,20 @@
     "example": {
       "title": "React Query API Design – Lessons Learned - Dominik Dorfmeister - YouTube",
       "url": "https://www.youtube.com/watch?v=l3PxErcKeAI"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-04 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update"
     }
   },
   {
@@ -463,6 +465,22 @@
     }
   },
   {
+    "count": 7,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "document",
+      "React",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Wake up, Remix! | Remix",
+      "url": "https://remix.run/blog/wake-up-remix"
+    }
+  },
+  {
     "count": 6,
     "url": "https://www.rspack.dev",
     "tags": [
@@ -529,22 +547,6 @@
     "example": {
       "title": "JavaScript Primer v6.0.0リリース: ES2024の対応とNode.jsのユースケースを刷新 | Web Scratch",
       "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "vite",
-      "document",
-      "React",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Split Route Modules | Remix",
-      "url": "https://remix.run/blog/split-route-modules"
     }
   },
   {
@@ -839,6 +841,19 @@
       "url": "https://github.com/google/zx/releases/tag/8.5.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://blog.angular.dev",
+    "tags": [
+      "Angular",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Announcing Angular v20. The past couple of years have been… | by Minko Gechev | May, 2025 | Angular Blog",
+      "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301"
+    }
   },
   {
     "count": 4,
@@ -1281,19 +1296,6 @@
   },
   {
     "count": 3,
-    "url": "https://blog.angular.dev",
-    "tags": [
-      "Angular",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Angular 2025 Strategy. For the past two and a half years… | by Minko Gechev | Jan, 2025 | Angular Blog",
-      "url": "https://blog.angular.dev/angular-2025-strategy-9ca333dfc334"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://medium.com/airbnb-engineering/",
     "tags": [
       "accessibility",
@@ -1337,6 +1339,22 @@
       "title": "How To Optimize Performance In Vue Apps | DebugBear",
       "url": "https://www.debugbear.com/blog/optimize-vue-performance"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/storybookjs/storybook",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "library",
+      "ReleaseNote",
+      "storybook"
+    ],
+    "example": {
+      "title": "Release v9.0.0 · storybookjs/storybook",
+      "url": "https://github.com/storybookjs/storybook/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
   },
   {
     "count": 2,
@@ -1983,22 +2001,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/storybookjs/storybook",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "library",
-      "ReleaseNote",
-      "storybook"
-    ],
-    "example": {
-      "title": "Release v8.5.0 · storybookjs/storybook",
-      "url": "https://github.com/storybookjs/storybook/releases/tag/v8.5.0"
-    },
-    "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/nrwl/nx",
     "tags": [
       "nodejs",
@@ -2035,6 +2037,19 @@
     "example": {
       "title": "Why I’m excited about text-box-trim as a designer - Piccalilli",
       "url": "https://piccalil.li/blog/why-im-excited-about-text-box-trim-as-a-designer/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://blog.vlt.sh",
+    "tags": [
+      "npm",
+      "article",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Introducing `jsr:` Support",
+      "url": "https://blog.vlt.sh/blog/jsr-support"
     }
   },
   {
@@ -7097,18 +7112,6 @@
   },
   {
     "count": 1,
-    "url": "https://blog.vlt.sh",
-    "tags": [
-      "npm",
-      "article"
-    ],
-    "example": {
-      "title": "Introducing the vlt Package Manager & Serverless Registry",
-      "url": "https://blog.vlt.sh/blog/introducing-vlt-and-vsr"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://npm.chart.dev",
     "tags": [
       "npm",
@@ -8563,6 +8566,18 @@
     "example": {
       "title": "TSKaigi資料まとめ",
       "url": "https://zenn.dev/m_n/articles/a1189e28e43313"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://react.gg",
+    "tags": [
+      "React",
+      "tutorial"
+    ],
+    "example": {
+      "title": "React, visualized – react.gg",
+      "url": "https://react.gg/visualized"
     }
   }
 ]
