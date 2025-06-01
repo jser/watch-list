@@ -646,12 +646,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux",
-    "feeds": [
-      "https://github.com/reduxjs/redux/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"
@@ -751,18 +745,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/stepci/garph",
-    "feeds": [
-      "https://github.com/stepci/garph/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/sveltejs/svelte",
-    "feeds": [
-      "https://github.com/sveltejs/svelte/releases.atom"
     ]
   },
   {
@@ -1099,6 +1081,12 @@
     "url": "https://github.com/unjs/unenv",
     "feeds": [
       "https://github.com/unjs/unenv/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux",
+    "feeds": [
+      "https://github.com/reduxjs/redux/releases.atom"
     ]
   },
   {
@@ -1849,6 +1837,12 @@
     "url": "https://github.com/macieklamberski/feedsmith",
     "feeds": [
       "https://github.com/macieklamberski/feedsmith/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/babel/babel",
+    "feeds": [
+      "https://github.com/babel/babel/releases.atom"
     ]
   },
   {
