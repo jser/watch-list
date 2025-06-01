@@ -197,20 +197,6 @@
   },
   {
     "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 36.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-36-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 13,
     "url": "https://web.dev",
     "tags": [
       "JavaScript",
@@ -265,7 +251,7 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://www.youtube.com",
     "tags": [
       "JavaScript",
@@ -282,13 +268,28 @@
       "vite",
       "Angular",
       "React",
-      "slide"
+      "slide",
+      "DOM"
     ],
     "example": {
-      "title": "React Query API Design – Lessons Learned - Dominik Dorfmeister - YouTube",
-      "url": "https://www.youtube.com/watch?v=l3PxErcKeAI"
+      "title": "JavaScriptフレームワークがDOMをレンダリングする3つの方法 - YouTube",
+      "url": "https://www.youtube.com/watch?v=0C-y59betmY"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 36.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-36-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
@@ -1407,20 +1408,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/reduxjs/redux",
-    "tags": [
-      "redux",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · reduxjs/redux",
-      "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://blog.rafaelgss.dev",
     "tags": [
       "node.js",
@@ -2202,45 +2189,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/stepci/garph",
-    "tags": [
-      "TypeScript",
-      "GraphQL",
-      "library"
-    ],
-    "example": {
-      "title": "stepci/garph: Fullstack GraphQL Framework for TypeScript",
-      "url": "https://github.com/stepci/garph"
-    },
-    "rssUrl": "https://github.com/stepci/garph/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/sveltejs/svelte",
-    "tags": [
-      "Svelte",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release sveltejs@4.0.0-next.0 · sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0-next.0"
-    },
-    "rssUrl": "https://github.com/sveltejs/svelte/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://reacthandbook.dev",
-    "tags": [
-      "React",
-      "document"
-    ],
-    "example": {
-      "title": "React Handbook",
-      "url": "https://reacthandbook.dev/"
-    }
   },
   {
     "count": 1,
@@ -4091,6 +4039,20 @@
       "url": "https://github.com/unjs/unenv/tree/main"
     },
     "rssUrl": "https://github.com/unjs/unenv/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/reduxjs/redux",
+    "tags": [
+      "redux",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.0.0 · reduxjs/redux",
+      "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux/releases.atom"
   },
   {
     "count": 1,
@@ -8827,5 +8789,18 @@
       "title": "React, visualized – react.gg",
       "url": "https://react.gg/visualized"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/babel/babel",
+    "tags": [
+      "babel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v8.0.0-beta.0 · babel/babel",
+      "url": "https://github.com/babel/babel/releases/tag/v8.0.0-beta.0"
+    },
+    "rssUrl": "https://github.com/babel/babel/releases.atom"
   }
 ]
