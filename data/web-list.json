@@ -20,12 +20,12 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 53,
+    "count": 52,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "ReleaseNote",
       "article",
+      "ReleaseNote",
       "CommonJS",
       "ECMAScript",
       "module",
@@ -46,15 +46,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 35,
+    "count": 34,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "ReleaseNote",
       "debug",
       "testing",
       "Tools",
       "article",
+      "ReleaseNote",
       "JavaScript",
       "performance",
       "WebGL",
@@ -117,7 +117,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 24,
+    "count": 23,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -1408,21 +1408,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.rafaelgss.dev",
-    "tags": [
-      "node.js",
-      "performance",
-      "article",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Node.js 2023 Year in An Article",
-      "url": "https://blog.rafaelgss.dev/nodejs-2023-year-in-review"
-    },
-    "rssUrl": "https://blog.rafaelgss.dev/rss"
-  },
-  {
-    "count": 2,
     "url": "https://www.totaltypescript.com",
     "tags": [
       "TypeScript",
@@ -2189,33 +2174,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.nray.dev",
-    "tags": [
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "300ms Faster: Reducing Wikipedia's Total Blocking Time",
-      "url": "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/"
-    },
-    "rssUrl": "https://www.nray.dev/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.jxck.io",
-    "tags": [
-      "Fetch",
-      "article",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "AbortSignal.any(), AbortSignal.timeout(), そして addEvnetListener() の Signal | blog.jxck.io",
-      "url": "https://blog.jxck.io/entries/2023-06-01/abort-signal-any.html"
-    },
-    "rssUrl": "https://blog.jxck.io/feeds/atom.xml"
   },
   {
     "count": 1,
@@ -4951,6 +4909,19 @@
       "title": "Using localStorage in Modern Applications - A Comprehensive Guide | RxDB - JavaScript Database",
       "url": "https://rxdb.info/articles/localstorage.html"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.rafaelgss.dev",
+    "tags": [
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "Node.js 2023 Year in An Article",
+      "url": "https://blog.rafaelgss.dev/nodejs-2023-year-in-review"
+    },
+    "rssUrl": "https://blog.rafaelgss.dev/rss"
   },
   {
     "count": 1,

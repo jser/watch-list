@@ -163,12 +163,6 @@
     ]
   },
   {
-    "url": "https://blog.jxck.io",
-    "feeds": [
-      "https://blog.jxck.io/feeds/atom.xml"
-    ]
-  },
-  {
     "url": "https://blog.osstech.co.jp",
     "feeds": [
       "https://blog.osstech.co.jp/posts/index.xml"
@@ -1331,12 +1325,6 @@
     "feeds": [
       "https://www.mux.com/blog/rss.xml",
       "https://www.mux.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.nray.dev",
-    "feeds": [
-      "https://www.nray.dev/rss.xml"
     ]
   },
   {
