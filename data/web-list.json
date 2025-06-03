@@ -2133,6 +2133,20 @@
   },
   {
     "count": 2,
+    "url": "https://vitest.dev",
+    "tags": [
+      "vite",
+      "test",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vitest 3.2 is out! | Vitest",
+      "url": "https://vitest.dev/blog/vitest-3-2.html"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/apollographql/apollo-client",
     "tags": [
       "GraphQL",
@@ -7847,20 +7861,6 @@
     "example": {
       "title": "Announcing Nuxt Content version 3",
       "url": "https://content.nuxt.com/blog/v3"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://vitest.dev",
-    "tags": [
-      "vite",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vitest 3.0 is out! | Vitest",
-      "url": "https://vitest.dev/blog/vitest-3"
     }
   },
   {
