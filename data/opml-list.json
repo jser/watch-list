@@ -1156,6 +1156,12 @@
     ]
   },
   {
+    "url": "https://voidzero.dev",
+    "feeds": [
+      "https://voidzero.dev/feed.xml"
+    ]
+  },
+  {
     "url": "https://web-platform-dx.github.io",
     "feeds": [
       "https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"
@@ -1568,6 +1574,12 @@
     "url": "https://zenn.dev/m_n/",
     "feeds": [
       "https://zenn.dev/m_n/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/j_sakamoto/",
+    "feeds": [
+      "https://zenn.dev/j_sakamoto/feed"
     ]
   }
 ]

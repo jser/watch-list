@@ -1362,6 +1362,24 @@
   },
   {
     "count": 3,
+    "url": "https://blog.platformatic.dev",
+    "tags": [
+      "nodejs",
+      "stream",
+      "article",
+      "V8",
+      "performance",
+      "php",
+      "Rust"
+    ],
+    "example": {
+      "title": "Seamlessly Blend PHP with Node.js",
+      "url": "https://blog.platformatic.dev/seamlessly-blend-php-with-nodejs"
+    },
+    "rssUrl": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/vueuse/vueuse",
     "tags": [
       "Vue",
@@ -2010,22 +2028,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.platformatic.dev",
-    "tags": [
-      "nodejs",
-      "stream",
-      "article",
-      "V8",
-      "performance"
-    ],
-    "example": {
-      "title": "Boost Node.js with V8 GC Optimization",
-      "url": "https://blog.platformatic.dev/optimizing-nodejs-performance-v8-memory-management-and-gc-tuning"
-    },
-    "rssUrl": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"
-  },
-  {
-    "count": 2,
     "url": "https://mui.com",
     "tags": [
       "React",
@@ -2144,6 +2146,23 @@
       "title": "Vitest 3.2 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-3-2.html"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://shopify.engineering",
+    "tags": [
+      "React",
+      "Native",
+      "article",
+      "HTML",
+      "JavaScript",
+      "module"
+    ],
+    "example": {
+      "title": "Resilient Import Maps - Better Theme Development and Beyond (2025) - Shopify",
+      "url": "https://shopify.engineering/resilient-import-maps"
+    },
+    "rssUrl": "https://shopify.engineering/blog.atom"
   },
   {
     "count": 2,
@@ -7865,20 +7884,6 @@
   },
   {
     "count": 1,
-    "url": "https://shopify.engineering",
-    "tags": [
-      "React",
-      "Native",
-      "article"
-    ],
-    "example": {
-      "title": "Five years of React Native at Shopify (2025) - Shopify",
-      "url": "https://shopify.engineering/five-years-of-react-native-at-shopify"
-    },
-    "rssUrl": "https://shopify.engineering/blog.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/desko27/react-call",
     "tags": [
       "React",
@@ -8773,5 +8778,47 @@
       "url": "https://github.com/babel/babel/releases/tag/v8.0.0-beta.0"
     },
     "rssUrl": "https://github.com/babel/babel/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article"
+    ],
+    "example": {
+      "title": "Announcing Rolldown-Vite | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-rolldown-vite"
+    },
+    "rssUrl": "https://voidzero.dev/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/almadoro/react-just",
+    "tags": [
+      "vite",
+      "React",
+      "Tools"
+    ],
+    "example": {
+      "title": "almadoro/react-just: React Server Components without a framework. Powered by Vite",
+      "url": "https://github.com/almadoro/react-just"
+    },
+    "rssUrl": "https://github.com/almadoro/react-just/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/j_sakamoto/",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "minify の効果を最大限に引き出す TypeScript コードを書く",
+      "url": "https://zenn.dev/j_sakamoto/articles/1b5e1d563b1c30"
+    },
+    "rssUrl": "https://zenn.dev/j_sakamoto/feed"
   }
 ]
