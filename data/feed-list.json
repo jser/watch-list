@@ -2085,6 +2085,13 @@
     ]
   },
   {
+    "url": "https://nx.dev",
+    "feeds": [
+      "https://nx.dev/blog/rss.xml",
+      "https://nx.dev/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://oisham.hatenablog.com",
     "feeds": [
       "https://oisham.hatenablog.com/feed",

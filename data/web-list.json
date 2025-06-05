@@ -20,13 +20,13 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 52,
+    "count": 51,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "article",
       "ReleaseNote",
       "CommonJS",
+      "article",
       "ECMAScript",
       "module",
       "yarn",
@@ -7129,7 +7129,8 @@
     "example": {
       "title": "Announcing Nx 20 | Nx Blog",
       "url": "https://nx.dev/blog/announcing-nx-20"
-    }
+    },
+    "rssUrl": "https://nx.dev/blog/rss.xml"
   },
   {
     "count": 1,
