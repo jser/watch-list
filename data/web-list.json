@@ -279,6 +279,21 @@
   },
   {
     "count": 12,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -290,21 +305,6 @@
       "url": "https://www.electronjs.org/blog/electron-36-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-04 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/04/19/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 11,
@@ -417,6 +417,23 @@
   },
   {
     "count": 8,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "document",
+      "React",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "React Router Open Governance | Remix",
+      "url": "https://remix.run/blog/rr-governance"
+    },
+    "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 8,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -481,23 +498,6 @@
       "url": "https://biomejs.dev/blog/biome-v2-0-beta/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
-  },
-  {
-    "count": 7,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "vite",
-      "document",
-      "React",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Wake up, Remix! | Remix",
-      "url": "https://remix.run/blog/wake-up-remix"
-    },
-    "rssUrl": "https://remix.run/blog/rss.xml"
   },
   {
     "count": 6,
@@ -1549,6 +1549,21 @@
       "title": "Changelog: Cypress App | Cypress Documentation",
       "url": "https://docs.cypress.io/app/references/changelog#14-0-0"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/withastro/astro",
+    "tags": [
+      "astro",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release astro@5.9.0 · withastro/astro",
+      "url": "https://github.com/withastro/astro/releases/tag/astro%405.9.0"
+    },
+    "rssUrl": "https://github.com/withastro/astro/releases.atom"
   },
   {
     "count": 2,
@@ -3081,21 +3096,6 @@
       "url": "https://github.com/parcel-bundler/watcher/releases/tag/v2.3.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/watcher/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/withastro/astro",
-    "tags": [
-      "astro",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release astro@3.0.0 · withastro/astro",
-      "url": "https://github.com/withastro/astro/releases/tag/astro%403.0.0"
-    },
-    "rssUrl": "https://github.com/withastro/astro/releases.atom"
   },
   {
     "count": 1,
@@ -8821,5 +8821,33 @@
       "url": "https://zenn.dev/j_sakamoto/articles/1b5e1d563b1c30"
     },
     "rssUrl": "https://zenn.dev/j_sakamoto/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://evilmartians.com",
+    "tags": [
+      "css",
+      "color",
+      "article"
+    ],
+    "example": {
+      "title": "Exploring the OKLCH ecosystem and its tools—Martian Chronicles, Evil Martians’ team blog",
+      "url": "https://evilmartians.com/chronicles/exploring-the-oklch-ecosystem-and-its-tools"
+    },
+    "rssUrl": "https://evilmartians.com/chronicles.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/dinii/",
+    "tags": [
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "プロファイラを利用して Node.js サーバーのレスポンス時間を 200 秒 → 20 秒に短縮した話",
+      "url": "https://zenn.dev/dinii/articles/improve-latency-with-profiler"
+    },
+    "rssUrl": "https://zenn.dev/p/dinii/feed"
   }
 ]

@@ -427,6 +427,13 @@
     ]
   },
   {
+    "url": "https://evilmartians.com",
+    "feeds": [
+      "https://evilmartians.com/chronicles.atom",
+      "https://evilmartians.com/events.atom"
+    ]
+  },
+  {
     "url": "https://expressjs.com",
     "feeds": [
       "https://expressjs.com/feed.xml",
@@ -649,6 +656,12 @@
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/withastro/astro",
+    "feeds": [
+      "https://github.com/withastro/astro/releases.atom"
     ]
   },
   {
@@ -901,12 +914,6 @@
     "url": "https://github.com/parcel-bundler/watcher",
     "feeds": [
       "https://github.com/parcel-bundler/watcher/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/withastro/astro",
-    "feeds": [
-      "https://github.com/withastro/astro/releases.atom"
     ]
   },
   {
@@ -2978,6 +2985,12 @@
     "url": "https://zenn.dev/j_sakamoto/",
     "feeds": [
       "https://zenn.dev/j_sakamoto/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/dinii/",
+    "feeds": [
+      "https://zenn.dev/p/dinii/feed"
     ]
   }
 ]
