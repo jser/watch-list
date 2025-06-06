@@ -72,6 +72,7 @@
 <outline text="effectivetypescript.com" title="effectivetypescript.com" type="rss" xmlUrl="https://effectivetypescript.com/atom.xml"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
 <outline text="evanhahn.com" title="evanhahn.com" type="rss" xmlUrl="https://evanhahn.com/blog/index.xml"/>
+<outline text="evilmartians.com" title="evilmartians.com" type="rss" xmlUrl="https://evilmartians.com/chronicles.atom"/>
 <outline text="expressjs.com" title="expressjs.com" type="rss" xmlUrl="https://expressjs.com/feed.xml"/>
 <outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
@@ -252,5 +253,6 @@
 <outline text="zenn.dev/canary_techblog/" title="zenn.dev/canary_techblog/" type="rss" xmlUrl="https://zenn.dev/p/canary_techblog/feed"/>
 <outline text="zenn.dev/m_n/" title="zenn.dev/m_n/" type="rss" xmlUrl="https://zenn.dev/m_n/feed"/>
 <outline text="zenn.dev/j_sakamoto/" title="zenn.dev/j_sakamoto/" type="rss" xmlUrl="https://zenn.dev/j_sakamoto/feed"/>
+<outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
 </body>
 </opml>
