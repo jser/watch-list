@@ -755,18 +755,6 @@
     ]
   },
   {
-    "url": "https://github.com/kaleidawave/ezno",
-    "feeds": [
-      "https://github.com/kaleidawave/ezno/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/lerna/lerna",
-    "feeds": [
-      "https://github.com/lerna/lerna/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tresjs/tres",
     "feeds": [
       "https://github.com/tresjs/tres/releases.atom"

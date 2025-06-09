@@ -126,8 +126,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/kaleidawave/ezno" title="github.com/kaleidawave/ezno" type="rss" xmlUrl="https://github.com/kaleidawave/ezno/releases.atom"/>
-<outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="github.com/tresjs/tres" title="github.com/tresjs/tres" type="rss" xmlUrl="https://github.com/tresjs/tres/releases.atom"/>
 <outline text="github.com/reactwg/server-components" title="github.com/reactwg/server-components" type="rss" xmlUrl="https://github.com/reactwg/server-components/releases.atom"/>
 <outline text="github.com/evanw/polywasm" title="github.com/evanw/polywasm" type="rss" xmlUrl="https://github.com/evanw/polywasm/releases.atom"/>
