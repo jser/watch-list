@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -197,29 +197,6 @@
   },
   {
     "count": 13,
-    "url": "https://web.dev",
-    "tags": [
-      "JavaScript",
-      "article",
-      "CSS",
-      "performance",
-      "tutorial",
-      "browser",
-      "testing",
-      "nodejs",
-      "WebPlatformAPI",
-      "HTML",
-      "css ",
-      "Unicode"
-    ],
-    "example": {
-      "title": "The Popover API is now Baseline Newly available  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/popover-baseline?hl=en"
-    },
-    "rssUrl": "https://web.dev/static/blog/feed.xml"
-  },
-  {
-    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -305,6 +282,29 @@
       "url": "https://www.electronjs.org/blog/electron-36-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://web.dev",
+    "tags": [
+      "CSS",
+      "article",
+      "performance",
+      "tutorial",
+      "browser",
+      "testing",
+      "nodejs",
+      "JavaScript",
+      "WebPlatformAPI",
+      "HTML",
+      "css ",
+      "Unicode"
+    ],
+    "example": {
+      "title": "The Popover API is now Baseline Newly available  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/popover-baseline?hl=en"
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
     "count": 11,
@@ -8821,5 +8821,20 @@
       "url": "https://zenn.dev/dinii/articles/improve-latency-with-profiler"
     },
     "rssUrl": "https://zenn.dev/p/dinii/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/web-infra-dev/rstest",
+    "tags": [
+      "test",
+      "library",
+      "JavaScript",
+      "rspack"
+    ],
+    "example": {
+      "title": "web-infra-dev/rstest: The testing framework powered by Rspack (WIP).",
+      "url": "https://github.com/web-infra-dev/rstest"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rstest/releases.atom"
   }
 ]

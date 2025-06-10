@@ -307,6 +307,7 @@
 <outline text="github.com/macieklamberski/feedsmith" title="github.com/macieklamberski/feedsmith" type="rss" xmlUrl="https://github.com/macieklamberski/feedsmith/releases.atom"/>
 <outline text="github.com/babel/babel" title="github.com/babel/babel" type="rss" xmlUrl="https://github.com/babel/babel/releases.atom"/>
 <outline text="github.com/almadoro/react-just" title="github.com/almadoro/react-just" type="rss" xmlUrl="https://github.com/almadoro/react-just/releases.atom"/>
+<outline text="github.com/web-infra-dev/rstest" title="github.com/web-infra-dev/rstest" type="rss" xmlUrl="https://github.com/web-infra-dev/rstest/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
