@@ -1841,6 +1841,12 @@
     ]
   },
   {
+    "url": "https://github.com/web-infra-dev/rstest",
+    "feeds": [
+      "https://github.com/web-infra-dev/rstest/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
