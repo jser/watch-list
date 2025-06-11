@@ -257,12 +257,6 @@
     ]
   },
   {
-    "url": "https://chriscoyier.net",
-    "feeds": [
-      "https://chriscoyier.net/feed/"
-    ]
-  },
-  {
     "url": "https://claritydev.net",
     "feeds": [
       "https://claritydev.net/rss.xml"
@@ -503,15 +497,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -752,24 +746,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tresjs/tres",
-    "feeds": [
-      "https://github.com/tresjs/tres/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reactwg/server-components",
-    "feeds": [
-      "https://github.com/reactwg/server-components/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/evanw/polywasm",
-    "feeds": [
-      "https://github.com/evanw/polywasm/releases.atom"
     ]
   },
   {
@@ -1985,14 +1961,6 @@
     "url": "https://marmelab.com",
     "feeds": [
       "https://marmelab.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://marmooo.blogspot.com",
-    "feeds": [
-      "https://marmooo.blogspot.com/feeds/posts/default",
-      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
     ]
   },
   {

@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 51,
+    "count": 50,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -311,19 +311,6 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
-    "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.52.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
     "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
@@ -337,6 +324,19 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.42.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.52.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 9,
@@ -483,21 +483,6 @@
   },
   {
     "count": 6,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "webpack",
-      "rspack",
-      "ReleaseNote",
-      "JavaScript",
-      "bundler"
-    ],
-    "example": {
-      "title": "Announcing Rspack v1.0 Alpha - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "webpack",
@@ -597,6 +582,21 @@
     "example": {
       "title": "Considerations for making a tree view component accessible - The GitHub Blog",
       "url": "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "rspack",
+      "webpack",
+      "ReleaseNote",
+      "JavaScript",
+      "bundler"
+    ],
+    "example": {
+      "title": "Announcing Rspack v1.0 Alpha - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     }
   },
   {
@@ -2146,87 +2146,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://marmooo.blogspot.com",
-    "tags": [
-      "CSS",
-      "WebComponents",
-      "article"
-    ],
-    "example": {
-      "title": "HTML 全体の CSS を取得して Shadow DOM に適用する | marmooo's blog",
-      "url": "https://marmooo.blogspot.com/2023/06/html-css-shadow-dom.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tresjs/tres",
-    "tags": [
-      "Vue",
-      "WebGL",
-      "library"
-    ],
-    "example": {
-      "title": "Tresjs/tres: Declarative ThreeJS using Vue Components",
-      "url": "https://github.com/tresjs/tres"
-    },
-    "rssUrl": "https://github.com/tresjs/tres/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://nakedjsx.org",
-    "tags": [
-      "jsx",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "NakedJSX - Use JSX without React",
-      "url": "https://nakedjsx.org/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/reactwg/server-components",
-    "tags": [
-      "React",
-      "tutorial"
-    ],
-    "example": {
-      "title": "RSC From Scratch. Part 1: Server Components · reactwg/server-components · Discussion #5",
-      "url": "https://github.com/reactwg/server-components/discussions/5"
-    },
-    "rssUrl": "https://github.com/reactwg/server-components/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://chriscoyier.net",
-    "tags": [
-      "CSS",
-      "article",
-      "slide"
-    ],
-    "example": {
-      "title": "Modern CSS in Real Life - Chris Coyier",
-      "url": "https://chriscoyier.net/2023/06/06/modern-css-in-real-life/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/evanw/polywasm",
-    "tags": [
-      "WebAssembly",
-      "JavaScript",
-      "library",
-      "polyfill"
-    ],
-    "example": {
-      "title": "evanw/polywasm",
-      "url": "https://github.com/evanw/polywasm"
-    },
-    "rssUrl": "https://github.com/evanw/polywasm/releases.atom"
   },
   {
     "count": 1,

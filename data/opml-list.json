@@ -257,12 +257,6 @@
     ]
   },
   {
-    "url": "https://chriscoyier.net",
-    "feeds": [
-      "https://chriscoyier.net/feed/"
-    ]
-  },
-  {
     "url": "https://claritydev.net",
     "feeds": [
       "https://claritydev.net/rss.xml"
@@ -623,14 +617,6 @@
     "url": "https://marmelab.com",
     "feeds": [
       "https://marmelab.com/atom.xml"
-    ]
-  },
-  {
-    "url": "https://marmooo.blogspot.com",
-    "feeds": [
-      "https://marmooo.blogspot.com/feeds/posts/default",
-      "https://marmooo.blogspot.com/feeds/posts/default?alt=rss",
-      "https://www.blogger.com/feeds/8574128763595619046/posts/default"
     ]
   },
   {
