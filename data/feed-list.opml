@@ -45,7 +45,6 @@
 <outline text="bytecodealliance.org" title="bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
 <outline text="cheerpj.com" title="cheerpj.com" type="rss" xmlUrl="https://cheerpj.com/feed/"/>
-<outline text="chriscoyier.net" title="chriscoyier.net" type="rss" xmlUrl="https://chriscoyier.net/feed/"/>
 <outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
@@ -84,8 +83,8 @@
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
-<outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
+<outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
@@ -126,9 +125,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/tresjs/tres" title="github.com/tresjs/tres" type="rss" xmlUrl="https://github.com/tresjs/tres/releases.atom"/>
-<outline text="github.com/reactwg/server-components" title="github.com/reactwg/server-components" type="rss" xmlUrl="https://github.com/reactwg/server-components/releases.atom"/>
-<outline text="github.com/evanw/polywasm" title="github.com/evanw/polywasm" type="rss" xmlUrl="https://github.com/evanw/polywasm/releases.atom"/>
 <outline text="github.com/nestjs/nest" title="github.com/nestjs/nest" type="rss" xmlUrl="https://github.com/nestjs/nest/releases.atom"/>
 <outline text="github.com/gvergnaud/ts-pattern" title="github.com/gvergnaud/ts-pattern" type="rss" xmlUrl="https://github.com/gvergnaud/ts-pattern/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
@@ -330,7 +326,6 @@
 <outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="mametter.hatenablog.com" title="mametter.hatenablog.com" type="rss" xmlUrl="https://mametter.hatenablog.com/feed"/>
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
-<outline text="marmooo.blogspot.com" title="marmooo.blogspot.com" type="rss" xmlUrl="https://marmooo.blogspot.com/feeds/posts/default"/>
 <outline text="martijnhols.nl" title="martijnhols.nl" type="rss" xmlUrl="https://martijnhols.nl/rss.xml"/>
 <outline text="maximorlov.com" title="maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
