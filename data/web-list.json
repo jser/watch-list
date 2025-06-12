@@ -73,6 +73,28 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
+    "count": 26,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "CSS",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
+      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
+  },
+  {
     "count": 25,
     "url": "https://deno.com",
     "tags": [
@@ -93,28 +115,6 @@
       "url": "https://deno.com/blog/history-of-javascript"
     },
     "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 25,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "CSS",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "WebKit Features in Safari 18.5 | WebKit",
-      "url": "https://webkit.org/blog/16923/webkit-features-in-safari-18-5/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 23,
@@ -323,7 +323,7 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
-    "count": 9,
+    "count": 10,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -332,8 +332,8 @@
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release 3.42.0 - 2025.04.30 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.42.0"
+      "title": "Release 3.43.0 - 2025.06.09 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
@@ -740,6 +740,23 @@
     "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
   },
   {
+    "count": 5,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Oxlint v1.0 Stable | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-06-10-oxlint-stable"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
+  },
+  {
     "count": 4,
     "url": "https://turbo.build",
     "tags": [
@@ -888,23 +905,6 @@
       "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301"
     },
     "rssUrl": "https://blog.angular.dev/feed"
-  },
-  {
-    "count": 4,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Oxlint Beta | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-03-15-oxlint-beta.html"
-    },
-    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 4,
