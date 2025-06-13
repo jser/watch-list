@@ -311,13 +311,13 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
-    "count": 10,
+    "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
-      "library",
       "polyfill",
-      "ReleaseNote"
+      "ReleaseNote",
+      "library"
     ],
     "example": {
       "title": "Release 3.43.0 - 2025.06.09 · zloirock/core-js",
@@ -724,20 +724,6 @@
     "example": {
       "title": "Oxlint v1.0 Stable | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2025-06-10-oxlint-stable"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://turbo.build",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "monorepo"
-    ],
-    "example": {
-      "title": "Turborepo 2.5 | Turborepo",
-      "url": "https://turbo.build/blog/turbo-2-5"
     }
   },
   {
@@ -1310,6 +1296,20 @@
     "example": {
       "title": "Accelerating Large-Scale Test Migration with LLMs | by Charles Covey-Brandt | The Airbnb Tech Blog | Mar, 2025 | Medium",
       "url": "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://turbo.build",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Turborepo 2.5 | Turborepo",
+      "url": "https://turbo.build/blog/turbo-2-5"
     }
   },
   {
