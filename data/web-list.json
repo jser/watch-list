@@ -323,13 +323,13 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
-    "count": 10,
+    "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
-      "library",
       "polyfill",
-      "ReleaseNote"
+      "ReleaseNote",
+      "library"
     ],
     "example": {
       "title": "Release 3.43.0 - 2025.06.09 · zloirock/core-js",
@@ -755,21 +755,6 @@
       "url": "https://oxc.rs/blog/2025-06-10-oxlint-stable"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 4,
-    "url": "https://turbo.build",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "monorepo"
-    ],
-    "example": {
-      "title": "Turborepo 2.5 | Turborepo",
-      "url": "https://turbo.build/blog/turbo-2-5"
-    },
-    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 4,
@@ -1359,6 +1344,21 @@
       "url": "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b"
     },
     "rssUrl": "https://medium.com/feed/airbnb-engineering"
+  },
+  {
+    "count": 3,
+    "url": "https://turbo.build",
+    "tags": [
+      "JavaScript",
+      "monorepo",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Turborepo 2.5 | Turborepo",
+      "url": "https://turbo.build/blog/turbo-2-5"
+    },
+    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 3,
