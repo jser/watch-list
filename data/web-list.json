@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "news"
     ],
     "example": {
-      "title": "Node.js — Node v24.1.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.1.0"
+      "title": "Node.js — Node v24.2.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.2.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -211,6 +211,29 @@
     }
   },
   {
+    "count": 13,
+    "url": "https://web.dev",
+    "tags": [
+      "CSS",
+      "article",
+      "performance",
+      "tutorial",
+      "browser",
+      "testing",
+      "nodejs",
+      "JavaScript",
+      "WebPlatformAPI",
+      "HTML",
+      "css ",
+      "Unicode"
+    ],
+    "example": {
+      "title": "WebStatus.dev: Now with more data, deeper insights, and a clearer path to Baseline  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/web-platform-dashboard-evolution?hl=en"
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
+  },
+  {
     "count": 12,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
@@ -284,29 +307,6 @@
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
-    "count": 12,
-    "url": "https://web.dev",
-    "tags": [
-      "CSS",
-      "article",
-      "performance",
-      "tutorial",
-      "browser",
-      "testing",
-      "nodejs",
-      "JavaScript",
-      "WebPlatformAPI",
-      "HTML",
-      "css ",
-      "Unicode"
-    ],
-    "example": {
-      "title": "The Popover API is now Baseline Newly available  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/popover-baseline?hl=en"
-    },
-    "rssUrl": "https://web.dev/static/blog/feed.xml"
-  },
-  {
     "count": 11,
     "url": "https://github.com/honojs/hono",
     "tags": [
@@ -321,6 +321,30 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "HTTP3",
+      "performance",
+      "article",
+      "cloudflare",
+      "nodejs",
+      "API",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "Hono",
+      "JavaScript",
+      "Next.js"
+    ],
+    "example": {
+      "title": "We shipped FinalizationRegistry in Workers: why you should never use it",
+      "url": "https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 9,
@@ -367,30 +391,6 @@
       "url": "https://nuxt.com/blog/nuxt-ui-v3"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "HTTP3",
-      "performance",
-      "article",
-      "cloudflare",
-      "nodejs",
-      "API",
-      "cdn",
-      "news",
-      "vite",
-      "test",
-      "Hono",
-      "JavaScript",
-      "Next.js"
-    ],
-    "example": {
-      "title": "Deploy your Next.js app to Cloudflare Workers with the Cloudflare adapter for OpenNext",
-      "url": "https://blog.cloudflare.com/deploying-nextjs-apps-to-cloudflare-workers-with-the-opennext-adapter/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -829,6 +829,20 @@
   },
   {
     "count": 4,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "css ",
+      "css"
+    ],
+    "example": {
+      "title": "State of CSS 2025",
+      "url": "https://survey.devographics.com/en-US/survey/state-of-css/2025"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/reduxjs/redux-toolkit",
     "tags": [
       "React",
@@ -908,21 +922,6 @@
       "url": "https://stylexjs.com/blog/v0.12.0"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/reduxjs/react-redux",
-    "tags": [
-      "React",
-      "redux",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v9.2.0 · reduxjs/react-redux",
-      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
   },
   {
     "count": 3,
@@ -1146,19 +1145,6 @@
       "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
     },
     "rssUrl": "https://zenn.dev/p/yumemi_inc/feed"
-  },
-  {
-    "count": 3,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "JavaScript",
-      "Survey",
-      "css "
-    ],
-    "example": {
-      "title": "State of JavaScript 2024",
-      "url": "https://survey.devographics.com/survey/state-of-js/2024"
-    }
   },
   {
     "count": 3,
@@ -1532,6 +1518,21 @@
       "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
     },
     "rssUrl": "https://blog.getbootstrap.com/feed.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/reduxjs/react-redux",
+    "tags": [
+      "React",
+      "redux",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.2.0 · reduxjs/react-redux",
+      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
   },
   {
     "count": 2,
