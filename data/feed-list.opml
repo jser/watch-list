@@ -94,7 +94,6 @@
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
-<outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
@@ -109,6 +108,7 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
+<outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/withastro/astro" title="github.com/withastro/astro" type="rss" xmlUrl="https://github.com/withastro/astro/releases.atom"/>
 <outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>

@@ -563,12 +563,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/react-redux",
-    "feeds": [
-      "https://github.com/reduxjs/react-redux/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
@@ -650,6 +644,12 @@
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/react-redux",
+    "feeds": [
+      "https://github.com/reduxjs/react-redux/releases.atom"
     ]
   },
   {
