@@ -1823,6 +1823,18 @@
     ]
   },
   {
+    "url": "https://github.com/aymericzip/intlayer",
+    "feeds": [
+      "https://github.com/aymericzip/intlayer/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/Nergie/no-barrel-file",
+    "feeds": [
+      "https://github.com/Nergie/no-barrel-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1859,6 +1871,13 @@
     "url": "https://jakearchibald.com",
     "feeds": [
       "https://jakearchibald.com/posts.rss"
+    ]
+  },
+  {
+    "url": "https://jestjs.io",
+    "feeds": [
+      "https://jestjs.io/blog/rss.xml",
+      "https://jestjs.io/blog/atom.xml"
     ]
   },
   {
