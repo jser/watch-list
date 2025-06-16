@@ -133,7 +133,7 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -141,8 +141,8 @@
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.11 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.11.0"
+      "title": "Release pnpm 10.12.1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.12.1"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -348,6 +348,29 @@
   },
   {
     "count": 9,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "debug",
+      "Tools",
+      "ReleaseNote",
+      "Design",
+      "Development",
+      "React",
+      "article",
+      "storybook",
+      "UI",
+      "test"
+    ],
+    "example": {
+      "title": "Storybook 9",
+      "url": "https://storybook.js.org/blog/storybook-9/"
+    },
+    "rssUrl": "https://storybook.js.org/blog/rss/"
+  },
+  {
+    "count": 9,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -391,29 +414,6 @@
       "url": "https://nuxt.com/blog/nuxt-ui-v3"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "Design",
-      "Development",
-      "React",
-      "article",
-      "storybook",
-      "UI",
-      "test"
-    ],
-    "example": {
-      "title": "Storybook 8.4",
-      "url": "https://storybook.js.org/blog/storybook-8-4/"
-    },
-    "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
     "count": 8,
@@ -8754,5 +8754,48 @@
       "url": "https://github.com/web-infra-dev/rstest"
     },
     "rssUrl": "https://github.com/web-infra-dev/rstest/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/aymericzip/intlayer",
+    "tags": [
+      "React",
+      "Vue",
+      "Next.js",
+      "i18n",
+      "library"
+    ],
+    "example": {
+      "title": "aymericzip/intlayer: Internationalisation solution for JS application focusing on scalability. Make your JavaScript / TypeScript application multilingue.",
+      "url": "https://github.com/aymericzip/intlayer"
+    },
+    "rssUrl": "https://github.com/aymericzip/intlayer/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://jestjs.io",
+    "tags": [
+      "jest",
+      "test",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Jest 30: Faster, Leaner, Better · Jest",
+      "url": "https://jestjs.io/blog/2025/06/04/jest-30"
+    },
+    "rssUrl": "https://jestjs.io/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/Nergie/no-barrel-file",
+    "tags": [
+      "JavaScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "Nergie/no-barrel-file",
+      "url": "https://github.com/Nergie/no-barrel-file"
+    },
+    "rssUrl": "https://github.com/Nergie/no-barrel-file/releases.atom"
   }
 ]

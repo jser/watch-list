@@ -518,6 +518,13 @@
     ]
   },
   {
+    "url": "https://jestjs.io",
+    "feeds": [
+      "https://jestjs.io/blog/rss.xml",
+      "https://jestjs.io/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://kaminashi-developer.hatenablog.jp",
     "feeds": [
       "https://kaminashi-developer.hatenablog.jp/feed",
