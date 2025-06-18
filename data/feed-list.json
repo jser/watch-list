@@ -749,12 +749,6 @@
     ]
   },
   {
-    "url": "https://github.com/nestjs/nest",
-    "feeds": [
-      "https://github.com/nestjs/nest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/gvergnaud/ts-pattern",
     "feeds": [
       "https://github.com/gvergnaud/ts-pattern/releases.atom"
@@ -2025,12 +2019,6 @@
     ]
   },
   {
-    "url": "https://moderncss.dev",
-    "feeds": [
-      "https://moderncss.dev/feed/"
-    ]
-  },
-  {
     "url": "https://mui.com",
     "feeds": [
       "https://mui.com/feed/blog/rss.xml"
@@ -2645,12 +2633,6 @@
     "url": "https://www.feelback.dev",
     "feeds": [
       "https://www.feelback.dev/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.fermyon.com",
-    "feeds": [
-      "https://www.fermyon.com/atom.xml"
     ]
   },
   {

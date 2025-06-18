@@ -95,13 +95,12 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 25,
+    "count": 24,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "library",
       "ReleaseNote",
-      "React",
+      "library",
       "denoe",
       "article",
       "dneo",
@@ -925,22 +924,6 @@
   },
   {
     "count": 3,
-    "url": "https://wasmer.io",
-    "tags": [
-      "WebAssembly",
-      "webservice",
-      "article",
-      "JavaScript",
-      "ServiceWorker",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "WinterJS 1.0 · Blog · Wasmer",
-      "url": "https://wasmer.io/posts/winterjs-v1"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/remix-run/react-router",
     "tags": [
       "React",
@@ -1637,6 +1620,21 @@
   },
   {
     "count": 2,
+    "url": "https://wasmer.io",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "ServiceWorker",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "WinterJS 1.0 · Blog · Wasmer",
+      "url": "https://wasmer.io/posts/winterjs-v1"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/farm-fe/farm",
     "tags": [
       "vite",
@@ -2223,46 +2221,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nestjs/nest",
-    "tags": [
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.0.0 · nestjs/nest",
-      "url": "https://github.com/nestjs/nest/releases/tag/v10.0.0"
-    },
-    "rssUrl": "https://github.com/nestjs/nest/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.fermyon.com",
-    "tags": [
-      "WebAssembly",
-      "webservice"
-    ],
-    "example": {
-      "title": "Fermyon • Experience the next wave of cloud computing. | Fermyon • Experience the next wave of cloud computing.",
-      "url": "https://www.fermyon.com/"
-    },
-    "rssUrl": "https://www.fermyon.com/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://moderncss.dev",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Modern CSS For Dynamic Component-Based Architecture | Modern CSS Solutions",
-      "url": "https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/"
-    },
-    "rssUrl": "https://moderncss.dev/feed/"
   },
   {
     "count": 1,
