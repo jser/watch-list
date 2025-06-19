@@ -2148,20 +2148,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/gvergnaud/ts-pattern",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v5.0.0 ❤️ · gvergnaud/ts-pattern",
-      "url": "https://github.com/gvergnaud/ts-pattern/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/gvergnaud/ts-pattern/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://blog.tomayac.com",
     "tags": [
       "macOS",

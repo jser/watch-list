@@ -125,7 +125,6 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/gvergnaud/ts-pattern" title="github.com/gvergnaud/ts-pattern" type="rss" xmlUrl="https://github.com/gvergnaud/ts-pattern/releases.atom"/>
 <outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
 <outline text="github.com/lquixada/cross-fetch" title="github.com/lquixada/cross-fetch" type="rss" xmlUrl="https://github.com/lquixada/cross-fetch/releases.atom"/>
 <outline text="github.com/giuseppelt/httpc" title="github.com/giuseppelt/httpc" type="rss" xmlUrl="https://github.com/giuseppelt/httpc/releases.atom"/>
