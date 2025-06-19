@@ -749,12 +749,6 @@
     ]
   },
   {
-    "url": "https://github.com/gvergnaud/ts-pattern",
-    "feeds": [
-      "https://github.com/gvergnaud/ts-pattern/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/cloudflare/miniflare",
     "feeds": [
       "https://github.com/cloudflare/miniflare/releases.atom"
