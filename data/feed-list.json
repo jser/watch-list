@@ -201,12 +201,6 @@
     ]
   },
   {
-    "url": "https://blog.tomayac.com",
-    "feeds": [
-      "https://blog.tomayac.com/feed/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.val.town",
     "feeds": [
       "https://blog.val.town/rss.xml"
