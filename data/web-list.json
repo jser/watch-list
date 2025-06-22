@@ -195,22 +195,7 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 13,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "article",
-      "ReleaseNote",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "Next.js 15.3 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-3"
-    }
-  },
-  {
-    "count": 13,
+    "count": 14,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -224,13 +209,30 @@
       "WebPlatformAPI",
       "HTML",
       "css ",
-      "Unicode"
+      "Unicode",
+      "ECMAScript",
+      "JSON"
     ],
     "example": {
-      "title": "WebStatus.dev: Now with more data, deeper insights, and a clearer path to Baseline  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/web-platform-dashboard-evolution?hl=en"
+      "title": "JSON module scripts are now Baseline Newly available  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/json-imports-baseline-newly-available?hl=en"
     },
     "rssUrl": "https://web.dev/static/blog/feed.xml"
+  },
+  {
+    "count": 13,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "article",
+      "ReleaseNote",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 15.3 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-3"
+    }
   },
   {
     "count": 12,
@@ -392,6 +394,24 @@
   },
   {
     "count": 8,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "news",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "biome"
+    ],
+    "example": {
+      "title": "Biome v2—codename: Biotype | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2/"
+    },
+    "rssUrl": "https://biomejs.dev/feed.xml"
+  },
+  {
+    "count": 8,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "nodejs",
@@ -478,23 +498,6 @@
       "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more"
     },
     "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 7,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "news",
-      "Rust",
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Biome v2.0 beta | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-0-beta/"
-    },
-    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 6,
