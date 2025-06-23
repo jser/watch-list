@@ -1222,6 +1222,21 @@
   },
   {
     "count": 3,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "ReleaseNote",
+      "Native"
+    ],
+    "example": {
+      "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more · React Native",
+      "url": "https://reactnative.dev/blog/2025/06/12/react-native-0.80"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://github.com/facebook/react",
     "tags": [
       "React",
@@ -1837,21 +1852,6 @@
   },
   {
     "count": 2,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "iOS",
-      "Android",
-      "ReleaseNote",
-      "Native"
-    ],
-    "example": {
-      "title": "React Native 0.77 - New Styling Features, Android’s 16KB page support, Swift Template · React Native",
-      "url": "https://reactnative.dev/blog/2025/01/21/version-0.77"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://www.w3.org",
     "tags": [
       "WAI-ARIA",
@@ -2129,44 +2129,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://panda-css.com",
-    "tags": [
-      "CSS",
-      "TypeScript",
-      "Tools"
-    ],
-    "example": {
-      "title": "Panda CSS - Build modern websites using build time and type-safe CSS-in-JS",
-      "url": "https://panda-css.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.codux.com",
-    "tags": [
-      "React",
-      "editor",
-      "Tools"
-    ],
-    "example": {
-      "title": "Codux | Visual IDE for React",
-      "url": "https://www.codux.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://kizu.dev",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Cyclic Dependency Space Toggles",
-      "url": "https://kizu.dev/cyclic-toggles/"
     }
   },
   {
@@ -8477,5 +8439,19 @@
       "url": "https://github.com/Nergie/no-barrel-file"
     },
     "rssUrl": "https://github.com/Nergie/no-barrel-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/modelcontextprotocol/use-mcp",
+    "tags": [
+      "React",
+      "MCP",
+      "library"
+    ],
+    "example": {
+      "title": "modelcontextprotocol/use-mcp",
+      "url": "https://github.com/modelcontextprotocol/use-mcp"
+    },
+    "rssUrl": "https://github.com/modelcontextprotocol/use-mcp/releases.atom"
   }
 ]
