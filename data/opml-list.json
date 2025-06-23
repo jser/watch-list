@@ -538,12 +538,6 @@
     ]
   },
   {
-    "url": "https://kizu.dev",
-    "feeds": [
-      "https://feeds.feedburner.com/kizuruen"
-    ]
-  },
-  {
     "url": "https://kurtextrem.de",
     "feeds": [
       "https://kurtextrem.de/rss.xml"

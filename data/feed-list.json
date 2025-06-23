@@ -1817,6 +1817,12 @@
     ]
   },
   {
+    "url": "https://github.com/modelcontextprotocol/use-mcp",
+    "feeds": [
+      "https://github.com/modelcontextprotocol/use-mcp/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1879,12 +1885,6 @@
     "url": "https://kettanaito.com",
     "feeds": [
       "https://kettanaito.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://kizu.dev",
-    "feeds": [
-      "https://feeds.feedburner.com/kizuruen"
     ]
   },
   {
