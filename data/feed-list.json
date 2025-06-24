@@ -111,12 +111,6 @@
     ]
   },
   {
-    "url": "https://blog.emberjs.com",
-    "feeds": [
-      "https://blog.emberjs.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://blog.flatt.tech",
     "feeds": [
       "https://blog.flatt.tech/feed",
@@ -557,12 +551,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/react-router",
-    "feeds": [
-      "https://github.com/remix-run/react-router/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
@@ -734,6 +722,12 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/react-router",
+    "feeds": [
+      "https://github.com/remix-run/react-router/releases.atom"
     ]
   },
   {
@@ -1820,6 +1814,12 @@
     "url": "https://github.com/modelcontextprotocol/use-mcp",
     "feeds": [
       "https://github.com/modelcontextprotocol/use-mcp/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/svg/svgo",
+    "feeds": [
+      "https://github.com/svg/svgo/releases.atom"
     ]
   },
   {

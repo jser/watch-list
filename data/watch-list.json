@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 50,
+    "count": 51,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -39,8 +39,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.15 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.15"
+      "title": "Bun v1.2.17 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.17"
     }
   },
   {
@@ -448,6 +448,22 @@
   },
   {
     "count": 7,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
+      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -501,22 +517,6 @@
   },
   {
     "count": 6,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.5: New objectWrap option, experimentalOperatorPosition option and TS config file support! · Prettier",
-      "url": "https://prettier.io/blog/2025/02/09/3.5.0.html"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -549,19 +549,6 @@
     "example": {
       "title": "Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Svelte 5 is alive",
-      "url": "https://svelte.dev/blog/svelte-5-is-alive"
     }
   },
   {
@@ -798,6 +785,19 @@
   },
   {
     "count": 4,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Svelte 5 is alive",
+      "url": "https://svelte.dev/blog/svelte-5-is-alive"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
@@ -888,21 +888,6 @@
       "title": "Release 0.12.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.12.0"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/remix-run/react-router",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "Remix"
-    ],
-    "example": {
-      "title": "react-router/CHANGELOG.md at main · remix-run/react-router",
-      "url": "https://github.com/remix-run/react-router/blob/main/CHANGELOG.md#v752"
-    },
-    "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
   },
   {
     "count": 3,
@@ -2044,6 +2029,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/remix-run/react-router",
+    "tags": [
+      "React",
+      "Remix",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "react-router/CHANGELOG.md at main · remix-run/react-router",
+      "url": "https://github.com/remix-run/react-router/blob/main/CHANGELOG.md#v752"
+    },
+    "rssUrl": "https://github.com/remix-run/react-router/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://kaminashi-developer.hatenablog.jp",
     "tags": [
       "ServiceWorker",
@@ -2129,18 +2129,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ember 5.0 Released",
-      "url": "https://blog.emberjs.com/ember-5-0-released/"
     }
   },
   {
@@ -8453,5 +8441,20 @@
       "url": "https://github.com/modelcontextprotocol/use-mcp"
     },
     "rssUrl": "https://github.com/modelcontextprotocol/use-mcp/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/svg/svgo",
+    "tags": [
+      "SVG",
+      "javas",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · svg/svgo",
+      "url": "https://github.com/svg/svgo/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/svg/svgo/releases.atom"
   }
 ]

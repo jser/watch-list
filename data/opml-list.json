@@ -111,12 +111,6 @@
     ]
   },
   {
-    "url": "https://blog.emberjs.com",
-    "feeds": [
-      "https://blog.emberjs.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://blog.flatt.tech",
     "feeds": [
       "https://blog.flatt.tech/feed",
