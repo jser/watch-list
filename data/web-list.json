@@ -2101,6 +2101,20 @@
   },
   {
     "count": 2,
+    "url": "https://vite.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote",
+      "serverless"
+    ],
+    "example": {
+      "title": "Vite 7.0 is out! | Vite",
+      "url": "https://vite.dev/blog/announcing-vite7.html"
+    },
+    "rssUrl": "https://vite.dev/blog.rss"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/remix-run/react-router",
     "tags": [
       "React",
@@ -7214,19 +7228,6 @@
       "title": "State of HTML 2024",
       "url": "https://2024.stateofhtml.com/en-US/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://vite.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 6.0 is out! | Vite",
-      "url": "https://vite.dev/blog/announcing-vite6"
-    },
-    "rssUrl": "https://vite.dev/blog.rss"
   },
   {
     "count": 1,
