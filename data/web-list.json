@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "news"
     ],
     "example": {
-      "title": "Node.js — Node v24.2.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.2.0"
+      "title": "Node.js — Node v24.3.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.3.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -46,7 +46,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 34,
+    "count": 35,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -67,8 +67,8 @@
       "HTML"
     ],
     "example": {
-      "title": "New in Chrome 137  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-chrome-137?hl=en"
+      "title": "New in Chrome 138  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-138"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -146,15 +146,15 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Firefox 139.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/139.0/releasenotes/"
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
@@ -2008,6 +2008,19 @@
       "url": "https://github.com/facebook/relay/releases/tag/v19.0.0"
     },
     "rssUrl": "https://github.com/facebook/relay/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://exploringjs.com",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "book"
+    ],
+    "example": {
+      "title": "Exploring JavaScript (ES2025 Edition)",
+      "url": "https://exploringjs.com/js/"
+    }
   },
   {
     "count": 2,
@@ -6118,19 +6131,6 @@
     "example": {
       "title": "Poku - Making Testing Easy",
       "url": "https://poku.io/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://exploringjs.com",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "book"
-    ],
-    "example": {
-      "title": "Exploring JavaScript (ES2024 Edition)",
-      "url": "https://exploringjs.com/js/index.html"
     }
   },
   {
