@@ -220,38 +220,6 @@
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
-    "count": 13,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "article",
-      "ReleaseNote",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "Next.js 15.3 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-3"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "Tools",
-      "ReleaseNote",
-      "bundler",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.25.4 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.4"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
     "count": 12,
     "url": "https://www.youtube.com",
     "tags": [
@@ -306,6 +274,36 @@
       "url": "https://www.electronjs.org/blog/electron-36-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 15.3 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-3"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote",
+      "esbuild"
+    ],
+    "example": {
+      "title": "Release v0.25.4 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.4"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 11,
@@ -922,23 +920,6 @@
       "url": "https://stylexjs.com/blog/v0.12.0"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://docs.google.com",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "slide",
-      "vite",
-      "Rust",
-      "rollup",
-      "bundler"
-    ],
-    "example": {
-      "title": "2025-05-23 SignalとObservable ― 新たなデータモデルを解きほぐす (TSKaigi 2025) - Google スライド",
-      "url": "https://docs.google.com/presentation/d/1c7fYqn7-v3hnbKtmwXHbvwuCs6cNq_ThLKVDZ7rvbA0/preview#slide=id.g260298bad6d_0_77"
-    }
   },
   {
     "count": 3,
@@ -1574,6 +1555,22 @@
       "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
     },
     "rssUrl": "https://github.com/rollup/rollup/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://docs.google.com",
+    "tags": [
+      "vite",
+      "slide",
+      "Rust",
+      "rollup",
+      "bundler",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "2025-05-23 SignalとObservable ― 新たなデータモデルを解きほぐす (TSKaigi 2025) - Google スライド",
+      "url": "https://docs.google.com/presentation/d/1c7fYqn7-v3hnbKtmwXHbvwuCs6cNq_ThLKVDZ7rvbA0/preview#slide=id.g260298bad6d_0_77"
+    }
   },
   {
     "count": 2,
