@@ -20,15 +20,15 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 51,
+    "count": 50,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "ReleaseNote",
       "CommonJS",
       "article",
       "ECMAScript",
       "module",
+      "ReleaseNote",
       "yarn",
       "npm",
       "TypeScript",
@@ -2773,7 +2773,8 @@
     "example": {
       "title": "A Blog Post With Every HTML Element",
       "url": "https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/"
-    }
+    },
+    "rssUrl": "https://patrickweaver.net/feed.xml"
   },
   {
     "count": 1,

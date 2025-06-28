@@ -2680,6 +2680,13 @@
     ]
   },
   {
+    "url": "https://www.patrickweaver.net",
+    "feeds": [
+      "https://patrickweaver.net/feed.xml",
+      "https://patrickweaver.net/feed.rss"
+    ]
+  },
+  {
     "url": "https://www.robinwieruch.de",
     "feeds": [
       "https://www.robinwieruch.de/index.xml"
