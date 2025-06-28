@@ -19,15 +19,15 @@
     }
   },
   {
-    "count": 51,
+    "count": 50,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "ReleaseNote",
       "CommonJS",
       "article",
       "ECMAScript",
       "module",
+      "ReleaseNote",
       "yarn",
       "npm",
       "TypeScript",
