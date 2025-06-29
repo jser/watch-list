@@ -46,7 +46,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 35,
+    "count": 36,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -67,13 +67,13 @@
       "HTML"
     ],
     "example": {
-      "title": "New in Chrome 138  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-chrome-138"
+      "title": "Chrome 139 beta  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-139-beta?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 26,
+    "count": 25,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -221,33 +221,6 @@
   },
   {
     "count": 12,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "JavaScript",
-      "video",
-      "performance",
-      "TypeScript",
-      "blink",
-      "Chrome",
-      "Conference",
-      "C++",
-      "Next.js",
-      "nodejs",
-      "history",
-      "vite",
-      "Angular",
-      "React",
-      "slide",
-      "DOM"
-    ],
-    "example": {
-      "title": "JavaScriptフレームワークがDOMをレンダリングする3つの方法 - YouTube",
-      "url": "https://www.youtube.com/watch?v=0C-y59betmY"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 12,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -320,6 +293,32 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "TypeScript",
+      "video",
+      "blink",
+      "Chrome",
+      "Conference",
+      "JavaScript",
+      "C++",
+      "Next.js",
+      "nodejs",
+      "history",
+      "vite",
+      "Angular",
+      "React",
+      "slide",
+      "DOM"
+    ],
+    "example": {
+      "title": "JavaScriptフレームワークがDOMをレンダリングする3つの方法 - YouTube",
+      "url": "https://www.youtube.com/watch?v=0C-y59betmY"
+    },
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 9,
@@ -1378,22 +1377,6 @@
   },
   {
     "count": 2,
-    "url": "https://module-federation.io",
-    "tags": [
-      "JavaScript",
-      "MicroFrontend",
-      "document",
-      "webpack",
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcement of Release - Module federation",
-      "url": "https://module-federation.io/blog/announcement.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/pixijs/pixijs",
     "tags": [
       "JavaScript",
@@ -2229,20 +2212,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cloudflare/miniflare",
-    "tags": [
-      "cloudflare",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · cloudflare/miniflare",
-      "url": "https://github.com/cloudflare/miniflare/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/cloudflare/miniflare/releases.atom"
   },
   {
     "count": 1,
@@ -5413,6 +5382,20 @@
       "url": "https://www.moonbitlang.com/blog/js-support"
     },
     "rssUrl": "https://www.moonbitlang.com/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://module-federation.io",
+    "tags": [
+      "JavaScript",
+      "webpack",
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcement of Release - Module federation",
+      "url": "https://module-federation.io/blog/announcement.html"
+    }
   },
   {
     "count": 1,
@@ -8700,5 +8683,18 @@
       "url": "https://github.com/svg/svgo/releases/tag/v4.0.0"
     },
     "rssUrl": "https://github.com/svg/svgo/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.4 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-1-4"
+    },
+    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
   }
 ]

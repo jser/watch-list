@@ -737,12 +737,6 @@
     ]
   },
   {
-    "url": "https://github.com/cloudflare/miniflare",
-    "feeds": [
-      "https://github.com/cloudflare/miniflare/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lquixada/cross-fetch",
     "feeds": [
       "https://github.com/lquixada/cross-fetch/releases.atom"
@@ -2199,6 +2193,12 @@
     "url": "https://rspack.dev",
     "feeds": [
       "https://rspack.dev/rss/blog-rss.xml"
+    ]
+  },
+  {
+    "url": "https://rspack.rs",
+    "feeds": [
+      "https://rspack.rs/rss/blog-rss.xml"
     ]
   },
   {

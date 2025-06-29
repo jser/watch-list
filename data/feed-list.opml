@@ -123,7 +123,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/cloudflare/miniflare" title="github.com/cloudflare/miniflare" type="rss" xmlUrl="https://github.com/cloudflare/miniflare/releases.atom"/>
 <outline text="github.com/lquixada/cross-fetch" title="github.com/lquixada/cross-fetch" type="rss" xmlUrl="https://github.com/lquixada/cross-fetch/releases.atom"/>
 <outline text="github.com/giuseppelt/httpc" title="github.com/giuseppelt/httpc" type="rss" xmlUrl="https://github.com/giuseppelt/httpc/releases.atom"/>
 <outline text="github.com/gibbok/typescript-book" title="github.com/gibbok/typescript-book" type="rss" xmlUrl="https://github.com/gibbok/typescript-book/releases.atom"/>
@@ -363,6 +362,7 @@
 <outline text="romgrk.com" title="romgrk.com" type="rss" xmlUrl="https://romgrk.com/rss.xml"/>
 <outline text="rsbuild.dev" title="rsbuild.dev" type="rss" xmlUrl="https://rsbuild.dev/rss/releases.xml"/>
 <outline text="rspack.dev" title="rspack.dev" type="rss" xmlUrl="https://rspack.dev/rss/blog-rss.xml"/>
+<outline text="rspack.rs" title="rspack.rs" type="rss" xmlUrl="https://rspack.rs/rss/blog-rss.xml"/>
 <outline text="rviscomi.dev" title="rviscomi.dev" type="rss" xmlUrl="https://rviscomi.dev/feed/"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
 <outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
