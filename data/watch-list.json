@@ -2066,6 +2066,22 @@
   },
   {
     "count": 2,
+    "url": "https://ecma-international.org",
+    "tags": [
+      "ecma",
+      "news",
+      "nodejs",
+      "deno",
+      "cloudflare",
+      "ECMAScript"
+    ],
+    "example": {
+      "title": "Ecma International approves new standards - Ecma International",
+      "url": "https://ecma-international.org/news/ecma-international-approves-new-standards-11/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://vitest.dev",
     "tags": [
       "vite",
@@ -7333,21 +7349,6 @@
       "url": "https://github.com/open-source-labs/Reactime/releases/tag/v26.0"
     },
     "rssUrl": "https://github.com/open-source-labs/Reactime/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://ecma-international.org",
-    "tags": [
-      "ecma",
-      "news",
-      "nodejs",
-      "deno",
-      "cloudflare"
-    ],
-    "example": {
-      "title": "Collaborating across W3C and Ecma for web-interoperable server runtimes through WinterTC - Ecma International",
-      "url": "https://ecma-international.org/news/collaborating-across-w3c-and-ecma-for-web-interoperable-server-runtimes-through-wintertc/"
-    }
   },
   {
     "count": 1,
