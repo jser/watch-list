@@ -44,7 +44,7 @@
     }
   },
   {
-    "count": 36,
+    "count": 37,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -62,11 +62,12 @@
       "LanguageModel",
       "Firefox",
       "puppeteer",
-      "HTML"
+      "HTML",
+      "css"
     ],
     "example": {
-      "title": "Chrome 139 beta  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-139-beta?hl=en"
+      "title": "CSS conditionals with the new if() function  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/if-article?hl=en"
     }
   },
   {
@@ -211,6 +212,19 @@
     }
   },
   {
+    "count": 13,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 37.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-37-0"
+    }
+  },
+  {
     "count": 12,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -222,19 +236,6 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 36.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-36-0"
     }
   },
   {
