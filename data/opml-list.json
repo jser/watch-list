@@ -245,6 +245,12 @@
     ]
   },
   {
+    "url": "https://ckeditor.com",
+    "feeds": [
+      "https://ckeditor.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://claritydev.net",
     "feeds": [
       "https://claritydev.net/rss.xml"
@@ -1252,6 +1258,12 @@
     "feeds": [
       "https://www.electronjs.org/blog/rss.xml",
       "https://www.electronjs.org/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.epicreact.dev",
+    "feeds": [
+      "https://www.epicreact.dev/rss.xml"
     ]
   },
   {
