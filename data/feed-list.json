@@ -245,6 +245,12 @@
     ]
   },
   {
+    "url": "https://ckeditor.com",
+    "feeds": [
+      "https://ckeditor.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://claritydev.net",
     "feeds": [
       "https://claritydev.net/rss.xml"
@@ -617,12 +623,6 @@
     ]
   },
   {
-    "url": "https://github.com/pixijs/pixijs",
-    "feeds": [
-      "https://github.com/pixijs/pixijs/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
@@ -734,12 +734,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/lquixada/cross-fetch",
-    "feeds": [
-      "https://github.com/lquixada/cross-fetch/releases.atom"
     ]
   },
   {
@@ -1160,6 +1154,12 @@
     "url": "https://github.com/electric-sql/pglite",
     "feeds": [
       "https://github.com/electric-sql/pglite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/pixijs/pixijs",
+    "feeds": [
+      "https://github.com/pixijs/pixijs/releases.atom"
     ]
   },
   {
@@ -1814,6 +1814,24 @@
     "url": "https://github.com/svg/svgo",
     "feeds": [
       "https://github.com/svg/svgo/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/recharts/recharts",
+    "feeds": [
+      "https://github.com/recharts/recharts/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/dahlia/logtape?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/dahlia/logtape?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/photostructure/tz-lookup",
+    "feeds": [
+      "https://github.com/photostructure/tz-lookup/releases.atom"
     ]
   },
   {
@@ -2604,17 +2622,16 @@
     ]
   },
   {
-    "url": "https://www.ecma-international.org",
-    "feeds": [
-      "https://ecma-international.org/feed/",
-      "https://ecma-international.org/comments/feed/"
-    ]
-  },
-  {
     "url": "https://www.electronjs.org",
     "feeds": [
       "https://www.electronjs.org/blog/rss.xml",
       "https://www.electronjs.org/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.epicreact.dev",
+    "feeds": [
+      "https://www.epicreact.dev/rss.xml"
     ]
   },
   {

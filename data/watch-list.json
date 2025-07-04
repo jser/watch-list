@@ -19,14 +19,10 @@
     }
   },
   {
-    "count": 50,
+    "count": 49,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "CommonJS",
-      "article",
-      "ECMAScript",
-      "module",
       "ReleaseNote",
       "yarn",
       "npm",
@@ -36,6 +32,7 @@
       "V8",
       "webkit",
       "C++",
+      "article",
       "css"
     ],
     "example": {
@@ -72,6 +69,26 @@
   },
   {
     "count": 25,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "library",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history"
+    ],
+    "example": {
+      "title": "Deno 2.4: deno bundle is back | Deno",
+      "url": "https://deno.com/blog/v2.4"
+    }
+  },
+  {
+    "count": 25,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -89,41 +106,6 @@
     "example": {
       "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
-    }
-  },
-  {
-    "count": 24,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "library",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history"
-    ],
-    "example": {
-      "title": "A brief history of JavaScript | Deno",
-      "url": "https://deno.com/blog/history-of-javascript"
-    }
-  },
-  {
-    "count": 23,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang"
-    ],
-    "example": {
-      "title": "Announcing TypeScript Native Previews - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
     }
   },
   {
@@ -153,7 +135,22 @@
     }
   },
   {
-    "count": 20,
+    "count": 22,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang"
+    ],
+    "example": {
+      "title": "Announcing TypeScript Native Previews - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
+    }
+  },
+  {
+    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -1327,36 +1324,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/pixijs/pixijs",
-    "tags": [
-      "JavaScript",
-      "game",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v8.0.0 · pixijs/pixijs",
-      "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://www.smashingmagazine.com",
-    "tags": [
-      "debug",
-      "browser",
-      "article",
-      "HTML",
-      "CSS"
-    ],
-    "example": {
-      "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://kurtextrem.de",
     "tags": [
       "JavaScript",
@@ -2153,34 +2120,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://www.ecma-international.org",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ecma International approves new standards - Ecma International",
-      "url": "https://www.ecma-international.org/news/ecma-international-approves-new-standards-at-the-125th-general-assembly-27-june-2023/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/lquixada/cross-fetch",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "node.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · lquixada/cross-fetch",
-      "url": "https://github.com/lquixada/cross-fetch/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/lquixada/cross-fetch/releases.atom"
   },
   {
     "count": 1,
@@ -4702,6 +4641,21 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/pixijs/pixijs",
+    "tags": [
+      "JavaScript",
+      "game",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v8.0.0 · pixijs/pixijs",
+      "url": "https://github.com/pixijs/pixijs/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/pixijs/pixijs/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://eloquentjavascript.net",
     "tags": [
       "JavaScript",
@@ -5284,6 +5238,19 @@
     "example": {
       "title": "Webフロントエンド版DX Criteria (v202402)/プロダクトのユーザー体験と変化に適応するチームのためのガイドライン",
       "url": "https://dxcriteria.cto-a.org/frontend"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.smashingmagazine.com",
+    "tags": [
+      "HTML",
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
     }
   },
   {
@@ -8451,5 +8418,72 @@
       "title": "Announcing Rspack 1.4 - Rspack",
       "url": "https://rspack.rs/blog/announcing-1-4"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/recharts/recharts",
+    "tags": [
+      "React",
+      "graphic",
+      "library"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · recharts/recharts",
+      "url": "https://github.com/recharts/recharts/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/recharts/recharts/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://ckeditor.com",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "article"
+    ],
+    "example": {
+      "title": "How We Reduced CKEditor’s Bundle Size by 40% | CKEditor",
+      "url": "https://ckeditor.com/blog/how-we-reduced-ckeditor-bundle-size/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/dahlia/logtape?tab=readme-ov-file",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "dahlia/logtape: Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions",
+      "url": "https://github.com/dahlia/logtape?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/dahlia/logtape?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.epicreact.dev",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "`useOptimistic` to Make Your App Feel Instant | Epic React by Kent C. Dodds",
+      "url": "https://www.epicreact.dev/use-optimistic-to-make-your-app-feel-instant-zvyuv"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/photostructure/tz-lookup",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "photostructure/tz-lookup: JavaScript Library for Timezone Lookup by Location",
+      "url": "https://github.com/photostructure/tz-lookup"
+    },
+    "rssUrl": "https://github.com/photostructure/tz-lookup/releases.atom"
   }
 ]
