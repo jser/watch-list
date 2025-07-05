@@ -115,20 +115,6 @@
   },
   {
     "count": 22,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "performance",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.12.1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.12.1"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 22,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -154,6 +140,19 @@
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 21,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.12.1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.12.1"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 19,
@@ -513,24 +512,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "JavaScript",
-      "bundler",
-      "rspack",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Release v1.1.8 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -635,6 +616,23 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "bundler",
+      "security"
+    ],
+    "example": {
+      "title": "Release v1.1.8 · web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 5,
@@ -754,22 +752,6 @@
       "url": "https://stylexjs.com/blog/v0.14.0"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/jestjs/jest",
-    "tags": [
-      "jest",
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
-      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
-    },
-    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   },
   {
     "count": 4,
@@ -978,6 +960,21 @@
       "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
     },
     "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/jestjs/jest",
+    "tags": [
+      "jest",
+      "ReleaseNote",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
+      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
+    },
+    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   },
   {
     "count": 3,
@@ -2196,35 +2193,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.feelback.dev",
-    "tags": [
-      "webservice",
-      "article",
-      "node.js"
-    ],
-    "example": {
-      "title": "Architecture of an early stage SAAS | Feelback Blog",
-      "url": "https://www.feelback.dev/blog/feelback-saas-launch-architecture/"
-    },
-    "rssUrl": "https://www.feelback.dev/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/giuseppelt/httpc",
-    "tags": [
-      "TypeScript",
-      "JavaScript",
-      "library",
-      "server"
-    ],
-    "example": {
-      "title": "giuseppelt/httpc: Build function-based API with minimal code and end-to-end type safety",
-      "url": "https://github.com/giuseppelt/httpc"
-    },
-    "rssUrl": "https://github.com/giuseppelt/httpc/releases.atom"
   },
   {
     "count": 1,

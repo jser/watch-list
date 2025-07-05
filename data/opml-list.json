@@ -1267,12 +1267,6 @@
     ]
   },
   {
-    "url": "https://www.feelback.dev",
-    "feeds": [
-      "https://www.feelback.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.htmhell.dev",
     "feeds": [
       "https://www.htmhell.dev/feed.xml",

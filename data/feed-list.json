@@ -509,27 +509,21 @@
     ]
   },
   {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
+    "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
-      "https://github.com/axios/axios/releases.atom"
+      "https://github.com/web-infra-dev/rspack/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/jestjs/jest",
+    "url": "https://github.com/axios/axios",
     "feeds": [
-      "https://github.com/jestjs/jest/releases.atom"
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -560,6 +554,12 @@
     "url": "https://github.com/esm-dev/esm.sh",
     "feeds": [
       "https://github.com/esm-dev/esm.sh/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jestjs/jest",
+    "feeds": [
+      "https://github.com/jestjs/jest/releases.atom"
     ]
   },
   {
@@ -734,12 +734,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/giuseppelt/httpc",
-    "feeds": [
-      "https://github.com/giuseppelt/httpc/releases.atom"
     ]
   },
   {
@@ -2632,12 +2626,6 @@
     "url": "https://www.epicreact.dev",
     "feeds": [
       "https://www.epicreact.dev/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.feelback.dev",
-    "feeds": [
-      "https://www.feelback.dev/rss.xml"
     ]
   },
   {
