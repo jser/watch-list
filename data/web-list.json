@@ -115,18 +115,6 @@
   },
   {
     "count": 22,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 22,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -140,6 +128,18 @@
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 21,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 21,
