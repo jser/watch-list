@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -20,7 +20,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 49,
+    "count": 48,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -459,23 +459,6 @@
   },
   {
     "count": 7,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
-      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
-  },
-  {
-    "count": 7,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -530,6 +513,23 @@
       "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
     },
     "rssUrl": "https://efcl.info/feed/"
+  },
+  {
+    "count": 6,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
+      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 6,
