@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 49,
+    "count": 48,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -442,22 +442,6 @@
   },
   {
     "count": 7,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
-      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -509,6 +493,22 @@
     "example": {
       "title": "JavaScript Primer v6.0.0リリース: ES2024の対応とNode.jsのユースケースを刷新 | Web Scratch",
       "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
+      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
     }
   },
   {
