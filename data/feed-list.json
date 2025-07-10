@@ -737,12 +737,6 @@
     ]
   },
   {
-    "url": "https://github.com/gibbok/typescript-book",
-    "feeds": [
-      "https://github.com/gibbok/typescript-book/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/styled-components/styled-components",
     "feeds": [
       "https://github.com/styled-components/styled-components/releases.atom"

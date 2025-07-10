@@ -114,7 +114,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 22,
+    "count": 23,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -124,8 +124,8 @@
       "golang"
     ],
     "example": {
-      "title": "Announcing TypeScript Native Previews - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/"
+      "title": "Announcing TypeScript 5.9 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -2193,20 +2193,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/gibbok/typescript-book",
-    "tags": [
-      "TypeScript",
-      "book",
-      "OpenSource"
-    ],
-    "example": {
-      "title": "gibbok/typescript-book: The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
-      "url": "https://github.com/gibbok/typescript-book"
-    },
-    "rssUrl": "https://github.com/gibbok/typescript-book/releases.atom"
   },
   {
     "count": 1,

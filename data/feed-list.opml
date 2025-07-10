@@ -123,7 +123,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/gibbok/typescript-book" title="github.com/gibbok/typescript-book" type="rss" xmlUrl="https://github.com/gibbok/typescript-book/releases.atom"/>
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
 <outline text="github.com/mdx-editor/editor" title="github.com/mdx-editor/editor" type="rss" xmlUrl="https://github.com/mdx-editor/editor/releases.atom"/>
 <outline text="github.com/patriksimek/vm2" title="github.com/patriksimek/vm2" type="rss" xmlUrl="https://github.com/patriksimek/vm2/releases.atom"/>
