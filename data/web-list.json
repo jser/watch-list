@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "node.js",
@@ -14,8 +14,8 @@
       "news"
     ],
     "example": {
-      "title": "Node.js — Node v24.3.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.3.0"
+      "title": "Node.js — Node v24.4.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.4.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -824,6 +824,22 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/nuxt/nuxt",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "vercel",
+      "news"
+    ],
+    "example": {
+      "title": "The future of Nuxt​ · nuxt/nuxt · Discussion #32559",
+      "url": "https://github.com/nuxt/nuxt/discussions/32559"
+    },
+    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
@@ -850,6 +866,20 @@
       "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.6.0"
     },
     "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v5.100.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.100.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 4,
@@ -899,20 +929,6 @@
       "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301"
     },
     "rssUrl": "https://blog.angular.dev/feed"
-  },
-  {
-    "count": 3,
-    "url": "https://typescript-eslint.io",
-    "tags": [
-      "TypeScript",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing typescript-eslint v8 | typescript-eslint",
-      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
-    },
-    "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1061,20 +1077,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/nuxt/nuxt",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v3.16.0 · nuxt/nuxt",
-      "url": "https://github.com/nuxt/nuxt/releases/tag/v3.16.0"
-    },
-    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://zenn.dev/yumemi_inc/",
     "tags": [
       "HTML",
@@ -1196,20 +1198,6 @@
       "url": "https://ishadeed.com/article/css-relative-colors/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v5.98.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.98.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 3,
@@ -1770,6 +1758,20 @@
       "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
     },
     "rssUrl": "https://blog.jquery.com/feed/"
+  },
+  {
+    "count": 2,
+    "url": "https://typescript-eslint.io",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing typescript-eslint v8 | typescript-eslint",
+      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
+    },
+    "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
   },
   {
     "count": 2,
@@ -8687,5 +8689,32 @@
       "url": "https://github.com/photostructure/tz-lookup"
     },
     "rssUrl": "https://github.com/photostructure/tz-lookup/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://xmcp.dev",
+    "tags": [
+      "TypeScript",
+      "MCP",
+      "library"
+    ],
+    "example": {
+      "title": "xmcp — The TypeScript MCP framework",
+      "url": "https://xmcp.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/typescript-eslint/tsgolint",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "library"
+    ],
+    "example": {
+      "title": "typescript-eslint/tsgolint: ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go",
+      "url": "https://github.com/typescript-eslint/tsgolint"
+    },
+    "rssUrl": "https://github.com/typescript-eslint/tsgolint/releases.atom"
   }
 ]

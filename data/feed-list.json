@@ -539,9 +539,21 @@
     ]
   },
   {
+    "url": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -569,12 +581,6 @@
     ]
   },
   {
-    "url": "https://github.com/nuxt/nuxt",
-    "feeds": [
-      "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
@@ -584,12 +590,6 @@
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -1820,6 +1820,12 @@
     "url": "https://github.com/photostructure/tz-lookup",
     "feeds": [
       "https://github.com/photostructure/tz-lookup/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/typescript-eslint/tsgolint",
+    "feeds": [
+      "https://github.com/typescript-eslint/tsgolint/releases.atom"
     ]
   },
   {

@@ -90,15 +90,15 @@
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
+<outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
+<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
-<outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
-<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
@@ -304,6 +304,7 @@
 <outline text="github.com/recharts/recharts" title="github.com/recharts/recharts" type="rss" xmlUrl="https://github.com/recharts/recharts/releases.atom"/>
 <outline text="github.com/dahlia/logtape?tab=readme-ov-file" title="github.com/dahlia/logtape?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/dahlia/logtape?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/photostructure/tz-lookup" title="github.com/photostructure/tz-lookup" type="rss" xmlUrl="https://github.com/photostructure/tz-lookup/releases.atom"/>
+<outline text="github.com/typescript-eslint/tsgolint" title="github.com/typescript-eslint/tsgolint" type="rss" xmlUrl="https://github.com/typescript-eslint/tsgolint/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
