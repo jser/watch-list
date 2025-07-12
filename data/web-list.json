@@ -318,6 +318,19 @@
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.54.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
     "count": 9,
     "url": "https://storybook.js.org",
     "tags": [
@@ -354,19 +367,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.52.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.52.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 9,
