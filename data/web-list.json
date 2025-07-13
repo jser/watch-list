@@ -43,16 +43,14 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 37,
+    "count": 36,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "debug",
-      "testing",
-      "Tools",
-      "article",
       "ReleaseNote",
       "JavaScript",
+      "article",
+      "debug",
       "performance",
       "WebGL",
       "WebGPU",
@@ -69,27 +67,6 @@
       "url": "https://developer.chrome.com/blog/if-article?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
-    "count": 25,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "library",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history"
-    ],
-    "example": {
-      "title": "Deno 2.4: deno bundle is back | Deno",
-      "url": "https://deno.com/blog/v2.4"
-    },
-    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 25,
@@ -112,6 +89,27 @@
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 24,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "library",
+      "ReleaseNote",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history"
+    ],
+    "example": {
+      "title": "Deno 2.4: deno bundle is back | Deno",
+      "url": "https://deno.com/blog/v2.4"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 23,
@@ -495,27 +493,6 @@
   },
   {
     "count": 6,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "ECMAScript",
-      "CommonJS",
-      "article",
-      "book",
-      "ReleaseNote",
-      "npm",
-      "nodejs",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "JavaScript Primer v6.0.0リリース: ES2024の対応とNode.jsのユースケースを刷新 | Web Scratch",
-      "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
-  },
-  {
-    "count": 6,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -603,6 +580,24 @@
       "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
     },
     "rssUrl": "https://frontendmasters.com/blog/feed/"
+  },
+  {
+    "count": 5,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "book",
+      "ReleaseNote",
+      "npm",
+      "nodejs",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "JavaScript Primer v6.0.0リリース: ES2024の対応とNode.jsのユースケースを刷新 | Web Scratch",
+      "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 5,
@@ -752,25 +747,6 @@
       "url": "https://stylexjs.com/blog/v0.14.0"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "JavaScript",
-      "node.js",
-      "database",
-      "library",
-      "ReleaseNote",
-      "prisma",
-      "MySQL",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Release 6.0.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 4,
@@ -1216,6 +1192,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "prisma",
+      "ReleaseNote",
+      "MySQL",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Release 6.0.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://reactnative.dev",
     "tags": [
       "React",
@@ -1357,22 +1348,6 @@
       "url": "https://github.com/storybookjs/storybook/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://kurtextrem.de",
-    "tags": [
-      "JavaScript",
-      "SVG",
-      "article",
-      "performance",
-      "React"
-    ],
-    "example": {
-      "title": "How To Improve INP: Yield Patterns | Jacob 'Kurt' Groß",
-      "url": "https://kurtextrem.de/posts/improve-inp"
-    },
-    "rssUrl": "https://kurtextrem.de/rss.xml"
   },
   {
     "count": 2,
@@ -2195,92 +2170,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://boajs.dev",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Boa release v0.17 - Boa",
-      "url": "https://boajs.dev/posts/2023-07-08-boa-release-17/"
-    },
-    "rssUrl": "https://boajs.dev/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://katashin.info",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "animation",
-      "article"
-    ],
-    "example": {
-      "title": "アニメーションの実装が劇的に簡単になるFLIPテクニック",
-      "url": "https://katashin.info/posts/flip-animation/"
-    },
-    "rssUrl": "https://katashin.info/feed/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/styled-components/styled-components",
-    "tags": [
-      "CSS",
-      "JavaScript",
-      "alib",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · styled-components/styled-components",
-      "url": "https://github.com/styled-components/styled-components/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/styled-components/styled-components/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://bytecodealliance.org",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "news"
-    ],
-    "example": {
-      "title": "Bytecode Alliance — Welcoming Javy: A new hosted project",
-      "url": "https://bytecodealliance.org/articles/javy-hosted-project"
-    },
-    "rssUrl": "https://bytecodealliance.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://scroll-driven-animations.style",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "animation",
-      "document"
-    ],
-    "example": {
-      "title": "Scroll-driven Animations",
-      "url": "https://scroll-driven-animations.style/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mdx-editor/editor",
-    "tags": [
-      "Markdown",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "mdx-editor/editor: An open source rich text React component for markdown editing",
-      "url": "https://github.com/mdx-editor/editor"
-    },
-    "rssUrl": "https://github.com/mdx-editor/editor/releases.atom"
   },
   {
     "count": 1,
@@ -7238,6 +7127,20 @@
   },
   {
     "count": 1,
+    "url": "https://kurtextrem.de",
+    "tags": [
+      "React",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "How To Improve INP: Yield Patterns | Jacob 'Kurt' Groß",
+      "url": "https://kurtextrem.de/posts/improve-inp"
+    },
+    "rssUrl": "https://kurtextrem.de/rss.xml"
+  },
+  {
+    "count": 1,
     "url": "https://medium.com/airtable-eng/",
     "tags": [
       "TypeScript",
@@ -8716,5 +8619,71 @@
       "url": "https://github.com/typescript-eslint/tsgolint"
     },
     "rssUrl": "https://github.com/typescript-eslint/tsgolint/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/josdejong/jsonrepair",
+    "tags": [
+      "JSON",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "josdejong/jsonrepair: Repair invalid JSON documents",
+      "url": "https://github.com/josdejong/jsonrepair"
+    },
+    "rssUrl": "https://github.com/josdejong/jsonrepair/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.nginx.org",
+    "tags": [
+      "nginx",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Modern JavaScript in NGINX: QuickJS Engine Support for njs – NGINX Community Blog",
+      "url": "https://blog.nginx.org/blog/quickjs-engine-support-for-njs"
+    },
+    "rssUrl": "https://blog.nginx.org/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://devongovett.me",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "article"
+    ],
+    "example": {
+      "title": "JavaScript scope hoisting is broken",
+      "url": "https://devongovett.me/blog/scope-hoisting.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.patreon.com",
+    "tags": [
+      "i18n",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "4 Untranslatable Words Behind Patreon’s Internationalization Overhaul",
+      "url": "https://www.patreon.com/posts/133137028"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://kashw1n.com",
+    "tags": [
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "Modern Node.js Patterns for 2025",
+      "url": "https://kashw1n.com/blog/nodejs-2025/"
+    }
   }
 ]

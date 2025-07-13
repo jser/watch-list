@@ -157,6 +157,14 @@
     ]
   },
   {
+    "url": "https://blog.nginx.org",
+    "feeds": [
+      "https://blog.nginx.org/feed",
+      "https://blog.nginx.org/comments/feed",
+      "https://blog.nginx.org/blog/feed"
+    ]
+  },
+  {
     "url": "https://blog.osstech.co.jp",
     "feeds": [
       "https://blog.osstech.co.jp/posts/index.xml"
@@ -213,21 +221,9 @@
     ]
   },
   {
-    "url": "https://boajs.dev",
-    "feeds": [
-      "https://boajs.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
-    ]
-  },
-  {
-    "url": "https://bytecodealliance.org",
-    "feeds": [
-      "https://bytecodealliance.org/feed.xml"
     ]
   },
   {
@@ -523,12 +519,6 @@
     "feeds": [
       "https://kaminashi-developer.hatenablog.jp/feed",
       "https://kaminashi-developer.hatenablog.jp/rss"
-    ]
-  },
-  {
-    "url": "https://katashin.info",
-    "feeds": [
-      "https://katashin.info/feed/feed.xml"
     ]
   },
   {
