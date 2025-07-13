@@ -157,6 +157,14 @@
     ]
   },
   {
+    "url": "https://blog.nginx.org",
+    "feeds": [
+      "https://blog.nginx.org/feed",
+      "https://blog.nginx.org/comments/feed",
+      "https://blog.nginx.org/blog/feed"
+    ]
+  },
+  {
     "url": "https://blog.osstech.co.jp",
     "feeds": [
       "https://blog.osstech.co.jp/posts/index.xml"
@@ -213,21 +221,9 @@
     ]
   },
   {
-    "url": "https://boajs.dev",
-    "feeds": [
-      "https://boajs.dev/feed.xml"
-    ]
-  },
-  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
-    ]
-  },
-  {
-    "url": "https://bytecodealliance.org",
-    "feeds": [
-      "https://bytecodealliance.org/feed.xml"
     ]
   },
   {
@@ -527,12 +523,6 @@
     ]
   },
   {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
@@ -596,6 +586,12 @@
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
     ]
   },
   {
@@ -734,18 +730,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/styled-components/styled-components",
-    "feeds": [
-      "https://github.com/styled-components/styled-components/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mdx-editor/editor",
-    "feeds": [
-      "https://github.com/mdx-editor/editor/releases.atom"
     ]
   },
   {
@@ -1829,6 +1813,12 @@
     ]
   },
   {
+    "url": "https://github.com/josdejong/jsonrepair",
+    "feeds": [
+      "https://github.com/josdejong/jsonrepair/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1879,12 +1869,6 @@
     "feeds": [
       "https://kaminashi-developer.hatenablog.jp/feed",
       "https://kaminashi-developer.hatenablog.jp/rss"
-    ]
-  },
-  {
-    "url": "https://katashin.info",
-    "feeds": [
-      "https://katashin.info/feed/feed.xml"
     ]
   },
   {
