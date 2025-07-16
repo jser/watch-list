@@ -235,21 +235,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.25.4 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.4"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -302,6 +287,21 @@
       "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
     }
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "esbuild",
+      "ReleaseNote",
+      "JavaScript",
+      "bundler"
+    ],
+    "example": {
+      "title": "Release v0.25.4 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.4"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 10,
@@ -2095,22 +2095,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/patriksimek/vm2",
-    "tags": [
-      "node.js",
-      "security",
-      "library",
-      "issue",
-      "news"
-    ],
-    "example": {
-      "title": "Discontinued · Issue #533 · patriksimek/vm2",
-      "url": "https://github.com/patriksimek/vm2/issues/533"
-    },
-    "rssUrl": "https://github.com/patriksimek/vm2/releases.atom"
   },
   {
     "count": 1,
@@ -8440,5 +8424,19 @@
       "title": "Modern Node.js Patterns for 2025",
       "url": "https://kashw1n.com/blog/nodejs-2025/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ueberdosis/tiptap",
+    "tags": [
+      "JavaScript",
+      "editor",
+      "library"
+    ],
+    "example": {
+      "title": "Release v3.0.1 · ueberdosis/tiptap",
+      "url": "https://github.com/ueberdosis/tiptap/releases/tag/v3.0.1"
+    },
+    "rssUrl": "https://github.com/ueberdosis/tiptap/releases.atom"
   }
 ]
