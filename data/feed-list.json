@@ -475,15 +475,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -730,12 +730,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/patriksimek/vm2",
-    "feeds": [
-      "https://github.com/patriksimek/vm2/releases.atom"
     ]
   },
   {
@@ -1816,6 +1810,12 @@
     "url": "https://github.com/josdejong/jsonrepair",
     "feeds": [
       "https://github.com/josdejong/jsonrepair/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ueberdosis/tiptap",
+    "feeds": [
+      "https://github.com/ueberdosis/tiptap/releases.atom"
     ]
   },
   {
