@@ -329,6 +329,24 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
+    "count": 10,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Announcing Nuxt 4.0 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
     "count": 9,
     "url": "https://storybook.js.org",
     "tags": [
@@ -365,24 +383,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt UI v3 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/nuxt-ui-v3"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 8,
@@ -8683,5 +8683,19 @@
       "url": "https://github.com/ueberdosis/tiptap/releases/tag/v3.0.1"
     },
     "rssUrl": "https://github.com/ueberdosis/tiptap/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.koh.dev",
+    "tags": [
+      "vite",
+      "JavaScript",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "vitestではbeforeEachを使わない",
+      "url": "https://blog.koh.dev/2025-07-11-vitest-beforeeach/"
+    }
   }
 ]
