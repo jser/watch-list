@@ -69,28 +69,6 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 25,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "CSS",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
-      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
-  },
-  {
     "count": 24,
     "url": "https://deno.com",
     "tags": [
@@ -110,6 +88,28 @@
       "url": "https://deno.com/blog/v2.4"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 24,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "CSS",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
+      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 23,
@@ -2170,20 +2170,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://davidwalsh.name",
-    "tags": [
-      "JavaScript",
-      "URL",
-      "article"
-    ],
-    "example": {
-      "title": "URL.canParse",
-      "url": "https://davidwalsh.name/url-canparse"
-    },
-    "rssUrl": "https://davidwalsh.name/feed/atom"
   },
   {
     "count": 1,

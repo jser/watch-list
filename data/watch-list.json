@@ -66,27 +66,6 @@
     }
   },
   {
-    "count": 25,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "CSS",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
-      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
-    }
-  },
-  {
     "count": 24,
     "url": "https://deno.com",
     "tags": [
@@ -104,6 +83,27 @@
     "example": {
       "title": "Deno 2.4: deno bundle is back | Deno",
       "url": "https://deno.com/blog/v2.4"
+    }
+  },
+  {
+    "count": 24,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "CSS",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
+      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
     }
   },
   {
@@ -2094,19 +2094,6 @@
     "example": {
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://davidwalsh.name",
-    "tags": [
-      "JavaScript",
-      "URL",
-      "article"
-    ],
-    "example": {
-      "title": "URL.canParse",
-      "url": "https://davidwalsh.name/url-canparse"
     }
   },
   {
