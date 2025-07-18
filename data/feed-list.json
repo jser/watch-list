@@ -284,15 +284,6 @@
     ]
   },
   {
-    "url": "https://davidwalsh.name",
-    "feeds": [
-      "https://davidwalsh.name/feed/atom",
-      "https://davidwalsh.name/feed",
-      "https://davidwalsh.name/comments/feed",
-      "https://davidwalsh.name/feed/rdf"
-    ]
-  },
-  {
     "url": "https://deezer.io",
     "feeds": [
       "https://deezer.io/feed"
