@@ -466,15 +466,15 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -721,18 +721,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/kamranahmedse/driver.js",
-    "feeds": [
-      "https://github.com/kamranahmedse/driver.js/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/coderaiser/putout",
-    "feeds": [
-      "https://github.com/coderaiser/putout/releases.atom"
     ]
   },
   {
@@ -1807,6 +1795,18 @@
     "url": "https://github.com/ueberdosis/tiptap",
     "feeds": [
       "https://github.com/ueberdosis/tiptap/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ArnaudBarre/tsl",
+    "feeds": [
+      "https://github.com/ArnaudBarre/tsl/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/Vanilagy/mediabunny",
+    "feeds": [
+      "https://github.com/Vanilagy/mediabunny/releases.atom"
     ]
   },
   {
