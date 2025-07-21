@@ -750,6 +750,13 @@
     ]
   },
   {
+    "url": "https://playfulprogramming.com",
+    "feeds": [
+      "https://playfulprogramming.com/atom.xml",
+      "https://playfulprogramming.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://postd.cc",
     "feeds": [
       "https://postd.cc/feed/"

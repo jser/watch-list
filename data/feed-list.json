@@ -466,15 +466,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -2097,6 +2097,13 @@
     "feeds": [
       "https://pikku.dev/blog/rss.xml",
       "https://pikku.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://playfulprogramming.com",
+    "feeds": [
+      "https://playfulprogramming.com/atom.xml",
+      "https://playfulprogramming.com/rss.xml"
     ]
   },
   {
