@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -40,14 +40,14 @@
     }
   },
   {
-    "count": 36,
+    "count": 35,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "ReleaseNote",
       "JavaScript",
       "article",
       "debug",
+      "ReleaseNote",
       "performance",
       "WebGL",
       "WebGPU",
@@ -62,26 +62,6 @@
     "example": {
       "title": "CSS conditionals with the new if() function  |  Blog  |  Chrome for Developers",
       "url": "https://developer.chrome.com/blog/if-article?hl=en"
-    }
-  },
-  {
-    "count": 24,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "library",
-      "ReleaseNote",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history"
-    ],
-    "example": {
-      "title": "Deno 2.4: deno bundle is back | Deno",
-      "url": "https://deno.com/blog/v2.4"
     }
   },
   {
@@ -103,6 +83,26 @@
     "example": {
       "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    }
+  },
+  {
+    "count": 23,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "library",
+      "denoe",
+      "article",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history"
+    ],
+    "example": {
+      "title": "Deno 2.4: deno bundle is back | Deno",
+      "url": "https://deno.com/blog/v2.4"
     }
   },
   {
@@ -218,7 +218,7 @@
     }
   },
   {
-    "count": 12,
+    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -228,24 +228,9 @@
       "document"
     ],
     "example": {
-      "title": "Next.js 15.3 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-3"
+      "title": "Next.js 15.4 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-4"
     }
-  },
-  {
-    "count": 11,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "esbuild",
-      "ReleaseNote",
-      "JavaScript",
-      "bundler"
-    ],
-    "example": {
-      "title": "Release v0.25.7 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.7"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 11,
@@ -301,6 +286,21 @@
       "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
     }
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "esbuild",
+      "ReleaseNote",
+      "JavaScript",
+      "bundler"
+    ],
+    "example": {
+      "title": "Release v0.25.7 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.7"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 10,
@@ -501,26 +501,6 @@
     "example": {
       "title": "Tailwind CSS v4.0 - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/tailwindcss-v4"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://github.blog",
-    "tags": [
-      "Github",
-      "security",
-      "npm",
-      "article",
-      "news",
-      "nodejs",
-      "github",
-      "Actions",
-      "pnpm",
-      "accessibility"
-    ],
-    "example": {
-      "title": "Considerations for making a tree view component accessible - The GitHub Blog",
-      "url": "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
     }
   },
   {
@@ -766,6 +746,25 @@
   },
   {
     "count": 4,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "news",
+      "nodejs",
+      "github",
+      "Actions",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article"
+    ],
+    "example": {
+      "title": "Considerations for making a tree view component accessible - The GitHub Blog",
+      "url": "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/nuxt/nuxt",
     "tags": [
       "Vue",
@@ -868,21 +867,6 @@
     "example": {
       "title": "Announcing Angular v20. The past couple of years have been… | by Minko Gechev | May, 2025 | Angular Blog",
       "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://vercel.com",
-    "tags": [
-      "React",
-      "article",
-      "google",
-      "SEO",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "What’s new in React 19 – Vercel",
-      "url": "https://vercel.com/blog/whats-new-in-react-19"
     }
   },
   {
@@ -1873,6 +1857,21 @@
     "example": {
       "title": "Exploring JavaScript (ES2025 Edition)",
       "url": "https://exploringjs.com/js/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://vercel.com",
+    "tags": [
+      "google",
+      "SEO",
+      "JavaScript",
+      "article",
+      "React"
+    ],
+    "example": {
+      "title": "What’s new in React 19 – Vercel",
+      "url": "https://vercel.com/blog/whats-new-in-react-19"
     }
   },
   {
@@ -8438,5 +8437,43 @@
       "url": "https://github.com/Vanilagy/mediabunny"
     },
     "rssUrl": "https://github.com/Vanilagy/mediabunny/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://craft.faire.com",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "The world’s longest React hooks migration | by Chris Krogh | Jul, 2025 | The Craft",
+      "url": "https://craft.faire.com/the-worlds-longest-react-hooks-migration-8f357cdcdbe9"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://playfulprogramming.com",
+    "tags": [
+      "React",
+      "article",
+      "history"
+    ],
+    "example": {
+      "title": "The History of React Through Code | Playful Programming",
+      "url": "https://playfulprogramming.com/posts/react-history-through-code"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.taekim.dev",
+    "tags": [
+      "Bun",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Parsing 1 Billion Rows in Bun/Typescript Under 10 Seconds",
+      "url": "https://www.taekim.dev/writing/parsing-1b-rows-in-bun"
+    }
   }
 ]
