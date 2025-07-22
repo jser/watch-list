@@ -524,6 +524,24 @@
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
+    "count": 6,
+    "url": "https://socket.dev",
+    "tags": [
+      "npm",
+      "article",
+      "nodejs",
+      "discussion",
+      "pnpm",
+      "security",
+      "news"
+    ],
+    "example": {
+      "title": "Active Supply Chain Attack: npm Phishing Campaign Leads to P...",
+      "url": "https://socket.dev/blog/npm-phishing-campaign-leads-to-prettier-tooling-packages-compromise"
+    },
+    "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
     "count": 5,
     "url": "https://www.rspack.dev",
     "tags": [
@@ -641,23 +659,6 @@
       "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "nodejs",
-      "discussion",
-      "pnpm",
-      "security"
-    ],
-    "example": {
-      "title": "Introducing Socket Fix for Safe, Automated Dependency Upgrad...",
-      "url": "https://socket.dev/blog/introducing-socket-fix"
-    },
-    "rssUrl": "https://socket.dev/api/feed.atom"
   },
   {
     "count": 5,
@@ -2167,19 +2168,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://pkg-size.dev",
-    "tags": [
-      "npm",
-      "webservice",
-      "performance"
-    ],
-    "example": {
-      "title": "pkg-size | Find the true size of a npm package",
-      "url": "https://pkg-size.dev/"
-    }
   },
   {
     "count": 1,
