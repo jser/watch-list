@@ -699,25 +699,6 @@
   },
   {
     "count": 4,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "TypeScript",
-      "eslib",
-      "article",
-      "JavaScript",
-      "Tools",
-      "RegExp",
-      "browser",
-      "Extension",
-      "library"
-    ],
-    "example": {
-      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
-      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "Remix",
@@ -1142,6 +1123,24 @@
       "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
     },
     "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "article",
+      "TypeScript",
+      "RegExp",
+      "browser",
+      "Extension",
+      "library"
+    ],
+    "example": {
+      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
+      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
+    }
   },
   {
     "count": 3,
