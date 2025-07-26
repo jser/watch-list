@@ -172,7 +172,7 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 16,
+    "count": 15,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -2167,19 +2167,6 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/fabian-hiller/valibot",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "fabian-hiller/valibot: The modular and type safe schema library for validating structural data 🤖",
-      "url": "https://github.com/fabian-hiller/valibot"
-    },
-    "rssUrl": "https://github.com/fabian-hiller/valibot/releases.atom"
   },
   {
     "count": 1,
