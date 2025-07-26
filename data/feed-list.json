@@ -724,12 +724,6 @@
     ]
   },
   {
-    "url": "https://github.com/fabian-hiller/valibot",
-    "feeds": [
-      "https://github.com/fabian-hiller/valibot/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/httptoolkit/brotli-wasm",
     "feeds": [
       "https://github.com/httptoolkit/brotli-wasm/releases.atom"
