@@ -520,6 +520,12 @@
     ]
   },
   {
+    "url": "https://github.com/nodejs/corepack",
+    "feeds": [
+      "https://github.com/nodejs/corepack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
@@ -553,12 +559,6 @@
     "url": "https://github.com/jestjs/jest",
     "feeds": [
       "https://github.com/jestjs/jest/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nodejs/corepack",
-    "feeds": [
-      "https://github.com/nodejs/corepack/releases.atom"
     ]
   },
   {

@@ -349,6 +349,23 @@
   },
   {
     "count": 8,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "TypeScript",
+      "document",
+      "article",
+      "ReleaseNote",
+      "babel",
+      "news"
+    ],
+    "example": {
+      "title": "Incremental Adoption – React",
+      "url": "https://react.dev/learn/react-compiler/incremental-adoption"
+    }
+  },
+  {
+    "count": 8,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -453,23 +470,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "TypeScript",
-      "document",
-      "article",
-      "ReleaseNote",
-      "babel",
-      "news"
-    ],
-    "example": {
-      "title": "React Labs: View Transitions, Activity, and more – React",
-      "url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more"
-    }
   },
   {
     "count": 6,
@@ -637,6 +637,21 @@
   },
   {
     "count": 5,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "css ",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "State of HTML 2025",
+      "url": "https://survey.devographics.com/en-US/survey/state-of-html/2025"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -715,6 +730,39 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/nodejs/corepack",
+    "tags": [
+      "nodejs",
+      "Tools",
+      "ReleaseNote",
+      "tool",
+      "npm",
+      "pnpm"
+    ],
+    "example": {
+      "title": "Release v0.34.0 · nodejs/corepack",
+      "url": "https://github.com/nodejs/corepack/releases/tag/v0.34.0"
+    },
+    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "React",
+      "article",
+      "Next.js",
+      "CSS",
+      "css ",
+      "SVG"
+    ],
+    "example": {
+      "title": "A Friendly Introduction to SVG • Josh W. Comeau",
+      "url": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://svelte.dev",
     "tags": [
       "Svelte",
@@ -760,20 +808,6 @@
       "url": "https://github.com/nuxt/nuxt/discussions/32559"
     },
     "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "JavaScript",
-      "Survey",
-      "css ",
-      "css"
-    ],
-    "example": {
-      "title": "State of CSS 2025",
-      "url": "https://survey.devographics.com/en-US/survey/state-of-css/2025"
-    }
   },
   {
     "count": 4,
@@ -911,38 +945,6 @@
     "example": {
       "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
       "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/nodejs/corepack",
-    "tags": [
-      "nodejs",
-      "Tools",
-      "ReleaseNote",
-      "tool",
-      "npm",
-      "pnpm"
-    ],
-    "example": {
-      "title": "Release v0.31.0 · nodejs/corepack",
-      "url": "https://github.com/nodejs/corepack/releases/tag/v0.31.0"
-    },
-    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "React",
-      "article",
-      "Next.js",
-      "CSS",
-      "css "
-    ],
-    "example": {
-      "title": "The Undeniable Utility Of CSS :has • Josh W. Comeau",
-      "url": "https://www.joshwcomeau.com/css/has/"
     }
   },
   {
