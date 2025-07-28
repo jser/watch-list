@@ -1429,6 +1429,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/dinii/",
+    "feeds": [
+      "https://zenn.dev/p/dinii/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/wakamsha/",
     "feeds": [
       "https://zenn.dev/wakamsha/feed"
@@ -1564,12 +1570,6 @@
     "url": "https://zenn.dev/j_sakamoto/",
     "feeds": [
       "https://zenn.dev/j_sakamoto/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/dinii/",
-    "feeds": [
-      "https://zenn.dev/p/dinii/feed"
     ]
   }
 ]

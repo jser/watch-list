@@ -69,6 +69,22 @@
   },
   {
     "count": 24,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.9 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 24,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -109,22 +125,6 @@
       "url": "https://deno.com/blog/v2.4"
     },
     "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 23,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.9 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-beta/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 21,
@@ -346,21 +346,6 @@
     "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
-    "count": 9,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release 3.43.0 - 2025.06.09 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
     "count": 8,
     "url": "https://react.dev",
     "tags": [
@@ -417,6 +402,21 @@
       "url": "https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release 3.43.0 - 2025.06.09 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 8,
@@ -490,6 +490,25 @@
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
+    "count": 7,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "UI",
+      "React",
+      "css ",
+      "css",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    },
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
     "count": 6,
     "url": "https://prettier.io",
     "tags": [
@@ -505,23 +524,6 @@
       "url": "https://prettier.io/blog/2025/06/23/3.6.0"
     },
     "rssUrl": "https://prettier.io/blog/atom.xml"
-  },
-  {
-    "count": 6,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "UI",
-      "React",
-      "css "
-    ],
-    "example": {
-      "title": "Tailwind CSS v4.0 - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/tailwindcss-v4"
-    },
-    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
     "count": 6,
@@ -2171,18 +2173,19 @@
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
   },
   {
-    "count": 1,
-    "url": "https://github.com/httptoolkit/brotli-wasm",
+    "count": 2,
+    "url": "https://zenn.dev/dinii/",
     "tags": [
-      "WebAssembly",
-      "JavaScript",
-      "library"
+      "nodejs",
+      "performance",
+      "article",
+      "HTML"
     ],
     "example": {
-      "title": "httptoolkit/brotli-wasm: A reliable compressor and decompressor for Brotli, supporting node & browsers via wasm",
-      "url": "https://github.com/httptoolkit/brotli-wasm"
+      "title": "最近のHTMLを改めてちゃんと学んでみた",
+      "url": "https://zenn.dev/dinii/articles/16b3e71b580b6c"
     },
-    "rssUrl": "https://github.com/httptoolkit/brotli-wasm/releases.atom"
+    "rssUrl": "https://zenn.dev/p/dinii/feed"
   },
   {
     "count": 1,
@@ -8327,20 +8330,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/dinii/",
-    "tags": [
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "プロファイラを利用して Node.js サーバーのレスポンス時間を 200 秒 → 20 秒に短縮した話",
-      "url": "https://zenn.dev/dinii/articles/improve-latency-with-profiler"
-    },
-    "rssUrl": "https://zenn.dev/p/dinii/feed"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/web-infra-dev/rstest",
     "tags": [
       "test",
@@ -8695,6 +8684,33 @@
     "example": {
       "title": "Parsing 1 Billion Rows in Bun/Typescript Under 10 Seconds",
       "url": "https://www.taekim.dev/writing/parsing-1b-rows-in-bun"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/gvergnaud/ts-pattern",
+    "tags": [
+      "TypeScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.8.0 · gvergnaud/ts-pattern",
+      "url": "https://github.com/gvergnaud/ts-pattern/releases/tag/v5.8.0"
+    },
+    "rssUrl": "https://github.com/gvergnaud/ts-pattern/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.bleepingcomputer.com",
+    "tags": [
+      "npm",
+      "security",
+      "news"
+    ],
+    "example": {
+      "title": "npm 'accidentally' removes Stylus package, breaks builds and pipelines",
+      "url": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/"
     }
   }
 ]
