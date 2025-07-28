@@ -121,7 +121,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/httptoolkit/brotli-wasm" title="github.com/httptoolkit/brotli-wasm" type="rss" xmlUrl="https://github.com/httptoolkit/brotli-wasm/releases.atom"/>
 <outline text="github.com/riot/riot" title="github.com/riot/riot" type="rss" xmlUrl="https://github.com/riot/riot/releases.atom"/>
 <outline text="github.com/markedjs/marked" title="github.com/markedjs/marked" type="rss" xmlUrl="https://github.com/markedjs/marked/releases.atom"/>
 <outline text="github.com/KittyGiraudel/a11y-dialog" title="github.com/KittyGiraudel/a11y-dialog" type="rss" xmlUrl="https://github.com/KittyGiraudel/a11y-dialog/releases.atom"/>
@@ -301,6 +300,7 @@
 <outline text="github.com/ueberdosis/tiptap" title="github.com/ueberdosis/tiptap" type="rss" xmlUrl="https://github.com/ueberdosis/tiptap/releases.atom"/>
 <outline text="github.com/ArnaudBarre/tsl" title="github.com/ArnaudBarre/tsl" type="rss" xmlUrl="https://github.com/ArnaudBarre/tsl/releases.atom"/>
 <outline text="github.com/Vanilagy/mediabunny" title="github.com/Vanilagy/mediabunny" type="rss" xmlUrl="https://github.com/Vanilagy/mediabunny/releases.atom"/>
+<outline text="github.com/gvergnaud/ts-pattern" title="github.com/gvergnaud/ts-pattern" type="rss" xmlUrl="https://github.com/gvergnaud/ts-pattern/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
@@ -451,6 +451,7 @@
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
+<outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
 <outline text="zenn.dev/wakamsha/" title="zenn.dev/wakamsha/" type="rss" xmlUrl="https://zenn.dev/wakamsha/feed"/>
 <outline text="zenn.dev/taisei_13046/" title="zenn.dev/taisei_13046/" type="rss" xmlUrl="https://zenn.dev/taisei_13046/feed"/>
 <outline text="zenn.dev/nakaakist/" title="zenn.dev/nakaakist/" type="rss" xmlUrl="https://zenn.dev/nakaakist/feed"/>
@@ -474,6 +475,5 @@
 <outline text="zenn.dev/canary_techblog/" title="zenn.dev/canary_techblog/" type="rss" xmlUrl="https://zenn.dev/p/canary_techblog/feed"/>
 <outline text="zenn.dev/m_n/" title="zenn.dev/m_n/" type="rss" xmlUrl="https://zenn.dev/m_n/feed"/>
 <outline text="zenn.dev/j_sakamoto/" title="zenn.dev/j_sakamoto/" type="rss" xmlUrl="https://zenn.dev/j_sakamoto/feed"/>
-<outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
 </body>
 </opml>

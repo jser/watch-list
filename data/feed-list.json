@@ -724,12 +724,6 @@
     ]
   },
   {
-    "url": "https://github.com/httptoolkit/brotli-wasm",
-    "feeds": [
-      "https://github.com/httptoolkit/brotli-wasm/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/riot/riot",
     "feeds": [
       "https://github.com/riot/riot/releases.atom"
@@ -1804,6 +1798,12 @@
     ]
   },
   {
+    "url": "https://github.com/gvergnaud/ts-pattern",
+    "feeds": [
+      "https://github.com/gvergnaud/ts-pattern/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2789,6 +2789,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/dinii/",
+    "feeds": [
+      "https://zenn.dev/p/dinii/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/wakamsha/",
     "feeds": [
       "https://zenn.dev/wakamsha/feed"
@@ -2924,12 +2930,6 @@
     "url": "https://zenn.dev/j_sakamoto/",
     "feeds": [
       "https://zenn.dev/j_sakamoto/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/dinii/",
-    "feeds": [
-      "https://zenn.dev/p/dinii/feed"
     ]
   }
 ]
