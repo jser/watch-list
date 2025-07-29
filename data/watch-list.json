@@ -716,22 +716,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "Remix",
-      "ReleaseNote",
-      "React",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "remix/CHANGELOG.md at main · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/nodejs/corepack",
     "tags": [
       "nodejs",
@@ -889,36 +873,6 @@
   },
   {
     "count": 3,
-    "url": "https://www.webkit.org",
-    "tags": [
-      "ReleaseNote",
-      "safari",
-      "webkit",
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Implementing Vertical Form Controls | WebKit",
-      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/esm-dev/esm.sh",
-    "tags": [
-      "JavaScript",
-      "cdn",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v136 · esm-dev/esm.sh",
-      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
-    },
-    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/jestjs/jest",
     "tags": [
       "jest",
@@ -963,6 +917,22 @@
       "title": "Fluent React",
       "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "Remix",
+      "ReleaseNote",
+      "React",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "remix/CHANGELOG.md at main · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 3,
@@ -1287,20 +1257,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/redwoodjs/redwood",
-    "tags": [
-      "nodejs",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release v8.0.0 · redwoodjs/redwood",
-      "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://blog.getbootstrap.com",
     "tags": [
       "CSP",
@@ -1537,6 +1493,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/esm-dev/esm.sh",
+    "tags": [
+      "JavaScript",
+      "cdn",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v136 · esm-dev/esm.sh",
+      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
+    },
+    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tapjs/tsimp",
     "tags": [
       "TypeScript",
@@ -1562,6 +1533,21 @@
     "example": {
       "title": "Bun の非互換な拡張 API - moriken's project",
       "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://www.webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "webkit",
+      "CSS",
+      "article"
+    ],
+    "example": {
+      "title": "Implementing Vertical Form Controls | WebKit",
+      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
     }
   },
   {
@@ -2109,31 +2095,6 @@
     "example": {
       "title": "最近のHTMLを改めてちゃんと学んでみた",
       "url": "https://zenn.dev/dinii/articles/16b3e71b580b6c"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/wakamsha/",
-    "tags": [
-      "ESLint",
-      "article"
-    ],
-    "example": {
-      "title": "ESLint を使って JSDoc / TSDoc の記述を必須化する",
-      "url": "https://zenn.dev/wakamsha/articles/setup-eslint-plugin-jsdoc"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tech.repro.io",
-    "tags": [
-      "ServiceWorker",
-      "article",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "ServiceWorkerの落とし穴8選 - Repro Tech Blog",
-      "url": "https://tech.repro.io/entry/2023/07/27/105218"
     }
   },
   {
@@ -6088,6 +6049,20 @@
       "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/redwoodjs/redwood",
+    "tags": [
+      "nodejs",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v8.0.0 · redwoodjs/redwood",
+      "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 1,
