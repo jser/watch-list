@@ -1041,13 +1041,6 @@
     ]
   },
   {
-    "url": "https://tech.repro.io",
-    "feeds": [
-      "https://tech.repro.io/feed",
-      "https://tech.repro.io/rss"
-    ]
-  },
-  {
     "url": "https://techblog.yahoo.co.jp",
     "feeds": [
       "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
@@ -1432,12 +1425,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/wakamsha/",
-    "feeds": [
-      "https://zenn.dev/wakamsha/feed"
     ]
   },
   {

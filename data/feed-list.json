@@ -514,12 +514,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -550,15 +544,15 @@
     ]
   },
   {
-    "url": "https://github.com/esm-dev/esm.sh",
-    "feeds": [
-      "https://github.com/esm-dev/esm.sh/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jestjs/jest",
     "feeds": [
       "https://github.com/jestjs/jest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
@@ -610,12 +604,6 @@
     ]
   },
   {
-    "url": "https://github.com/redwoodjs/redwood",
-    "feeds": [
-      "https://github.com/redwoodjs/redwood/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
@@ -655,6 +643,12 @@
     "url": "https://github.com/mochajs/mocha",
     "feeds": [
       "https://github.com/mochajs/mocha/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/esm-dev/esm.sh",
+    "feeds": [
+      "https://github.com/esm-dev/esm.sh/releases.atom"
     ]
   },
   {
@@ -1297,6 +1291,12 @@
     "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file",
     "feeds": [
       "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/redwoodjs/redwood",
+    "feeds": [
+      "https://github.com/redwoodjs/redwood/releases.atom"
     ]
   },
   {
@@ -2391,13 +2391,6 @@
     ]
   },
   {
-    "url": "https://tech.repro.io",
-    "feeds": [
-      "https://tech.repro.io/feed",
-      "https://tech.repro.io/rss"
-    ]
-  },
-  {
     "url": "https://techblog.yahoo.co.jp",
     "feeds": [
       "https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"
@@ -2792,12 +2785,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/wakamsha/",
-    "feeds": [
-      "https://zenn.dev/wakamsha/feed"
     ]
   },
   {
