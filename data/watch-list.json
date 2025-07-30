@@ -146,12 +146,12 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 19,
+    "count": 18,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
-      "ReleaseNote",
       "article",
+      "ReleaseNote",
       "news",
       "JSON",
       "Markdown",
@@ -250,6 +250,23 @@
   },
   {
     "count": 11,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt 3.18 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-18"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
       "TypeScript",
@@ -314,23 +331,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Announcing Nuxt 4.0 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4"
-    }
   },
   {
     "count": 8,
@@ -2098,15 +2098,18 @@
     }
   },
   {
-    "count": 1,
-    "url": "https://techblog.yahoo.co.jp",
+    "count": 2,
+    "url": "https://devongovett.me",
     "tags": [
-      "browser",
-      "performance"
+      "JavaScript",
+      "bundler",
+      "article",
+      "parcel",
+      "React"
     ],
     "example": {
-      "title": "ブラウザの戻る/進むを高速に！ヤフーにおけるBFCache有効化に向けた取り組み - Yahoo! JAPAN Tech Blog",
-      "url": "https://techblog.yahoo.co.jp/entry/2023072430429932/"
+      "title": "How Parcel bundles React Server Components",
+      "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
   },
   {
@@ -8281,19 +8284,6 @@
     "example": {
       "title": "Modern JavaScript in NGINX: QuickJS Engine Support for njs – NGINX Community Blog",
       "url": "https://blog.nginx.org/blog/quickjs-engine-support-for-njs"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://devongovett.me",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "article"
-    ],
-    "example": {
-      "title": "JavaScript scope hoisting is broken",
-      "url": "https://devongovett.me/blog/scope-hoisting.html"
     }
   },
   {
