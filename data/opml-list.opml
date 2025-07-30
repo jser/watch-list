@@ -166,7 +166,6 @@
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
-<outline text="techblog.yahoo.co.jp" title="techblog.yahoo.co.jp" type="rss" xmlUrl="https://feedly.com/i/subscription/feed/https%3A%2F%2Ftechblog.yahoo.co.jp%2Fatom.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
 <outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
