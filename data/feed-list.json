@@ -718,12 +718,6 @@
     ]
   },
   {
-    "url": "https://github.com/riot/riot",
-    "feeds": [
-      "https://github.com/riot/riot/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/markedjs/marked",
     "feeds": [
       "https://github.com/markedjs/marked/releases.atom"
