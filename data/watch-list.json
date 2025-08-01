@@ -2135,21 +2135,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/markedjs/marked",
-    "tags": [
-      "Markdown",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · markedjs/marked",
-      "url": "https://github.com/markedjs/marked/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/markedjs/marked/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://remotesynthesis.com",
     "tags": [
       "community",
