@@ -299,6 +299,7 @@
 <outline text="github.com/ArnaudBarre/tsl" title="github.com/ArnaudBarre/tsl" type="rss" xmlUrl="https://github.com/ArnaudBarre/tsl/releases.atom"/>
 <outline text="github.com/Vanilagy/mediabunny" title="github.com/Vanilagy/mediabunny" type="rss" xmlUrl="https://github.com/Vanilagy/mediabunny/releases.atom"/>
 <outline text="github.com/gvergnaud/ts-pattern" title="github.com/gvergnaud/ts-pattern" type="rss" xmlUrl="https://github.com/gvergnaud/ts-pattern/releases.atom"/>
+<outline text="github.com/kentcdodds/cross-env" title="github.com/kentcdodds/cross-env" type="rss" xmlUrl="https://github.com/kentcdodds/cross-env/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>

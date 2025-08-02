@@ -1792,6 +1792,12 @@
     ]
   },
   {
+    "url": "https://github.com/kentcdodds/cross-env",
+    "feeds": [
+      "https://github.com/kentcdodds/cross-env/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

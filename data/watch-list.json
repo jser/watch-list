@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -13,8 +13,8 @@
       "news"
     ],
     "example": {
-      "title": "Node.js — Node v24.4.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.4.0"
+      "title": "Node.js — Node.js v24.5.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.5.0"
     }
   },
   {
@@ -8407,5 +8407,19 @@
       "title": "npm 'accidentally' removes Stylus package, breaks builds and pipelines",
       "url": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/kentcdodds/cross-env",
+    "tags": [
+      "nodejs",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0 · kentcdodds/cross-env",
+      "url": "https://github.com/kentcdodds/cross-env/releases/tag/v10.0.0"
+    },
+    "rssUrl": "https://github.com/kentcdodds/cross-env/releases.atom"
   }
 ]
