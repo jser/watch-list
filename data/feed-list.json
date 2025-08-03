@@ -278,12 +278,6 @@
     ]
   },
   {
-    "url": "https://dagster.io",
-    "feeds": [
-      "https://dagster.io/rss.xml"
-    ]
-  },
-  {
     "url": "https://deezer.io",
     "feeds": [
       "https://deezer.io/feed"
@@ -2151,12 +2145,6 @@
     "url": "https://remix.run",
     "feeds": [
       "https://remix.run/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://remotesynthesis.com",
-    "feeds": [
-      "https://remotesynthesis.com/feed.xml"
     ]
   },
   {

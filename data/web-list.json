@@ -128,18 +128,6 @@
   },
   {
     "count": 21,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 21,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -150,6 +138,18 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.12.1"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 20,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 18,
@@ -474,24 +474,6 @@
   },
   {
     "count": 7,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "testing",
-      "ReleaseNote",
-      "JavaScript",
-      "library",
-      "test",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 7,
     "url": "https://tailwindcss.com",
     "tags": [
       "CSS",
@@ -508,6 +490,24 @@
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 6,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "vite",
+      "test",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 6,
@@ -1305,19 +1305,19 @@
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
   },
   {
-    "count": 2,
-    "url": "https://blog.getbootstrap.com",
+    "count": 3,
+    "url": "https://blog.vlt.sh",
     "tags": [
-      "CSP",
-      "library",
-      "ReleaseNote",
-      "CSS"
+      "npm",
+      "article",
+      "JavaScript",
+      "vlt"
     ],
     "example": {
-      "title": "Bootstrap 5.3.2 | Bootstrap Blog",
-      "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
+      "title": "Centralized Dependency Management Made Simple",
+      "url": "https://blog.vlt.sh/blog/catalogs"
     },
-    "rssUrl": "https://blog.getbootstrap.com/feed.xml"
+    "rssUrl": "https://blog.vlt.sh/feed.xml"
   },
   {
     "count": 2,
@@ -2013,20 +2013,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.vlt.sh",
-    "tags": [
-      "npm",
-      "article",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Introducing `jsr:` Support",
-      "url": "https://blog.vlt.sh/blog/jsr-support"
-    },
-    "rssUrl": "https://blog.vlt.sh/feed.xml"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/nodejs/undici",
     "tags": [
       "nodejs",
@@ -2208,34 +2194,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://remotesynthesis.com",
-    "tags": [
-      "community",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Remote Synthesis | Is Jamstack Officially Finished?",
-      "url": "https://remotesynthesis.com/blog/goodbye-jamstack/"
-    },
-    "rssUrl": "https://remotesynthesis.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://dagster.io",
-    "tags": [
-      "React",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Speeding up the dbt™ docs by 20x with React Server Components | Dagster Blog",
-      "url": "https://dagster.io/blog/dbt-docs-on-react"
-    },
-    "rssUrl": "https://dagster.io/rss.xml"
   },
   {
     "count": 1,
@@ -2750,6 +2708,20 @@
       "title": "Next.Nav",
       "url": "https://www.next-nav.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.getbootstrap.com",
+    "tags": [
+      "CSS",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bootstrap 5.3.2 | Bootstrap Blog",
+      "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
+    },
+    "rssUrl": "https://blog.getbootstrap.com/feed.xml"
   },
   {
     "count": 1,

@@ -48,7 +48,6 @@
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
-<outline text="dagster.io" title="dagster.io" type="rss" xmlUrl="https://dagster.io/rss.xml"/>
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
@@ -132,7 +131,6 @@
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
-<outline text="remotesynthesis.com" title="remotesynthesis.com" type="rss" xmlUrl="https://remotesynthesis.com/feed.xml"/>
 <outline text="romgrk.com" title="romgrk.com" type="rss" xmlUrl="https://romgrk.com/rss.xml"/>
 <outline text="rsbuild.dev" title="rsbuild.dev" type="rss" xmlUrl="https://rsbuild.dev/rss/releases.xml"/>
 <outline text="rspack.dev" title="rspack.dev" type="rss" xmlUrl="https://rspack.dev/rss/blog-rss.xml"/>
