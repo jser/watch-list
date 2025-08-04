@@ -19,7 +19,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 48,
+    "count": 46,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -68,7 +68,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 24,
+    "count": 25,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -78,8 +78,8 @@
       "golang"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.9 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9-rc/"
+      "title": "Announcing TypeScript 5.9 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -127,15 +127,15 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.12.1 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.12.1"
+      "title": "Release pnpm 10.14 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.14.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -545,6 +545,24 @@
     "rssUrl": "https://socket.dev/api/feed.atom"
   },
   {
+    "count": 6,
+    "url": "https://stylexjs.com",
+    "tags": [
+      "css ",
+      "JavaScript",
+      "library",
+      "React",
+      "ReleaseNote",
+      "PostCSS",
+      "css"
+    ],
+    "example": {
+      "title": "Release 0.15.0 | StyleX",
+      "url": "https://stylexjs.com/blog/v0.15.0"
+    },
+    "rssUrl": "https://stylexjs.com/blog/rss.xml"
+  },
+  {
     "count": 5,
     "url": "https://www.rspack.dev",
     "tags": [
@@ -609,6 +627,27 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "news",
+      "nodejs",
+      "github",
+      "Actions",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "npm trusted publishing with OIDC is generally available - GitHub Changelog",
+      "url": "https://github.blog/changelog/2025-07-31-npm-trusted-publishing-with-oidc-is-generally-available/"
+    },
+    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 5,
@@ -727,24 +766,6 @@
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
-    "count": 5,
-    "url": "https://stylexjs.com",
-    "tags": [
-      "css ",
-      "JavaScript",
-      "library",
-      "React",
-      "ReleaseNote",
-      "PostCSS",
-      "css"
-    ],
-    "example": {
-      "title": "Release 0.14.0 | StyleX",
-      "url": "https://stylexjs.com/blog/v0.14.0"
-    },
-    "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
     "count": 4,
     "url": "https://github.com/nodejs/corepack",
     "tags": [
@@ -791,26 +812,6 @@
       "url": "https://svelte.dev/blog/svelte-5-is-alive"
     },
     "rssUrl": "https://svelte.dev/blog/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "news",
-      "nodejs",
-      "github",
-      "Actions",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article"
-    ],
-    "example": {
-      "title": "Considerations for making a tree view component accessible - The GitHub Blog",
-      "url": "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 4,
@@ -2194,48 +2195,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://www.mux.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "We migrated 50,000 lines of code to React Server Components | Mux",
-      "url": "https://www.mux.com/blog/what-are-react-server-components"
-    },
-    "rssUrl": "https://www.mux.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/KittyGiraudel/a11y-dialog",
-    "tags": [
-      "UI",
-      "accessibility",
-      "library"
-    ],
-    "example": {
-      "title": "KittyGiraudel/a11y-dialog: A very lightweight and flexible accessible modal dialog script.",
-      "url": "https://github.com/KittyGiraudel/a11y-dialog"
-    },
-    "rssUrl": "https://github.com/KittyGiraudel/a11y-dialog/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/GoogleChrome/lighthouse",
-    "tags": [
-      "Chrome",
-      "performance",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v11.0.0 · GoogleChrome/lighthouse",
-      "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v11.0.0"
-    },
-    "rssUrl": "https://github.com/GoogleChrome/lighthouse/releases.atom"
   },
   {
     "count": 1,
@@ -8635,5 +8594,20 @@
       "url": "https://github.com/kentcdodds/cross-env/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/kentcdodds/cross-env/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/mehm8128/",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "accessibility",
+      "article"
+    ],
+    "example": {
+      "title": "命令的な ARIA ライブリージョン：ARIA Notifyの紹介",
+      "url": "https://zenn.dev/mehm8128/articles/aria-notify-introduction"
+    },
+    "rssUrl": "https://zenn.dev/mehm8128/feed"
   }
 ]

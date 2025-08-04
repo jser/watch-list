@@ -119,8 +119,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/KittyGiraudel/a11y-dialog" title="github.com/KittyGiraudel/a11y-dialog" type="rss" xmlUrl="https://github.com/KittyGiraudel/a11y-dialog/releases.atom"/>
-<outline text="github.com/GoogleChrome/lighthouse" title="github.com/GoogleChrome/lighthouse" type="rss" xmlUrl="https://github.com/GoogleChrome/lighthouse/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/vega/ts-json-schema-generator" title="github.com/vega/ts-json-schema-generator" type="rss" xmlUrl="https://github.com/vega/ts-json-schema-generator/releases.atom"/>
 <outline text="github.com/vercel/next.js" title="github.com/vercel/next.js" type="rss" xmlUrl="https://github.com/vercel/next.js/releases.atom"/>
@@ -425,7 +423,6 @@
 <outline text="www.mitsue.co.jp" title="www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
 <outline text="www.mizdra.net" title="www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
-<outline text="www.mux.com" title="www.mux.com" type="rss" xmlUrl="https://www.mux.com/blog/rss.xml"/>
 <outline text="www.patrickweaver.net" title="www.patrickweaver.net" type="rss" xmlUrl="https://patrickweaver.net/feed.xml"/>
 <outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
@@ -469,5 +466,6 @@
 <outline text="zenn.dev/canary_techblog/" title="zenn.dev/canary_techblog/" type="rss" xmlUrl="https://zenn.dev/p/canary_techblog/feed"/>
 <outline text="zenn.dev/m_n/" title="zenn.dev/m_n/" type="rss" xmlUrl="https://zenn.dev/m_n/feed"/>
 <outline text="zenn.dev/j_sakamoto/" title="zenn.dev/j_sakamoto/" type="rss" xmlUrl="https://zenn.dev/j_sakamoto/feed"/>
+<outline text="zenn.dev/mehm8128/" title="zenn.dev/mehm8128/" type="rss" xmlUrl="https://zenn.dev/mehm8128/feed"/>
 </body>
 </opml>

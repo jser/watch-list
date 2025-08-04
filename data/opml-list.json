@@ -1279,13 +1279,6 @@
     ]
   },
   {
-    "url": "https://www.mux.com",
-    "feeds": [
-      "https://www.mux.com/blog/rss.xml",
-      "https://www.mux.com/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://www.patrickweaver.net",
     "feeds": [
       "https://patrickweaver.net/feed.xml",
@@ -1539,6 +1532,12 @@
     "url": "https://zenn.dev/j_sakamoto/",
     "feeds": [
       "https://zenn.dev/j_sakamoto/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/mehm8128/",
+    "feeds": [
+      "https://zenn.dev/mehm8128/feed"
     ]
   }
 ]
