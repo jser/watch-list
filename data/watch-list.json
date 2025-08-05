@@ -101,12 +101,12 @@
     }
   },
   {
-    "count": 23,
+    "count": 22,
     "url": "https://deno.com",
     "tags": [
       "deno",
-      "ReleaseNote",
       "library",
+      "ReleaseNote",
       "denoe",
       "article",
       "dneo",
@@ -165,22 +165,6 @@
     }
   },
   {
-    "count": 15,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
     "count": 14,
     "url": "https://web.dev",
     "tags": [
@@ -202,6 +186,22 @@
     "example": {
       "title": "JSON module scripts are now Baseline Newly available  |  Blog  |  web.dev",
       "url": "https://web.dev/blog/json-imports-baseline-newly-available?hl=en"
+    }
+  },
+  {
+    "count": 14,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
     }
   },
   {
