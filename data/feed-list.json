@@ -706,6 +706,12 @@
     ]
   },
   {
+    "url": "https://github.com/chakra-ui/panda",
+    "feeds": [
+      "https://github.com/chakra-ui/panda/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
@@ -1435,12 +1441,6 @@
     "url": "https://github.com/vercel/swr",
     "feeds": [
       "https://github.com/vercel/swr/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/chakra-ui/panda",
-    "feeds": [
-      "https://github.com/chakra-ui/panda/releases.atom"
     ]
   },
   {
