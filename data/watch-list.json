@@ -2005,6 +2005,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/chakra-ui/panda",
+    "tags": [
+      "pandacs",
+      "library",
+      "ReleaseNote",
+      "css",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "🐼 Panda v1 🎊 · chakra-ui/panda · Discussion #3321",
+      "url": "https://github.com/chakra-ui/panda/discussions/3321"
+    },
+    "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://ecma-international.org",
     "tags": [
       "ecma",
@@ -6915,20 +6931,6 @@
       "title": "CodSpeed: Optimize Performance, Eliminate Regressions",
       "url": "https://codspeed.io/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/chakra-ui/panda",
-    "tags": [
-      "pandacs",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release @pandacss/dev@0.50.0 · chakra-ui/panda",
-      "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%400.50.0"
-    },
-    "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
   },
   {
     "count": 1,

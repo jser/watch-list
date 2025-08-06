@@ -118,6 +118,7 @@
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
+<outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/vanjs-org/van" title="github.com/vanjs-org/van" type="rss" xmlUrl="https://github.com/vanjs-org/van/releases.atom"/>
 <outline text="github.com/vega/ts-json-schema-generator" title="github.com/vega/ts-json-schema-generator" type="rss" xmlUrl="https://github.com/vega/ts-json-schema-generator/releases.atom"/>
@@ -240,7 +241,6 @@
 <outline text="github.com/nissy-dev/tenbin" title="github.com/nissy-dev/tenbin" type="rss" xmlUrl="https://github.com/nissy-dev/tenbin/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
-<outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/facebookexperimental/Recoil" title="github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
 <outline text="github.com/open-source-labs/Reactime" title="github.com/open-source-labs/Reactime" type="rss" xmlUrl="https://github.com/open-source-labs/Reactime/releases.atom"/>
 <outline text="github.com/Automattic/node-canvas" title="github.com/Automattic/node-canvas" type="rss" xmlUrl="https://github.com/Automattic/node-canvas/releases.atom"/>
