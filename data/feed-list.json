@@ -197,12 +197,6 @@
     ]
   },
   {
-    "url": "https://blog.stackblitz.com",
-    "feeds": [
-      "https://blog.stackblitz.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://blog.val.town",
     "feeds": [
       "https://blog.val.town/rss.xml"
@@ -715,12 +709,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vanjs-org/van",
-    "feeds": [
-      "https://github.com/vanjs-org/van/releases.atom"
     ]
   },
   {
@@ -1777,6 +1765,24 @@
     "url": "https://github.com/kentcdodds/cross-env",
     "feeds": [
       "https://github.com/kentcdodds/cross-env/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/oxc-project/oxc",
+    "feeds": [
+      "https://github.com/oxc-project/oxc/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/sveltejs/kit",
+    "feeds": [
+      "https://github.com/sveltejs/kit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/shuding/bidc",
+    "feeds": [
+      "https://github.com/shuding/bidc/releases.atom"
     ]
   },
   {

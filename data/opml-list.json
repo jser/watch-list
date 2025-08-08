@@ -197,12 +197,6 @@
     ]
   },
   {
-    "url": "https://blog.stackblitz.com",
-    "feeds": [
-      "https://blog.stackblitz.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://blog.val.town",
     "feeds": [
       "https://blog.val.town/rss.xml"

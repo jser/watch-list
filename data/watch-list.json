@@ -18,7 +18,7 @@
     }
   },
   {
-    "count": 46,
+    "count": 45,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -692,6 +692,23 @@
   },
   {
     "count": 5,
+    "url": "https://v8.dev",
+    "tags": [
+      "ECMAScript",
+      "article",
+      "V8",
+      "JavaScript",
+      "Chrome",
+      "WebAssembly",
+      "Promises"
+    ],
+    "example": {
+      "title": "How we made JSON.stringify more than twice as fast · V8",
+      "url": "https://v8.dev/blog/json-stringify"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -825,23 +842,6 @@
       "url": "https://github.com/webpack/webpack/releases/tag/v5.100.0"
     },
     "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://v8.dev",
-    "tags": [
-      "ECMAScript",
-      "article",
-      "V8",
-      "JavaScript",
-      "Chrome",
-      "WebAssembly",
-      "Promises"
-    ],
-    "example": {
-      "title": "Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints · V8",
-      "url": "https://v8.dev/blog/explicit-compile-hints"
-    }
   },
   {
     "count": 4,
@@ -2135,33 +2135,6 @@
     "example": {
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vanjs-org/van",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "1.0.0: Milestone for API stability · vanjs-org/van · Discussion #72",
-      "url": "https://github.com/vanjs-org/van/discussions/72"
-    },
-    "rssUrl": "https://github.com/vanjs-org/van/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.stackblitz.com",
-    "tags": [
-      "WebAssembly",
-      "Image",
-      "article"
-    ],
-    "example": {
-      "title": "Bringing Sharp to WebAssembly and WebContainers",
-      "url": "https://blog.stackblitz.com/posts/bringing-sharp-to-wasm-and-webcontainers/"
     }
   },
   {
@@ -8371,5 +8344,44 @@
       "title": "命令的な ARIA ライブリージョン：ARIA Notifyの紹介",
       "url": "https://zenn.dev/mehm8128/articles/aria-notify-introduction"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/oxc-project/oxc",
+    "tags": [
+      "ReleaseNote",
+      "ESLint"
+    ],
+    "example": {
+      "title": "Release oxlint v1.10.0 · oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.10.0"
+    },
+    "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sveltejs/kit",
+    "tags": [
+      "Svelte",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @sveltejs/kit@2.27.0 · sveltejs/kit",
+      "url": "https://github.com/sveltejs/kit/releases/tag/%40sveltejs%2Fkit%402.27.0"
+    },
+    "rssUrl": "https://github.com/sveltejs/kit/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/shuding/bidc",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "shuding/bidc: Bidirectional Channels for JavaScript",
+      "url": "https://github.com/shuding/bidc"
+    },
+    "rssUrl": "https://github.com/shuding/bidc/releases.atom"
   }
 ]
