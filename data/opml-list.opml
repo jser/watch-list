@@ -35,7 +35,6 @@
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
 <outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
-<outline text="blog.stackblitz.com" title="blog.stackblitz.com" type="rss" xmlUrl="https://blog.stackblitz.com/rss.xml"/>
 <outline text="blog.val.town" title="blog.val.town" type="rss" xmlUrl="https://blog.val.town/rss.xml"/>
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
