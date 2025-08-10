@@ -460,15 +460,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -2089,13 +2089,6 @@
     ]
   },
   {
-    "url": "https://practica.dev",
-    "feeds": [
-      "https://practica.dev/blog/rss.xml",
-      "https://practica.dev/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://prateeksurana.me",
     "feeds": [
       "https://prateeksurana.me/blog/feed.xml",
@@ -2241,13 +2234,6 @@
     "feeds": [
       "https://speakerdeck.com/sajikix.atom",
       "https://speakerdeck.com/sajikix.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/kazupon/",
-    "feeds": [
-      "https://speakerdeck.com/kazupon.atom",
-      "https://speakerdeck.com/kazupon.rss"
     ]
   },
   {

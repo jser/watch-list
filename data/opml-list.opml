@@ -122,7 +122,6 @@
 <outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>
 <outline text="playfulprogramming.com" title="playfulprogramming.com" type="rss" xmlUrl="https://playfulprogramming.com/atom.xml"/>
 <outline text="postd.cc" title="postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
-<outline text="practica.dev" title="practica.dev" type="rss" xmlUrl="https://practica.dev/blog/rss.xml"/>
 <outline text="prateeksurana.me" title="prateeksurana.me" type="rss" xmlUrl="https://prateeksurana.me/blog/feed.xml"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="product.st.inc" title="product.st.inc" type="rss" xmlUrl="https://product.st.inc/feed"/>
@@ -145,7 +144,6 @@
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/sajikix/" title="speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
-<outline text="speakerdeck.com/kazupon/" title="speakerdeck.com/kazupon/" type="rss" xmlUrl="https://speakerdeck.com/kazupon.atom"/>
 <outline text="speakerdeck.com/recruitengineers/" title="speakerdeck.com/recruitengineers/" type="rss" xmlUrl="https://speakerdeck.com/recruitengineers.atom"/>
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
 <outline text="speakerdeck.com/steelydylan/" title="speakerdeck.com/steelydylan/" type="rss" xmlUrl="https://speakerdeck.com/steelydylan.atom"/>

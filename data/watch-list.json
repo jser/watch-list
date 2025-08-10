@@ -1,14 +1,14 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
       "ReleaseNote",
-      "security",
       "secu",
       "article",
       "windows",
+      "security",
       "TypeScript",
       "news"
     ],
@@ -65,21 +65,6 @@
     }
   },
   {
-    "count": 25,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.9 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
-    }
-  },
-  {
     "count": 24,
     "url": "https://webkit.org",
     "tags": [
@@ -98,6 +83,21 @@
     "example": {
       "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    }
+  },
+  {
+    "count": 24,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.9 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     }
   },
   {
@@ -307,6 +307,19 @@
   },
   {
     "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.54.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 9,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "esbuild",
@@ -319,19 +332,6 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.7"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.54.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 8,
@@ -2135,45 +2135,6 @@
     "example": {
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://npmgraph.js.org",
-    "tags": [
-      "npm",
-      "webservice",
-      "Tools"
-    ],
-    "example": {
-      "title": "npmgraph -",
-      "url": "https://npmgraph.js.org/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://practica.dev",
-    "tags": [
-      "JavaScript",
-      "program",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "A compilation of outstanding testing articles (with JavaScript) | Practica.js",
-      "url": "https://practica.dev/blog/a-compilation-of-outstanding-testing-articles-with-javaScript/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/kazupon/",
-    "tags": [
-      "Vue",
-      "slide"
-    ],
-    "example": {
-      "title": "Vue.jsエコシステム動向2023 - Speaker Deck",
-      "url": "https://speakerdeck.com/kazupon/vue-dot-jsekosisutemudong-xiang-2023"
     }
   },
   {
