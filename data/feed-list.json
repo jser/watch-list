@@ -99,12 +99,6 @@
     ]
   },
   {
-    "url": "https://blog.appsignal.com",
-    "feeds": [
-      "https://blog.appsignal.com//feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.cloudflare.com",
     "feeds": [
       "https://blog.cloudflare.com/rss"

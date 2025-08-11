@@ -20,7 +20,6 @@
 <outline text="blog.1password.com" title="blog.1password.com" type="rss" xmlUrl="https://blog.1password.com/index.xml"/>
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
 <outline text="blog.angular.io" title="blog.angular.io" type="rss" xmlUrl="https://blog.angular.io/feed"/>
-<outline text="blog.appsignal.com" title="blog.appsignal.com" type="rss" xmlUrl="https://blog.appsignal.com//feed.xml"/>
 <outline text="blog.cloudflare.com" title="blog.cloudflare.com" type="rss" xmlUrl="https://blog.cloudflare.com/rss"/>
 <outline text="blog.flatt.tech" title="blog.flatt.tech" type="rss" xmlUrl="https://blog.flatt.tech/feed"/>
 <outline text="blog.getbootstrap.com" title="blog.getbootstrap.com" type="rss" xmlUrl="https://blog.getbootstrap.com/feed.xml"/>
