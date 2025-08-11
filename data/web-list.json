@@ -19,7 +19,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 45,
+    "count": 46,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -36,8 +36,8 @@
       "css"
     ],
     "example": {
-      "title": "Bun v1.2.19 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.19"
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
     },
     "rssUrl": "https://bun.sh/rss.xml"
   },
@@ -69,28 +69,6 @@
   },
   {
     "count": 24,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "CSS",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
-      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 24,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -104,6 +82,28 @@
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 23,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "JavaScript",
+      "article",
+      "ReleaseNote",
+      "CSS",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
+      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 22,
@@ -2211,19 +2211,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.appsignal.com",
-    "tags": [
-      "puppeteer",
-      "article"
-    ],
-    "example": {
-      "title": "Puppeteer in Node.js: Common Mistakes to Avoid | AppSignal Blog",
-      "url": "https://blog.appsignal.com/2023/02/08/puppeteer-in-nodejs-common-mistakes-to-avoid.html"
-    },
-    "rssUrl": "https://blog.appsignal.com//feed.xml"
   },
   {
     "count": 1,
