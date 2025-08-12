@@ -124,12 +124,6 @@
     ]
   },
   {
-    "url": "https://blog.isquaredsoftware.com",
-    "feeds": [
-      "https://blog.isquaredsoftware.com/index.xml"
-    ]
-  },
-  {
     "url": "https://blog.jetbrains.com",
     "feeds": [
       "https://blog.jetbrains.com/blog/feed/",
@@ -420,12 +414,6 @@
     "url": "https://frontendmasters.com",
     "feeds": [
       "https://frontendmasters.com/blog/feed/"
-    ]
-  },
-  {
-    "url": "https://gist.github.com/andrewbranch",
-    "feeds": [
-      "https://gist.github.com/andrewbranch.atom"
     ]
   },
   {
@@ -2594,13 +2582,6 @@
       "https://www.moonbitlang.com/blog/atom.xml",
       "https://www.moonbitlang.com/weekly-updates/rss.xml",
       "https://www.moonbitlang.com/weekly-updates/atom.xml"
-    ]
-  },
-  {
-    "url": "https://www.patrickweaver.net",
-    "feeds": [
-      "https://patrickweaver.net/feed.xml",
-      "https://patrickweaver.net/feed.rss"
     ]
   },
   {

@@ -24,7 +24,6 @@
 <outline text="blog.flatt.tech" title="blog.flatt.tech" type="rss" xmlUrl="https://blog.flatt.tech/feed"/>
 <outline text="blog.getbootstrap.com" title="blog.getbootstrap.com" type="rss" xmlUrl="https://blog.getbootstrap.com/feed.xml"/>
 <outline text="blog.google" title="blog.google" type="rss" xmlUrl="https://blog.google/rss/"/>
-<outline text="blog.isquaredsoftware.com" title="blog.isquaredsoftware.com" type="rss" xmlUrl="https://blog.isquaredsoftware.com/index.xml"/>
 <outline text="blog.jetbrains.com" title="blog.jetbrains.com" type="rss" xmlUrl="https://blog.jetbrains.com/blog/feed/"/>
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
 <outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
@@ -71,7 +70,6 @@
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
 <outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
-<outline text="gist.github.com/andrewbranch" title="gist.github.com/andrewbranch" type="rss" xmlUrl="https://gist.github.com/andrewbranch.atom"/>
 <outline text="gist.github.com/azu" title="gist.github.com/azu" type="rss" xmlUrl="https://gist.github.com/azu.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
@@ -421,7 +419,6 @@
 <outline text="www.mitsue.co.jp" title="www.mitsue.co.jp" type="rss" xmlUrl="https://www.mitsue.co.jp/index.rdf"/>
 <outline text="www.mizdra.net" title="www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
-<outline text="www.patrickweaver.net" title="www.patrickweaver.net" type="rss" xmlUrl="https://patrickweaver.net/feed.xml"/>
 <outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
