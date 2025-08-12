@@ -40,15 +40,15 @@
     }
   },
   {
-    "count": 35,
+    "count": 34,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "JavaScript",
-      "article",
       "debug",
+      "article",
       "ReleaseNote",
       "performance",
+      "JavaScript",
       "WebGL",
       "WebGPU",
       "CSS",
@@ -77,27 +77,6 @@
     "example": {
       "title": "Announcing TypeScript 5.9 - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
-    }
-  },
-  {
-    "count": 23,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "JavaScript",
-      "article",
-      "ReleaseNote",
-      "CSS",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
-      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
     }
   },
   {
@@ -132,6 +111,26 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.14.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 22,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "CSS",
+      "article",
+      "browser",
+      "benchmark",
+      "performance",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
+      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    }
   },
   {
     "count": 20,
@@ -2135,59 +2134,6 @@
     "example": {
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.isquaredsoftware.com",
-    "tags": [
-      "JavaScript",
-      "npm",
-      "redux",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Blogged Answers: My Experience Modernizing Packages to ESM · Mark's Dev Blog",
-      "url": "https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://gist.github.com/andrewbranch",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "Module documentation (in progress)",
-      "url": "https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6"
-    },
-    "rssUrl": "https://gist.github.com/andrewbranch.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.getcontrast.io",
-    "tags": [
-      "JavaScript",
-      "Chrome",
-      "article"
-    ],
-    "example": {
-      "title": "Creating a recorder with Document Picture-in-Picture API | Contrast",
-      "url": "https://www.getcontrast.io/learn/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.patrickweaver.net",
-    "tags": [
-      "HTML",
-      "article"
-    ],
-    "example": {
-      "title": "A Blog Post With Every HTML Element",
-      "url": "https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/"
     }
   },
   {
