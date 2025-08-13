@@ -1071,6 +1071,18 @@
   },
   {
     "count": 3,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "jQuery 4.0.0 Release Candidate 1 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2025/08/11/jquery-4-0-0-release-candidate-1/"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://github.com/tc39/ecma262",
     "tags": [
       "ECMAScript",
@@ -1653,18 +1665,6 @@
     "example": {
       "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
       "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Second Beta of jQuery 4.0.0 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2024/07/17/second-beta-of-jquery-4-0-0/"
     }
   },
   {
