@@ -1042,6 +1042,18 @@
   },
   {
     "count": 3,
+    "url": "https://zenn.dev/uki00a/",
+    "tags": [
+      "deno",
+      "article"
+    ],
+    "example": {
+      "title": "Denoのフロントエンド開発の動向【2025年夏】",
+      "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://github.com/jsdom/jsdom",
     "tags": [
       "JavaScript",
@@ -1612,18 +1624,6 @@
   },
   {
     "count": 2,
-    "url": "https://zenn.dev/uki00a/",
-    "tags": [
-      "deno",
-      "article"
-    ],
-    "example": {
-      "title": "Deno v2がリリース🎉 - Deno v1.0.0の頃からの変化と現在のプラクティスについて",
-      "url": "https://zenn.dev/uki00a/articles/deno-v2-what-has-changed-from-v1"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://risingstars.js.org",
     "tags": [
       "JavaScript",
@@ -2134,19 +2134,6 @@
     "example": {
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://security.googleblog.com",
-    "tags": [
-      "Chrome",
-      "security",
-      "news"
-    ],
-    "example": {
-      "title": "Google Online Security Blog: An update on Chrome Security updates – shipping security fixes to you faster",
-      "url": "https://security.googleblog.com/2023/08/an-update-on-chrome-security-updates.html"
     }
   },
   {
@@ -8278,5 +8265,31 @@
       "url": "https://github.com/shuding/bidc"
     },
     "rssUrl": "https://github.com/shuding/bidc/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://echarts.apache.org",
+    "tags": [
+      "chart",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "ECharts 6 Features - What's New - Basics - Handbook - Apache ECharts",
+      "url": "https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://2025.stateofcss.com",
+    "tags": [
+      "css",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of CSS 2025",
+      "url": "https://2025.stateofcss.com/en-US"
+    }
   }
 ]
