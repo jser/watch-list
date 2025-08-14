@@ -2166,12 +2166,6 @@
     ]
   },
   {
-    "url": "https://security.googleblog.com",
-    "feeds": [
-      "https://googleonlinesecurity.blogspot.com/atom.xml"
-    ]
-  },
-  {
     "url": "https://semaphoreci.com",
     "feeds": [
       "https://semaphoreci.com/feed",
@@ -2682,15 +2676,15 @@
     ]
   },
   {
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "feeds": [
-      "https://zenn.dev/p/cybozu_frontend/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/uki00a/",
     "feeds": [
       "https://zenn.dev/uki00a/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "feeds": [
+      "https://zenn.dev/p/cybozu_frontend/feed"
     ]
   },
   {
