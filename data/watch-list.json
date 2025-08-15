@@ -305,19 +305,6 @@
     }
   },
   {
-    "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.54.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
     "count": 9,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
@@ -331,6 +318,19 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.7"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.54.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 8,
@@ -2135,20 +2135,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vega/ts-json-schema-generator",
-    "tags": [
-      "TypeScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.3.0 · vega/ts-json-schema-generator",
-      "url": "https://github.com/vega/ts-json-schema-generator/releases/tag/v1.3.0"
-    },
-    "rssUrl": "https://github.com/vega/ts-json-schema-generator/releases.atom"
   },
   {
     "count": 1,
