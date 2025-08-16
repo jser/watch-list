@@ -214,20 +214,6 @@
   },
   {
     "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 37.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-37-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -267,6 +253,20 @@
       "url": "https://www.youtube.com/watch?v=l2dByiwiQcM"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 37.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-37-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,

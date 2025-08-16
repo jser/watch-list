@@ -205,19 +205,6 @@
   },
   {
     "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 37.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-37-0"
-    }
-  },
-  {
-    "count": 13,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -255,6 +242,19 @@
     "example": {
       "title": "Why Is Everyone Talking About Lynx? The Architect’s Breakdown - YouTube",
       "url": "https://www.youtube.com/watch?v=l2dByiwiQcM"
+    }
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 37.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-37-0"
     }
   },
   {
