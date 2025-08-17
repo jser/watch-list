@@ -869,13 +869,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/recruitengineers/",
-    "feeds": [
-      "https://speakerdeck.com/recruitengineers.atom",
-      "https://speakerdeck.com/recruitengineers.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/brn/",
     "feeds": [
       "https://speakerdeck.com/brn.atom",
@@ -1191,6 +1184,12 @@
       "https://www.htmhell.dev/feed.xml",
       "https://www.htmhell.dev/feed_tips.xml",
       "https://www.htmhell.dev/feed_advent.xml"
+    ]
+  },
+  {
+    "url": "https://www.joshuakgoldberg.com",
+    "feeds": [
+      "https://www.joshuakgoldberg.com/rss.xml"
     ]
   },
   {

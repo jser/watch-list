@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -13,8 +13,8 @@
       "news"
     ],
     "example": {
-      "title": "Node.js — Node.js v24.5.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.5.0"
+      "title": "Node.js — Node.js v24.6.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.6.0"
     }
   },
   {
@@ -40,7 +40,7 @@
     }
   },
   {
-    "count": 34,
+    "count": 33,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -334,23 +334,6 @@
   },
   {
     "count": 8,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "TypeScript",
-      "document",
-      "article",
-      "ReleaseNote",
-      "babel",
-      "news"
-    ],
-    "example": {
-      "title": "Incremental Adoption – React",
-      "url": "https://react.dev/learn/react-compiler/incremental-adoption"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -469,6 +452,22 @@
     "example": {
       "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "article",
+      "ReleaseNote",
+      "babel",
+      "document",
+      "news"
+    ],
+    "example": {
+      "title": "Incremental Adoption – React",
+      "url": "https://react.dev/learn/react-compiler/incremental-adoption"
     }
   },
   {
@@ -1799,6 +1798,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/biomejs/biome",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "biome"
+    ],
+    "example": {
+      "title": "Release Biome CLI v2.2.0 · biomejs/biome",
+      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.2.0"
+    },
+    "rssUrl": "https://github.com/biomejs/biome/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://martinfowler.com",
     "tags": [
       "React",
@@ -2135,31 +2149,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/recruitengineers/",
-    "tags": [
-      "React",
-      "slide"
-    ],
-    "example": {
-      "title": "React - Speaker Deck",
-      "url": "https://speakerdeck.com/recruitengineers/react"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vercel/next.js",
-    "tags": [
-      "Next.js",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v13.4.16 · vercel/next.js",
-      "url": "https://github.com/vercel/next.js/releases/tag/v13.4.16"
-    },
-    "rssUrl": "https://github.com/vercel/next.js/releases.atom"
   },
   {
     "count": 1,
@@ -5021,20 +5010,6 @@
       "title": "How 1Password Used Esbuild to Cut Browser Extension Build Times | 1Password",
       "url": "https://blog.1password.com/new-extension-build-system/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/biomejs/biome",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release CLI v1.8.0 · biomejs/biome",
-      "url": "https://github.com/biomejs/biome/releases/tag/cli%2Fv1.8.0"
-    },
-    "rssUrl": "https://github.com/biomejs/biome/releases.atom"
   },
   {
     "count": 1,
@@ -8276,6 +8251,33 @@
     "example": {
       "title": "State of CSS 2025",
       "url": "https://2025.stateofcss.com/en-US"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/web-infra-dev/rslint",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "golang"
+    ],
+    "example": {
+      "title": "web-infra-dev/rslint: 🚀 Go Faster. Go Typed",
+      "url": "https://github.com/web-infra-dev/rslint"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rslint/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.joshuakgoldberg.com",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "article"
+    ],
+    "example": {
+      "title": "If I Wrote a Linter, Part 1: Architecture | Goldblog",
+      "url": "https://www.joshuakgoldberg.com/blog/if-i-wrote-a-linter-part-1-architecture/"
     }
   }
 ]
