@@ -140,7 +140,6 @@
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/sajikix/" title="speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
-<outline text="speakerdeck.com/recruitengineers/" title="speakerdeck.com/recruitengineers/" type="rss" xmlUrl="https://speakerdeck.com/recruitengineers.atom"/>
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
 <outline text="speakerdeck.com/steelydylan/" title="speakerdeck.com/steelydylan/" type="rss" xmlUrl="https://speakerdeck.com/steelydylan.atom"/>
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
@@ -188,6 +187,7 @@
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.epicreact.dev" title="www.epicreact.dev" type="rss" xmlUrl="https://www.epicreact.dev/rss.xml"/>
 <outline text="www.htmhell.dev" title="www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
+<outline text="www.joshuakgoldberg.com" title="www.joshuakgoldberg.com" type="rss" xmlUrl="https://www.joshuakgoldberg.com/rss.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.keithcirkel.co.uk" title="www.keithcirkel.co.uk" type="rss" xmlUrl="https://www.keithcirkel.co.uk/feed.xml"/>
 <outline text="www.m3tech.blog" title="www.m3tech.blog" type="rss" xmlUrl="https://www.m3tech.blog/feed"/>
