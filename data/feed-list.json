@@ -1762,6 +1762,12 @@
     ]
   },
   {
+    "url": "https://github.com/redwoodjs/sdk",
+    "feeds": [
+      "https://github.com/redwoodjs/sdk/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

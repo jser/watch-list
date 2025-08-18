@@ -544,6 +544,24 @@
   },
   {
     "count": 6,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Oxlint Type-Aware Preview | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-08-17-oxlint-type-aware"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
+  },
+  {
+    "count": 6,
     "url": "https://stylexjs.com",
     "tags": [
       "css ",
@@ -763,23 +781,6 @@
       "url": "https://rspack.dev/blog/rspack-next-partner"
     },
     "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Oxlint v1.0 Stable | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-06-10-oxlint-stable"
-    },
-    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 4,
@@ -8512,5 +8513,19 @@
       "url": "https://www.joshuakgoldberg.com/blog/if-i-wrote-a-linter-part-1-architecture/"
     },
     "rssUrl": "https://www.joshuakgoldberg.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/redwoodjs/sdk",
+    "tags": [
+      "cloudflare",
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "redwoodjs/sdk: A React Framework for Cloudflare.",
+      "url": "https://github.com/redwoodjs/sdk"
+    },
+    "rssUrl": "https://github.com/redwoodjs/sdk/releases.atom"
   }
 ]
