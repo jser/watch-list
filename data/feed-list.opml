@@ -294,6 +294,7 @@
 <outline text="github.com/sveltejs/kit" title="github.com/sveltejs/kit" type="rss" xmlUrl="https://github.com/sveltejs/kit/releases.atom"/>
 <outline text="github.com/shuding/bidc" title="github.com/shuding/bidc" type="rss" xmlUrl="https://github.com/shuding/bidc/releases.atom"/>
 <outline text="github.com/web-infra-dev/rslint" title="github.com/web-infra-dev/rslint" type="rss" xmlUrl="https://github.com/web-infra-dev/rslint/releases.atom"/>
+<outline text="github.com/redwoodjs/sdk" title="github.com/redwoodjs/sdk" type="rss" xmlUrl="https://github.com/redwoodjs/sdk/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>

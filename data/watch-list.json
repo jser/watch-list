@@ -523,6 +523,23 @@
   },
   {
     "count": 6,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Oxlint Type-Aware Preview | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-08-17-oxlint-type-aware"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://stylexjs.com",
     "tags": [
       "css ",
@@ -732,22 +749,6 @@
     "example": {
       "title": "Rspack joins the Next.js ecosystem - Rspack",
       "url": "https://rspack.dev/blog/rspack-next-partner"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Oxlint v1.0 Stable | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-06-10-oxlint-stable"
     }
   },
   {
@@ -8279,5 +8280,19 @@
       "title": "If I Wrote a Linter, Part 1: Architecture | Goldblog",
       "url": "https://www.joshuakgoldberg.com/blog/if-i-wrote-a-linter-part-1-architecture/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/redwoodjs/sdk",
+    "tags": [
+      "cloudflare",
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "redwoodjs/sdk: A React Framework for Cloudflare.",
+      "url": "https://github.com/redwoodjs/sdk"
+    },
+    "rssUrl": "https://github.com/redwoodjs/sdk/releases.atom"
   }
 ]
