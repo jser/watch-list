@@ -81,26 +81,6 @@
   },
   {
     "count": 22,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "library",
-      "ReleaseNote",
-      "denoe",
-      "article",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history"
-    ],
-    "example": {
-      "title": "Deno 2.4: deno bundle is back | Deno",
-      "url": "https://deno.com/blog/v2.4"
-    }
-  },
-  {
-    "count": 22,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -130,6 +110,26 @@
     "example": {
       "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+    }
+  },
+  {
+    "count": 21,
+    "url": "https://deno.com",
+    "tags": [
+      "denoe",
+      "ReleaseNote",
+      "deno",
+      "article",
+      "library",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history"
+    ],
+    "example": {
+      "title": "Deno 2.4: deno bundle is back | Deno",
+      "url": "https://deno.com/blog/v2.4"
     }
   },
   {
