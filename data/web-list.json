@@ -491,6 +491,24 @@
   },
   {
     "count": 6,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "book",
+      "ReleaseNote",
+      "npm",
+      "nodejs",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "JavaScript Primer v7.0.0リリース: ES2025対応とIterator Helpersの新章追加 | Web Scratch",
+      "url": "https://efcl.info/2025/08/18/jsprimer-v7/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
+  },
+  {
+    "count": 6,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "JavaScript",
@@ -612,24 +630,6 @@
       "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
     },
     "rssUrl": "https://frontendmasters.com/blog/feed/"
-  },
-  {
-    "count": 5,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "book",
-      "ReleaseNote",
-      "npm",
-      "nodejs",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "JavaScript Primer v6.0.0リリース: ES2024の対応とNode.jsのユースケースを刷新 | Web Scratch",
-      "url": "https://efcl.info/2024/09/02/jsprimer-v6/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 5,
@@ -2225,21 +2225,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/alvarlagerlof/rsc-parser",
-    "tags": [
-      "Chrome",
-      "Extension",
-      "React",
-      "debug"
-    ],
-    "example": {
-      "title": "alvarlagerlof/rsc-parser: A parser for the React Server components when sent over the network",
-      "url": "https://github.com/alvarlagerlof/rsc-parser"
-    },
-    "rssUrl": "https://github.com/alvarlagerlof/rsc-parser/releases.atom"
   },
   {
     "count": 1,
