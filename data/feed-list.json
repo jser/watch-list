@@ -700,12 +700,6 @@
     ]
   },
   {
-    "url": "https://github.com/alvarlagerlof/rsc-parser",
-    "feeds": [
-      "https://github.com/alvarlagerlof/rsc-parser/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/parcel-bundler/watcher",
     "feeds": [
       "https://github.com/parcel-bundler/watcher/releases.atom"
