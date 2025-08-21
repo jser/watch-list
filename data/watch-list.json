@@ -80,15 +80,15 @@
     }
   },
   {
-    "count": 22,
+    "count": 23,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.14 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.14.0"
+      "title": "Release pnpm 10.15 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -165,6 +165,21 @@
   },
   {
     "count": 14,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 15.5 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-5"
+    }
+  },
+  {
+    "count": 14,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -201,21 +216,6 @@
     "example": {
       "title": "Astro 5.7 | Astro",
       "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 13,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "Next.js 15.4 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-4"
     }
   },
   {
@@ -8279,5 +8279,17 @@
       "url": "https://github.com/redwoodjs/sdk"
     },
     "rssUrl": "https://github.com/redwoodjs/sdk/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.firefox.com",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 142.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/142.0/releasenotes/"
+    }
   }
 ]
