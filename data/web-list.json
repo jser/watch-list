@@ -42,19 +42,19 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 33,
+    "count": 30,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "debug",
+      "JavaScript",
       "article",
       "ReleaseNote",
-      "performance",
-      "JavaScript",
       "WebGL",
       "WebGPU",
       "CSS",
+      "debug",
       "WebAssembly",
+      "performance",
       "LanguageModel",
       "Firefox",
       "puppeteer",
@@ -151,7 +151,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -165,8 +165,8 @@
       "HTML"
     ],
     "example": {
-      "title": "ESLint v9.0.0: A retrospective - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/05/eslint-v9.0.0-retrospective/"
+      "title": "ESLint v9.34.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/08/eslint-v9.34.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
   },
@@ -270,22 +270,6 @@
   },
   {
     "count": 11,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.7.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 11,
     "url": "https://nuxt.com",
     "tags": [
       "Vue",
@@ -316,6 +300,22 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 10,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "library",
+      "server",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.7.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 9,
@@ -908,21 +908,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/jestjs/jest",
-    "tags": [
-      "jest",
-      "ReleaseNote",
-      "JavaScript",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
-      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
-    },
-    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://blog.angular.io",
     "tags": [
       "JavaScript",
@@ -1347,21 +1332,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/reduxjs/react-redux",
-    "tags": [
-      "React",
-      "redux",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.2.0 · reduxjs/react-redux",
-      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://docs.cypress.io",
     "tags": [
       "E2E",
@@ -1391,6 +1361,21 @@
       "url": "https://github.com/withastro/astro/releases/tag/astro%405.9.0"
     },
     "rssUrl": "https://github.com/withastro/astro/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/jestjs/jest",
+    "tags": [
+      "jest",
+      "JavaScript",
+      "testing",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
+      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
+    },
+    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   },
   {
     "count": 2,
@@ -2225,20 +2210,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://alttexthalloffame.org",
-    "tags": [
-      "accessibility",
-      "HTML",
-      "Image"
-    ],
-    "example": {
-      "title": "Alt Text Hall of Fame – Celebrating well-written image descriptions.",
-      "url": "https://alttexthalloffame.org/"
-    },
-    "rssUrl": "https://alttexthalloffame.org/en/feed/"
   },
   {
     "count": 1,
@@ -6829,6 +6800,21 @@
       "url": "https://github.com/nissy-dev/tenbin"
     },
     "rssUrl": "https://github.com/nissy-dev/tenbin/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/reduxjs/react-redux",
+    "tags": [
+      "redux",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.2.0 · reduxjs/react-redux",
+      "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
   },
   {
     "count": 1,

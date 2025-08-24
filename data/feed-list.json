@@ -42,14 +42,6 @@
     ]
   },
   {
-    "url": "https://alttexthalloffame.org",
-    "feeds": [
-      "https://alttexthalloffame.org/en/feed/",
-      "https://alttexthalloffame.org/en/comments/feed/",
-      "https://alttexthalloffame.org/sample-page/feed/"
-    ]
-  },
-  {
     "url": "https://astro.build",
     "feeds": [
       "https://astro.build/rss.xml"
@@ -514,12 +506,6 @@
     ]
   },
   {
-    "url": "https://github.com/jestjs/jest",
-    "feeds": [
-      "https://github.com/jestjs/jest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
@@ -574,15 +560,15 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/react-redux",
-    "feeds": [
-      "https://github.com/reduxjs/react-redux/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/withastro/astro",
     "feeds": [
       "https://github.com/withastro/astro/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jestjs/jest",
+    "feeds": [
+      "https://github.com/jestjs/jest/releases.atom"
     ]
   },
   {
@@ -1381,6 +1367,12 @@
     "url": "https://github.com/nissy-dev/tenbin",
     "feeds": [
       "https://github.com/nissy-dev/tenbin/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/react-redux",
+    "feeds": [
+      "https://github.com/reduxjs/react-redux/releases.atom"
     ]
   },
   {
