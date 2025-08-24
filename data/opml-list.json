@@ -42,14 +42,6 @@
     ]
   },
   {
-    "url": "https://alttexthalloffame.org",
-    "feeds": [
-      "https://alttexthalloffame.org/en/feed/",
-      "https://alttexthalloffame.org/en/comments/feed/",
-      "https://alttexthalloffame.org/sample-page/feed/"
-    ]
-  },
-  {
     "url": "https://astro.build",
     "feeds": [
       "https://astro.build/rss.xml"
