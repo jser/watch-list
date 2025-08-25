@@ -686,12 +686,6 @@
     ]
   },
   {
-    "url": "https://github.com/parcel-bundler/watcher",
-    "feeds": [
-      "https://github.com/parcel-bundler/watcher/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/aerotoad/neboa",
     "feeds": [
       "https://github.com/aerotoad/neboa/releases.atom"
@@ -1754,6 +1748,12 @@
     ]
   },
   {
+    "url": "https://github.com/sidequestjs/sidequest",
+    "feeds": [
+      "https://github.com/sidequestjs/sidequest/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1797,6 +1797,12 @@
     "feeds": [
       "https://jestjs.io/blog/rss.xml",
       "https://jestjs.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://jross.me",
+    "feeds": [
+      "https://jross.me/rss/"
     ]
   },
   {
