@@ -115,7 +115,6 @@
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/parcel-bundler/watcher" title="github.com/parcel-bundler/watcher" type="rss" xmlUrl="https://github.com/parcel-bundler/watcher/releases.atom"/>
 <outline text="github.com/aerotoad/neboa" title="github.com/aerotoad/neboa" type="rss" xmlUrl="https://github.com/aerotoad/neboa/releases.atom"/>
 <outline text="github.com/web-infra-dev/wg" title="github.com/web-infra-dev/wg" type="rss" xmlUrl="https://github.com/web-infra-dev/wg/releases.atom"/>
 <outline text="github.com/actions/checkout" title="github.com/actions/checkout" type="rss" xmlUrl="https://github.com/actions/checkout/releases.atom"/>
@@ -293,6 +292,7 @@
 <outline text="github.com/shuding/bidc" title="github.com/shuding/bidc" type="rss" xmlUrl="https://github.com/shuding/bidc/releases.atom"/>
 <outline text="github.com/web-infra-dev/rslint" title="github.com/web-infra-dev/rslint" type="rss" xmlUrl="https://github.com/web-infra-dev/rslint/releases.atom"/>
 <outline text="github.com/redwoodjs/sdk" title="github.com/redwoodjs/sdk" type="rss" xmlUrl="https://github.com/redwoodjs/sdk/releases.atom"/>
+<outline text="github.com/sidequestjs/sidequest" title="github.com/sidequestjs/sidequest" type="rss" xmlUrl="https://github.com/sidequestjs/sidequest/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
@@ -300,6 +300,7 @@
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
 <outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
+<outline text="jross.me" title="jross.me" type="rss" xmlUrl="https://jross.me/rss/"/>
 <outline text="kaminashi-developer.hatenablog.jp" title="kaminashi-developer.hatenablog.jp" type="rss" xmlUrl="https://kaminashi-developer.hatenablog.jp/feed"/>
 <outline text="kettanaito.com" title="kettanaito.com" type="rss" xmlUrl="https://kettanaito.com/blog/rss.xml"/>
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>

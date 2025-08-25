@@ -19,7 +19,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 46,
+    "count": 45,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -598,41 +598,6 @@
   },
   {
     "count": 5,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "rspack",
-      "webpack",
-      "ReleaseNote",
-      "JavaScript",
-      "bundler"
-    ],
-    "example": {
-      "title": "Announcing Rspack v1.0 Alpha - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
-    },
-    "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
-  },
-  {
-    "count": 5,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "JavaScript",
-      "article",
-      "HTML",
-      "CSS",
-      "book",
-      "DOM",
-      "performance",
-      "React"
-    ],
-    "example": {
-      "title": "Introducing TanStack Start – Frontend Masters Boost",
-      "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
-    },
-    "rssUrl": "https://frontendmasters.com/blog/feed/"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -863,6 +828,22 @@
   },
   {
     "count": 4,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "ReleaseNote",
+      "webpack",
+      "rspack"
+    ],
+    "example": {
+      "title": "Announcing Rspack v1.0 Alpha - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
+    },
+    "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -891,6 +872,25 @@
       "url": "https://github.com/google/zx/releases/tag/8.5.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "book",
+      "DOM",
+      "performance",
+      "article",
+      "React"
+    ],
+    "example": {
+      "title": "Introducing TanStack Start – Frontend Masters Boost",
+      "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
+    },
+    "rssUrl": "https://frontendmasters.com/blog/feed/"
   },
   {
     "count": 4,
@@ -2210,21 +2210,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/parcel-bundler/watcher",
-    "tags": [
-      "nodejs",
-      "C++",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.3.0 · parcel-bundler/watcher",
-      "url": "https://github.com/parcel-bundler/watcher/releases/tag/v2.3.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/watcher/releases.atom"
   },
   {
     "count": 1,
@@ -8510,5 +8495,32 @@
       "title": "Firefox 142.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/142.0/releasenotes/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sidequestjs/sidequest",
+    "tags": [
+      "nodejs",
+      "library"
+    ],
+    "example": {
+      "title": "sidequestjs/sidequest: Sidequest is a modern, scalable background job processor for Node.js applications.",
+      "url": "https://github.com/sidequestjs/sidequest"
+    },
+    "rssUrl": "https://github.com/sidequestjs/sidequest/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://jross.me",
+    "tags": [
+      "nodejs",
+      "express",
+      "article"
+    ],
+    "example": {
+      "title": "Run Express.js on Cloudflare Workers",
+      "url": "https://jross.me/run-express-js-on-cloudflare-workers/"
+    },
+    "rssUrl": "https://jross.me/rss/"
   }
 ]

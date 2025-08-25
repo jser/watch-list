@@ -468,6 +468,12 @@
     ]
   },
   {
+    "url": "https://jross.me",
+    "feeds": [
+      "https://jross.me/rss/"
+    ]
+  },
+  {
     "url": "https://kaminashi-developer.hatenablog.jp",
     "feeds": [
       "https://kaminashi-developer.hatenablog.jp/feed",
