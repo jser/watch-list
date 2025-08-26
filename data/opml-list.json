@@ -195,6 +195,12 @@
     ]
   },
   {
+    "url": "https://bun.com",
+    "feeds": [
+      "https://bun.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
