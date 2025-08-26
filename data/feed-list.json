@@ -195,6 +195,12 @@
     ]
   },
   {
+    "url": "https://bun.com",
+    "feeds": [
+      "https://bun.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
@@ -560,6 +566,12 @@
     ]
   },
   {
+    "url": "https://github.com/apollographql/apollo-client",
+    "feeds": [
+      "https://github.com/apollographql/apollo-client/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/withastro/astro",
     "feeds": [
       "https://github.com/withastro/astro/releases.atom"
@@ -677,12 +689,6 @@
     "url": "https://github.com/chakra-ui/panda",
     "feeds": [
       "https://github.com/chakra-ui/panda/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/apollographql/apollo-client",
-    "feeds": [
-      "https://github.com/apollographql/apollo-client/releases.atom"
     ]
   },
   {

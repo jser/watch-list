@@ -65,7 +65,20 @@
     }
   },
   {
-    "count": 24,
+    "count": 23,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.15 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 23,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -78,19 +91,6 @@
       "title": "Announcing TypeScript 5.9 - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     }
-  },
-  {
-    "count": 23,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.15 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 22,
@@ -1280,6 +1280,21 @@
     }
   },
   {
+    "count": 3,
+    "url": "https://github.com/apollographql/apollo-client",
+    "tags": [
+      "GraphQL",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @apollo/client@4.0.0 · apollographql/apollo-client",
+      "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0"
+    },
+    "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
+  },
+  {
     "count": 2,
     "url": "https://docs.cypress.io",
     "tags": [
@@ -2063,21 +2078,6 @@
       "title": "Resilient Import Maps - Better Theme Development and Beyond (2025) - Shopify",
       "url": "https://shopify.engineering/resilient-import-maps"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/apollographql/apollo-client",
-    "tags": [
-      "GraphQL",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.0.0-alpha.0 · apollographql/apollo-client",
-      "url": "https://github.com/apollographql/apollo-client/releases/tag/v4.0.0-alpha.0"
-    },
-    "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
   },
   {
     "count": 2,
@@ -8288,6 +8288,18 @@
     "example": {
       "title": "Run Express.js on Cloudflare Workers",
       "url": "https://jross.me/run-express-js-on-cloudflare-workers/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bun v1.2.21 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.2.21"
     }
   }
 ]
