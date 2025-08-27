@@ -66,19 +66,6 @@
   },
   {
     "count": 23,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.15 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 23,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -111,6 +98,19 @@
       "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
     }
+  },
+  {
+    "count": 22,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.15 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 21,
@@ -259,23 +259,6 @@
   },
   {
     "count": 11,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt 3.18 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-18"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -303,6 +286,23 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt 3.18 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v3-18"
+    }
   },
   {
     "count": 9,
