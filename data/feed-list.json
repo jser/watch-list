@@ -566,6 +566,12 @@
     ]
   },
   {
+    "url": "https://github.com/nrwl/nx",
+    "feeds": [
+      "https://github.com/nrwl/nx/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
@@ -665,12 +671,6 @@
     "url": "https://github.com/facebook/relay",
     "feeds": [
       "https://github.com/facebook/relay/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nrwl/nx",
-    "feeds": [
-      "https://github.com/nrwl/nx/releases.atom"
     ]
   },
   {
