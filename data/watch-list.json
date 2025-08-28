@@ -1267,6 +1267,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/nrwl/nx",
+    "tags": [
+      "nodejs",
+      "Tools",
+      "ReleaseNote",
+      "JavaScript",
+      "security"
+    ],
+    "example": {
+      "title": "Malicious versions of Nx were published · Advisory · nrwl/nx",
+      "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
+    },
+    "rssUrl": "https://github.com/nrwl/nx/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://blog.vlt.sh",
     "tags": [
       "npm",
@@ -1919,21 +1935,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/nrwl/nx",
-    "tags": [
-      "nodejs",
-      "Tools",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release 21.0.0 · nrwl/nx",
-      "url": "https://github.com/nrwl/nx/releases/tag/21.0.0"
-    },
-    "rssUrl": "https://github.com/nrwl/nx/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://expressjs.com",
     "tags": [
       "express",
@@ -2119,6 +2120,18 @@
     "example": {
       "title": "最近のHTMLを改めてちゃんと学んでみた",
       "url": "https://zenn.dev/dinii/articles/16b3e71b580b6c"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.5 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-1-5"
     }
   },
   {
@@ -7837,18 +7850,6 @@
       "url": "https://github.com/svg/svgo/releases/tag/v4.0.0"
     },
     "rssUrl": "https://github.com/svg/svgo/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.4 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-1-4"
-    }
   },
   {
     "count": 1,
