@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -10,11 +10,12 @@
       "windows",
       "security",
       "TypeScript",
-      "news"
+      "news",
+      "rlee"
     ],
     "example": {
-      "title": "Node.js — Node.js v24.6.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.6.0"
+      "title": "Node.js v24.7.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v24.7.0"
     }
   },
   {
