@@ -909,24 +909,6 @@
   },
   {
     "count": 3,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "testing",
-      "article",
-      "Angular",
-      "document",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    },
-    "rssUrl": "https://blog.angular.io/feed"
-  },
-  {
-    "count": 3,
     "url": "https://learning.oreilly.com",
     "tags": [
       "nodejs",
@@ -1546,6 +1528,21 @@
       "url": "https://github.com/farm-fe/farm/releases/tag/v1.0"
     },
     "rssUrl": "https://github.com/farm-fe/farm/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://blog.angular.io",
+    "tags": [
+      "Angular",
+      "document",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
+    },
+    "rssUrl": "https://blog.angular.io/feed"
   },
   {
     "count": 2,
