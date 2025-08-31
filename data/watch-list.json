@@ -335,23 +335,6 @@
   },
   {
     "count": 8,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "news",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "biome"
-    ],
-    "example": {
-      "title": "Biome v2—codename: Biotype | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2/"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "nodejs",
@@ -439,6 +422,22 @@
   },
   {
     "count": 7,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Rust",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "biome"
+    ],
+    "example": {
+      "title": "Biome v2—codename: Biotype | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2/"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://tailwindcss.com",
     "tags": [
       "CSS",
@@ -469,23 +468,6 @@
     "example": {
       "title": "Incremental Adoption – React",
       "url": "https://react.dev/learn/react-compiler/incremental-adoption"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "book",
-      "ReleaseNote",
-      "npm",
-      "nodejs",
-      "article",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "JavaScript Primer v7.0.0リリース: ES2025対応とIterator Helpersの新章追加 | Web Scratch",
-      "url": "https://efcl.info/2025/08/18/jsprimer-v7/"
     }
   },
   {
@@ -585,6 +567,23 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "ReleaseNote",
+      "book",
+      "npm",
+      "nodejs",
+      "article",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "JavaScript Primer v7.0.0リリース: ES2025対応とIterator Helpersの新章追加 | Web Scratch",
+      "url": "https://efcl.info/2025/08/18/jsprimer-v7/"
+    }
   },
   {
     "count": 5,
@@ -718,23 +717,6 @@
       "title": "Rspack joins the Next.js ecosystem - Rspack",
       "url": "https://rspack.dev/blog/rspack-next-partner"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/nodejs/corepack",
-    "tags": [
-      "nodejs",
-      "Tools",
-      "ReleaseNote",
-      "tool",
-      "npm",
-      "pnpm"
-    ],
-    "example": {
-      "title": "Release v0.34.0 · nodejs/corepack",
-      "url": "https://github.com/nodejs/corepack/releases/tag/v0.34.0"
-    },
-    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
   },
   {
     "count": 4,
@@ -1079,6 +1061,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/nodejs/corepack",
+    "tags": [
+      "nodejs",
+      "tool",
+      "ReleaseNote",
+      "npm",
+      "pnpm"
+    ],
+    "example": {
+      "title": "Release v0.34.0 · nodejs/corepack",
+      "url": "https://github.com/nodejs/corepack/releases/tag/v0.34.0"
+    },
+    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
@@ -1293,38 +1291,6 @@
       "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0"
     },
     "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://docs.cypress.io",
-    "tags": [
-      "E2E",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "browser",
-      "test"
-    ],
-    "example": {
-      "title": "Changelog: Cypress App | Cypress Documentation",
-      "url": "https://docs.cypress.io/app/references/changelog#14-0-0"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/withastro/astro",
-    "tags": [
-      "astro",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release astro@5.9.0 · withastro/astro",
-      "url": "https://github.com/withastro/astro/releases/tag/astro%405.9.0"
-    },
-    "rssUrl": "https://github.com/withastro/astro/releases.atom"
   },
   {
     "count": 2,
@@ -1780,6 +1746,21 @@
     "example": {
       "title": "First Public Working Draft: Web Audio API 1.1 | 2024 | News | W3C",
       "url": "https://www.w3.org/news/2024/first-public-working-draft-web-audio-api-1-1/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://www.smashingmagazine.com",
+    "tags": [
+      "HTML",
+      "CSS",
+      "article",
+      "i18n",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/"
     }
   },
   {
@@ -4683,19 +4664,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.smashingmagazine.com",
-    "tags": [
-      "HTML",
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Combining CSS :has() And HTML <select> For Greater Conditional Styling — Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://zenn.dev/knowledgework/",
     "tags": [
       "TypeScript",
@@ -6828,6 +6796,20 @@
   },
   {
     "count": 1,
+    "url": "https://docs.cypress.io",
+    "tags": [
+      "JavaScript",
+      "browser",
+      "test",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Changelog: Cypress App | Cypress Documentation",
+      "url": "https://docs.cypress.io/app/references/changelog#14-0-0"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/desko27/react-call",
     "tags": [
       "React",
@@ -7752,6 +7734,19 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/withastro/astro",
+    "tags": [
+      "astro",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release astro@5.9.0 · withastro/astro",
+      "url": "https://github.com/withastro/astro/releases/tag/astro%405.9.0"
+    },
+    "rssUrl": "https://github.com/withastro/astro/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://evilmartians.com",
     "tags": [
       "css",
@@ -8300,5 +8295,19 @@
       "title": "Bun v1.2.21 | Bun Blog",
       "url": "https://bun.com/blog/bun-v1.2.21"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/adamhl8/filterql",
+    "tags": [
+      "JavaScript",
+      "library",
+      "search"
+    ],
+    "example": {
+      "title": "adamhl8/filterql: A tiny query language for filtering structured data",
+      "url": "https://github.com/adamhl8/filterql"
+    },
+    "rssUrl": "https://github.com/adamhl8/filterql/releases.atom"
   }
 ]
