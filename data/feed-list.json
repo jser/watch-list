@@ -482,12 +482,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/corepack",
-    "feeds": [
-      "https://github.com/nodejs/corepack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
@@ -536,6 +530,12 @@
     ]
   },
   {
+    "url": "https://github.com/nodejs/corepack",
+    "feeds": [
+      "https://github.com/nodejs/corepack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
@@ -575,12 +575,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/withastro/astro",
-    "feeds": [
-      "https://github.com/withastro/astro/releases.atom"
     ]
   },
   {
@@ -1634,6 +1628,12 @@
     ]
   },
   {
+    "url": "https://github.com/withastro/astro",
+    "feeds": [
+      "https://github.com/withastro/astro/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/web-infra-dev/rstest",
     "feeds": [
       "https://github.com/web-infra-dev/rstest/releases.atom"
@@ -1757,6 +1757,12 @@
     "url": "https://github.com/sidequestjs/sidequest",
     "feeds": [
       "https://github.com/sidequestjs/sidequest/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/adamhl8/filterql",
+    "feeds": [
+      "https://github.com/adamhl8/filterql/releases.atom"
     ]
   },
   {
