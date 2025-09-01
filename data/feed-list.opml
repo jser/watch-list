@@ -115,7 +115,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
-<outline text="github.com/aerotoad/neboa" title="github.com/aerotoad/neboa" type="rss" xmlUrl="https://github.com/aerotoad/neboa/releases.atom"/>
 <outline text="github.com/web-infra-dev/wg" title="github.com/web-infra-dev/wg" type="rss" xmlUrl="https://github.com/web-infra-dev/wg/releases.atom"/>
 <outline text="github.com/actions/checkout" title="github.com/actions/checkout" type="rss" xmlUrl="https://github.com/actions/checkout/releases.atom"/>
 <outline text="github.com/measuredco/puck" title="github.com/measuredco/puck" type="rss" xmlUrl="https://github.com/measuredco/puck/releases.atom"/>
@@ -295,6 +294,7 @@
 <outline text="github.com/redwoodjs/sdk" title="github.com/redwoodjs/sdk" type="rss" xmlUrl="https://github.com/redwoodjs/sdk/releases.atom"/>
 <outline text="github.com/sidequestjs/sidequest" title="github.com/sidequestjs/sidequest" type="rss" xmlUrl="https://github.com/sidequestjs/sidequest/releases.atom"/>
 <outline text="github.com/adamhl8/filterql" title="github.com/adamhl8/filterql" type="rss" xmlUrl="https://github.com/adamhl8/filterql/releases.atom"/>
+<outline text="github.com/image-js/image-js" title="github.com/image-js/image-js" type="rss" xmlUrl="https://github.com/image-js/image-js/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
@@ -318,7 +318,6 @@
 <outline text="mametter.hatenablog.com" title="mametter.hatenablog.com" type="rss" xmlUrl="https://mametter.hatenablog.com/feed"/>
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="martijnhols.nl" title="martijnhols.nl" type="rss" xmlUrl="https://martijnhols.nl/rss.xml"/>
-<outline text="maximorlov.com" title="maximorlov.com" type="rss" xmlUrl="https://maximorlov.com/feed.xml"/>
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="medium.com/miro-engineering/" title="medium.com/miro-engineering/" type="rss" xmlUrl="https://medium.com/feed/miro-engineering"/>
 <outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>

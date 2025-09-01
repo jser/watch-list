@@ -686,12 +686,6 @@
     ]
   },
   {
-    "url": "https://github.com/aerotoad/neboa",
-    "feeds": [
-      "https://github.com/aerotoad/neboa/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/wg",
     "feeds": [
       "https://github.com/web-infra-dev/wg/releases.atom"
@@ -1766,6 +1760,12 @@
     ]
   },
   {
+    "url": "https://github.com/image-js/image-js",
+    "feeds": [
+      "https://github.com/image-js/image-js/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1911,12 +1911,6 @@
     "url": "https://martijnhols.nl",
     "feeds": [
       "https://martijnhols.nl/rss.xml"
-    ]
-  },
-  {
-    "url": "https://maximorlov.com",
-    "feeds": [
-      "https://maximorlov.com/feed.xml"
     ]
   },
   {

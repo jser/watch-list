@@ -41,15 +41,14 @@
     }
   },
   {
-    "count": 30,
+    "count": 29,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "JavaScript",
-      "article",
       "ReleaseNote",
       "WebGL",
       "WebGPU",
+      "article",
       "CSS",
       "debug",
       "WebAssembly",
@@ -307,6 +306,20 @@
   },
   {
     "count": 9,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "August 25, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-08-25.html"
+    }
+  },
+  {
+    "count": 9,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "esbuild",
@@ -404,20 +417,6 @@
     "example": {
       "title": "Storybook 9",
       "url": "https://storybook.js.org/blog/storybook-9/"
-    }
-  },
-  {
-    "count": 8,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "May 19, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-05-19.html"
     }
   },
   {
@@ -2126,47 +2125,6 @@
     "example": {
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/aerotoad/neboa",
-    "tags": [
-      "nodejs",
-      "SQLite",
-      "library",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "aerotoad/neboa: Type-safe NoSQL with Node & SQLite. 🌫️💽",
-      "url": "https://github.com/aerotoad/neboa"
-    },
-    "rssUrl": "https://github.com/aerotoad/neboa/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.specfy.io",
-    "tags": [
-      "Docker",
-      "article",
-      "nodejs"
-    ],
-    "example": {
-      "title": "The complexity of writing an efficient NodeJS Docker image - Specfy",
-      "url": "https://www.specfy.io/blog/1-efficient-dockerfile-nodejs-in-7-steps"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://maximorlov.com",
-    "tags": [
-      "JavaScript",
-      "ESLint",
-      "article"
-    ],
-    "example": {
-      "title": "14 Linting Rules To Help You Write Asynchronous Code in JavaScript - Maxim Orlov",
-      "url": "https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/"
     }
   },
   {
@@ -8309,5 +8267,31 @@
       "url": "https://github.com/adamhl8/filterql"
     },
     "rssUrl": "https://github.com/adamhl8/filterql/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://dlhck.com",
+    "tags": [
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "The Complete Guide to Self-Hosting Next.js at Scale — @dlhck",
+      "url": "https://dlhck.com/thoughts/the-complete-guide-to-self-hosting-nextjs-at-scale"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/image-js/image-js",
+    "tags": [
+      "JavaScript",
+      "Image",
+      "library"
+    ],
+    "example": {
+      "title": "image-js/image-js: Image processing and manipulation in JavaScript",
+      "url": "https://github.com/image-js/image-js"
+    },
+    "rssUrl": "https://github.com/image-js/image-js/releases.atom"
   }
 ]
