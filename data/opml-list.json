@@ -576,12 +576,6 @@
     ]
   },
   {
-    "url": "https://maximorlov.com",
-    "feeds": [
-      "https://maximorlov.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://medium.com/airbnb-engineering/",
     "feeds": [
       "https://medium.com/feed/airbnb-engineering"
