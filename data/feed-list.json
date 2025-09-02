@@ -464,12 +464,6 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
@@ -503,6 +497,12 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
