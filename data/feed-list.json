@@ -686,12 +686,6 @@
     ]
   },
   {
-    "url": "https://github.com/web-infra-dev/wg",
-    "feeds": [
-      "https://github.com/web-infra-dev/wg/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/actions/checkout",
     "feeds": [
       "https://github.com/actions/checkout/releases.atom"

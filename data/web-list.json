@@ -2206,34 +2206,6 @@
   },
   {
     "count": 1,
-    "url": "https://modernjs.dev",
-    "tags": [
-      "JavaScript",
-      "library",
-      "MicroFrontend"
-    ],
-    "example": {
-      "title": "Modern.js",
-      "url": "https://modernjs.dev/en"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/web-infra-dev/wg",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "article",
-      "architecture"
-    ],
-    "example": {
-      "title": "Design Trade-offs in Bundler: The Rationale Behind Creating Rspack · web-infra-dev/wg · Discussion #1",
-      "url": "https://github.com/web-infra-dev/wg/discussions/1"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/wg/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://nitrogql.vercel.app",
     "tags": [
       "GraphQL",
