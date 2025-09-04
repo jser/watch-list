@@ -2206,22 +2206,6 @@
   },
   {
     "count": 1,
-    "url": "https://nitrogql.vercel.app",
-    "tags": [
-      "GraphQL",
-      "Tools",
-      "Rust",
-      "nodejs",
-      "TypeScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "nitrogql 1.0 release | nitrogql blog",
-      "url": "https://nitrogql.vercel.app/blog/release-1.0"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://mofi.loud.red",
     "tags": [
       "WebAssembly",
