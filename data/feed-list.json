@@ -1760,6 +1760,12 @@
     ]
   },
   {
+    "url": "https://github.com/colinhacks/zod",
+    "feeds": [
+      "https://github.com/colinhacks/zod/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2270,6 +2276,13 @@
     "feeds": [
       "https://supabase.com/feed.xml",
       "https://supabase.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://susisu.hatenablog.com",
+    "feeds": [
+      "https://susisu.hatenablog.com/feed",
+      "https://susisu.hatenablog.com/rss"
     ]
   },
   {

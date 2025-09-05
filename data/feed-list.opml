@@ -294,6 +294,7 @@
 <outline text="github.com/sidequestjs/sidequest" title="github.com/sidequestjs/sidequest" type="rss" xmlUrl="https://github.com/sidequestjs/sidequest/releases.atom"/>
 <outline text="github.com/adamhl8/filterql" title="github.com/adamhl8/filterql" type="rss" xmlUrl="https://github.com/adamhl8/filterql/releases.atom"/>
 <outline text="github.com/image-js/image-js" title="github.com/image-js/image-js" type="rss" xmlUrl="https://github.com/image-js/image-js/releases.atom"/>
+<outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
@@ -373,6 +374,7 @@
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stylexjs.com" title="stylexjs.com" type="rss" xmlUrl="https://stylexjs.com/blog/rss.xml"/>
 <outline text="supabase.com" title="supabase.com" type="rss" xmlUrl="https://supabase.com/feed.xml"/>
+<outline text="susisu.hatenablog.com" title="susisu.hatenablog.com" type="rss" xmlUrl="https://susisu.hatenablog.com/feed"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
