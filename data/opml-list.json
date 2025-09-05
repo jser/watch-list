@@ -935,6 +935,13 @@
     ]
   },
   {
+    "url": "https://susisu.hatenablog.com",
+    "feeds": [
+      "https://susisu.hatenablog.com/feed",
+      "https://susisu.hatenablog.com/rss"
+    ]
+  },
+  {
     "url": "https://svelte.dev",
     "feeds": [
       "https://svelte.dev/blog/rss.xml"

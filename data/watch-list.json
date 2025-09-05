@@ -2129,20 +2129,6 @@
   },
   {
     "count": 1,
-    "url": "https://mofi.loud.red",
-    "tags": [
-      "WebAssembly",
-      "webworker",
-      "article",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Mofi - Snappy UIs With WebAssembly and Web Workers",
-      "url": "https://mofi.loud.red/blog/wasm-and-workers"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://hacks.mozilla.org",
     "tags": [
       "Firefox",
@@ -8249,5 +8235,34 @@
       "url": "https://github.com/image-js/image-js"
     },
     "rssUrl": "https://github.com/image-js/image-js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/colinhacks/zod",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.1.0 · colinhacks/zod",
+      "url": "https://github.com/colinhacks/zod/releases/tag/v4.1.0"
+    },
+    "rssUrl": "https://github.com/colinhacks/zod/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://susisu.hatenablog.com",
+    "tags": [
+      "browser",
+      "Fetch",
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "fetch() では Host ヘッダーを設定できないし話はそこまで単純じゃない - Object.create(null)",
+      "url": "https://susisu.hatenablog.com/entry/2025/08/31/190757"
+    }
   }
 ]
