@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -1947,6 +1947,19 @@
   },
   {
     "count": 2,
+    "url": "https://www.mizdra.net",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "tsx と Node.js Type Stripping の違い - mizdra's blog",
+      "url": "https://www.mizdra.net/entry/2025/08/28/122040"
+    },
+    "rssUrl": "https://www.mizdra.net/feed"
+  },
+  {
+    "count": 2,
     "url": "https://vercel.com",
     "tags": [
       "google",
@@ -2203,36 +2216,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://hacks.mozilla.org",
-    "tags": [
-      "Firefox",
-      "JavaScript",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
-      "url": "https://hacks.mozilla.org/2023/09/faster-vue-js-execution-in-firefox/"
-    },
-    "rssUrl": "https://hacks.mozilla.org/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/actions/checkout",
-    "tags": [
-      "Github",
-      "Actions",
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · actions/checkout",
-      "url": "https://github.com/actions/checkout/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/actions/checkout/releases.atom"
   },
   {
     "count": 1,
@@ -5439,19 +5422,6 @@
       "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
     },
     "rssUrl": "https://gist.github.com/azu.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.mizdra.net",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "tsconfig.json の include オプションには何を指定すべきか - mizdra's blog",
-      "url": "https://www.mizdra.net/entry/2024/07/27/193815"
-    },
-    "rssUrl": "https://www.mizdra.net/feed"
   },
   {
     "count": 1,
