@@ -115,7 +115,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
-<outline text="github.com/actions/checkout" title="github.com/actions/checkout" type="rss" xmlUrl="https://github.com/actions/checkout/releases.atom"/>
 <outline text="github.com/measuredco/puck" title="github.com/measuredco/puck" type="rss" xmlUrl="https://github.com/measuredco/puck/releases.atom"/>
 <outline text="github.com/nebrelbug/npm-to-yarn" title="github.com/nebrelbug/npm-to-yarn" type="rss" xmlUrl="https://github.com/nebrelbug/npm-to-yarn/releases.atom"/>
 <outline text="github.com/nodejs/Release" title="github.com/nodejs/Release" type="rss" xmlUrl="https://github.com/nodejs/Release/releases.atom"/>
@@ -295,7 +294,6 @@
 <outline text="github.com/adamhl8/filterql" title="github.com/adamhl8/filterql" type="rss" xmlUrl="https://github.com/adamhl8/filterql/releases.atom"/>
 <outline text="github.com/image-js/image-js" title="github.com/image-js/image-js" type="rss" xmlUrl="https://github.com/image-js/image-js/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

@@ -428,13 +428,6 @@
     ]
   },
   {
-    "url": "https://hacks.mozilla.org",
-    "feeds": [
-      "https://hacks.mozilla.org/feed/",
-      "https://hacks.mozilla.org/comments/feed/"
-    ]
-  },
-  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",

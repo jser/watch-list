@@ -686,12 +686,6 @@
     ]
   },
   {
-    "url": "https://github.com/actions/checkout",
-    "feeds": [
-      "https://github.com/actions/checkout/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/measuredco/puck",
     "feeds": [
       "https://github.com/measuredco/puck/releases.atom"
@@ -1763,13 +1757,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://hacks.mozilla.org",
-    "feeds": [
-      "https://hacks.mozilla.org/feed/",
-      "https://hacks.mozilla.org/comments/feed/"
     ]
   },
   {
