@@ -115,7 +115,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
-<outline text="github.com/measuredco/puck" title="github.com/measuredco/puck" type="rss" xmlUrl="https://github.com/measuredco/puck/releases.atom"/>
 <outline text="github.com/nebrelbug/npm-to-yarn" title="github.com/nebrelbug/npm-to-yarn" type="rss" xmlUrl="https://github.com/nebrelbug/npm-to-yarn/releases.atom"/>
 <outline text="github.com/nodejs/Release" title="github.com/nodejs/Release" type="rss" xmlUrl="https://github.com/nodejs/Release/releases.atom"/>
 <outline text="github.com/isaacs/tshy" title="github.com/isaacs/tshy" type="rss" xmlUrl="https://github.com/isaacs/tshy/releases.atom"/>
@@ -409,6 +408,7 @@
 <outline text="www.developerway.com" title="www.developerway.com" type="rss" xmlUrl="https://www.developerway.com/rss.xml"/>
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.epicreact.dev" title="www.epicreact.dev" type="rss" xmlUrl="https://www.epicreact.dev/rss.xml"/>
+<outline text="www.epicweb.dev" title="www.epicweb.dev" type="rss" xmlUrl="https://www.epicweb.dev/rss.xml"/>
 <outline text="www.htmhell.dev" title="www.htmhell.dev" type="rss" xmlUrl="https://www.htmhell.dev/feed.xml"/>
 <outline text="www.joshuakgoldberg.com" title="www.joshuakgoldberg.com" type="rss" xmlUrl="https://www.joshuakgoldberg.com/rss.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>

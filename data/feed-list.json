@@ -686,12 +686,6 @@
     ]
   },
   {
-    "url": "https://github.com/measuredco/puck",
-    "feeds": [
-      "https://github.com/measuredco/puck/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nebrelbug/npm-to-yarn",
     "feeds": [
       "https://github.com/nebrelbug/npm-to-yarn/releases.atom"
@@ -2512,6 +2506,12 @@
     "url": "https://www.epicreact.dev",
     "feeds": [
       "https://www.epicreact.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.epicweb.dev",
+    "feeds": [
+      "https://www.epicweb.dev/rss.xml"
     ]
   },
   {

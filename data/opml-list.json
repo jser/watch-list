@@ -1177,6 +1177,12 @@
     ]
   },
   {
+    "url": "https://www.epicweb.dev",
+    "feeds": [
+      "https://www.epicweb.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.htmhell.dev",
     "feeds": [
       "https://www.htmhell.dev/feed.xml",
