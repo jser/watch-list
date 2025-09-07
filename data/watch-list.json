@@ -101,19 +101,6 @@
   },
   {
     "count": 22,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.15 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 21,
     "url": "https://deno.com",
     "tags": [
       "denoe",
@@ -125,12 +112,26 @@
       "JavaScript",
       "npm",
       "browser",
-      "history"
+      "history",
+      "vite"
     ],
     "example": {
-      "title": "Deno 2.4: deno bundle is back | Deno",
-      "url": "https://deno.com/blog/v2.4"
+      "title": "Fresh 2.0 Graduates to Beta, Adds Vite Support | Deno",
+      "url": "https://deno.com/blog/fresh-and-vite"
     }
+  },
+  {
+    "count": 22,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.15 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 20,
@@ -2138,20 +2139,6 @@
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/measuredco/puck",
-    "tags": [
-      "React",
-      "editor ",
-      "library"
-    ],
-    "example": {
-      "title": "measuredco/puck: The self-hosted drag and drop editor for React.",
-      "url": "https://github.com/measuredco/puck"
-    },
-    "rssUrl": "https://github.com/measuredco/puck/releases.atom"
   },
   {
     "count": 1,
@@ -8234,6 +8221,20 @@
     "example": {
       "title": "fetch() では Host ヘッダーを設定できないし話はそこまで単純じゃない - Object.create(null)",
       "url": "https://susisu.hatenablog.com/entry/2025/08/31/190757"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.epicweb.dev",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Why I Won’t Use JSDOM | Epic Web Dev",
+      "url": "https://www.epicweb.dev/why-i-won-t-use-jsdom"
     }
   }
 ]
