@@ -285,6 +285,24 @@
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
+    "count": 11,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt 4.1 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-1"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
     "count": 10,
     "url": "https://github.com/honojs/hono",
     "tags": [
@@ -299,24 +317,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt 3.18 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v3-18"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 9,
@@ -669,6 +669,25 @@
   },
   {
     "count": 5,
+    "url": "https://efcl.info",
+    "tags": [
+      "npm",
+      "nodejs",
+      "article",
+      "TypeScript",
+      "JavaScript",
+      "ReleaseNote",
+      "book",
+      "security"
+    ],
+    "example": {
+      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
+      "url": "https://efcl.info/2025/09/07/npm-oidc/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
+  },
+  {
+    "count": 5,
     "url": "https://v8.dev",
     "tags": [
       "ECMAScript",
@@ -715,23 +734,6 @@
       "url": "https://rspack.dev/blog/rspack-next-partner"
     },
     "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "React",
-      "article",
-      "Next.js",
-      "CSS",
-      "css ",
-      "SVG"
-    ],
-    "example": {
-      "title": "A Friendly Introduction to SVG • Josh W. Comeau",
-      "url": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
-    },
-    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
   },
   {
     "count": 4,
@@ -807,24 +809,6 @@
       "url": "https://github.com/webpack/webpack/releases/tag/v5.100.0"
     },
     "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://efcl.info",
-    "tags": [
-      "npm",
-      "nodejs",
-      "article",
-      "TypeScript",
-      "JavaScript",
-      "ReleaseNote",
-      "book"
-    ],
-    "example": {
-      "title": "JavaScript Primer v7.0.0リリース: ES2025対応とIterator Helpersの新章追加 | Web Scratch",
-      "url": "https://efcl.info/2025/08/18/jsprimer-v7/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 4,
@@ -1132,6 +1116,23 @@
       "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
     },
     "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "Next.js",
+      "CSS",
+      "React",
+      "article",
+      "css ",
+      "SVG"
+    ],
+    "example": {
+      "title": "A Friendly Introduction to SVG • Josh W. Comeau",
+      "url": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
+    },
+    "rssUrl": "https://www.joshwcomeau.com/rss.xml"
   },
   {
     "count": 3,
@@ -2216,47 +2217,6 @@
     "example": {
       "title": "How Parcel bundles React Server Components",
       "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://dropbox.tech",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "article"
-    ],
-    "example": {
-      "title": "How we reduced the size of our JavaScript bundles by 33% - Dropbox",
-      "url": "https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nebrelbug/npm-to-yarn",
-    "tags": [
-      "npm",
-      "yarn",
-      "pnpm",
-      "Bun",
-      "library"
-    ],
-    "example": {
-      "title": "nebrelbug/npm-to-yarn: Convert npm CLI commands to yarn, and vice versa",
-      "url": "https://github.com/nebrelbug/npm-to-yarn"
-    },
-    "rssUrl": "https://github.com/nebrelbug/npm-to-yarn/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://2023.stateofcss.com",
-    "tags": [
-      "CSS",
-      "Survey"
-    ],
-    "example": {
-      "title": "State of CSS 2023",
-      "url": "https://2023.stateofcss.com/"
     }
   },
   {
@@ -8470,5 +8430,18 @@
       "url": "https://www.epicweb.dev/why-i-won-t-use-jsdom"
     },
     "rssUrl": "https://www.epicweb.dev/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/dora1998/",
+    "tags": [
+      "browser",
+      "WebPlatformAPI",
+      "slide"
+    ],
+    "example": {
+      "title": "1から理解するWeb Push - Speaker Deck",
+      "url": "https://speakerdeck.com/dora1998/1karali-jie-suruweb-push"
+    }
   }
 ]
