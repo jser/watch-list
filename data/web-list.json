@@ -20,7 +20,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 45,
+    "count": 44,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -8442,6 +8442,7 @@
     "example": {
       "title": "1から理解するWeb Push - Speaker Deck",
       "url": "https://speakerdeck.com/dora1998/1karali-jie-suruweb-push"
-    }
+    },
+    "rssUrl": "https://speakerdeck.com/dora1998.atom"
   }
 ]

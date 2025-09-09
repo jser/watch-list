@@ -902,6 +902,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/dora1998/",
+    "feeds": [
+      "https://speakerdeck.com/dora1998.atom",
+      "https://speakerdeck.com/dora1998.rss"
+    ]
+  },
+  {
     "url": "https://spidermonkey.dev",
     "feeds": [
       "https://spidermonkey.dev/feed.xml"
