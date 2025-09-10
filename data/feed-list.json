@@ -91,6 +91,12 @@
     ]
   },
   {
+    "url": "https://blog.calm.com",
+    "feeds": [
+      "https://blog.calm.com/engineering?format=rss"
+    ]
+  },
+  {
     "url": "https://blog.cloudflare.com",
     "feeds": [
       "https://blog.cloudflare.com/rss"
