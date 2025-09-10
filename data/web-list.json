@@ -320,6 +320,28 @@
   },
   {
     "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "nodejs",
+      "cloudflare",
+      "API",
+      "article",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "Hono",
+      "JavaScript",
+      "Next.js"
+    ],
+    "example": {
+      "title": "Bringing Node.js HTTP servers to Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/bringing-node-js-http-servers-to-cloudflare-workers/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 9,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -359,28 +381,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "nodejs",
-      "cloudflare",
-      "API",
-      "article",
-      "cdn",
-      "news",
-      "vite",
-      "test",
-      "Hono",
-      "JavaScript",
-      "Next.js"
-    ],
-    "example": {
-      "title": "We shipped FinalizationRegistry in Workers: why you should never use it",
-      "url": "https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 8,
@@ -8444,5 +8444,32 @@
       "url": "https://speakerdeck.com/dora1998/1karali-jie-suruweb-push"
     },
     "rssUrl": "https://speakerdeck.com/dora1998.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.aikido.dev",
+    "tags": [
+      "npm",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "npm debug and chalk packages compromised",
+      "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.calm.com",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "How we migrated our Rush.js monorepo to Node type stripping — Calm Blog",
+      "url": "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping"
+    },
+    "rssUrl": "https://blog.calm.com/engineering?format=rss"
   }
 ]
