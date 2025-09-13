@@ -584,12 +584,6 @@
     ]
   },
   {
-    "url": "https://github.com/jestjs/jest",
-    "feeds": [
-      "https://github.com/jestjs/jest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/rollup/rollup",
     "feeds": [
       "https://github.com/rollup/rollup/releases.atom"
@@ -692,12 +686,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/Release",
-    "feeds": [
-      "https://github.com/nodejs/Release/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/isaacs/tshy",
     "feeds": [
       "https://github.com/isaacs/tshy/releases.atom"
@@ -785,6 +773,12 @@
     "url": "https://github.com/joshmarinacci/node-pureimage",
     "feeds": [
       "https://github.com/joshmarinacci/node-pureimage/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jestjs/jest",
+    "feeds": [
+      "https://github.com/jestjs/jest/releases.atom"
     ]
   },
   {

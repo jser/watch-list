@@ -1295,21 +1295,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/jestjs/jest",
-    "tags": [
-      "jest",
-      "JavaScript",
-      "testing",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
-      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
-    },
-    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://babeljs.io",
     "tags": [
       "babel",
@@ -2143,19 +2128,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/nodejs/Release",
-    "tags": [
-      "nodejs",
-      "news"
-    ],
-    "example": {
-      "title": "doc: mark v16.x as End-of-Life by targos · Pull Request #908 · nodejs/Release",
-      "url": "https://github.com/nodejs/Release/pull/908"
-    },
-    "rssUrl": "https://github.com/nodejs/Release/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/isaacs/tshy",
     "tags": [
       "TypeScript",
@@ -2646,6 +2618,19 @@
       "url": "https://github.com/joshmarinacci/node-pureimage"
     },
     "rssUrl": "https://github.com/joshmarinacci/node-pureimage/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jestjs/jest",
+    "tags": [
+      "jest",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
+      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
+    },
+    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   },
   {
     "count": 1,
