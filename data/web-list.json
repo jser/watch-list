@@ -43,7 +43,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -229,6 +229,20 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
+    "count": 13,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 38.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-38-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
     "count": 12,
     "url": "https://www.youtube.com",
     "tags": [
@@ -254,20 +268,6 @@
       "url": "https://www.youtube.com/watch?v=l2dByiwiQcM"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 37.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-37-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
@@ -303,12 +303,12 @@
     "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
-    "count": 10,
+    "count": 9,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
-      "library",
       "server",
+      "library",
       "ReleaseNote",
       "Hono"
     ],
@@ -1171,6 +1171,26 @@
   },
   {
     "count": 3,
+    "url": "https://www.w3.org",
+    "tags": [
+      "WAI-ARIA",
+      "accessibility",
+      "document",
+      "web ",
+      "audio",
+      "spec",
+      "news",
+      "css",
+      "rlee"
+    ],
+    "example": {
+      "title": "Group Note: CSS Snapshot 2025 | 2025 | News | W3C",
+      "url": "https://www.w3.org/news/2025/group-note-css-snapshot-2025/"
+    },
+    "rssUrl": "https://www.w3.org/WAI/feed.xml"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/facebook/react",
     "tags": [
       "React",
@@ -1778,24 +1798,6 @@
       "title": "Announcing Rsdoctor 1.0 - Rsdoctor",
       "url": "https://rsdoctor.dev/blog/release/release-note-1_0"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://www.w3.org",
-    "tags": [
-      "WAI-ARIA",
-      "accessibility",
-      "document",
-      "web ",
-      "audio",
-      "spec",
-      "news"
-    ],
-    "example": {
-      "title": "First Public Working Draft: Web Audio API 1.1 | 2024 | News | W3C",
-      "url": "https://www.w3.org/news/2024/first-public-working-draft-web-audio-api-1-1/"
-    },
-    "rssUrl": "https://www.w3.org/WAI/feed.xml"
   },
   {
     "count": 2,
