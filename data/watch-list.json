@@ -41,14 +41,14 @@
     }
   },
   {
-    "count": 28,
+    "count": 27,
     "url": "https://developer.chrome.com",
     "tags": [
-      "Chrome",
-      "ReleaseNote",
       "WebGL",
       "WebGPU",
       "article",
+      "Chrome",
+      "ReleaseNote",
       "CSS",
       "debug",
       "WebAssembly",
@@ -66,6 +66,27 @@
   },
   {
     "count": 23,
+    "url": "https://deno.com",
+    "tags": [
+      "denoe",
+      "ReleaseNote",
+      "deno",
+      "article",
+      "library",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.5: Permissions in the config file | Deno",
+      "url": "https://deno.com/blog/v2.5"
+    }
+  },
+  {
+    "count": 23,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -78,6 +99,19 @@
       "title": "Announcing TypeScript 5.9 - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     }
+  },
+  {
+    "count": 23,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.16 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.16.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 22,
@@ -98,40 +132,6 @@
       "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
       "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
     }
-  },
-  {
-    "count": 22,
-    "url": "https://deno.com",
-    "tags": [
-      "denoe",
-      "ReleaseNote",
-      "deno",
-      "article",
-      "library",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Fresh 2.0 Graduates to Beta, Adds Vite Support | Deno",
-      "url": "https://deno.com/blog/fresh-and-vite"
-    }
-  },
-  {
-    "count": 22,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.15 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.15.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 20,
@@ -752,6 +752,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release Version 27.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://www.rspack.dev",
     "tags": [
       "JavaScript",
@@ -839,21 +854,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://learning.oreilly.com",
-    "tags": [
-      "nodejs",
-      "book",
-      "Vue",
-      "JavaScript",
-      "React"
-    ],
-    "example": {
-      "title": "Fluent React",
-      "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
-    }
   },
   {
     "count": 3,
@@ -987,20 +987,6 @@
       "title": "Denoのフロントエンド開発の動向【2025年夏】",
       "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 26.0.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/26.0.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 3,
@@ -1336,6 +1322,20 @@
     "example": {
       "title": "Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more! – Lit",
       "url": "https://lit.dev/blog/2023-10-10-lit-3.0/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://learning.oreilly.com",
+    "tags": [
+      "Vue",
+      "JavaScript",
+      "book",
+      "React"
+    ],
+    "example": {
+      "title": "Fluent React",
+      "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
     }
   },
   {
@@ -2129,54 +2129,17 @@
     }
   },
   {
-    "count": 1,
-    "url": "https://github.com/isaacs/tshy",
+    "count": 2,
+    "url": "https://bun.com",
     "tags": [
-      "TypeScript",
-      "Tools"
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance"
     ],
     "example": {
-      "title": "isaacs/tshy",
-      "url": "https://github.com/isaacs/tshy"
-    },
-    "rssUrl": "https://github.com/isaacs/tshy/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.totaltypescript.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "How to Pass a Component as a Prop in React | Total TypeScript",
-      "url": "https://www.totaltypescript.com/pass-component-as-prop-react"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.next-nav.com",
-    "tags": [
-      "Next.js",
-      "VSCode",
-      "Extension"
-    ],
-    "example": {
-      "title": "Next.Nav",
-      "url": "https://www.next-nav.com/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.getbootstrap.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bootstrap 5.3.2 | Bootstrap Blog",
-      "url": "https://blog.getbootstrap.com/2023/09/14/bootstrap-5-3-2/"
+      "title": "Behind The Scenes of Bun Install | Bun Blog",
+      "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
     }
   },
   {
@@ -8091,18 +8054,6 @@
   },
   {
     "count": 1,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bun v1.2.21 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.2.21"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/adamhl8/filterql",
     "tags": [
       "JavaScript",
@@ -8221,6 +8172,18 @@
     "example": {
       "title": "How we migrated our Rush.js monorepo to Node type stripping — Calm Blog",
       "url": "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://addyo.substack.com",
+    "tags": [
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "How modern browsers work - by Addy Osmani - Elevate",
+      "url": "https://addyo.substack.com/p/how-modern-browsers-work"
     }
   }
 ]
