@@ -110,12 +110,6 @@
     ]
   },
   {
-    "url": "https://blog.getbootstrap.com",
-    "feeds": [
-      "https://blog.getbootstrap.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.google",
     "feeds": [
       "https://blog.google/rss/"
@@ -1285,12 +1279,6 @@
     "url": "https://www.speedcurve.com",
     "feeds": [
       "https://www.speedcurve.com/blog/rss/"
-    ]
-  },
-  {
-    "url": "https://www.totaltypescript.com",
-    "feeds": [
-      "https://www.totaltypescript.com/rss.xml"
     ]
   },
   {

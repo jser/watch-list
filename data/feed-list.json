@@ -110,12 +110,6 @@
     ]
   },
   {
-    "url": "https://blog.getbootstrap.com",
-    "feeds": [
-      "https://blog.getbootstrap.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.google",
     "feeds": [
       "https://blog.google/rss/"
@@ -494,6 +488,12 @@
     ]
   },
   {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -521,12 +521,6 @@
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -683,12 +677,6 @@
     "url": "https://github.com/chakra-ui/panda",
     "feeds": [
       "https://github.com/chakra-ui/panda/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/isaacs/tshy",
-    "feeds": [
-      "https://github.com/isaacs/tshy/releases.atom"
     ]
   },
   {
@@ -2605,12 +2593,6 @@
     "url": "https://www.speedcurve.com",
     "feeds": [
       "https://www.speedcurve.com/blog/rss/"
-    ]
-  },
-  {
-    "url": "https://www.totaltypescript.com",
-    "feeds": [
-      "https://www.totaltypescript.com/rss.xml"
     ]
   },
   {
