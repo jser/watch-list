@@ -6,12 +6,6 @@
     ]
   },
   {
-    "url": "https://abduvik.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@abduvik"
-    ]
-  },
-  {
     "url": "https://adonisjs.com",
     "feeds": [
       "https://adonisjs.com/feeds/blog.xml"
@@ -677,12 +671,6 @@
     "url": "https://github.com/chakra-ui/panda",
     "feeds": [
       "https://github.com/chakra-ui/panda/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nuejs/nuejs",
-    "feeds": [
-      "https://github.com/nuejs/nuejs/releases.atom"
     ]
   },
   {
@@ -1736,6 +1724,24 @@
     ]
   },
   {
+    "url": "https://github.com/krasimir/forket",
+    "feeds": [
+      "https://github.com/krasimir/forket/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/panphora/overtype",
+    "feeds": [
+      "https://github.com/panphora/overtype/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/embedpdf/embed-pdf-viewer",
+    "feeds": [
+      "https://github.com/embedpdf/embed-pdf-viewer/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2568,6 +2574,13 @@
     "url": "https://www.rspack.dev",
     "feeds": [
       "https://www.rspack.dev/rss/blog-en.rss"
+    ]
+  },
+  {
+    "url": "https://www.sanity.io",
+    "feeds": [
+      "https://www.sanity.io/feed/rss",
+      "https://www.sanity.io/feed/rss?fullText"
     ]
   },
   {

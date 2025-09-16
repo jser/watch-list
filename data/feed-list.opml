@@ -5,7 +5,6 @@
 </head>
 <body>
 <outline text="2ality.com" title="2ality.com" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom"/>
-<outline text="abduvik.medium.com" title="abduvik.medium.com" type="rss" xmlUrl="https://medium.com/feed/@abduvik"/>
 <outline text="adonisjs.com" title="adonisjs.com" type="rss" xmlUrl="https://adonisjs.com/feeds/blog.xml"/>
 <outline text="adventar.org" title="adventar.org" type="rss" xmlUrl="https://adventar.org/calendars/10555.rss"/>
 <outline text="ahastack.dev" title="ahastack.dev" type="rss" xmlUrl="https://ahastack.dev/rss.xml"/>
@@ -114,7 +113,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
-<outline text="github.com/nuejs/nuejs" title="github.com/nuejs/nuejs" type="rss" xmlUrl="https://github.com/nuejs/nuejs/releases.atom"/>
 <outline text="github.com/eslint-stylistic/eslint-stylistic" title="github.com/eslint-stylistic/eslint-stylistic" type="rss" xmlUrl="https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"/>
 <outline text="github.com/kurtextrem/awesome-performance-patches" title="github.com/kurtextrem/awesome-performance-patches" type="rss" xmlUrl="https://github.com/kurtextrem/awesome-performance-patches/releases.atom"/>
 <outline text="github.com/runk/node-chardet" title="github.com/runk/node-chardet" type="rss" xmlUrl="https://github.com/runk/node-chardet/releases.atom"/>
@@ -290,6 +288,9 @@
 <outline text="github.com/adamhl8/filterql" title="github.com/adamhl8/filterql" type="rss" xmlUrl="https://github.com/adamhl8/filterql/releases.atom"/>
 <outline text="github.com/image-js/image-js" title="github.com/image-js/image-js" type="rss" xmlUrl="https://github.com/image-js/image-js/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
+<outline text="github.com/krasimir/forket" title="github.com/krasimir/forket" type="rss" xmlUrl="https://github.com/krasimir/forket/releases.atom"/>
+<outline text="github.com/panphora/overtype" title="github.com/panphora/overtype" type="rss" xmlUrl="https://github.com/panphora/overtype/releases.atom"/>
+<outline text="github.com/embedpdf/embed-pdf-viewer" title="github.com/embedpdf/embed-pdf-viewer" type="rss" xmlUrl="https://github.com/embedpdf/embed-pdf-viewer/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -417,6 +418,7 @@
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
 <outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
+<outline text="www.sanity.io" title="www.sanity.io" type="rss" xmlUrl="https://www.sanity.io/feed/rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
 <outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
 <outline text="www.sonarsource.com" title="www.sonarsource.com" type="rss" xmlUrl="https://www.sonarsource.com/rss.xml"/>

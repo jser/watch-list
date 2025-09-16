@@ -6,12 +6,6 @@
     ]
   },
   {
-    "url": "https://abduvik.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@abduvik"
-    ]
-  },
-  {
     "url": "https://adonisjs.com",
     "feeds": [
       "https://adonisjs.com/feeds/blog.xml"
@@ -1254,6 +1248,13 @@
     "url": "https://www.rspack.dev",
     "feeds": [
       "https://www.rspack.dev/rss/blog-en.rss"
+    ]
+  },
+  {
+    "url": "https://www.sanity.io",
+    "feeds": [
+      "https://www.sanity.io/feed/rss",
+      "https://www.sanity.io/feed/rss?fullText"
     ]
   },
   {
