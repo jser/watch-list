@@ -146,7 +146,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -160,8 +160,8 @@
       "HTML"
     ],
     "example": {
-      "title": "ESLint v9.34.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/08/eslint-v9.34.0-released/"
+      "title": "ESLint v9.35.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/09/eslint-v9.35.0-released/"
     }
   },
   {
@@ -782,6 +782,21 @@
   },
   {
     "count": 4,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "CSS",
+      "Design",
+      "mobile",
+      "article",
+      "css"
+    ],
+    "example": {
+      "title": "The Basics of Anchor Positioning",
+      "url": "https://ishadeed.com/article/anchor-positioning/"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -986,21 +1001,6 @@
     "example": {
       "title": "Denoのフロントエンド開発の動向【2025年夏】",
       "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "Design",
-      "mobile",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "CSS Relative Colors",
-      "url": "https://ishadeed.com/article/css-relative-colors/"
     }
   },
   {
@@ -1281,6 +1281,22 @@
     "example": {
       "title": "Centralized Dependency Management Made Simple",
       "url": "https://blog.vlt.sh/blog/catalogs"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://shopify.engineering",
+    "tags": [
+      "React",
+      "Native",
+      "article",
+      "HTML",
+      "JavaScript",
+      "module"
+    ],
+    "example": {
+      "title": "React Nativeの新アーキテクチャへの移行（2025年） - Shopify",
+      "url": "https://shopify.engineering/react-native-new-architecture"
     }
   },
   {
@@ -2045,22 +2061,6 @@
   },
   {
     "count": 2,
-    "url": "https://shopify.engineering",
-    "tags": [
-      "React",
-      "Native",
-      "article",
-      "HTML",
-      "JavaScript",
-      "module"
-    ],
-    "example": {
-      "title": "Resilient Import Maps - Better Theme Development and Beyond (2025) - Shopify",
-      "url": "https://shopify.engineering/resilient-import-maps"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://valibot.dev",
     "tags": [
       "JavaScript",
@@ -2140,34 +2140,6 @@
     "example": {
       "title": "Behind The Scenes of Bun Install | Bun Blog",
       "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nuejs/nuejs",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "Tools",
-      "library"
-    ],
-    "example": {
-      "title": "nuejs/nuejs: Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte",
-      "url": "https://github.com/nuejs/nuejs/tree/master"
-    },
-    "rssUrl": "https://github.com/nuejs/nuejs/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://abduvik.medium.com",
-    "tags": [
-      "Chrome",
-      "debug",
-      "article"
-    ],
-    "example": {
-      "title": "How to Find the Exact Line of an Infinite Loop Bug in the code | by Abdu Tawfik | Medium",
-      "url": "https://abduvik.medium.com/how-to-find-infinite-loops-in-javascript-using-devtools-ea5fc84aec73"
     }
   },
   {
@@ -8184,6 +8156,60 @@
     "example": {
       "title": "How modern browsers work - by Addy Osmani - Elevate",
       "url": "https://addyo.substack.com/p/how-modern-browsers-work"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/krasimir/forket",
+    "tags": [
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "krasimir/forket: Forket is a tool that splits your code to client and server so you have RSC (React Server Components) working without a framework.",
+      "url": "https://github.com/krasimir/forket"
+    },
+    "rssUrl": "https://github.com/krasimir/forket/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/panphora/overtype",
+    "tags": [
+      "Markdown",
+      "library",
+      "editor"
+    ],
+    "example": {
+      "title": "panphora/overtype: The markdown editor that's just a textarea https://overtype.dev",
+      "url": "https://github.com/panphora/overtype"
+    },
+    "rssUrl": "https://github.com/panphora/overtype/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/embedpdf/embed-pdf-viewer",
+    "tags": [
+      "JavaScript",
+      "PDF",
+      "library"
+    ],
+    "example": {
+      "title": "embedpdf/embed-pdf-viewer: A PDF viewer that seamlessly integrates with any JavaScript project",
+      "url": "https://github.com/embedpdf/embed-pdf-viewer"
+    },
+    "rssUrl": "https://github.com/embedpdf/embed-pdf-viewer/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.sanity.io",
+    "tags": [
+      "React",
+      "css",
+      "article"
+    ],
+    "example": {
+      "title": "styled-components maintenance mode: A 40% faster fork | Sanity",
+      "url": "https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort"
     }
   }
 ]
