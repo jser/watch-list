@@ -506,12 +506,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
@@ -587,6 +581,12 @@
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
