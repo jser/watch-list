@@ -2406,6 +2406,12 @@
     ]
   },
   {
+    "url": "https://webassembly.org",
+    "feeds": [
+      "https://webassembly.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://webdriver.io",
     "feeds": [
       "https://webdriver.io/blog/rss.xml",
