@@ -65,6 +65,19 @@
     }
   },
   {
+    "count": 24,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.17 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.17.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
     "count": 23,
     "url": "https://deno.com",
     "tags": [
@@ -99,19 +112,6 @@
       "title": "Announcing TypeScript 5.9 - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     }
-  },
-  {
-    "count": 23,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.16 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.16.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 22,
@@ -8210,6 +8210,19 @@
     "example": {
       "title": "styled-components maintenance mode: A 40% faster fork | Sanity",
       "url": "https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://webassembly.org",
+    "tags": [
+      "WebAssembly",
+      "spec",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Wasm 3.0 Completed - WebAssembly",
+      "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/"
     }
   }
 ]
