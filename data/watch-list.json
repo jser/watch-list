@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -166,21 +166,6 @@
   },
   {
     "count": 14,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article",
-      "security",
-      "document"
-    ],
-    "example": {
-      "title": "Next.js 15.5 | Next.js",
-      "url": "https://nextjs.org/blog/next-15-5"
-    }
-  },
-  {
-    "count": 14,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -230,6 +215,21 @@
     "example": {
       "title": "Electron 38.0.0 | Electron",
       "url": "https://www.electronjs.org/blog/electron-38-0"
+    }
+  },
+  {
+    "count": 13,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 15.5 | Next.js",
+      "url": "https://nextjs.org/blog/next-15-5"
     }
   },
   {
