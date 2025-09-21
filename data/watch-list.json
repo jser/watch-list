@@ -8224,5 +8224,18 @@
       "title": "Wasm 3.0 Completed - WebAssembly",
       "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/yarnpkg/berry",
+    "tags": [
+      "yarn",
+      "plugin"
+    ],
+    "example": {
+      "title": "berry/packages/plugin-catalog at master · yarnpkg/berry",
+      "url": "https://github.com/yarnpkg/berry/tree/master/packages/plugin-catalog"
+    },
+    "rssUrl": "https://github.com/yarnpkg/berry/releases.atom"
   }
 ]

@@ -291,6 +291,7 @@
 <outline text="github.com/krasimir/forket" title="github.com/krasimir/forket" type="rss" xmlUrl="https://github.com/krasimir/forket/releases.atom"/>
 <outline text="github.com/panphora/overtype" title="github.com/panphora/overtype" type="rss" xmlUrl="https://github.com/panphora/overtype/releases.atom"/>
 <outline text="github.com/embedpdf/embed-pdf-viewer" title="github.com/embedpdf/embed-pdf-viewer" type="rss" xmlUrl="https://github.com/embedpdf/embed-pdf-viewer/releases.atom"/>
+<outline text="github.com/yarnpkg/berry" title="github.com/yarnpkg/berry" type="rss" xmlUrl="https://github.com/yarnpkg/berry/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

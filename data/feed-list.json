@@ -1742,6 +1742,12 @@
     ]
   },
   {
+    "url": "https://github.com/yarnpkg/berry",
+    "feeds": [
+      "https://github.com/yarnpkg/berry/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
