@@ -2208,6 +2208,18 @@
   },
   {
     "count": 2,
+    "url": "https://www.firefox.com",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 143.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/143.0/releasenotes/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -2220,34 +2232,6 @@
       "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/eslint-stylistic/eslint-stylistic",
-    "tags": [
-      "ESLint",
-      "plugin"
-    ],
-    "example": {
-      "title": "eslint-stylistic/eslint-stylistic: Monorepo for ESLint Stylistic plugins and configs",
-      "url": "https://github.com/eslint-stylistic/eslint-stylistic"
-    },
-    "rssUrl": "https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://ladle.dev",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ladle v3 | Ladle",
-      "url": "https://ladle.dev/blog/ladle-v3"
-    },
-    "rssUrl": "https://ladle.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -8216,18 +8200,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.firefox.com",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 142.0, See All New Features, Updates and Fixes",
-      "url": "https://www.firefox.com/en-US/firefox/142.0/releasenotes/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/sidequestjs/sidequest",
     "tags": [
       "nodejs",
@@ -8472,5 +8444,18 @@
       "url": "https://github.com/yarnpkg/berry/tree/master/packages/plugin-catalog"
     },
     "rssUrl": "https://github.com/yarnpkg/berry/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/antfu-collective/taze",
+    "tags": [
+      "npm",
+      "Tools"
+    ],
+    "example": {
+      "title": "antfu-collective/taze: 🥦 A modern cli tool that keeps your deps fresh",
+      "url": "https://github.com/antfu-collective/taze"
+    },
+    "rssUrl": "https://github.com/antfu-collective/taze/releases.atom"
   }
 ]

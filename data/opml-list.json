@@ -486,13 +486,6 @@
     ]
   },
   {
-    "url": "https://ladle.dev",
-    "feeds": [
-      "https://ladle.dev/blog/rss.xml",
-      "https://ladle.dev/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://ladybird.org",
     "feeds": [
       "https://ladybird.org/posts.xml"

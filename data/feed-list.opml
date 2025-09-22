@@ -113,7 +113,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
-<outline text="github.com/eslint-stylistic/eslint-stylistic" title="github.com/eslint-stylistic/eslint-stylistic" type="rss" xmlUrl="https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"/>
 <outline text="github.com/kurtextrem/awesome-performance-patches" title="github.com/kurtextrem/awesome-performance-patches" type="rss" xmlUrl="https://github.com/kurtextrem/awesome-performance-patches/releases.atom"/>
 <outline text="github.com/runk/node-chardet" title="github.com/runk/node-chardet" type="rss" xmlUrl="https://github.com/runk/node-chardet/releases.atom"/>
 <outline text="github.com/instant-dev/instant" title="github.com/instant-dev/instant" type="rss" xmlUrl="https://github.com/instant-dev/instant/releases.atom"/>
@@ -292,6 +291,7 @@
 <outline text="github.com/panphora/overtype" title="github.com/panphora/overtype" type="rss" xmlUrl="https://github.com/panphora/overtype/releases.atom"/>
 <outline text="github.com/embedpdf/embed-pdf-viewer" title="github.com/embedpdf/embed-pdf-viewer" type="rss" xmlUrl="https://github.com/embedpdf/embed-pdf-viewer/releases.atom"/>
 <outline text="github.com/yarnpkg/berry" title="github.com/yarnpkg/berry" type="rss" xmlUrl="https://github.com/yarnpkg/berry/releases.atom"/>
+<outline text="github.com/antfu-collective/taze" title="github.com/antfu-collective/taze" type="rss" xmlUrl="https://github.com/antfu-collective/taze/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -302,7 +302,6 @@
 <outline text="kaminashi-developer.hatenablog.jp" title="kaminashi-developer.hatenablog.jp" type="rss" xmlUrl="https://kaminashi-developer.hatenablog.jp/feed"/>
 <outline text="kettanaito.com" title="kettanaito.com" type="rss" xmlUrl="https://kettanaito.com/blog/rss.xml"/>
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
-<outline text="ladle.dev" title="ladle.dev" type="rss" xmlUrl="https://ladle.dev/blog/rss.xml"/>
 <outline text="ladybird.org" title="ladybird.org" type="rss" xmlUrl="https://ladybird.org/posts.xml"/>
 <outline text="lazamar.github.io" title="lazamar.github.io" type="rss" xmlUrl="https://lazamar.github.io/feed.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>

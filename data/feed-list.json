@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/eslint-stylistic/eslint-stylistic",
-    "feeds": [
-      "https://github.com/eslint-stylistic/eslint-stylistic/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/kurtextrem/awesome-performance-patches",
     "feeds": [
       "https://github.com/kurtextrem/awesome-performance-patches/releases.atom"
@@ -1748,6 +1742,12 @@
     ]
   },
   {
+    "url": "https://github.com/antfu-collective/taze",
+    "feeds": [
+      "https://github.com/antfu-collective/taze/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -1809,13 +1809,6 @@
     "url": "https://kurtextrem.de",
     "feeds": [
       "https://kurtextrem.de/rss.xml"
-    ]
-  },
-  {
-    "url": "https://ladle.dev",
-    "feeds": [
-      "https://ladle.dev/blog/rss.xml",
-      "https://ladle.dev/blog/atom.xml"
     ]
   },
   {
