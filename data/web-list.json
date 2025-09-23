@@ -20,7 +20,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 43,
+    "count": 42,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -43,15 +43,13 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://developer.chrome.com",
     "tags": [
-      "WebGL",
-      "WebGPU",
-      "article",
       "Chrome",
       "ReleaseNote",
       "CSS",
+      "article",
       "debug",
       "WebAssembly",
       "performance",
@@ -82,28 +80,6 @@
   },
   {
     "count": 23,
-    "url": "https://deno.com",
-    "tags": [
-      "denoe",
-      "ReleaseNote",
-      "deno",
-      "article",
-      "library",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.5: Permissions in the config file | Deno",
-      "url": "https://deno.com/blog/v2.5"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 23,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -120,12 +96,33 @@
   },
   {
     "count": 22,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "article",
+      "ReleaseNote",
+      "library",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "browser",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.5: Permissions in the config file | Deno",
+      "url": "https://deno.com/blog/v2.5"
+    },
+    "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 21,
     "url": "https://webkit.org",
     "tags": [
-      "safari",
-      "ReleaseNote",
       "CSS",
       "article",
+      "safari",
+      "ReleaseNote",
       "browser",
       "benchmark",
       "performance",
@@ -172,7 +169,7 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -191,8 +188,8 @@
       "JSON"
     ],
     "example": {
-      "title": "JSON module scripts are now Baseline Newly available  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/json-imports-baseline-newly-available?hl=en"
+      "title": "Browserslist now supports Baseline  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/browserslist-supports-baseline?hl=en"
     },
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
@@ -243,13 +240,27 @@
     }
   },
   {
-    "count": 12,
+    "count": 11,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
+  },
+  {
+    "count": 11,
     "url": "https://www.youtube.com",
     "tags": [
-      "TypeScript",
-      "video",
       "blink",
       "Chrome",
+      "video",
       "Conference",
       "JavaScript",
       "C++",
@@ -268,21 +279,6 @@
       "url": "https://www.youtube.com/watch?v=l2dByiwiQcM"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 11,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 11,
@@ -737,20 +733,6 @@
   },
   {
     "count": 4,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Svelte 5 is alive",
-      "url": "https://svelte.dev/blog/svelte-5-is-alive"
-    },
-    "rssUrl": "https://svelte.dev/blog/rss.xml"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/nuxt/nuxt",
     "tags": [
       "Vue",
@@ -984,6 +966,19 @@
       "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
+  },
+  {
+    "count": 3,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Svelte 5 is alive",
+      "url": "https://svelte.dev/blog/svelte-5-is-alive"
+    },
+    "rssUrl": "https://svelte.dev/blog/rss.xml"
   },
   {
     "count": 3,
