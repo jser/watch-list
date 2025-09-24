@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -14,8 +14,8 @@
       "rlee"
     ],
     "example": {
-      "title": "Node.js v24.7.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v24.7.0"
+      "title": "Node.js v24.8.0",
+      "url": "https://nodejs.org/en/blog/release/v24.8.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -116,7 +116,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://webkit.org",
     "tags": [
       "CSS",
@@ -131,8 +131,8 @@
       "css"
     ],
     "example": {
-      "title": "News from WWDC25: WebKit in Safari 26 beta | WebKit",
-      "url": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/"
+      "title": "WebKit Features in Safari 26.0 | WebKit",
+      "url": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -300,22 +300,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.7.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "nodejs",
@@ -433,6 +417,22 @@
     "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
+    "count": 8,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.7.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
     "count": 7,
     "url": "https://biomejs.dev",
     "tags": [
@@ -484,6 +484,27 @@
       "url": "https://react.dev/learn/react-compiler/incremental-adoption"
     },
     "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 6,
+    "url": "https://github.blog",
+    "tags": [
+      "npm",
+      "news",
+      "nodejs",
+      "github",
+      "Actions",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Our plan for a more secure npm supply chain - The GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/"
+    },
+    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 6,
@@ -573,27 +594,6 @@
       "url": "https://stylexjs.com/blog/v0.15.0"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "news",
-      "nodejs",
-      "github",
-      "Actions",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "npm trusted publishing with OIDC is generally available - GitHub Changelog",
-      "url": "https://github.blog/changelog/2025-07-31-npm-trusted-publishing-with-oidc-is-generally-available/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 5,
@@ -885,23 +885,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://lea.verou.me",
-    "tags": [
-      "HTML",
-      "Survey",
-      "article",
-      "CSS",
-      "WebComponents",
-      "opinion"
-    ],
-    "example": {
-      "title": "Web Components are not Framework Components — and That’s Okay • Lea Verou",
-      "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
-    },
-    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
   },
   {
     "count": 3,
@@ -1235,6 +1218,24 @@
       "url": "https://blog.platformatic.dev/seamlessly-blend-php-with-nodejs"
     },
     "rssUrl": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://vercel.com",
+    "tags": [
+      "google",
+      "SEO",
+      "JavaScript",
+      "article",
+      "React",
+      "vercel",
+      "document"
+    ],
+    "example": {
+      "title": "Web Interface Guidelines",
+      "url": "https://vercel.com/design/guidelines"
+    },
+    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 3,
@@ -1935,6 +1936,21 @@
   },
   {
     "count": 2,
+    "url": "https://lea.verou.me",
+    "tags": [
+      "CSS",
+      "article",
+      "WebComponents",
+      "opinion"
+    ],
+    "example": {
+      "title": "Web Components are not Framework Components — and That’s Okay • Lea Verou",
+      "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
+    },
+    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
+  },
+  {
+    "count": 2,
     "url": "https://exploringjs.com",
     "tags": [
       "JavaScript",
@@ -1958,22 +1974,6 @@
       "url": "https://www.mizdra.net/entry/2025/08/28/122040"
     },
     "rssUrl": "https://www.mizdra.net/feed"
-  },
-  {
-    "count": 2,
-    "url": "https://vercel.com",
-    "tags": [
-      "google",
-      "SEO",
-      "JavaScript",
-      "article",
-      "React"
-    ],
-    "example": {
-      "title": "What’s new in React 19 – Vercel",
-      "url": "https://vercel.com/blog/whats-new-in-react-19"
-    },
-    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 2,
@@ -8452,5 +8452,46 @@
       "url": "https://github.com/antfu-collective/taze"
     },
     "rssUrl": "https://github.com/antfu-collective/taze/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lerna/lerna",
+    "tags": [
+      "npm",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v9.0.0 · lerna/lerna",
+      "url": "https://github.com/lerna/lerna/releases/tag/v9.0.0"
+    },
+    "rssUrl": "https://github.com/lerna/lerna/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/topi_log/",
+    "tags": [
+      "Conference",
+      "slide"
+    ],
+    "example": {
+      "title": "フロントエンドカンファレンス東京2025登壇資料集",
+      "url": "https://zenn.dev/topi_log/articles/ac476d3fb6eff1"
+    },
+    "rssUrl": "https://zenn.dev/topi_log/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/qnighy/",
+    "tags": [
+      "css",
+      "article",
+      "spec"
+    ],
+    "example": {
+      "title": "CSS大解剖 1日目: 「仕様書」",
+      "url": "https://zenn.dev/qnighy/articles/8091294fda603d"
+    },
+    "rssUrl": "https://zenn.dev/qnighy/feed"
   }
 ]
