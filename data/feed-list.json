@@ -428,12 +428,6 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
@@ -449,6 +443,12 @@
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -1748,6 +1748,12 @@
     ]
   },
   {
+    "url": "https://github.com/lerna/lerna",
+    "feeds": [
+      "https://github.com/lerna/lerna/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2833,6 +2839,18 @@
     "url": "https://zenn.dev/mehm8128/",
     "feeds": [
       "https://zenn.dev/mehm8128/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/topi_log/",
+    "feeds": [
+      "https://zenn.dev/topi_log/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/qnighy/",
+    "feeds": [
+      "https://zenn.dev/qnighy/feed"
     ]
   }
 ]

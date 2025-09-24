@@ -72,10 +72,10 @@
 <outline text="gist.github.com/azu" title="gist.github.com/azu" type="rss" xmlUrl="https://gist.github.com/azu.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
-<outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
+<outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
@@ -292,6 +292,7 @@
 <outline text="github.com/embedpdf/embed-pdf-viewer" title="github.com/embedpdf/embed-pdf-viewer" type="rss" xmlUrl="https://github.com/embedpdf/embed-pdf-viewer/releases.atom"/>
 <outline text="github.com/yarnpkg/berry" title="github.com/yarnpkg/berry" type="rss" xmlUrl="https://github.com/yarnpkg/berry/releases.atom"/>
 <outline text="github.com/antfu-collective/taze" title="github.com/antfu-collective/taze" type="rss" xmlUrl="https://github.com/antfu-collective/taze/releases.atom"/>
+<outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -460,5 +461,7 @@
 <outline text="zenn.dev/m_n/" title="zenn.dev/m_n/" type="rss" xmlUrl="https://zenn.dev/m_n/feed"/>
 <outline text="zenn.dev/j_sakamoto/" title="zenn.dev/j_sakamoto/" type="rss" xmlUrl="https://zenn.dev/j_sakamoto/feed"/>
 <outline text="zenn.dev/mehm8128/" title="zenn.dev/mehm8128/" type="rss" xmlUrl="https://zenn.dev/mehm8128/feed"/>
+<outline text="zenn.dev/topi_log/" title="zenn.dev/topi_log/" type="rss" xmlUrl="https://zenn.dev/topi_log/feed"/>
+<outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 </body>
 </opml>

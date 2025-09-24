@@ -1492,5 +1492,17 @@
     "feeds": [
       "https://zenn.dev/mehm8128/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/topi_log/",
+    "feeds": [
+      "https://zenn.dev/topi_log/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/qnighy/",
+    "feeds": [
+      "https://zenn.dev/qnighy/feed"
+    ]
   }
 ]
