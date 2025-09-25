@@ -43,7 +43,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 26,
+    "count": 27,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -57,11 +57,12 @@
       "Firefox",
       "puppeteer",
       "HTML",
-      "css"
+      "css",
+      "MCP"
     ],
     "example": {
-      "title": "CSS conditionals with the new if() function  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/if-article?hl=en"
+      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
