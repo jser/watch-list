@@ -113,7 +113,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
-<outline text="github.com/kurtextrem/awesome-performance-patches" title="github.com/kurtextrem/awesome-performance-patches" type="rss" xmlUrl="https://github.com/kurtextrem/awesome-performance-patches/releases.atom"/>
 <outline text="github.com/runk/node-chardet" title="github.com/runk/node-chardet" type="rss" xmlUrl="https://github.com/runk/node-chardet/releases.atom"/>
 <outline text="github.com/instant-dev/instant" title="github.com/instant-dev/instant" type="rss" xmlUrl="https://github.com/instant-dev/instant/releases.atom"/>
 <outline text="github.com/aidenybai/pattycake" title="github.com/aidenybai/pattycake" type="rss" xmlUrl="https://github.com/aidenybai/pattycake/releases.atom"/>
