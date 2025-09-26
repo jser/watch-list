@@ -1297,18 +1297,6 @@
   },
   {
     "count": 2,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
-      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://lit.dev",
     "tags": [
       "JavaScript",
@@ -2149,22 +2137,6 @@
       "title": "Behind The Scenes of Bun Install | Bun Blog",
       "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/kurtextrem/awesome-performance-patches",
-    "tags": [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "performance",
-      "links"
-    ],
-    "example": {
-      "title": "kurtextrem/awesome-performance-patches: 🚀⚡ Awesome lists about performance related patches/PRs.",
-      "url": "https://github.com/kurtextrem/awesome-performance-patches"
-    },
-    "rssUrl": "https://github.com/kurtextrem/awesome-performance-patches/releases.atom"
   },
   {
     "count": 1,
@@ -3709,6 +3681,18 @@
     "example": {
       "title": "方能CDN - 合作伙伴",
       "url": "https://funnull.com/Partner/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
+      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
     }
   },
   {

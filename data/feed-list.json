@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/kurtextrem/awesome-performance-patches",
-    "feeds": [
-      "https://github.com/kurtextrem/awesome-performance-patches/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/runk/node-chardet",
     "feeds": [
       "https://github.com/runk/node-chardet/releases.atom"
