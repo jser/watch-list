@@ -133,18 +133,6 @@
   },
   {
     "count": 20,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 20,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -160,6 +148,18 @@
     "example": {
       "title": "ESLint v9.35.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2025/09/eslint-v9.35.0-released/"
+    }
+  },
+  {
+    "count": 19,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
