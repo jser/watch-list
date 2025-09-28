@@ -97,27 +97,6 @@
   },
   {
     "count": 22,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "article",
-      "ReleaseNote",
-      "library",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "browser",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.5: Permissions in the config file | Deno",
-      "url": "https://deno.com/blog/v2.5"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 22,
     "url": "https://webkit.org",
     "tags": [
       "CSS",
@@ -136,6 +115,27 @@
       "url": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 21,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "library",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "article",
+      "browser",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.5: Permissions in the config file | Deno",
+      "url": "https://deno.com/blog/v2.5"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 20,
@@ -2215,19 +2215,6 @@
       "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://vike.dev",
-    "tags": [
-      "vite",
-      "plugin",
-      "library"
-    ],
-    "example": {
-      "title": "Vike",
-      "url": "https://vike.dev/"
-    }
   },
   {
     "count": 1,
