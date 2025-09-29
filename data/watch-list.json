@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -14,8 +14,8 @@
       "rlee"
     ],
     "example": {
-      "title": "Node.js v24.8.0",
-      "url": "https://nodejs.org/en/blog/release/v24.8.0"
+      "title": "Node.js",
+      "url": "https://nodejs.org/en/blog/release/v24.9.0"
     }
   },
   {
@@ -92,26 +92,6 @@
     }
   },
   {
-    "count": 22,
-    "url": "https://webkit.org",
-    "tags": [
-      "CSS",
-      "article",
-      "safari",
-      "ReleaseNote",
-      "browser",
-      "benchmark",
-      "performance",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "WebKit Features in Safari 26.0 | WebKit",
-      "url": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/"
-    }
-  },
-  {
     "count": 21,
     "url": "https://deno.com",
     "tags": [
@@ -129,6 +109,25 @@
     "example": {
       "title": "Deno 2.5: Permissions in the config file | Deno",
       "url": "https://deno.com/blog/v2.5"
+    }
+  },
+  {
+    "count": 21,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "browser",
+      "benchmark",
+      "performance",
+      "article",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "WebKit Features in Safari 26.0 | WebKit",
+      "url": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/"
     }
   },
   {
@@ -163,30 +162,6 @@
     }
   },
   {
-    "count": 15,
-    "url": "https://web.dev",
-    "tags": [
-      "CSS",
-      "article",
-      "performance",
-      "tutorial",
-      "browser",
-      "testing",
-      "nodejs",
-      "JavaScript",
-      "WebPlatformAPI",
-      "HTML",
-      "css ",
-      "Unicode",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Browserslist now supports Baseline  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/browserslist-supports-baseline?hl=en"
-    }
-  },
-  {
     "count": 14,
     "url": "https://astro.build",
     "tags": [
@@ -200,6 +175,30 @@
     "example": {
       "title": "Astro 5.7 | Astro",
       "url": "https://astro.build/blog/astro-570/"
+    }
+  },
+  {
+    "count": 14,
+    "url": "https://web.dev",
+    "tags": [
+      "performance",
+      "tutorial",
+      "browser",
+      "testing",
+      "nodejs",
+      "JavaScript",
+      "WebPlatformAPI",
+      "article",
+      "CSS",
+      "HTML",
+      "css ",
+      "Unicode",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Browserslist now supports Baseline  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/browserslist-supports-baseline?hl=en"
     }
   },
   {
@@ -287,7 +286,7 @@
     }
   },
   {
-    "count": 9,
+    "count": 10,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "nodejs",
@@ -303,8 +302,8 @@
       "Next.js"
     ],
     "example": {
-      "title": "Bringing Node.js HTTP servers to Cloudflare Workers",
-      "url": "https://blog.cloudflare.com/bringing-node-js-http-servers-to-cloudflare-workers/"
+      "title": "A year of improving Node.js compatibility in Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/nodejs-workers-2025/"
     }
   },
   {
@@ -2136,19 +2135,6 @@
     "example": {
       "title": "Behind The Scenes of Bun Install | Bun Blog",
       "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/taisei_13046/",
-    "tags": [
-      "React",
-      "article",
-      "library"
-    ],
-    "example": {
-      "title": "【2023年】SWR & TanStack Query比較",
-      "url": "https://zenn.dev/taisei_13046/articles/288e4470cfc45e"
     }
   },
   {
@@ -8228,6 +8214,19 @@
     "example": {
       "title": "CSS大解剖 1日目: 「仕様書」",
       "url": "https://zenn.dev/qnighy/articles/8091294fda603d"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.better-auth.com",
+    "tags": [
+      "JavaScript",
+      "library",
+      "news"
+    ],
+    "example": {
+      "title": "Auth.js is now part of Better Auth",
+      "url": "https://www.better-auth.com/blog/authjs-joins-better-auth"
     }
   }
 ]
