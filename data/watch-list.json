@@ -273,27 +273,6 @@
   },
   {
     "count": 10,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "nodejs",
-      "cloudflare",
-      "API",
-      "article",
-      "cdn",
-      "news",
-      "vite",
-      "test",
-      "Hono",
-      "JavaScript",
-      "Next.js"
-    ],
-    "example": {
-      "title": "A year of improving Node.js compatibility in Cloudflare Workers",
-      "url": "https://blog.cloudflare.com/nodejs-workers-2025/"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -304,6 +283,22 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 9,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "document",
+      "React",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Middleware in React Router | Remix",
+      "url": "https://remix.run/blog/middleware"
     }
   },
   {
@@ -337,6 +332,26 @@
   },
   {
     "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "article",
+      "nodejs",
+      "Hono",
+      "JavaScript",
+      "Next.js"
+    ],
+    "example": {
+      "title": "A year of improving Node.js compatibility in Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/nodejs-workers-2025/"
+    }
+  },
+  {
+    "count": 9,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -362,22 +377,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.43.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "vite",
-      "document",
-      "React",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "React Router Open Governance | Remix",
-      "url": "https://remix.run/blog/rr-governance"
-    }
   },
   {
     "count": 8,
@@ -468,26 +467,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.blog",
-    "tags": [
-      "npm",
-      "news",
-      "nodejs",
-      "github",
-      "Actions",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Our plan for a more secure npm supply chain - The GitHub Blog",
-      "url": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "JavaScript",
@@ -522,6 +501,21 @@
   },
   {
     "count": 6,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "css ",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "State of JavaScript 2025",
+      "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -535,6 +529,26 @@
     "example": {
       "title": "Active Supply Chain Attack: npm Phishing Campaign Leads to P...",
       "url": "https://socket.dev/blog/npm-phishing-campaign-leads-to-prettier-tooling-packages-compromise"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security"
+    ],
+    "example": {
+      "title": "Strengthening npm security: Important changes to authentication and token management - GitHub Changelog",
+      "url": "https://github.blog/changelog/2025-09-29-strengthening-npm-security-important-changes-to-authentication-and-token-management/"
     }
   },
   {
@@ -625,18 +639,17 @@
   },
   {
     "count": 5,
-    "url": "https://survey.devographics.com",
+    "url": "https://github.com/webpack/webpack",
     "tags": [
-      "JavaScript",
-      "Survey",
-      "css ",
-      "css",
-      "HTML"
+      "webpack",
+      "ReleaseNote",
+      "security"
     ],
     "example": {
-      "title": "State of HTML 2025",
-      "url": "https://survey.devographics.com/en-US/survey/state-of-html/2025"
-    }
+      "title": "Release v5.102.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.102.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 5,
@@ -671,6 +684,25 @@
     "example": {
       "title": "How we made JSON.stringify more than twice as fast · V8",
       "url": "https://v8.dev/blog/json-stringify"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "book",
+      "DOM",
+      "performance",
+      "article",
+      "React",
+      "css"
+    ],
+    "example": {
+      "title": "What You Need to Know about Modern CSS (2025 Edition) – Frontend Masters Blog",
+      "url": "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-2025-edition/"
     }
   },
   {
@@ -780,20 +812,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v5.100.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.100.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/google/zx",
     "tags": [
       "JavaScript",
@@ -808,24 +826,6 @@
       "url": "https://github.com/google/zx/releases/tag/8.5.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "book",
-      "DOM",
-      "performance",
-      "article",
-      "React"
-    ],
-    "example": {
-      "title": "Introducing TanStack Start – Frontend Masters Boost",
-      "url": "https://frontendmasters.com/blog/introducing-tanstack-start/"
-    }
   },
   {
     "count": 4,
@@ -852,6 +852,26 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://tanstack.com",
+    "tags": [
+      "React",
+      "Vue",
+      "Solid",
+      "Svelte",
+      "HTTP",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "database",
+      "article"
+    ],
+    "example": {
+      "title": "TanStack Start v1 Release Candidate | TanStack Blog",
+      "url": "https://tanstack.com/blog/announcing-tanstack-start-v1"
+    }
   },
   {
     "count": 3,
@@ -1295,17 +1315,17 @@
     "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
   },
   {
-    "count": 2,
-    "url": "https://lit.dev",
+    "count": 3,
+    "url": "https://bun.com",
     "tags": [
-      "JavaScript",
-      "UI",
-      "library",
-      "ReleaseNote"
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance"
     ],
     "example": {
-      "title": "Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more! – Lit",
-      "url": "https://lit.dev/blog/2023-10-10-lit-3.0/"
+      "title": "Bun v1.2.23 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.2.23"
     }
   },
   {
@@ -1378,26 +1398,6 @@
       "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.13.0"
     },
     "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://tanstack.com",
-    "tags": [
-      "React",
-      "Vue",
-      "Solid",
-      "Svelte",
-      "HTTP",
-      "library",
-      "ReleaseNote",
-      "JavaScript",
-      "database",
-      "article"
-    ],
-    "example": {
-      "title": "Stop Re-Rendering — TanStack DB, the Embedded Client Database for TanStack Query | TanStack Blog",
-      "url": "https://tanstack.com/blog/tanstack-db-0.1-the-embedded-client-database-for-tanstack-query"
-    }
   },
   {
     "count": 2,
@@ -2113,6 +2113,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/oxc-project/oxc",
+    "tags": [
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "Rust"
+    ],
+    "example": {
+      "title": "Release oxlint v1.19.0 · oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
+    },
+    "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://www.firefox.com",
     "tags": [
       "Firefox",
@@ -2122,33 +2137,6 @@
       "title": "Firefox 143.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/143.0/releasenotes/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Behind The Scenes of Bun Install | Bun Blog",
-      "url": "https://bun.com/blog/behind-the-scenes-of-bun-install"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/runk/node-chardet",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "runk/node-chardet: Character encoding detection tool for NodeJS",
-      "url": "https://github.com/runk/node-chardet"
-    },
-    "rssUrl": "https://github.com/runk/node-chardet/releases.atom"
   },
   {
     "count": 1,
@@ -2288,6 +2276,20 @@
     "example": {
       "title": "Japa",
       "url": "https://japa.dev/docs/introduction"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://lit.dev",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more! – Lit",
+      "url": "https://lit.dev/blog/2023-10-10-lit-3.0/"
     }
   },
   {
@@ -7807,19 +7809,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/oxc-project/oxc",
-    "tags": [
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Release oxlint v1.10.0 · oxc-project/oxc",
-      "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.10.0"
-    },
-    "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/sveltejs/kit",
     "tags": [
       "Svelte",
@@ -8214,6 +8203,31 @@
     "example": {
       "title": "Auth.js is now part of Better Auth",
       "url": "https://www.better-auth.com/blog/authjs-joins-better-auth"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
+    "tags": [
+      "React",
+      "ESLint"
+    ],
+    "example": {
+      "title": "NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect: Catch unnecessary React useEffect hooks to make your code simpler, faster, and safer.",
+      "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect"
+    },
+    "rssUrl": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://intlin.site",
+    "tags": [
+      "JavaScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "Intl Playground",
+      "url": "https://intlin.site/"
     }
   }
 ]
