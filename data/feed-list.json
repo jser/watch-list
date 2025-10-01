@@ -470,6 +470,12 @@
     ]
   },
   {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
@@ -485,12 +491,6 @@
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {
@@ -674,9 +674,9 @@
     ]
   },
   {
-    "url": "https://github.com/runk/node-chardet",
+    "url": "https://github.com/oxc-project/oxc",
     "feeds": [
-      "https://github.com/runk/node-chardet/releases.atom"
+      "https://github.com/oxc-project/oxc/releases.atom"
     ]
   },
   {
@@ -1658,12 +1658,6 @@
     ]
   },
   {
-    "url": "https://github.com/oxc-project/oxc",
-    "feeds": [
-      "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/sveltejs/kit",
     "feeds": [
       "https://github.com/sveltejs/kit/releases.atom"
@@ -1745,6 +1739,12 @@
     "url": "https://github.com/lerna/lerna",
     "feeds": [
       "https://github.com/lerna/lerna/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
+    "feeds": [
+      "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/releases.atom"
     ]
   },
   {
