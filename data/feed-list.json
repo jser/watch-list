@@ -440,15 +440,15 @@
     ]
   },
   {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/honojs/hono",
     "feeds": [
       "https://github.com/honojs/hono/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -677,18 +677,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/instant-dev/instant",
-    "feeds": [
-      "https://github.com/instant-dev/instant/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/aidenybai/pattycake",
-    "feeds": [
-      "https://github.com/aidenybai/pattycake/releases.atom"
     ]
   },
   {
