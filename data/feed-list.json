@@ -680,12 +680,6 @@
     ]
   },
   {
-    "url": "https://github.com/tldraw/tldraw",
-    "feeds": [
-      "https://github.com/tldraw/tldraw/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nksaraf/vinxi",
     "feeds": [
       "https://github.com/nksaraf/vinxi/releases.atom"
