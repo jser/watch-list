@@ -417,6 +417,23 @@
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
+    "count": 8,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "article",
+      "ReleaseNote",
+      "babel",
+      "document",
+      "news"
+    ],
+    "example": {
+      "title": "React 19.2 – React",
+      "url": "https://react.dev/blog/2025/10/01/react-19-2"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
     "count": 7,
     "url": "https://biomejs.dev",
     "tags": [
@@ -486,23 +503,6 @@
       "url": "https://socket.dev/blog/introducing-socket-firewall"
     },
     "rssUrl": "https://socket.dev/api/feed.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "article",
-      "ReleaseNote",
-      "babel",
-      "document",
-      "news"
-    ],
-    "example": {
-      "title": "Incremental Adoption – React",
-      "url": "https://react.dev/learn/react-compiler/incremental-adoption"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 6,
@@ -2202,22 +2202,6 @@
       "title": "Firefox 143.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/143.0/releasenotes/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tldraw/tldraw",
-    "tags": [
-      "JavaScript",
-      "library",
-      "illust",
-      "diagram",
-      "communication"
-    ],
-    "example": {
-      "title": "tldraw/tldraw: a very good whiteboard",
-      "url": "https://github.com/tldraw/tldraw"
-    },
-    "rssUrl": "https://github.com/tldraw/tldraw/releases.atom"
   },
   {
     "count": 1,
