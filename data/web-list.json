@@ -20,7 +20,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 42,
+    "count": 41,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -80,7 +80,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 23,
+    "count": 22,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -506,24 +506,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "library",
-      "ReleaseNote",
-      "vite",
-      "test",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -663,6 +645,23 @@
       "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
     },
     "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "testing",
+      "ReleaseNote",
+      "test",
+      "library",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 5,
