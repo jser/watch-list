@@ -32,6 +32,7 @@
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
 <outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
 <outline text="blog.val.town" title="blog.val.town" type="rss" xmlUrl="https://blog.val.town/rss.xml"/>
+<outline text="blog.vjeux.com" title="blog.vjeux.com" type="rss" xmlUrl="https://blog.vjeux.com/feed"/>
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="bun.com" title="bun.com" type="rss" xmlUrl="https://bun.com/rss.xml"/>
@@ -289,6 +290,7 @@
 <outline text="github.com/antfu-collective/taze" title="github.com/antfu-collective/taze" type="rss" xmlUrl="https://github.com/antfu-collective/taze/releases.atom"/>
 <outline text="github.com/lerna/lerna" title="github.com/lerna/lerna" type="rss" xmlUrl="https://github.com/lerna/lerna/releases.atom"/>
 <outline text="github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect" title="github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect" type="rss" xmlUrl="https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/releases.atom"/>
+<outline text="github.com/bodadotsh/npm-security-best-practices" title="github.com/bodadotsh/npm-security-best-practices" type="rss" xmlUrl="https://github.com/bodadotsh/npm-security-best-practices/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

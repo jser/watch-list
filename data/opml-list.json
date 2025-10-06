@@ -177,6 +177,13 @@
     ]
   },
   {
+    "url": "https://blog.vjeux.com",
+    "feeds": [
+      "https://blog.vjeux.com/feed",
+      "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html/feed"
+    ]
+  },
+  {
     "url": "https://blog.vlt.sh",
     "feeds": [
       "https://blog.vlt.sh/feed.xml"
