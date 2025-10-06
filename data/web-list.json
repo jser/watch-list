@@ -96,6 +96,26 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
+    "count": 22,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "browser",
+      "benchmark",
+      "performance",
+      "article",
+      "webkit",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "Release Notes for Safari Technology Preview 229 | WebKit",
+      "url": "https://webkit.org/blog/17447/release-notes-for-safari-technology-preview-229/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
+  },
+  {
     "count": 21,
     "url": "https://deno.com",
     "tags": [
@@ -115,26 +135,6 @@
       "url": "https://deno.com/blog/v2.5"
     },
     "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 21,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "browser",
-      "benchmark",
-      "performance",
-      "article",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "WebKit Features in Safari 26.0 | WebKit",
-      "url": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 20,
@@ -8419,5 +8419,33 @@
       "title": "Intl Playground",
       "url": "https://intlin.site/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://blog.vjeux.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "OpenSource"
+    ],
+    "example": {
+      "title": "Vjeux » Birth of Prettier",
+      "url": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html"
+    },
+    "rssUrl": "https://blog.vjeux.com/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/bodadotsh/npm-security-best-practices",
+    "tags": [
+      "npm",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "bodadotsh/npm-security-best-practices: How to stay safe from NPM supply chain attacks",
+      "url": "https://github.com/bodadotsh/npm-security-best-practices"
+    },
+    "rssUrl": "https://github.com/bodadotsh/npm-security-best-practices/releases.atom"
   }
 ]

@@ -177,6 +177,13 @@
     ]
   },
   {
+    "url": "https://blog.vjeux.com",
+    "feeds": [
+      "https://blog.vjeux.com/feed",
+      "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html/feed"
+    ]
+  },
+  {
     "url": "https://blog.vlt.sh",
     "feeds": [
       "https://blog.vlt.sh/feed.xml"
@@ -1727,6 +1734,12 @@
     "url": "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect",
     "feeds": [
       "https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/bodadotsh/npm-security-best-practices",
+    "feeds": [
+      "https://github.com/bodadotsh/npm-security-best-practices/releases.atom"
     ]
   },
   {
