@@ -96,7 +96,6 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
@@ -118,6 +117,7 @@
 <outline text="github.com/nksaraf/vinxi" title="github.com/nksaraf/vinxi" type="rss" xmlUrl="https://github.com/nksaraf/vinxi/releases.atom"/>
 <outline text="github.com/arktypeio/arktype" title="github.com/arktypeio/arktype" type="rss" xmlUrl="https://github.com/arktypeio/arktype/releases.atom"/>
 <outline text="github.com/react-hookz/web" title="github.com/react-hookz/web" type="rss" xmlUrl="https://github.com/react-hookz/web/releases.atom"/>
+<outline text="github.com/rollup/rollup" title="github.com/rollup/rollup" type="rss" xmlUrl="https://github.com/rollup/rollup/releases.atom"/>
 <outline text="github.com/elbywan/zap" title="github.com/elbywan/zap" type="rss" xmlUrl="https://github.com/elbywan/zap/releases.atom"/>
 <outline text="github.com/orgs/web-infra-dev" title="github.com/orgs/web-infra-dev" type="rss" xmlUrl="https://github.com/orgs/web-infra-dev/releases.atom"/>
 <outline text="github.com/AlexSergey/rockpack" title="github.com/AlexSergey/rockpack" type="rss" xmlUrl="https://github.com/AlexSergey/rockpack/releases.atom"/>

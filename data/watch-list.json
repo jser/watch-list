@@ -286,6 +286,20 @@
     }
   },
   {
+    "count": 10,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "October 2, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
+    }
+  },
+  {
     "count": 9,
     "url": "https://remix.run",
     "tags": [
@@ -299,20 +313,6 @@
     "example": {
       "title": "Middleware in React Router | Remix",
       "url": "https://remix.run/blog/middleware"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "August 25, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-08-25.html"
     }
   },
   {
@@ -1331,19 +1331,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/rollup/rollup",
-    "tags": [
-      "rollup",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.1.0 · rollup/rollup",
-      "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
-    },
-    "rssUrl": "https://github.com/rollup/rollup/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://docs.google.com",
     "tags": [
       "vite",
@@ -2247,6 +2234,19 @@
       "url": "https://github.com/react-hookz/web"
     },
     "rssUrl": "https://github.com/react-hookz/web/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/rollup/rollup",
+    "tags": [
+      "rollup",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.1.0 · rollup/rollup",
+      "url": "https://github.com/rollup/rollup/releases/tag/v4.1.0"
+    },
+    "rssUrl": "https://github.com/rollup/rollup/releases.atom"
   },
   {
     "count": 1,
