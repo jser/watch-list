@@ -573,12 +573,6 @@
     ]
   },
   {
-    "url": "https://github.com/rollup/rollup",
-    "feeds": [
-      "https://github.com/rollup/rollup/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -702,6 +696,12 @@
     "url": "https://github.com/react-hookz/web",
     "feeds": [
       "https://github.com/react-hookz/web/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/rollup/rollup",
+    "feeds": [
+      "https://github.com/rollup/rollup/releases.atom"
     ]
   },
   {
