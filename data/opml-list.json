@@ -718,13 +718,6 @@
     ]
   },
   {
-    "url": "https://prateeksurana.me",
-    "feeds": [
-      "https://prateeksurana.me/blog/feed.xml",
-      "https://prateeksurana.me/blog/feed.xml"
-    ]
-  },
-  {
     "url": "https://prettier.io",
     "feeds": [
       "https://prettier.io/blog/atom.xml",
