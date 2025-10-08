@@ -43,13 +43,13 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://developer.chrome.com",
     "tags": [
-      "Chrome",
-      "ReleaseNote",
       "CSS",
       "article",
+      "Chrome",
+      "ReleaseNote",
       "debug",
       "WebAssembly",
       "performance",
@@ -346,6 +346,24 @@
   },
   {
     "count": 9,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "article",
+      "ReleaseNote",
+      "babel",
+      "document",
+      "news",
+      "Native"
+    ],
+    "example": {
+      "title": "Introducing the React Foundation – React",
+      "url": "https://react.dev/blog/2025/10/07/introducing-the-react-foundation"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -415,23 +433,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "article",
-      "ReleaseNote",
-      "babel",
-      "document",
-      "news"
-    ],
-    "example": {
-      "title": "React 19.2 – React",
-      "url": "https://react.dev/blog/2025/10/01/react-19-2"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 7,
@@ -2188,21 +2189,6 @@
       "title": "Firefox 143.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/143.0/releasenotes/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://prateeksurana.me",
-    "tags": [
-      "React",
-      "Remix",
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js 13 vs Remix: An In-depth case study",
-      "url": "https://prateeksurana.me/blog/nextjs-13-vs-remix-an-in-depth-case-study/"
-    },
-    "rssUrl": "https://prateeksurana.me/blog/feed.xml"
   },
   {
     "count": 1,
