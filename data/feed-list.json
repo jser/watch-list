@@ -435,15 +435,15 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/microsoft/playwright",
     "feeds": [
       "https://github.com/microsoft/playwright/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -678,18 +678,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nksaraf/vinxi",
-    "feeds": [
-      "https://github.com/nksaraf/vinxi/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/arktypeio/arktype",
-    "feeds": [
-      "https://github.com/arktypeio/arktype/releases.atom"
     ]
   },
   {
@@ -2358,14 +2346,6 @@
     "url": "https://vite.dev",
     "feeds": [
       "https://vite.dev/blog.rss"
-    ]
-  },
-  {
-    "url": "https://viteconf.org",
-    "feeds": [
-      "https://www.youtube.com/feed/subscriptions",
-      "https://www.youtube.com/feed/you",
-      "https://www.youtube.com/feed/history"
     ]
   },
   {
