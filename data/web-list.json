@@ -67,7 +67,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 24,
+    "count": 23,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -137,7 +137,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -151,8 +151,8 @@
       "HTML"
     ],
     "example": {
-      "title": "ESLint v9.35.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/09/eslint-v9.35.0-released/"
+      "title": "What's coming in ESLint v10.0.0 - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
   },
@@ -313,6 +313,19 @@
     }
   },
   {
+    "count": 10,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.56.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.56.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
     "count": 9,
     "url": "https://remix.run",
     "tags": [
@@ -382,19 +395,6 @@
       "url": "https://blog.cloudflare.com/nodejs-workers-2025/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.54.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.54.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 8,
@@ -1385,22 +1385,6 @@
   },
   {
     "count": 2,
-    "url": "https://docs.google.com",
-    "tags": [
-      "vite",
-      "slide",
-      "Rust",
-      "rollup",
-      "bundler",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "2025-05-23 SignalとObservable ― 新たなデータモデルを解きほぐす (TSKaigi 2025) - Google スライド",
-      "url": "https://docs.google.com/presentation/d/1c7fYqn7-v3hnbKtmwXHbvwuCs6cNq_ThLKVDZ7rvbA0/preview#slide=id.g260298bad6d_0_77"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/solidjs/solid",
     "tags": [
       "Solid",
@@ -2189,47 +2173,6 @@
       "title": "Firefox 143.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/143.0/releasenotes/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nksaraf/vinxi",
-    "tags": [
-      "vite",
-      "server",
-      "library"
-    ],
-    "example": {
-      "title": "nksaraf/vinxi: The JavaScript Server SDK",
-      "url": "https://github.com/nksaraf/vinxi"
-    },
-    "rssUrl": "https://github.com/nksaraf/vinxi/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/arktypeio/arktype",
-    "tags": [
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "arktypeio/arktype: TypeScript's 1:1 validator, optimized from editor to runtime",
-      "url": "https://github.com/arktypeio/arktype"
-    },
-    "rssUrl": "https://github.com/arktypeio/arktype/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://viteconf.org",
-    "tags": [
-      "vite",
-      "Conference",
-      "video"
-    ],
-    "example": {
-      "title": "ViteConf",
-      "url": "https://viteconf.org/23/replay/welcome"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 1,
@@ -7493,6 +7436,18 @@
   },
   {
     "count": 1,
+    "url": "https://docs.google.com",
+    "tags": [
+      "JavaScript",
+      "slide"
+    ],
+    "example": {
+      "title": "2025-05-23 SignalとObservable ― 新たなデータモデルを解きほぐす (TSKaigi 2025) - Google スライド",
+      "url": "https://docs.google.com/presentation/d/1c7fYqn7-v3hnbKtmwXHbvwuCs6cNq_ThLKVDZ7rvbA0/preview#slide=id.g260298bad6d_0_77"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://react.gg",
     "tags": [
       "React",
@@ -8433,5 +8388,17 @@
       "url": "https://github.com/bodadotsh/npm-security-best-practices"
     },
     "rssUrl": "https://github.com/bodadotsh/npm-security-best-practices/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://johnjames.blog",
+    "tags": [
+      "npm",
+      "article"
+    ],
+    "example": {
+      "title": "cleaning house in nx monorepo, how i removed 120 unused deps safely",
+      "url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely"
+    }
   }
 ]
