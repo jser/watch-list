@@ -486,6 +486,23 @@
     }
   },
   {
+    "count": 7,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Oxlint JS Plugins Preview | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-10-09-oxlint-js-plugins.html"
+    }
+  },
+  {
     "count": 6,
     "url": "https://prettier.io",
     "tags": [
@@ -534,23 +551,6 @@
     "example": {
       "title": "Strengthening npm security: Important changes to authentication and token management - GitHub Changelog",
       "url": "https://github.blog/changelog/2025-09-29-strengthening-npm-security-important-changes-to-authentication-and-token-management/"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Oxlint Type-Aware Preview | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-08-17-oxlint-type-aware"
     }
   },
   {
@@ -831,6 +831,21 @@
   },
   {
     "count": 4,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "ReleaseNote",
+      "Native"
+    ],
+    "example": {
+      "title": "React Native 0.82 - A New Era · React Native",
+      "url": "https://reactnative.dev/blog/2025/10/08/react-native-0.82"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://blog.angular.dev",
     "tags": [
       "Angular",
@@ -1082,21 +1097,6 @@
   },
   {
     "count": 3,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "iOS",
-      "Android",
-      "ReleaseNote",
-      "Native"
-    ],
-    "example": {
-      "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more · React Native",
-      "url": "https://reactnative.dev/blog/2025/06/12/react-native-0.80"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://www.w3.org",
     "tags": [
       "WAI-ARIA",
@@ -1329,21 +1329,6 @@
       "title": "Bun v1.2.23 | Bun Blog",
       "url": "https://bun.com/blog/bun-v1.2.23"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/solidjs/solid",
-    "tags": [
-      "Solid",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.9.0 - LGTM! · solidjs/solid",
-      "url": "https://github.com/solidjs/solid/releases/tag/v1.9.0"
-    },
-    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
   },
   {
     "count": 2,
@@ -5395,6 +5380,19 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/solidjs/solid",
+    "tags": [
+      "Solid",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.9.0 - LGTM! · solidjs/solid",
+      "url": "https://github.com/solidjs/solid/releases/tag/v1.9.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/unjs/jiti",
     "tags": [
       "nodejs",
@@ -8166,5 +8164,19 @@
       "title": "cleaning house in nx monorepo, how i removed 120 unused deps safely",
       "url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ayuhito/modern-tar",
+    "tags": [
+      "nodejs",
+      "library",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "ayuhito/modern-tar: 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.",
+      "url": "https://github.com/ayuhito/modern-tar"
+    },
+    "rssUrl": "https://github.com/ayuhito/modern-tar/releases.atom"
   }
 ]
