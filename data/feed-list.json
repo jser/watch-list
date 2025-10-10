@@ -573,12 +573,6 @@
     ]
   },
   {
-    "url": "https://github.com/solidjs/solid",
-    "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"
@@ -1155,6 +1149,12 @@
     ]
   },
   {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/unjs/jiti",
     "feeds": [
       "https://github.com/unjs/jiti/releases.atom"
@@ -1728,6 +1728,12 @@
     "url": "https://github.com/bodadotsh/npm-security-best-practices",
     "feeds": [
       "https://github.com/bodadotsh/npm-security-best-practices/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ayuhito/modern-tar",
+    "feeds": [
+      "https://github.com/ayuhito/modern-tar/releases.atom"
     ]
   },
   {
