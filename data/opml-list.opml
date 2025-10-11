@@ -87,7 +87,6 @@
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="leaysgur.github.io" title="leaysgur.github.io" type="rss" xmlUrl="https://leaysgur.github.io/posts/rss.xml"/>
-<outline text="lit.dev" title="lit.dev" type="rss" xmlUrl="https://lit.dev/blog/atom.xml"/>
 <outline text="lynxjs.org" title="lynxjs.org" type="rss" xmlUrl="https://lynxjs.org/rss/blog-rss.xml"/>
 <outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="mametter.hatenablog.com" title="mametter.hatenablog.com" type="rss" xmlUrl="https://mametter.hatenablog.com/feed"/>
@@ -104,6 +103,7 @@
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
 <outline text="nsaunders.dev" title="nsaunders.dev" type="rss" xmlUrl="https://nsaunders.dev/rss.xml"/>
+<outline text="nuejs.org" title="nuejs.org" type="rss" xmlUrl="https://nuejs.org/feed.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="nx.dev" title="nx.dev" type="rss" xmlUrl="https://nx.dev/blog/rss.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
@@ -198,8 +198,6 @@
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
 <outline text="www.sanity.io" title="www.sanity.io" type="rss" xmlUrl="https://www.sanity.io/feed/rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
-<outline text="www.softwareatscale.dev" title="www.softwareatscale.dev" type="rss" xmlUrl="https://api.substack.com/feed/podcast/55725.rss"/>
-<outline text="www.sonarsource.com" title="www.sonarsource.com" type="rss" xmlUrl="https://www.sonarsource.com/rss.xml"/>
 <outline text="www.speedcurve.com" title="www.speedcurve.com" type="rss" xmlUrl="https://www.speedcurve.com/blog/rss/"/>
 <outline text="www.trevorlasn.com" title="www.trevorlasn.com" type="rss" xmlUrl="https://www.trevorlasn.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>

@@ -526,12 +526,6 @@
     ]
   },
   {
-    "url": "https://lit.dev",
-    "feeds": [
-      "https://lit.dev/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://lynxjs.org",
     "feeds": [
       "https://lynxjs.org/rss/blog-rss.xml"
@@ -626,6 +620,12 @@
     "url": "https://nsaunders.dev",
     "feeds": [
       "https://nsaunders.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://nuejs.org",
+    "feeds": [
+      "https://nuejs.org/feed.xml"
     ]
   },
   {
@@ -1252,19 +1252,6 @@
     "url": "https://www.smashingmagazine.com",
     "feeds": [
       "https://www.smashingmagazine.com/feed/"
-    ]
-  },
-  {
-    "url": "https://www.softwareatscale.dev",
-    "feeds": [
-      "https://api.substack.com/feed/podcast/55725.rss",
-      "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc29mdHdhcmVhdHNjYWxlLmRldi9mZWVkLw"
-    ]
-  },
-  {
-    "url": "https://www.sonarsource.com",
-    "feeds": [
-      "https://www.sonarsource.com/rss.xml"
     ]
   },
   {
