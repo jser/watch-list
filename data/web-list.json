@@ -2161,65 +2161,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.sonarsource.com",
-    "tags": [
-      "JavaScript",
-      "RegExp",
-      "article"
-    ],
-    "example": {
-      "title": "A comprehensive guide to the dangers of Regular Expressions in JavaScript | Sonar",
-      "url": "https://www.sonarsource.com/blog/vulnerable-regular-expressions-javascript/"
-    },
-    "rssUrl": "https://www.sonarsource.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.softwareatscale.dev",
-    "tags": [
-      "nodejs",
-      "Promises",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "The Hidden Performance Cost of NodeJS and GraphQL",
-      "url": "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs"
-    },
-    "rssUrl": "https://api.substack.com/feed/podcast/55725.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://japa.dev",
-    "tags": [
-      "JavaScript",
-      "nodejs",
-      "testing",
-      "library",
-      "Tools"
-    ],
-    "example": {
-      "title": "Japa",
-      "url": "https://japa.dev/docs/introduction"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://lit.dev",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more! – Lit",
-      "url": "https://lit.dev/blog/2023-10-10-lit-3.0/"
-    },
-    "rssUrl": "https://lit.dev/blog/atom.xml"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/react-hookz/web",
     "tags": [
       "React",
@@ -6058,7 +5999,8 @@
     "example": {
       "title": "A better Next.js? • Nue 1.0 (RC) is out - Nue",
       "url": "https://nuejs.org/blog/nue-release-candidate/"
-    }
+    },
+    "rssUrl": "https://nuejs.org/feed.xml"
   },
   {
     "count": 1,
