@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -11,20 +11,19 @@
       "security",
       "TypeScript",
       "news",
-      "rlee"
+      "rlee",
+      "nodfe"
     ],
     "example": {
       "title": "Node.js",
-      "url": "https://nodejs.org/en/blog/release/v24.9.0"
+      "url": "https://nodejs.org/en/blog/release/v24.10.0"
     }
   },
   {
-    "count": 40,
+    "count": 39,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "yarn",
-      "npm",
       "ReleaseNote",
       "TypeScript",
       "windows",
@@ -202,19 +201,6 @@
   },
   {
     "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 38.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-38-0"
-    }
-  },
-  {
-    "count": 13,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -227,6 +213,19 @@
     "example": {
       "title": "Astro 5.7 | Astro",
       "url": "https://astro.build/blog/astro-570/"
+    }
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 38.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-38-0"
     }
   },
   {

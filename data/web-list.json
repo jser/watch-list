@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -11,21 +11,20 @@
       "security",
       "TypeScript",
       "news",
-      "rlee"
+      "rlee",
+      "nodfe"
     ],
     "example": {
       "title": "Node.js",
-      "url": "https://nodejs.org/en/blog/release/v24.9.0"
+      "url": "https://nodejs.org/en/blog/release/v24.10.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 40,
+    "count": 39,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "yarn",
-      "npm",
       "ReleaseNote",
       "TypeScript",
       "windows",
@@ -210,20 +209,6 @@
   },
   {
     "count": 13,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Electron 38.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-38-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 13,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -238,6 +223,20 @@
       "url": "https://astro.build/blog/astro-570/"
     },
     "rssUrl": "https://astro.build/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 38.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-38-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
