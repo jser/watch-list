@@ -1737,6 +1737,12 @@
     ]
   },
   {
+    "url": "https://github.com/tryandromeda/andromeda?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/tryandromeda/andromeda?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
