@@ -2070,19 +2070,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/react-hookz/web",
-    "tags": [
-      "React",
-      "library"
-    ],
-    "example": {
-      "title": "react-hookz/web: React hooks done right, for browser and SSR.",
-      "url": "https://github.com/react-hookz/web"
-    },
-    "rssUrl": "https://github.com/react-hookz/web/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/rollup/rollup",
     "tags": [
       "rollup",
