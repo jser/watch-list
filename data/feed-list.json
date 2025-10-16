@@ -669,18 +669,6 @@
     ]
   },
   {
-    "url": "https://github.com/rollup/rollup",
-    "feeds": [
-      "https://github.com/rollup/rollup/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/elbywan/zap",
-    "feeds": [
-      "https://github.com/elbywan/zap/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/orgs/web-infra-dev",
     "feeds": [
       "https://github.com/orgs/web-infra-dev/releases.atom"
