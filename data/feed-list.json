@@ -314,6 +314,12 @@
     ]
   },
   {
+    "url": "https://digital-agency-news.digital.go.jp",
+    "feeds": [
+      "https://digital-agency-news.digital.go.jp/rss/articles.xml"
+    ]
+  },
+  {
     "url": "https://docs.timetime.in",
     "feeds": [
       "https://docs.timetime.in/blog/rss.xml",
@@ -435,15 +441,15 @@
     ]
   },
   {
-    "url": "https://github.com/microsoft/playwright",
-    "feeds": [
-      "https://github.com/microsoft/playwright/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/playwright",
+    "feeds": [
+      "https://github.com/microsoft/playwright/releases.atom"
     ]
   },
   {
@@ -2596,12 +2602,6 @@
     "feeds": [
       "https://yarnpkg.com/blog/rss.xml",
       "https://yarnpkg.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://zackoverflow.dev",
-    "feeds": [
-      "https://zackoverflow.dev/rss.xml"
     ]
   },
   {
