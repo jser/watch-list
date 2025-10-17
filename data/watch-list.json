@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -16,7 +16,7 @@
     ],
     "example": {
       "title": "Node.js",
-      "url": "https://nodejs.org/en/blog/release/v24.10.0"
+      "url": "https://nodejs.org/en/blog/release/v25.0.0"
     }
   },
   {
@@ -40,29 +40,6 @@
     }
   },
   {
-    "count": 26,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "CSS",
-      "article",
-      "Chrome",
-      "ReleaseNote",
-      "debug",
-      "WebAssembly",
-      "performance",
-      "LanguageModel",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP"
-    ],
-    "example": {
-      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
-    }
-  },
-  {
     "count": 23,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -74,6 +51,29 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.17.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 23,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "article",
+      "ReleaseNote",
+      "WebAssembly",
+      "performance",
+      "CSS",
+      "debug",
+      "LanguageModel",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP"
+    ],
+    "example": {
+      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
+    }
   },
   {
     "count": 22,
@@ -110,7 +110,7 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -300,6 +300,21 @@
   },
   {
     "count": 10,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "esbuild",
+      "ReleaseNote",
+      "JavaScript",
+      "bundler"
+    ],
+    "example": {
+      "title": "Release v0.25.11 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 10,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -328,21 +343,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.56.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "esbuild",
-      "ReleaseNote",
-      "JavaScript",
-      "bundler"
-    ],
-    "example": {
-      "title": "Release v0.25.7 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.7"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 9,
@@ -1061,6 +1061,22 @@
   },
   {
     "count": 3,
+    "url": "https://openjsf.org",
+    "tags": [
+      "nodejs",
+      "npm",
+      "article",
+      "JavaScript",
+      "library",
+      "news"
+    ],
+    "example": {
+      "title": "Sovereign Tech Agency Invests in Lodash’s Next Chapter in Open Source | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/sta-supports-lodash"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
@@ -1639,19 +1655,6 @@
   },
   {
     "count": 2,
-    "url": "https://openjsf.org",
-    "tags": [
-      "nodejs",
-      "npm",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js Security Progress Report: Redefining Security Processes and Key Initiatives | OpenJS Foundation",
-      "url": "https://openjsf.org/blog/nodejs-security-progress-report-may-2024?utm_content=297186945&utm_medium=social&utm_source=twitter&hss_channel=tw-91985735"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://zenn.dev/akfm/",
     "tags": [
       "Next.js",
@@ -2080,18 +2083,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zackoverflow.dev",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "Write your own Zod",
-      "url": "https://zackoverflow.dev/writing/write-your-own-zod"
-    }
   },
   {
     "count": 1,
@@ -8094,5 +8085,17 @@
       "url": "https://github.com/tryandromeda/andromeda?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/tryandromeda/andromeda?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://digital-agency-news.digital.go.jp",
+    "tags": [
+      "accessibility",
+      "article"
+    ],
+    "example": {
+      "title": "デジタル庁デザインシステムの活用例：よくあるアクセシビリティの課題とその解決策｜デジタル庁ニュース",
+      "url": "https://digital-agency-news.digital.go.jp/articles/2025-10-14"
+    }
   }
 ]

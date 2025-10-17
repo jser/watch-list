@@ -314,6 +314,12 @@
     ]
   },
   {
+    "url": "https://digital-agency-news.digital.go.jp",
+    "feeds": [
+      "https://digital-agency-news.digital.go.jp/rss/articles.xml"
+    ]
+  },
+  {
     "url": "https://docs.timetime.in",
     "feeds": [
       "https://docs.timetime.in/blog/rss.xml",
@@ -1294,12 +1300,6 @@
     "feeds": [
       "https://yarnpkg.com/blog/rss.xml",
       "https://yarnpkg.com/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://zackoverflow.dev",
-    "feeds": [
-      "https://zackoverflow.dev/rss.xml"
     ]
   },
   {

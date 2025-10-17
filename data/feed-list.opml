@@ -54,6 +54,7 @@
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
 <outline text="developers.cyberagent.co.jp" title="developers.cyberagent.co.jp" type="rss" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/"/>
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
+<outline text="digital-agency-news.digital.go.jp" title="digital-agency-news.digital.go.jp" type="rss" xmlUrl="https://digital-agency-news.digital.go.jp/rss/articles.xml"/>
 <outline text="docs.timetime.in" title="docs.timetime.in" type="rss" xmlUrl="https://docs.timetime.in/blog/rss.xml"/>
 <outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
 <outline text="dxcriteria.cto-a.org" title="dxcriteria.cto-a.org" type="rss" xmlUrl="https://dxcriteria.cto-a.org/feed.xml"/>
@@ -73,8 +74,8 @@
 <outline text="gist.github.com/azu" title="gist.github.com/azu" type="rss" xmlUrl="https://gist.github.com/azu.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
-<outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
+<outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
@@ -421,7 +422,6 @@
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="yarnpkg.com" title="yarnpkg.com" type="rss" xmlUrl="https://yarnpkg.com/blog/rss.xml"/>
-<outline text="zackoverflow.dev" title="zackoverflow.dev" type="rss" xmlUrl="https://zackoverflow.dev/rss.xml"/>
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
