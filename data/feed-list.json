@@ -465,12 +465,6 @@
     ]
   },
   {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -492,6 +486,12 @@
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
     ]
   },
   {
@@ -672,12 +672,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/orgs/web-infra-dev",
-    "feeds": [
-      "https://github.com/orgs/web-infra-dev/releases.atom"
     ]
   },
   {

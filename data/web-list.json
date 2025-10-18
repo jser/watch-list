@@ -595,23 +595,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "JavaScript",
-      "article",
-      "bundler",
-      "security"
-    ],
-    "example": {
-      "title": "Release v1.1.8 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
@@ -780,6 +763,23 @@
       "url": "https://github.com/nuxt/nuxt/discussions/32559"
     },
     "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "bundler",
+      "security"
+    ],
+    "example": {
+      "title": "Release v1.1.8 · web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 4,
@@ -2161,21 +2161,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/orgs/web-infra-dev",
-    "tags": [
-      "Rust",
-      "document",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Rspress, the Rspack-based static site generator · web-infra-dev · Discussion #5",
-      "url": "https://github.com/orgs/web-infra-dev/discussions/5"
-    },
-    "rssUrl": "https://github.com/orgs/web-infra-dev/releases.atom"
   },
   {
     "count": 1,
