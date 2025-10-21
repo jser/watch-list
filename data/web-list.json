@@ -2164,19 +2164,6 @@
   },
   {
     "count": 1,
-    "url": "https://blog.scottlogic.com",
-    "tags": [
-      "WebAssembly",
-      "Survey"
-    ],
-    "example": {
-      "title": "The State of WebAssembly 2023",
-      "url": "https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html"
-    },
-    "rssUrl": "https://blog.scottlogic.com/atom.xml"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/AlexSergey/rockpack",
     "tags": [
       "React",

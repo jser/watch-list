@@ -30,7 +30,6 @@
 <outline text="blog.platformatic.dev" title="blog.platformatic.dev" type="rss" xmlUrl="https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
-<outline text="blog.scottlogic.com" title="blog.scottlogic.com" type="rss" xmlUrl="https://blog.scottlogic.com/atom.xml"/>
 <outline text="blog.val.town" title="blog.val.town" type="rss" xmlUrl="https://blog.val.town/rss.xml"/>
 <outline text="blog.vjeux.com" title="blog.vjeux.com" type="rss" xmlUrl="https://blog.vjeux.com/feed"/>
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
