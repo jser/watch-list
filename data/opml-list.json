@@ -164,13 +164,6 @@
     ]
   },
   {
-    "url": "https://blog.scottlogic.com",
-    "feeds": [
-      "https://blog.scottlogic.com/atom.xml",
-      "https://blog.scottlogic.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.val.town",
     "feeds": [
       "https://blog.val.town/rss.xml"
