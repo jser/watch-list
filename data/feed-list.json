@@ -476,12 +476,6 @@
     ]
   },
   {
-    "url": "https://github.com/nuxt/nuxt",
-    "feeds": [
-      "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
@@ -515,6 +509,12 @@
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
     ]
   },
   {
