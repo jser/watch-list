@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/AlexSergey/rockpack",
-    "feeds": [
-      "https://github.com/AlexSergey/rockpack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/joshmarinacci/node-pureimage",
     "feeds": [
       "https://github.com/joshmarinacci/node-pureimage/releases.atom"
@@ -1715,6 +1709,18 @@
     "url": "https://github.com/tryandromeda/andromeda?tab=readme-ov-file",
     "feeds": [
       "https://github.com/tryandromeda/andromeda?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/redwoodjs/graphql",
+    "feeds": [
+      "https://github.com/redwoodjs/graphql/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/cedarjs/cedar",
+    "feeds": [
+      "https://github.com/cedarjs/cedar/releases.atom"
     ]
   },
   {

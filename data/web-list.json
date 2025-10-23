@@ -2161,21 +2161,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/AlexSergey/rockpack",
-    "tags": [
-      "React",
-      "Tools",
-      "library",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "AlexSergey/rockpack: Rockpack is a simple solution for creating React Application with Server Side Rendering, bundling, linting, testing within 5 minutes",
-      "url": "https://github.com/AlexSergey/rockpack"
-    },
-    "rssUrl": "https://github.com/AlexSergey/rockpack/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://portal.gitnation.org",
     "tags": [
       "TypeScript",
@@ -8298,5 +8283,33 @@
       "url": "https://digital-agency-news.digital.go.jp/articles/2025-10-14"
     },
     "rssUrl": "https://digital-agency-news.digital.go.jp/rss/articles.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/redwoodjs/graphql",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v8.9.0 · redwoodjs/graphql",
+      "url": "https://github.com/redwoodjs/graphql/releases/tag/v8.9.0"
+    },
+    "rssUrl": "https://github.com/redwoodjs/graphql/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/cedarjs/cedar",
+    "tags": [
+      "nodejs",
+      "library"
+    ],
+    "example": {
+      "title": "cedarjs/cedar: The React + GraphQL Web App Framework",
+      "url": "https://github.com/cedarjs/cedar"
+    },
+    "rssUrl": "https://github.com/cedarjs/cedar/releases.atom"
   }
 ]
