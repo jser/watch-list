@@ -458,6 +458,12 @@
     ]
   },
   {
+    "url": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -473,12 +479,6 @@
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
     ]
   },
   {
@@ -599,6 +599,12 @@
     "url": "https://github.com/tapjs/tsimp",
     "feeds": [
       "https://github.com/tapjs/tsimp/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/sindresorhus/got",
+    "feeds": [
+      "https://github.com/sindresorhus/got/releases.atom"
     ]
   },
   {
@@ -737,12 +743,6 @@
     "url": "https://github.com/facebook/stylex",
     "feeds": [
       "https://github.com/facebook/stylex/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/sindresorhus/got",
-    "feeds": [
-      "https://github.com/sindresorhus/got/releases.atom"
     ]
   },
   {
@@ -2588,13 +2588,6 @@
       "https://www.youtube.com/feed/history",
       "https://www.youtube.com/feed/trending",
       "https://www.youtube.com/feed/trending"
-    ]
-  },
-  {
-    "url": "https://yarnpkg.com",
-    "feeds": [
-      "https://yarnpkg.com/blog/rss.xml",
-      "https://yarnpkg.com/blog/atom.xml"
     ]
   },
   {
