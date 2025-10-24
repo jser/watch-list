@@ -161,7 +161,7 @@
     }
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -171,8 +171,8 @@
       "document"
     ],
     "example": {
-      "title": "Next.js 16 (beta) | Next.js",
-      "url": "https://nextjs.org/blog/next-16-beta"
+      "title": "Next.js 16 | Next.js",
+      "url": "https://nextjs.org/blog/next-16"
     }
   },
   {
@@ -571,6 +571,24 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "JavaScript",
+      "article",
+      "bundler",
+      "security",
+      "issue"
+    ],
+    "example": {
+      "title": "Planned breaking changes for Rspack 2.0 · web-infra-dev/rspack · Discussion #9270",
+      "url": "https://github.com/web-infra-dev/rspack/discussions/9270"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
@@ -719,21 +737,18 @@
     }
   },
   {
-    "count": 4,
-    "url": "https://github.com/web-infra-dev/rspack",
+    "count": 5,
+    "url": "https://bun.com",
     "tags": [
-      "rspack",
+      "Bun",
       "ReleaseNote",
-      "JavaScript",
       "article",
-      "bundler",
-      "security"
+      "performance"
     ],
     "example": {
-      "title": "Release v1.1.8 · web-infra-dev/rspack",
-      "url": "https://github.com/web-infra-dev/rspack/releases/tag/v1.1.8"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
+      "title": "Bun v1.3.1 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.1"
+    }
   },
   {
     "count": 4,
@@ -852,20 +867,6 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Bun 1.3 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3"
-    }
   },
   {
     "count": 3,
@@ -1296,6 +1297,20 @@
   },
   {
     "count": 3,
+    "url": "https://vitest.dev",
+    "tags": [
+      "vite",
+      "test",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vitest 4.0 is out! | Vitest",
+      "url": "https://vitest.dev/blog/vitest-4"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://shopify.engineering",
     "tags": [
       "React",
@@ -1502,6 +1517,21 @@
       "title": "Bun の非互換な拡張 API - moriken's project",
       "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/sindresorhus/got",
+    "tags": [
+      "nodejs",
+      "HTTP",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v14.6.0 · sindresorhus/got",
+      "url": "https://github.com/sindresorhus/got/releases/tag/v14.6.0"
+    },
+    "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
   },
   {
     "count": 2,
@@ -1955,20 +1985,6 @@
   },
   {
     "count": 2,
-    "url": "https://vitest.dev",
-    "tags": [
-      "vite",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vitest 3.2 is out! | Vitest",
-      "url": "https://vitest.dev/blog/vitest-3-2.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://valibot.dev",
     "tags": [
       "JavaScript",
@@ -2080,31 +2096,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://portal.gitnation.org",
-    "tags": [
-      "TypeScript",
-      "video",
-      "performance"
-    ],
-    "example": {
-      "title": "Faster TypeScript builds with --isolatedDeclarations by Titian-Cornel Cernicova-Dragomir - GitNation",
-      "url": "https://portal.gitnation.org/contents/faster-typescript-builds-with-isolateddeclarations"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://yarnpkg.com",
-    "tags": [
-      "yarn",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release: Yarn 4.0 🪄⚗️ | Yarn",
-      "url": "https://yarnpkg.com/blog/release/4.0"
-    }
   },
   {
     "count": 1,
@@ -2480,21 +2471,6 @@
       "url": "https://github.com/facebook/stylex"
     },
     "rssUrl": "https://github.com/facebook/stylex/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/sindresorhus/got",
-    "tags": [
-      "nodejs",
-      "HTTP",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v14.0.0 · sindresorhus/got",
-      "url": "https://github.com/sindresorhus/got/releases/tag/v14.0.0"
-    },
-    "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
   },
   {
     "count": 1,
