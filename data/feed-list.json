@@ -458,12 +458,6 @@
     ]
   },
   {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -497,6 +491,12 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
     ]
   },
   {
@@ -2118,13 +2118,6 @@
     "url": "https://shopify.engineering",
     "feeds": [
       "https://shopify.engineering/blog.atom"
-    ]
-  },
-  {
-    "url": "https://sindresorhus.com",
-    "feeds": [
-      "https://sindresorhus.com/rss.xml",
-      "https://sindresorhus.com/rss-apps.xml"
     ]
   },
   {

@@ -819,13 +819,6 @@
     ]
   },
   {
-    "url": "https://sindresorhus.com",
-    "feeds": [
-      "https://sindresorhus.com/rss.xml",
-      "https://sindresorhus.com/rss-apps.xml"
-    ]
-  },
-  {
     "url": "https://socket.dev",
     "feeds": [
       "https://socket.dev/api/feed.atom"
