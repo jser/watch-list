@@ -116,26 +116,6 @@
   },
   {
     "count": 20,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "article",
-      "ReleaseNote",
-      "news",
-      "JSON",
-      "Markdown",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "What's coming in ESLint v10.0.0 - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
-    "count": 20,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -168,19 +148,24 @@
     }
   },
   {
-    "count": 15,
-    "url": "https://nextjs.org",
+    "count": 19,
+    "url": "https://eslint.org",
     "tags": [
-      "Next.js",
+      "ESLint",
       "ReleaseNote",
       "article",
-      "security",
-      "document"
+      "news",
+      "JSON",
+      "Markdown",
+      "TypeScript",
+      "css",
+      "HTML"
     ],
     "example": {
-      "title": "Next.js 16 | Next.js",
-      "url": "https://nextjs.org/blog/next-16"
-    }
+      "title": "What's coming in ESLint v10.0.0 - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 14,
@@ -208,7 +193,36 @@
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
+    "count": 14,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article",
+      "security",
+      "document"
+    ],
+    "example": {
+      "title": "Next.js 16 | Next.js",
+      "url": "https://nextjs.org/blog/next-16"
+    }
+  },
+  {
     "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Electron 38.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-38-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 11,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -225,18 +239,24 @@
     "rssUrl": "https://astro.build/rss.xml"
   },
   {
-    "count": 12,
-    "url": "https://www.electronjs.org",
+    "count": 11,
+    "url": "https://react.dev",
     "tags": [
-      "Electron",
+      "React",
+      "article",
       "ReleaseNote",
-      "article"
+      "babel",
+      "document",
+      "news",
+      "Native",
+      "Tools",
+      "Conference"
     ],
     "example": {
-      "title": "Electron 38.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-38-0"
+      "title": "React Conf 2025 Recap – React",
+      "url": "https://react.dev/blog/2025/10/16/react-conf-2025-recap"
     },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 11,
@@ -326,25 +346,6 @@
   },
   {
     "count": 10,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "article",
-      "ReleaseNote",
-      "babel",
-      "document",
-      "news",
-      "Native",
-      "Tools"
-    ],
-    "example": {
-      "title": "React Compiler v1.0 – React",
-      "url": "https://react.dev/blog/2025/10/07/react-compiler-1"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 10,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -355,6 +356,39 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.56.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://remix.run",
+    "tags": [
+      "React",
+      "Remix",
+      "vite",
+      "article",
+      "ReleaseNote",
+      "Conference"
+    ],
+    "example": {
+      "title": "Remix Jam 2025 Recap | Remix",
+      "url": "https://remix.run/blog/remix-jam-2025-recap"
+    },
+    "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 9,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.10.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 9,
@@ -379,35 +413,20 @@
   },
   {
     "count": 8,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "Remix",
-      "vite",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Middleware in React Router | Remix",
-      "url": "https://remix.run/blog/middleware"
-    },
-    "rssUrl": "https://remix.run/blog/rss.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/honojs/hono",
+    "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
-      "server",
-      "library",
+      "Rust",
+      "Tools",
       "ReleaseNote",
-      "Hono"
+      "ESLint",
+      "biome"
     ],
     "example": {
-      "title": "Release v4.7.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.7.0"
+      "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-3/"
     },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 8,
@@ -423,23 +442,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "biome"
-    ],
-    "example": {
-      "title": "Biome v2—codename: Biotype | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2/"
-    },
-    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 7,
@@ -590,22 +592,6 @@
       "url": "https://stylexjs.com/blog/v0.15.0"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "ReleaseNote",
-      "security",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release Release v1.9.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.9.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 5,
@@ -825,6 +811,38 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/nuxt/nuxt",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "vercel",
+      "news"
+    ],
+    "example": {
+      "title": "Release v4.2.0 · nuxt/nuxt",
+      "url": "https://github.com/nuxt/nuxt/releases/tag/v4.2.0"
+    },
+    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "JavaScript",
+      "HTTP",
+      "library",
+      "security",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Release v1.9.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.9.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/google/zx",
     "tags": [
       "JavaScript",
@@ -1020,22 +1038,6 @@
       "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
     },
     "rssUrl": "https://zenn.dev/uki00a/feed"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/nuxt/nuxt",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "vercel",
-      "news"
-    ],
-    "example": {
-      "title": "The future of Nuxt​ · nuxt/nuxt · Discussion #32559",
-      "url": "https://github.com/nuxt/nuxt/discussions/32559"
-    },
-    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
   },
   {
     "count": 3,
@@ -2172,24 +2174,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/nakaakist/",
-    "tags": [
-      "vite",
-      "parcel",
-      "webpack",
-      "rspack",
-      "Next.js",
-      "bundler",
-      "article"
-    ],
-    "example": {
-      "title": "JavaScriptビルドツールの整理 各ツールの機能と依存関係",
-      "url": "https://zenn.dev/nakaakist/articles/86457bf2908379"
-    },
-    "rssUrl": "https://zenn.dev/nakaakist/feed"
   },
   {
     "count": 1,
@@ -8256,5 +8240,18 @@
       "url": "https://github.com/cedarjs/cedar"
     },
     "rssUrl": "https://github.com/cedarjs/cedar/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ember 6.8 Released",
+      "url": "https://blog.emberjs.com/ember-released-6-8/"
+    },
+    "rssUrl": "https://blog.emberjs.com/rss.xml"
   }
 ]
