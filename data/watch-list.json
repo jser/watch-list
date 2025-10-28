@@ -41,19 +41,6 @@
   },
   {
     "count": 23,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.17 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.17.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -89,6 +76,19 @@
       "title": "Announcing TypeScript 5.9 - TypeScript",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
     }
+  },
+  {
+    "count": 22,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.17 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.17.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 22,
@@ -1350,21 +1350,6 @@
     "example": {
       "title": "Firefox 144.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/144.0/releasenotes/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://wasmer.io",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "ServiceWorker",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "WinterJS 1.0 · Blog · Wasmer",
-      "url": "https://wasmer.io/posts/winterjs-v1"
     }
   },
   {
@@ -3488,6 +3473,19 @@
       "url": "https://github.com/edmundhung/conform"
     },
     "rssUrl": "https://github.com/edmundhung/conform/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://wasmer.io",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "WinterJS 1.0 · Blog · Wasmer",
+      "url": "https://wasmer.io/posts/winterjs-v1"
+    }
   },
   {
     "count": 1,
