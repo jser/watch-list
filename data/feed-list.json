@@ -512,6 +512,12 @@
     ]
   },
   {
+    "url": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
@@ -557,12 +563,6 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/storybookjs/storybook",
-    "feeds": [
-      "https://github.com/storybookjs/storybook/releases.atom"
     ]
   },
   {
@@ -677,12 +677,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/joshmarinacci/node-pureimage",
-    "feeds": [
-      "https://github.com/joshmarinacci/node-pureimage/releases.atom"
     ]
   },
   {
