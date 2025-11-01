@@ -680,12 +680,6 @@
     ]
   },
   {
-    "url": "https://github.com/jestjs/jest",
-    "feeds": [
-      "https://github.com/jestjs/jest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/docusaurus",
     "feeds": [
       "https://github.com/facebook/docusaurus/releases.atom"
@@ -2623,12 +2617,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/punkshiraishi/",
-    "feeds": [
-      "https://zenn.dev/punkshiraishi/feed"
     ]
   },
   {
