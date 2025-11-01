@@ -42,13 +42,13 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 23,
+    "count": 22,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "article",
       "ReleaseNote",
       "WebAssembly",
+      "article",
       "performance",
       "CSS",
       "debug",
@@ -1394,6 +1394,19 @@
   },
   {
     "count": 3,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.6 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-1-6"
+    },
+    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://www.firefox.com",
     "tags": [
       "Firefox",
@@ -2101,19 +2114,6 @@
   },
   {
     "count": 2,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.5 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-1-5"
-    },
-    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
-  },
-  {
-    "count": 2,
     "url": "https://devongovett.me",
     "tags": [
       "JavaScript",
@@ -2158,33 +2158,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jestjs/jest",
-    "tags": [
-      "jest",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v30.0.0-alpha.1 · jestjs/jest",
-      "url": "https://github.com/jestjs/jest/releases/tag/v30.0.0-alpha.1"
-    },
-    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/punkshiraishi/",
-    "tags": [
-      "Vue",
-      "Conference",
-      "slide"
-    ],
-    "example": {
-      "title": "Vue Fes Japan 2023 資料 X ポストまとめ",
-      "url": "https://zenn.dev/punkshiraishi/scraps/bf3829dc79466b"
-    },
-    "rssUrl": "https://zenn.dev/punkshiraishi/feed"
   },
   {
     "count": 1,
