@@ -43,30 +43,6 @@
   },
   {
     "count": 22,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "WebAssembly",
-      "article",
-      "performance",
-      "CSS",
-      "debug",
-      "LanguageModel",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP"
-    ],
-    "example": {
-      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
-    },
-    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
-    "count": 22,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -134,6 +110,29 @@
       "url": "https://deno.com/blog/v2.5"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 20,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "ReleaseNote",
+      "performance",
+      "article",
+      "CSS",
+      "debug",
+      "LanguageModel",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP"
+    ],
+    "example": {
+      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 19,
@@ -335,23 +334,6 @@
   },
   {
     "count": 9,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "Remix",
-      "vite",
-      "article",
-      "ReleaseNote",
-      "Conference"
-    ],
-    "example": {
-      "title": "Remix Jam 2025 Recap | Remix",
-      "url": "https://remix.run/blog/remix-jam-2025-recap"
-    },
-    "rssUrl": "https://remix.run/blog/rss.xml"
-  },
-  {
-    "count": 9,
     "url": "https://www.youtube.com",
     "tags": [
       "JavaScript",
@@ -441,6 +423,23 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "ReleaseNote",
+      "React",
+      "article",
+      "Conference"
+    ],
+    "example": {
+      "title": "Remix Jam 2025 Recap | Remix",
+      "url": "https://remix.run/blog/remix-jam-2025-recap"
+    },
+    "rssUrl": "https://remix.run/blog/rss.xml"
   },
   {
     "count": 7,
@@ -1419,22 +1418,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "Remix",
-      "React",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "remix/CHANGELOG.md at main · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/farm-fe/farm",
     "tags": [
       "vite",
@@ -2158,21 +2141,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/docusaurus",
-    "tags": [
-      "React",
-      "document",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 3.0.0 · facebook/docusaurus",
-      "url": "https://github.com/facebook/docusaurus/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/facebook/docusaurus/releases.atom"
   },
   {
     "count": 1,
@@ -4028,6 +3996,19 @@
       "title": "Announcement of Release - Module federation",
       "url": "https://module-federation.io/blog/announcement.html"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/remix-run/remix",
+    "tags": [
+      "Remix",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "remix/CHANGELOG.md at main · remix-run/remix",
+      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
+    },
+    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
   },
   {
     "count": 1,

@@ -578,12 +578,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/farm-fe/farm",
     "feeds": [
       "https://github.com/farm-fe/farm/releases.atom"
@@ -677,12 +671,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/docusaurus",
-    "feeds": [
-      "https://github.com/facebook/docusaurus/releases.atom"
     ]
   },
   {
@@ -911,6 +899,12 @@
     "url": "https://github.com/quilljs/quill",
     "feeds": [
       "https://github.com/quilljs/quill/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/remix-run/remix",
+    "feeds": [
+      "https://github.com/remix-run/remix/releases.atom"
     ]
   },
   {
