@@ -92,27 +92,6 @@
   },
   {
     "count": 20,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "library",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "article",
-      "browser",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.5: Permissions in the config file | Deno",
-      "url": "https://deno.com/blog/v2.5"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 20,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -145,6 +124,27 @@
       "title": "Firefox 140.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
+  },
+  {
+    "count": 19,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "library",
+      "ReleaseNote",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "article",
+      "browser",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.5: Permissions in the config file | Deno",
+      "url": "https://deno.com/blog/v2.5"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 19,
