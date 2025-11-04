@@ -578,12 +578,6 @@
     ]
   },
   {
-    "url": "https://github.com/farm-fe/farm",
-    "feeds": [
-      "https://github.com/farm-fe/farm/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mochajs/mocha",
     "feeds": [
       "https://github.com/mochajs/mocha/releases.atom"
@@ -881,6 +875,12 @@
     "url": "https://github.com/gulpjs/gulp",
     "feeds": [
       "https://github.com/gulpjs/gulp/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/farm-fe/farm",
+    "feeds": [
+      "https://github.com/farm-fe/farm/releases.atom"
     ]
   },
   {
@@ -2270,6 +2270,12 @@
     ]
   },
   {
+    "url": "https://turborepo.com",
+    "feeds": [
+      "https://turborepo.com/feed.xml"
+    ]
+  },
+  {
     "url": "https://typescript-eslint.io",
     "feeds": [
       "https://typescript-eslint.io/blog/rss.xml",
@@ -2480,6 +2486,12 @@
     "url": "https://www.keithcirkel.co.uk",
     "feeds": [
       "https://www.keithcirkel.co.uk/feed.xml"
+    ]
+  },
+  {
+    "url": "https://www.lorenstew.art",
+    "feeds": [
+      "https://www.lorenstew.art/rss.xml"
     ]
   },
   {

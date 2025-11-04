@@ -21,7 +21,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 39,
+    "count": 38,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -91,29 +91,6 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "performance",
-      "article",
-      "CSS",
-      "debug",
-      "LanguageModel",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP"
-    ],
-    "example": {
-      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
-    },
-    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
     "count": 19,
     "url": "https://www.mozilla.org",
     "tags": [
@@ -165,6 +142,29 @@
       "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 19,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "performance",
+      "article",
+      "ReleaseNote",
+      "CSS",
+      "debug",
+      "LanguageModel",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP"
+    ],
+    "example": {
+      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 14,
@@ -1415,24 +1415,6 @@
       "title": "Firefox 144.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/144.0/releasenotes/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/farm-fe/farm",
-    "tags": [
-      "vite",
-      "rollup",
-      "bundler",
-      "Rust",
-      "Tools",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 🚀 Farm v1.0 is released! · farm-fe/farm",
-      "url": "https://github.com/farm-fe/farm/releases/tag/v1.0"
-    },
-    "rssUrl": "https://github.com/farm-fe/farm/releases.atom"
   },
   {
     "count": 2,
@@ -3843,6 +3825,22 @@
       "title": "Home | Ark UI",
       "url": "https://ark-ui.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/farm-fe/farm",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "Rust",
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 🚀 Farm v1.0 is released! · farm-fe/farm",
+      "url": "https://github.com/farm-fe/farm/releases/tag/v1.0"
+    },
+    "rssUrl": "https://github.com/farm-fe/farm/releases.atom"
   },
   {
     "count": 1,
@@ -8176,5 +8174,46 @@
       "url": "https://blog.emberjs.com/ember-released-6-8/"
     },
     "rssUrl": "https://blog.emberjs.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://turborepo.com",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Turborepo 2.6 | Turborepo",
+      "url": "https://turborepo.com/blog/turbo-2-6"
+    },
+    "rssUrl": "https://turborepo.com/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://www.lorenstew.art",
+    "tags": [
+      "JavaScript",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance | Loren Stewart",
+      "url": "https://www.lorenstew.art/blog/10-kanban-boards/"
+    },
+    "rssUrl": "https://www.lorenstew.art/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://tancn.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "UI"
+    ],
+    "example": {
+      "title": "TanCN - Form and Table Builder",
+      "url": "https://tancn.dev/"
+    }
   }
 ]
