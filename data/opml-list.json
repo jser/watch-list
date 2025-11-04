@@ -986,6 +986,12 @@
     ]
   },
   {
+    "url": "https://turborepo.com",
+    "feeds": [
+      "https://turborepo.com/feed.xml"
+    ]
+  },
+  {
     "url": "https://typescript-eslint.io",
     "feeds": [
       "https://typescript-eslint.io/blog/rss.xml",
@@ -1196,6 +1202,12 @@
     "url": "https://www.keithcirkel.co.uk",
     "feeds": [
       "https://www.keithcirkel.co.uk/feed.xml"
+    ]
+  },
+  {
+    "url": "https://www.lorenstew.art",
+    "feeds": [
+      "https://www.lorenstew.art/rss.xml"
     ]
   },
   {
