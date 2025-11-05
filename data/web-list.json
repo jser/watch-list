@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js v22.21.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v22.21.0"
+      "title": "Node.js — Node.js v22 to v24",
+      "url": "https://nodejs.org/en/blog/migrations/v22-to-v24"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -40,22 +40,6 @@
       "url": "https://bun.sh/blog/bun-v1.2.20"
     },
     "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 22,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 5.9 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 22,
@@ -89,6 +73,45 @@
       "url": "https://webkit.org/blog/17447/release-notes-for-safari-technology-preview-229/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 21,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 5.9 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
+  },
+  {
+    "count": 20,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "performance",
+      "article",
+      "ReleaseNote",
+      "CSS",
+      "debug",
+      "LanguageModel",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP"
+    ],
+    "example": {
+      "title": "New in Chrome 142  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-142?hl=en"
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 19,
@@ -144,29 +167,6 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 19,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "Chrome",
-      "performance",
-      "article",
-      "ReleaseNote",
-      "CSS",
-      "debug",
-      "LanguageModel",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP"
-    ],
-    "example": {
-      "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en"
-    },
-    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
     "count": 14,
     "url": "https://web.dev",
     "tags": [
@@ -207,7 +207,7 @@
     }
   },
   {
-    "count": 12,
+    "count": 13,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -215,8 +215,8 @@
       "article"
     ],
     "example": {
-      "title": "Electron 38.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-38-0"
+      "title": "Electron 39.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-39-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
@@ -633,6 +633,22 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "React",
+      "redux",
+      "library",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release v2.10.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.10.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -744,21 +760,6 @@
       "url": "https://bun.com/blog/bun-v1.3.1"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "React",
-      "redux",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.6.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.6.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 4,
@@ -932,6 +933,19 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.6 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-1-6"
+    },
+    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
   },
   {
     "count": 3,
@@ -1390,19 +1404,6 @@
       "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0"
     },
     "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.6 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-1-6"
-    },
-    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
   },
   {
     "count": 3,
@@ -8215,5 +8216,32 @@
       "title": "TanCN - Form and Table Builder",
       "url": "https://tancn.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://triplex.dev",
+    "tags": [
+      "React",
+      "3D",
+      "library",
+      "Tools"
+    ],
+    "example": {
+      "title": "Triplex Goes Open Source and Moves to Poimandres • Triplex",
+      "url": "https://triplex.dev/blog/triplex-moves-to-pmndrs"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.polarsignals.com",
+    "tags": [
+      "sourcemap",
+      "article"
+    ],
+    "example": {
+      "title": "The Inner Workings of JavaScript Source Maps",
+      "url": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals"
+    },
+    "rssUrl": "https://www.polarsignals.com/rss.xml"
   }
 ]

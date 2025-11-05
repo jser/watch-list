@@ -464,6 +464,12 @@
     ]
   },
   {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
@@ -473,12 +479,6 @@
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -2521,6 +2521,12 @@
       "https://www.moonbitlang.com/blog/atom.xml",
       "https://www.moonbitlang.com/weekly-updates/rss.xml",
       "https://www.moonbitlang.com/weekly-updates/atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.polarsignals.com",
+    "feeds": [
+      "https://www.polarsignals.com/rss.xml"
     ]
   },
   {
