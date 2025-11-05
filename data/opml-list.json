@@ -1240,6 +1240,12 @@
     ]
   },
   {
+    "url": "https://www.polarsignals.com",
+    "feeds": [
+      "https://www.polarsignals.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.robinwieruch.de",
     "feeds": [
       "https://www.robinwieruch.de/index.xml"
