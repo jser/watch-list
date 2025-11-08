@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/oxc-project/javascript-parser-in-rust",
-    "feeds": [
-      "https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vvo/iron-session",
     "feeds": [
       "https://github.com/vvo/iron-session/releases.atom"

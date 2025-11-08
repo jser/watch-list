@@ -1365,20 +1365,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "Angular",
-      "document",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://nodesource.com",
     "tags": [
       "nodejs",
@@ -2049,18 +2035,15 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/oxc-project/javascript-parser-in-rust",
+    "url": "https://blog.angular.io",
     "tags": [
-      "JavaScript",
-      "AST",
-      "Rust",
-      "tutorial"
+      "Angular",
+      "ReleaseNote"
     ],
     "example": {
-      "title": "oxc-project/javascript-parser-in-rust: Tutorial on writing a JavaScript Parser in Rust",
-      "url": "https://github.com/oxc-project/javascript-parser-in-rust"
-    },
-    "rssUrl": "https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"
+      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
+      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
+    }
   },
   {
     "count": 1,
