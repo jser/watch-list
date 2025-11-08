@@ -112,7 +112,6 @@
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
-<outline text="github.com/oxc-project/javascript-parser-in-rust" title="github.com/oxc-project/javascript-parser-in-rust" type="rss" xmlUrl="https://github.com/oxc-project/javascript-parser-in-rust/releases.atom"/>
 <outline text="github.com/vvo/iron-session" title="github.com/vvo/iron-session" type="rss" xmlUrl="https://github.com/vvo/iron-session/releases.atom"/>
 <outline text="github.com/css-hooks/css-hooks" title="github.com/css-hooks/css-hooks" type="rss" xmlUrl="https://github.com/css-hooks/css-hooks/releases.atom"/>
 <outline text="github.com/cosmiconfig/cosmiconfig" title="github.com/cosmiconfig/cosmiconfig" type="rss" xmlUrl="https://github.com/cosmiconfig/cosmiconfig/releases.atom"/>
