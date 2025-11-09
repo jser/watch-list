@@ -1419,21 +1419,6 @@
   },
   {
     "count": 2,
-    "url": "https://nodesource.com",
-    "tags": [
-      "nodejs",
-      "OpenSource",
-      "ReleaseNote",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "State of Node.js Performance 2024",
-      "url": "https://nodesource.com/blog/State-of-Nodejs-Performance-2024"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/mochajs/mocha",
     "tags": [
       "mocha",
@@ -6015,6 +6000,19 @@
       "url": "https://github.com/reduxjs/react-redux/releases/tag/v9.2.0"
     },
     "rssUrl": "https://github.com/reduxjs/react-redux/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://nodesource.com",
+    "tags": [
+      "nodejs",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "State of Node.js Performance 2024",
+      "url": "https://nodesource.com/blog/State-of-Nodejs-Performance-2024"
+    }
   },
   {
     "count": 1,
