@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js v22 to v24",
-      "url": "https://nodejs.org/en/blog/migrations/v22-to-v24"
+      "title": "Node.js — Node.js v24.11.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.11.0"
     }
   },
   {
@@ -213,22 +213,6 @@
   },
   {
     "count": 11,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -261,6 +245,22 @@
     "example": {
       "title": "Nuxt 4.1 · Nuxt Blog",
       "url": "https://nuxt.com/blog/v4-1"
+    }
+  },
+  {
+    "count": 10,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
     }
   },
   {
@@ -484,6 +484,25 @@
   },
   {
     "count": 7,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "book",
+      "DOM",
+      "performance",
+      "article",
+      "React",
+      "css"
+    ],
+    "example": {
+      "title": "Perfectly Pointed Tooltips: A Foundation – Frontend Masters Blog",
+      "url": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-a-foundation/"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -528,25 +547,6 @@
     "example": {
       "title": "State of JavaScript 2025",
       "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "book",
-      "DOM",
-      "performance",
-      "article",
-      "React",
-      "css"
-    ],
-    "example": {
-      "title": "Introducing TanStack Start Middleware – Frontend Masters Blog",
-      "url": "https://frontendmasters.com/blog/introducing-tanstack-start-middleware/"
     }
   },
   {
@@ -2017,18 +2017,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.angular.io",
-    "tags": [
-      "Angular",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing Angular v17. Last month marked the 13th anniversary… | by Minko Gechev | Nov, 2023 | Angular Blog",
-      "url": "https://blog.angular.io/introducing-angular-v17-4d7033312e4b"
-    }
   },
   {
     "count": 1,
