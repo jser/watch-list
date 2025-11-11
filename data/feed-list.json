@@ -79,12 +79,6 @@
     ]
   },
   {
-    "url": "https://blog.angular.io",
-    "feeds": [
-      "https://blog.angular.io/feed"
-    ]
-  },
-  {
     "url": "https://blog.calm.com",
     "feeds": [
       "https://blog.calm.com/engineering?format=rss"
