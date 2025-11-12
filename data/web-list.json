@@ -260,6 +260,29 @@
   },
   {
     "count": 10,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "JavaScript",
+      "Conference",
+      "video",
+      "Next.js",
+      "nodejs",
+      "history",
+      "vite",
+      "Angular",
+      "React",
+      "slide",
+      "DOM",
+      "Native"
+    ],
+    "example": {
+      "title": "CascadiaJS 2025 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    },
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 10,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -331,29 +354,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.56.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "video",
-      "Next.js",
-      "nodejs",
-      "history",
-      "vite",
-      "Angular",
-      "React",
-      "slide",
-      "DOM",
-      "Native"
-    ],
-    "example": {
-      "title": "Why Is Everyone Talking About Lynx? The Architect’s Breakdown - YouTube",
-      "url": "https://www.youtube.com/watch?v=l2dByiwiQcM"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 9,
@@ -524,6 +524,27 @@
   },
   {
     "count": 7,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security"
+    ],
+    "example": {
+      "title": "npm security update: Classic token creation disabled and granular token changes - GitHub Changelog",
+      "url": "https://github.blog/changelog/2025-11-05-npm-security-update-classic-token-creation-disabled-and-granular-token-changes/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 7,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -571,27 +592,6 @@
       "title": "State of JavaScript 2025",
       "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
     }
-  },
-  {
-    "count": 6,
-    "url": "https://github.blog",
-    "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security"
-    ],
-    "example": {
-      "title": "Strengthening npm security: Important changes to authentication and token management - GitHub Changelog",
-      "url": "https://github.blog/changelog/2025-09-29-strengthening-npm-security-important-changes-to-authentication-and-token-management/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 6,
@@ -904,6 +904,23 @@
       "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301"
     },
     "rssUrl": "https://blog.angular.dev/feed"
+  },
+  {
+    "count": 4,
+    "url": "https://www.debugbear.com",
+    "tags": [
+      "article",
+      "fonts",
+      "performance",
+      "Chrome",
+      "Vue",
+      "debug"
+    ],
+    "example": {
+      "title": "How To Throttle Specific Requests In Chrome DevTools | DebugBear",
+      "url": "https://www.debugbear.com/blog/chrome-devtools-throttle-individual-request"
+    },
+    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1311,22 +1328,6 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://www.debugbear.com",
-    "tags": [
-      "article",
-      "fonts",
-      "performance",
-      "Chrome",
-      "Vue"
-    ],
-    "example": {
-      "title": "How To Optimize Performance In Vue Apps | DebugBear",
-      "url": "https://www.debugbear.com/blog/optimize-vue-performance"
-    },
-    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1823,6 +1824,21 @@
       "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
     },
     "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/nodejs/node",
+    "tags": [
+      "nodejs",
+      "ReleaseNote",
+      "TypeScript",
+      "issue"
+    ],
+    "example": {
+      "title": "module: mark type stripping as stable by marco-ippolito · Pull Request #60600 · nodejs/node",
+      "url": "https://github.com/nodejs/node/pull/60600"
+    },
+    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 2,
@@ -4490,19 +4506,6 @@
       "url": "https://sansec.io/research/polyfill-supply-chain-attack"
     },
     "rssUrl": "https://sansec.io/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nodejs/node",
-    "tags": [
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 2024-07-02, Version 22.4.0 (Current), @targos · nodejs/node",
-      "url": "https://github.com/nodejs/node/releases/tag/v22.4.0"
-    },
-    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 1,

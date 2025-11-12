@@ -638,6 +638,12 @@
     ]
   },
   {
+    "url": "https://github.com/nodejs/node",
+    "feeds": [
+      "https://github.com/nodejs/node/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
@@ -953,12 +959,6 @@
     "url": "https://github.com/es-tooling/eslint-plugin-depend",
     "feeds": [
       "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/nodejs/node",
-    "feeds": [
-      "https://github.com/nodejs/node/releases.atom"
     ]
   },
   {

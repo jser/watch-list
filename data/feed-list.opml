@@ -107,6 +107,7 @@
 <outline text="github.com/biomejs/biome" title="github.com/biomejs/biome" type="rss" xmlUrl="https://github.com/biomejs/biome/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
+<outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
@@ -160,7 +161,6 @@
 <outline text="github.com/tinylibs/tinypool" title="github.com/tinylibs/tinypool" type="rss" xmlUrl="https://github.com/tinylibs/tinypool/releases.atom"/>
 <outline text="github.com/e18e/e18e" title="github.com/e18e/e18e" type="rss" xmlUrl="https://github.com/e18e/e18e/releases.atom"/>
 <outline text="github.com/es-tooling/eslint-plugin-depend" title="github.com/es-tooling/eslint-plugin-depend" type="rss" xmlUrl="https://github.com/es-tooling/eslint-plugin-depend/releases.atom"/>
-<outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
 <outline text="github.com/nodejs/loaders" title="github.com/nodejs/loaders" type="rss" xmlUrl="https://github.com/nodejs/loaders/releases.atom"/>
 <outline text="github.com/toss/es-toolkit?tab=readme-ov-file" title="github.com/toss/es-toolkit?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/mjackson/fetch-super-headers" title="github.com/mjackson/fetch-super-headers" type="rss" xmlUrl="https://github.com/mjackson/fetch-super-headers/releases.atom"/>
