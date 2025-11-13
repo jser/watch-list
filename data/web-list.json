@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 70,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js v24.11.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.11.0"
+      "title": "Node.js — Node.js v25.2.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v25.2.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -1988,6 +1988,21 @@
       "url": "https://github.com/chakra-ui/panda/discussions/3321"
     },
     "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://e18e.dev",
+    "tags": [
+      "performance",
+      "nodejs",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "tinyglobby: a success story in modernization and performance | e18e",
+      "url": "https://e18e.dev/blog/tinyglobby-migration.html"
+    },
+    "rssUrl": "https://e18e.dev/blog.rss"
   },
   {
     "count": 2,
@@ -6131,21 +6146,6 @@
   },
   {
     "count": 1,
-    "url": "https://e18e.dev",
-    "tags": [
-      "performance",
-      "nodejs",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "The journey so far | e18e",
-      "url": "https://e18e.dev/blog/journey-so-far.html"
-    },
-    "rssUrl": "https://e18e.dev/blog.rss"
-  },
-  {
-    "count": 1,
     "url": "https://adventar.org",
     "tags": [
       "JavaScript",
@@ -8214,5 +8214,31 @@
       "url": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals"
     },
     "rssUrl": "https://www.polarsignals.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
+    "tags": [
+      "JavaScript",
+      "editor",
+      "library"
+    ],
+    "example": {
+      "title": "stepwisehq/prosemirror-collab-commit: Commit-based collaborative editing plugin for ProseMirror",
+      "url": "https://github.com/stepwisehq/prosemirror-collab-commit"
+    },
+    "rssUrl": "https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.charpeni.com",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "Don't Blindly Use useTransition Everywhere | Nicolas Charpentier",
+      "url": "https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere"
+    }
   }
 ]

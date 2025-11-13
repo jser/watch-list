@@ -1700,6 +1700,12 @@
     ]
   },
   {
+    "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
+    "feeds": [
+      "https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",

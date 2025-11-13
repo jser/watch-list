@@ -284,6 +284,7 @@
 <outline text="github.com/tryandromeda/andromeda?tab=readme-ov-file" title="github.com/tryandromeda/andromeda?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/tryandromeda/andromeda?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/redwoodjs/graphql" title="github.com/redwoodjs/graphql" type="rss" xmlUrl="https://github.com/redwoodjs/graphql/releases.atom"/>
 <outline text="github.com/cedarjs/cedar" title="github.com/cedarjs/cedar" type="rss" xmlUrl="https://github.com/cedarjs/cedar/releases.atom"/>
+<outline text="github.com/stepwisehq/prosemirror-collab-commit" title="github.com/stepwisehq/prosemirror-collab-commit" type="rss" xmlUrl="https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
