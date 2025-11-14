@@ -30,6 +30,12 @@
     ]
   },
   {
+    "url": "https://alfy.blog",
+    "feeds": [
+      "https://alfy.blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://almanac.httparchive.org",
     "feeds": [
       "https://almanac.httparchive.org/en/rss.xml"
@@ -1703,6 +1709,12 @@
     "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
     "feeds": [
       "https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vadimdemedes/ink",
+    "feeds": [
+      "https://github.com/vadimdemedes/ink/releases.atom"
     ]
   },
   {
