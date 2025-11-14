@@ -30,6 +30,12 @@
     ]
   },
   {
+    "url": "https://alfy.blog",
+    "feeds": [
+      "https://alfy.blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://almanac.httparchive.org",
     "feeds": [
       "https://almanac.httparchive.org/en/rss.xml"

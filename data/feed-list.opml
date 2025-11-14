@@ -9,6 +9,7 @@
 <outline text="adventar.org" title="adventar.org" type="rss" xmlUrl="https://adventar.org/calendars/10555.rss"/>
 <outline text="ahastack.dev" title="ahastack.dev" type="rss" xmlUrl="https://ahastack.dev/rss.xml"/>
 <outline text="alexharri.com" title="alexharri.com" type="rss" xmlUrl="https://alexharri.com/rss.xml"/>
+<outline text="alfy.blog" title="alfy.blog" type="rss" xmlUrl="https://alfy.blog/feed.xml"/>
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
@@ -285,6 +286,7 @@
 <outline text="github.com/redwoodjs/graphql" title="github.com/redwoodjs/graphql" type="rss" xmlUrl="https://github.com/redwoodjs/graphql/releases.atom"/>
 <outline text="github.com/cedarjs/cedar" title="github.com/cedarjs/cedar" type="rss" xmlUrl="https://github.com/cedarjs/cedar/releases.atom"/>
 <outline text="github.com/stepwisehq/prosemirror-collab-commit" title="github.com/stepwisehq/prosemirror-collab-commit" type="rss" xmlUrl="https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"/>
+<outline text="github.com/vadimdemedes/ink" title="github.com/vadimdemedes/ink" type="rss" xmlUrl="https://github.com/vadimdemedes/ink/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

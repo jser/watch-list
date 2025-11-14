@@ -540,22 +540,6 @@
   },
   {
     "count": 6,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
-      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
@@ -603,6 +587,22 @@
     "example": {
       "title": "Default styles for h1 elements are changing | MDN Blog",
       "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://prettier.io",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "performance",
+      "article",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
+      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
     }
   },
   {
@@ -8009,6 +8009,35 @@
     "example": {
       "title": "Don't Blindly Use useTransition Everywhere | Nicolas Charpentier",
       "url": "https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vadimdemedes/ink",
+    "tags": [
+      "React",
+      "terminal",
+      "UI",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.5.0 · vadimdemedes/ink",
+      "url": "https://github.com/vadimdemedes/ink/releases/tag/v6.5.0"
+    },
+    "rssUrl": "https://github.com/vadimdemedes/ink/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://alfy.blog",
+    "tags": [
+      "URL",
+      "browser",
+      "article"
+    ],
+    "example": {
+      "title": "Your URL Is Your State",
+      "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
     }
   }
 ]
