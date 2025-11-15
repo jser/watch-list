@@ -1,6 +1,6 @@
 [
   {
-    "count": 70,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -2047,19 +2047,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://speedvitals.com",
-    "tags": [
-      "webservice",
-      "performance",
-      "Tools"
-    ],
-    "example": {
-      "title": "SpeedVitals - Website Speed Test & Monitoring",
-      "url": "https://speedvitals.com/"
-    }
   },
   {
     "count": 1,
