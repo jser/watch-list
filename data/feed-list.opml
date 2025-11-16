@@ -56,7 +56,6 @@
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
 <outline text="digital-agency-news.digital.go.jp" title="digital-agency-news.digital.go.jp" type="rss" xmlUrl="https://digital-agency-news.digital.go.jp/rss/articles.xml"/>
 <outline text="docs.timetime.in" title="docs.timetime.in" type="rss" xmlUrl="https://docs.timetime.in/blog/rss.xml"/>
-<outline text="dwango.github.io" title="dwango.github.io" type="rss" xmlUrl="https://dwango.github.io/index.xml"/>
 <outline text="dxcriteria.cto-a.org" title="dxcriteria.cto-a.org" type="rss" xmlUrl="https://dxcriteria.cto-a.org/feed.xml"/>
 <outline text="e18e.dev" title="e18e.dev" type="rss" xmlUrl="https://e18e.dev/blog.rss"/>
 <outline text="ecma-international.org" title="ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
@@ -97,7 +96,6 @@
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
@@ -146,6 +144,7 @@
 <outline text="github.com/edmundhung/conform" title="github.com/edmundhung/conform" type="rss" xmlUrl="https://github.com/edmundhung/conform/releases.atom"/>
 <outline text="github.com/devongovett/unplugin-parcel-macros" title="github.com/devongovett/unplugin-parcel-macros" type="rss" xmlUrl="https://github.com/devongovett/unplugin-parcel-macros/releases.atom"/>
 <outline text="github.com/guidepup/virtual-screen-reader" title="github.com/guidepup/virtual-screen-reader" type="rss" xmlUrl="https://github.com/guidepup/virtual-screen-reader/releases.atom"/>
+<outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/gulpjs/gulp" title="github.com/gulpjs/gulp" type="rss" xmlUrl="https://github.com/gulpjs/gulp/releases.atom"/>
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/sonic-technology/catena" title="github.com/sonic-technology/catena" type="rss" xmlUrl="https://github.com/sonic-technology/catena/releases.atom"/>

@@ -260,29 +260,6 @@
   },
   {
     "count": 10,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "video",
-      "Next.js",
-      "nodejs",
-      "history",
-      "vite",
-      "Angular",
-      "React",
-      "slide",
-      "DOM",
-      "Native"
-    ],
-    "example": {
-      "title": "CascadiaJS 2025 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
-    },
-    "rssUrl": "https://www.youtube.com/feed/subscriptions"
-  },
-  {
-    "count": 10,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -370,6 +347,29 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "Next.js",
+      "video",
+      "JavaScript",
+      "nodejs",
+      "history",
+      "Conference",
+      "vite",
+      "Angular",
+      "React",
+      "slide",
+      "DOM",
+      "Native"
+    ],
+    "example": {
+      "title": "CascadiaJS 2025 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    },
+    "rssUrl": "https://www.youtube.com/feed/subscriptions"
   },
   {
     "count": 9,
@@ -1420,24 +1420,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/mochajs/mocha",
-    "tags": [
-      "mocha",
-      "news",
-      "issue",
-      "nodejs",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.4.0 · mochajs/mocha",
-      "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
-    },
-    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://vitejs.dev",
     "tags": [
       "vite",
@@ -2125,34 +2107,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://phuoc.ng",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "WebPlatformAPI",
-      "tutorial"
-    ],
-    "example": {
-      "title": "HTML DOM — Phuoc Nguyen",
-      "url": "https://phuoc.ng/collection/html-dom/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://dwango.github.io",
-    "tags": [
-      "HTML",
-      "browser",
-      "article"
-    ],
-    "example": {
-      "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
-      "url": "https://dwango.github.io/articles/html-loading-attribute/"
-    },
-    "rssUrl": "https://dwango.github.io/index.xml"
   },
   {
     "count": 1,
@@ -3635,6 +3589,21 @@
       "url": "https://zenn.dev/inaniwaudon/articles/3ff8761773178c"
     },
     "rssUrl": "https://zenn.dev/inaniwaudon/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/mochajs/mocha",
+    "tags": [
+      "nodejs",
+      "test",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.4.0 · mochajs/mocha",
+      "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
+    },
+    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
   },
   {
     "count": 1,

@@ -326,12 +326,6 @@
     ]
   },
   {
-    "url": "https://dwango.github.io",
-    "feeds": [
-      "https://dwango.github.io/index.xml"
-    ]
-  },
-  {
     "url": "https://dxcriteria.cto-a.org",
     "feeds": [
       "https://dxcriteria.cto-a.org/feed.xml"
@@ -575,12 +569,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mochajs/mocha",
-    "feeds": [
-      "https://github.com/mochajs/mocha/releases.atom"
     ]
   },
   {
@@ -869,6 +857,12 @@
     "url": "https://github.com/guidepup/virtual-screen-reader",
     "feeds": [
       "https://github.com/guidepup/virtual-screen-reader/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/mochajs/mocha",
+    "feeds": [
+      "https://github.com/mochajs/mocha/releases.atom"
     ]
   },
   {

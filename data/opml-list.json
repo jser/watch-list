@@ -326,12 +326,6 @@
     ]
   },
   {
-    "url": "https://dwango.github.io",
-    "feeds": [
-      "https://dwango.github.io/index.xml"
-    ]
-  },
-  {
     "url": "https://dxcriteria.cto-a.org",
     "feeds": [
       "https://dxcriteria.cto-a.org/feed.xml"
