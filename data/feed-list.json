@@ -1846,12 +1846,6 @@
     ]
   },
   {
-    "url": "https://medium.com/miro-engineering/",
-    "feeds": [
-      "https://medium.com/feed/miro-engineering"
-    ]
-  },
-  {
     "url": "https://medium.com/flow-type/",
     "feeds": [
       "https://medium.com/feed/flow-type"
@@ -2061,13 +2055,6 @@
     "url": "https://rspack.rs",
     "feeds": [
       "https://rspack.rs/rss/blog-rss.xml"
-    ]
-  },
-  {
-    "url": "https://rviscomi.dev",
-    "feeds": [
-      "https://rviscomi.dev/feed/",
-      "https://rviscomi.dev/comments/feed/"
     ]
   },
   {

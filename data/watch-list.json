@@ -20,7 +20,7 @@
     }
   },
   {
-    "count": 38,
+    "count": 37,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -1366,18 +1366,6 @@
   },
   {
     "count": 2,
-    "url": "https://vitejs.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 5.1 is out! | Vite",
-      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://speakerdeck.com/sajikix/",
     "tags": [
       "i18n",
@@ -2029,45 +2017,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://medium.com/miro-engineering/",
-    "tags": [
-      "browser",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "The end of third-party cookies and its impact on Miro apps and integrations | by Darren | Miro Engineering | Nov, 2023 | Medium",
-      "url": "https://medium.com/miro-engineering/the-end-of-third-party-cookies-and-its-impact-on-miro-apps-and-integrations-ee73358cda1e"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://rviscomi.dev",
-    "tags": [
-      "Chrome",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "A faster web in 2024 - rviscomi.dev",
-      "url": "https://rviscomi.dev/2023/11/a-faster-web-in-2024/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://daily.dev",
-    "tags": [
-      "React",
-      "article",
-      "refactoring"
-    ],
-    "example": {
-      "title": "Moving back to React",
-      "url": "https://daily.dev/blog/moving-back-to-react"
-    }
   },
   {
     "count": 1,
@@ -2848,6 +2797,18 @@
     "example": {
       "title": "Announcing Rsbuild v0.4 - Rsbuild",
       "url": "https://deploy-preview-1520--rsbuild.netlify.app/community/releases/v0-4"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://vitejs.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vite 5.1 is out! | Vite",
+      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
     }
   },
   {
