@@ -67,6 +67,12 @@
     ]
   },
   {
+    "url": "https://benhowdle.im",
+    "feeds": [
+      "https://benhowdle.im/feed.xml"
+    ]
+  },
+  {
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"

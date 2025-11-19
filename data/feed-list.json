@@ -67,6 +67,12 @@
     ]
   },
   {
+    "url": "https://benhowdle.im",
+    "feeds": [
+      "https://benhowdle.im/feed.xml"
+    ]
+  },
+  {
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"
@@ -458,6 +464,12 @@
     ]
   },
   {
+    "url": "https://github.com/webpack/webpack",
+    "feeds": [
+      "https://github.com/webpack/webpack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -467,12 +479,6 @@
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webpack/webpack",
-    "feeds": [
-      "https://github.com/webpack/webpack/releases.atom"
     ]
   },
   {

@@ -21,7 +21,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 37,
+    "count": 36,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -578,6 +578,20 @@
   },
   {
     "count": 6,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v5.103.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 6,
     "url": "https://stylexjs.com",
     "tags": [
       "css ",
@@ -663,20 +677,6 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v5.102.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.102.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 5,
@@ -6388,7 +6388,8 @@
     "example": {
       "title": "Migrating 160,000 Lines of Production Banking JavaScript to TypeScript with Zero Downtime - Ben Howdle - Software Consultant & Advisor",
       "url": "https://benhowdle.im/migrating-js-to-ts-zero-downtime.html"
-    }
+    },
+    "rssUrl": "https://benhowdle.im/feed.xml"
   },
   {
     "count": 1,
