@@ -2583,12 +2583,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/yumemi_inc/",
-    "feeds": [
-      "https://zenn.dev/p/yumemi_inc/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/morinokami/",
     "feeds": [
       "https://zenn.dev/morinokami/feed"
@@ -2616,6 +2610,12 @@
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yumemi_inc/",
+    "feeds": [
+      "https://zenn.dev/p/yumemi_inc/feed"
     ]
   },
   {

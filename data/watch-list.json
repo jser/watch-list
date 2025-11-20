@@ -929,22 +929,6 @@
   },
   {
     "count": 3,
-    "url": "https://zenn.dev/yumemi_inc/",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "CSS",
-      "Conference",
-      "video",
-      "slide"
-    ],
-    "example": {
-      "title": "JSConf JP 2024 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "JavaScript",
@@ -1766,6 +1750,19 @@
     "example": {
       "title": "tsx と Node.js Type Stripping の違い - mizdra's blog",
       "url": "https://www.mizdra.net/entry/2025/08/28/122040"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/yumemi_inc/",
+    "tags": [
+      "Conference",
+      "slide",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "JSConf JP 2024 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
     }
   },
   {
