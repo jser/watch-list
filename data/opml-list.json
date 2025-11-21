@@ -825,13 +825,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/sajikix/",
-    "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/brn/",
     "feeds": [
       "https://speakerdeck.com/brn.atom",
@@ -850,6 +843,13 @@
     "feeds": [
       "https://speakerdeck.com/exoego.atom",
       "https://speakerdeck.com/exoego.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/sajikix/",
+    "feeds": [
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {

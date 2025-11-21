@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/vvo/iron-session",
-    "feeds": [
-      "https://github.com/vvo/iron-session/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/css-hooks/css-hooks",
     "feeds": [
       "https://github.com/css-hooks/css-hooks/releases.atom"
@@ -2115,13 +2109,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/sajikix/",
-    "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/brn/",
     "feeds": [
       "https://speakerdeck.com/brn.atom",
@@ -2140,6 +2127,13 @@
     "feeds": [
       "https://speakerdeck.com/exoego.atom",
       "https://speakerdeck.com/exoego.rss"
+    ]
+  },
+  {
+    "url": "https://speakerdeck.com/sajikix/",
+    "feeds": [
+      "https://speakerdeck.com/sajikix.atom",
+      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {

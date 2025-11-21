@@ -75,7 +75,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -1403,21 +1403,6 @@
   },
   {
     "count": 2,
-    "url": "https://speakerdeck.com/sajikix/",
-    "tags": [
-      "i18n",
-      "JavaScript",
-      "ECMAScript",
-      "slide"
-    ],
-    "example": {
-      "title": "Temporalを取り巻く仕様を整理する - Speaker Deck",
-      "url": "https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru"
-    },
-    "rssUrl": "https://speakerdeck.com/sajikix.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/esm-dev/esm.sh",
     "tags": [
       "JavaScript",
@@ -2091,21 +2076,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vvo/iron-session",
-    "tags": [
-      "JavaScript",
-      "Next.js",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 8.0.0 · vvo/iron-session",
-      "url": "https://github.com/vvo/iron-session/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/vvo/iron-session/releases.atom"
   },
   {
     "count": 1,
@@ -4650,6 +4620,20 @@
       "title": "State of React 2023",
       "url": "https://2023.stateofreact.com/en-US"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/sajikix/",
+    "tags": [
+      "ECMAScript",
+      "i18n",
+      "slide"
+    ],
+    "example": {
+      "title": "Temporalを取り巻く仕様を整理する - Speaker Deck",
+      "url": "https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru"
+    },
+    "rssUrl": "https://speakerdeck.com/sajikix.atom"
   },
   {
     "count": 1,
