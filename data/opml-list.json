@@ -325,6 +325,12 @@
     ]
   },
   {
+    "url": "https://dlhck.com",
+    "feeds": [
+      "https://dlhck.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://docs.timetime.in",
     "feeds": [
       "https://docs.timetime.in/blog/rss.xml",

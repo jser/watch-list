@@ -115,18 +115,6 @@
   },
   {
     "count": 19,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 19,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -165,6 +153,18 @@
       "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 18,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 14,
@@ -7634,7 +7634,8 @@
     "example": {
       "title": "The Complete Guide to Self-Hosting Next.js at Scale — @dlhck",
       "url": "https://dlhck.com/thoughts/the-complete-guide-to-self-hosting-nextjs-at-scale"
-    }
+    },
+    "rssUrl": "https://dlhck.com/rss.xml"
   },
   {
     "count": 1,
