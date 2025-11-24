@@ -168,6 +168,7 @@
 <outline text="vite.dev" title="vite.dev" type="rss" xmlUrl="https://vite.dev/blog.rss"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="voidzero.dev" title="voidzero.dev" type="rss" xmlUrl="https://voidzero.dev/feed.xml"/>
+<outline text="web-fragments.dev" title="web-fragments.dev" type="rss" xmlUrl="https://web-fragments.dev/rss.xml"/>
 <outline text="web-platform-dx.github.io" title="web-platform-dx.github.io" type="rss" xmlUrl="https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"/>
 <outline text="web.dev" title="web.dev" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml"/>
 <outline text="webassembly.org" title="webassembly.org" type="rss" xmlUrl="https://webassembly.org/feed.xml"/>

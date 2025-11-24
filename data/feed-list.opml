@@ -287,6 +287,7 @@
 <outline text="github.com/cedarjs/cedar" title="github.com/cedarjs/cedar" type="rss" xmlUrl="https://github.com/cedarjs/cedar/releases.atom"/>
 <outline text="github.com/stepwisehq/prosemirror-collab-commit" title="github.com/stepwisehq/prosemirror-collab-commit" type="rss" xmlUrl="https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"/>
 <outline text="github.com/vadimdemedes/ink" title="github.com/vadimdemedes/ink" type="rss" xmlUrl="https://github.com/vadimdemedes/ink/releases.atom"/>
+<outline text="github.com/immerjs/immer" title="github.com/immerjs/immer" type="rss" xmlUrl="https://github.com/immerjs/immer/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -382,6 +383,7 @@
 <outline text="vite.dev" title="vite.dev" type="rss" xmlUrl="https://vite.dev/blog.rss"/>
 <outline text="vitejs.dev" title="vitejs.dev" type="rss" xmlUrl="https://vitejs.dev/blog.rss"/>
 <outline text="voidzero.dev" title="voidzero.dev" type="rss" xmlUrl="https://voidzero.dev/feed.xml"/>
+<outline text="web-fragments.dev" title="web-fragments.dev" type="rss" xmlUrl="https://web-fragments.dev/rss.xml"/>
 <outline text="web-platform-dx.github.io" title="web-platform-dx.github.io" type="rss" xmlUrl="https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"/>
 <outline text="web.dev" title="web.dev" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml"/>
 <outline text="webassembly.org" title="webassembly.org" type="rss" xmlUrl="https://webassembly.org/feed.xml"/>

@@ -585,6 +585,20 @@
     }
   },
   {
+    "count": 6,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance"
+    ],
+    "example": {
+      "title": "Bun v1.3.3 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.3"
+    }
+  },
+  {
     "count": 5,
     "url": "https://developer.mozilla.org",
     "tags": [
@@ -714,20 +728,6 @@
     "example": {
       "title": "Rspack joins the Next.js ecosystem - Rspack",
       "url": "https://rspack.dev/blog/rspack-next-partner"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Bun v1.3.1 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.1"
     }
   },
   {
@@ -7937,6 +7937,45 @@
     "example": {
       "title": "Your URL Is Your State",
       "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/immerjs/immer",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v11.0.0 · immerjs/immer",
+      "url": "https://github.com/immerjs/immer/releases/tag/v11.0.0"
+    },
+    "rssUrl": "https://github.com/immerjs/immer/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://web-fragments.dev",
+    "tags": [
+      "MicroFrontend",
+      "library"
+    ],
+    "example": {
+      "title": "Web Fragments - A radically new way to do micro-frontends.",
+      "url": "https://web-fragments.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.styleframe.dev",
+    "tags": [
+      "TypeScript",
+      "css",
+      "library"
+    ],
+    "example": {
+      "title": "Type-safe Composable CSS - styleframe",
+      "url": "https://www.styleframe.dev/"
     }
   }
 ]

@@ -1050,6 +1050,12 @@
     ]
   },
   {
+    "url": "https://web-fragments.dev",
+    "feeds": [
+      "https://web-fragments.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://web-platform-dx.github.io",
     "feeds": [
       "https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"
