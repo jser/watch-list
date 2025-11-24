@@ -1718,6 +1718,12 @@
     ]
   },
   {
+    "url": "https://github.com/immerjs/immer",
+    "feeds": [
+      "https://github.com/immerjs/immer/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2331,6 +2337,12 @@
     "url": "https://voidzero.dev",
     "feeds": [
       "https://voidzero.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://web-fragments.dev",
+    "feeds": [
+      "https://web-fragments.dev/rss.xml"
     ]
   },
   {
