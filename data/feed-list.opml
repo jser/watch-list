@@ -72,6 +72,7 @@
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
 <outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
+<outline text="fumadocs.dev" title="fumadocs.dev" type="rss" xmlUrl="https://fumadocs.dev/blog/rss.xml"/>
 <outline text="gist.github.com/azu" title="gist.github.com/azu" type="rss" xmlUrl="https://gist.github.com/azu.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
@@ -85,6 +86,7 @@
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
+<outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
@@ -92,7 +94,6 @@
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
-<outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
@@ -288,6 +289,9 @@
 <outline text="github.com/stepwisehq/prosemirror-collab-commit" title="github.com/stepwisehq/prosemirror-collab-commit" type="rss" xmlUrl="https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"/>
 <outline text="github.com/vadimdemedes/ink" title="github.com/vadimdemedes/ink" type="rss" xmlUrl="https://github.com/vadimdemedes/ink/releases.atom"/>
 <outline text="github.com/immerjs/immer" title="github.com/immerjs/immer" type="rss" xmlUrl="https://github.com/immerjs/immer/releases.atom"/>
+<outline text="github.com/arktypeio/arktype" title="github.com/arktypeio/arktype" type="rss" xmlUrl="https://github.com/arktypeio/arktype/releases.atom"/>
+<outline text="github.com/tmikov/imgui-react-runtime" title="github.com/tmikov/imgui-react-runtime" type="rss" xmlUrl="https://github.com/tmikov/imgui-react-runtime/releases.atom"/>
+<outline text="github.com/3ru/eslint-plugin-baseline-js" title="github.com/3ru/eslint-plugin-baseline-js" type="rss" xmlUrl="https://github.com/3ru/eslint-plugin-baseline-js/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -333,6 +337,7 @@
 <outline text="playfulprogramming.com" title="playfulprogramming.com" type="rss" xmlUrl="https://playfulprogramming.com/atom.xml"/>
 <outline text="postd.cc" title="postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
+<outline text="product.hubspot.com" title="product.hubspot.com" type="rss" xmlUrl="https://product.hubspot.com/blog/rss.xml"/>
 <outline text="product.st.inc" title="product.st.inc" type="rss" xmlUrl="https://product.st.inc/feed"/>
 <outline text="quick-lint-js.com" title="quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>

@@ -40,15 +40,15 @@
     }
   },
   {
-    "count": 22,
+    "count": 23,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.17 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.17.0"
+      "title": "Release pnpm 11 Alpha 0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -703,6 +703,19 @@
   },
   {
     "count": 5,
+    "url": "https://blog.angular.dev",
+    "tags": [
+      "Angular",
+      "ReleaseNote",
+      "article"
+    ],
+    "example": {
+      "title": "Announcing Angular v21. Authors: Jens Kuehlers, Mark “Techson”… | by Angular | Nov, 2025 | Angular Blog",
+      "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -809,6 +822,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "prisma",
+      "ReleaseNote",
+      "MySQL",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/google/zx",
     "tags": [
       "JavaScript",
@@ -859,19 +887,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.angular.dev",
-    "tags": [
-      "Angular",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Announcing Angular v20. The past couple of years have been… | by Minko Gechev | May, 2025 | Angular Blog",
-      "url": "https://blog.angular.dev/announcing-angular-v20-b5c9c06cf301"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://www.debugbear.com",
     "tags": [
       "article",
@@ -914,6 +929,20 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://blog.vlt.sh",
+    "tags": [
+      "npm",
+      "article",
+      "JavaScript",
+      "vlt"
+    ],
+    "example": {
+      "title": "Introducing Phased Package Installations",
+      "url": "https://blog.vlt.sh/blog/vlt-build"
+    }
   },
   {
     "count": 4,
@@ -1082,21 +1111,6 @@
       "title": "Sovereign Tech Agency Invests in Lodash’s Next Chapter in Open Source | OpenJS Foundation",
       "url": "https://openjsf.org/blog/sta-supports-lodash"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "prisma",
-      "ReleaseNote",
-      "MySQL",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Release 6.0.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/6.0.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 3,
@@ -1276,20 +1290,6 @@
       "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
     },
     "rssUrl": "https://github.com/nrwl/nx/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://blog.vlt.sh",
-    "tags": [
-      "npm",
-      "article",
-      "JavaScript",
-      "vlt"
-    ],
-    "example": {
-      "title": "Centralized Dependency Management Made Simple",
-      "url": "https://blog.vlt.sh/blog/catalogs"
-    }
   },
   {
     "count": 3,
@@ -2000,19 +2000,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://majors.nullvoxpopuli.com",
-    "tags": [
-      "npm",
-      "webservice",
-      "Tools"
-    ],
-    "example": {
-      "title": "Downloads by Major",
-      "url": "https://majors.nullvoxpopuli.com/"
-    }
   },
   {
     "count": 1,
@@ -7976,6 +7963,76 @@
     "example": {
       "title": "Type-safe Composable CSS - styleframe",
       "url": "https://www.styleframe.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/arktypeio/arktype",
+    "tags": [
+      "TypeScript",
+      "testing",
+      "benchmark",
+      "library"
+    ],
+    "example": {
+      "title": "arktype/ark/attest at main · arktypeio/arktype",
+      "url": "https://github.com/arktypeio/arktype/tree/main/ark/attest"
+    },
+    "rssUrl": "https://github.com/arktypeio/arktype/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tmikov/imgui-react-runtime",
+    "tags": [
+      "React",
+      "Native",
+      "Tools"
+    ],
+    "example": {
+      "title": "tmikov/imgui-react-runtime: React + Dear ImGui + Static Hermes",
+      "url": "https://github.com/tmikov/imgui-react-runtime"
+    },
+    "rssUrl": "https://github.com/tmikov/imgui-react-runtime/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/3ru/eslint-plugin-baseline-js",
+    "tags": [
+      "ESLint",
+      "plugin",
+      "library"
+    ],
+    "example": {
+      "title": "3ru/eslint-plugin-baseline-js: ✅ ESLint plugin to enforce the JavaScript Baseline.",
+      "url": "https://github.com/3ru/eslint-plugin-baseline-js"
+    },
+    "rssUrl": "https://github.com/3ru/eslint-plugin-baseline-js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://fumadocs.dev",
+    "tags": [
+      "React",
+      "document",
+      "library"
+    ],
+    "example": {
+      "title": "Fumadocs",
+      "url": "https://fumadocs.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://product.hubspot.com",
+    "tags": [
+      "JavaScript",
+      "React",
+      "refactoring",
+      "article"
+    ],
+    "example": {
+      "title": "Moving Mountains: How We Migrated from Enzyme to React Testing Library",
+      "url": "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
     }
   }
 ]

@@ -72,6 +72,7 @@
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
 <outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
+<outline text="fumadocs.dev" title="fumadocs.dev" type="rss" xmlUrl="https://fumadocs.dev/blog/rss.xml"/>
 <outline text="gist.github.com/azu" title="gist.github.com/azu" type="rss" xmlUrl="https://gist.github.com/azu.atom"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
@@ -119,6 +120,7 @@
 <outline text="playfulprogramming.com" title="playfulprogramming.com" type="rss" xmlUrl="https://playfulprogramming.com/atom.xml"/>
 <outline text="postd.cc" title="postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
+<outline text="product.hubspot.com" title="product.hubspot.com" type="rss" xmlUrl="https://product.hubspot.com/blog/rss.xml"/>
 <outline text="product.st.inc" title="product.st.inc" type="rss" xmlUrl="https://product.st.inc/feed"/>
 <outline text="quick-lint-js.com" title="quick-lint-js.com" type="rss" xmlUrl="https://quick-lint-js.com/blog/feed.xml"/>
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
