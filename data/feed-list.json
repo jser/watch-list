@@ -427,6 +427,12 @@
     ]
   },
   {
+    "url": "https://fumadocs.dev",
+    "feeds": [
+      "https://fumadocs.dev/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://gist.github.com/azu",
     "feeds": [
       "https://gist.github.com/azu.atom"
@@ -506,6 +512,12 @@
     ]
   },
   {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
@@ -545,12 +557,6 @@
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
     ]
   },
   {
@@ -1724,6 +1730,24 @@
     ]
   },
   {
+    "url": "https://github.com/arktypeio/arktype",
+    "feeds": [
+      "https://github.com/arktypeio/arktype/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tmikov/imgui-react-runtime",
+    "feeds": [
+      "https://github.com/tmikov/imgui-react-runtime/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/3ru/eslint-plugin-baseline-js",
+    "feeds": [
+      "https://github.com/3ru/eslint-plugin-baseline-js/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2011,6 +2035,12 @@
     "feeds": [
       "https://prettier.io/blog/atom.xml",
       "https://prettier.io/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://product.hubspot.com",
+    "feeds": [
+      "https://product.hubspot.com/blog/rss.xml"
     ]
   },
   {

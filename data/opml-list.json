@@ -427,6 +427,12 @@
     ]
   },
   {
+    "url": "https://fumadocs.dev",
+    "feeds": [
+      "https://fumadocs.dev/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://gist.github.com/azu",
     "feeds": [
       "https://gist.github.com/azu.atom"
@@ -727,6 +733,12 @@
     "feeds": [
       "https://prettier.io/blog/atom.xml",
       "https://prettier.io/blog/feed.xml"
+    ]
+  },
+  {
+    "url": "https://product.hubspot.com",
+    "feeds": [
+      "https://product.hubspot.com/blog/rss.xml"
     ]
   },
   {
