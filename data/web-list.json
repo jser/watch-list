@@ -259,6 +259,19 @@
     "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
+    "count": 11,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.57.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.57.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
     "count": 10,
     "url": "https://astro.build",
     "tags": [
@@ -318,19 +331,6 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 10,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.56.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.56.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 9,
