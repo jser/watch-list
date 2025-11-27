@@ -91,7 +91,6 @@
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
-<outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
@@ -99,7 +98,6 @@
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
 <outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
@@ -113,6 +111,7 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
+<outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/css-hooks/css-hooks" title="github.com/css-hooks/css-hooks" type="rss" xmlUrl="https://github.com/css-hooks/css-hooks/releases.atom"/>
 <outline text="github.com/cosmiconfig/cosmiconfig" title="github.com/cosmiconfig/cosmiconfig" type="rss" xmlUrl="https://github.com/cosmiconfig/cosmiconfig/releases.atom"/>
@@ -213,6 +212,7 @@
 <outline text="github.com/open-source-labs/Reactime" title="github.com/open-source-labs/Reactime" type="rss" xmlUrl="https://github.com/open-source-labs/Reactime/releases.atom"/>
 <outline text="github.com/Automattic/node-canvas" title="github.com/Automattic/node-canvas" type="rss" xmlUrl="https://github.com/Automattic/node-canvas/releases.atom"/>
 <outline text="github.com/standard-schema/standard-schema" title="github.com/standard-schema/standard-schema" type="rss" xmlUrl="https://github.com/standard-schema/standard-schema/releases.atom"/>
+<outline text="github.com/esm-dev/esm.sh" title="github.com/esm-dev/esm.sh" type="rss" xmlUrl="https://github.com/esm-dev/esm.sh/releases.atom"/>
 <outline text="github.com/desko27/react-call" title="github.com/desko27/react-call" type="rss" xmlUrl="https://github.com/desko27/react-call/releases.atom"/>
 <outline text="github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file" title="github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/ircam-ismm/node-web-audio-api?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/irsyadadl/justd" title="github.com/irsyadadl/justd" type="rss" xmlUrl="https://github.com/irsyadadl/justd/releases.atom"/>

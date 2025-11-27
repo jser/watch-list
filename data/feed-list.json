@@ -542,12 +542,6 @@
     ]
   },
   {
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "feeds": [
-      "https://github.com/lerna-lite/lerna-lite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
@@ -587,12 +581,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/esm-dev/esm.sh",
-    "feeds": [
-      "https://github.com/esm-dev/esm.sh/releases.atom"
     ]
   },
   {
@@ -671,6 +659,12 @@
     "url": "https://github.com/chakra-ui/panda",
     "feeds": [
       "https://github.com/chakra-ui/panda/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "feeds": [
+      "https://github.com/lerna-lite/lerna-lite/releases.atom"
     ]
   },
   {
@@ -1271,6 +1265,12 @@
     "url": "https://github.com/standard-schema/standard-schema",
     "feeds": [
       "https://github.com/standard-schema/standard-schema/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/esm-dev/esm.sh",
+    "feeds": [
+      "https://github.com/esm-dev/esm.sh/releases.atom"
     ]
   },
   {
