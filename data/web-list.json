@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -563,21 +563,6 @@
   },
   {
     "count": 6,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "JavaScript",
-      "Survey",
-      "css ",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "State of JavaScript 2025",
-      "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -622,26 +607,6 @@
       "url": "https://bun.com/blog/bun-v1.3.3"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "CSS",
-      "article",
-      "browser",
-      "HTML",
-      "JavaScript",
-      "tutorial",
-      "accessibility",
-      "ECMAScript",
-      "css"
-    ],
-    "example": {
-      "title": "Default styles for h1 elements are changing | MDN Blog",
-      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
-    },
-    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 5,
@@ -774,6 +739,41 @@
       "url": "https://rspack.dev/blog/rspack-next-partner"
     },
     "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "css ",
+      "Survey",
+      "JavaScript",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "State of JavaScript 2025",
+      "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "article",
+      "browser",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "tutorial",
+      "accessibility",
+      "ECMAScript",
+      "css"
+    ],
+    "example": {
+      "title": "Default styles for h1 elements are changing | MDN Blog",
+      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 4,
@@ -993,23 +993,6 @@
       "url": "https://rspack.rs/blog/announcing-1-6"
     },
     "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "tags": [
-      "JavaScript",
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "npm",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · lerna-lite/lerna-lite",
-      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 3,
@@ -1400,21 +1383,6 @@
       "title": "Firefox 144.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/144.0/releasenotes/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/esm-dev/esm.sh",
-    "tags": [
-      "JavaScript",
-      "cdn",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v136 · esm-dev/esm.sh",
-      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
-    },
-    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
   },
   {
     "count": 2,
@@ -1942,6 +1910,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "tags": [
+      "npm",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · lerna-lite/lerna-lite",
+      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://e18e.dev",
     "tags": [
       "performance",
@@ -2076,21 +2060,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://thevalleyofcode.com",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "HTTP",
-      "tutorial",
-      "HTML"
-    ],
-    "example": {
-      "title": "The Valley of Code",
-      "url": "https://thevalleyofcode.com/"
-    }
   },
   {
     "count": 1,
@@ -6083,6 +6052,20 @@
       "url": "https://github.com/standard-schema/standard-schema"
     },
     "rssUrl": "https://github.com/standard-schema/standard-schema/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/esm-dev/esm.sh",
+    "tags": [
+      "JavaScript",
+      "cdn",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v136 · esm-dev/esm.sh",
+      "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
+    },
+    "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
   },
   {
     "count": 1,
