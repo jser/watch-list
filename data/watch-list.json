@@ -379,22 +379,6 @@
   },
   {
     "count": 8,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "biome"
-    ],
-    "example": {
-      "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-3/"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -461,6 +445,22 @@
     "example": {
       "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "Rust",
+      "biome"
+    ],
+    "example": {
+      "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-3/"
     }
   },
   {
