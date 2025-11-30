@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -262,22 +262,6 @@
   },
   {
     "count": 10,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -318,6 +302,22 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
+    }
   },
   {
     "count": 9,
@@ -1969,20 +1969,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cosmiconfig/cosmiconfig",
-    "tags": [
-      "nodejs",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.0.0 · cosmiconfig/cosmiconfig",
-      "url": "https://github.com/cosmiconfig/cosmiconfig/releases/v9.0.0"
-    },
-    "rssUrl": "https://github.com/cosmiconfig/cosmiconfig/releases.atom"
   },
   {
     "count": 1,

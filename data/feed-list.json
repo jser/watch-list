@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/cosmiconfig/cosmiconfig",
-    "feeds": [
-      "https://github.com/cosmiconfig/cosmiconfig/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/architect/aws-lite",
     "feeds": [
       "https://github.com/architect/aws-lite/releases.atom"
