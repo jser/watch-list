@@ -2048,32 +2048,6 @@
   },
   {
     "count": 1,
-    "url": "https://nodedownloads.nodeland.dev",
-    "tags": [
-      "nodejs",
-      "webservice"
-    ],
-    "example": {
-      "title": "Node.js Downloads",
-      "url": "https://nodedownloads.nodeland.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/architect/aws-lite",
-    "tags": [
-      "aws",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "architect/aws-lite: A simple, fast, extensible AWS client",
-      "url": "https://github.com/architect/aws-lite"
-    },
-    "rssUrl": "https://github.com/architect/aws-lite/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://learning.oreilly.com",
     "tags": [
       "React",
