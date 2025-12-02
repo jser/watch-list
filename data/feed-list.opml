@@ -112,7 +112,6 @@
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
-<outline text="github.com/tapjs/tsimp" title="github.com/tapjs/tsimp" type="rss" xmlUrl="https://github.com/tapjs/tsimp/releases.atom"/>
 <outline text="github.com/unjs/unenv" title="github.com/unjs/unenv" type="rss" xmlUrl="https://github.com/unjs/unenv/releases.atom"/>
 <outline text="github.com/reduxjs/redux" title="github.com/reduxjs/redux" type="rss" xmlUrl="https://github.com/reduxjs/redux/releases.atom"/>
 <outline text="github.com/avajs/ava" title="github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>

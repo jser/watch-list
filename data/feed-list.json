@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/tapjs/tsimp",
-    "feeds": [
-      "https://github.com/tapjs/tsimp/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/unjs/unenv",
     "feeds": [
       "https://github.com/unjs/unenv/releases.atom"

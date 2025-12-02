@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -115,27 +115,6 @@
   },
   {
     "count": 19,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "library",
-      "ReleaseNote",
-      "dneo",
-      "JavaScript",
-      "npm",
-      "article",
-      "browser",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.5: Permissions in the config file | Deno",
-      "url": "https://deno.com/blog/v2.5"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 19,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -153,6 +132,26 @@
       "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 18,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "dneo",
+      "JavaScript",
+      "npm",
+      "article",
+      "browser",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.5: Permissions in the config file | Deno",
+      "url": "https://deno.com/blog/v2.5"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 18,
@@ -426,28 +425,6 @@
   },
   {
     "count": 7,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "Development",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "React",
-      "article",
-      "JavaScript",
-      "Design",
-      "storybook",
-      "UI",
-      "test"
-    ],
-    "example": {
-      "title": "Storybook 9",
-      "url": "https://storybook.js.org/blog/storybook-9/"
-    },
-    "rssUrl": "https://storybook.js.org/blog/rss/"
-  },
-  {
-    "count": 7,
     "url": "https://tailwindcss.com",
     "tags": [
       "CSS",
@@ -563,6 +540,27 @@
   },
   {
     "count": 6,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "React",
+      "debug",
+      "article",
+      "JavaScript",
+      "Design",
+      "Tools",
+      "ReleaseNote",
+      "storybook",
+      "UI",
+      "test"
+    ],
+    "example": {
+      "title": "Storybook 9",
+      "url": "https://storybook.js.org/blog/storybook-9/"
+    },
+    "rssUrl": "https://storybook.js.org/blog/rss/"
+  },
+  {
+    "count": 6,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -607,23 +605,6 @@
       "url": "https://bun.com/blog/bun-v1.3.3"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://prettier.io",
-    "tags": [
-      "nodejs",
-      "JavaScript",
-      "performance",
-      "article",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
-      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 5,
@@ -805,6 +786,20 @@
       "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
     },
     "rssUrl": "https://www.rspack.dev/rss/blog-en.rss"
+  },
+  {
+    "count": 4,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
+      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 4,
@@ -993,21 +988,6 @@
       "url": "https://rspack.rs/blog/announcing-1-6"
     },
     "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://www.mitsue.co.jp",
-    "tags": [
-      "CSS",
-      "article",
-      "browser",
-      "WebPlatformAPI"
-    ],
-    "example": {
-      "title": "Interop 2025がスタート | フロントエンドBlog | ミツエーリンクス",
-      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html"
-    },
-    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
   },
   {
     "count": 3,
@@ -1503,6 +1483,20 @@
       "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
     },
     "rssUrl": "https://azukiazusa.dev/rss.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://www.mitsue.co.jp",
+    "tags": [
+      "browser",
+      "WebPlatformAPI",
+      "article"
+    ],
+    "example": {
+      "title": "Interop 2025がスタート | フロントエンドBlog | ミツエーリンクス",
+      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html"
+    },
+    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
   },
   {
     "count": 2,
@@ -2045,32 +2039,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://learning.oreilly.com",
-    "tags": [
-      "React",
-      "book"
-    ],
-    "example": {
-      "title": "Fluent React",
-      "url": "https://learning.oreilly.com/library/view/fluent-react/9781098138707/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tapjs/tsimp",
-    "tags": [
-      "TypeScript",
-      "nodejs",
-      "library"
-    ],
-    "example": {
-      "title": "tapjs/tsimp",
-      "url": "https://github.com/tapjs/tsimp"
-    },
-    "rssUrl": "https://github.com/tapjs/tsimp/releases.atom"
   },
   {
     "count": 1,
