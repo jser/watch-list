@@ -159,7 +159,7 @@
     }
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://web.dev",
     "tags": [
       "performance",
@@ -178,8 +178,8 @@
       "JSON"
     ],
     "example": {
-      "title": "Browserslist now supports Baseline  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/browserslist-supports-baseline?hl=en"
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
     }
   },
   {
@@ -517,6 +517,21 @@
     }
   },
   {
+    "count": 7,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun is joining Anthropic | Bun Blog",
+      "url": "https://bun.com/blog/bun-joins-anthropic"
+    }
+  },
+  {
     "count": 6,
     "url": "https://storybook.js.org",
     "tags": [
@@ -565,20 +580,6 @@
     "example": {
       "title": "Release 0.15.0 | StyleX",
       "url": "https://stylexjs.com/blog/v0.15.0"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance"
-    ],
-    "example": {
-      "title": "Bun v1.3.3 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.3"
     }
   },
   {
