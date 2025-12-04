@@ -408,6 +408,23 @@
     }
   },
   {
+    "count": 8,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Oxfmt: Oxc Formatter Alpha | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-12-01-oxfmt-alpha.html"
+    }
+  },
+  {
     "count": 7,
     "url": "https://tailwindcss.com",
     "tags": [
@@ -497,23 +514,6 @@
     "example": {
       "title": "npm security update: Classic token creation disabled and granular token changes - GitHub Changelog",
       "url": "https://github.blog/changelog/2025-11-05-npm-security-update-classic-token-creation-disabled-and-granular-token-changes/"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Oxlint JS Plugins Preview | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-10-09-oxlint-js-plugins.html"
     }
   },
   {
