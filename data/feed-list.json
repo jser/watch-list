@@ -482,12 +482,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
@@ -539,6 +533,12 @@
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -638,6 +638,12 @@
     ]
   },
   {
+    "url": "https://github.com/tinylibs/tinybench",
+    "feeds": [
+      "https://github.com/tinylibs/tinybench/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
@@ -665,18 +671,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/unjs/unenv",
-    "feeds": [
-      "https://github.com/unjs/unenv/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/reduxjs/redux",
-    "feeds": [
-      "https://github.com/reduxjs/redux/releases.atom"
     ]
   },
   {
@@ -1121,12 +1115,6 @@
     "url": "https://github.com/pmndrs/zustand",
     "feeds": [
       "https://github.com/pmndrs/zustand/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tinylibs/tinybench",
-    "feeds": [
-      "https://github.com/tinylibs/tinybench/releases.atom"
     ]
   },
   {
@@ -1721,6 +1709,12 @@
     "url": "https://github.com/3ru/eslint-plugin-baseline-js",
     "feeds": [
       "https://github.com/3ru/eslint-plugin-baseline-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/ant-design/ant-design",
+    "feeds": [
+      "https://github.com/ant-design/ant-design/releases.atom"
     ]
   },
   {

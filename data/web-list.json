@@ -42,15 +42,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 11 Alpha 0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-alpha.0"
+      "title": "Release pnpm 10.24 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.24.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -75,7 +75,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -85,8 +85,8 @@
       "golang"
     ],
     "example": {
-      "title": "Announcing TypeScript 5.9 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/"
+      "title": "Progress on TypeScript 7 - December 2025 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -220,7 +220,7 @@
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -231,11 +231,13 @@
       "news",
       "Native",
       "Tools",
-      "Conference"
+      "Conference",
+      "Next.js",
+      "security"
     ],
     "example": {
-      "title": "React Conf 2025 Recap – React",
-      "url": "https://react.dev/blog/2025/10/16/react-conf-2025-recap"
+      "title": "Critical Security Vulnerability in React Server Components – React",
+      "url": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components"
     },
     "rssUrl": "https://react.dev/rss.xml"
   },
@@ -609,22 +611,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "tags": [
-      "React",
-      "redux",
-      "library",
-      "ReleaseNote",
-      "performance"
-    ],
-    "example": {
-      "title": "Release v2.10.0 · reduxjs/redux-toolkit",
-      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.10.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://github.com/vitest-dev/vitest",
     "tags": [
       "vite",
@@ -639,6 +625,20 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Prettier 3.7: Improved formatting consistency and new plugin features! · Prettier",
+      "url": "https://prettier.io/blog/2025/11/27/3.7.0"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 5,
@@ -790,20 +790,6 @@
   },
   {
     "count": 4,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prettier 3.6: Experimental fast CLI and new OXC and Hermes plugins! · Prettier",
-      "url": "https://prettier.io/blog/2025/06/23/3.6.0"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
-  },
-  {
-    "count": 4,
     "url": "https://ishadeed.com",
     "tags": [
       "CSS",
@@ -918,6 +904,27 @@
   },
   {
     "count": 4,
+    "url": "https://blog.platformatic.dev",
+    "tags": [
+      "nodejs",
+      "stream",
+      "article",
+      "V8",
+      "performance",
+      "php",
+      "Rust",
+      "Next.js",
+      "kubernetes",
+      "linux"
+    ],
+    "example": {
+      "title": "Accelerate Next.js in Kubernetes",
+      "url": "https://blog.platformatic.dev/93-faster-nextjs-in-your-kubernetes"
+    },
+    "rssUrl": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"
+  },
+  {
+    "count": 4,
     "url": "https://www.debugbear.com",
     "tags": [
       "article",
@@ -961,6 +968,21 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "tags": [
+      "redux",
+      "library",
+      "ReleaseNote",
+      "performance"
+    ],
+    "example": {
+      "title": "Release v2.10.0 · reduxjs/redux-toolkit",
+      "url": "https://github.com/reduxjs/redux-toolkit/releases/tag/v2.10.0"
+    },
+    "rssUrl": "https://github.com/reduxjs/redux-toolkit/releases.atom"
   },
   {
     "count": 4,
@@ -1240,24 +1262,6 @@
       "url": "https://turbo.build/blog/turbo-2-5"
     },
     "rssUrl": "https://turbo.build/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://blog.platformatic.dev",
-    "tags": [
-      "nodejs",
-      "stream",
-      "article",
-      "V8",
-      "performance",
-      "php",
-      "Rust"
-    ],
-    "example": {
-      "title": "Seamlessly Blend PHP with Node.js",
-      "url": "https://blog.platformatic.dev/seamlessly-blend-php-with-nodejs"
-    },
-    "rssUrl": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"
   },
   {
     "count": 3,
@@ -1798,6 +1802,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/tinylibs/tinybench",
+    "tags": [
+      "JavaScript",
+      "benchmark",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · tinylibs/tinybench",
+      "url": "https://github.com/tinylibs/tinybench/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/tinylibs/tinybench/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://piccalil.li",
     "tags": [
       "css ",
@@ -2040,35 +2059,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/unjs/unenv",
-    "tags": [
-      "nodejs",
-      "JavaScript",
-      "polyfill",
-      "library"
-    ],
-    "example": {
-      "title": "unjs/unenv: 🕊️ Convert javaScript code to be runtime agnostic",
-      "url": "https://github.com/unjs/unenv/tree/main"
-    },
-    "rssUrl": "https://github.com/unjs/unenv/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/reduxjs/redux",
-    "tags": [
-      "redux",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · reduxjs/redux",
-      "url": "https://github.com/reduxjs/redux/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/reduxjs/redux/releases.atom"
   },
   {
     "count": 1,
@@ -5327,21 +5317,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/tinylibs/tinybench",
-    "tags": [
-      "JavaScript",
-      "benchmark",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · tinylibs/tinybench",
-      "url": "https://github.com/tinylibs/tinybench/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/tinylibs/tinybench/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://2024.stateofcss.com",
     "tags": [
       "css ",
@@ -8163,5 +8138,21 @@
       "url": "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
     },
     "rssUrl": "https://product.hubspot.com/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ant-design/ant-design",
+    "tags": [
+      "JavaScript",
+      "React",
+      "UI",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "🎉 Ant Design 6.0 is Here! 🎉 · Issue #55804 · ant-design/ant-design",
+      "url": "https://github.com/ant-design/ant-design/issues/55804"
+    },
+    "rssUrl": "https://github.com/ant-design/ant-design/releases.atom"
   }
 ]
