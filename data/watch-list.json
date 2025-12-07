@@ -87,7 +87,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -104,8 +104,8 @@
       "MCP"
     ],
     "example": {
-      "title": "New in Chrome 142  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-chrome-142?hl=en"
+      "title": "New in Chrome 143  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-chrome-143?hl=en"
     }
   },
   {
@@ -306,22 +306,6 @@
   },
   {
     "count": 9,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 9,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -392,6 +376,22 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
+    }
   },
   {
     "count": 8,
@@ -1306,6 +1306,20 @@
   },
   {
     "count": 3,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Vite 8 Beta: The Rolldown-powered Vite | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-vite-8-beta"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://www.firefox.com",
     "tags": [
       "Firefox",
@@ -1911,19 +1925,6 @@
   },
   {
     "count": 2,
-    "url": "https://voidzero.dev",
-    "tags": [
-      "vite",
-      "Rust",
-      "article"
-    ],
-    "example": {
-      "title": "Announcing Vite+ | VoidZero",
-      "url": "https://voidzero.dev/posts/announcing-vite-plus"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://zenn.dev/dinii/",
     "tags": [
       "nodejs",
@@ -1982,20 +1983,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/facebook/stylex",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "library"
-    ],
-    "example": {
-      "title": "facebook/stylex: StyleX is the styling system for ambitious user interfaces.",
-      "url": "https://github.com/facebook/stylex"
-    },
-    "rssUrl": "https://github.com/facebook/stylex/releases.atom"
   },
   {
     "count": 1,
@@ -7905,5 +7892,30 @@
       "url": "https://github.com/ant-design/ant-design/issues/55804"
     },
     "rssUrl": "https://github.com/ant-design/ant-design/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://tsdiagram.com",
+    "tags": [
+      "TypeScript",
+      "diagram"
+    ],
+    "example": {
+      "title": "TSDiagram - Diagrams as code with TypeScript",
+      "url": "https://tsdiagram.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel/streamdown",
+    "tags": [
+      "Markdown",
+      "library"
+    ],
+    "example": {
+      "title": "vercel/streamdown: A drop-in replacement for react-markdown, designed for AI-powered streaming.",
+      "url": "https://github.com/vercel/streamdown"
+    },
+    "rssUrl": "https://github.com/vercel/streamdown/releases.atom"
   }
 ]
