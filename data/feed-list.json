@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/stylex",
-    "feeds": [
-      "https://github.com/facebook/stylex/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/BuilderIO/hydration-overlay",
     "feeds": [
       "https://github.com/BuilderIO/hydration-overlay/releases.atom"
@@ -1709,6 +1703,12 @@
     "url": "https://github.com/ant-design/ant-design",
     "feeds": [
       "https://github.com/ant-design/ant-design/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel/streamdown",
+    "feeds": [
+      "https://github.com/vercel/streamdown/releases.atom"
     ]
   },
   {
