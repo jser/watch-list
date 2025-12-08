@@ -198,12 +198,12 @@
     }
   },
   {
-    "count": 13,
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
-      "ReleaseNote",
-      "article"
+      "article",
+      "ReleaseNote"
     ],
     "example": {
       "title": "Electron 39.0.0 | Electron",
@@ -1328,20 +1328,6 @@
     "example": {
       "title": "Firefox 144.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/144.0/releasenotes/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://scrapbox.io",
-    "tags": [
-      "CSS",
-      "slide",
-      "Bun",
-      "article"
-    ],
-    "example": {
-      "title": "Bun の非互換な拡張 API - moriken's project",
-      "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
     }
   },
   {
@@ -4002,6 +3988,18 @@
     "example": {
       "title": "TypeScript v4.9からv5.5で追加された機能のおさらい - STORES Product Blog",
       "url": "https://product.st.inc/entry/2024/06/24/152109"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://scrapbox.io",
+    "tags": [
+      "Bun",
+      "article"
+    ],
+    "example": {
+      "title": "Bun の非互換な拡張 API - moriken's project",
+      "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
     }
   },
   {
