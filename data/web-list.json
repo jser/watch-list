@@ -207,20 +207,6 @@
   },
   {
     "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 39.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-39-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 12,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -240,6 +226,19 @@
       "url": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components"
     },
     "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 39.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-39-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
@@ -318,22 +317,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.10.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://www.youtube.com",
     "tags": [
       "Next.js",
@@ -407,6 +390,22 @@
       "url": "https://astro.build/blog/astro-570/"
     },
     "rssUrl": "https://astro.build/rss.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.10.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 8,
@@ -1013,21 +1012,6 @@
   },
   {
     "count": 3,
-    "url": "https://calendar.perfplanet.com",
-    "tags": [
-      "JavaScript",
-      "performance",
-      "article",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
-      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
-    },
-    "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 3,
     "url": "https://svelte.dev",
     "tags": [
       "Svelte",
@@ -1385,21 +1369,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/sindresorhus/got",
-    "tags": [
-      "nodejs",
-      "HTTP",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v14.6.0 · sindresorhus/got",
-      "url": "https://github.com/sindresorhus/got/releases/tag/v14.6.0"
-    },
-    "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://www.webkit.org",
     "tags": [
       "safari",
@@ -1441,6 +1410,21 @@
       "url": "https://github.com/date-fns/date-fns/releases/tag/v4.0.0"
     },
     "rssUrl": "https://github.com/date-fns/date-fns/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://calendar.perfplanet.com",
+    "tags": [
+      "performance",
+      "JavaScript",
+      "article",
+      "Chrome"
+    ],
+    "example": {
+      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
+      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
+    },
+    "rssUrl": "https://calendar.perfplanet.com/feed/"
   },
   {
     "count": 2,
@@ -7858,6 +7842,21 @@
       "url": "https://github.com/cedarjs/cedar"
     },
     "rssUrl": "https://github.com/cedarjs/cedar/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sindresorhus/got",
+    "tags": [
+      "nodejs",
+      "HTTP",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v14.6.0 · sindresorhus/got",
+      "url": "https://github.com/sindresorhus/got/releases/tag/v14.6.0"
+    },
+    "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
   },
   {
     "count": 1,

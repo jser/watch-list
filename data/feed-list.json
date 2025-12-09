@@ -464,15 +464,15 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -581,12 +581,6 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/sindresorhus/got",
-    "feeds": [
-      "https://github.com/sindresorhus/got/releases.atom"
     ]
   },
   {
@@ -1661,6 +1655,12 @@
     "url": "https://github.com/cedarjs/cedar",
     "feeds": [
       "https://github.com/cedarjs/cedar/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/sindresorhus/got",
+    "feeds": [
+      "https://github.com/sindresorhus/got/releases.atom"
     ]
   },
   {
