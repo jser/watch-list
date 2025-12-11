@@ -273,21 +273,6 @@
   },
   {
     "count": 10,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 10,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -337,6 +322,21 @@
       "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 9,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 9,
