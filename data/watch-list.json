@@ -1317,21 +1317,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "webkit",
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Implementing Vertical Form Controls | WebKit",
-      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://developers.prtimes.jp",
     "tags": [
       "Next.js",
@@ -1953,31 +1938,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/zawa_kyo/",
-    "tags": [
-      "npm",
-      "article"
-    ],
-    "example": {
-      "title": "npm install --productionみたいなの色々ありすぎ問題",
-      "url": "https://zenn.dev/zawa_kyo/articles/d671e0935ae0c0"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/sa2knight/",
-    "tags": [
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Vite は使ってないけど Jest を Vitest に移行する",
-      "url": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest"
-    }
   },
   {
     "count": 1,
@@ -3108,6 +3068,20 @@
     "example": {
       "title": "Elysia 1.0 - Lament of the Fallen | ElysiaJS",
       "url": "https://elysiajs.com/blog/elysia-10"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.webkit.org",
+    "tags": [
+      "webkit",
+      "CSS",
+      "safari",
+      "article"
+    ],
+    "example": {
+      "title": "Implementing Vertical Form Controls | WebKit",
+      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
     }
   },
   {
