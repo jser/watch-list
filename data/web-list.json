@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js v25.2.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v25.2.0"
+      "title": "Node.js — Node.js v24.12.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.12.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -2012,21 +2012,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://oxc-project.github.io",
-    "tags": [
-      "ESLint",
-      "JavaScript",
-      "Rust",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Oxlint General Availability | The JavaScript Oxidation Compiler",
-      "url": "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html"
-    },
-    "rssUrl": "https://oxc-project.github.io/feeds/blog-en.rss"
   },
   {
     "count": 1,
