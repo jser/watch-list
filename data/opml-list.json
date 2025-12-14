@@ -667,13 +667,6 @@
     ]
   },
   {
-    "url": "https://oxc-project.github.io",
-    "feeds": [
-      "https://oxc-project.github.io/feeds/blog-en.rss",
-      "https://oxc-project.github.io/feeds/blog-en.atom"
-    ]
-  },
-  {
     "url": "https://oxc.rs",
     "feeds": [
       "https://oxc.rs/feeds/blog-en.rss",

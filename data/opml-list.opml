@@ -110,7 +110,6 @@
 <outline text="nx.dev" title="nx.dev" type="rss" xmlUrl="https://nx.dev/blog/rss.xml"/>
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
-<outline text="oxc-project.github.io" title="oxc-project.github.io" type="rss" xmlUrl="https://oxc-project.github.io/feeds/blog-en.rss"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
 <outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
 <outline text="pavel-romanov.com" title="pavel-romanov.com" type="rss" xmlUrl="https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml"/>
