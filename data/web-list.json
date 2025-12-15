@@ -135,6 +135,18 @@
   },
   {
     "count": 18,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
+  },
+  {
+    "count": 18,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -148,22 +160,10 @@
       "vite"
     ],
     "example": {
-      "title": "Deno 2.5: Permissions in the config file | Deno",
-      "url": "https://deno.com/blog/v2.5"
+      "title": "Deno 2.6: dx is the new npx | Deno",
+      "url": "https://deno.com/blog/v2.6"
     },
     "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 18,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
   },
   {
     "count": 15,
@@ -206,7 +206,7 @@
     }
   },
   {
-    "count": 12,
+    "count": 13,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -222,8 +222,8 @@
       "security"
     ],
     "example": {
-      "title": "Critical Security Vulnerability in React Server Components – React",
-      "url": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components"
+      "title": "Denial of Service and Source Code Exposure in React Server Components – React",
+      "url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components"
     },
     "rssUrl": "https://react.dev/rss.xml"
   },
@@ -360,6 +360,24 @@
     "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
+    "count": 9,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Type-Aware Linting Alpha | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2025-12-08-type-aware-alpha"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
+  },
+  {
     "count": 8,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
@@ -423,24 +441,6 @@
       "url": "https://remix.run/blog/remix-jam-2025-recap"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Oxfmt: Oxc Formatter Alpha | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-12-01-oxfmt-alpha.html"
-    },
-    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 7,
@@ -557,27 +557,6 @@
   },
   {
     "count": 6,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "React",
-      "debug",
-      "article",
-      "JavaScript",
-      "Design",
-      "Tools",
-      "ReleaseNote",
-      "storybook",
-      "UI",
-      "test"
-    ],
-    "example": {
-      "title": "Storybook 9",
-      "url": "https://storybook.js.org/blog/storybook-9/"
-    },
-    "rssUrl": "https://storybook.js.org/blog/rss/"
-  },
-  {
-    "count": 6,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -661,6 +640,26 @@
   },
   {
     "count": 5,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "Design",
+      "debug",
+      "Tools",
+      "ReleaseNote",
+      "storybook",
+      "UI",
+      "test",
+      "article"
+    ],
+    "example": {
+      "title": "Storybook 9",
+      "url": "https://storybook.js.org/blog/storybook-9/"
+    },
+    "rssUrl": "https://storybook.js.org/blog/rss/"
+  },
+  {
+    "count": 5,
     "url": "https://blog.angular.dev",
     "tags": [
       "Angular",
@@ -718,26 +717,6 @@
       "title": "State of JavaScript 2025",
       "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "article",
-      "browser",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "tutorial",
-      "accessibility",
-      "ECMAScript",
-      "css"
-    ],
-    "example": {
-      "title": "Default styles for h1 elements are changing | MDN Blog",
-      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
-    },
-    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1012,19 +991,6 @@
   },
   {
     "count": 3,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Svelte 5 is alive",
-      "url": "https://svelte.dev/blog/svelte-5-is-alive"
-    },
-    "rssUrl": "https://svelte.dev/blog/rss.xml"
-  },
-  {
-    "count": 3,
     "url": "https://blog.vuejs.org",
     "tags": [
       "Vue",
@@ -1109,6 +1075,26 @@
       "url": "https://github.com/nodejs/corepack/releases/tag/v0.34.0"
     },
     "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "tutorial",
+      "accessibility",
+      "ECMAScript",
+      "article",
+      "browser",
+      "css"
+    ],
+    "example": {
+      "title": "Default styles for h1 elements are changing | MDN Blog",
+      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1562,6 +1548,19 @@
   },
   {
     "count": 2,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Svelte 5 is alive",
+      "url": "https://svelte.dev/blog/svelte-5-is-alive"
+    },
+    "rssUrl": "https://svelte.dev/blog/rss.xml"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/mswjs/msw",
     "tags": [
       "JavaScript",
@@ -1828,6 +1827,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/mui/base-ui",
+    "tags": [
+      "React",
+      "library",
+      "UI",
+      "accessibility"
+    ],
+    "example": {
+      "title": "Release v1.0.0 · mui/base-ui",
+      "url": "https://github.com/mui/base-ui/releases/tag/v1.0.0"
+    },
+    "rssUrl": "https://github.com/mui/base-ui/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/remix-run/react-router",
     "tags": [
       "React",
@@ -2012,32 +2026,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://onyxlang.io",
-    "tags": [
-      "WebAssembly",
-      "program"
-    ],
-    "example": {
-      "title": "Onyx Programming Language",
-      "url": "https://onyxlang.io/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/BuilderIO/hydration-overlay",
-    "tags": [
-      "React",
-      "debug",
-      "library"
-    ],
-    "example": {
-      "title": "BuilderIO/hydration-overlay: Overlay for hydration errors with explicit diff between renders.",
-      "url": "https://github.com/BuilderIO/hydration-overlay"
-    },
-    "rssUrl": "https://github.com/BuilderIO/hydration-overlay/releases.atom"
   },
   {
     "count": 1,
@@ -5671,21 +5659,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/mui/base-ui",
-    "tags": [
-      "React",
-      "library",
-      "UI",
-      "accessibility"
-    ],
-    "example": {
-      "title": "mui/base-ui: Base UI is an open-source library of accessible, unstyled UI components for React.",
-      "url": "https://github.com/mui/base-ui"
-    },
-    "rssUrl": "https://github.com/mui/base-ui/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://termo.rajnandan.com",
     "tags": [
       "JavaScript",
@@ -7664,7 +7637,8 @@
     "example": {
       "title": "Auth.js is now part of Better Auth",
       "url": "https://www.better-auth.com/blog/authjs-joins-better-auth"
-    }
+    },
+    "rssUrl": "https://better-auth.com/blog/rss.xml"
   },
   {
     "count": 1,
