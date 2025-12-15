@@ -1124,6 +1124,13 @@
     ]
   },
   {
+    "url": "https://www.better-auth.com",
+    "feeds": [
+      "https://better-auth.com/blog/rss.xml",
+      "https://www.better-auth.com/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.bram.us",
     "feeds": [
       "https://www.bram.us/feed/",

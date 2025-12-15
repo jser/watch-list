@@ -644,6 +644,12 @@
     ]
   },
   {
+    "url": "https://github.com/mui/base-ui",
+    "feeds": [
+      "https://github.com/mui/base-ui/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
@@ -665,12 +671,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/BuilderIO/hydration-overlay",
-    "feeds": [
-      "https://github.com/BuilderIO/hydration-overlay/releases.atom"
     ]
   },
   {
@@ -1175,12 +1175,6 @@
     "url": "https://github.com/reduxjs/react-redux",
     "feeds": [
       "https://github.com/reduxjs/react-redux/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mui/base-ui",
-    "feeds": [
-      "https://github.com/mui/base-ui/releases.atom"
     ]
   },
   {
@@ -2393,6 +2387,13 @@
     "url": "https://www.assetnote.io",
     "feeds": [
       "https://www.assetnote.io/resources/research/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.better-auth.com",
+    "feeds": [
+      "https://better-auth.com/blog/rss.xml",
+      "https://www.better-auth.com/blog/rss.xml"
     ]
   },
   {
