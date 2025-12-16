@@ -1304,19 +1304,6 @@
   },
   {
     "count": 2,
-    "url": "https://developers.prtimes.jp",
-    "tags": [
-      "Next.js",
-      "article",
-      "ESLint"
-    ],
-    "example": {
-      "title": "eslint-plugin-no-barrel-filesを導入してBarrel filesをやめた話 | PR TIMES 開発者ブログ",
-      "url": "https://developers.prtimes.jp/2025/01/28/avoid-barrel-files-in-prtimes/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/date-fns/date-fns",
     "tags": [
       "JavaScript",
@@ -1952,32 +1939,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/urotea/",
-    "tags": [
-      "Next.js",
-      "GraphQL",
-      "article"
-    ],
-    "example": {
-      "title": "1年かけてNext.jsのapp routerへ完全移行した話",
-      "url": "https://zenn.dev/urotea/articles/3fbaa77d77b788"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://user-first.ikyu.co.jp",
-    "tags": [
-      "Next.js",
-      "Remix",
-      "article"
-    ],
-    "example": {
-      "title": "一休レストランで Next.js App Router から Remix に乗り換えた話 - 一休.com Developers Blog",
-      "url": "https://user-first.ikyu.co.jp/entry/2023/12/15/093427"
-    }
   },
   {
     "count": 1,
@@ -5757,6 +5718,18 @@
     "example": {
       "title": "Standard Schema",
       "url": "https://standardschema.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://developers.prtimes.jp",
+    "tags": [
+      "ESLint",
+      "article"
+    ],
+    "example": {
+      "title": "eslint-plugin-no-barrel-filesを導入してBarrel filesをやめた話 | PR TIMES 開発者ブログ",
+      "url": "https://developers.prtimes.jp/2025/01/28/avoid-barrel-files-in-prtimes/"
     }
   },
   {

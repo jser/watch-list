@@ -1004,13 +1004,6 @@
     ]
   },
   {
-    "url": "https://user-first.ikyu.co.jp",
-    "feeds": [
-      "https://user-first.ikyu.co.jp/feed",
-      "https://user-first.ikyu.co.jp/rss"
-    ]
-  },
-  {
     "url": "https://v2.tauri.app",
     "feeds": [
       "https://v2.tauri.app/blog/rss.xml",
@@ -1356,12 +1349,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/urotea/",
-    "feeds": [
-      "https://zenn.dev/urotea/feed"
     ]
   },
   {
