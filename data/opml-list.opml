@@ -161,7 +161,6 @@
 <outline text="turborepo.com" title="turborepo.com" type="rss" xmlUrl="https://turborepo.com/feed.xml"/>
 <outline text="typescript-eslint.io" title="typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>
 <outline text="unicorn-utterances.com" title="unicorn-utterances.com" type="rss" xmlUrl="https://unicorn-utterances.com/atom.xml"/>
-<outline text="user-first.ikyu.co.jp" title="user-first.ikyu.co.jp" type="rss" xmlUrl="https://user-first.ikyu.co.jp/feed"/>
 <outline text="v2.tauri.app" title="v2.tauri.app" type="rss" xmlUrl="https://v2.tauri.app/blog/rss.xml"/>
 <outline text="v2.vuejs.org" title="v2.vuejs.org" type="rss" xmlUrl="https://v2.vuejs.org/atom.xml"/>
 <outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
@@ -215,7 +214,6 @@
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/urotea/" title="zenn.dev/urotea/" type="rss" xmlUrl="https://zenn.dev/urotea/feed"/>
 <outline text="zenn.dev/yamachan0625/" title="zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
 <outline text="zenn.dev/team_zenn/" title="zenn.dev/team_zenn/" type="rss" xmlUrl="https://zenn.dev/p/team_zenn/feed"/>
 <outline text="zenn.dev/aishift/" title="zenn.dev/aishift/" type="rss" xmlUrl="https://zenn.dev/p/aishift/feed"/>
