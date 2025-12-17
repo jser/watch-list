@@ -36,6 +36,7 @@
 <outline text="blog.vjeux.com" title="blog.vjeux.com" type="rss" xmlUrl="https://blog.vjeux.com/feed"/>
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
+<outline text="blogs.windows.com" title="blogs.windows.com" type="rss" xmlUrl="https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/feed/"/>
 <outline text="bun.com" title="bun.com" type="rss" xmlUrl="https://bun.com/rss.xml"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
@@ -285,6 +286,9 @@
 <outline text="github.com/3ru/eslint-plugin-baseline-js" title="github.com/3ru/eslint-plugin-baseline-js" type="rss" xmlUrl="https://github.com/3ru/eslint-plugin-baseline-js/releases.atom"/>
 <outline text="github.com/ant-design/ant-design" title="github.com/ant-design/ant-design" type="rss" xmlUrl="https://github.com/ant-design/ant-design/releases.atom"/>
 <outline text="github.com/vercel/streamdown" title="github.com/vercel/streamdown" type="rss" xmlUrl="https://github.com/vercel/streamdown/releases.atom"/>
+<outline text="github.com/open-circle/valibot" title="github.com/open-circle/valibot" type="rss" xmlUrl="https://github.com/open-circle/valibot/releases.atom"/>
+<outline text="github.com/poppinss/ts-exec" title="github.com/poppinss/ts-exec" type="rss" xmlUrl="https://github.com/poppinss/ts-exec/releases.atom"/>
+<outline text="github.com/gaearon/rscexplorer" title="github.com/gaearon/rscexplorer" type="rss" xmlUrl="https://github.com/gaearon/rscexplorer/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -327,6 +331,7 @@
 <outline text="piccalil.li" title="piccalil.li" type="rss" xmlUrl="https://piccalil.li/feed.xml"/>
 <outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>
 <outline text="playfulprogramming.com" title="playfulprogramming.com" type="rss" xmlUrl="https://playfulprogramming.com/atom.xml"/>
+<outline text="pnpm.io" title="pnpm.io" type="rss" xmlUrl="https://pnpm.io/blog/rss.xml"/>
 <outline text="postd.cc" title="postd.cc" type="rss" xmlUrl="https://postd.cc/feed/"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="product.hubspot.com" title="product.hubspot.com" type="rss" xmlUrl="https://product.hubspot.com/blog/rss.xml"/>
@@ -345,6 +350,7 @@
 <outline text="semaphoreci.com" title="semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
 <outline text="shisama.hatenablog.com" title="shisama.hatenablog.com" type="rss" xmlUrl="https://shisama.hatenablog.com/feed"/>
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
+<outline text="simonwillison.net" title="simonwillison.net" type="rss" xmlUrl="https://simonwillison.net/atom/everything/"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
 <outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/brn/" title="speakerdeck.com/brn/" type="rss" xmlUrl="https://speakerdeck.com/brn.atom"/>
@@ -362,6 +368,7 @@
 <outline text="susisu.hatenablog.com" title="susisu.hatenablog.com" type="rss" xmlUrl="https://susisu.hatenablog.com/feed"/>
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
+<outline text="tanstack.com" title="tanstack.com" type="rss" xmlUrl="https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"/>
 <outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
