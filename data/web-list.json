@@ -75,23 +75,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 21,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang"
-    ],
-    "example": {
-      "title": "Progress on TypeScript 7 - December 2025 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
-    "count": 21,
+    "count": 22,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -108,10 +92,26 @@
       "MCP"
     ],
     "example": {
-      "title": "New in Chrome 143  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/new-in-chrome-143?hl=en"
+      "title": "Chrome 144 beta  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-144-beta?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
+  },
+  {
+    "count": 21,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang"
+    ],
+    "example": {
+      "title": "Progress on TypeScript 7 - December 2025 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 19,
@@ -340,6 +340,23 @@
   },
   {
     "count": 9,
+    "url": "https://remix.run",
+    "tags": [
+      "Remix",
+      "vite",
+      "ReleaseNote",
+      "React",
+      "article",
+      "Conference"
+    ],
+    "example": {
+      "title": "Open Sourcing the Remix Store | Remix",
+      "url": "https://remix.run/blog/oss-remix-store"
+    },
+    "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 9,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -424,23 +441,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 8,
-    "url": "https://remix.run",
-    "tags": [
-      "Remix",
-      "vite",
-      "ReleaseNote",
-      "React",
-      "article",
-      "Conference"
-    ],
-    "example": {
-      "title": "Remix Jam 2025 Recap | Remix",
-      "url": "https://remix.run/blog/remix-jam-2025-recap"
-    },
-    "rssUrl": "https://remix.run/blog/rss.xml"
   },
   {
     "count": 7,
@@ -990,6 +990,18 @@
     "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
   },
   {
+    "count": 4,
+    "url": "https://www.firefox.com",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 146.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/146.0/releasenotes/"
+    }
+  },
+  {
     "count": 3,
     "url": "https://blog.vuejs.org",
     "tags": [
@@ -1340,18 +1352,6 @@
       "url": "https://voidzero.dev/posts/announcing-vite-8-beta"
     },
     "rssUrl": "https://voidzero.dev/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://www.firefox.com",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 144.0, See All New Features, Updates and Fixes",
-      "url": "https://www.firefox.com/en-US/firefox/144.0/releasenotes/"
-    }
   },
   {
     "count": 2,
@@ -1924,6 +1924,22 @@
   },
   {
     "count": 2,
+    "url": "https://standardschema.dev",
+    "tags": [
+      "TypeScript",
+      "spec",
+      "library",
+      "JSON",
+      "article",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Standard JSON Schema",
+      "url": "https://standardschema.dev/json-schema"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://valibot.dev",
     "tags": [
       "JavaScript",
@@ -1996,7 +2012,8 @@
     "example": {
       "title": "TanStack Start v1 Release Candidate | TanStack Blog",
       "url": "https://tanstack.com/blog/announcing-tanstack-start-v1"
-    }
+    },
+    "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
   },
   {
     "count": 2,
@@ -5893,19 +5910,6 @@
   },
   {
     "count": 1,
-    "url": "https://standardschema.dev",
-    "tags": [
-      "TypeScript",
-      "spec",
-      "library"
-    ],
-    "example": {
-      "title": "Standard Schema",
-      "url": "https://standardschema.dev/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://developers.prtimes.jp",
     "tags": [
       "ESLint",
@@ -8049,5 +8053,92 @@
       "url": "https://github.com/vercel/streamdown"
     },
     "rssUrl": "https://github.com/vercel/streamdown/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blogs.windows.com",
+    "tags": [
+      "performance",
+      "article",
+      "browser",
+      "proposal"
+    ],
+    "example": {
+      "title": "Making complex web apps faster - Microsoft Edge Blog",
+      "url": "https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/"
+    },
+    "rssUrl": "https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/feed/"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/open-circle/valibot",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.5.0 (to-json-schema) · open-circle/valibot",
+      "url": "https://github.com/open-circle/valibot/releases/tag/v1.5.0-to-json-schema"
+    },
+    "rssUrl": "https://github.com/open-circle/valibot/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://simonwillison.net",
+    "tags": [
+      "HTML",
+      "Tools",
+      "article",
+      "LanguageModel"
+    ],
+    "example": {
+      "title": "Useful patterns for building HTML tools",
+      "url": "https://simonwillison.net/2025/Dec/10/html-tools/"
+    },
+    "rssUrl": "https://simonwillison.net/atom/everything/"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/poppinss/ts-exec",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "poppinss/ts-exec: Execute TypeScript on Node using SWC",
+      "url": "https://github.com/poppinss/ts-exec"
+    },
+    "rssUrl": "https://github.com/poppinss/ts-exec/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "How We're Protecting Our Newsroom from npm Supply Chain Attacks | pnpm",
+      "url": "https://pnpm.io/blog/2025/12/05/newsroom-npm-supply-chain-security"
+    },
+    "rssUrl": "https://pnpm.io/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/gaearon/rscexplorer",
+    "tags": [
+      "React",
+      "server",
+      "Tools",
+      "webservice"
+    ],
+    "example": {
+      "title": "gaearon/rscexplorer: A tool for people curious about the React Server Components protocol",
+      "url": "https://github.com/gaearon/rscexplorer"
+    },
+    "rssUrl": "https://github.com/gaearon/rscexplorer/releases.atom"
   }
 ]
