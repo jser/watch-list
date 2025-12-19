@@ -1958,19 +1958,6 @@
   },
   {
     "count": 1,
-    "url": "https://tastejs.com",
-    "tags": [
-      "JavaScript",
-      "library",
-      "example"
-    ],
-    "example": {
-      "title": "Movies App",
-      "url": "https://tastejs.com/movies/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://shisama.hatenablog.com",
     "tags": [
       "nodejs",
