@@ -135,18 +135,6 @@
   },
   {
     "count": 18,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 18,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -164,6 +152,18 @@
       "url": "https://deno.com/blog/v2.6"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 17,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 15,
@@ -273,20 +273,6 @@
   },
   {
     "count": 10,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "October 2, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "esbuild",
@@ -378,6 +364,20 @@
   },
   {
     "count": 9,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "October 2, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
+    }
+  },
+  {
+    "count": 9,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -441,25 +441,6 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 7,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "UI",
-      "React",
-      "css ",
-      "css",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
-    },
-    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
     "count": 7,
@@ -557,6 +538,25 @@
   },
   {
     "count": 6,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "UI",
+      "CSS",
+      "library",
+      "ReleaseNote",
+      "React",
+      "css ",
+      "css",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    },
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 6,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -568,6 +568,27 @@
       "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
     },
     "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "Design",
+      "debug",
+      "Tools",
+      "ReleaseNote",
+      "storybook",
+      "UI",
+      "test",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Security advisory",
+      "url": "https://storybook.js.org/blog/security-advisory/"
+    },
+    "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
     "count": 6,
@@ -637,26 +658,6 @@
       "url": "https://v8.dev/blog/json-stringify"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "Design",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "storybook",
-      "UI",
-      "test",
-      "article"
-    ],
-    "example": {
-      "title": "Storybook 9",
-      "url": "https://storybook.js.org/blog/storybook-9/"
-    },
-    "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
     "count": 5,
@@ -1355,20 +1356,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/date-fns/date-fns",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · date-fns/date-fns",
-      "url": "https://github.com/date-fns/date-fns/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/date-fns/date-fns/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "performance",
@@ -2029,46 +2016,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://shisama.hatenablog.com",
-    "tags": [
-      "nodejs",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js v21 の主な変更点 - 別にしんどくないブログ",
-      "url": "https://shisama.hatenablog.com/entry/2023/12/16/151553"
-    },
-    "rssUrl": "https://shisama.hatenablog.com/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://nsaunders.dev",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "From CSS madness to CSS Hooks — nsaunders.dev",
-      "url": "https://nsaunders.dev/posts/css-madness-to-hooks"
-    },
-    "rssUrl": "https://nsaunders.dev/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/webui-dev/webui",
-    "tags": [
-      "webview",
-      "browser",
-      "software"
-    ],
-    "example": {
-      "title": "webui-dev/webui: Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.",
-      "url": "https://github.com/webui-dev/webui"
-    },
-    "rssUrl": "https://github.com/webui-dev/webui/releases.atom"
   },
   {
     "count": 1,
@@ -4773,6 +4720,20 @@
       "url": "https://github.com/govuk-vue/govuk-vue"
     },
     "rssUrl": "https://github.com/govuk-vue/govuk-vue/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/date-fns/date-fns",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · date-fns/date-fns",
+      "url": "https://github.com/date-fns/date-fns/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/date-fns/date-fns/releases.atom"
   },
   {
     "count": 1,

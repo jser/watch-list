@@ -590,12 +590,6 @@
     ]
   },
   {
-    "url": "https://github.com/date-fns/date-fns",
-    "feeds": [
-      "https://github.com/date-fns/date-fns/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/capricorn86/happy-dom",
     "feeds": [
       "https://github.com/capricorn86/happy-dom/releases.atom"
@@ -677,12 +671,6 @@
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/webui-dev/webui",
-    "feeds": [
-      "https://github.com/webui-dev/webui/releases.atom"
     ]
   },
   {
@@ -1025,6 +1013,12 @@
     "url": "https://github.com/govuk-vue/govuk-vue",
     "feeds": [
       "https://github.com/govuk-vue/govuk-vue/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/date-fns/date-fns",
+    "feeds": [
+      "https://github.com/date-fns/date-fns/releases.atom"
     ]
   },
   {
@@ -1912,12 +1906,6 @@
     ]
   },
   {
-    "url": "https://nsaunders.dev",
-    "feeds": [
-      "https://nsaunders.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://nuejs.org",
     "feeds": [
       "https://nuejs.org/feed.xml"
@@ -2104,13 +2092,6 @@
     "feeds": [
       "https://semaphoreci.com/feed",
       "https://semaphoreci.com/comments/feed"
-    ]
-  },
-  {
-    "url": "https://shisama.hatenablog.com",
-    "feeds": [
-      "https://shisama.hatenablog.com/feed",
-      "https://shisama.hatenablog.com/rss"
     ]
   },
   {

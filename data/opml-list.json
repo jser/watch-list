@@ -634,12 +634,6 @@
     ]
   },
   {
-    "url": "https://nsaunders.dev",
-    "feeds": [
-      "https://nsaunders.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://nuejs.org",
     "feeds": [
       "https://nuejs.org/feed.xml"
@@ -820,13 +814,6 @@
     "feeds": [
       "https://semaphoreci.com/feed",
       "https://semaphoreci.com/comments/feed"
-    ]
-  },
-  {
-    "url": "https://shisama.hatenablog.com",
-    "feeds": [
-      "https://shisama.hatenablog.com/feed",
-      "https://shisama.hatenablog.com/rss"
     ]
   },
   {
