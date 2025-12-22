@@ -191,7 +191,7 @@
     "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -201,8 +201,8 @@
       "document"
     ],
     "example": {
-      "title": "Next.js 16 | Next.js",
-      "url": "https://nextjs.org/blog/next-16"
+      "title": "Next.js 16.1 | Next.js",
+      "url": "https://nextjs.org/blog/next-16-1"
     }
   },
   {
@@ -538,25 +538,6 @@
   },
   {
     "count": 6,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "UI",
-      "CSS",
-      "library",
-      "ReleaseNote",
-      "React",
-      "css ",
-      "css",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
-    },
-    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 6,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -658,6 +639,24 @@
       "url": "https://v8.dev/blog/json-stringify"
     },
     "rssUrl": "https://v8.dev/blog.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "CSS",
+      "ReleaseNote",
+      "React",
+      "library",
+      "css ",
+      "css",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    },
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
     "count": 5,
