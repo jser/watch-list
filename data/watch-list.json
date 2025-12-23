@@ -20,12 +20,11 @@
     }
   },
   {
-    "count": 36,
+    "count": 35,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
       "ReleaseNote",
-      "TypeScript",
       "windows",
       "bum",
       "V8",
