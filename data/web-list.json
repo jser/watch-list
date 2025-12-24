@@ -1798,6 +1798,23 @@
   },
   {
     "count": 2,
+    "url": "https://chrome.dev",
+    "tags": [
+      "browser",
+      "css ",
+      "document",
+      "example",
+      "Chrome",
+      "css",
+      "article"
+    ],
+    "example": {
+      "title": "CSS Wrapped 2025",
+      "url": "https://chrome.dev/css-wrapped-2025/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/mui/base-ui",
     "tags": [
       "React",
@@ -1954,6 +1971,19 @@
   },
   {
     "count": 2,
+    "url": "https://overreacted.io",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing RSC Explorer — overreacted",
+      "url": "https://overreacted.io/introducing-rsc-explorer/"
+    },
+    "rssUrl": "https://overreacted.io/atom.xml"
+  },
+  {
+    "count": 2,
     "url": "https://zenn.dev/dinii/",
     "tags": [
       "nodejs",
@@ -2014,33 +2044,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://tsdocs.dev",
-    "tags": [
-      "TypeScript",
-      "npm",
-      "document",
-      "webservice"
-    ],
-    "example": {
-      "title": "TS Docs | Reference docs for npm packages",
-      "url": "https://tsdocs.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.htmhell.dev",
-    "tags": [
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Getting started with Web Performance 🚀 - HTMHell",
-      "url": "https://www.htmhell.dev/adventcalendar/2023/14/"
-    },
-    "rssUrl": "https://www.htmhell.dev/feed.xml"
   },
   {
     "count": 1,
@@ -5441,21 +5444,6 @@
   },
   {
     "count": 1,
-    "url": "https://chrome.dev",
-    "tags": [
-      "browser",
-      "css ",
-      "document",
-      "example",
-      "Chrome"
-    ],
-    "example": {
-      "title": "CSS Wrapped 2024",
-      "url": "https://chrome.dev/css-wrapped-2024/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://kurtextrem.de",
     "tags": [
       "React",
@@ -6643,19 +6631,6 @@
       "url": "https://github.com/macieklamberski/feedsmith"
     },
     "rssUrl": "https://github.com/macieklamberski/feedsmith/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://overreacted.io",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "What Does \"use client\" Do? — overreacted",
-      "url": "https://overreacted.io/what-does-use-client-do/"
-    },
-    "rssUrl": "https://overreacted.io/atom.xml"
   },
   {
     "count": 1,
