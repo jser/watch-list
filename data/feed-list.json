@@ -2473,14 +2473,6 @@
     ]
   },
   {
-    "url": "https://www.htmhell.dev",
-    "feeds": [
-      "https://www.htmhell.dev/feed.xml",
-      "https://www.htmhell.dev/feed_tips.xml",
-      "https://www.htmhell.dev/feed_advent.xml"
-    ]
-  },
-  {
     "url": "https://www.joshuakgoldberg.com",
     "feeds": [
       "https://www.joshuakgoldberg.com/rss.xml"
