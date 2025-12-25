@@ -1468,5 +1468,11 @@
     "feeds": [
       "https://zenn.dev/qnighy/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/exwzd/",
+    "feeds": [
+      "https://zenn.dev/p/exwzd/feed"
+    ]
   }
 ]
