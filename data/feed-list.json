@@ -1724,6 +1724,12 @@
     ]
   },
   {
+    "url": "https://github.com/vuejs/core",
+    "feeds": [
+      "https://github.com/vuejs/core/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2745,6 +2751,12 @@
     "url": "https://zenn.dev/qnighy/",
     "feeds": [
       "https://zenn.dev/qnighy/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/exwzd/",
+    "feeds": [
+      "https://zenn.dev/p/exwzd/feed"
     ]
   }
 ]

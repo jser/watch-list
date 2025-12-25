@@ -8061,5 +8061,31 @@
       "url": "https://github.com/gaearon/rscexplorer"
     },
     "rssUrl": "https://github.com/gaearon/rscexplorer/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vuejs/core",
+    "tags": [
+      "Vue",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.6.0-beta.1 · vuejs/core",
+      "url": "https://github.com/vuejs/core/releases/tag/v3.6.0-beta.1"
+    },
+    "rssUrl": "https://github.com/vuejs/core/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/exwzd/",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "第三者のJavaScriptをセキュアに実行するには？― exaBase Studio のプラグイン機能",
+      "url": "https://zenn.dev/exwzd/articles/20251204_studio_plugin"
+    },
+    "rssUrl": "https://zenn.dev/p/exwzd/feed"
   }
 ]
