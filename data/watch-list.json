@@ -7856,5 +7856,19 @@
       "title": "第三者のJavaScriptをセキュアに実行するには？― exaBase Studio のプラグイン機能",
       "url": "https://zenn.dev/exwzd/articles/20251204_studio_plugin"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/bellard/mquickjs?tab=readme-ov-file",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "library"
+    ],
+    "example": {
+      "title": "bellard/mquickjs: Public repository of the Micro QuickJS Javascript Engine",
+      "url": "https://github.com/bellard/mquickjs?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/bellard/mquickjs?tab=readme-ov-file/releases.atom"
   }
 ]

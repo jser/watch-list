@@ -1730,6 +1730,12 @@
     ]
   },
   {
+    "url": "https://github.com/bellard/mquickjs?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/bellard/mquickjs?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
