@@ -289,6 +289,7 @@
 <outline text="github.com/poppinss/ts-exec" title="github.com/poppinss/ts-exec" type="rss" xmlUrl="https://github.com/poppinss/ts-exec/releases.atom"/>
 <outline text="github.com/gaearon/rscexplorer" title="github.com/gaearon/rscexplorer" type="rss" xmlUrl="https://github.com/gaearon/rscexplorer/releases.atom"/>
 <outline text="github.com/vuejs/core" title="github.com/vuejs/core" type="rss" xmlUrl="https://github.com/vuejs/core/releases.atom"/>
+<outline text="github.com/bellard/mquickjs?tab=readme-ov-file" title="github.com/bellard/mquickjs?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/bellard/mquickjs?tab=readme-ov-file/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
