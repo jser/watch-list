@@ -113,7 +113,6 @@
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
-<outline text="github.com/moment/moment" title="github.com/moment/moment" type="rss" xmlUrl="https://github.com/moment/moment/releases.atom"/>
 <outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
 <outline text="github.com/cloudflare/next-on-pages" title="github.com/cloudflare/next-on-pages" type="rss" xmlUrl="https://github.com/cloudflare/next-on-pages/releases.atom"/>
 <outline text="github.com/wevm/vocs" title="github.com/wevm/vocs" type="rss" xmlUrl="https://github.com/wevm/vocs/releases.atom"/>

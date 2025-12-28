@@ -674,12 +674,6 @@
     ]
   },
   {
-    "url": "https://github.com/moment/moment",
-    "feeds": [
-      "https://github.com/moment/moment/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/speed-highlight/core",
     "feeds": [
       "https://github.com/speed-highlight/core/releases.atom"

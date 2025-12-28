@@ -39,7 +39,7 @@
     }
   },
   {
-    "count": 24,
+    "count": 23,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -1969,20 +1969,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/moment/moment",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "moment/CHANGELOG.md at develop · moment/moment",
-      "url": "https://github.com/moment/moment/blob/develop/CHANGELOG.md#2300-full-changelog"
-    },
-    "rssUrl": "https://github.com/moment/moment/releases.atom"
   },
   {
     "count": 1,
