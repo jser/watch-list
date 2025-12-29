@@ -723,12 +723,6 @@
     ]
   },
   {
-    "url": "https://postd.cc",
-    "feeds": [
-      "https://postd.cc/feed/"
-    ]
-  },
-  {
     "url": "https://prettier.io",
     "feeds": [
       "https://prettier.io/blog/atom.xml",

@@ -395,21 +395,6 @@
   },
   {
     "count": 8,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "library",
-      "polyfill",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 3.46.0 - 2025.10.09 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 8,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -477,6 +462,21 @@
       "url": "https://socket.dev/blog/introducing-socket-firewall"
     },
     "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release 3.46.0 - 2025.10.09 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 7,
@@ -2044,20 +2044,6 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://postd.cc",
-    "tags": [
-      "Next.js",
-      "article",
-      "translate"
-    ],
-    "example": {
-      "title": "Next.jsを4年間使用してたどりついた、エンタープライズアプリケーションのフロントエンド開発・構築手法 | POSTD",
-      "url": "https://postd.cc/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs/"
-    },
-    "rssUrl": "https://postd.cc/feed/"
   },
   {
     "count": 1,
