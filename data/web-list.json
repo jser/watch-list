@@ -1002,22 +1002,6 @@
   },
   {
     "count": 3,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "ReleaseNote",
-      "vite",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing Vue 3.5 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vue-3-5"
-    },
-    "rssUrl": "https://blog.vuejs.org/feed.rss"
-  },
-  {
-    "count": 3,
     "url": "https://zenn.dev/morinokami/",
     "tags": [
       "astro",
@@ -1354,21 +1338,6 @@
   },
   {
     "count": 2,
-    "url": "https://calendar.perfplanet.com",
-    "tags": [
-      "performance",
-      "JavaScript",
-      "article",
-      "Chrome"
-    ],
-    "example": {
-      "title": "Web Performance Calendar » Digging through Chrome traces: an introduction with an example",
-      "url": "https://calendar.perfplanet.com/2023/digging-chrome-traces-introduction-example/"
-    },
-    "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 2,
     "url": "https://risingstars.js.org",
     "tags": [
       "JavaScript",
@@ -1500,6 +1469,22 @@
       "title": "Announcing Rsdoctor 1.0 - Rsdoctor",
       "url": "https://rsdoctor.dev/blog/release/release-note-1_0"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "vite",
+      "document",
+      "Tools",
+      "ReleaseNote",
+      "Vue"
+    ],
+    "example": {
+      "title": "Announcing Vue 3.5 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vue-3-5"
+    },
+    "rssUrl": "https://blog.vuejs.org/feed.rss"
   },
   {
     "count": 2,
@@ -2044,6 +2029,24 @@
       "url": "https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.19.0"
     },
     "rssUrl": "https://github.com/oxc-project/oxc/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://calendar.perfplanet.com",
+    "tags": [
+      "URL",
+      "article",
+      "SEO",
+      "cdn",
+      "browser",
+      "performance",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
+      "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
+    },
+    "rssUrl": "https://calendar.perfplanet.com/feed/"
   },
   {
     "count": 1,
