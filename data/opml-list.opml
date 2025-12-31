@@ -28,7 +28,6 @@
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
 <outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
 <outline text="blog.nginx.org" title="blog.nginx.org" type="rss" xmlUrl="https://blog.nginx.org/feed"/>
-<outline text="blog.osstech.co.jp" title="blog.osstech.co.jp" type="rss" xmlUrl="https://blog.osstech.co.jp/posts/index.xml"/>
 <outline text="blog.platformatic.dev" title="blog.platformatic.dev" type="rss" xmlUrl="https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"/>
 <outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
@@ -39,6 +38,7 @@
 <outline text="blogs.windows.com" title="blogs.windows.com" type="rss" xmlUrl="https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/feed/"/>
 <outline text="bun.com" title="bun.com" type="rss" xmlUrl="https://bun.com/rss.xml"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
+<outline text="buttondown.com" title="buttondown.com" type="rss" xmlUrl="https://buttondown.com/whatever_jamie/rss"/>
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
 <outline text="cheerpj.com" title="cheerpj.com" type="rss" xmlUrl="https://cheerpj.com/feed/"/>
 <outline text="ckeditor.com" title="ckeditor.com" type="rss" xmlUrl="https://ckeditor.com/rss.xml"/>
@@ -234,5 +234,6 @@
 <outline text="zenn.dev/topi_log/" title="zenn.dev/topi_log/" type="rss" xmlUrl="https://zenn.dev/topi_log/feed"/>
 <outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/exwzd/" title="zenn.dev/exwzd/" type="rss" xmlUrl="https://zenn.dev/p/exwzd/feed"/>
+<outline text="zenn.dev/yamachu/" title="zenn.dev/yamachu/" type="rss" xmlUrl="https://zenn.dev/yamachu/feed"/>
 </body>
 </opml>
