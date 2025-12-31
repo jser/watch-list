@@ -151,12 +151,6 @@
     ]
   },
   {
-    "url": "https://blog.osstech.co.jp",
-    "feeds": [
-      "https://blog.osstech.co.jp/posts/index.xml"
-    ]
-  },
-  {
     "url": "https://blog.platformatic.dev",
     "feeds": [
       "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml",
@@ -216,6 +210,12 @@
     "url": "https://bun.sh",
     "feeds": [
       "https://bun.sh/rss.xml"
+    ]
+  },
+  {
+    "url": "https://buttondown.com",
+    "feeds": [
+      "https://buttondown.com/whatever_jamie/rss"
     ]
   },
   {
@@ -1730,6 +1730,12 @@
     ]
   },
   {
+    "url": "https://github.com/jiftechnify/eject-enum",
+    "feeds": [
+      "https://github.com/jiftechnify/eject-enum/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2751,6 +2757,12 @@
     "url": "https://zenn.dev/exwzd/",
     "feeds": [
       "https://zenn.dev/p/exwzd/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yamachu/",
+    "feeds": [
+      "https://zenn.dev/yamachu/feed"
     ]
   }
 ]
