@@ -674,9 +674,9 @@
     ]
   },
   {
-    "url": "https://github.com/speed-highlight/core",
+    "url": "https://github.com/colinhacks/zod",
     "feeds": [
-      "https://github.com/speed-highlight/core/releases.atom"
+      "https://github.com/colinhacks/zod/releases.atom"
     ]
   },
   {
@@ -1565,12 +1565,6 @@
     "url": "https://github.com/image-js/image-js",
     "feeds": [
       "https://github.com/image-js/image-js/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/colinhacks/zod",
-    "feeds": [
-      "https://github.com/colinhacks/zod/releases.atom"
     ]
   },
   {

@@ -113,7 +113,7 @@
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
-<outline text="github.com/speed-highlight/core" title="github.com/speed-highlight/core" type="rss" xmlUrl="https://github.com/speed-highlight/core/releases.atom"/>
+<outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/cloudflare/next-on-pages" title="github.com/cloudflare/next-on-pages" type="rss" xmlUrl="https://github.com/cloudflare/next-on-pages/releases.atom"/>
 <outline text="github.com/wevm/vocs" title="github.com/wevm/vocs" type="rss" xmlUrl="https://github.com/wevm/vocs/releases.atom"/>
 <outline text="github.com/penrose/penrose" title="github.com/penrose/penrose" type="rss" xmlUrl="https://github.com/penrose/penrose/releases.atom"/>
@@ -262,7 +262,6 @@
 <outline text="github.com/sidequestjs/sidequest" title="github.com/sidequestjs/sidequest" type="rss" xmlUrl="https://github.com/sidequestjs/sidequest/releases.atom"/>
 <outline text="github.com/adamhl8/filterql" title="github.com/adamhl8/filterql" type="rss" xmlUrl="https://github.com/adamhl8/filterql/releases.atom"/>
 <outline text="github.com/image-js/image-js" title="github.com/image-js/image-js" type="rss" xmlUrl="https://github.com/image-js/image-js/releases.atom"/>
-<outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/krasimir/forket" title="github.com/krasimir/forket" type="rss" xmlUrl="https://github.com/krasimir/forket/releases.atom"/>
 <outline text="github.com/panphora/overtype" title="github.com/panphora/overtype" type="rss" xmlUrl="https://github.com/panphora/overtype/releases.atom"/>
 <outline text="github.com/embedpdf/embed-pdf-viewer" title="github.com/embedpdf/embed-pdf-viewer" type="rss" xmlUrl="https://github.com/embedpdf/embed-pdf-viewer/releases.atom"/>
