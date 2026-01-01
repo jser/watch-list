@@ -41,15 +41,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.24 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.24.0"
+      "title": "Release pnpm 10.27 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.27.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -718,6 +718,19 @@
     }
   },
   {
+    "count": 5,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 1.7 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-1-7"
+    },
+    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
+  },
+  {
     "count": 4,
     "url": "https://github.com/jsdom/jsdom",
     "tags": [
@@ -974,19 +987,6 @@
       "url": "https://blog.vlt.sh/blog/vlt-build"
     },
     "rssUrl": "https://blog.vlt.sh/feed.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.6 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-1-6"
-    },
-    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
   },
   {
     "count": 4,
@@ -2032,6 +2032,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/colinhacks/zod",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "ReleaseNote",
+      "JSON"
+    ],
+    "example": {
+      "title": "Release v4.3.0 · colinhacks/zod",
+      "url": "https://github.com/colinhacks/zod/releases/tag/v4.3.0"
+    },
+    "rssUrl": "https://github.com/colinhacks/zod/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "URL",
@@ -2047,19 +2063,6 @@
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/speed-highlight/core",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "speed-highlight/core: 🌈 Light, fast, and easy to use, dependencies free javascript syntax highlighter, with automatic language detection",
-      "url": "https://github.com/speed-highlight/core"
-    },
-    "rssUrl": "https://github.com/speed-highlight/core/releases.atom"
   },
   {
     "count": 1,
@@ -7248,21 +7251,6 @@
       "url": "https://github.com/image-js/image-js"
     },
     "rssUrl": "https://github.com/image-js/image-js/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/colinhacks/zod",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.1.0 · colinhacks/zod",
-      "url": "https://github.com/colinhacks/zod/releases/tag/v4.1.0"
-    },
-    "rssUrl": "https://github.com/colinhacks/zod/releases.atom"
   },
   {
     "count": 1,
