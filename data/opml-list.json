@@ -743,12 +743,6 @@
     ]
   },
   {
-    "url": "https://quick-lint-js.com",
-    "feeds": [
-      "https://quick-lint-js.com/blog/feed.xml"
-    ]
-  },
-  {
     "url": "https://react.dev",
     "feeds": [
       "https://react.dev/rss.xml"
@@ -1014,12 +1008,6 @@
     "feeds": [
       "https://v2.tauri.app/blog/rss.xml",
       "https://v2.tauri.app/rss/"
-    ]
-  },
-  {
-    "url": "https://v2.vuejs.org",
-    "feeds": [
-      "https://v2.vuejs.org/atom.xml"
     ]
   },
   {
@@ -1308,18 +1296,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/uki00a/",
-    "feeds": [
-      "https://zenn.dev/uki00a/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/cybozu_frontend/",
     "feeds": [
       "https://zenn.dev/p/cybozu_frontend/feed"
@@ -1332,6 +1308,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
@@ -1341,6 +1323,12 @@
     "url": "https://zenn.dev/yumemi_inc/",
     "feeds": [
       "https://zenn.dev/p/yumemi_inc/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/uki00a/",
+    "feeds": [
+      "https://zenn.dev/uki00a/feed"
     ]
   },
   {

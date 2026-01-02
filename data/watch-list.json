@@ -964,31 +964,6 @@
   },
   {
     "count": 3,
-    "url": "https://zenn.dev/morinokami/",
-    "tags": [
-      "astro",
-      "article",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Next.js PPR と比較して理解する Astro Server Islands",
-      "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://zenn.dev/uki00a/",
-    "tags": [
-      "deno",
-      "article"
-    ],
-    "example": {
-      "title": "Denoのフロントエンド開発の動向【2025年夏】",
-      "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1459,6 +1434,19 @@
   },
   {
     "count": 2,
+    "url": "https://zenn.dev/morinokami/",
+    "tags": [
+      "nodejs",
+      "article",
+      "astro"
+    ],
+    "example": {
+      "title": "Next.js PPR と比較して理解する Astro Server Islands",
+      "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/mswjs/msw",
     "tags": [
       "JavaScript",
@@ -1643,6 +1631,18 @@
     "example": {
       "title": "Material UI v7 is here 🚀 - MUI",
       "url": "https://mui.com/blog/material-ui-v7-is-here/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/uki00a/",
+    "tags": [
+      "deno",
+      "article"
+    ],
+    "example": {
+      "title": "Denoのフロントエンド開発の動向【2025年夏】",
+      "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
     }
   },
   {
@@ -1987,47 +1987,6 @@
     "example": {
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://v2.vuejs.org",
-    "tags": [
-      "Vue",
-      "news"
-    ],
-    "example": {
-      "title": "Vue.js",
-      "url": "https://v2.vuejs.org/eol/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://quick-lint-js.com",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "TypeScript Clearly & Quickly",
-      "url": "https://quick-lint-js.com/blog/version-3.0/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://pagefind.app",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "library",
-      "search",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Pagefind | Pagefind — Static low-bandwidth search at scale",
-      "url": "https://pagefind.app/"
     }
   },
   {

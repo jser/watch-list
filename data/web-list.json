@@ -1002,33 +1002,6 @@
   },
   {
     "count": 3,
-    "url": "https://zenn.dev/morinokami/",
-    "tags": [
-      "astro",
-      "article",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Next.js PPR と比較して理解する Astro Server Islands",
-      "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
-    },
-    "rssUrl": "https://zenn.dev/morinokami/feed"
-  },
-  {
-    "count": 3,
-    "url": "https://zenn.dev/uki00a/",
-    "tags": [
-      "deno",
-      "article"
-    ],
-    "example": {
-      "title": "Denoのフロントエンド開発の動向【2025年夏】",
-      "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
-    },
-    "rssUrl": "https://zenn.dev/uki00a/feed"
-  },
-  {
-    "count": 3,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1517,6 +1490,20 @@
   },
   {
     "count": 2,
+    "url": "https://zenn.dev/morinokami/",
+    "tags": [
+      "nodejs",
+      "article",
+      "astro"
+    ],
+    "example": {
+      "title": "Next.js PPR と比較して理解する Astro Server Islands",
+      "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
+    },
+    "rssUrl": "https://zenn.dev/morinokami/feed"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/mswjs/msw",
     "tags": [
       "JavaScript",
@@ -1708,6 +1695,19 @@
       "url": "https://mui.com/blog/material-ui-v7-is-here/"
     },
     "rssUrl": "https://mui.com/feed/blog/rss.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/uki00a/",
+    "tags": [
+      "deno",
+      "article"
+    ],
+    "example": {
+      "title": "Denoのフロントエンド開発の動向【2025年夏】",
+      "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
+    },
+    "rssUrl": "https://zenn.dev/uki00a/feed"
   },
   {
     "count": 2,
@@ -2063,49 +2063,6 @@
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://v2.vuejs.org",
-    "tags": [
-      "Vue",
-      "news"
-    ],
-    "example": {
-      "title": "Vue.js",
-      "url": "https://v2.vuejs.org/eol/"
-    },
-    "rssUrl": "https://v2.vuejs.org/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://quick-lint-js.com",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "TypeScript Clearly & Quickly",
-      "url": "https://quick-lint-js.com/blog/version-3.0/"
-    },
-    "rssUrl": "https://quick-lint-js.com/blog/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://pagefind.app",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "library",
-      "search",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Pagefind | Pagefind — Static low-bandwidth search at scale",
-      "url": "https://pagefind.app/"
-    }
   },
   {
     "count": 1,
