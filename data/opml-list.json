@@ -116,12 +116,6 @@
     ]
   },
   {
-    "url": "https://blog.google",
-    "feeds": [
-      "https://blog.google/rss/"
-    ]
-  },
-  {
     "url": "https://blog.jetbrains.com",
     "feeds": [
       "https://blog.jetbrains.com/blog/feed/",
