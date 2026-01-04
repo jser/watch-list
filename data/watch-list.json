@@ -1991,19 +1991,6 @@
   },
   {
     "count": 1,
-    "url": "https://blog.google",
-    "tags": [
-      "Chrome",
-      "privacy",
-      "news"
-    ],
-    "example": {
-      "title": "Google shares update on next step toward phasing out third-party cookies in Chrome",
-      "url": "https://blog.google/products/chrome/privacy-sandbox-tracking-protection/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://julesblom.com",
     "tags": [
       "React",
