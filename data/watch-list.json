@@ -1263,20 +1263,6 @@
   },
   {
     "count": 2,
-    "url": "https://risingstars.js.org",
-    "tags": [
-      "JavaScript",
-      "Github",
-      "news",
-      "library"
-    ],
-    "example": {
-      "title": "2024 JavaScript Rising Stars",
-      "url": "https://risingstars.js.org/2024/en"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/capricorn86/happy-dom",
     "tags": [
       "JavaScript",
@@ -5475,6 +5461,19 @@
       "url": "https://github.com/esm-dev/esm.sh/releases/tag/v136"
     },
     "rssUrl": "https://github.com/esm-dev/esm.sh/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://risingstars.js.org",
+    "tags": [
+      "JavaScript",
+      "library",
+      "news"
+    ],
+    "example": {
+      "title": "2024 JavaScript Rising Stars",
+      "url": "https://risingstars.js.org/2024/en"
+    }
   },
   {
     "count": 1,
