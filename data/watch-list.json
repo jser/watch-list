@@ -378,38 +378,6 @@
     }
   },
   {
-    "count": 8,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 8,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.10.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
     "count": 7,
     "url": "https://biomejs.dev",
     "tags": [
@@ -423,6 +391,22 @@
     "example": {
       "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
       "url": "https://biomejs.dev/blog/biome-v2-3/"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
     }
   },
   {
@@ -443,6 +427,22 @@
       "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
       "url": "https://socket.dev/blog/introducing-socket-firewall"
     }
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono"
+    ],
+    "example": {
+      "title": "Release v4.10.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 7,
@@ -1462,6 +1462,18 @@
   },
   {
     "count": 2,
+    "url": "https://zenn.dev/uhyo/",
+    "tags": [
+      "React",
+      "book"
+    ],
+    "example": {
+      "title": "jotaiによるReact再入門",
+      "url": "https://zenn.dev/uhyo/books/learn-react-with-jotai"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/biomejs/biome",
     "tags": [
       "JavaScript",
@@ -1973,18 +1985,6 @@
     "example": {
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://julesblom.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "More Than You Need to Know About ReactDOM.flushSync | JulesBlom.com",
-      "url": "https://julesblom.com/writing/flushsync"
     }
   },
   {
@@ -3579,18 +3579,6 @@
     "example": {
       "title": "デジタル庁デザインシステムβ版",
       "url": "https://design.digital.go.jp/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/uhyo/",
-    "tags": [
-      "React",
-      "book"
-    ],
-    "example": {
-      "title": "React 19の新機能まるわかり",
-      "url": "https://zenn.dev/uhyo/books/react-19-new"
     }
   },
   {

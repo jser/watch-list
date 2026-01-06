@@ -1308,6 +1308,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/uhyo/",
+    "feeds": [
+      "https://zenn.dev/uhyo/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
@@ -1359,12 +1365,6 @@
     "url": "https://zenn.dev/knowledgework/",
     "feeds": [
       "https://zenn.dev/p/knowledgework/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/uhyo/",
-    "feeds": [
-      "https://zenn.dev/uhyo/feed"
     ]
   },
   {
