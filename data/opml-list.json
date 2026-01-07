@@ -1171,6 +1171,13 @@
     ]
   },
   {
+    "url": "https://www.flint.fyi",
+    "feeds": [
+      "https://flint.fyi/blog/rss.xml",
+      "https://www.flint.fyi/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://www.joshuakgoldberg.com",
     "feeds": [
       "https://www.joshuakgoldberg.com/rss.xml"

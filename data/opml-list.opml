@@ -186,6 +186,7 @@
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.epicreact.dev" title="www.epicreact.dev" type="rss" xmlUrl="https://www.epicreact.dev/rss.xml"/>
 <outline text="www.epicweb.dev" title="www.epicweb.dev" type="rss" xmlUrl="https://www.epicweb.dev/rss.xml"/>
+<outline text="www.flint.fyi" title="www.flint.fyi" type="rss" xmlUrl="https://flint.fyi/blog/rss.xml"/>
 <outline text="www.joshuakgoldberg.com" title="www.joshuakgoldberg.com" type="rss" xmlUrl="https://www.joshuakgoldberg.com/rss.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.keithcirkel.co.uk" title="www.keithcirkel.co.uk" type="rss" xmlUrl="https://www.keithcirkel.co.uk/feed.xml"/>
