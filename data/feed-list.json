@@ -1724,6 +1724,12 @@
     ]
   },
   {
+    "url": "https://github.com/vjeux/webcodecs-nodejs-10k-challenge",
+    "feeds": [
+      "https://github.com/vjeux/webcodecs-nodejs-10k-challenge/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -2452,6 +2458,13 @@
     "url": "https://www.epicweb.dev",
     "feeds": [
       "https://www.epicweb.dev/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.flint.fyi",
+    "feeds": [
+      "https://flint.fyi/blog/rss.xml",
+      "https://www.flint.fyi/blog/rss.xml"
     ]
   },
   {

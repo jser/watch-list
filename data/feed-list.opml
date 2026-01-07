@@ -288,6 +288,7 @@
 <outline text="github.com/vuejs/core" title="github.com/vuejs/core" type="rss" xmlUrl="https://github.com/vuejs/core/releases.atom"/>
 <outline text="github.com/bellard/mquickjs?tab=readme-ov-file" title="github.com/bellard/mquickjs?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/bellard/mquickjs?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/jiftechnify/eject-enum" title="github.com/jiftechnify/eject-enum" type="rss" xmlUrl="https://github.com/jiftechnify/eject-enum/releases.atom"/>
+<outline text="github.com/vjeux/webcodecs-nodejs-10k-challenge" title="github.com/vjeux/webcodecs-nodejs-10k-challenge" type="rss" xmlUrl="https://github.com/vjeux/webcodecs-nodejs-10k-challenge/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -400,6 +401,7 @@
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>
 <outline text="www.epicreact.dev" title="www.epicreact.dev" type="rss" xmlUrl="https://www.epicreact.dev/rss.xml"/>
 <outline text="www.epicweb.dev" title="www.epicweb.dev" type="rss" xmlUrl="https://www.epicweb.dev/rss.xml"/>
+<outline text="www.flint.fyi" title="www.flint.fyi" type="rss" xmlUrl="https://flint.fyi/blog/rss.xml"/>
 <outline text="www.joshuakgoldberg.com" title="www.joshuakgoldberg.com" type="rss" xmlUrl="https://www.joshuakgoldberg.com/rss.xml"/>
 <outline text="www.joshwcomeau.com" title="www.joshwcomeau.com" type="rss" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
 <outline text="www.keithcirkel.co.uk" title="www.keithcirkel.co.uk" type="rss" xmlUrl="https://www.keithcirkel.co.uk/feed.xml"/>

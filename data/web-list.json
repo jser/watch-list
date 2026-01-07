@@ -8020,5 +8020,34 @@
       "url": "https://zenn.dev/yamachu/articles/abaad71eaa30fe"
     },
     "rssUrl": "https://zenn.dev/yamachu/feed"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vjeux/webcodecs-nodejs-10k-challenge",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "video",
+      "library"
+    ],
+    "example": {
+      "title": "vjeux/webcodecs-nodejs-10k-challenge: Let's get WebCodec to the server",
+      "url": "https://github.com/vjeux/webcodecs-nodejs-10k-challenge/"
+    },
+    "rssUrl": "https://github.com/vjeux/webcodecs-nodejs-10k-challenge/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.flint.fyi",
+    "tags": [
+      "ESLint",
+      "Tools",
+      "article"
+    ],
+    "example": {
+      "title": "Introducing Flint | Flint",
+      "url": "https://www.flint.fyi/blog/introducing-flint/"
+    },
+    "rssUrl": "https://flint.fyi/blog/rss.xml"
   }
 ]
