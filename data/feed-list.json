@@ -482,12 +482,6 @@
     ]
   },
   {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nuxt/nuxt",
     "feeds": [
       "https://github.com/nuxt/nuxt/releases.atom"
@@ -569,6 +563,12 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -1727,6 +1727,12 @@
     "url": "https://github.com/vjeux/webcodecs-nodejs-10k-challenge",
     "feeds": [
       "https://github.com/vjeux/webcodecs-nodejs-10k-challenge/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "feeds": [
+      "https://github.com/tailwindlabs/tailwindcss.com/releases.atom"
     ]
   },
   {
