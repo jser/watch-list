@@ -52,7 +52,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 22,
+    "count": 23,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -66,8 +66,8 @@
       "css"
     ],
     "example": {
-      "title": "Release Notes for Safari Technology Preview 229 | WebKit",
-      "url": "https://webkit.org/blog/17447/release-notes-for-safari-technology-preview-229/"
+      "title": "Introducing CSS Grid Lanes | WebKit",
+      "url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/"
     }
   },
   {
@@ -700,21 +700,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release Version 27.0.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://www.rspack.dev",
     "tags": [
       "JavaScript",
@@ -1188,6 +1173,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release Version 27.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/nrwl/nx",
     "tags": [
       "nodejs",
@@ -1259,6 +1259,22 @@
     "example": {
       "title": "Vite 8 Beta: The Rolldown-powered Vite | VoidZero",
       "url": "https://voidzero.dev/posts/announcing-vite-8-beta"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://devongovett.me",
+    "tags": [
+      "JavaScript",
+      "bundler",
+      "article",
+      "parcel",
+      "React",
+      "Tools"
+    ],
+    "example": {
+      "title": "How to compile JavaScript to C with Static Hermes",
+      "url": "https://devongovett.me/blog/static-hermes.html"
     }
   },
   {
@@ -1909,21 +1925,6 @@
   },
   {
     "count": 2,
-    "url": "https://devongovett.me",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "article",
-      "parcel",
-      "React"
-    ],
-    "example": {
-      "title": "How Parcel bundles React Server Components",
-      "url": "https://devongovett.me/blog/parcel-rsc.html"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://tanstack.com",
     "tags": [
       "JavaScript",
@@ -1969,6 +1970,19 @@
       "url": "https://github.com/colinhacks/zod/releases/tag/v4.3.0"
     },
     "rssUrl": "https://github.com/colinhacks/zod/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "🚀 pnpm in 2025 | pnpm",
+      "url": "https://pnpm.io/blog/2025/12/29/pnpm-in-2025"
+    }
   },
   {
     "count": 2,
@@ -7690,19 +7704,6 @@
   },
   {
     "count": 1,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "How We're Protecting Our Newsroom from npm Supply Chain Attacks | pnpm",
-      "url": "https://pnpm.io/blog/2025/12/05/newsroom-npm-supply-chain-security"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/gaearon/rscexplorer",
     "tags": [
       "React",
@@ -7820,5 +7821,43 @@
       "title": "Introducing Flint | Flint",
       "url": "https://www.flint.fyi/blog/introducing-flint/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://www.viget.com",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "Fixing TypeScript Performance Problems: A Case Study | Viget",
+      "url": "https://www.viget.com/articles/fixing-typescript-performance-problems"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://gauravthakur.com",
+    "tags": [
+      "React",
+      "article"
+    ],
+    "example": {
+      "title": "Data Fetching Patterns in React Server Components",
+      "url": "https://gauravthakur.com/blog/data-fetching-patterns-react-server-components"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "tags": [
+      "company",
+      "css",
+      "news"
+    ],
+    "example": {
+      "title": "feat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/tailwindcss.com",
+      "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957"
+    },
+    "rssUrl": "https://github.com/tailwindlabs/tailwindcss.com/releases.atom"
   }
 ]
