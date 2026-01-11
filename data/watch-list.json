@@ -20,7 +20,7 @@
     }
   },
   {
-    "count": 34,
+    "count": 33,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -379,22 +379,6 @@
   },
   {
     "count": 7,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "Rust",
-      "biome"
-    ],
-    "example": {
-      "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-3/"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -545,6 +529,22 @@
     "example": {
       "title": "Security advisory",
       "url": "https://storybook.js.org/blog/security-advisory/"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "Rust",
+      "biome"
+    ],
+    "example": {
+      "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-3/"
     }
   },
   {
