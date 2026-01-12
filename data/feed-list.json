@@ -584,12 +584,6 @@
     ]
   },
   {
-    "url": "https://github.com/capricorn86/happy-dom",
-    "feeds": [
-      "https://github.com/capricorn86/happy-dom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/expressjs/express",
     "feeds": [
       "https://github.com/expressjs/express/releases.atom"
@@ -935,6 +929,12 @@
     "url": "https://github.com/stackblitz-labs/pkg.pr.new",
     "feeds": [
       "https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/capricorn86/happy-dom",
+    "feeds": [
+      "https://github.com/capricorn86/happy-dom/releases.atom"
     ]
   },
   {
@@ -2638,12 +2638,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yamachan0625/",
-    "feeds": [
-      "https://zenn.dev/yamachan0625/feed"
     ]
   },
   {

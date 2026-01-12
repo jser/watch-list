@@ -98,7 +98,6 @@
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
 <outline text="github.com/biomejs/biome" title="github.com/biomejs/biome" type="rss" xmlUrl="https://github.com/biomejs/biome/releases.atom"/>
@@ -157,6 +156,7 @@
 <outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
 <outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
 <outline text="github.com/stackblitz-labs/pkg.pr.new" title="github.com/stackblitz-labs/pkg.pr.new" type="rss" xmlUrl="https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"/>
+<outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" title="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/vue-email/vue-email?tab=readme-ov-file" title="github.com/vue-email/vue-email?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/pmndrs/valtio" title="github.com/pmndrs/valtio" type="rss" xmlUrl="https://github.com/pmndrs/valtio/releases.atom"/>
@@ -429,7 +429,6 @@
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/yamachan0625/" title="zenn.dev/yamachan0625/" type="rss" xmlUrl="https://zenn.dev/yamachan0625/feed"/>
 <outline text="zenn.dev/team_zenn/" title="zenn.dev/team_zenn/" type="rss" xmlUrl="https://zenn.dev/p/team_zenn/feed"/>
 <outline text="zenn.dev/aishift/" title="zenn.dev/aishift/" type="rss" xmlUrl="https://zenn.dev/p/aishift/feed"/>
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
