@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -122,8 +122,8 @@
       "HTML"
     ],
     "example": {
-      "title": "What's coming in ESLint v10.0.0 - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2025/10/whats-coming-in-eslint-10.0.0/"
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
     }
   },
   {
@@ -700,21 +700,6 @@
   },
   {
     "count": 4,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "webpack",
-      "rspack"
-    ],
-    "example": {
-      "title": "Announcing Rspack v1.0 Alpha - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://ishadeed.com",
     "tags": [
       "CSS",
@@ -1027,6 +1012,21 @@
   },
   {
     "count": 3,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "JavaScript",
+      "webpack",
+      "ReleaseNote",
+      "bundler",
+      "rspack"
+    ],
+    "example": {
+      "title": "Announcing Rspack v1.0 Alpha - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://www.joshwcomeau.com",
     "tags": [
       "Next.js",
@@ -1276,22 +1276,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/capricorn86/happy-dom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "ReleaseNote",
-      "nodejs",
-      "library"
-    ],
-    "example": {
-      "title": "Release v15.0.0 · capricorn86/happy-dom",
-      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.0.0"
-    },
-    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
   },
   {
     "count": 2,
@@ -1999,33 +1983,6 @@
     "example": {
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/yamachan0625/",
-    "tags": [
-      "DDD",
-      "TypeScript",
-      "book"
-    ],
-    "example": {
-      "title": "【DDD入門】TypeScript × ドメイン駆動設計ハンズオン",
-      "url": "https://zenn.dev/yamachan0625/books/ddd-hands-on"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://ubugeeei.github.io",
-    "tags": [
-      "Vue",
-      "JavaScript",
-      "book",
-      "tutorial"
-    ],
-    "example": {
-      "title": "The chibivue Book | The chibivue Book",
-      "url": "https://ubugeeei.github.io/chibivue/"
     }
   },
   {
@@ -4247,6 +4204,21 @@
       "url": "https://github.com/stackblitz-labs/pkg.pr.new"
     },
     "rssUrl": "https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/capricorn86/happy-dom",
+    "tags": [
+      "nodejs",
+      "DOM",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v15.0.0 · capricorn86/happy-dom",
+      "url": "https://github.com/capricorn86/happy-dom/releases/tag/v15.0.0"
+    },
+    "rssUrl": "https://github.com/capricorn86/happy-dom/releases.atom"
   },
   {
     "count": 1,
