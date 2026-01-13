@@ -590,20 +590,6 @@
   },
   {
     "count": 5,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prettier 3.7: Improved formatting consistency and new plugin features! · Prettier",
-      "url": "https://prettier.io/blog/2025/11/27/3.7.0"
-    },
-    "rssUrl": "https://prettier.io/blog/atom.xml"
-  },
-  {
-    "count": 5,
     "url": "https://efcl.info",
     "tags": [
       "npm",
@@ -859,6 +845,20 @@
       "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
     },
     "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Prettier 3.7: Improved formatting consistency and new plugin features! · Prettier",
+      "url": "https://prettier.io/blog/2025/11/27/3.7.0"
+    },
+    "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
     "count": 4,
