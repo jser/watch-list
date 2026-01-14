@@ -598,6 +598,13 @@
     ]
   },
   {
+    "url": "https://moonrepo.dev",
+    "feeds": [
+      "https://moonrepo.dev/blog/rss.xml",
+      "https://moonrepo.dev/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://mui.com",
     "feeds": [
       "https://mui.com/feed/blog/rss.xml"

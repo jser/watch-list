@@ -578,6 +578,12 @@
     ]
   },
   {
+    "url": "https://github.com/chakra-ui/panda",
+    "feeds": [
+      "https://github.com/chakra-ui/panda/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
@@ -641,12 +647,6 @@
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/chakra-ui/panda",
-    "feeds": [
-      "https://github.com/chakra-ui/panda/releases.atom"
     ]
   },
   {
@@ -1736,6 +1736,18 @@
     ]
   },
   {
+    "url": "https://github.com/qunitjs/qunit",
+    "feeds": [
+      "https://github.com/qunitjs/qunit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/MotiaDev/motia",
+    "feeds": [
+      "https://github.com/MotiaDev/motia/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -1885,6 +1897,13 @@
     "url": "https://medium.com/@nathanacurtis/",
     "feeds": [
       "https://medium.com/feed/@nathanacurtis"
+    ]
+  },
+  {
+    "url": "https://moonrepo.dev",
+    "feeds": [
+      "https://moonrepo.dev/blog/rss.xml",
+      "https://moonrepo.dev/blog/atom.xml"
     ]
   },
   {

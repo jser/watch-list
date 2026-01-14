@@ -1250,6 +1250,23 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/chakra-ui/panda",
+    "tags": [
+      "pandacs",
+      "library",
+      "ReleaseNote",
+      "css",
+      "TypeScript",
+      "MCP"
+    ],
+    "example": {
+      "title": "Release @pandacss/dev@1.8.0 · chakra-ui/panda",
+      "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%401.8.0"
+    },
+    "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://vitest.dev",
     "tags": [
       "vite",
@@ -1843,22 +1860,6 @@
       "url": "https://kaminashi-developer.hatenablog.jp/entry/2025/04/30/080000"
     },
     "rssUrl": "https://kaminashi-developer.hatenablog.jp/feed"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/chakra-ui/panda",
-    "tags": [
-      "pandacs",
-      "library",
-      "ReleaseNote",
-      "css",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "🐼 Panda v1 🎊 · chakra-ui/panda · Discussion #3321",
-      "url": "https://github.com/chakra-ui/panda/discussions/3321"
-    },
-    "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
   },
   {
     "count": 2,
@@ -8059,5 +8060,47 @@
       "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957"
     },
     "rssUrl": "https://github.com/tailwindlabs/tailwindcss.com/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/qunitjs/qunit",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "test"
+    ],
+    "example": {
+      "title": "Release 3.0.0-rc1 · qunitjs/qunit",
+      "url": "https://github.com/qunitjs/qunit/releases/tag/3.0.0-rc1"
+    },
+    "rssUrl": "https://github.com/qunitjs/qunit/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://moonrepo.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Alpha release of moon v2 now available! | moonrepo",
+      "url": "https://moonrepo.dev/blog/moon-v2-alpha"
+    },
+    "rssUrl": "https://moonrepo.dev/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/MotiaDev/motia",
+    "tags": [
+      "nodejs",
+      "library"
+    ],
+    "example": {
+      "title": "MotiaDev/motia: Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.",
+      "url": "https://github.com/MotiaDev/motia"
+    },
+    "rssUrl": "https://github.com/MotiaDev/motia/releases.atom"
   }
 ]
