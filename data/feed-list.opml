@@ -97,6 +97,7 @@
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
+<outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
@@ -108,7 +109,6 @@
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
-<outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
@@ -290,6 +290,8 @@
 <outline text="github.com/jiftechnify/eject-enum" title="github.com/jiftechnify/eject-enum" type="rss" xmlUrl="https://github.com/jiftechnify/eject-enum/releases.atom"/>
 <outline text="github.com/vjeux/webcodecs-nodejs-10k-challenge" title="github.com/vjeux/webcodecs-nodejs-10k-challenge" type="rss" xmlUrl="https://github.com/vjeux/webcodecs-nodejs-10k-challenge/releases.atom"/>
 <outline text="github.com/tailwindlabs/tailwindcss.com" title="github.com/tailwindlabs/tailwindcss.com" type="rss" xmlUrl="https://github.com/tailwindlabs/tailwindcss.com/releases.atom"/>
+<outline text="github.com/qunitjs/qunit" title="github.com/qunitjs/qunit" type="rss" xmlUrl="https://github.com/qunitjs/qunit/releases.atom"/>
+<outline text="github.com/MotiaDev/motia" title="github.com/MotiaDev/motia" type="rss" xmlUrl="https://github.com/MotiaDev/motia/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -314,6 +316,7 @@
 <outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>
 <outline text="medium.com/dartlang/" title="medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>
 <outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
+<outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
 <outline text="mui.com" title="mui.com" type="rss" xmlUrl="https://mui.com/feed/blog/rss.xml"/>
 <outline text="mwskwong.com" title="mwskwong.com" type="rss" xmlUrl="https://mwskwong.com/blog/rss.xml"/>
 <outline text="nanto.asablo.jp" title="nanto.asablo.jp" type="rss" xmlUrl="https://nanto.asablo.jp/blog/rss"/>
