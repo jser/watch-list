@@ -1748,6 +1748,18 @@
     ]
   },
   {
+    "url": "https://github.com/VibiumDev/vibium",
+    "feeds": [
+      "https://github.com/VibiumDev/vibium/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "feeds": [
+      "https://github.com/vercel-labs/agent-browser/releases.atom"
+    ]
+  },
+  {
     "url": "https://humanwhocodes.com",
     "feeds": [
       "https://humanwhocodes.com/feeds/blog.xml",
@@ -1910,12 +1922,6 @@
     "url": "https://mui.com",
     "feeds": [
       "https://mui.com/feed/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://mwskwong.com",
-    "feeds": [
-      "https://mwskwong.com/blog/rss.xml"
     ]
   },
   {
