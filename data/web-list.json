@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js v24.12.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.12.0"
+      "title": "Node.js — Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users",
+      "url": "https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -394,6 +394,22 @@
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
+    "count": 8,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun v1.3.6 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.6"
+    },
+    "rssUrl": "https://bun.com/rss.xml"
+  },
+  {
     "count": 7,
     "url": "https://astro.build",
     "tags": [
@@ -501,22 +517,6 @@
       "url": "https://github.blog/changelog/2025-11-05-npm-security-update-classic-token-creation-disabled-and-granular-token-changes/"
     },
     "rssUrl": "https://github.blog/feed/"
-  },
-  {
-    "count": 7,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun is joining Anthropic | Bun Blog",
-      "url": "https://bun.com/blog/bun-joins-anthropic"
-    },
-    "rssUrl": "https://bun.com/rss.xml"
   },
   {
     "count": 6,
@@ -2062,33 +2062,6 @@
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://mwskwong.com",
-    "tags": [
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Migrating from Zod to Valibot: A Comparative Experience | Matthew Kwong",
-      "url": "https://mwskwong.com/blog/migrating-from-zod-to-valibot-a-comparative-experience"
-    },
-    "rssUrl": "https://mwskwong.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://idraw.js.org",
-    "tags": [
-      "JavaScript",
-      "canvas",
-      "library",
-      "editor"
-    ],
-    "example": {
-      "title": "iDraw.js | iDraw.js",
-      "url": "https://idraw.js.org/docs/en-US/"
-    }
   },
   {
     "count": 1,
@@ -8102,5 +8075,47 @@
       "url": "https://github.com/MotiaDev/motia"
     },
     "rssUrl": "https://github.com/MotiaDev/motia/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/VibiumDev/vibium",
+    "tags": [
+      "Selenium",
+      "MCP",
+      "Tools"
+    ],
+    "example": {
+      "title": "VibiumDev/vibium: Browser automation for AI agents and humans",
+      "url": "https://github.com/VibiumDev/vibium"
+    },
+    "rssUrl": "https://github.com/VibiumDev/vibium/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "tags": [
+      "browser",
+      "console",
+      "Tools",
+      "AI"
+    ],
+    "example": {
+      "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    "rssUrl": "https://github.com/vercel-labs/agent-browser/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://krasimirtsonev.com",
+    "tags": [
+      "JavaScript",
+      "article",
+      "JSON"
+    ],
+    "example": {
+      "title": "Streaming JSON in just 200 lines of JavaScript",
+      "url": "https://krasimirtsonev.com/blog/article/streaming-json-in-just-200-lines-of-javascript"
+    }
   }
 ]
