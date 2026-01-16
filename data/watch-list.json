@@ -71,7 +71,7 @@
     }
   },
   {
-    "count": 22,
+    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -88,8 +88,8 @@
       "MCP"
     ],
     "example": {
-      "title": "Chrome 144 beta  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-144-beta?hl=en"
+      "title": "Chrome 144  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/144"
     }
   },
   {
@@ -379,6 +379,31 @@
   },
   {
     "count": 8,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security",
+      "AI",
+      "python",
+      "golang",
+      ".net",
+      "library"
+    ],
+    "example": {
+      "title": "Copilot SDK in technical preview - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/"
+    }
+  },
+  {
+    "count": 8,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -475,26 +500,6 @@
     "example": {
       "title": "Perfectly Pointed Tooltips: A Foundation – Frontend Masters Blog",
       "url": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-a-foundation/"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://github.blog",
-    "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security"
-    ],
-    "example": {
-      "title": "npm security update: Classic token creation disabled and granular token changes - GitHub Changelog",
-      "url": "https://github.blog/changelog/2025-11-05-npm-security-update-classic-token-creation-disabled-and-granular-token-changes/"
     }
   },
   {
@@ -631,6 +636,19 @@
   },
   {
     "count": 5,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Prettier 3.8: Support for Angular v21.1 · Prettier",
+      "url": "https://prettier.io/blog/2026/01/14/3.8.0"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -683,6 +701,18 @@
     "example": {
       "title": "Announcing Rspack 1.7 - Rspack",
       "url": "https://rspack.rs/blog/announcing-1-7"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://www.firefox.com",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 147.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
     }
   },
   {
@@ -815,19 +845,6 @@
   },
   {
     "count": 4,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prettier 3.7: Improved formatting consistency and new plugin features! · Prettier",
-      "url": "https://prettier.io/blog/2025/11/27/3.7.0"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://blog.platformatic.dev",
     "tags": [
       "nodejs",
@@ -844,6 +861,24 @@
     "example": {
       "title": "Accelerate Next.js in Kubernetes",
       "url": "https://blog.platformatic.dev/93-faster-nextjs-in-your-kubernetes"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://vercel.com",
+    "tags": [
+      "google",
+      "SEO",
+      "JavaScript",
+      "article",
+      "React",
+      "vercel",
+      "document",
+      "AI"
+    ],
+    "example": {
+      "title": "Introducing: React Best Practices - Vercel",
+      "url": "https://vercel.com/blog/introducing-react-best-practices"
     }
   },
   {
@@ -918,18 +953,6 @@
     "example": {
       "title": "Introducing Phased Package Installations",
       "url": "https://blog.vlt.sh/blog/vlt-build"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://www.firefox.com",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 146.0, See All New Features, Updates and Fixes",
-      "url": "https://www.firefox.com/en-US/firefox/146.0/releasenotes/"
     }
   },
   {
@@ -1138,23 +1161,6 @@
     "example": {
       "title": "Turborepo 2.5 | Turborepo",
       "url": "https://turbo.build/blog/turbo-2-5"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://vercel.com",
-    "tags": [
-      "google",
-      "SEO",
-      "JavaScript",
-      "article",
-      "React",
-      "vercel",
-      "document"
-    ],
-    "example": {
-      "title": "Web Interface Guidelines",
-      "url": "https://vercel.com/design/guidelines"
     }
   },
   {
@@ -7889,5 +7895,20 @@
       "title": "Streaming JSON in just 200 lines of JavaScript",
       "url": "https://krasimirtsonev.com/blog/article/streaming-json-in-just-200-lines-of-javascript"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/coder/ghostty-web?tab=readme-ov-file",
+    "tags": [
+      "WebAssembly",
+      "library",
+      "terminal",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "coder/ghostty-web: Ghostty for the web with xterm.js API compatibility",
+      "url": "https://github.com/coder/ghostty-web?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/coder/ghostty-web?tab=readme-ov-file/releases.atom"
   }
 ]
