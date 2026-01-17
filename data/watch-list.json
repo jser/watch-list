@@ -1,11 +1,11 @@
 [
   {
-    "count": 68,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
-      "ReleaseNote",
       "secu",
+      "ReleaseNote",
       "article",
       "windows",
       "security",
