@@ -218,15 +218,15 @@
     }
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Electron 39.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-39-0"
+      "title": "Electron 40.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-40-0"
     }
   },
   {
@@ -273,6 +273,27 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 10,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "cdn",
+      "news",
+      "vite",
+      "test",
+      "article",
+      "nodejs",
+      "Hono",
+      "JavaScript",
+      "Next.js",
+      "astro"
+    ],
+    "example": {
+      "title": "Astro is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/astro-joins-cloudflare/"
+    }
   },
   {
     "count": 9,
@@ -324,26 +345,6 @@
     "example": {
       "title": "Open Sourcing the Remix Store | Remix",
       "url": "https://remix.run/blog/oss-remix-store"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "cdn",
-      "news",
-      "vite",
-      "test",
-      "article",
-      "nodejs",
-      "Hono",
-      "JavaScript",
-      "Next.js"
-    ],
-    "example": {
-      "title": "A year of improving Node.js compatibility in Cloudflare Workers",
-      "url": "https://blog.cloudflare.com/nodejs-workers-2025/"
     }
   },
   {
@@ -663,6 +664,28 @@
   },
   {
     "count": 5,
+    "url": "https://vercel.com",
+    "tags": [
+      "google",
+      "SEO",
+      "JavaScript",
+      "article",
+      "React",
+      "vercel",
+      "document",
+      "AI",
+      "Hono",
+      "express",
+      "TypeScript",
+      "news"
+    ],
+    "example": {
+      "title": "Experimental build mode for Hono and Express projects - Vercel",
+      "url": "https://vercel.com/changelog/experimental-build-mode-hono-express"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://rspack.dev",
     "tags": [
       "rspack",
@@ -861,24 +884,6 @@
     "example": {
       "title": "Accelerate Next.js in Kubernetes",
       "url": "https://blog.platformatic.dev/93-faster-nextjs-in-your-kubernetes"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://vercel.com",
-    "tags": [
-      "google",
-      "SEO",
-      "JavaScript",
-      "article",
-      "React",
-      "vercel",
-      "document",
-      "AI"
-    ],
-    "example": {
-      "title": "Introducing: React Best Practices - Vercel",
-      "url": "https://vercel.com/blog/introducing-react-best-practices"
     }
   },
   {
@@ -1991,19 +1996,6 @@
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/cloudflare/next-on-pages",
-    "tags": [
-      "cloudflare",
-      "Next.js"
-    ],
-    "example": {
-      "title": "cloudflare/next-on-pages: CLI to build and develop Next.js apps for Cloudflare Pages",
-      "url": "https://github.com/cloudflare/next-on-pages"
-    },
-    "rssUrl": "https://github.com/cloudflare/next-on-pages/releases.atom"
   },
   {
     "count": 1,
@@ -7910,5 +7902,34 @@
       "url": "https://github.com/coder/ghostty-web?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/coder/ghostty-web?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jasmine/jasmine",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "library",
+      "ReleaseNote",
+      "jasmine"
+    ],
+    "example": {
+      "title": "jasmine/release_notes/6.0.0.md at main · jasmine/jasmine",
+      "url": "https://github.com/jasmine/jasmine/blob/main/release_notes/6.0.0.md"
+    },
+    "rssUrl": "https://github.com/jasmine/jasmine/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/gibbok/typescript-book",
+    "tags": [
+      "TypeScript",
+      "book"
+    ],
+    "example": {
+      "title": "gibbok/typescript-book: The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+      "url": "https://github.com/gibbok/typescript-book"
+    },
+    "rssUrl": "https://github.com/gibbok/typescript-book/releases.atom"
   }
 ]
