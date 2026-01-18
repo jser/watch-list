@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/cloudflare/next-on-pages",
-    "feeds": [
-      "https://github.com/cloudflare/next-on-pages/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/wevm/vocs",
     "feeds": [
       "https://github.com/wevm/vocs/releases.atom"
@@ -1763,6 +1757,18 @@
     "url": "https://github.com/coder/ghostty-web?tab=readme-ov-file",
     "feeds": [
       "https://github.com/coder/ghostty-web?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jasmine/jasmine",
+    "feeds": [
+      "https://github.com/jasmine/jasmine/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/gibbok/typescript-book",
+    "feeds": [
+      "https://github.com/gibbok/typescript-book/releases.atom"
     ]
   },
   {
