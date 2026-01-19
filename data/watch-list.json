@@ -771,6 +771,19 @@
   },
   {
     "count": 4,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "jQuery 4.0.0 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/axios/axios",
     "tags": [
       "JavaScript",
@@ -958,18 +971,6 @@
     "example": {
       "title": "Introducing Phased Package Installations",
       "url": "https://blog.vlt.sh/blog/vlt-build"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "jQuery 4.0.0 Release Candidate 1 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2025/08/11/jquery-4-0-0-release-candidate-1/"
     }
   },
   {
@@ -1303,21 +1304,6 @@
     "example": {
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://azukiazusa.dev",
-    "tags": [
-      "Remix",
-      "article",
-      "playwright",
-      "test",
-      "accessibility"
-    ],
-    "example": {
-      "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
-      "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
     }
   },
   {
@@ -1996,21 +1982,6 @@
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/wevm/vocs",
-    "tags": [
-      "React",
-      "vite",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "wevm/vocs: Minimal Documentation Framework, powered by React + Vite.",
-      "url": "https://github.com/wevm/vocs"
-    },
-    "rssUrl": "https://github.com/wevm/vocs/releases.atom"
   },
   {
     "count": 1,
@@ -5004,6 +4975,20 @@
   },
   {
     "count": 1,
+    "url": "https://azukiazusa.dev",
+    "tags": [
+      "playwright",
+      "article",
+      "test",
+      "accessibility"
+    ],
+    "example": {
+      "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
+      "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/ysk8hori/typescript-graph",
     "tags": [
       "TypeScript",
@@ -7931,5 +7916,48 @@
       "url": "https://github.com/gibbok/typescript-book"
     },
     "rssUrl": "https://github.com/gibbok/typescript-book/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/DoneDeal0/superdiff",
+    "tags": [
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "DoneDeal0/superdiff: Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance.",
+      "url": "https://github.com/DoneDeal0/superdiff"
+    },
+    "rssUrl": "https://github.com/DoneDeal0/superdiff/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/anomalyco/opentui",
+    "tags": [
+      "terminal",
+      "TypeScript",
+      "Zig",
+      "React",
+      "UI",
+      "library"
+    ],
+    "example": {
+      "title": "anomalyco/opentui: OpenTUI is a library for building terminal user interfaces (TUIs)",
+      "url": "https://github.com/anomalyco/opentui/tree/main"
+    },
+    "rssUrl": "https://github.com/anomalyco/opentui/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.manning.com",
+    "tags": [
+      "WebAssembly",
+      "book",
+      "server"
+    ],
+    "example": {
+      "title": "Server-Side WebAssembly - Danilo Chiarlone",
+      "url": "https://www.manning.com/books/server-side-webassembly"
+    }
   }
 ]

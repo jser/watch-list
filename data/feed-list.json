@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/wevm/vocs",
-    "feeds": [
-      "https://github.com/wevm/vocs/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/penrose/penrose",
     "feeds": [
       "https://github.com/penrose/penrose/releases.atom"
@@ -1769,6 +1763,18 @@
     "url": "https://github.com/gibbok/typescript-book",
     "feeds": [
       "https://github.com/gibbok/typescript-book/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/DoneDeal0/superdiff",
+    "feeds": [
+      "https://github.com/DoneDeal0/superdiff/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/anomalyco/opentui",
+    "feeds": [
+      "https://github.com/anomalyco/opentui/releases.atom"
     ]
   },
   {

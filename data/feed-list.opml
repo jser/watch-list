@@ -112,7 +112,6 @@
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/wevm/vocs" title="github.com/wevm/vocs" type="rss" xmlUrl="https://github.com/wevm/vocs/releases.atom"/>
 <outline text="github.com/penrose/penrose" title="github.com/penrose/penrose" type="rss" xmlUrl="https://github.com/penrose/penrose/releases.atom"/>
 <outline text="github.com/volarjs/volar.js" title="github.com/volarjs/volar.js" type="rss" xmlUrl="https://github.com/volarjs/volar.js/releases.atom"/>
 <outline text="github.com/chrisguttandin/worker-timers" title="github.com/chrisguttandin/worker-timers" type="rss" xmlUrl="https://github.com/chrisguttandin/worker-timers/releases.atom"/>
@@ -296,6 +295,8 @@
 <outline text="github.com/coder/ghostty-web?tab=readme-ov-file" title="github.com/coder/ghostty-web?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/coder/ghostty-web?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/jasmine/jasmine" title="github.com/jasmine/jasmine" type="rss" xmlUrl="https://github.com/jasmine/jasmine/releases.atom"/>
 <outline text="github.com/gibbok/typescript-book" title="github.com/gibbok/typescript-book" type="rss" xmlUrl="https://github.com/gibbok/typescript-book/releases.atom"/>
+<outline text="github.com/DoneDeal0/superdiff" title="github.com/DoneDeal0/superdiff" type="rss" xmlUrl="https://github.com/DoneDeal0/superdiff/releases.atom"/>
+<outline text="github.com/anomalyco/opentui" title="github.com/anomalyco/opentui" type="rss" xmlUrl="https://github.com/anomalyco/opentui/releases.atom"/>
 <outline text="humanwhocodes.com" title="humanwhocodes.com" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
