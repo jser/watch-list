@@ -112,7 +112,6 @@
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/penrose/penrose" title="github.com/penrose/penrose" type="rss" xmlUrl="https://github.com/penrose/penrose/releases.atom"/>
 <outline text="github.com/volarjs/volar.js" title="github.com/volarjs/volar.js" type="rss" xmlUrl="https://github.com/volarjs/volar.js/releases.atom"/>
 <outline text="github.com/chrisguttandin/worker-timers" title="github.com/chrisguttandin/worker-timers" type="rss" xmlUrl="https://github.com/chrisguttandin/worker-timers/releases.atom"/>
 <outline text="github.com/typicode/husky" title="github.com/typicode/husky" type="rss" xmlUrl="https://github.com/typicode/husky/releases.atom"/>
@@ -419,7 +418,6 @@
 <outline text="www.mizdra.net" title="www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
 <outline text="www.polarsignals.com" title="www.polarsignals.com" type="rss" xmlUrl="https://www.polarsignals.com/rss.xml"/>
-<outline text="www.robinwieruch.de" title="www.robinwieruch.de" type="rss" xmlUrl="https://www.robinwieruch.de/index.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
 <outline text="www.sanity.io" title="www.sanity.io" type="rss" xmlUrl="https://www.sanity.io/feed/rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>

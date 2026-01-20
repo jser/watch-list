@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/penrose/penrose",
-    "feeds": [
-      "https://github.com/penrose/penrose/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/volarjs/volar.js",
     "feeds": [
       "https://github.com/volarjs/volar.js/releases.atom"
@@ -2573,12 +2567,6 @@
     "url": "https://www.polarsignals.com",
     "feeds": [
       "https://www.polarsignals.com/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.robinwieruch.de",
-    "feeds": [
-      "https://www.robinwieruch.de/index.xml"
     ]
   },
   {
