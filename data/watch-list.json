@@ -420,22 +420,6 @@
   },
   {
     "count": 7,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -551,6 +535,22 @@
     "example": {
       "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
       "url": "https://biomejs.dev/blog/biome-v2-3/"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://astro.build",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article",
+      "astro",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
     }
   },
   {
@@ -736,21 +736,6 @@
     "example": {
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "Design",
-      "mobile",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "The Basics of Anchor Positioning",
-      "url": "https://ishadeed.com/article/anchor-positioning/"
     }
   },
   {
@@ -1167,6 +1152,19 @@
     "example": {
       "title": "Turborepo 2.5 | Turborepo",
       "url": "https://turbo.build/blog/turbo-2-5"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "CSS",
+      "article",
+      "css"
+    ],
+    "example": {
+      "title": "The Basics of Anchor Positioning",
+      "url": "https://ishadeed.com/article/anchor-positioning/"
     }
   },
   {
@@ -1982,32 +1980,6 @@
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://www.robinwieruch.de",
-    "tags": [
-      "React",
-      "article",
-      "library"
-    ],
-    "example": {
-      "title": "React Libraries for 2024",
-      "url": "https://www.robinwieruch.de/react-libraries/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/penrose/penrose",
-    "tags": [
-      "diagram",
-      "library"
-    ],
-    "example": {
-      "title": "penrose/penrose: Create beautiful diagrams just by typing notation in plain text.",
-      "url": "https://github.com/penrose/penrose"
-    },
-    "rssUrl": "https://github.com/penrose/penrose/releases.atom"
   },
   {
     "count": 1,

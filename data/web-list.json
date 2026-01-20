@@ -438,23 +438,6 @@
   },
   {
     "count": 7,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article"
-    ],
-    "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
-    },
-    "rssUrl": "https://astro.build/rss.xml"
-  },
-  {
-    "count": 7,
     "url": "https://socket.dev",
     "tags": [
       "npm",
@@ -575,6 +558,23 @@
       "url": "https://biomejs.dev/blog/biome-v2-3/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
+  },
+  {
+    "count": 6,
+    "url": "https://astro.build",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article",
+      "astro",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Astro 5.7 | Astro",
+      "url": "https://astro.build/blog/astro-570/"
+    },
+    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 6,
@@ -770,22 +770,6 @@
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "Design",
-      "mobile",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "The Basics of Anchor Positioning",
-      "url": "https://ishadeed.com/article/anchor-positioning/"
-    },
-    "rssUrl": "https://ishadeed.com/feed.xml"
   },
   {
     "count": 4,
@@ -1214,6 +1198,20 @@
       "url": "https://turbo.build/blog/turbo-2-5"
     },
     "rssUrl": "https://turbo.build/feed.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "CSS",
+      "article",
+      "css"
+    ],
+    "example": {
+      "title": "The Basics of Anchor Positioning",
+      "url": "https://ishadeed.com/article/anchor-positioning/"
+    },
+    "rssUrl": "https://ishadeed.com/feed.xml"
   },
   {
     "count": 3,
@@ -2058,33 +2056,6 @@
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://www.robinwieruch.de",
-    "tags": [
-      "React",
-      "article",
-      "library"
-    ],
-    "example": {
-      "title": "React Libraries for 2024",
-      "url": "https://www.robinwieruch.de/react-libraries/"
-    },
-    "rssUrl": "https://www.robinwieruch.de/index.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/penrose/penrose",
-    "tags": [
-      "diagram",
-      "library"
-    ],
-    "example": {
-      "title": "penrose/penrose: Create beautiful diagrams just by typing notation in plain text.",
-      "url": "https://github.com/penrose/penrose"
-    },
-    "rssUrl": "https://github.com/penrose/penrose/releases.atom"
   },
   {
     "count": 1,
