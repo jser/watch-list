@@ -1772,14 +1772,6 @@
     ]
   },
   {
-    "url": "https://humanwhocodes.com",
-    "feeds": [
-      "https://humanwhocodes.com/feeds/blog.xml",
-      "https://humanwhocodes.com/feeds/snippets.xml",
-      "https://humanwhocodes.com/feeds/all.xml"
-    ]
-  },
-  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"
@@ -2154,13 +2146,6 @@
     "feeds": [
       "https://softwaremill.com/blog.atom",
       "https://softwaremill.com/blog.rss"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/brn/",
-    "feeds": [
-      "https://speakerdeck.com/brn.atom",
-      "https://speakerdeck.com/brn.rss"
     ]
   },
   {

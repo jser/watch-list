@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,13 +15,13 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users",
-      "url": "https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks"
+      "title": "Node.js — Node.js 25.4.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v25.4.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 33,
+    "count": 32,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -438,26 +438,6 @@
   },
   {
     "count": 7,
-    "url": "https://socket.dev",
-    "tags": [
-      "npm",
-      "article",
-      "nodejs",
-      "discussion",
-      "pnpm",
-      "security",
-      "news",
-      "python",
-      "Rust"
-    ],
-    "example": {
-      "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
-      "url": "https://socket.dev/blog/introducing-socket-firewall"
-    },
-    "rssUrl": "https://socket.dev/api/feed.atom"
-  },
-  {
-    "count": 7,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "JavaScript",
@@ -541,6 +521,26 @@
       "url": "https://storybook.js.org/blog/security-advisory/"
     },
     "rssUrl": "https://storybook.js.org/blog/rss/"
+  },
+  {
+    "count": 6,
+    "url": "https://socket.dev",
+    "tags": [
+      "nodejs",
+      "npm",
+      "discussion",
+      "article",
+      "pnpm",
+      "security",
+      "news",
+      "python",
+      "Rust"
+    ],
+    "example": {
+      "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
+      "url": "https://socket.dev/blog/introducing-socket-firewall"
+    },
+    "rssUrl": "https://socket.dev/api/feed.atom"
   },
   {
     "count": 6,
@@ -2056,35 +2056,6 @@
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
     },
     "rssUrl": "https://calendar.perfplanet.com/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/brn/",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "slide"
-    ],
-    "example": {
-      "title": "Parsing Javascript - Speaker Deck",
-      "url": "https://speakerdeck.com/brn/parsing-javascript"
-    },
-    "rssUrl": "https://speakerdeck.com/brn.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://humanwhocodes.com",
-    "tags": [
-      "nodejs",
-      "JavaScript",
-      "deno",
-      "article"
-    ],
-    "example": {
-      "title": "Introducing fsx: A modern filesystem API for JavaScript - Human Who Codes",
-      "url": "https://humanwhocodes.com/blog/2024/01/fsx-modern-filesystem-api-javascript/"
-    },
-    "rssUrl": "https://humanwhocodes.com/feeds/blog.xml"
   },
   {
     "count": 1,
