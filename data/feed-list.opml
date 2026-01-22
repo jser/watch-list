@@ -112,7 +112,6 @@
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/volarjs/volar.js" title="github.com/volarjs/volar.js" type="rss" xmlUrl="https://github.com/volarjs/volar.js/releases.atom"/>
 <outline text="github.com/chrisguttandin/worker-timers" title="github.com/chrisguttandin/worker-timers" type="rss" xmlUrl="https://github.com/chrisguttandin/worker-timers/releases.atom"/>
 <outline text="github.com/typicode/husky" title="github.com/typicode/husky" type="rss" xmlUrl="https://github.com/typicode/husky/releases.atom"/>
 <outline text="github.com/awslabs/llrt" title="github.com/awslabs/llrt" type="rss" xmlUrl="https://github.com/awslabs/llrt/releases.atom"/>

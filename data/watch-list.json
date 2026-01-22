@@ -1983,20 +1983,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/volarjs/volar.js",
-    "tags": [
-      "TypeScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · volarjs/volar.js",
-      "url": "https://github.com/volarjs/volar.js/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/volarjs/volar.js/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://ahastack.dev",
     "tags": [
       "JavaScript",

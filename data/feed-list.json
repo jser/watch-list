@@ -668,12 +668,6 @@
     ]
   },
   {
-    "url": "https://github.com/volarjs/volar.js",
-    "feeds": [
-      "https://github.com/volarjs/volar.js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/chrisguttandin/worker-timers",
     "feeds": [
       "https://github.com/chrisguttandin/worker-timers/releases.atom"
