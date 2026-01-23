@@ -1766,6 +1766,12 @@
     ]
   },
   {
+    "url": "https://github.com/dy/jz",
+    "feeds": [
+      "https://github.com/dy/jz/releases.atom"
+    ]
+  },
+  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"

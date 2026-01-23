@@ -436,6 +436,23 @@
   },
   {
     "count": 7,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "Rust",
+      "biome",
+      "article"
+    ],
+    "example": {
+      "title": "Roadmap 2026 | Biome",
+      "url": "https://biomejs.dev/blog/roadmap-2026/"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -519,22 +536,6 @@
     "example": {
       "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
       "url": "https://socket.dev/blog/introducing-socket-firewall"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "Rust",
-      "biome"
-    ],
-    "example": {
-      "title": "Biome v2.3—Let's bring the ecosystem closer | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-3/"
     }
   },
   {
@@ -7890,5 +7891,19 @@
       "title": "Server-Side WebAssembly - Danilo Chiarlone",
       "url": "https://www.manning.com/books/server-side-webassembly"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/dy/jz",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "library"
+    ],
+    "example": {
+      "title": "dy/jz: Minimal JS subset compiling to WASM",
+      "url": "https://github.com/dy/jz"
+    },
+    "rssUrl": "https://github.com/dy/jz/releases.atom"
   }
 ]

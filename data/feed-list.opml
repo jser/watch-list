@@ -295,6 +295,7 @@
 <outline text="github.com/gibbok/typescript-book" title="github.com/gibbok/typescript-book" type="rss" xmlUrl="https://github.com/gibbok/typescript-book/releases.atom"/>
 <outline text="github.com/DoneDeal0/superdiff" title="github.com/DoneDeal0/superdiff" type="rss" xmlUrl="https://github.com/DoneDeal0/superdiff/releases.atom"/>
 <outline text="github.com/anomalyco/opentui" title="github.com/anomalyco/opentui" type="rss" xmlUrl="https://github.com/anomalyco/opentui/releases.atom"/>
+<outline text="github.com/dy/jz" title="github.com/dy/jz" type="rss" xmlUrl="https://github.com/dy/jz/releases.atom"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
