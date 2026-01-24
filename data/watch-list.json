@@ -230,7 +230,7 @@
     }
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://nuxt.com",
     "tags": [
       "Vue",
@@ -242,8 +242,8 @@
       "UI"
     ],
     "example": {
-      "title": "Nuxt 4.1 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-1"
+      "title": "Nuxt 4.3 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-3"
     }
   },
   {
@@ -960,6 +960,22 @@
     }
   },
   {
+    "count": 4,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article",
+      "ReleaseNote",
+      "rollup",
+      "bundler"
+    ],
+    "example": {
+      "title": "Announcing Rolldown 1.0 RC | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-rolldown-rc"
+    }
+  },
+  {
     "count": 3,
     "url": "https://github.com/tc39/ecma262",
     "tags": [
@@ -1274,20 +1290,6 @@
       "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0"
     },
     "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://voidzero.dev",
-    "tags": [
-      "vite",
-      "Rust",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 8 Beta: The Rolldown-powered Vite | VoidZero",
-      "url": "https://voidzero.dev/posts/announcing-vite-8-beta"
-    }
   },
   {
     "count": 3,
@@ -1980,6 +1982,21 @@
     "example": {
       "title": "Third Parties and Single Points of Failure - Web Performance Calendar",
       "url": "https://calendar.perfplanet.com/2025/third-parties-and-single-points-of-failure/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://www.manning.com",
+    "tags": [
+      "WebAssembly",
+      "book",
+      "server",
+      "JavaScript",
+      "web"
+    ],
+    "example": {
+      "title": "Vanilla Web - Maximiliano Firtman",
+      "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
   },
   {
@@ -7878,19 +7895,6 @@
       "url": "https://github.com/anomalyco/opentui/tree/main"
     },
     "rssUrl": "https://github.com/anomalyco/opentui/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.manning.com",
-    "tags": [
-      "WebAssembly",
-      "book",
-      "server"
-    ],
-    "example": {
-      "title": "Server-Side WebAssembly - Danilo Chiarlone",
-      "url": "https://www.manning.com/books/server-side-webassembly"
-    }
   },
   {
     "count": 1,
