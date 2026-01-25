@@ -18,12 +18,6 @@
     ]
   },
   {
-    "url": "https://ahastack.dev",
-    "feeds": [
-      "https://ahastack.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://alexharri.com",
     "feeds": [
       "https://alexharri.com/rss.xml"
@@ -665,12 +659,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/chrisguttandin/worker-timers",
-    "feeds": [
-      "https://github.com/chrisguttandin/worker-timers/releases.atom"
     ]
   },
   {

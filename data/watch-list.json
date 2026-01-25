@@ -146,7 +146,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -487,20 +487,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v5.103.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -714,6 +700,20 @@
       "title": "State of JavaScript 2025",
       "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v5.103.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 5,
@@ -1998,34 +1998,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://ahastack.dev",
-    "tags": [
-      "JavaScript",
-      "HTML",
-      "document"
-    ],
-    "example": {
-      "title": "The AHA Stack | AHA",
-      "url": "https://ahastack.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/chrisguttandin/worker-timers",
-    "tags": [
-      "browser",
-      "webworker",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "chrisguttandin/worker-timers: A replacement for setInterval() and setTimeout() which works in unfocused windows.",
-      "url": "https://github.com/chrisguttandin/worker-timers"
-    },
-    "rssUrl": "https://github.com/chrisguttandin/worker-timers/releases.atom"
   },
   {
     "count": 1,
