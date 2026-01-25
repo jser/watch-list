@@ -18,12 +18,6 @@
     ]
   },
   {
-    "url": "https://ahastack.dev",
-    "feeds": [
-      "https://ahastack.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://alexharri.com",
     "feeds": [
       "https://alexharri.com/rss.xml"
