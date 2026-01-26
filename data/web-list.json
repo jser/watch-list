@@ -133,7 +133,7 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 18,
+    "count": 17,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -8105,5 +8105,19 @@
       "url": "https://github.com/dy/jz"
     },
     "rssUrl": "https://github.com/dy/jz/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/stylelint/stylelint",
+    "tags": [
+      "CSS",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 17.0.0 · stylelint/stylelint",
+      "url": "https://github.com/stylelint/stylelint/releases/tag/17.0.0"
+    },
+    "rssUrl": "https://github.com/stylelint/stylelint/releases.atom"
   }
 ]
