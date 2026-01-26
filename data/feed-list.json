@@ -1760,6 +1760,12 @@
     ]
   },
   {
+    "url": "https://github.com/stylelint/stylelint",
+    "feeds": [
+      "https://github.com/stylelint/stylelint/releases.atom"
+    ]
+  },
+  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"
