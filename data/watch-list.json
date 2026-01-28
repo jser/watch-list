@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js 25.4.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v25.4.0"
+      "title": "Node.js — Node.js 25.5.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v25.5.0"
     }
   },
   {
@@ -297,28 +297,6 @@
   },
   {
     "count": 9,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "Next.js",
-      "video",
-      "JavaScript",
-      "nodejs",
-      "history",
-      "Conference",
-      "vite",
-      "Angular",
-      "React",
-      "slide",
-      "DOM",
-      "Native"
-    ],
-    "example": {
-      "title": "CascadiaJS 2025 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
-    }
-  },
-  {
-    "count": 9,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -379,6 +357,59 @@
     }
   },
   {
+    "count": 9,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun v1.3.7 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.7"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "Hono",
+      "security"
+    ],
+    "example": {
+      "title": "Release v4.11.7 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.11.7"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 8,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "nodejs",
+      "history",
+      "video",
+      "JavaScript",
+      "Conference",
+      "vite",
+      "Angular",
+      "React",
+      "slide",
+      "DOM",
+      "Native"
+    ],
+    "example": {
+      "title": "CascadiaJS 2025 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
+  },
+  {
     "count": 8,
     "url": "https://github.blog",
     "tags": [
@@ -402,37 +433,6 @@
       "title": "Copilot SDK in technical preview - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/"
     }
-  },
-  {
-    "count": 8,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun v1.3.6 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.6"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono"
-    ],
-    "example": {
-      "title": "Release v4.10.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.10.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 7,
@@ -1997,22 +1997,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://mozilla.github.io",
-    "tags": [
-      "browser",
-      "Mozilla",
-      "apple",
-      "google",
-      "Microsoft",
-      "document"
-    ],
-    "example": {
-      "title": "Platform Tilt - Mozilla",
-      "url": "https://mozilla.github.io/platform-tilt/"
     }
   },
   {
@@ -7912,5 +7896,35 @@
       "url": "https://github.com/FullHuman/purgecss/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/FullHuman/purgecss/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "tags": [
+      "playwright",
+      "MCP",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.0.58 · microsoft/playwright-mcp",
+      "url": "https://github.com/microsoft/playwright-mcp/releases/tag/v0.0.58"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright-mcp/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/libpdf-js/core",
+    "tags": [
+      "PDF",
+      "TypeScript",
+      "library",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "LibPDF-js/core: A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.",
+      "url": "https://github.com/libpdf-js/core"
+    },
+    "rssUrl": "https://github.com/libpdf-js/core/releases.atom"
   }
 ]
