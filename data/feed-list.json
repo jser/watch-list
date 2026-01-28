@@ -1778,6 +1778,18 @@
     ]
   },
   {
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "feeds": [
+      "https://github.com/microsoft/playwright-mcp/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/libpdf-js/core",
+    "feeds": [
+      "https://github.com/libpdf-js/core/releases.atom"
+    ]
+  },
+  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"
