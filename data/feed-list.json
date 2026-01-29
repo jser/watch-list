@@ -6,12 +6,6 @@
     ]
   },
   {
-    "url": "https://adonisjs.com",
-    "feeds": [
-      "https://adonisjs.com/feeds/blog.xml"
-    ]
-  },
-  {
     "url": "https://adventar.org",
     "feeds": [
       "https://adventar.org/calendars/10555.rss"
