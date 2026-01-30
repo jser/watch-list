@@ -7901,5 +7901,18 @@
       "title": "Yarn 6 Preview | Yarn",
       "url": "https://yarn6.netlify.app/blog/2026-01-28-yarn-6-preview/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://bytecodealliance.org",
+    "tags": [
+      "WebAssembly",
+      "history",
+      "article"
+    ],
+    "example": {
+      "title": "Bytecode Alliance — 10 Years of Wasm: A Retrospective",
+      "url": "https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective"
+    }
   }
 ]
