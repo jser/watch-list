@@ -201,6 +201,12 @@
     ]
   },
   {
+    "url": "https://bytecodealliance.org",
+    "feeds": [
+      "https://bytecodealliance.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://calendar.perfplanet.com",
     "feeds": [
       "https://calendar.perfplanet.com/feed/"
