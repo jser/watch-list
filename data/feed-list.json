@@ -476,12 +476,6 @@
     ]
   },
   {
-    "url": "https://github.com/nuxt/nuxt",
-    "feeds": [
-      "https://github.com/nuxt/nuxt/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -581,6 +575,12 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nuxt/nuxt",
+    "feeds": [
+      "https://github.com/nuxt/nuxt/releases.atom"
     ]
   },
   {

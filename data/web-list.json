@@ -774,22 +774,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/nuxt/nuxt",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "vercel",
-      "news"
-    ],
-    "example": {
-      "title": "Release v4.2.0 · nuxt/nuxt",
-      "url": "https://github.com/nuxt/nuxt/releases/tag/v4.2.0"
-    },
-    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1338,6 +1322,22 @@
       "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0"
     },
     "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/nuxt/nuxt",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "vercel",
+      "news"
+    ],
+    "example": {
+      "title": "Release v4.2.0 · nuxt/nuxt",
+      "url": "https://github.com/nuxt/nuxt/releases/tag/v4.2.0"
+    },
+    "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
   },
   {
     "count": 3,
