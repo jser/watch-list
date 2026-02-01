@@ -247,15 +247,16 @@
     }
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
-      "ReleaseNote"
+      "ReleaseNote",
+      "testing"
     ],
     "example": {
-      "title": "Release v1.57.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.57.0"
+      "title": "Release v1.58.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.58.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
@@ -770,6 +771,25 @@
   },
   {
     "count": 4,
+    "url": "https://openjsf.org",
+    "tags": [
+      "nodejs",
+      "npm",
+      "article",
+      "JavaScript",
+      "library",
+      "news",
+      "lodash",
+      "security",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/lodash-security-overhaul"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
@@ -1007,22 +1027,6 @@
     "example": {
       "title": "Default styles for h1 elements are changing | MDN Blog",
       "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://openjsf.org",
-    "tags": [
-      "nodejs",
-      "npm",
-      "article",
-      "JavaScript",
-      "library",
-      "news"
-    ],
-    "example": {
-      "title": "Sovereign Tech Agency Invests in Lodash’s Next Chapter in Open Source | OpenJS Foundation",
-      "url": "https://openjsf.org/blog/sta-supports-lodash"
     }
   },
   {
@@ -7913,6 +7917,20 @@
     "example": {
       "title": "Bytecode Alliance — 10 Years of Wasm: A Retrospective",
       "url": "https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://tobilg.com",
+    "tags": [
+      "cloudflare",
+      "WebAssembly",
+      "duckdb",
+      "article"
+    ],
+    "example": {
+      "title": "Custom DuckDB Wasm builds for Cloudflare Workers - tobilg.com",
+      "url": "https://tobilg.com/posts/custom-duckdb-wasm-builds-for-cloudflare-workers/"
     }
   }
 ]

@@ -2302,6 +2302,12 @@
     ]
   },
   {
+    "url": "https://tobilg.com",
+    "feeds": [
+      "https://tobilg.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://tonyalicea.dev",
     "feeds": [
       "https://tonyalicea.dev/feed/feed.xml"
