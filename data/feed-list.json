@@ -97,13 +97,6 @@
     ]
   },
   {
-    "url": "https://blog.flatt.tech",
-    "feeds": [
-      "https://blog.flatt.tech/feed",
-      "https://blog.flatt.tech/rss"
-    ]
-  },
-  {
     "url": "https://blog.jetbrains.com",
     "feeds": [
       "https://blog.jetbrains.com/blog/feed/",
@@ -2678,12 +2671,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/team_zenn/",
-    "feeds": [
-      "https://zenn.dev/p/team_zenn/feed"
     ]
   },
   {

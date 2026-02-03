@@ -97,7 +97,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -166,31 +166,6 @@
   },
   {
     "count": 15,
-    "url": "https://web.dev",
-    "tags": [
-      "performance",
-      "tutorial",
-      "browser",
-      "testing",
-      "nodejs",
-      "JavaScript",
-      "WebPlatformAPI",
-      "article",
-      "CSS",
-      "HTML",
-      "css ",
-      "Unicode",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    },
-    "rssUrl": "https://web.dev/static/blog/feed.xml"
-  },
-  {
-    "count": 15,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -203,6 +178,31 @@
       "title": "Next.js 16.1 | Next.js",
       "url": "https://nextjs.org/blog/next-16-1"
     }
+  },
+  {
+    "count": 14,
+    "url": "https://web.dev",
+    "tags": [
+      "testing",
+      "tutorial",
+      "browser",
+      "nodejs",
+      "JavaScript",
+      "WebPlatformAPI",
+      "article",
+      "CSS",
+      "HTML",
+      "css ",
+      "performance",
+      "Unicode",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
     "count": 13,
@@ -294,6 +294,22 @@
     "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
+    "count": 10,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun v1.3.8 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.8"
+    },
+    "rssUrl": "https://bun.com/rss.xml"
+  },
+  {
     "count": 9,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -371,22 +387,6 @@
       "url": "https://oxc.rs/blog/2025-12-08-type-aware-alpha"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 9,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun v1.3.7 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.7"
-    },
-    "rssUrl": "https://bun.com/rss.xml"
   },
   {
     "count": 8,
@@ -1361,20 +1361,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.mitsue.co.jp",
-    "tags": [
-      "browser",
-      "WebPlatformAPI",
-      "article"
-    ],
-    "example": {
-      "title": "Interop 2025がスタート | フロントエンドBlog | ミツエーリンクス",
-      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html"
-    },
-    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
-  },
-  {
-    "count": 2,
     "url": "https://typescript-eslint.io",
     "tags": [
       "TypeScript",
@@ -2078,36 +2064,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/team_zenn/",
-    "tags": [
-      "JavaScript",
-      "editor",
-      "article",
-      "React"
-    ],
-    "example": {
-      "title": "CodeMirror v6によるZennのMarkdownエディタの作り方",
-      "url": "https://zenn.dev/team_zenn/articles/zenn-markdown-editor-by-cm6"
-    },
-    "rssUrl": "https://zenn.dev/p/team_zenn/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.flatt.tech",
-    "tags": [
-      "HTTP",
-      "browser",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "SameSite属性とCSRFとHSTS - Cookieの基礎知識からブラウザごとのエッジケースまでおさらいする - Flatt Security Blog",
-      "url": "https://blog.flatt.tech/entry/samesite_csrf_hsts"
-    },
-    "rssUrl": "https://blog.flatt.tech/feed"
   },
   {
     "count": 1,
@@ -5628,6 +5584,20 @@
       "url": "https://github.com/codesandbox/sandpack/releases/tag/v2.20.0"
     },
     "rssUrl": "https://github.com/codesandbox/sandpack/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.mitsue.co.jp",
+    "tags": [
+      "browser",
+      "article",
+      "WebPlatformAPI"
+    ],
+    "example": {
+      "title": "Interop 2025がスタート | フロントエンドBlog | ミツエーリンクス",
+      "url": "https://www.mitsue.co.jp/knowledge/blog/frontend/202502/17_0829.html"
+    },
+    "rssUrl": "https://www.mitsue.co.jp/index.rdf"
   },
   {
     "count": 1,
