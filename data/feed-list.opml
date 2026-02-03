@@ -20,7 +20,6 @@
 <outline text="blog.calm.com" title="blog.calm.com" type="rss" xmlUrl="https://blog.calm.com/engineering?format=rss"/>
 <outline text="blog.cloudflare.com" title="blog.cloudflare.com" type="rss" xmlUrl="https://blog.cloudflare.com/rss"/>
 <outline text="blog.emberjs.com" title="blog.emberjs.com" type="rss" xmlUrl="https://blog.emberjs.com/rss.xml"/>
-<outline text="blog.flatt.tech" title="blog.flatt.tech" type="rss" xmlUrl="https://blog.flatt.tech/feed"/>
 <outline text="blog.jetbrains.com" title="blog.jetbrains.com" type="rss" xmlUrl="https://blog.jetbrains.com/blog/feed/"/>
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
 <outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
@@ -436,7 +435,6 @@
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/team_zenn/" title="zenn.dev/team_zenn/" type="rss" xmlUrl="https://zenn.dev/p/team_zenn/feed"/>
 <outline text="zenn.dev/aishift/" title="zenn.dev/aishift/" type="rss" xmlUrl="https://zenn.dev/p/aishift/feed"/>
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 <outline text="zenn.dev/knowledgework/" title="zenn.dev/knowledgework/" type="rss" xmlUrl="https://zenn.dev/p/knowledgework/feed"/>
