@@ -927,6 +927,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release Version 28.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/28.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://www.debugbear.com",
     "tags": [
       "article",
@@ -1232,21 +1247,6 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release Version 27.0.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 3,
