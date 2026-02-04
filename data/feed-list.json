@@ -499,6 +499,12 @@
     ]
   },
   {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
@@ -544,12 +550,6 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
