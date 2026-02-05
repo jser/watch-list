@@ -584,43 +584,6 @@
   },
   {
     "count": 5,
-    "url": "https://efcl.info",
-    "tags": [
-      "npm",
-      "nodejs",
-      "article",
-      "TypeScript",
-      "JavaScript",
-      "ReleaseNote",
-      "book",
-      "security"
-    ],
-    "example": {
-      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
-      "url": "https://efcl.info/2025/09/07/npm-oidc/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
-  },
-  {
-    "count": 5,
-    "url": "https://v8.dev",
-    "tags": [
-      "ECMAScript",
-      "article",
-      "V8",
-      "JavaScript",
-      "Chrome",
-      "WebAssembly",
-      "Promises"
-    ],
-    "example": {
-      "title": "How we made JSON.stringify more than twice as fast · V8",
-      "url": "https://v8.dev/blog/json-stringify"
-    },
-    "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 5,
     "url": "https://tailwindcss.com",
     "tags": [
       "CSS",
@@ -839,6 +802,23 @@
   },
   {
     "count": 4,
+    "url": "https://v8.dev",
+    "tags": [
+      "V8",
+      "JavaScript",
+      "Chrome",
+      "article",
+      "WebAssembly",
+      "Promises"
+    ],
+    "example": {
+      "title": "How we made JSON.stringify more than twice as fast · V8",
+      "url": "https://v8.dev/blog/json-stringify"
+    },
+    "rssUrl": "https://v8.dev/blog.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/google/zx",
     "tags": [
       "JavaScript",
@@ -924,6 +904,25 @@
       "url": "https://blog.platformatic.dev/93-faster-nextjs-in-your-kubernetes"
     },
     "rssUrl": "https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"
+  },
+  {
+    "count": 4,
+    "url": "https://efcl.info",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "article",
+      "JavaScript",
+      "ReleaseNote",
+      "book",
+      "npm",
+      "security"
+    ],
+    "example": {
+      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
+      "url": "https://efcl.info/2025/09/07/npm-oidc/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 4,
@@ -2063,20 +2062,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tappy.yahoo.co.jp",
-    "tags": [
-      "webservice",
-      "Tools",
-      "mobile",
-      "accessibility"
-    ],
-    "example": {
-      "title": "Tappy - Yahoo!デベロッパーネットワーク",
-      "url": "https://tappy.yahoo.co.jp/"
     }
   },
   {
@@ -8127,5 +8112,30 @@
       "url": "https://tobilg.com/posts/custom-duckdb-wasm-builds-for-cloudflare-workers/"
     },
     "rssUrl": "https://tobilg.com/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://2025.stateofjs.com",
+    "tags": [
+      "JavaScript",
+      "Survey"
+    ],
+    "example": {
+      "title": "State of JavaScript 2025",
+      "url": "https://2025.stateofjs.com/en-US"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://react-aria.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "v1.15.0 | React Aria",
+      "url": "https://react-aria.adobe.com/releases/v1-15-0"
+    }
   }
 ]
