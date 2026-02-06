@@ -180,31 +180,6 @@
     }
   },
   {
-    "count": 14,
-    "url": "https://web.dev",
-    "tags": [
-      "testing",
-      "tutorial",
-      "browser",
-      "nodejs",
-      "JavaScript",
-      "WebPlatformAPI",
-      "article",
-      "CSS",
-      "HTML",
-      "css ",
-      "performance",
-      "Unicode",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    },
-    "rssUrl": "https://web.dev/static/blog/feed.xml"
-  },
-  {
     "count": 13,
     "url": "https://react.dev",
     "tags": [
@@ -256,6 +231,28 @@
       "url": "https://nuxt.com/blog/v4-3"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://web.dev",
+    "tags": [
+      "CSS",
+      "article",
+      "JavaScript",
+      "tutorial",
+      "HTML",
+      "css ",
+      "browser",
+      "performance",
+      "Unicode",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
     "count": 12,
@@ -2063,21 +2060,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/typicode/husky",
-    "tags": [
-      "GIt",
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.0.1 · typicode/husky",
-      "url": "https://github.com/typicode/husky/releases/tag/v9.0.1"
-    },
-    "rssUrl": "https://github.com/typicode/husky/releases.atom"
   },
   {
     "count": 1,

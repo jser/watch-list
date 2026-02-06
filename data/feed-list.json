@@ -655,12 +655,6 @@
     ]
   },
   {
-    "url": "https://github.com/typicode/husky",
-    "feeds": [
-      "https://github.com/typicode/husky/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/awslabs/llrt",
     "feeds": [
       "https://github.com/awslabs/llrt/releases.atom"
