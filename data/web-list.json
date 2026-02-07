@@ -133,7 +133,7 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 17,
+    "count": 18,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -144,11 +144,15 @@
       "article",
       "browser",
       "history",
-      "vite"
+      "vite",
+      "security",
+      "API",
+      "VM",
+      "server"
     ],
     "example": {
-      "title": "Deno 2.6: dx is the new npx | Deno",
-      "url": "https://deno.com/blog/v2.6"
+      "title": "Introducing Deno Sandbox | Deno",
+      "url": "https://deno.com/blog/introducing-deno-sandbox"
     },
     "rssUrl": "https://deno.com/feed"
   },
@@ -735,20 +739,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "jQuery 4.0.0 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
-    },
-    "rssUrl": "https://blog.jquery.com/feed/"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/axios/axios",
     "tags": [
       "JavaScript",
@@ -1215,6 +1205,20 @@
       "url": "https://turbo.build/blog/turbo-2-5"
     },
     "rssUrl": "https://turbo.build/feed.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "jQuery 4.0.0 | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
+    },
+    "rssUrl": "https://blog.jquery.com/feed/"
   },
   {
     "count": 3,
@@ -2059,18 +2063,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://bjornlu.com",
-    "tags": [
-      "vite",
-      "article"
-    ],
-    "example": {
-      "title": "Hot Module Replacement is Easy - Bjorn Lu",
-      "url": "https://bjornlu.com/blog/hot-module-replacement-is-easy"
     }
   },
   {
