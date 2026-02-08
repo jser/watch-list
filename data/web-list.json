@@ -2067,20 +2067,6 @@
   },
   {
     "count": 1,
-    "url": "https://deploy-preview-1520--rsbuild.netlify.app",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rsbuild v0.4 - Rsbuild",
-      "url": "https://deploy-preview-1520--rsbuild.netlify.app/community/releases/v0-4"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://vitejs.dev",
     "tags": [
       "vite",
