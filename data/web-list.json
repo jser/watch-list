@@ -97,6 +97,26 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
+    "count": 21,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "article",
+      "news",
+      "JSON",
+      "Markdown",
+      "TypeScript",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/02/eslint-v10.0.0-released/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
     "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
@@ -111,26 +131,6 @@
       "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
-    "count": 20,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "article",
-      "news",
-      "JSON",
-      "Markdown",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 18,
@@ -509,27 +509,6 @@
   },
   {
     "count": 6,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "Design",
-      "debug",
-      "Tools",
-      "ReleaseNote",
-      "storybook",
-      "UI",
-      "test",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Security advisory",
-      "url": "https://storybook.js.org/blog/security-advisory/"
-    },
-    "rssUrl": "https://storybook.js.org/blog/rss/"
-  },
-  {
-    "count": 6,
     "url": "https://socket.dev",
     "tags": [
       "nodejs",
@@ -600,6 +579,27 @@
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 5,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "storybook",
+      "JavaScript",
+      "Design",
+      "debug",
+      "ReleaseNote",
+      "UI",
+      "test",
+      "Tools",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Security advisory",
+      "url": "https://storybook.js.org/blog/security-advisory/"
+    },
+    "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
     "count": 5,
@@ -2064,33 +2064,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://vitejs.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vite 5.1 is out! | Vite",
-      "url": "https://vitejs.dev/blog/announcing-vite5-1.html"
-    },
-    "rssUrl": "https://vitejs.dev/blog.rss"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/awslabs/llrt",
-    "tags": [
-      "JavaScript",
-      "aws",
-      "library"
-    ],
-    "example": {
-      "title": "awslabs/llrt: LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
-      "url": "https://github.com/awslabs/llrt"
-    },
-    "rssUrl": "https://github.com/awslabs/llrt/releases.atom"
   },
   {
     "count": 1,

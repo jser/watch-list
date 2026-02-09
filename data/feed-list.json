@@ -655,12 +655,6 @@
     ]
   },
   {
-    "url": "https://github.com/awslabs/llrt",
-    "feeds": [
-      "https://github.com/awslabs/llrt/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/StellateHQ/fuse",
     "feeds": [
       "https://github.com/StellateHQ/fuse/releases.atom"
@@ -2350,12 +2344,6 @@
     "url": "https://vite.dev",
     "feeds": [
       "https://vite.dev/blog.rss"
-    ]
-  },
-  {
-    "url": "https://vitejs.dev",
-    "feeds": [
-      "https://vitejs.dev/blog.rss"
     ]
   },
   {
