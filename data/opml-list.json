@@ -1003,12 +1003,6 @@
     ]
   },
   {
-    "url": "https://vitejs.dev",
-    "feeds": [
-      "https://vitejs.dev/blog.rss"
-    ]
-  },
-  {
     "url": "https://voidzero.dev",
     "feeds": [
       "https://voidzero.dev/feed.xml"
