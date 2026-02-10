@@ -206,14 +206,6 @@
     ]
   },
   {
-    "url": "https://cheerpj.com",
-    "feeds": [
-      "https://cheerpj.com/feed/",
-      "https://cheerpj.com/comments/feed/",
-      "https://cheerpj.com/cheerpj-3-now-generally-available/feed/"
-    ]
-  },
-  {
     "url": "https://ckeditor.com",
     "feeds": [
       "https://ckeditor.com/rss.xml"
