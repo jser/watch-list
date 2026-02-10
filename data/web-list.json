@@ -391,23 +391,6 @@
   },
   {
     "count": 8,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "Hono",
-      "security"
-    ],
-    "example": {
-      "title": "Release v4.11.7 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.11.7"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 8,
     "url": "https://www.youtube.com",
     "tags": [
       "nodejs",
@@ -471,6 +454,23 @@
       "url": "https://biomejs.dev/blog/roadmap-2026/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "Hono",
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v4.11.7 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.11.7"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 7,
@@ -2064,20 +2064,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://cheerpj.com",
-    "tags": [
-      "Java",
-      "JavaScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "CheerpJ 3.0 now generally available: Run any Java Application on Modern Browsers CheerpJ 3.0 now available: run any Java on modern browsers",
-      "url": "https://cheerpj.com/cheerpj-3-now-generally-available/"
-    },
-    "rssUrl": "https://cheerpj.com/feed/"
   },
   {
     "count": 1,
