@@ -393,13 +393,6 @@
     ]
   },
   {
-    "url": "https://fosdem.org",
-    "feeds": [
-      "https://fosdem.org/2024/atom.xml",
-      "https://fosdem.org/2024/rss.xml"
-    ]
-  },
-  {
     "url": "https://frontendmasters.com",
     "feeds": [
       "https://frontendmasters.com/blog/feed/"
@@ -644,12 +637,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/StellateHQ/fuse",
-    "feeds": [
-      "https://github.com/StellateHQ/fuse/releases.atom"
     ]
   },
   {
