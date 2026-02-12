@@ -67,7 +67,6 @@
 <outline text="expressjs.com" title="expressjs.com" type="rss" xmlUrl="https://expressjs.com/feed.xml"/>
 <outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
-<outline text="fosdem.org" title="fosdem.org" type="rss" xmlUrl="https://fosdem.org/2024/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
 <outline text="fumadocs.dev" title="fumadocs.dev" type="rss" xmlUrl="https://fumadocs.dev/blog/rss.xml"/>
 <outline text="gist.github.com/azu" title="gist.github.com/azu" type="rss" xmlUrl="https://gist.github.com/azu.atom"/>
@@ -109,7 +108,6 @@
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/StellateHQ/fuse" title="github.com/StellateHQ/fuse" type="rss" xmlUrl="https://github.com/StellateHQ/fuse/releases.atom"/>
 <outline text="github.com/kolodny/safetest?tab=readme-ov-file" title="github.com/kolodny/safetest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/kolodny/safetest?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/pashak09/ts-expect-error-validator" title="github.com/pashak09/ts-expect-error-validator" type="rss" xmlUrl="https://github.com/pashak09/ts-expect-error-validator/releases.atom"/>
 <outline text="github.com/parcel-bundler/lightningcss" title="github.com/parcel-bundler/lightningcss" type="rss" xmlUrl="https://github.com/parcel-bundler/lightningcss/releases.atom"/>

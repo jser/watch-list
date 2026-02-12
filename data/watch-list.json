@@ -39,6 +39,31 @@
     }
   },
   {
+    "count": 26,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "performance",
+      "article",
+      "ReleaseNote",
+      "CSS",
+      "debug",
+      "LanguageModel",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP",
+      "WebPlatformAPI",
+      "AI",
+      "WebGPU"
+    ],
+    "example": {
+      "title": "Chrome 146 beta  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-146-beta?hl=en"
+    }
+  },
+  {
     "count": 24,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
@@ -68,28 +93,6 @@
     "example": {
       "title": "Introducing CSS Grid Lanes | WebKit",
       "url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/"
-    }
-  },
-  {
-    "count": 23,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "Chrome",
-      "performance",
-      "article",
-      "ReleaseNote",
-      "CSS",
-      "debug",
-      "LanguageModel",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP"
-    ],
-    "example": {
-      "title": "Chrome 144  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/144"
     }
   },
   {
@@ -489,25 +492,6 @@
   },
   {
     "count": 6,
-    "url": "https://socket.dev",
-    "tags": [
-      "nodejs",
-      "npm",
-      "discussion",
-      "article",
-      "pnpm",
-      "security",
-      "news",
-      "python",
-      "Rust"
-    ],
-    "example": {
-      "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
-      "url": "https://socket.dev/blog/introducing-socket-firewall"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://astro.build",
     "tags": [
       "nodejs",
@@ -614,6 +598,23 @@
     "example": {
       "title": "Converting values to strings in JavaScript has pitfalls",
       "url": "https://2ality.com/2025/04/stringification-javascript.html"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://socket.dev",
+    "tags": [
+      "pnpm",
+      "article",
+      "security",
+      "npm",
+      "news",
+      "python",
+      "Rust"
+    ],
+    "example": {
+      "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
+      "url": "https://socket.dev/blog/introducing-socket-firewall"
     }
   },
   {
@@ -1988,34 +1989,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/StellateHQ/fuse",
-    "tags": [
-      "GraphQL",
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "StellateHQ/fuse: Fuse: The fastest way to build and query great APIs with TypeScript",
-      "url": "https://github.com/StellateHQ/fuse"
-    },
-    "rssUrl": "https://github.com/StellateHQ/fuse/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://fosdem.org",
-    "tags": [
-      "JavaScript",
-      "performance",
-      "video",
-      "slide"
-    ],
-    "example": {
-      "title": "FOSDEM 2024 - Fast JavaScript with Data-Oriented Design",
-      "url": "https://fosdem.org/2024/schedule/event/fosdem-2024-2773-fast-javascript-with-data-oriented-design/"
     }
   },
   {
