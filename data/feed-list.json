@@ -454,12 +454,6 @@
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
@@ -523,6 +517,12 @@
     "url": "https://github.com/facebook/react",
     "feeds": [
       "https://github.com/facebook/react/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {

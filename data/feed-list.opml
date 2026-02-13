@@ -77,7 +77,6 @@
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
-<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
@@ -89,6 +88,7 @@
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
+<outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>

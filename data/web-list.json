@@ -586,6 +586,23 @@
   },
   {
     "count": 5,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "iOS",
+      "Android",
+      "ReleaseNote",
+      "Native",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "React Native 0.84 - Hermes V1 by Default · React Native",
+      "url": "https://reactnative.dev/blog/2026/02/11/react-native-0.84"
+    },
+    "rssUrl": "https://reactnative.dev/blog/rss.xml"
+  },
+  {
+    "count": 5,
     "url": "https://blog.angular.dev",
     "tags": [
       "Angular",
@@ -740,22 +757,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "JavaScript",
-      "HTTP",
-      "library",
-      "security",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Release v1.9.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.9.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://openjsf.org",
     "tags": [
       "nodejs",
@@ -839,22 +840,6 @@
       "url": "https://github.com/web-infra-dev/rspack/discussions/9270"
     },
     "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "iOS",
-      "Android",
-      "ReleaseNote",
-      "Native"
-    ],
-    "example": {
-      "title": "React Native 0.82 - A New Era · React Native",
-      "url": "https://reactnative.dev/blog/2025/10/08/react-native-0.82"
-    },
-    "rssUrl": "https://reactnative.dev/blog/rss.xml"
   },
   {
     "count": 4,
@@ -1159,6 +1144,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "JavaScript",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release Release v1.9.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.9.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/chakra-ui/ark",
     "tags": [
       "JavaScript",
@@ -1359,20 +1360,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://typescript-eslint.io",
-    "tags": [
-      "TypeScript",
-      "ESLint",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing typescript-eslint v8 | typescript-eslint",
-      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
-    },
-    "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
   },
   {
     "count": 2,
@@ -3779,6 +3766,20 @@
       "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
     },
     "rssUrl": "https://gist.github.com/azu.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://typescript-eslint.io",
+    "tags": [
+      "TypeScript",
+      "ESLint",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing typescript-eslint v8 | typescript-eslint",
+      "url": "https://typescript-eslint.io/blog/announcing-typescript-eslint-v8/"
+    },
+    "rssUrl": "https://typescript-eslint.io/blog/rss.xml"
   },
   {
     "count": 1,
@@ -8013,6 +8014,20 @@
     "example": {
       "title": "v1.15.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-15-0"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://openwebf.com",
+    "tags": [
+      "Flutter",
+      "JavaScript",
+      "web",
+      "library"
+    ],
+    "example": {
+      "title": "OpenWebF - OpenWebF",
+      "url": "https://openwebf.com/en"
     }
   }
 ]
