@@ -1981,18 +1981,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.jollyui.dev",
-    "tags": [
-      "React",
-      "library"
-    ],
-    "example": {
-      "title": "JollyUI",
-      "url": "https://www.jollyui.dev/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://tempo.formkit.com",
     "tags": [
       "JavaScript",
