@@ -315,21 +315,6 @@
   },
   {
     "count": 9,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 9,
     "url": "https://remix.run",
     "tags": [
       "Remix",
@@ -413,6 +398,21 @@
       "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
     },
     "rssUrl": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "count": 8,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 8,
@@ -2051,20 +2051,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tempo.formkit.com",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "i18n",
-      "library"
-    ],
-    "example": {
-      "title": "Tempo • Dates by FormKit",
-      "url": "https://tempo.formkit.com/"
     }
   },
   {
