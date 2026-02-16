@@ -81,7 +81,6 @@
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
-<outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
@@ -91,6 +90,7 @@
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
+<outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
@@ -293,6 +293,8 @@
 <outline text="github.com/FullHuman/purgecss" title="github.com/FullHuman/purgecss" type="rss" xmlUrl="https://github.com/FullHuman/purgecss/releases.atom"/>
 <outline text="github.com/microsoft/playwright-mcp" title="github.com/microsoft/playwright-mcp" type="rss" xmlUrl="https://github.com/microsoft/playwright-mcp/releases.atom"/>
 <outline text="github.com/libpdf-js/core" title="github.com/libpdf-js/core" type="rss" xmlUrl="https://github.com/libpdf-js/core/releases.atom"/>
+<outline text="github.com/hamzaydia/verifyfetch" title="github.com/hamzaydia/verifyfetch" type="rss" xmlUrl="https://github.com/hamzaydia/verifyfetch/releases.atom"/>
+<outline text="github.com/bikeshaving/shovel" title="github.com/bikeshaving/shovel" type="rss" xmlUrl="https://github.com/bikeshaving/shovel/releases.atom"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
@@ -372,7 +374,6 @@
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
-<outline text="tobilg.com" title="tobilg.com" type="rss" xmlUrl="https://tobilg.com/rss.xml"/>
 <outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
 <outline text="turborepo.com" title="turborepo.com" type="rss" xmlUrl="https://turborepo.com/feed.xml"/>
@@ -412,6 +413,7 @@
 <outline text="www.mizdra.net" title="www.mizdra.net" type="rss" xmlUrl="https://www.mizdra.net/feed"/>
 <outline text="www.moonbitlang.com" title="www.moonbitlang.com" type="rss" xmlUrl="https://www.moonbitlang.com/blog/rss.xml"/>
 <outline text="www.polarsignals.com" title="www.polarsignals.com" type="rss" xmlUrl="https://www.polarsignals.com/rss.xml"/>
+<outline text="www.projectwallace.com" title="www.projectwallace.com" type="rss" xmlUrl="https://www.projectwallace.com/blog/feed.xml"/>
 <outline text="www.rspack.dev" title="www.rspack.dev" type="rss" xmlUrl="https://www.rspack.dev/rss/blog-en.rss"/>
 <outline text="www.sanity.io" title="www.sanity.io" type="rss" xmlUrl="https://www.sanity.io/feed/rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
@@ -446,5 +448,6 @@
 <outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/exwzd/" title="zenn.dev/exwzd/" type="rss" xmlUrl="https://zenn.dev/p/exwzd/feed"/>
 <outline text="zenn.dev/yamachu/" title="zenn.dev/yamachu/" type="rss" xmlUrl="https://zenn.dev/yamachu/feed"/>
+<outline text="zenn.dev/yamanoku/" title="zenn.dev/yamanoku/" type="rss" xmlUrl="https://zenn.dev/yamanoku/feed"/>
 </body>
 </opml>

@@ -478,12 +478,6 @@
     ]
   },
   {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
@@ -535,6 +529,12 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {
@@ -1750,6 +1750,18 @@
     ]
   },
   {
+    "url": "https://github.com/hamzaydia/verifyfetch",
+    "feeds": [
+      "https://github.com/hamzaydia/verifyfetch/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/bikeshaving/shovel",
+    "feeds": [
+      "https://github.com/bikeshaving/shovel/releases.atom"
+    ]
+  },
+  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"
@@ -2262,12 +2274,6 @@
     ]
   },
   {
-    "url": "https://tobilg.com",
-    "feeds": [
-      "https://tobilg.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://tonyalicea.dev",
     "feeds": [
       "https://tonyalicea.dev/feed/feed.xml"
@@ -2526,6 +2532,12 @@
     ]
   },
   {
+    "url": "https://www.projectwallace.com",
+    "feeds": [
+      "https://www.projectwallace.com/blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://www.rspack.dev",
     "feeds": [
       "https://www.rspack.dev/rss/blog-en.rss"
@@ -2733,6 +2745,12 @@
     "url": "https://zenn.dev/yamachu/",
     "feeds": [
       "https://zenn.dev/yamachu/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yamanoku/",
+    "feeds": [
+      "https://zenn.dev/yamanoku/feed"
     ]
   }
 ]
