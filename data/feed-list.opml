@@ -295,6 +295,7 @@
 <outline text="github.com/libpdf-js/core" title="github.com/libpdf-js/core" type="rss" xmlUrl="https://github.com/libpdf-js/core/releases.atom"/>
 <outline text="github.com/hamzaydia/verifyfetch" title="github.com/hamzaydia/verifyfetch" type="rss" xmlUrl="https://github.com/hamzaydia/verifyfetch/releases.atom"/>
 <outline text="github.com/bikeshaving/shovel" title="github.com/bikeshaving/shovel" type="rss" xmlUrl="https://github.com/bikeshaving/shovel/releases.atom"/>
+<outline text="github.com/ubugeeei/vize" title="github.com/ubugeeei/vize" type="rss" xmlUrl="https://github.com/ubugeeei/vize/releases.atom"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
 <outline text="ja.react.dev" title="ja.react.dev" type="rss" xmlUrl="https://ja.react.dev/rss.xml"/>
@@ -373,6 +374,7 @@
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
+<outline text="techblog.lycorp.co.jp" title="techblog.lycorp.co.jp" type="rss" xmlUrl="https://techblog.lycorp.co.jp/ja/feed/index.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
 <outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>

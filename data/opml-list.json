@@ -918,6 +918,12 @@
     ]
   },
   {
+    "url": "https://techblog.lycorp.co.jp",
+    "feeds": [
+      "https://techblog.lycorp.co.jp/ja/feed/index.xml"
+    ]
+  },
+  {
     "url": "https://tkdodo.eu",
     "feeds": [
       "https://tkdodo.eu/blog/rss.xml"

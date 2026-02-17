@@ -1762,6 +1762,12 @@
     ]
   },
   {
+    "url": "https://github.com/ubugeeei/vize",
+    "feeds": [
+      "https://github.com/ubugeeei/vize/releases.atom"
+    ]
+  },
+  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"
@@ -2265,6 +2271,12 @@
     "feeds": [
       "https://tech.plaid.co.jp/rss.xml",
       "https://tech.plaid.co.jp/atom.xml"
+    ]
+  },
+  {
+    "url": "https://techblog.lycorp.co.jp",
+    "feeds": [
+      "https://techblog.lycorp.co.jp/ja/feed/index.xml"
     ]
   },
   {

@@ -357,6 +357,23 @@
   },
   {
     "count": 8,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "Rust",
+      "biome",
+      "article"
+    ],
+    "example": {
+      "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-4/"
+    }
+  },
+  {
+    "count": 8,
     "url": "https://www.youtube.com",
     "tags": [
       "nodejs",
@@ -413,23 +430,6 @@
     "example": {
       "title": "Copilot SDK in technical preview - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "Rust",
-      "biome",
-      "article"
-    ],
-    "example": {
-      "title": "Roadmap 2026 | Biome",
-      "url": "https://biomejs.dev/blog/roadmap-2026/"
     }
   },
   {
@@ -7805,5 +7805,58 @@
       "title": "Interop 2026が始まりました！",
       "url": "https://zenn.dev/yamanoku/articles/interop-2026-launched"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://techblog.lycorp.co.jp",
+    "tags": [
+      "CSS",
+      "fonts",
+      "article"
+    ],
+    "example": {
+      "title": "Web フォントを使って contenteditable から脱出する",
+      "url": "https://techblog.lycorp.co.jp/ja/20260216c"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://npmx.dev",
+    "tags": [
+      "npm",
+      "search",
+      "webservice"
+    ],
+    "example": {
+      "title": "npmx - Package Browser for the npm Registry",
+      "url": "https://npmx.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://webpack.js.org",
+    "tags": [
+      "webpack",
+      "article"
+    ],
+    "example": {
+      "title": "Roadmap 2026 (2026-02-04) | webpack",
+      "url": "https://webpack.js.org/blog/2026-04-02-roadmap-2026/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/ubugeeei/vize",
+    "tags": [
+      "Vue",
+      "Rust",
+      "Tools",
+      "compiler"
+    ],
+    "example": {
+      "title": "ubugeeei/vize: Unofficial High-Performance Vue.js Toolchain in Rust",
+      "url": "https://github.com/ubugeeei/vize"
+    },
+    "rssUrl": "https://github.com/ubugeeei/vize/releases.atom"
   }
 ]
