@@ -1032,6 +1032,12 @@
     ]
   },
   {
+    "url": "https://webpack.js.org",
+    "feeds": [
+      "https://webpack.js.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://workos.com",
     "feeds": [
       "https://workos.com/blog/rss.xml"

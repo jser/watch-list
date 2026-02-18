@@ -496,12 +496,6 @@
     ]
   },
   {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -586,6 +580,12 @@
     ]
   },
   {
+    "url": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/facebook/relay",
     "feeds": [
       "https://github.com/facebook/relay/releases.atom"
@@ -637,12 +637,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/kolodny/safetest?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/kolodny/safetest?tab=readme-ov-file/releases.atom"
     ]
   },
   {
@@ -2385,6 +2379,12 @@
     "feeds": [
       "https://webkit.org/feed/",
       "https://webkit.org/feed/atom/"
+    ]
+  },
+  {
+    "url": "https://webpack.js.org",
+    "feeds": [
+      "https://webpack.js.org/feed.xml"
     ]
   },
   {
