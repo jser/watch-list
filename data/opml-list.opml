@@ -166,6 +166,7 @@
 <outline text="webassembly.org" title="webassembly.org" type="rss" xmlUrl="https://webassembly.org/feed.xml"/>
 <outline text="webdriver.io" title="webdriver.io" type="rss" xmlUrl="https://webdriver.io/blog/rss.xml"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
+<outline text="webpack.js.org" title="webpack.js.org" type="rss" xmlUrl="https://webpack.js.org/feed.xml"/>
 <outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
 <outline text="www.angulararchitects.io" title="www.angulararchitects.io" type="rss" xmlUrl="https://www.angulararchitects.io/sample-page/feed/"/>
 <outline text="www.apollographql.com" title="www.apollographql.com" type="rss" xmlUrl="https://www.apollographql.com/blog/rss.xml"/>
