@@ -6,6 +6,12 @@
     ]
   },
   {
+    "url": "https://adnanthekhan.com",
+    "feeds": [
+      "https://adnanthekhan.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://adventar.org",
     "feeds": [
       "https://adventar.org/calendars/10555.rss"
@@ -637,12 +643,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/pashak09/ts-expect-error-validator",
-    "feeds": [
-      "https://github.com/pashak09/ts-expect-error-validator/releases.atom"
     ]
   },
   {

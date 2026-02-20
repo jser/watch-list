@@ -5,6 +5,7 @@
 </head>
 <body>
 <outline text="2ality.com" title="2ality.com" type="rss" xmlUrl="https://2ality.com/feeds/posts.atom"/>
+<outline text="adnanthekhan.com" title="adnanthekhan.com" type="rss" xmlUrl="https://adnanthekhan.com/rss.xml"/>
 <outline text="adventar.org" title="adventar.org" type="rss" xmlUrl="https://adventar.org/calendars/10555.rss"/>
 <outline text="alexharri.com" title="alexharri.com" type="rss" xmlUrl="https://alexharri.com/rss.xml"/>
 <outline text="alfy.blog" title="alfy.blog" type="rss" xmlUrl="https://alfy.blog/feed.xml"/>

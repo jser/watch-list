@@ -1292,22 +1292,6 @@
   },
   {
     "count": 2,
-    "url": "https://leanrada.com",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "library",
-      "css ",
-      "animation",
-      "article"
-    ],
-    "example": {
-      "title": "CSS sprite sheet animations · leanrada.com",
-      "url": "https://leanrada.com/notes/css-sprite-sheets/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/expressjs/express",
     "tags": [
       "express",
@@ -1969,20 +1953,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/pashak09/ts-expect-error-validator",
-    "tags": [
-      "TypeScript",
-      "test",
-      "Tools"
-    ],
-    "example": {
-      "title": "pashak09/ts-expect-error-validator: Command-line tool to validate expected TypeScript errors",
-      "url": "https://github.com/pashak09/ts-expect-error-validator"
-    },
-    "rssUrl": "https://github.com/pashak09/ts-expect-error-validator/releases.atom"
   },
   {
     "count": 1,
@@ -4454,6 +4424,19 @@
     "example": {
       "title": "Re-implementing JavaScript's == in JavaScript",
       "url": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://leanrada.com",
+    "tags": [
+      "css ",
+      "animation",
+      "article"
+    ],
+    "example": {
+      "title": "CSS sprite sheet animations · leanrada.com",
+      "url": "https://leanrada.com/notes/css-sprite-sheets/"
     }
   },
   {
@@ -7842,5 +7825,35 @@
       "url": "https://github.com/ubugeeei/vize"
     },
     "rssUrl": "https://github.com/ubugeeei/vize/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blackboard.sh",
+    "tags": [
+      "TypeScript",
+      "Bun",
+      "Zig",
+      "Electron",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electrobun v1 - Blackboard Blog",
+      "url": "https://blackboard.sh/blog/electrobun-v1/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://adnanthekhan.com",
+    "tags": [
+      "security",
+      "VSCode",
+      "AI",
+      "article"
+    ],
+    "example": {
+      "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research",
+      "url": "https://adnanthekhan.com/posts/clinejection/"
+    }
   }
 ]

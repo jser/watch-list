@@ -6,6 +6,12 @@
     ]
   },
   {
+    "url": "https://adnanthekhan.com",
+    "feeds": [
+      "https://adnanthekhan.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://adventar.org",
     "feeds": [
       "https://adventar.org/calendars/10555.rss"
