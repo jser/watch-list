@@ -1,10 +1,9 @@
 [
   {
-    "count": 69,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
-      "secu",
       "ReleaseNote",
       "article",
       "windows",
@@ -946,22 +945,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/nodejs/corepack",
-    "tags": [
-      "nodejs",
-      "tool",
-      "ReleaseNote",
-      "npm",
-      "pnpm"
-    ],
-    "example": {
-      "title": "Release v0.34.0 · nodejs/corepack",
-      "url": "https://github.com/nodejs/corepack/releases/tag/v0.34.0"
-    },
-    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://developer.mozilla.org",
     "tags": [
       "HTML",
@@ -1809,6 +1792,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/nodejs/corepack",
+    "tags": [
+      "nodejs",
+      "npm",
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.34.0 · nodejs/corepack",
+      "url": "https://github.com/nodejs/corepack/releases/tag/v0.34.0"
+    },
+    "rssUrl": "https://github.com/nodejs/corepack/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://valibot.dev",
     "tags": [
       "JavaScript",
@@ -1952,19 +1950,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://softwaremill.com",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "A novel technique for creating ergonomic and tree-shakable TypeScript libraries",
-      "url": "https://softwaremill.com/a-novel-technique-for-creating-ergonomic-and-tree-shakable-typescript-libraries/"
     }
   },
   {

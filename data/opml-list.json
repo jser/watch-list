@@ -788,13 +788,6 @@
     ]
   },
   {
-    "url": "https://softwaremill.com",
-    "feeds": [
-      "https://softwaremill.com/blog.atom",
-      "https://softwaremill.com/blog.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/steelydylan/",
     "feeds": [
       "https://speakerdeck.com/steelydylan.atom",
@@ -1093,6 +1086,12 @@
       "https://www.browsercat.com/feed/topics.atom.xml",
       "https://www.browsercat.com/feed/docs.rss.xml",
       "https://www.browsercat.com/feed/docs.atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.charpeni.com",
+    "feeds": [
+      "https://www.charpeni.com/blog/rss.xml"
     ]
   },
   {
