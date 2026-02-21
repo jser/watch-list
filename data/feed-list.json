@@ -502,12 +502,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/corepack",
-    "feeds": [
-      "https://github.com/nodejs/corepack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/facebook/react",
     "feeds": [
       "https://github.com/facebook/react/releases.atom"
@@ -631,6 +625,12 @@
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nodejs/corepack",
+    "feeds": [
+      "https://github.com/nodejs/corepack/releases.atom"
     ]
   },
   {
@@ -2132,13 +2132,6 @@
     ]
   },
   {
-    "url": "https://softwaremill.com",
-    "feeds": [
-      "https://softwaremill.com/blog.atom",
-      "https://softwaremill.com/blog.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/steelydylan/",
     "feeds": [
       "https://speakerdeck.com/steelydylan.atom",
@@ -2437,6 +2430,12 @@
       "https://www.browsercat.com/feed/topics.atom.xml",
       "https://www.browsercat.com/feed/docs.rss.xml",
       "https://www.browsercat.com/feed/docs.atom.xml"
+    ]
+  },
+  {
+    "url": "https://www.charpeni.com",
+    "feeds": [
+      "https://www.charpeni.com/blog/rss.xml"
     ]
   },
   {

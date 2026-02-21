@@ -129,7 +129,6 @@
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="simonwillison.net" title="simonwillison.net" type="rss" xmlUrl="https://simonwillison.net/atom/everything/"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
-<outline text="softwaremill.com" title="softwaremill.com" type="rss" xmlUrl="https://softwaremill.com/blog.atom"/>
 <outline text="speakerdeck.com/steelydylan/" title="speakerdeck.com/steelydylan/" type="rss" xmlUrl="https://speakerdeck.com/steelydylan.atom"/>
 <outline text="speakerdeck.com/exoego/" title="speakerdeck.com/exoego/" type="rss" xmlUrl="https://speakerdeck.com/exoego.atom"/>
 <outline text="speakerdeck.com/sajikix/" title="speakerdeck.com/sajikix/" type="rss" xmlUrl="https://speakerdeck.com/sajikix.atom"/>
@@ -175,6 +174,7 @@
 <outline text="www.better-auth.com" title="www.better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
 <outline text="www.bram.us" title="www.bram.us" type="rss" xmlUrl="https://www.bram.us/feed/"/>
 <outline text="www.browsercat.com" title="www.browsercat.com" type="rss" xmlUrl="https://www.browsercat.com/feed/posts.rss.xml"/>
+<outline text="www.charpeni.com" title="www.charpeni.com" type="rss" xmlUrl="https://www.charpeni.com/blog/rss.xml"/>
 <outline text="www.checklyhq.com" title="www.checklyhq.com" type="rss" xmlUrl="https://www.checklyhq.com/rss.xml"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
 <outline text="www.developerway.com" title="www.developerway.com" type="rss" xmlUrl="https://www.developerway.com/rss.xml"/>
