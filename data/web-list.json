@@ -152,7 +152,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 16,
+    "count": 15,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -177,19 +177,6 @@
       "title": "Next.js 16.1 | Next.js",
       "url": "https://nextjs.org/blog/next-16-1"
     }
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 40.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-40-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 12,
@@ -266,6 +253,19 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.58.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 40.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-40-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 10,
