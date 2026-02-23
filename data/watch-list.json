@@ -92,21 +92,6 @@
     }
   },
   {
-    "count": 21,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 6.0 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/"
-    }
-  },
-  {
     "count": 20,
     "url": "https://eslint.org",
     "tags": [
@@ -123,6 +108,21 @@
     "example": {
       "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
+  },
+  {
+    "count": 20,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 6.0 Beta - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/"
     }
   },
   {
