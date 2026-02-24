@@ -2027,20 +2027,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/parcel-bundler/lightningcss",
-    "tags": [
-      "CSS",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.24.0 · parcel-bundler/lightningcss",
-      "url": "https://github.com/parcel-bundler/lightningcss/releases/tag/v1.24.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/lightningcss/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/fabiospampinato/fast-string-width",
     "tags": [
       "JavaScript",
