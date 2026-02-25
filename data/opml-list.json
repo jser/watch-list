@@ -424,6 +424,13 @@
     ]
   },
   {
+    "url": "https://hacks.mozilla.org",
+    "feeds": [
+      "https://hacks.mozilla.org/feed/",
+      "https://hacks.mozilla.org/comments/feed/"
+    ]
+  },
+  {
     "url": "https://ics.media",
     "feeds": [
       "https://ics.media/feed/atom.xml"

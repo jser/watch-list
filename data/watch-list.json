@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 31,
+    "count": 30,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -126,12 +126,12 @@
     }
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://deno.com",
     "tags": [
-      "deno",
-      "ReleaseNote",
       "dneo",
+      "ReleaseNote",
+      "deno",
       "JavaScript",
       "npm",
       "article",
@@ -7825,6 +7825,21 @@
     "example": {
       "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research",
       "url": "https://adnanthekhan.com/posts/clinejection/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://hacks.mozilla.org",
+    "tags": [
+      "Firefox",
+      "XSS",
+      "security",
+      "DOM",
+      "article"
+    ],
+    "example": {
+      "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148 - Mozilla Hacks - the Web developer blog",
+      "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
     }
   }
 ]
