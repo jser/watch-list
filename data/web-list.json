@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 70,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -14,8 +14,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js 25.5.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v25.5.0"
+      "title": "Node.js — Node.js 24.14.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.14.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -256,19 +256,6 @@
   },
   {
     "count": 11,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 40.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-40-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 10,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -284,10 +271,41 @@
       "astro"
     ],
     "example": {
-      "title": "Astro is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/astro-joins-cloudflare/"
+      "title": "How we rebuilt Next.js with AI in one week",
+      "url": "https://blog.cloudflare.com/vinext/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 40.0.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-40-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 10,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Oxfmt Beta | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-02-24-oxfmt-beta"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 9,
@@ -337,24 +355,6 @@
   },
   {
     "count": 9,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Type-Aware Linting Alpha | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2025-12-08-type-aware-alpha"
-    },
-    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 9,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -386,6 +386,23 @@
       "url": "https://biomejs.dev/blog/biome-v2-4/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "Hono",
+      "JavaScript",
+      "server",
+      "library",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v4.12.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 8,
@@ -449,23 +466,6 @@
       "url": "https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/"
     },
     "rssUrl": "https://github.blog/feed/"
-  },
-  {
-    "count": 7,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "Hono",
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v4.11.7 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.11.7"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 7,
@@ -2024,19 +2024,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/fabiospampinato/fast-string-width",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "fabiospampinato/fast-string-width: A fast function for calculating the visual width of a string once printed to the terminal.",
-      "url": "https://github.com/fabiospampinato/fast-string-width/tree/main"
-    },
-    "rssUrl": "https://github.com/fabiospampinato/fast-string-width/releases.atom"
   },
   {
     "count": 1,

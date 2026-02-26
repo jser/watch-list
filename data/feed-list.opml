@@ -109,7 +109,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/fabiospampinato/fast-string-width" title="github.com/fabiospampinato/fast-string-width" type="rss" xmlUrl="https://github.com/fabiospampinato/fast-string-width/releases.atom"/>
 <outline text="github.com/unadlib/mutability" title="github.com/unadlib/mutability" type="rss" xmlUrl="https://github.com/unadlib/mutability/releases.atom"/>
 <outline text="github.com/facebook/react-strict-dom" title="github.com/facebook/react-strict-dom" type="rss" xmlUrl="https://github.com/facebook/react-strict-dom/releases.atom"/>
 <outline text="github.com/wxt-dev/wxt?tab=readme-ov-file" title="github.com/wxt-dev/wxt?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"/>
