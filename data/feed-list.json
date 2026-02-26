@@ -646,12 +646,6 @@
     ]
   },
   {
-    "url": "https://github.com/fabiospampinato/fast-string-width",
-    "feeds": [
-      "https://github.com/fabiospampinato/fast-string-width/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/unadlib/mutability",
     "feeds": [
       "https://github.com/unadlib/mutability/releases.atom"
