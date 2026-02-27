@@ -18,12 +18,6 @@
     ]
   },
   {
-    "url": "https://alexharri.com",
-    "feeds": [
-      "https://alexharri.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://alfy.blog",
     "feeds": [
       "https://alfy.blog/feed.xml"
