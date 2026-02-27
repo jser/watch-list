@@ -132,7 +132,7 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://deno.com",
     "tags": [
       "dneo",
@@ -146,8 +146,8 @@
       "vite"
     ],
     "example": {
-      "title": "Deno 2.6: dx is the new npx | Deno",
-      "url": "https://deno.com/blog/v2.6"
+      "title": "Deno 2.7: Temporal API, Windows ARM, and npm overrides | Deno",
+      "url": "https://deno.com/blog/v2.7"
     },
     "rssUrl": "https://deno.com/feed"
   },
@@ -177,6 +177,31 @@
       "title": "Next.js 16.1 | Next.js",
       "url": "https://nextjs.org/blog/next-16-1"
     }
+  },
+  {
+    "count": 13,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "ReleaseNote",
+      "babel",
+      "document",
+      "news",
+      "article",
+      "Native",
+      "Tools",
+      "Conference",
+      "Next.js",
+      "security",
+      "OpenSource",
+      "community",
+      "organization"
+    ],
+    "example": {
+      "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
+      "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 12,
@@ -217,28 +242,6 @@
       "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
     },
     "rssUrl": "https://web.dev/static/blog/feed.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "babel",
-      "document",
-      "news",
-      "article",
-      "Native",
-      "Tools",
-      "Conference",
-      "Next.js",
-      "security"
-    ],
-    "example": {
-      "title": "Denial of Service and Source Code Exposure in React Server Components – React",
-      "url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 12,
@@ -355,6 +358,32 @@
   },
   {
     "count": 9,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security",
+      "AI",
+      "python",
+      "golang",
+      ".net",
+      "library"
+    ],
+    "example": {
+      "title": "npm bulk trusted publishing config and script security now generally available - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-02-18-npm-bulk-trusted-publishing-config-and-script-security-now-generally-available/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 9,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -440,32 +469,6 @@
       "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
     },
     "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://github.blog",
-    "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security",
-      "AI",
-      "python",
-      "golang",
-      ".net",
-      "library"
-    ],
-    "example": {
-      "title": "Copilot SDK in technical preview - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 7,
@@ -2024,32 +2027,6 @@
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://alexharri.com",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "JSDoc as an alternative TypeScript syntax",
-      "url": "https://alexharri.com/blog/jsdoc-as-an-alternative-typescript-syntax"
-    },
-    "rssUrl": "https://alexharri.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/unadlib/mutability",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "unadlib/mutability: A JavaScript library for transactional mutable updates",
-      "url": "https://github.com/unadlib/mutability"
-    },
-    "rssUrl": "https://github.com/unadlib/mutability/releases.atom"
   },
   {
     "count": 1,
@@ -8052,5 +8029,52 @@
       "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
     },
     "rssUrl": "https://hacks.mozilla.org/feed/"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/millionco/react-doctor",
+    "tags": [
+      "React",
+      "Tools",
+      "ESLint",
+      "performance",
+      "accessibility",
+      "AI"
+    ],
+    "example": {
+      "title": "millionco/react-doctor: Let coding agents diagnose and fix your React code",
+      "url": "https://github.com/millionco/react-doctor"
+    },
+    "rssUrl": "https://github.com/millionco/react-doctor/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/styled-components/styled-components",
+    "tags": [
+      "CSS",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release styled-components@6.3.7 · styled-components/styled-components",
+      "url": "https://github.com/styled-components/styled-components/releases/tag/styled-components%406.3.7"
+    },
+    "rssUrl": "https://github.com/styled-components/styled-components/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel-labs/portless",
+    "tags": [
+      "Tools",
+      "server",
+      "nodejs",
+      "debug"
+    ],
+    "example": {
+      "title": "vercel-labs/portless: Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "url": "https://github.com/vercel-labs/portless"
+    },
+    "rssUrl": "https://github.com/vercel-labs/portless/releases.atom"
   }
 ]

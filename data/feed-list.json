@@ -18,12 +18,6 @@
     ]
   },
   {
-    "url": "https://alexharri.com",
-    "feeds": [
-      "https://alexharri.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://alfy.blog",
     "feeds": [
       "https://alfy.blog/feed.xml"
@@ -643,12 +637,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/unadlib/mutability",
-    "feeds": [
-      "https://github.com/unadlib/mutability/releases.atom"
     ]
   },
   {
@@ -1747,6 +1735,24 @@
     "url": "https://github.com/ubugeeei/vize",
     "feeds": [
       "https://github.com/ubugeeei/vize/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/millionco/react-doctor",
+    "feeds": [
+      "https://github.com/millionco/react-doctor/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/styled-components/styled-components",
+    "feeds": [
+      "https://github.com/styled-components/styled-components/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel-labs/portless",
+    "feeds": [
+      "https://github.com/vercel-labs/portless/releases.atom"
     ]
   },
   {
