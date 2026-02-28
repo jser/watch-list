@@ -25,7 +25,6 @@
 <outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
 <outline text="blog.nginx.org" title="blog.nginx.org" type="rss" xmlUrl="https://blog.nginx.org/feed"/>
 <outline text="blog.platformatic.dev" title="blog.platformatic.dev" type="rss" xmlUrl="https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"/>
-<outline text="blog.rafaelgss.dev" title="blog.rafaelgss.dev" type="rss" xmlUrl="https://blog.rafaelgss.dev/rss"/>
 <outline text="blog.saeloun.com" title="blog.saeloun.com" type="rss" xmlUrl="https://blog.saeloun.com/feed.xml"/>
 <outline text="blog.val.town" title="blog.val.town" type="rss" xmlUrl="https://blog.val.town/rss.xml"/>
 <outline text="blog.vjeux.com" title="blog.vjeux.com" type="rss" xmlUrl="https://blog.vjeux.com/feed"/>
@@ -98,6 +97,7 @@
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
 <outline text="mui.com" title="mui.com" type="rss" xmlUrl="https://mui.com/feed/blog/rss.xml"/>
 <outline text="nanto.asablo.jp" title="nanto.asablo.jp" type="rss" xmlUrl="https://nanto.asablo.jp/blog/rss"/>
+<outline text="nextjs.org" title="nextjs.org" type="rss" xmlUrl="https://nextjs.org/feed.xml"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
 <outline text="nuejs.org" title="nuejs.org" type="rss" xmlUrl="https://nuejs.org/feed.xml"/>
@@ -208,7 +208,6 @@
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/aishift/" title="zenn.dev/aishift/" type="rss" xmlUrl="https://zenn.dev/p/aishift/feed"/>
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 <outline text="zenn.dev/knowledgework/" title="zenn.dev/knowledgework/" type="rss" xmlUrl="https://zenn.dev/p/knowledgework/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
