@@ -133,12 +133,6 @@
     ]
   },
   {
-    "url": "https://blog.rafaelgss.dev",
-    "feeds": [
-      "https://blog.rafaelgss.dev/rss"
-    ]
-  },
-  {
     "url": "https://blog.saeloun.com",
     "feeds": [
       "https://blog.saeloun.com/feed.xml"
@@ -637,12 +631,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/facebook/react-strict-dom",
-    "feeds": [
-      "https://github.com/facebook/react-strict-dom/releases.atom"
     ]
   },
   {
@@ -1926,6 +1914,12 @@
     ]
   },
   {
+    "url": "https://nextjs.org",
+    "feeds": [
+      "https://nextjs.org/feed.xml"
+    ]
+  },
+  {
     "url": "https://nodejs.org",
     "feeds": [
       "https://nodejs.org/en/feed/blog.xml"
@@ -2649,12 +2643,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/aishift/",
-    "feeds": [
-      "https://zenn.dev/p/aishift/feed"
     ]
   },
   {
