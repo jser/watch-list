@@ -11,7 +11,6 @@
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
-<outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
 <outline text="benhowdle.im" title="benhowdle.im" type="rss" xmlUrl="https://benhowdle.im/feed.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
@@ -106,7 +105,6 @@
 <outline text="oisham.hatenablog.com" title="oisham.hatenablog.com" type="rss" xmlUrl="https://oisham.hatenablog.com/feed"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
-<outline text="parceljs.org" title="parceljs.org" type="rss" xmlUrl="https://parceljs.org/feed.xml"/>
 <outline text="pavel-romanov.com" title="pavel-romanov.com" type="rss" xmlUrl="https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml"/>
 <outline text="philipwalton.com" title="philipwalton.com" type="rss" xmlUrl="https://feeds.feedburner.com/philipwalton"/>
 <outline text="piccalil.li" title="piccalil.li" type="rss" xmlUrl="https://piccalil.li/feed.xml"/>

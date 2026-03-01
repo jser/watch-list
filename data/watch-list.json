@@ -947,25 +947,6 @@
   },
   {
     "count": 3,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "tutorial",
-      "accessibility",
-      "ECMAScript",
-      "article",
-      "browser",
-      "css"
-    ],
-    "example": {
-      "title": "Default styles for h1 elements are changing | MDN Blog",
-      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
-    }
-  },
-  {
-    "count": 3,
     "url": "https://www.rspack.dev",
     "tags": [
       "JavaScript",
@@ -1475,6 +1456,22 @@
   },
   {
     "count": 2,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "article",
+      "HTML",
+      "browser",
+      "css"
+    ],
+    "example": {
+      "title": "Default styles for h1 elements are changing | MDN Blog",
+      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tc39/ecma262",
     "tags": [
       "ECMAScript",
@@ -1952,46 +1949,6 @@
     "example": {
       "title": "Vanilla Web - Maximiliano Firtman",
       "url": "https://www.manning.com/books/vanilla-web?a_aid=firtman&a_bid=14dcfdda&chan=mm_website"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://babeljs.io",
-    "tags": [
-      "babel",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "7.24.0 Released: Decorator updates and JSON modules imports · Babel",
-      "url": "https://babeljs.io/blog/2024/02/28/7.24.0"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://parceljs.org",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Parcel v2.12.0",
-      "url": "https://parceljs.org/blog/v2-12-0/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://million.dev",
-    "tags": [
-      "React",
-      "performance",
-      "Tools",
-      "VSCode",
-      "article"
-    ],
-    "example": {
-      "title": "Million Lint is in public beta | Million.js",
-      "url": "https://million.dev/blog/lint"
     }
   },
   {

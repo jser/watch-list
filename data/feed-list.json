@@ -42,13 +42,6 @@
     ]
   },
   {
-    "url": "https://babeljs.io",
-    "feeds": [
-      "https://babeljs.io/blog/rss.xml",
-      "https://babeljs.io/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://babylonjs.medium.com",
     "feeds": [
       "https://medium.com/feed/@babylonjs"
@@ -1969,12 +1962,6 @@
     "feeds": [
       "https://oxc.rs/feeds/blog-en.rss",
       "https://oxc.rs/feeds/blog-en.atom"
-    ]
-  },
-  {
-    "url": "https://parceljs.org",
-    "feeds": [
-      "https://parceljs.org/feed.xml"
     ]
   },
   {
