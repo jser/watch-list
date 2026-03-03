@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/expressjs/express",
-    "feeds": [
-      "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/mswjs/msw",
     "feeds": [
       "https://github.com/mswjs/msw/releases.atom"
@@ -864,6 +858,12 @@
     "url": "https://github.com/redwoodjs/redwood",
     "feeds": [
       "https://github.com/redwoodjs/redwood/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
     ]
   },
   {
