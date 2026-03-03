@@ -1257,20 +1257,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/expressjs/express",
-    "tags": [
-      "express",
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 5.0.0 · expressjs/express",
-      "url": "https://github.com/expressjs/express/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/expressjs/express/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://zenn.dev/akfm/",
     "tags": [
       "Next.js",
@@ -3760,6 +3746,19 @@
       "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/expressjs/express",
+    "tags": [
+      "express",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 5.0.0 · expressjs/express",
+      "url": "https://github.com/expressjs/express/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/expressjs/express/releases.atom"
   },
   {
     "count": 1,
