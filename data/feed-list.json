@@ -621,18 +621,6 @@
     ]
   },
   {
-    "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/electric-sql/pglite",
-    "feeds": [
-      "https://github.com/electric-sql/pglite/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pixijs/pixijs",
     "feeds": [
       "https://github.com/pixijs/pixijs/releases.atom"

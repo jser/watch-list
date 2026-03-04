@@ -105,8 +105,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/wxt-dev/wxt?tab=readme-ov-file" title="github.com/wxt-dev/wxt?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"/>
-<outline text="github.com/electric-sql/pglite" title="github.com/electric-sql/pglite" type="rss" xmlUrl="https://github.com/electric-sql/pglite/releases.atom"/>
 <outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/rolldown-rs/rolldown" title="github.com/rolldown-rs/rolldown" type="rss" xmlUrl="https://github.com/rolldown-rs/rolldown/releases.atom"/>
 <outline text="github.com/edmundhung/conform" title="github.com/edmundhung/conform" type="rss" xmlUrl="https://github.com/edmundhung/conform/releases.atom"/>
