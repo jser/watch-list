@@ -1937,32 +1937,17 @@
     }
   },
   {
-    "count": 1,
-    "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file",
+    "count": 2,
+    "url": "https://npmx.dev",
     "tags": [
-      "browser",
-      "Extension",
-      "Tools"
+      "npm",
+      "search",
+      "webservice"
     ],
     "example": {
-      "title": "wxt-dev/wxt: ⚡ Next-gen Web Extension Framework",
-      "url": "https://github.com/wxt-dev/wxt?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/wxt-dev/wxt?tab=readme-ov-file/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/electric-sql/pglite",
-    "tags": [
-      "PostgreSQL",
-      "WebAssembly",
-      "library"
-    ],
-    "example": {
-      "title": "electric-sql/pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
-      "url": "https://github.com/electric-sql/pglite"
-    },
-    "rssUrl": "https://github.com/electric-sql/pglite/releases.atom"
+      "title": "Announcing npmx: a fast, modern browser for the npm registry",
+      "url": "https://npmx.dev/blog/alpha-release"
+    }
   },
   {
     "count": 1,
@@ -7607,19 +7592,6 @@
     "example": {
       "title": "Web フォントを使って contenteditable から脱出する",
       "url": "https://techblog.lycorp.co.jp/ja/20260216c"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://npmx.dev",
-    "tags": [
-      "npm",
-      "search",
-      "webservice"
-    ],
-    "example": {
-      "title": "npmx - Package Browser for the npm Registry",
-      "url": "https://npmx.dev/"
     }
   },
   {
