@@ -126,12 +126,6 @@
     ]
   },
   {
-    "url": "https://blog.saeloun.com",
-    "feeds": [
-      "https://blog.saeloun.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.val.town",
     "feeds": [
       "https://blog.val.town/rss.xml"
