@@ -19,7 +19,7 @@
     }
   },
   {
-    "count": 30,
+    "count": 29,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -1947,33 +1947,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://jsr.io",
-    "tags": [
-      "JavaScript",
-      "deno",
-      "nodejs",
-      "webservice"
-    ],
-    "example": {
-      "title": "JSR: the JavaScript Registry",
-      "url": "https://jsr.io/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.saeloun.com",
-    "tags": [
-      "Next.js",
-      "Remix",
-      "article"
-    ],
-    "example": {
-      "title": "Next.js vs. Remix - A Developer's Dilemma | Saeloun Blog",
-      "url": "https://blog.saeloun.com/2024/02/21/next.js-vs-remix/"
     }
   },
   {
@@ -7712,5 +7685,19 @@
       "url": "https://github.com/vercel-labs/portless"
     },
     "rssUrl": "https://github.com/vercel-labs/portless/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/actions/setup-node",
+    "tags": [
+      "GitHub",
+      "nodejs",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.3.0 · actions/setup-node",
+      "url": "https://github.com/actions/setup-node/releases/tag/v6.3.0"
+    },
+    "rssUrl": "https://github.com/actions/setup-node/releases.atom"
   }
 ]

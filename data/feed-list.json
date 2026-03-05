@@ -126,12 +126,6 @@
     ]
   },
   {
-    "url": "https://blog.saeloun.com",
-    "feeds": [
-      "https://blog.saeloun.com/feed.xml"
-    ]
-  },
-  {
     "url": "https://blog.val.town",
     "feeds": [
       "https://blog.val.town/rss.xml"
@@ -1722,6 +1716,12 @@
     "url": "https://github.com/vercel-labs/portless",
     "feeds": [
       "https://github.com/vercel-labs/portless/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/actions/setup-node",
+    "feeds": [
+      "https://github.com/actions/setup-node/releases.atom"
     ]
   },
   {
