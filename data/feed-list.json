@@ -567,6 +567,12 @@
     ]
   },
   {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/tinylibs/tinybench",
     "feeds": [
       "https://github.com/tinylibs/tinybench/releases.atom"
@@ -612,12 +618,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/pixijs/pixijs",
-    "feeds": [
-      "https://github.com/pixijs/pixijs/releases.atom"
     ]
   },
   {
@@ -888,12 +888,6 @@
     "url": "https://github.com/paulmillr/chokidar",
     "feeds": [
       "https://github.com/paulmillr/chokidar/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/solidjs/solid",
-    "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
