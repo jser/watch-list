@@ -96,6 +96,7 @@
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
 <outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
+<outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
@@ -104,7 +105,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/pixijs/pixijs" title="github.com/pixijs/pixijs" type="rss" xmlUrl="https://github.com/pixijs/pixijs/releases.atom"/>
 <outline text="github.com/rolldown-rs/rolldown" title="github.com/rolldown-rs/rolldown" type="rss" xmlUrl="https://github.com/rolldown-rs/rolldown/releases.atom"/>
 <outline text="github.com/edmundhung/conform" title="github.com/edmundhung/conform" type="rss" xmlUrl="https://github.com/edmundhung/conform/releases.atom"/>
 <outline text="github.com/devongovett/unplugin-parcel-macros" title="github.com/devongovett/unplugin-parcel-macros" type="rss" xmlUrl="https://github.com/devongovett/unplugin-parcel-macros/releases.atom"/>
@@ -150,7 +150,6 @@
 <outline text="github.com/bloomberg/ts-blank-space" title="github.com/bloomberg/ts-blank-space" type="rss" xmlUrl="https://github.com/bloomberg/ts-blank-space/releases.atom"/>
 <outline text="github.com/line/ts-remove-unused" title="github.com/line/ts-remove-unused" type="rss" xmlUrl="https://github.com/line/ts-remove-unused/releases.atom"/>
 <outline text="github.com/paulmillr/chokidar" title="github.com/paulmillr/chokidar" type="rss" xmlUrl="https://github.com/paulmillr/chokidar/releases.atom"/>
-<outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/unjs/jiti" title="github.com/unjs/jiti" type="rss" xmlUrl="https://github.com/unjs/jiti/releases.atom"/>
 <outline text="github.com/mieszkosabo/tartak" title="github.com/mieszkosabo/tartak" type="rss" xmlUrl="https://github.com/mieszkosabo/tartak/releases.atom"/>
 <outline text="github.com/helmetjs/helmet" title="github.com/helmetjs/helmet" type="rss" xmlUrl="https://github.com/helmetjs/helmet/releases.atom"/>
