@@ -1719,6 +1719,18 @@
     ]
   },
   {
+    "url": "https://github.com/aidenybai/react-grab",
+    "feeds": [
+      "https://github.com/aidenybai/react-grab/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/flatt-security/setup-takumi-guard-npm",
+    "feeds": [
+      "https://github.com/flatt-security/setup-takumi-guard-npm/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

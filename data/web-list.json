@@ -96,7 +96,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -106,8 +106,8 @@
       "golang"
     ],
     "example": {
-      "title": "Announcing TypeScript 6.0 Beta - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/"
+      "title": "Announcing TypeScript 6.0 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/"
     },
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
@@ -7904,5 +7904,34 @@
       "url": "https://github.com/actions/setup-node/releases/tag/v6.3.0"
     },
     "rssUrl": "https://github.com/actions/setup-node/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/aidenybai/react-grab",
+    "tags": [
+      "React",
+      "Tools",
+      "AI",
+      "library"
+    ],
+    "example": {
+      "title": "aidenybai/react-grab: Select context for coding agents directly from your website",
+      "url": "https://github.com/aidenybai/react-grab/tree/main"
+    },
+    "rssUrl": "https://github.com/aidenybai/react-grab/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/flatt-security/setup-takumi-guard-npm",
+    "tags": [
+      "npm",
+      "security",
+      "Actions"
+    ],
+    "example": {
+      "title": "flatt-security/setup-takumi-guard-npm: GitHub Action to configure npm with Takumi Guard registry auth via OIDC",
+      "url": "https://github.com/flatt-security/setup-takumi-guard-npm"
+    },
+    "rssUrl": "https://github.com/flatt-security/setup-takumi-guard-npm/releases.atom"
   }
 ]
