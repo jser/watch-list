@@ -288,6 +288,8 @@
 <outline text="github.com/styled-components/styled-components" title="github.com/styled-components/styled-components" type="rss" xmlUrl="https://github.com/styled-components/styled-components/releases.atom"/>
 <outline text="github.com/vercel-labs/portless" title="github.com/vercel-labs/portless" type="rss" xmlUrl="https://github.com/vercel-labs/portless/releases.atom"/>
 <outline text="github.com/actions/setup-node" title="github.com/actions/setup-node" type="rss" xmlUrl="https://github.com/actions/setup-node/releases.atom"/>
+<outline text="github.com/aidenybai/react-grab" title="github.com/aidenybai/react-grab" type="rss" xmlUrl="https://github.com/aidenybai/react-grab/releases.atom"/>
+<outline text="github.com/flatt-security/setup-takumi-guard-npm" title="github.com/flatt-security/setup-takumi-guard-npm" type="rss" xmlUrl="https://github.com/flatt-security/setup-takumi-guard-npm/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
