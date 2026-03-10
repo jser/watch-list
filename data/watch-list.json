@@ -39,25 +39,6 @@
   },
   {
     "count": 24,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "browser",
-      "benchmark",
-      "performance",
-      "article",
-      "webkit",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "WebKit features for Safari 26.3 | WebKit",
-      "url": "https://webkit.org/blog/17798/webkit-features-for-safari-26-3/"
-    }
-  },
-  {
-    "count": 24,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -68,6 +49,25 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v10.27.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 23,
+    "url": "https://webkit.org",
+    "tags": [
+      "browser",
+      "benchmark",
+      "performance",
+      "article",
+      "webkit",
+      "safari",
+      "ReleaseNote",
+      "privacy",
+      "css"
+    ],
+    "example": {
+      "title": "WebKit features for Safari 26.3 | WebKit",
+      "url": "https://webkit.org/blog/17798/webkit-features-for-safari-26-3/"
+    }
   },
   {
     "count": 23,
@@ -367,23 +367,6 @@
   },
   {
     "count": 8,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "Rust",
-      "biome",
-      "article"
-    ],
-    "example": {
-      "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-4/"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://github.com/honojs/hono",
     "tags": [
       "Hono",
@@ -447,6 +430,23 @@
     "example": {
       "title": "Open Sourcing the Remix Store | Remix",
       "url": "https://remix.run/blog/oss-remix-store"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "ESLint",
+      "Tools",
+      "ReleaseNote",
+      "JavaScript",
+      "Rust",
+      "biome",
+      "article"
+    ],
+    "example": {
+      "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-4/"
     }
   },
   {
@@ -1961,46 +1961,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://eloquentjavascript.net",
-    "tags": [
-      "JavaScript",
-      "book"
-    ],
-    "example": {
-      "title": "Eloquent JavaScript",
-      "url": "https://eloquentjavascript.net/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/rolldown-rs/rolldown",
-    "tags": [
-      "rollup",
-      "Rust",
-      "vite",
-      "library"
-    ],
-    "example": {
-      "title": "rolldown-rs/rolldown: Fast Rust bundler for JavaScript with Rollup-compatible API.",
-      "url": "https://github.com/rolldown-rs/rolldown"
-    },
-    "rssUrl": "https://github.com/rolldown-rs/rolldown/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.m3tech.blog",
-    "tags": [
-      "OpenID",
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "フルスクラッチして理解するOpenID Connect (1) 認可エンドポイント編 - エムスリーテックブログ",
-      "url": "https://www.m3tech.blog/entry/2024/03/05/150000"
     }
   },
   {
@@ -7714,5 +7674,20 @@
       "url": "https://github.com/flatt-security/setup-takumi-guard-npm"
     },
     "rssUrl": "https://github.com/flatt-security/setup-takumi-guard-npm/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/dupontcyborg/numpy-ts",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "library",
+      "math"
+    ],
+    "example": {
+      "title": "dupontcyborg/numpy-ts: Full NumPy, in TypeScript/JavaScript (94% coverage)",
+      "url": "https://github.com/dupontcyborg/numpy-ts"
+    },
+    "rssUrl": "https://github.com/dupontcyborg/numpy-ts/releases.atom"
   }
 ]

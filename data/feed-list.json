@@ -621,12 +621,6 @@
     ]
   },
   {
-    "url": "https://github.com/rolldown-rs/rolldown",
-    "feeds": [
-      "https://github.com/rolldown-rs/rolldown/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/edmundhung/conform",
     "feeds": [
       "https://github.com/edmundhung/conform/releases.atom"
@@ -1731,6 +1725,12 @@
     ]
   },
   {
+    "url": "https://github.com/dupontcyborg/numpy-ts",
+    "feeds": [
+      "https://github.com/dupontcyborg/numpy-ts/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2481,13 +2481,6 @@
     "url": "https://www.lorenstew.art",
     "feeds": [
       "https://www.lorenstew.art/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.m3tech.blog",
-    "feeds": [
-      "https://www.m3tech.blog/feed",
-      "https://www.m3tech.blog/rss"
     ]
   },
   {
