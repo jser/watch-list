@@ -1060,17 +1060,6 @@
     ]
   },
   {
-    "url": "https://www.browsercat.com",
-    "feeds": [
-      "https://www.browsercat.com/feed/posts.rss.xml",
-      "https://www.browsercat.com/feed/posts.atom.xml",
-      "https://www.browsercat.com/feed/topics.rss.xml",
-      "https://www.browsercat.com/feed/topics.atom.xml",
-      "https://www.browsercat.com/feed/docs.rss.xml",
-      "https://www.browsercat.com/feed/docs.atom.xml"
-    ]
-  },
-  {
     "url": "https://www.charpeni.com",
     "feeds": [
       "https://www.charpeni.com/blog/rss.xml"

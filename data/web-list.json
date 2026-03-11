@@ -96,7 +96,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -716,25 +716,6 @@
   },
   {
     "count": 4,
-    "url": "https://openjsf.org",
-    "tags": [
-      "nodejs",
-      "npm",
-      "article",
-      "JavaScript",
-      "library",
-      "news",
-      "lodash",
-      "security",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
-      "url": "https://openjsf.org/blog/lodash-security-overhaul"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
@@ -1133,6 +1114,24 @@
       "url": "https://turbo.build/blog/turbo-2-5"
     },
     "rssUrl": "https://turbo.build/feed.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://openjsf.org",
+    "tags": [
+      "nodejs",
+      "article",
+      "JavaScript",
+      "library",
+      "news",
+      "lodash",
+      "security",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/lodash-security-overhaul"
+    }
   },
   {
     "count": 3,
@@ -2036,50 +2035,6 @@
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://szymonrybczak.dev",
-    "tags": [
-      "React",
-      "HTML",
-      "iOS",
-      "Android",
-      "article"
-    ],
-    "example": {
-      "title": "\"react-strict-dom\", why it's so great? | Szymon Rybczak",
-      "url": "https://szymonrybczak.dev/blog/react-strict-dom"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.browsercat.com",
-    "tags": [
-      "browser",
-      "test",
-      "article"
-    ],
-    "example": {
-      "title": "Ultimate Guide to Visual Testing with Playwright",
-      "url": "https://www.browsercat.com/post/ultimate-guide-visual-testing-playwright"
-    },
-    "rssUrl": "https://www.browsercat.com/feed/posts.rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/edmundhung/conform",
-    "tags": [
-      "React",
-      "Next.js",
-      "Remix",
-      "library"
-    ],
-    "example": {
-      "title": "edmundhung/conform: A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.",
-      "url": "https://github.com/edmundhung/conform"
-    },
-    "rssUrl": "https://github.com/edmundhung/conform/releases.atom"
   },
   {
     "count": 1,
