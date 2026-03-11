@@ -621,12 +621,6 @@
     ]
   },
   {
-    "url": "https://github.com/edmundhung/conform",
-    "feeds": [
-      "https://github.com/edmundhung/conform/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/devongovett/unplugin-parcel-macros",
     "feeds": [
       "https://github.com/devongovett/unplugin-parcel-macros/releases.atom"
@@ -2395,17 +2389,6 @@
       "https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/feed/",
       "https://www.bram.us/category/original-content/feed/",
       "https://www.bram.us/category/elsewhere/feed/"
-    ]
-  },
-  {
-    "url": "https://www.browsercat.com",
-    "feeds": [
-      "https://www.browsercat.com/feed/posts.rss.xml",
-      "https://www.browsercat.com/feed/posts.atom.xml",
-      "https://www.browsercat.com/feed/topics.rss.xml",
-      "https://www.browsercat.com/feed/topics.atom.xml",
-      "https://www.browsercat.com/feed/docs.rss.xml",
-      "https://www.browsercat.com/feed/docs.atom.xml"
     ]
   },
   {
