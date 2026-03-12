@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 70,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -14,8 +14,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js 24.14.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.14.0"
+      "title": "Node.js — Evolving the Node.js Release Schedule",
+      "url": "https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -40,40 +40,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 24,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 10.27 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.27.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 23,
-    "url": "https://webkit.org",
-    "tags": [
-      "browser",
-      "benchmark",
-      "performance",
-      "article",
-      "webkit",
-      "safari",
-      "ReleaseNote",
-      "privacy",
-      "css"
-    ],
-    "example": {
-      "title": "WebKit features for Safari 26.3 | WebKit",
-      "url": "https://webkit.org/blog/17798/webkit-features-for-safari-26-3/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 23,
+    "count": 25,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -87,13 +54,47 @@
       "puppeteer",
       "HTML",
       "css",
-      "MCP"
+      "MCP",
+      "browser",
+      "news"
     ],
     "example": {
-      "title": "Chrome 144  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/144"
+      "title": "Get features faster with Chrome's two-week release cycle  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
+  },
+  {
+    "count": 24,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 10.27 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.27.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 22,
+    "url": "https://webkit.org",
+    "tags": [
+      "webkit",
+      "safari",
+      "performance",
+      "article",
+      "ReleaseNote",
+      "privacy",
+      "css",
+      "browser"
+    ],
+    "example": {
+      "title": "WebKit features for Safari 26.3 | WebKit",
+      "url": "https://webkit.org/blog/17798/webkit-features-for-safari-26-3/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 20,
@@ -383,23 +384,6 @@
   },
   {
     "count": 8,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "Hono",
-      "JavaScript",
-      "server",
-      "library",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v4.12.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 8,
     "url": "https://www.youtube.com",
     "tags": [
       "nodejs",
@@ -450,6 +434,26 @@
       "url": "https://remix.run/blog/oss-remix-store"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://astro.build",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "testing",
+      "article",
+      "astro",
+      "ReleaseNote",
+      "cloudflare",
+      "Rust",
+      "Vite"
+    ],
+    "example": {
+      "title": "Astro 6.0 | Astro",
+      "url": "https://astro.build/blog/astro-6/"
+    },
+    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 7,
@@ -505,21 +509,18 @@
     "rssUrl": "https://frontendmasters.com/blog/feed/"
   },
   {
-    "count": 6,
-    "url": "https://astro.build",
+    "count": 7,
+    "url": "https://github.com/honojs/hono",
     "tags": [
-      "nodejs",
-      "JavaScript",
-      "testing",
-      "article",
-      "astro",
-      "ReleaseNote"
+      "Hono",
+      "ReleaseNote",
+      "security"
     ],
     "example": {
-      "title": "Astro 5.7 | Astro",
-      "url": "https://astro.build/blog/astro-570/"
+      "title": "Release v4.12.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
     },
-    "rssUrl": "https://astro.build/rss.xml"
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 6,
@@ -2034,19 +2035,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://wasmer.io",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "WinterJS 1.0 · Blog · Wasmer",
-      "url": "https://wasmer.io/posts/winterjs-v1"
     }
   },
   {

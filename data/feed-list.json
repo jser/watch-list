@@ -417,15 +417,15 @@
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
