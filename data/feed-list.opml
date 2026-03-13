@@ -29,6 +29,7 @@
 <outline text="blog.vlt.sh" title="blog.vlt.sh" type="rss" xmlUrl="https://blog.vlt.sh/feed.xml"/>
 <outline text="blog.vuejs.org" title="blog.vuejs.org" type="rss" xmlUrl="https://blog.vuejs.org/feed.rss"/>
 <outline text="blogs.windows.com" title="blogs.windows.com" type="rss" xmlUrl="https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/feed/"/>
+<outline text="bloomberg.github.io" title="bloomberg.github.io" type="rss" xmlUrl="https://bloomberg.github.io/js-blog/feed.xml"/>
 <outline text="bun.com" title="bun.com" type="rss" xmlUrl="https://bun.com/rss.xml"/>
 <outline text="bun.sh" title="bun.sh" type="rss" xmlUrl="https://bun.sh/rss.xml"/>
 <outline text="buttondown.com" title="buttondown.com" type="rss" xmlUrl="https://buttondown.com/whatever_jamie/rss"/>
@@ -289,6 +290,7 @@
 <outline text="github.com/aidenybai/react-grab" title="github.com/aidenybai/react-grab" type="rss" xmlUrl="https://github.com/aidenybai/react-grab/releases.atom"/>
 <outline text="github.com/flatt-security/setup-takumi-guard-npm" title="github.com/flatt-security/setup-takumi-guard-npm" type="rss" xmlUrl="https://github.com/flatt-security/setup-takumi-guard-npm/releases.atom"/>
 <outline text="github.com/dupontcyborg/numpy-ts" title="github.com/dupontcyborg/numpy-ts" type="rss" xmlUrl="https://github.com/dupontcyborg/numpy-ts/releases.atom"/>
+<outline text="github.com/pbakaus/impeccable" title="github.com/pbakaus/impeccable" type="rss" xmlUrl="https://github.com/pbakaus/impeccable/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

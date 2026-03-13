@@ -7850,5 +7850,49 @@
       "url": "https://github.com/dupontcyborg/numpy-ts"
     },
     "rssUrl": "https://github.com/dupontcyborg/numpy-ts/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://bloomberg.github.io",
+    "tags": [
+      "TC39",
+      "ECMAScript",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Temporal: The 9-Year Journey to Fix Time in JavaScript | Bloomberg JS Blog",
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/"
+    },
+    "rssUrl": "https://bloomberg.github.io/js-blog/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/pbakaus/impeccable",
+    "tags": [
+      "AI",
+      "Design",
+      "CSS",
+      "Tools"
+    ],
+    "example": {
+      "title": "pbakaus/impeccable: The design language that makes your AI harness better at design.",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    "rssUrl": "https://github.com/pbakaus/impeccable/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://rwsdk.com",
+    "tags": [
+      "cloudflare",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "RedwoodSDK 1.0: Getting Out of the Weeds | Blog | RedwoodSDK",
+      "url": "https://rwsdk.com/blog/redwood-v1-getting-out-of-the-weeds"
+    }
   }
 ]
