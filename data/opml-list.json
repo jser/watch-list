@@ -157,6 +157,12 @@
     ]
   },
   {
+    "url": "https://bloomberg.github.io",
+    "feeds": [
+      "https://bloomberg.github.io/js-blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://bun.com",
     "feeds": [
       "https://bun.com/rss.xml"
