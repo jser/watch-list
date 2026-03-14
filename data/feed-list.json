@@ -441,12 +441,6 @@
     ]
   },
   {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
@@ -510,6 +504,12 @@
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
     ]
   },
   {
@@ -624,18 +624,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/devongovett/unplugin-parcel-macros",
-    "feeds": [
-      "https://github.com/devongovett/unplugin-parcel-macros/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/guidepup/virtual-screen-reader",
-    "feeds": [
-      "https://github.com/guidepup/virtual-screen-reader/releases.atom"
     ]
   },
   {
@@ -2573,12 +2561,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/akfm/",
-    "feeds": [
-      "https://zenn.dev/akfm/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/morinokami/",
     "feeds": [
       "https://zenn.dev/morinokami/feed"
@@ -2624,6 +2606,12 @@
     "url": "https://zenn.dev/knowledgework/",
     "feeds": [
       "https://zenn.dev/p/knowledgework/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/akfm/",
+    "feeds": [
+      "https://zenn.dev/akfm/feed"
     ]
   },
   {
