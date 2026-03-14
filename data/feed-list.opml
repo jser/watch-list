@@ -75,7 +75,6 @@
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
-<outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
@@ -87,6 +86,7 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
+<outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
@@ -106,8 +106,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/devongovett/unplugin-parcel-macros" title="github.com/devongovett/unplugin-parcel-macros" type="rss" xmlUrl="https://github.com/devongovett/unplugin-parcel-macros/releases.atom"/>
-<outline text="github.com/guidepup/virtual-screen-reader" title="github.com/guidepup/virtual-screen-reader" type="rss" xmlUrl="https://github.com/guidepup/virtual-screen-reader/releases.atom"/>
 <outline text="github.com/mochajs/mocha" title="github.com/mochajs/mocha" type="rss" xmlUrl="https://github.com/mochajs/mocha/releases.atom"/>
 <outline text="github.com/gulpjs/gulp" title="github.com/gulpjs/gulp" type="rss" xmlUrl="https://github.com/gulpjs/gulp/releases.atom"/>
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
@@ -420,7 +418,6 @@
 <outline text="www.webkit.org" title="www.webkit.org" type="rss" xmlUrl="https://www.webkit.org/feed/"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
-<outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/morinokami/" title="zenn.dev/morinokami/" type="rss" xmlUrl="https://zenn.dev/morinokami/feed"/>
 <outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
@@ -429,6 +426,7 @@
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
 <outline text="zenn.dev/inaniwaudon/" title="zenn.dev/inaniwaudon/" type="rss" xmlUrl="https://zenn.dev/inaniwaudon/feed"/>
 <outline text="zenn.dev/knowledgework/" title="zenn.dev/knowledgework/" type="rss" xmlUrl="https://zenn.dev/p/knowledgework/feed"/>
+<outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 <outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>

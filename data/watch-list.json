@@ -519,26 +519,6 @@
   },
   {
     "count": 5,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "storybook",
-      "JavaScript",
-      "Design",
-      "debug",
-      "ReleaseNote",
-      "UI",
-      "test",
-      "Tools",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Security advisory",
-      "url": "https://storybook.js.org/blog/security-advisory/"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://blog.angular.dev",
     "tags": [
       "Angular",
@@ -686,21 +666,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "prisma",
-      "ReleaseNote",
-      "MySQL",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://v8.dev",
     "tags": [
       "V8",
@@ -795,6 +760,25 @@
     "example": {
       "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "test",
+      "ReleaseNote",
+      "storybook",
+      "debug",
+      "Tools",
+      "article",
+      "security"
+    ],
+    "example": {
+      "title": "Security advisory",
+      "url": "https://storybook.js.org/blog/security-advisory/"
     }
   },
   {
@@ -1146,6 +1130,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "prisma",
+      "MySQL",
+      "TypeScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/nrwl/nx",
     "tags": [
       "nodejs",
@@ -1252,20 +1251,6 @@
     "example": {
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/akfm/",
-    "tags": [
-      "Next.js",
-      "React",
-      "article",
-      "book"
-    ],
-    "example": {
-      "title": "Next.jsの考え方",
-      "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
   },
   {
@@ -1962,37 +1947,6 @@
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/devongovett/unplugin-parcel-macros",
-    "tags": [
-      "parcel",
-      "plugin",
-      "webpack",
-      "rollup",
-      "vite",
-      "esbuild"
-    ],
-    "example": {
-      "title": "devongovett/unplugin-parcel-macros",
-      "url": "https://github.com/devongovett/unplugin-parcel-macros"
-    },
-    "rssUrl": "https://github.com/devongovett/unplugin-parcel-macros/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/guidepup/virtual-screen-reader",
-    "tags": [
-      "accessibility",
-      "test",
-      "library"
-    ],
-    "example": {
-      "title": "guidepup/virtual-screen-reader: Virtual Screen Reader is a screen reader simulator for unit tests.",
-      "url": "https://github.com/guidepup/virtual-screen-reader"
-    },
-    "rssUrl": "https://github.com/guidepup/virtual-screen-reader/releases.atom"
   },
   {
     "count": 1,
@@ -3535,6 +3489,18 @@
     "example": {
       "title": "ジャンプTOON Next.js App Router の活用〜得られた恩恵と課題〜 | CyberAgent Developers Blog",
       "url": "https://developers.cyberagent.co.jp/blog/archives/49429/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/akfm/",
+    "tags": [
+      "Next.js",
+      "book"
+    ],
+    "example": {
+      "title": "Next.jsの考え方",
+      "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
   },
   {
