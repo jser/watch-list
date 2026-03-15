@@ -182,6 +182,24 @@
   },
   {
     "count": 13,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote",
+      "news",
+      "Nuxt",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt 4.4 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-4"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 13,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -204,24 +222,6 @@
       "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
     },
     "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt 4.3 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-3"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 12,
@@ -671,6 +671,25 @@
   },
   {
     "count": 5,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article",
+      "ReleaseNote",
+      "rollup",
+      "bundler",
+      "CLI",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing Vite+ Alpha | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-alpha"
+    },
+    "rssUrl": "https://voidzero.dev/feed.xml"
+  },
+  {
+    "count": 5,
     "url": "https://rspack.rs",
     "tags": [
       "rspack",
@@ -933,20 +952,17 @@
   },
   {
     "count": 4,
-    "url": "https://voidzero.dev",
+    "url": "https://vitest.dev",
     "tags": [
       "vite",
-      "Rust",
-      "article",
-      "ReleaseNote",
-      "rollup",
-      "bundler"
+      "test",
+      "library",
+      "ReleaseNote"
     ],
     "example": {
-      "title": "Announcing Rolldown 1.0 RC | VoidZero",
-      "url": "https://voidzero.dev/posts/announcing-rolldown-rc"
-    },
-    "rssUrl": "https://voidzero.dev/feed.xml"
+      "title": "Vitest 4.1 is out! | Vitest",
+      "url": "https://vitest.dev/blog/vitest-4-1.html"
+    }
   },
   {
     "count": 3,
@@ -1222,20 +1238,6 @@
       "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%401.8.0"
     },
     "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://vitest.dev",
-    "tags": [
-      "vite",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vitest 4.0 is out! | Vitest",
-      "url": "https://vitest.dev/blog/vitest-4"
-    }
   },
   {
     "count": 3,
@@ -7860,5 +7862,37 @@
       "title": "RedwoodSDK 1.0: Getting Out of the Weeds | Blog | RedwoodSDK",
       "url": "https://rwsdk.com/blog/redwood-v1-getting-out-of-the-weeds"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://main.vite.dev",
+    "tags": [
+      "Vite",
+      "Rust",
+      "ReleaseNote",
+      "bundler"
+    ],
+    "example": {
+      "title": "Vite 8.0 is out! | Vite (main branch)",
+      "url": "https://main.vite.dev/blog/announcing-vite8"
+    },
+    "rssUrl": "https://main.vite.dev/blog.rss"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/unjs/impound?tab=readme-ov-file",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "Tools",
+      "module",
+      "bundler",
+      "plugin"
+    ],
+    "example": {
+      "title": "unjs/impound: Builder-agnostic plugin to allow restricting import patterns in certain parts of your code-base.",
+      "url": "https://github.com/unjs/impound?tab=readme-ov-file"
+    },
+    "rssUrl": "https://github.com/unjs/impound?tab=readme-ov-file/releases.atom"
   }
 ]
