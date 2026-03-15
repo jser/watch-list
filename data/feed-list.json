@@ -1725,6 +1725,12 @@
     ]
   },
   {
+    "url": "https://github.com/unjs/impound?tab=readme-ov-file",
+    "feeds": [
+      "https://github.com/unjs/impound?tab=readme-ov-file/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1824,6 +1830,12 @@
     "url": "https://lynxjs.org",
     "feeds": [
       "https://lynxjs.org/rss/blog-rss.xml"
+    ]
+  },
+  {
+    "url": "https://main.vite.dev",
+    "feeds": [
+      "https://main.vite.dev/blog.rss"
     ]
   },
   {
