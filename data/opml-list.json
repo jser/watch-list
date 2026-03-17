@@ -199,12 +199,6 @@
     ]
   },
   {
-    "url": "https://claritydev.net",
-    "feeds": [
-      "https://claritydev.net/rss.xml"
-    ]
-  },
-  {
     "url": "https://codspeed.io",
     "feeds": [
       "https://codspeed.io/blog/feed/rss.xml"
@@ -926,6 +920,13 @@
     "url": "https://tonyalicea.dev",
     "feeds": [
       "https://tonyalicea.dev/feed/feed.xml"
+    ]
+  },
+  {
+    "url": "https://trynova.dev",
+    "feeds": [
+      "https://trynova.dev/blog/feed.rss",
+      "https://trynova.dev/blog/feed.atom"
     ]
   },
   {
