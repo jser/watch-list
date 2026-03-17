@@ -36,7 +36,6 @@
 <outline text="bytecodealliance.org" title="bytecodealliance.org" type="rss" xmlUrl="https://bytecodealliance.org/feed.xml"/>
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
 <outline text="ckeditor.com" title="ckeditor.com" type="rss" xmlUrl="https://ckeditor.com/rss.xml"/>
-<outline text="claritydev.net" title="claritydev.net" type="rss" xmlUrl="https://claritydev.net/rss.xml"/>
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="colinhacks.com" title="colinhacks.com" type="rss" xmlUrl="https://colinhacks.com/rss.xml"/>
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
@@ -372,6 +371,7 @@
 <outline text="techblog.lycorp.co.jp" title="techblog.lycorp.co.jp" type="rss" xmlUrl="https://techblog.lycorp.co.jp/ja/feed/index.xml"/>
 <outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
 <outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
+<outline text="trynova.dev" title="trynova.dev" type="rss" xmlUrl="https://trynova.dev/blog/feed.rss"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
 <outline text="turborepo.com" title="turborepo.com" type="rss" xmlUrl="https://turborepo.com/feed.xml"/>
 <outline text="typescript-eslint.io" title="typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>

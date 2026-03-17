@@ -19,12 +19,12 @@
     }
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "ReleaseNote",
       "windows",
+      "ReleaseNote",
       "bum",
       "V8",
       "webkit",
@@ -262,26 +262,6 @@
   },
   {
     "count": 10,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "vite",
-      "test",
-      "article",
-      "nodejs",
-      "Hono",
-      "JavaScript",
-      "Next.js",
-      "astro",
-      "news"
-    ],
-    "example": {
-      "title": "How we rebuilt Next.js with AI in one week",
-      "url": "https://blog.cloudflare.com/vinext/"
-    }
-  },
-  {
-    "count": 10,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -295,6 +275,21 @@
     "example": {
       "title": "Oxfmt Beta | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2026-02-24-oxfmt-beta"
+    }
+  },
+  {
+    "count": 9,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "article",
+      "TC39"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
     }
   },
   {
@@ -325,6 +320,25 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 9,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "article",
+      "nodejs",
+      "Hono",
+      "JavaScript",
+      "Next.js",
+      "astro",
+      "news",
+      "vite"
+    ],
+    "example": {
+      "title": "How we rebuilt Next.js with AI in one week",
+      "url": "https://blog.cloudflare.com/vinext/"
+    }
   },
   {
     "count": 9,
@@ -385,20 +399,6 @@
     "example": {
       "title": "CascadiaJS 2025 - YouTube",
       "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
-    }
-  },
-  {
-    "count": 8,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2025-05 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2025/06/05/ecmascript-proposal-update"
     }
   },
   {
@@ -502,6 +502,26 @@
   },
   {
     "count": 6,
+    "url": "https://socket.dev",
+    "tags": [
+      "pnpm",
+      "article",
+      "security",
+      "npm",
+      "news",
+      "python",
+      "Rust",
+      "TC39",
+      "ECMAScript",
+      "proposal"
+    ],
+    "example": {
+      "title": "TC39 Advances Temporal to Stage 4 Alongside Several ECMAScri...",
+      "url": "https://socket.dev/blog/tc39-advances-temporal-to-stage-4?utm_medium=feed"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://stylexjs.com",
     "tags": [
       "css ",
@@ -555,23 +575,6 @@
     "example": {
       "title": "Converting values to strings in JavaScript has pitfalls",
       "url": "https://2ality.com/2025/04/stringification-javascript.html"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://socket.dev",
-    "tags": [
-      "pnpm",
-      "article",
-      "security",
-      "npm",
-      "news",
-      "python",
-      "Rust"
-    ],
-    "example": {
-      "title": "Introducing Socket Firewall: Free, Proactive Protection for ...",
-      "url": "https://socket.dev/blog/introducing-socket-firewall"
     }
   },
   {
@@ -1091,6 +1094,22 @@
   },
   {
     "count": 3,
+    "url": "https://lea.verou.me",
+    "tags": [
+      "CSS",
+      "article",
+      "WebComponents",
+      "opinion",
+      "JavaScript",
+      "module"
+    ],
+    "example": {
+      "title": "External import maps, today! • Lea Verou",
+      "url": "https://lea.verou.me/blog/2026/external-import-maps-today/"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1469,20 +1488,6 @@
       "url": "https://github.com/facebook/relay/releases/tag/v19.0.0"
     },
     "rssUrl": "https://github.com/facebook/relay/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://lea.verou.me",
-    "tags": [
-      "CSS",
-      "article",
-      "WebComponents",
-      "opinion"
-    ],
-    "example": {
-      "title": "Web Components are not Framework Components — and That’s Okay • Lea Verou",
-      "url": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/"
-    }
   },
   {
     "count": 2,
@@ -1948,32 +1953,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://typicode.github.io",
-    "tags": [
-      "CSS",
-      "React",
-      "Tools"
-    ],
-    "example": {
-      "title": "MistCSS",
-      "url": "https://typicode.github.io/mistcss/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://claritydev.net",
-    "tags": [
-      "React",
-      "test",
-      "article"
-    ],
-    "example": {
-      "title": "Best Practices for Writing Tests with React Testing Library | ClarityDev blog",
-      "url": "https://claritydev.net/blog/improving-react-testing-library-tests"
     }
   },
   {
@@ -7675,5 +7654,18 @@
       "url": "https://github.com/unjs/impound?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/unjs/impound?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://trynova.dev",
+    "tags": [
+      "Rust",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Nova 1.0 · Nova",
+      "url": "https://trynova.dev/blog/nova-1.0"
+    }
   }
 ]
