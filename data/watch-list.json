@@ -174,23 +174,6 @@
   },
   {
     "count": 13,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote",
-      "news",
-      "Nuxt",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt 4.4 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-4"
-    }
-  },
-  {
-    "count": 13,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -236,6 +219,18 @@
   },
   {
     "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 41.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-41-0"
+    }
+  },
+  {
+    "count": 12,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -249,15 +244,20 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
-    "count": 11,
-    "url": "https://www.electronjs.org",
+    "count": 12,
+    "url": "https://nuxt.com",
     "tags": [
-      "Electron",
-      "ReleaseNote"
+      "Vue",
+      "news",
+      "ReleaseNote",
+      "Nuxt",
+      "library",
+      "article",
+      "UI"
     ],
     "example": {
-      "title": "Electron 40.0.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-40-0"
+      "title": "Nuxt 4.4 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-4"
     }
   },
   {
@@ -7667,5 +7667,21 @@
       "title": "Nova 1.0 · Nova",
       "url": "https://trynova.dev/blog/nova-1.0"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/sam247/openredaction",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "privacy",
+      "RegExp"
+    ],
+    "example": {
+      "title": "sam247/openredaction: Open Source PII detection and redaction for JavaScript/Typescript. Achieve enterprise compliance and unparalleled, lightning fast performance, all 100% local.",
+      "url": "https://github.com/sam247/openredaction"
+    },
+    "rssUrl": "https://github.com/sam247/openredaction/releases.atom"
   }
 ]
