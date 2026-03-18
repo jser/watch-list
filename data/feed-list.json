@@ -1725,6 +1725,12 @@
     ]
   },
   {
+    "url": "https://github.com/sam247/openredaction",
+    "feeds": [
+      "https://github.com/sam247/openredaction/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
