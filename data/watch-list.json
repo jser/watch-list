@@ -1957,46 +1957,6 @@
   },
   {
     "count": 1,
-    "url": "https://elysiajs.com",
-    "tags": [
-      "Bun",
-      "server",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Elysia 1.0 - Lament of the Fallen | ElysiaJS",
-      "url": "https://elysiajs.com/blog/elysia-10"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.webkit.org",
-    "tags": [
-      "webkit",
-      "CSS",
-      "safari",
-      "article"
-    ],
-    "example": {
-      "title": "Implementing Vertical Form Controls | WebKit",
-      "url": "https://www.webkit.org/blog/15190/implementing-vertical-form-controls/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://ecss.info",
-    "tags": [
-      "CSS",
-      "document",
-      "Tools"
-    ],
-    "example": {
-      "title": "ECSS — Simple Rules for efficient CSS",
-      "url": "https://ecss.info/en/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://speakerdeck.com/steelydylan/",
     "tags": [
       "React",

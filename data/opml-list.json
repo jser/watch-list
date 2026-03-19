@@ -1219,13 +1219,6 @@
     ]
   },
   {
-    "url": "https://www.webkit.org",
-    "feeds": [
-      "https://www.webkit.org/feed/",
-      "https://www.webkit.org/feed/atom/"
-    ]
-  },
-  {
     "url": "https://www.youtube.com",
     "feeds": [
       "https://www.youtube.com/feed/subscriptions",
