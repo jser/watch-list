@@ -776,13 +776,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/steelydylan/",
-    "feeds": [
-      "https://speakerdeck.com/steelydylan.atom",
-      "https://speakerdeck.com/steelydylan.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/exoego/",
     "feeds": [
       "https://speakerdeck.com/exoego.atom",
