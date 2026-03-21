@@ -721,12 +721,6 @@
     ]
   },
   {
-    "url": "https://rsbuild.dev",
-    "feeds": [
-      "https://rsbuild.dev/rss/releases.xml"
-    ]
-  },
-  {
     "url": "https://rspack.dev",
     "feeds": [
       "https://rspack.dev/rss/blog-rss.xml"
