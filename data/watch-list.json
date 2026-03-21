@@ -62,15 +62,15 @@
     }
   },
   {
-    "count": 24,
+    "count": 25,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 10.27 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v10.27.0"
+      "title": "Release pnpm 11 Beta 0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-beta.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -147,18 +147,6 @@
   },
   {
     "count": 15,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 15,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -170,6 +158,18 @@
     "example": {
       "title": "Next.js 16.1 | Next.js",
       "url": "https://nextjs.org/blog/next-16-1"
+    }
+  },
+  {
+    "count": 14,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
@@ -278,6 +278,21 @@
     }
   },
   {
+    "count": 10,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun v1.3.11 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.11"
+    }
+  },
+  {
     "count": 9,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
@@ -363,21 +378,6 @@
     "example": {
       "title": "npm bulk trusted publishing config and script security now generally available - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-02-18-npm-bulk-trusted-publishing-config-and-script-security-now-generally-available/"
-    }
-  },
-  {
-    "count": 9,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun v1.3.7 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.7"
     }
   },
   {
@@ -1276,20 +1276,6 @@
   },
   {
     "count": 2,
-    "url": "https://rsdoctor.dev",
-    "tags": [
-      "webpack",
-      "rspack",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rsdoctor 1.0 - Rsdoctor",
-      "url": "https://rsdoctor.dev/blog/release/release-note-1_0"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://blog.vuejs.org",
     "tags": [
       "vite",
@@ -1953,19 +1939,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://rsbuild.dev",
-    "tags": [
-      "rspack",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rsbuild v0.5 - Rsbuild",
-      "url": "https://rsbuild.dev/community/releases/v0-5"
     }
   },
   {
@@ -5026,6 +4999,19 @@
   },
   {
     "count": 1,
+    "url": "https://rsdoctor.dev",
+    "tags": [
+      "webpack",
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rsdoctor 1.0 - Rsdoctor",
+      "url": "https://rsdoctor.dev/blog/release/release-note-1_0"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/harrysolovay/standard-json-schema",
     "tags": [
       "JavaScript",
@@ -7618,5 +7604,18 @@
       "url": "https://github.com/sam247/openredaction"
     },
     "rssUrl": "https://github.com/sam247/openredaction/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://wasmer.io",
+    "tags": [
+      "WebAssembly",
+      "nodejs",
+      "article"
+    ],
+    "example": {
+      "title": "Edge.js: Running Node apps inside a WebAssembly Sandbox · Blog · Wasmer",
+      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox"
+    }
   }
 ]
