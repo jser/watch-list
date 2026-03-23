@@ -153,18 +153,19 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 15,
+    "count": 16,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
       "ReleaseNote",
       "article",
       "security",
-      "document"
+      "document",
+      "React"
     ],
     "example": {
-      "title": "Next.js 16.1 | Next.js",
-      "url": "https://nextjs.org/blog/next-16-1"
+      "title": "Next.js 16.2 | Next.js",
+      "url": "https://nextjs.org/blog/next-16-2"
     },
     "rssUrl": "https://nextjs.org/feed.xml"
   },
@@ -7832,6 +7833,20 @@
     "example": {
       "title": "Edge.js: Running Node apps inside a WebAssembly Sandbox · Blog · Wasmer",
       "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://browserpod.io",
+    "tags": [
+      "WebAssembly",
+      "nodejs",
+      "browser",
+      "webservice"
+    ],
+    "example": {
+      "title": "BrowserPod — Sandboxed Dev Environments in any Browser",
+      "url": "https://browserpod.io/"
     }
   }
 ]
