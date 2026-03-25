@@ -93,7 +93,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -103,8 +103,8 @@
       "golang"
     ],
     "example": {
-      "title": "Announcing TypeScript 6.0 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/"
+      "title": "Announcing TypeScript 6.0 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/"
     }
   },
   {
@@ -383,27 +383,6 @@
   },
   {
     "count": 8,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "nodejs",
-      "history",
-      "video",
-      "JavaScript",
-      "Conference",
-      "vite",
-      "Angular",
-      "React",
-      "slide",
-      "DOM",
-      "Native"
-    ],
-    "example": {
-      "title": "CascadiaJS 2025 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://remix.run",
     "tags": [
       "React",
@@ -500,6 +479,26 @@
       "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
     },
     "rssUrl": "https://github.com/honojs/hono/releases.atom"
+  },
+  {
+    "count": 7,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "JavaScript",
+      "Conference",
+      "video",
+      "vite",
+      "Angular",
+      "history",
+      "React",
+      "slide",
+      "DOM",
+      "Native"
+    ],
+    "example": {
+      "title": "CascadiaJS 2025 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
   },
   {
     "count": 6,
