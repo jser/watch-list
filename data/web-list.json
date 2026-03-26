@@ -2016,20 +2016,6 @@
   },
   {
     "count": 1,
-    "url": "https://romgrk.com",
-    "tags": [
-      "article",
-      "performance",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Optimizing Javascript for fun and for profit",
-      "url": "https://romgrk.com/posts/optimizing-javascript"
-    },
-    "rssUrl": "https://romgrk.com/rss.xml"
-  },
-  {
-    "count": 1,
     "url": "https://effectivetypescript.com",
     "tags": [
       "TypeScript",
