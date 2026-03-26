@@ -117,7 +117,6 @@
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
-<outline text="romgrk.com" title="romgrk.com" type="rss" xmlUrl="https://romgrk.com/rss.xml"/>
 <outline text="rspack.dev" title="rspack.dev" type="rss" xmlUrl="https://rspack.dev/rss/blog-rss.xml"/>
 <outline text="rspack.rs" title="rspack.rs" type="rss" xmlUrl="https://rspack.rs/rss/blog-rss.xml"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>

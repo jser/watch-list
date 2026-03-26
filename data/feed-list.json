@@ -2047,12 +2047,6 @@
     ]
   },
   {
-    "url": "https://romgrk.com",
-    "feeds": [
-      "https://romgrk.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://rspack.dev",
     "feeds": [
       "https://rspack.dev/rss/blog-rss.xml"
