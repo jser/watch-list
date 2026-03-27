@@ -330,12 +330,6 @@
     ]
   },
   {
-    "url": "https://effectivetypescript.com",
-    "feeds": [
-      "https://effectivetypescript.com/atom.xml"
-    ]
-  },
-  {
     "url": "https://eslint.org",
     "feeds": [
       "https://eslint.org/feed.xml"
@@ -618,12 +612,6 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mochajs/mocha",
-    "feeds": [
-      "https://github.com/mochajs/mocha/releases.atom"
     ]
   },
   {
@@ -2587,12 +2575,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/inaniwaudon/",
-    "feeds": [
-      "https://zenn.dev/inaniwaudon/feed"
     ]
   },
   {

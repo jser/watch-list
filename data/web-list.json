@@ -1,13 +1,13 @@
 [
   {
-    "count": 70,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
-      "article",
-      "ReleaseNote",
       "windows",
       "security",
+      "ReleaseNote",
+      "article",
       "TypeScript",
       "news",
       "rlee",
@@ -40,14 +40,26 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 25,
+    "count": 24,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 11 Beta 0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-beta.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "performance",
-      "article",
       "ReleaseNote",
       "CSS",
+      "article",
       "debug",
       "LanguageModel",
       "Firefox",
@@ -63,19 +75,6 @@
       "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
-    "count": 25,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 11 Beta 0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-beta.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 22,
@@ -591,6 +590,28 @@
   },
   {
     "count": 5,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "JavaScript",
+      "UI",
+      "test",
+      "ReleaseNote",
+      "storybook",
+      "debug",
+      "Tools",
+      "article",
+      "security",
+      "MCP",
+      "React"
+    ],
+    "example": {
+      "title": "Storybook MCP for React",
+      "url": "https://storybook.js.org/blog/storybook-mcp-for-react/"
+    },
+    "rssUrl": "https://storybook.js.org/blog/rss/"
+  },
+  {
+    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -816,26 +837,6 @@
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 4,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "test",
-      "ReleaseNote",
-      "storybook",
-      "debug",
-      "Tools",
-      "article",
-      "security"
-    ],
-    "example": {
-      "title": "Security advisory",
-      "url": "https://storybook.js.org/blog/security-advisory/"
-    },
-    "rssUrl": "https://storybook.js.org/blog/rss/"
   },
   {
     "count": 4,
@@ -1322,22 +1323,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "vite",
-      "document",
-      "Tools",
-      "ReleaseNote",
-      "Vue"
-    ],
-    "example": {
-      "title": "Announcing Vue 3.5 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vue-3-5"
-    },
-    "rssUrl": "https://blog.vuejs.org/feed.rss"
   },
   {
     "count": 2,
@@ -2013,48 +1998,6 @@
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://effectivetypescript.com",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "Flow Nodes: How Type Inference Is Implemented",
-      "url": "https://effectivetypescript.com/2024/03/24/flownodes/"
-    },
-    "rssUrl": "https://effectivetypescript.com/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/inaniwaudon/",
-    "tags": [
-      "Chrome",
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Chrome で text-spacing-trim プロパティがサポートされたぞ！！",
-      "url": "https://zenn.dev/inaniwaudon/articles/3ff8761773178c"
-    },
-    "rssUrl": "https://zenn.dev/inaniwaudon/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mochajs/mocha",
-    "tags": [
-      "nodejs",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v10.4.0 · mochajs/mocha",
-      "url": "https://github.com/mochajs/mocha/releases/tag/v10.4.0"
-    },
-    "rssUrl": "https://github.com/mochajs/mocha/releases.atom"
   },
   {
     "count": 1,
@@ -3549,6 +3492,19 @@
       "url": "https://github.com/faker-js/faker/releases/tag/v9.0.0"
     },
     "rssUrl": "https://github.com/faker-js/faker/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.vuejs.org",
+    "tags": [
+      "Vue",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Vue 3.5 | The Vue Point",
+      "url": "https://blog.vuejs.org/posts/vue-3-5"
+    },
+    "rssUrl": "https://blog.vuejs.org/feed.rss"
   },
   {
     "count": 1,
