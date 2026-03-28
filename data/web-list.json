@@ -54,6 +54,28 @@
   },
   {
     "count": 23,
+    "url": "https://webkit.org",
+    "tags": [
+      "webkit",
+      "safari",
+      "performance",
+      "article",
+      "ReleaseNote",
+      "privacy",
+      "css",
+      "browser",
+      "CSS",
+      "WebTransport",
+      "WebAuthentication"
+    ],
+    "example": {
+      "title": "WebKit Features for Safari 26.4 | WebKit",
+      "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -75,25 +97,6 @@
       "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
-    "count": 22,
-    "url": "https://webkit.org",
-    "tags": [
-      "webkit",
-      "safari",
-      "performance",
-      "article",
-      "ReleaseNote",
-      "privacy",
-      "css",
-      "browser"
-    ],
-    "example": {
-      "title": "WebKit features for Safari 26.3 | WebKit",
-      "url": "https://webkit.org/blog/17798/webkit-features-for-safari-26-3/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
   },
   {
     "count": 21,
