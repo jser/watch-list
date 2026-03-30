@@ -1932,19 +1932,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/gulpjs/gulp",
-    "tags": [
-      "gulp",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release gulp v5.0.0 · gulpjs/gulp",
-      "url": "https://github.com/gulpjs/gulp/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/gulpjs/gulp/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://lydiahallie.framer.website",
     "tags": [
       "JavaScript",
