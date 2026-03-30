@@ -104,7 +104,6 @@
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
-<outline text="github.com/gulpjs/gulp" title="github.com/gulpjs/gulp" type="rss" xmlUrl="https://github.com/gulpjs/gulp/releases.atom"/>
 <outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/sonic-technology/catena" title="github.com/sonic-technology/catena" type="rss" xmlUrl="https://github.com/sonic-technology/catena/releases.atom"/>
 <outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
