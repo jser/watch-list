@@ -7779,5 +7779,19 @@
       "title": "BrowserPod — Sandboxed Dev Environments in any Browser",
       "url": "https://browserpod.io/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://arrow-js.com",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "WebAssembly",
+      "library"
+    ],
+    "example": {
+      "title": "ArrowJS — The first UI framework for the agentic era",
+      "url": "https://arrow-js.com/"
+    }
   }
 ]
