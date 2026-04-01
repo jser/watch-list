@@ -135,26 +135,6 @@
     "rssUrl": "https://eslint.org/feed.xml"
   },
   {
-    "count": 17,
-    "url": "https://deno.com",
-    "tags": [
-      "dneo",
-      "ReleaseNote",
-      "deno",
-      "JavaScript",
-      "npm",
-      "article",
-      "browser",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.7: Temporal API, Windows ARM, and npm overrides | Deno",
-      "url": "https://deno.com/blog/v2.7"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
     "count": 16,
     "url": "https://nextjs.org",
     "tags": [
@@ -170,6 +150,26 @@
       "url": "https://nextjs.org/blog/next-16-2"
     },
     "rssUrl": "https://nextjs.org/feed.xml"
+  },
+  {
+    "count": 16,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "JavaScript",
+      "npm",
+      "article",
+      "dneo",
+      "ReleaseNote",
+      "browser",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.7: Temporal API, Windows ARM, and npm overrides | Deno",
+      "url": "https://deno.com/blog/v2.7"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 14,
@@ -207,28 +207,6 @@
       "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
     },
     "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://web.dev",
-    "tags": [
-      "CSS",
-      "article",
-      "JavaScript",
-      "tutorial",
-      "HTML",
-      "css ",
-      "browser",
-      "performance",
-      "Unicode",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    },
-    "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
     "count": 12,
@@ -274,6 +252,28 @@
       "url": "https://nuxt.com/blog/v4-4"
     },
     "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 11,
+    "url": "https://web.dev",
+    "tags": [
+      "JavaScript",
+      "tutorial",
+      "HTML",
+      "article",
+      "CSS",
+      "css ",
+      "browser",
+      "performance",
+      "Unicode",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
   },
   {
     "count": 10,
@@ -742,23 +742,6 @@
   },
   {
     "count": 4,
-    "url": "https://v8.dev",
-    "tags": [
-      "V8",
-      "JavaScript",
-      "Chrome",
-      "article",
-      "WebAssembly",
-      "Promises"
-    ],
-    "example": {
-      "title": "How we made JSON.stringify more than twice as fast · V8",
-      "url": "https://v8.dev/blog/json-stringify"
-    },
-    "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/google/zx",
     "tags": [
       "JavaScript",
@@ -1122,6 +1105,22 @@
       "url": "https://turbo.build/blog/turbo-2-5"
     },
     "rssUrl": "https://turbo.build/feed.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://v8.dev",
+    "tags": [
+      "WebAssembly",
+      "Promises",
+      "article",
+      "JavaScript",
+      "V8"
+    ],
+    "example": {
+      "title": "How we made JSON.stringify more than twice as fast · V8",
+      "url": "https://v8.dev/blog/json-stringify"
+    },
+    "rssUrl": "https://v8.dev/blog.atom"
   },
   {
     "count": 3,
@@ -2000,75 +1999,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://lydiahallie.framer.website",
-    "tags": [
-      "JavaScript",
-      "Promises",
-      "article",
-      "ECMAScript"
-    ],
-    "example": {
-      "title": "JavaScript Visualized - Promise Execution",
-      "url": "https://lydiahallie.framer.website/blog/promise-execution"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://redwoodjs.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "React Server Components now in RedwoodJS | RedwoodJS",
-      "url": "https://redwoodjs.com/blog/rsc-now-in-redwoodjs"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://semaphoreci.com",
-    "tags": [
-      "React",
-      "test",
-      "article"
-    ],
-    "example": {
-      "title": "Flaky Tests In React: Detection, Prevention and Tools - Semaphore",
-      "url": "https://semaphoreci.com/blog/flaky-react"
-    },
-    "rssUrl": "https://semaphoreci.com/feed"
-  },
-  {
-    "count": 1,
-    "url": "https://babylonjs.medium.com",
-    "tags": [
-      "WebGL",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing Babylon.js 7.0. Our mission is to build one of the most… | by Babylon.js | Mar, 2024 | Medium",
-      "url": "https://babylonjs.medium.com/introducing-babylon-js-7-0-a141cd7ede0d"
-    },
-    "rssUrl": "https://medium.com/feed/@babylonjs"
-  },
-  {
-    "count": 1,
-    "url": "https://www.radix-ui.com",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Radix Themes 3.0 – Radix UI",
-      "url": "https://www.radix-ui.com/blog/themes-3"
     }
   },
   {

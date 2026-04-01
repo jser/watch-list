@@ -11,7 +11,6 @@
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
-<outline text="babylonjs.medium.com" title="babylonjs.medium.com" type="rss" xmlUrl="https://medium.com/feed/@babylonjs"/>
 <outline text="benhowdle.im" title="benhowdle.im" type="rss" xmlUrl="https://benhowdle.im/feed.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
 <outline text="blog.1password.com" title="blog.1password.com" type="rss" xmlUrl="https://blog.1password.com/index.xml"/>
@@ -341,7 +340,6 @@
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
 <outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
 <outline text="scrapbox.io" title="scrapbox.io" type="rss" xmlUrl="https://scrapbox.io/api/feed/yamanoku"/>
-<outline text="semaphoreci.com" title="semaphoreci.com" type="rss" xmlUrl="https://semaphoreci.com/feed"/>
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="simonwillison.net" title="simonwillison.net" type="rss" xmlUrl="https://simonwillison.net/atom/everything/"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
