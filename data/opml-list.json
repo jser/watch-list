@@ -42,12 +42,6 @@
     ]
   },
   {
-    "url": "https://babylonjs.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@babylonjs"
-    ]
-  },
-  {
     "url": "https://benhowdle.im",
     "feeds": [
       "https://benhowdle.im/feed.xml"
@@ -730,13 +724,6 @@
     "url": "https://sass-lang.com",
     "feeds": [
       "https://sass-lang.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://semaphoreci.com",
-    "feeds": [
-      "https://semaphoreci.com/feed",
-      "https://semaphoreci.com/comments/feed"
     ]
   },
   {

@@ -42,12 +42,6 @@
     ]
   },
   {
-    "url": "https://babylonjs.medium.com",
-    "feeds": [
-      "https://medium.com/feed/@babylonjs"
-    ]
-  },
-  {
     "url": "https://benhowdle.im",
     "feeds": [
       "https://benhowdle.im/feed.xml"
@@ -2056,13 +2050,6 @@
     "url": "https://scrapbox.io",
     "feeds": [
       "https://scrapbox.io/api/feed/yamanoku"
-    ]
-  },
-  {
-    "url": "https://semaphoreci.com",
-    "feeds": [
-      "https://semaphoreci.com/feed",
-      "https://semaphoreci.com/comments/feed"
     ]
   },
   {
