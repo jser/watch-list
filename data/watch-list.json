@@ -19,11 +19,10 @@
     }
   },
   {
-    "count": 28,
+    "count": 27,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
-      "windows",
       "ReleaseNote",
       "bum",
       "V8",
@@ -1097,6 +1096,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "news",
+      "ReleaseNote",
+      "spec"
+    ],
+    "example": {
+      "title": "Release ES2026 Candidate March 31st 2026 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2026-candidate-2026-03-31"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://lea.verou.me",
     "tags": [
       "CSS",
@@ -1433,20 +1447,6 @@
       "title": "Default styles for h1 elements are changing | MDN Blog",
       "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "news",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release ES2025 Candidate March 31st 2025 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2025-candidate-2025-03-31"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 2,
@@ -1870,6 +1870,21 @@
       "url": "https://github.com/colinhacks/zod/releases/tag/v4.3.0"
     },
     "rssUrl": "https://github.com/colinhacks/zod/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/sindresorhus/got",
+    "tags": [
+      "nodejs",
+      "HTTP",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v15.0.0 · sindresorhus/got",
+      "url": "https://github.com/sindresorhus/got/releases/tag/v15.0.0"
+    },
+    "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
   },
   {
     "count": 2,
@@ -6317,21 +6332,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/sindresorhus/got",
-    "tags": [
-      "nodejs",
-      "HTTP",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v14.6.0 · sindresorhus/got",
-      "url": "https://github.com/sindresorhus/got/releases/tag/v14.6.0"
-    },
-    "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://blog.emberjs.com",
     "tags": [
       "Ember",
@@ -7512,5 +7512,35 @@
       "title": "ArrowJS — The first UI framework for the agentic era",
       "url": "https://arrow-js.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/raineorshine/npm-check-updates",
+    "tags": [
+      "npm",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v20.0.0 · raineorshine/npm-check-updates",
+      "url": "https://github.com/raineorshine/npm-check-updates/releases/tag/v20.0.0"
+    },
+    "rssUrl": "https://github.com/raineorshine/npm-check-updates/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lodash/lodash",
+    "tags": [
+      "lodash",
+      "JavaScript",
+      "library",
+      "security",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 4.18.0 · lodash/lodash",
+      "url": "https://github.com/lodash/lodash/releases/tag/4.18.0"
+    },
+    "rssUrl": "https://github.com/lodash/lodash/releases.atom"
   }
 ]
