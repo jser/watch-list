@@ -477,6 +477,12 @@
     ]
   },
   {
+    "url": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
@@ -534,12 +540,6 @@
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -606,6 +606,12 @@
     "url": "https://github.com/colinhacks/zod",
     "feeds": [
       "https://github.com/colinhacks/zod/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/sindresorhus/got",
+    "feeds": [
+      "https://github.com/sindresorhus/got/releases.atom"
     ]
   },
   {
@@ -1437,12 +1443,6 @@
     ]
   },
   {
-    "url": "https://github.com/sindresorhus/got",
-    "feeds": [
-      "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
     "feeds": [
       "https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"
@@ -1704,6 +1704,18 @@
     "url": "https://github.com/sam247/openredaction",
     "feeds": [
       "https://github.com/sam247/openredaction/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/raineorshine/npm-check-updates",
+    "feeds": [
+      "https://github.com/raineorshine/npm-check-updates/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lodash/lodash",
+    "feeds": [
+      "https://github.com/lodash/lodash/releases.atom"
     ]
   },
   {
