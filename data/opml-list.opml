@@ -88,7 +88,6 @@
 <outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="martijnhols.nl" title="martijnhols.nl" type="rss" xmlUrl="https://martijnhols.nl/rss.xml"/>
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
-<outline text="medium.com/flow-type/" title="medium.com/flow-type/" type="rss" xmlUrl="https://medium.com/feed/flow-type"/>
 <outline text="medium.com/dartlang/" title="medium.com/dartlang/" type="rss" xmlUrl="https://medium.com/feed/dartlang"/>
 <outline text="medium.com/@nathanacurtis/" title="medium.com/@nathanacurtis/" type="rss" xmlUrl="https://medium.com/feed/@nathanacurtis"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
@@ -187,6 +186,7 @@
 <outline text="www.sanity.io" title="www.sanity.io" type="rss" xmlUrl="https://www.sanity.io/feed/rss"/>
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
 <outline text="www.speedcurve.com" title="www.speedcurve.com" type="rss" xmlUrl="https://www.speedcurve.com/blog/rss/"/>
+<outline text="www.taekim.dev" title="www.taekim.dev" type="rss" xmlUrl="https://www.taekim.dev/feed.xml"/>
 <outline text="www.trevorlasn.com" title="www.trevorlasn.com" type="rss" xmlUrl="https://www.trevorlasn.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>

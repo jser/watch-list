@@ -526,12 +526,6 @@
     ]
   },
   {
-    "url": "https://medium.com/flow-type/",
-    "feeds": [
-      "https://medium.com/feed/flow-type"
-    ]
-  },
-  {
     "url": "https://medium.com/dartlang/",
     "feeds": [
       "https://medium.com/feed/dartlang"
@@ -1166,6 +1160,12 @@
     "url": "https://www.speedcurve.com",
     "feeds": [
       "https://www.speedcurve.com/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://www.taekim.dev",
+    "feeds": [
+      "https://www.taekim.dev/feed.xml"
     ]
   },
   {
