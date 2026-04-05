@@ -1235,6 +1235,22 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "tags": [
+      "npm",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v5.0.0 · lerna-lite/lerna-lite",
+      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v5.0.0"
+    },
+    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://shopify.engineering",
     "tags": [
       "React",
@@ -1696,22 +1712,6 @@
       "title": "フロントエンド API コール時のエラーハンドリングを軽く整理（Fetch API・typescript-fetch・TanStack Query） - カミナシ エンジニアブログ",
       "url": "https://kaminashi-developer.hatenablog.jp/entry/2025/04/30/080000"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "tags": [
-      "npm",
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · lerna-lite/lerna-lite",
-      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 2,
@@ -7534,5 +7534,23 @@
       "url": "https://github.com/lodash/lodash/releases/tag/4.18.0"
     },
     "rssUrl": "https://github.com/lodash/lodash/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel-labs/emulate",
+    "tags": [
+      "vercel",
+      "API",
+      "testing",
+      "CI",
+      "Tools",
+      "nodejs",
+      "server"
+    ],
+    "example": {
+      "title": "vercel-labs/emulate: Local API emulation for CI and no-network sandboxes",
+      "url": "https://github.com/vercel-labs/emulate"
+    },
+    "rssUrl": "https://github.com/vercel-labs/emulate/releases.atom"
   }
 ]

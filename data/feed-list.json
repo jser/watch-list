@@ -513,6 +513,12 @@
     ]
   },
   {
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "feeds": [
+      "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
@@ -582,12 +588,6 @@
     "url": "https://github.com/remix-run/react-router",
     "feeds": [
       "https://github.com/remix-run/react-router/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "feeds": [
-      "https://github.com/lerna-lite/lerna-lite/releases.atom"
     ]
   },
   {
@@ -1716,6 +1716,12 @@
     "url": "https://github.com/lodash/lodash",
     "feeds": [
       "https://github.com/lodash/lodash/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel-labs/emulate",
+    "feeds": [
+      "https://github.com/vercel-labs/emulate/releases.atom"
     ]
   },
   {
