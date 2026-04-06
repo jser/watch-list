@@ -1595,6 +1595,23 @@
   },
   {
     "count": 2,
+    "url": "https://blog.jetbrains.com",
+    "tags": [
+      "WebStorm",
+      "editor",
+      "JavaScript",
+      "software",
+      "JetBrains",
+      "IDE",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "Core JavaScript and TypeScript Features Become Free in IntelliJ IDEA | The IntelliJ IDEA Blog",
+      "url": "https://blog.jetbrains.com/idea/2026/03/js-ts-free-support/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/tinylibs/tinybench",
     "tags": [
       "JavaScript",
@@ -3743,20 +3760,6 @@
       "url": "https://github.com/pmndrs/zustand/releases/tag/v5.0.0"
     },
     "rssUrl": "https://github.com/pmndrs/zustand/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.jetbrains.com",
-    "tags": [
-      "WebStorm",
-      "editor",
-      "JavaScript",
-      "software"
-    ],
-    "example": {
-      "title": "WebStorm and Rider Are Now Free for Non-Commercial Use | The JetBrains Blog",
-      "url": "https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/"
-    }
   },
   {
     "count": 1,
@@ -7537,6 +7540,18 @@
   },
   {
     "count": 1,
+    "url": "https://willybrauner.com",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Signals, the push-pull based algorithm — Willy Brauner",
+      "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/vercel-labs/emulate",
     "tags": [
       "vercel",
@@ -7552,5 +7567,18 @@
       "url": "https://github.com/vercel-labs/emulate"
     },
     "rssUrl": "https://github.com/vercel-labs/emulate/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.stepsecurity.io",
+    "tags": [
+      "npm",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+    }
   }
 ]

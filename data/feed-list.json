@@ -2332,6 +2332,12 @@
     ]
   },
   {
+    "url": "https://willybrauner.com",
+    "feeds": [
+      "https://willybrauner.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://workos.com",
     "feeds": [
       "https://workos.com/blog/rss.xml"
@@ -2504,6 +2510,12 @@
     "url": "https://www.speedcurve.com",
     "feeds": [
       "https://www.speedcurve.com/blog/rss/"
+    ]
+  },
+  {
+    "url": "https://www.stepsecurity.io",
+    "feeds": [
+      "https://www.stepsecurity.io/blog/rss.xml"
     ]
   },
   {
