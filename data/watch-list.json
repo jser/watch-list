@@ -714,23 +714,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/google/zx",
-    "tags": [
-      "JavaScript",
-      "ShellScript",
-      "library",
-      "ReleaseNote",
-      "nodejs",
-      "Tools"
-    ],
-    "example": {
-      "title": "Release 8.5.0 — Flow Splitter · google/zx",
-      "url": "https://github.com/google/zx/releases/tag/8.5.0"
-    },
-    "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "JavaScript",
@@ -1001,6 +984,23 @@
       "url": "https://github.com/facebook/react/releases/tag/v19.1.0"
     },
     "rssUrl": "https://github.com/facebook/react/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/google/zx",
+    "tags": [
+      "nodejs",
+      "ShellScript",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "Release 8.5.0 — Flow Splitter · google/zx",
+      "url": "https://github.com/google/zx/releases/tag/8.5.0"
+    },
+    "rssUrl": "https://github.com/google/zx/releases.atom"
   },
   {
     "count": 3,
