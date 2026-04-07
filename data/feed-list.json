@@ -423,12 +423,6 @@
     ]
   },
   {
-    "url": "https://github.com/google/zx",
-    "feeds": [
-      "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
@@ -462,6 +456,12 @@
     "url": "https://github.com/facebook/react",
     "feeds": [
       "https://github.com/facebook/react/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/google/zx",
+    "feeds": [
+      "https://github.com/google/zx/releases.atom"
     ]
   },
   {
