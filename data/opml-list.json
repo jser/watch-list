@@ -526,12 +526,6 @@
     ]
   },
   {
-    "url": "https://medium.com/dartlang/",
-    "feeds": [
-      "https://medium.com/feed/dartlang"
-    ]
-  },
-  {
     "url": "https://medium.com/@nathanacurtis/",
     "feeds": [
       "https://medium.com/feed/@nathanacurtis"
@@ -591,13 +585,6 @@
     "feeds": [
       "https://nx.dev/blog/rss.xml",
       "https://nx.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://oisham.hatenablog.com",
-    "feeds": [
-      "https://oisham.hatenablog.com/feed",
-      "https://oisham.hatenablog.com/rss"
     ]
   },
   {
@@ -902,13 +889,6 @@
     "feeds": [
       "https://typescript-eslint.io/blog/rss.xml",
       "https://typescript-eslint.io/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://unicorn-utterances.com",
-    "feeds": [
-      "https://unicorn-utterances.com/atom.xml",
-      "https://unicorn-utterances.com/rss.xml"
     ]
   },
   {
