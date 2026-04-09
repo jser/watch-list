@@ -289,6 +289,7 @@
 <outline text="github.com/raineorshine/npm-check-updates" title="github.com/raineorshine/npm-check-updates" type="rss" xmlUrl="https://github.com/raineorshine/npm-check-updates/releases.atom"/>
 <outline text="github.com/lodash/lodash" title="github.com/lodash/lodash" type="rss" xmlUrl="https://github.com/lodash/lodash/releases.atom"/>
 <outline text="github.com/vercel-labs/emulate" title="github.com/vercel-labs/emulate" type="rss" xmlUrl="https://github.com/vercel-labs/emulate/releases.atom"/>
+<outline text="github.com/Pagefind/pagefind" title="github.com/Pagefind/pagefind" type="rss" xmlUrl="https://github.com/Pagefind/pagefind/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

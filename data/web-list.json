@@ -253,12 +253,11 @@
     "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
-    "count": 11,
+    "count": 10,
     "url": "https://web.dev",
     "tags": [
-      "JavaScript",
-      "tutorial",
       "HTML",
+      "JavaScript",
       "article",
       "CSS",
       "css ",
@@ -7738,5 +7737,21 @@
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/Pagefind/pagefind",
+    "tags": [
+      "Rust",
+      "JavaScript",
+      "search",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.5.0 · Pagefind/pagefind",
+      "url": "https://github.com/Pagefind/pagefind/releases/tag/v1.5.0"
+    },
+    "rssUrl": "https://github.com/Pagefind/pagefind/releases.atom"
   }
 ]

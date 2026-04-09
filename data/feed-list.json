@@ -1725,6 +1725,12 @@
     ]
   },
   {
+    "url": "https://github.com/Pagefind/pagefind",
+    "feeds": [
+      "https://github.com/Pagefind/pagefind/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
