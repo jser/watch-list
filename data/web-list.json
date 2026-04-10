@@ -550,6 +550,31 @@
   },
   {
     "count": 6,
+    "url": "https://vercel.com",
+    "tags": [
+      "google",
+      "SEO",
+      "JavaScript",
+      "article",
+      "React",
+      "vercel",
+      "document",
+      "AI",
+      "Hono",
+      "express",
+      "TypeScript",
+      "news",
+      "Next.js",
+      "security"
+    ],
+    "example": {
+      "title": "Summary of CVE-2026-23869 - Vercel",
+      "url": "https://vercel.com/changelog/summary-of-cve-2026-23869"
+    },
+    "rssUrl": "https://vercel.com/atom"
+  },
+  {
+    "count": 6,
     "url": "https://stylexjs.com",
     "tags": [
       "css ",
@@ -630,29 +655,6 @@
       "url": "https://2ality.com/2025/04/stringification-javascript.html"
     },
     "rssUrl": "https://2ality.com/feeds/posts.atom"
-  },
-  {
-    "count": 5,
-    "url": "https://vercel.com",
-    "tags": [
-      "google",
-      "SEO",
-      "JavaScript",
-      "article",
-      "React",
-      "vercel",
-      "document",
-      "AI",
-      "Hono",
-      "express",
-      "TypeScript",
-      "news"
-    ],
-    "example": {
-      "title": "Experimental build mode for Hono and Express projects - Vercel",
-      "url": "https://vercel.com/changelog/experimental-build-mode-hono-express"
-    },
-    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 5,
@@ -2039,17 +2041,18 @@
     }
   },
   {
-    "count": 1,
-    "url": "https://ark-ui.com",
+    "count": 2,
+    "url": "https://webpack.js.org",
     "tags": [
-      "JavaScript",
-      "UI",
-      "library"
+      "webpack",
+      "article",
+      "ReleaseNote"
     ],
     "example": {
-      "title": "Home | Ark UI",
-      "url": "https://ark-ui.com/"
-    }
+      "title": "Webpack 5.106 | webpack",
+      "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
+    },
+    "rssUrl": "https://webpack.js.org/feed.xml"
   },
   {
     "count": 1,
@@ -7335,19 +7338,6 @@
       "url": "https://techblog.lycorp.co.jp/ja/20260216c"
     },
     "rssUrl": "https://techblog.lycorp.co.jp/ja/feed/index.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://webpack.js.org",
-    "tags": [
-      "webpack",
-      "article"
-    ],
-    "example": {
-      "title": "Roadmap 2026 (2026-02-04) | webpack",
-      "url": "https://webpack.js.org/blog/2026-04-02-roadmap-2026/"
-    },
-    "rssUrl": "https://webpack.js.org/feed.xml"
   },
   {
     "count": 1,
