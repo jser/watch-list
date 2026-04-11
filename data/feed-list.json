@@ -1731,6 +1731,12 @@
     ]
   },
   {
+    "url": "https://github.com/yuku-toolchain/yuku",
+    "feeds": [
+      "https://github.com/yuku-toolchain/yuku/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
