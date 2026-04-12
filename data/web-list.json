@@ -38,15 +38,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 24,
+    "count": 25,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 11 Beta 0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-beta.0"
+      "title": "Release pnpm 11 RC 0 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-rc.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -7752,5 +7752,19 @@
       "url": "https://github.com/yuku-toolchain/yuku"
     },
     "rssUrl": "https://github.com/yuku-toolchain/yuku/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://diffs.com",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "library",
+      "diff"
+    ],
+    "example": {
+      "title": "Diffs, from Pierre",
+      "url": "https://diffs.com/"
+    }
   }
 ]
