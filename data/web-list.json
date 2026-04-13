@@ -298,6 +298,35 @@
   },
   {
     "count": 10,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security",
+      "AI",
+      "python",
+      "golang",
+      ".net",
+      "library",
+      "GitHub",
+      "React",
+      "performance"
+    ],
+    "example": {
+      "title": "The uphill climb of making diff lines performant - The GitHub Blog",
+      "url": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 10,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -374,32 +403,6 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 9,
-    "url": "https://github.blog",
-    "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security",
-      "AI",
-      "python",
-      "golang",
-      ".net",
-      "library"
-    ],
-    "example": {
-      "title": "npm bulk trusted publishing config and script security now generally available - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-02-18-npm-bulk-trusted-publishing-config-and-script-security-now-generally-available/"
-    },
-    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 8,
