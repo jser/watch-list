@@ -116,6 +116,7 @@
 <outline text="rspack.rs" title="rspack.rs" type="rss" xmlUrl="https://rspack.rs/rss/blog-rss.xml"/>
 <outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
 <outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
+<outline text="servo.org" title="servo.org" type="rss" xmlUrl="https://servo.org/blog/feed.xml"/>
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="simonwillison.net" title="simonwillison.net" type="rss" xmlUrl="https://simonwillison.net/atom/everything/"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
