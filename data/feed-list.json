@@ -2064,6 +2064,12 @@
     ]
   },
   {
+    "url": "https://servo.org",
+    "feeds": [
+      "https://servo.org/blog/feed.xml"
+    ]
+  },
+  {
     "url": "https://shopify.engineering",
     "feeds": [
       "https://shopify.engineering/blog.atom"
