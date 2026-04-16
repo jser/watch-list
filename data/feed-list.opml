@@ -104,7 +104,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/farm-fe/farm" title="github.com/farm-fe/farm" type="rss" xmlUrl="https://github.com/farm-fe/farm/releases.atom"/>
 <outline text="github.com/sonic-technology/catena" title="github.com/sonic-technology/catena" type="rss" xmlUrl="https://github.com/sonic-technology/catena/releases.atom"/>
 <outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
 <outline text="github.com/quilljs/quill" title="github.com/quilljs/quill" type="rss" xmlUrl="https://github.com/quilljs/quill/releases.atom"/>
@@ -331,6 +330,7 @@
 <outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>
 <outline text="playfulprogramming.com" title="playfulprogramming.com" type="rss" xmlUrl="https://playfulprogramming.com/atom.xml"/>
 <outline text="pnpm.io" title="pnpm.io" type="rss" xmlUrl="https://pnpm.io/blog/rss.xml"/>
+<outline text="polypane.app" title="polypane.app" type="rss" xmlUrl="https://polypane.app/rss.xml"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="product.hubspot.com" title="product.hubspot.com" type="rss" xmlUrl="https://product.hubspot.com/blog/rss.xml"/>
 <outline text="product.st.inc" title="product.st.inc" type="rss" xmlUrl="https://product.st.inc/feed"/>

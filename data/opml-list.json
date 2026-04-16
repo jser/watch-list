@@ -645,6 +645,12 @@
     ]
   },
   {
+    "url": "https://polypane.app",
+    "feeds": [
+      "https://polypane.app/rss.xml"
+    ]
+  },
+  {
     "url": "https://prettier.io",
     "feeds": [
       "https://prettier.io/blog/atom.xml",
