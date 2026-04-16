@@ -615,12 +615,6 @@
     ]
   },
   {
-    "url": "https://github.com/farm-fe/farm",
-    "feeds": [
-      "https://github.com/farm-fe/farm/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/sonic-technology/catena",
     "feeds": [
       "https://github.com/sonic-technology/catena/releases.atom"
@@ -1992,6 +1986,12 @@
     "feeds": [
       "https://pnpm.io/blog/rss.xml",
       "https://pnpm.io/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://polypane.app",
+    "feeds": [
+      "https://polypane.app/rss.xml"
     ]
   },
   {

@@ -421,24 +421,6 @@
   },
   {
     "count": 7,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "ESLint",
-      "Tools",
-      "ReleaseNote",
-      "JavaScript",
-      "Rust",
-      "biome",
-      "article"
-    ],
-    "example": {
-      "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-4/"
-    },
-    "rssUrl": "https://biomejs.dev/feed.xml"
-  },
-  {
-    "count": 7,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -568,6 +550,23 @@
       "url": "https://vercel.com/changelog/summary-of-cve-2026-23869"
     },
     "rssUrl": "https://vercel.com/atom"
+  },
+  {
+    "count": 6,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Rust",
+      "Tools",
+      "ReleaseNote",
+      "biome",
+      "article"
+    ],
+    "example": {
+      "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-4/"
+    },
+    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 6,
@@ -1127,6 +1126,26 @@
   },
   {
     "count": 3,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "article",
+      "HTML",
+      "browser",
+      "css",
+      "mdn",
+      "WebComponents",
+      "architecture"
+    ],
+    "example": {
+      "title": "Under the hood of MDN's new frontend",
+      "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/"
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/tc39/ecma262",
     "tags": [
       "ECMAScript",
@@ -1523,23 +1542,6 @@
       "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
     },
     "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "article",
-      "HTML",
-      "browser",
-      "css"
-    ],
-    "example": {
-      "title": "Default styles for h1 elements are changing | MDN Blog",
-      "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
-    },
-    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 2,
@@ -2050,22 +2052,6 @@
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     },
     "rssUrl": "https://webpack.js.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/farm-fe/farm",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "Rust",
-      "vite",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 🚀 Farm v1.0 is released! · farm-fe/farm",
-      "url": "https://github.com/farm-fe/farm/releases/tag/v1.0"
-    },
-    "rssUrl": "https://github.com/farm-fe/farm/releases.atom"
   },
   {
     "count": 1,
@@ -7785,5 +7771,19 @@
       "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/"
     },
     "rssUrl": "https://servo.org/blog/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://polypane.app",
+    "tags": [
+      "JavaScript",
+      "i18n",
+      "article"
+    ],
+    "example": {
+      "title": "The Intl API: The best browser API you're not using | Polypane",
+      "url": "https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/"
+    },
+    "rssUrl": "https://polypane.app/rss.xml"
   }
 ]
