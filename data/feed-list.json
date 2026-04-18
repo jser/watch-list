@@ -615,12 +615,6 @@
     ]
   },
   {
-    "url": "https://github.com/sonic-technology/catena",
-    "feeds": [
-      "https://github.com/sonic-technology/catena/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/LavaMoat/LavaDome",
     "feeds": [
       "https://github.com/LavaMoat/LavaDome/releases.atom"
@@ -1728,6 +1722,12 @@
     "url": "https://github.com/yuku-toolchain/yuku",
     "feeds": [
       "https://github.com/yuku-toolchain/yuku/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel-labs/wterm",
+    "feeds": [
+      "https://github.com/vercel-labs/wterm/releases.atom"
     ]
   },
   {

@@ -104,7 +104,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/sonic-technology/catena" title="github.com/sonic-technology/catena" type="rss" xmlUrl="https://github.com/sonic-technology/catena/releases.atom"/>
 <outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
 <outline text="github.com/quilljs/quill" title="github.com/quilljs/quill" type="rss" xmlUrl="https://github.com/quilljs/quill/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
@@ -290,6 +289,7 @@
 <outline text="github.com/vercel-labs/emulate" title="github.com/vercel-labs/emulate" type="rss" xmlUrl="https://github.com/vercel-labs/emulate/releases.atom"/>
 <outline text="github.com/Pagefind/pagefind" title="github.com/Pagefind/pagefind" type="rss" xmlUrl="https://github.com/Pagefind/pagefind/releases.atom"/>
 <outline text="github.com/yuku-toolchain/yuku" title="github.com/yuku-toolchain/yuku" type="rss" xmlUrl="https://github.com/yuku-toolchain/yuku/releases.atom"/>
+<outline text="github.com/vercel-labs/wterm" title="github.com/vercel-labs/wterm" type="rss" xmlUrl="https://github.com/vercel-labs/wterm/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
