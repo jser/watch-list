@@ -1,12 +1,12 @@
 [
   {
-    "count": 68,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
-      "article",
       "ReleaseNote",
       "security",
+      "article",
       "TypeScript",
       "news",
       "rlee",
@@ -19,7 +19,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -51,30 +51,6 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 23,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "CSS",
-      "article",
-      "debug",
-      "LanguageModel",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP",
-      "browser",
-      "news"
-    ],
-    "example": {
-      "title": "Get features faster with Chrome's two-week release cycle  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
-    },
-    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
-  },
-  {
     "count": 22,
     "url": "https://webkit.org",
     "tags": [
@@ -94,6 +70,30 @@
       "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/"
     },
     "rssUrl": "https://webkit.org/feed/"
+  },
+  {
+    "count": 22,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "CSS",
+      "article",
+      "Chrome",
+      "debug",
+      "LanguageModel",
+      "ReleaseNote",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP",
+      "browser",
+      "news"
+    ],
+    "example": {
+      "title": "Get features faster with Chrome's two-week release cycle  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 21,
@@ -251,6 +251,37 @@
   },
   {
     "count": 11,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security",
+      "AI",
+      "python",
+      "golang",
+      ".net",
+      "library",
+      "GitHub",
+      "React",
+      "performance",
+      "CLI",
+      "Tools"
+    ],
+    "example": {
+      "title": "Manage agent skills with GitHub CLI - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 11,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -313,35 +344,6 @@
   },
   {
     "count": 10,
-    "url": "https://github.blog",
-    "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security",
-      "AI",
-      "python",
-      "golang",
-      ".net",
-      "library",
-      "GitHub",
-      "React",
-      "performance"
-    ],
-    "example": {
-      "title": "The uphill climb of making diff lines performant - The GitHub Blog",
-      "url": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/"
-    },
-    "rssUrl": "https://github.blog/feed/"
-  },
-  {
-    "count": 10,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -357,22 +359,6 @@
       "url": "https://oxc.rs/blog/2026-02-24-oxfmt-beta"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 9,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "news",
-      "article",
-      "TC39"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
-    },
-    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 9,
@@ -418,6 +404,22 @@
       "url": "https://remix.run/blog/oss-remix-store"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "article",
+      "news",
+      "TC39"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
+    },
+    "rssUrl": "https://ecmascript-daily.github.io/atom.xml"
   },
   {
     "count": 7,
@@ -2052,47 +2054,6 @@
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     },
     "rssUrl": "https://webpack.js.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.adebayosegun.com",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "article",
-      "Interview"
-    ],
-    "example": {
-      "title": "Panda CSS - The Origin Story - Segun Adebayo",
-      "url": "https://www.adebayosegun.com/blog/panda-css-the-origin-story"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/sonic-technology/catena",
-    "tags": [
-      "nodejs",
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "sonic-technology/catena: Build type-safe APIs with ease",
-      "url": "https://github.com/sonic-technology/catena"
-    },
-    "rssUrl": "https://github.com/sonic-technology/catena/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://layercake.graphics",
-    "tags": [
-      "Svelte",
-      "SVG",
-      "library"
-    ],
-    "example": {
-      "title": "Layer Cake",
-      "url": "https://layercake.graphics/"
-    }
   },
   {
     "count": 1,
@@ -7785,5 +7746,20 @@
       "url": "https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/"
     },
     "rssUrl": "https://polypane.app/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel-labs/wterm",
+    "tags": [
+      "WebAssembly",
+      "library",
+      "terminal",
+      "browser"
+    ],
+    "example": {
+      "title": "vercel-labs/wterm: A terminal emulator for the web",
+      "url": "https://github.com/vercel-labs/wterm"
+    },
+    "rssUrl": "https://github.com/vercel-labs/wterm/releases.atom"
   }
 ]
