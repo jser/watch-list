@@ -405,21 +405,6 @@
   },
   {
     "count": 7,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release 3.46.0 - 2025.10.09 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 7,
     "url": "https://frontendmasters.com",
     "tags": [
       "HTML",
@@ -529,6 +514,21 @@
       "title": "Summary of CVE-2026-23869 - Vercel",
       "url": "https://vercel.com/changelog/summary-of-cve-2026-23869"
     }
+  },
+  {
+    "count": 6,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "polyfill",
+      "JavaScript",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release 3.46.0 - 2025.10.09 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 6,
@@ -899,40 +899,6 @@
     "example": {
       "title": "Vitest 4.1 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-4-1.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://www.joshwcomeau.com",
-    "tags": [
-      "Next.js",
-      "CSS",
-      "React",
-      "article",
-      "css ",
-      "SVG"
-    ],
-    "example": {
-      "title": "A Friendly Introduction to SVG • Josh W. Comeau",
-      "url": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "article",
-      "TypeScript",
-      "RegExp",
-      "browser",
-      "Extension",
-      "library"
-    ],
-    "example": {
-      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
-      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
     }
   },
   {
@@ -1490,6 +1456,22 @@
   },
   {
     "count": 2,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "TypeScript",
+      "RegExp",
+      "article",
+      "browser",
+      "Extension",
+      "library"
+    ],
+    "example": {
+      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
+      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/facebook/relay",
     "tags": [
       "GraphQL",
@@ -1571,6 +1553,19 @@
     "example": {
       "title": "Material UI v7 is here 🚀 - MUI",
       "url": "https://mui.com/blog/material-ui-v7-is-here/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://www.joshwcomeau.com",
+    "tags": [
+      "css ",
+      "article",
+      "SVG"
+    ],
+    "example": {
+      "title": "A Friendly Introduction to SVG • Josh W. Comeau",
+      "url": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/"
     }
   },
   {
@@ -7549,5 +7544,31 @@
       "url": "https://github.com/vercel-labs/wterm"
     },
     "rssUrl": "https://github.com/vercel-labs/wterm/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.anthropic.com",
+    "tags": [
+      "AI",
+      "Design",
+      "Tools"
+    ],
+    "example": {
+      "title": "Introducing Claude Design by Anthropic Labs \\ Anthropic",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://react-aria.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "v1.17.0 | React Aria",
+      "url": "https://react-aria.adobe.com/releases/v1-17-0"
+    }
   }
 ]
