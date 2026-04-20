@@ -1731,6 +1731,18 @@
     ]
   },
   {
+    "url": "https://github.com/PerryTS/perry",
+    "feeds": [
+      "https://github.com/PerryTS/perry/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/endevco/aube",
+    "feeds": [
+      "https://github.com/endevco/aube/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

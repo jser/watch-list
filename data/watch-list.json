@@ -197,18 +197,6 @@
   },
   {
     "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 41.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-41-0"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -236,6 +224,18 @@
     "example": {
       "title": "Nuxt 4.4 · Nuxt Blog",
       "url": "https://nuxt.com/blog/v4-4"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 41.0 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-41-0"
     }
   },
   {
@@ -7570,5 +7570,35 @@
       "title": "v1.17.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-17-0"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/PerryTS/perry",
+    "tags": [
+      "TypeScript",
+      "Rust",
+      "compiler",
+      "Tools"
+    ],
+    "example": {
+      "title": "PerryTS/perry: A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.",
+      "url": "https://github.com/PerryTS/perry"
+    },
+    "rssUrl": "https://github.com/PerryTS/perry/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/endevco/aube",
+    "tags": [
+      "nodejs",
+      "package",
+      "Rust",
+      "Tools"
+    ],
+    "example": {
+      "title": "endevco/aube: A fast Node.js package manager",
+      "url": "https://github.com/endevco/aube"
+    },
+    "rssUrl": "https://github.com/endevco/aube/releases.atom"
   }
 ]
