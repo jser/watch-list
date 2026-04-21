@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -13,8 +13,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js 25.9.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v25.9.0"
+      "title": "Node.js — Node.js 24.15.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.15.0"
     }
   },
   {
@@ -160,18 +160,6 @@
     }
   },
   {
-    "count": 14,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
     "count": 13,
     "url": "https://react.dev",
     "tags": [
@@ -193,6 +181,18 @@
     "example": {
       "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
       "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
+    }
+  },
+  {
+    "count": 13,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
@@ -224,6 +224,21 @@
     "example": {
       "title": "Nuxt 4.4 · Nuxt Blog",
       "url": "https://nuxt.com/blog/v4-4"
+    }
+  },
+  {
+    "count": 12,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun v1.3.13 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.13"
     }
   },
   {
@@ -266,21 +281,6 @@
     "example": {
       "title": "Manage agent skills with GitHub CLI - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/"
-    }
-  },
-  {
-    "count": 11,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun v1.3.12 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.12"
     }
   },
   {
