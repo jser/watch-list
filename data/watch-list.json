@@ -564,6 +564,18 @@
     }
   },
   {
+    "count": 6,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 2.0 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-2-0"
+    }
+  },
+  {
     "count": 5,
     "url": "https://blog.angular.dev",
     "tags": [
@@ -688,18 +700,6 @@
   },
   {
     "count": 5,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 1.7 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-1-7"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://www.firefox.com",
     "tags": [
       "Firefox",
@@ -709,24 +709,6 @@
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "JavaScript",
-      "rspack",
-      "article",
-      "bundler",
-      "ReleaseNote",
-      "security",
-      "issue"
-    ],
-    "example": {
-      "title": "Planned breaking changes for Rspack 2.0 · web-infra-dev/rspack · Discussion #9270",
-      "url": "https://github.com/web-infra-dev/rspack/discussions/9270"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 4,
@@ -1137,6 +1119,22 @@
       "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
     },
     "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "bundler",
+      "ReleaseNote",
+      "rspack",
+      "security",
+      "issue"
+    ],
+    "example": {
+      "title": "Planned breaking changes for Rspack 2.0 · web-infra-dev/rspack · Discussion #9270",
+      "url": "https://github.com/web-infra-dev/rspack/discussions/9270"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
   },
   {
     "count": 3,

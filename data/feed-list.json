@@ -423,12 +423,6 @@
     ]
   },
   {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
@@ -486,6 +480,12 @@
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
     ]
   },
   {
