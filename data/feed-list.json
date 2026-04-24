@@ -1743,6 +1743,12 @@
     ]
   },
   {
+    "url": "https://github.com/rstackjs/connect-next",
+    "feeds": [
+      "https://github.com/rstackjs/connect-next/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

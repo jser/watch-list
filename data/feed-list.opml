@@ -292,6 +292,7 @@
 <outline text="github.com/vercel-labs/wterm" title="github.com/vercel-labs/wterm" type="rss" xmlUrl="https://github.com/vercel-labs/wterm/releases.atom"/>
 <outline text="github.com/PerryTS/perry" title="github.com/PerryTS/perry" type="rss" xmlUrl="https://github.com/PerryTS/perry/releases.atom"/>
 <outline text="github.com/endevco/aube" title="github.com/endevco/aube" type="rss" xmlUrl="https://github.com/endevco/aube/releases.atom"/>
+<outline text="github.com/rstackjs/connect-next" title="github.com/rstackjs/connect-next" type="rss" xmlUrl="https://github.com/rstackjs/connect-next/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
