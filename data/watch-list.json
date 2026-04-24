@@ -7588,5 +7588,19 @@
       "title": "TSRX | TypeScript Language Extension for Declarative UI",
       "url": "https://tsrx.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/rstackjs/connect-next",
+    "tags": [
+      "nodejs",
+      "library",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "rstackjs/connect-next: An actively maintained fork of Connect.",
+      "url": "https://github.com/rstackjs/connect-next"
+    },
+    "rssUrl": "https://github.com/rstackjs/connect-next/releases.atom"
   }
 ]
