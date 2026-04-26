@@ -92,7 +92,7 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -161,30 +161,6 @@
   },
   {
     "count": 13,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "babel",
-      "document",
-      "news",
-      "article",
-      "Native",
-      "Tools",
-      "Conference",
-      "Next.js",
-      "security",
-      "OpenSource",
-      "community",
-      "organization"
-    ],
-    "example": {
-      "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
-      "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
-    }
-  },
-  {
-    "count": 13,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -208,6 +184,30 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.58.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 12,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "babel",
+      "document",
+      "ReleaseNote",
+      "news",
+      "article",
+      "Native",
+      "Tools",
+      "Conference",
+      "Next.js",
+      "security",
+      "OpenSource",
+      "community",
+      "organization"
+    ],
+    "example": {
+      "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
+      "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
+    }
   },
   {
     "count": 12,
@@ -708,21 +708,6 @@
     "example": {
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
-    }
-  },
-  {
-    "count": 4,
-    "url": "https://reactnative.dev",
-    "tags": [
-      "React",
-      "iOS",
-      "Android",
-      "ReleaseNote",
-      "Native"
-    ],
-    "example": {
-      "title": "React Native 0.82 - A New Era · React Native",
-      "url": "https://reactnative.dev/blog/2025/10/08/react-native-0.82"
     }
   },
   {
@@ -1229,6 +1214,19 @@
     "example": {
       "title": "React Nativeの新アーキテクチャへの移行（2025年） - Shopify",
       "url": "https://shopify.engineering/react-native-new-architecture"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://reactnative.dev",
+    "tags": [
+      "React",
+      "Native",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "React Native 0.82 - A New Era · React Native",
+      "url": "https://reactnative.dev/blog/2025/10/08/react-native-0.82"
     }
   },
   {
@@ -1972,62 +1970,6 @@
     "example": {
       "title": "Webpack 5.106 | webpack",
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://jakearchibald.com",
-    "tags": [
-      "HTML",
-      "DOM",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "HTML attributes vs DOM properties - JakeArchibald.com",
-      "url": "https://jakearchibald.com/2024/attributes-vs-properties/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/LavaMoat/LavaDome",
-    "tags": [
-      "WebComponents",
-      "security",
-      "library"
-    ],
-    "example": {
-      "title": "LavaMoat/LavaDome: Secure DOM trees isolation and encapsulation leveraging ShadowDOM",
-      "url": "https://github.com/LavaMoat/LavaDome"
-    },
-    "rssUrl": "https://github.com/LavaMoat/LavaDome/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/quilljs/quill",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 2.0.0 · quilljs/quill",
-      "url": "https://github.com/quilljs/quill/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/quilljs/quill/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.apollographql.com",
-    "tags": [
-      "GraphQL",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "What’s new in Apollo Client 3.10 | Apollo GraphQL Blog",
-      "url": "https://www.apollographql.com/blog/whats-new-in-apollo-client-3-10"
     }
   },
   {
