@@ -615,18 +615,6 @@
     ]
   },
   {
-    "url": "https://github.com/LavaMoat/LavaDome",
-    "feeds": [
-      "https://github.com/LavaMoat/LavaDome/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/quilljs/quill",
-    "feeds": [
-      "https://github.com/quilljs/quill/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/remix-run/remix",
     "feeds": [
       "https://github.com/remix-run/remix/releases.atom"
@@ -1768,12 +1756,6 @@
     ]
   },
   {
-    "url": "https://jakearchibald.com",
-    "feeds": [
-      "https://jakearchibald.com/posts.rss"
-    ]
-  },
-  {
     "url": "https://jestjs.io",
     "feeds": [
       "https://jestjs.io/blog/rss.xml",
@@ -2357,12 +2339,6 @@
     "url": "https://www.angulararchitects.io",
     "feeds": [
       "https://www.angulararchitects.io/sample-page/feed/"
-    ]
-  },
-  {
-    "url": "https://www.apollographql.com",
-    "feeds": [
-      "https://www.apollographql.com/blog/rss.xml"
     ]
   },
   {

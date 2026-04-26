@@ -104,8 +104,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/LavaMoat/LavaDome" title="github.com/LavaMoat/LavaDome" type="rss" xmlUrl="https://github.com/LavaMoat/LavaDome/releases.atom"/>
-<outline text="github.com/quilljs/quill" title="github.com/quilljs/quill" type="rss" xmlUrl="https://github.com/quilljs/quill/releases.atom"/>
 <outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
 <outline text="github.com/jacob-ebey/turbo-stream" title="github.com/jacob-ebey/turbo-stream" type="rss" xmlUrl="https://github.com/jacob-ebey/turbo-stream/releases.atom"/>
 <outline text="github.com/sindresorhus/execa" title="github.com/sindresorhus/execa" type="rss" xmlUrl="https://github.com/sindresorhus/execa/releases.atom"/>
@@ -296,7 +294,6 @@
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
-<outline text="jakearchibald.com" title="jakearchibald.com" type="rss" xmlUrl="https://jakearchibald.com/posts.rss"/>
 <outline text="jestjs.io" title="jestjs.io" type="rss" xmlUrl="https://jestjs.io/blog/rss.xml"/>
 <outline text="jross.me" title="jross.me" type="rss" xmlUrl="https://jross.me/rss/"/>
 <outline text="kaminashi-developer.hatenablog.jp" title="kaminashi-developer.hatenablog.jp" type="rss" xmlUrl="https://kaminashi-developer.hatenablog.jp/feed"/>
@@ -388,7 +385,6 @@
 <outline text="willybrauner.com" title="willybrauner.com" type="rss" xmlUrl="https://willybrauner.com/rss.xml"/>
 <outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
 <outline text="www.angulararchitects.io" title="www.angulararchitects.io" type="rss" xmlUrl="https://www.angulararchitects.io/sample-page/feed/"/>
-<outline text="www.apollographql.com" title="www.apollographql.com" type="rss" xmlUrl="https://www.apollographql.com/blog/rss.xml"/>
 <outline text="www.assetnote.io" title="www.assetnote.io" type="rss" xmlUrl="https://www.assetnote.io/resources/research/rss.xml"/>
 <outline text="www.better-auth.com" title="www.better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
 <outline text="www.bram.us" title="www.bram.us" type="rss" xmlUrl="https://www.bram.us/feed/"/>
