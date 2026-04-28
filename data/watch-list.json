@@ -126,6 +126,24 @@
     }
   },
   {
+    "count": 16,
+    "url": "https://deno.com",
+    "tags": [
+      "dneo",
+      "ReleaseNote",
+      "deno",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Fresh 2.3: Zero JS by default, View Transitions, and Temporal support | Deno",
+      "url": "https://deno.com/blog/fresh-2.3"
+    }
+  },
+  {
     "count": 15,
     "url": "https://nextjs.org",
     "tags": [
@@ -139,24 +157,6 @@
     "example": {
       "title": "Next.js 16.2 | Next.js",
       "url": "https://nextjs.org/blog/next-16-2"
-    }
-  },
-  {
-    "count": 15,
-    "url": "https://deno.com",
-    "tags": [
-      "dneo",
-      "ReleaseNote",
-      "deno",
-      "article",
-      "browser",
-      "JavaScript",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.7: Temporal API, Windows ARM, and npm overrides | Deno",
-      "url": "https://deno.com/blog/v2.7"
     }
   },
   {
