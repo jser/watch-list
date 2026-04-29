@@ -38,15 +38,15 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 24,
+    "count": 25,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 11 RC 0 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0-rc.0"
+      "title": "Release pnpm 11 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
