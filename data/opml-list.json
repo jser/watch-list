@@ -1097,15 +1097,6 @@
     ]
   },
   {
-    "url": "https://www.moonbitlang.com",
-    "feeds": [
-      "https://www.moonbitlang.com/blog/rss.xml",
-      "https://www.moonbitlang.com/blog/atom.xml",
-      "https://www.moonbitlang.com/weekly-updates/rss.xml",
-      "https://www.moonbitlang.com/weekly-updates/atom.xml"
-    ]
-  },
-  {
     "url": "https://www.polarsignals.com",
     "feeds": [
       "https://www.polarsignals.com/rss.xml"
