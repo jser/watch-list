@@ -1974,33 +1974,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.moonbitlang.com",
-    "tags": [
-      "WebAssembly",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "MoonBit adds JS backend, up to 25x faster than native JS | MoonBit",
-      "url": "https://www.moonbitlang.com/blog/js-support"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://module-federation.io",
-    "tags": [
-      "JavaScript",
-      "webpack",
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcement of Release - Module federation",
-      "url": "https://module-federation.io/blog/announcement.html"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/remix-run/remix",
     "tags": [
       "Remix",
