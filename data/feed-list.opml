@@ -104,8 +104,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/remix-run/remix" title="github.com/remix-run/remix" type="rss" xmlUrl="https://github.com/remix-run/remix/releases.atom"/>
-<outline text="github.com/jacob-ebey/turbo-stream" title="github.com/jacob-ebey/turbo-stream" type="rss" xmlUrl="https://github.com/jacob-ebey/turbo-stream/releases.atom"/>
 <outline text="github.com/sindresorhus/execa" title="github.com/sindresorhus/execa" type="rss" xmlUrl="https://github.com/sindresorhus/execa/releases.atom"/>
 <outline text="github.com/jasonkuhrt/graphql-request" title="github.com/jasonkuhrt/graphql-request" type="rss" xmlUrl="https://github.com/jasonkuhrt/graphql-request/releases.atom"/>
 <outline text="github.com/farzher/fuzzysort" title="github.com/farzher/fuzzysort" type="rss" xmlUrl="https://github.com/farzher/fuzzysort/releases.atom"/>
@@ -291,6 +289,7 @@
 <outline text="github.com/PerryTS/perry" title="github.com/PerryTS/perry" type="rss" xmlUrl="https://github.com/PerryTS/perry/releases.atom"/>
 <outline text="github.com/endevco/aube" title="github.com/endevco/aube" type="rss" xmlUrl="https://github.com/endevco/aube/releases.atom"/>
 <outline text="github.com/rstackjs/connect-next" title="github.com/rstackjs/connect-next" type="rss" xmlUrl="https://github.com/rstackjs/connect-next/releases.atom"/>
+<outline text="github.com/avajs/ava" title="github.com/avajs/ava" type="rss" xmlUrl="https://github.com/avajs/ava/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
