@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -19,6 +19,19 @@
   },
   {
     "count": 25,
+    "url": "https://github.com/pnpm/pnpm",
+    "tags": [
+      "pnpm",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release pnpm 11 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0"
+    },
+    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
+  },
+  {
+    "count": 24,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -34,19 +47,6 @@
       "title": "Bun v1.2.20 | Bun Blog",
       "url": "https://bun.sh/blog/bun-v1.2.20"
     }
-  },
-  {
-    "count": 25,
-    "url": "https://github.com/pnpm/pnpm",
-    "tags": [
-      "pnpm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release pnpm 11 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0"
-    },
-    "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
     "count": 22,
@@ -346,20 +346,6 @@
   },
   {
     "count": 9,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "October 2, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
-    }
-  },
-  {
-    "count": 9,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "JavaScript",
@@ -401,6 +387,20 @@
     "example": {
       "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
       "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "October 2, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
     }
   },
   {
@@ -866,25 +866,6 @@
     "example": {
       "title": "Vitest 4.1 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-4-1.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://www.w3.org",
-    "tags": [
-      "WAI-ARIA",
-      "accessibility",
-      "document",
-      "web ",
-      "audio",
-      "spec",
-      "news",
-      "css",
-      "rlee"
-    ],
-    "example": {
-      "title": "Group Note: CSS Snapshot 2025 | 2025 | News | W3C",
-      "url": "https://www.w3.org/news/2025/group-note-css-snapshot-2025/"
     }
   },
   {
@@ -1650,6 +1631,22 @@
   },
   {
     "count": 2,
+    "url": "https://www.w3.org",
+    "tags": [
+      "web ",
+      "audio",
+      "spec",
+      "news",
+      "css",
+      "rlee"
+    ],
+    "example": {
+      "title": "Group Note: CSS Snapshot 2025 | 2025 | News | W3C",
+      "url": "https://www.w3.org/news/2025/group-note-css-snapshot-2025/"
+    }
+  },
+  {
+    "count": 2,
     "url": "https://github.com/nodejs/undici",
     "tags": [
       "nodejs",
@@ -1971,32 +1968,6 @@
       "title": "Webpack 5.106 | webpack",
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/remix-run/remix",
-    "tags": [
-      "Remix",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "remix/CHANGELOG.md at main · remix-run/remix",
-      "url": "https://github.com/remix-run/remix/blob/main/CHANGELOG.md#v290"
-    },
-    "rssUrl": "https://github.com/remix-run/remix/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jacob-ebey/turbo-stream",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "jacob-ebey/turbo-stream: A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more.",
-      "url": "https://github.com/jacob-ebey/turbo-stream"
-    },
-    "rssUrl": "https://github.com/jacob-ebey/turbo-stream/releases.atom"
   },
   {
     "count": 1,
@@ -7531,5 +7502,21 @@
       "title": "Trees, from Pierre",
       "url": "https://trees.software/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/avajs/ava",
+    "tags": [
+      "JavaScript",
+      "testing",
+      "nodejs",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v8.0.0 · avajs/ava",
+      "url": "https://github.com/avajs/ava/releases/tag/v8.0.0"
+    },
+    "rssUrl": "https://github.com/avajs/ava/releases.atom"
   }
 ]

@@ -615,18 +615,6 @@
     ]
   },
   {
-    "url": "https://github.com/remix-run/remix",
-    "feeds": [
-      "https://github.com/remix-run/remix/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jacob-ebey/turbo-stream",
-    "feeds": [
-      "https://github.com/jacob-ebey/turbo-stream/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/sindresorhus/execa",
     "feeds": [
       "https://github.com/sindresorhus/execa/releases.atom"
@@ -1734,6 +1722,12 @@
     "url": "https://github.com/rstackjs/connect-next",
     "feeds": [
       "https://github.com/rstackjs/connect-next/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/avajs/ava",
+    "feeds": [
+      "https://github.com/avajs/ava/releases.atom"
     ]
   },
   {
