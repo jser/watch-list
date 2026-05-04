@@ -292,12 +292,6 @@
     ]
   },
   {
-    "url": "https://dxcriteria.cto-a.org",
-    "feeds": [
-      "https://dxcriteria.cto-a.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://e18e.dev",
     "feeds": [
       "https://e18e.dev/blog.rss"
@@ -511,12 +505,6 @@
     "url": "https://medium.com/airbnb-engineering/",
     "feeds": [
       "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
-    "url": "https://medium.com/@nathanacurtis/",
-    "feeds": [
-      "https://medium.com/feed/@nathanacurtis"
     ]
   },
   {
