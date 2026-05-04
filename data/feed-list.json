@@ -292,12 +292,6 @@
     ]
   },
   {
-    "url": "https://dxcriteria.cto-a.org",
-    "feeds": [
-      "https://dxcriteria.cto-a.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://e18e.dev",
     "feeds": [
       "https://e18e.dev/blog.rss"
@@ -447,12 +441,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/react",
-    "feeds": [
-      "https://github.com/facebook/react/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
@@ -564,6 +552,12 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {
@@ -1855,12 +1849,6 @@
     "url": "https://medium.com/airbnb-engineering/",
     "feeds": [
       "https://medium.com/feed/airbnb-engineering"
-    ]
-  },
-  {
-    "url": "https://medium.com/@nathanacurtis/",
-    "feeds": [
-      "https://medium.com/feed/@nathanacurtis"
     ]
   },
   {

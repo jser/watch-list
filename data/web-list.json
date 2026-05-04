@@ -298,27 +298,6 @@
   },
   {
     "count": 10,
-    "url": "https://web.dev",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "article",
-      "CSS",
-      "css ",
-      "browser",
-      "performance",
-      "Unicode",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    },
-    "rssUrl": "https://web.dev/static/blog/feed.xml"
-  },
-  {
-    "count": 10,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -376,6 +355,26 @@
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
+    "count": 9,
+    "url": "https://web.dev",
+    "tags": [
+      "CSS",
+      "article",
+      "css ",
+      "browser",
+      "performance",
+      "Unicode",
+      "JavaScript",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
+    },
+    "rssUrl": "https://web.dev/static/blog/feed.xml"
+  },
+  {
     "count": 8,
     "url": "https://remix.run",
     "tags": [
@@ -420,26 +419,6 @@
       "title": "October 2, 2025 Release – React Spectrum Releases",
       "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
     }
-  },
-  {
-    "count": 7,
-    "url": "https://frontendmasters.com",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "book",
-      "DOM",
-      "performance",
-      "article",
-      "React",
-      "css"
-    ],
-    "example": {
-      "title": "Perfectly Pointed Tooltips: A Foundation – Frontend Masters Blog",
-      "url": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-a-foundation/"
-    },
-    "rssUrl": "https://frontendmasters.com/blog/feed/"
   },
   {
     "count": 7,
@@ -512,6 +491,23 @@
       "url": "https://socket.dev/blog/tc39-advances-temporal-to-stage-4?utm_medium=feed"
     },
     "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://frontendmasters.com",
+    "tags": [
+      "DOM",
+      "performance",
+      "article",
+      "JavaScript",
+      "React",
+      "css"
+    ],
+    "example": {
+      "title": "Perfectly Pointed Tooltips: A Foundation – Frontend Masters Blog",
+      "url": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-a-foundation/"
+    },
+    "rssUrl": "https://frontendmasters.com/blog/feed/"
   },
   {
     "count": 6,
@@ -904,20 +900,6 @@
       "title": "Vitest 4.1 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-4-1.html"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "ESLint"
-    ],
-    "example": {
-      "title": "Release 19.1.0 (March 28, 2025) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/v19.1.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 3,
@@ -1325,35 +1307,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.smashingmagazine.com",
-    "tags": [
-      "HTML",
-      "CSS",
-      "article",
-      "i18n",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization — Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/"
-    },
-    "rssUrl": "https://www.smashingmagazine.com/feed/"
-  },
-  {
-    "count": 2,
-    "url": "https://svelte.dev",
-    "tags": [
-      "Svelte",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Svelte 5 is alive",
-      "url": "https://svelte.dev/blog/svelte-5-is-alive"
-    },
-    "rssUrl": "https://svelte.dev/blog/rss.xml"
-  },
-  {
-    "count": 2,
     "url": "https://zenn.dev/morinokami/",
     "tags": [
       "nodejs",
@@ -1618,6 +1571,20 @@
       "url": "https://github.com/solidjs/solid/releases/tag/v2.0.0-beta.0"
     },
     "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "React"
+    ],
+    "example": {
+      "title": "Release 19.1.0 (March 28, 2025) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/v19.1.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 2,
@@ -2042,32 +2009,6 @@
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     },
     "rssUrl": "https://webpack.js.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://medium.com/@nathanacurtis/",
-    "tags": [
-      "Design",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Design System Generations. How to discuss and describe a design… | by Nathan Curtis | Medium",
-      "url": "https://medium.com/@nathanacurtis/design-system-generations-65f99960dc3d"
-    },
-    "rssUrl": "https://medium.com/feed/@nathanacurtis"
-  },
-  {
-    "count": 1,
-    "url": "https://dxcriteria.cto-a.org",
-    "tags": [
-      "document"
-    ],
-    "example": {
-      "title": "Webフロントエンド版DX Criteria (v202402)/プロダクトのユーザー体験と変化に適応するチームのためのガイドライン",
-      "url": "https://dxcriteria.cto-a.org/frontend"
-    },
-    "rssUrl": "https://dxcriteria.cto-a.org/feed.xml"
   },
   {
     "count": 1,
@@ -3619,6 +3560,19 @@
       "url": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file"
     },
     "rssUrl": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://svelte.dev",
+    "tags": [
+      "Svelte",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Svelte 5 is alive",
+      "url": "https://svelte.dev/blog/svelte-5-is-alive"
+    },
+    "rssUrl": "https://svelte.dev/blog/rss.xml"
   },
   {
     "count": 1,
@@ -5856,6 +5810,20 @@
       "url": "https://github.com/adamhl8/filterql"
     },
     "rssUrl": "https://github.com/adamhl8/filterql/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.smashingmagazine.com",
+    "tags": [
+      "i18n",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/"
+    },
+    "rssUrl": "https://www.smashingmagazine.com/feed/"
   },
   {
     "count": 1,
