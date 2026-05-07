@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -13,8 +13,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — Node.js 26.0.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.0.0"
+      "title": "Node.js — End-Of-Life",
+      "url": "https://nodejs.org/en/about/eol"
     }
   },
   {
