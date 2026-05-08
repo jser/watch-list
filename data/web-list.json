@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -13,8 +13,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — End-Of-Life",
-      "url": "https://nodejs.org/en/about/eol"
+      "title": "Node.js — Node.js 26.1.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.1.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -51,6 +51,30 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
+    "count": 23,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "CSS",
+      "article",
+      "Chrome",
+      "debug",
+      "LanguageModel",
+      "ReleaseNote",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP",
+      "browser",
+      "news"
+    ],
+    "example": {
+      "title": "Chrome 148  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/148"
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
+  },
+  {
     "count": 22,
     "url": "https://webkit.org",
     "tags": [
@@ -70,30 +94,6 @@
       "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/"
     },
     "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 22,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "CSS",
-      "article",
-      "Chrome",
-      "debug",
-      "LanguageModel",
-      "ReleaseNote",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP",
-      "browser",
-      "news"
-    ],
-    "example": {
-      "title": "Get features faster with Chrome's two-week release cycle  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
-    },
-    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 20,
@@ -341,21 +341,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.25.11 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -389,6 +374,19 @@
       "url": "https://remix.run/blog/oss-remix-store"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "esbuild",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.25.11 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 8,
