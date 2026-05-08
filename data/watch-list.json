@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -13,8 +13,8 @@
       "nodfe"
     ],
     "example": {
-      "title": "Node.js — End-Of-Life",
-      "url": "https://nodejs.org/en/about/eol"
+      "title": "Node.js — Node.js 26.1.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.1.0"
     }
   },
   {
@@ -49,27 +49,7 @@
     }
   },
   {
-    "count": 22,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "webkit",
-      "privacy",
-      "article",
-      "css",
-      "browser",
-      "CSS",
-      "WebTransport",
-      "WebAuthentication"
-    ],
-    "example": {
-      "title": "WebKit Features for Safari 26.4 | WebKit",
-      "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/"
-    }
-  },
-  {
-    "count": 22,
+    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "CSS",
@@ -87,8 +67,28 @@
       "news"
     ],
     "example": {
-      "title": "Get features faster with Chrome's two-week release cycle  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-two-week-release?hl=en"
+      "title": "Chrome 148  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/148"
+    }
+  },
+  {
+    "count": 22,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "webkit",
+      "privacy",
+      "article",
+      "css",
+      "browser",
+      "CSS",
+      "WebTransport",
+      "WebAuthentication"
+    ],
+    "example": {
+      "title": "WebKit Features for Safari 26.4 | WebKit",
+      "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/"
     }
   },
   {
@@ -326,21 +326,6 @@
   },
   {
     "count": 9,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "esbuild"
-    ],
-    "example": {
-      "title": "Release v0.25.11 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 9,
     "url": "https://web.dev",
     "tags": [
       "CSS",
@@ -372,6 +357,19 @@
       "title": "Open Sourcing the Remix Store | Remix",
       "url": "https://remix.run/blog/oss-remix-store"
     }
+  },
+  {
+    "count": 8,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "esbuild",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.25.11 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 8,
