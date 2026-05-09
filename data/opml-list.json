@@ -1156,12 +1156,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/uhyo/",
     "feeds": [
       "https://zenn.dev/uhyo/feed"
@@ -1231,6 +1225,12 @@
     "url": "https://zenn.dev/thiry/",
     "feeds": [
       "https://zenn.dev/thiry/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
     ]
   },
   {

@@ -228,6 +228,18 @@
   },
   {
     "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 42 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-42-0"
+    }
+  },
+  {
+    "count": 12,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -239,18 +251,6 @@
     "example": {
       "title": "Bun v1.3.13 | Bun Blog",
       "url": "https://bun.com/blog/bun-v1.3.13"
-    }
-  },
-  {
-    "count": 11,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 41.0 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-41-0"
     }
   },
   {
@@ -402,20 +402,6 @@
   },
   {
     "count": 7,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "Hono",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v4.12.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 7,
     "url": "https://www.youtube.com",
     "tags": [
       "JavaScript",
@@ -465,6 +451,20 @@
       "title": "Astro 6.0 | Astro",
       "url": "https://astro.build/blog/astro-6/"
     }
+  },
+  {
+    "count": 6,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "Hono",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v4.12.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 6,
@@ -706,22 +706,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "test",
-      "ReleaseNote",
-      "library",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://tailwindcss.com",
     "tags": [
       "React",
@@ -928,6 +912,22 @@
       "title": "Accelerating Large-Scale Test Migration with LLMs | by Charles Covey-Brandt | The Airbnb Tech Blog | Mar, 2025 | Medium",
       "url": "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b"
     }
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "test",
+      "library",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 3,
@@ -1254,19 +1254,6 @@
     "example": {
       "title": "React Server Components Your Way | TanStack Blog",
       "url": "https://tanstack.com/blog/react-server-components"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/morinokami/",
-    "tags": [
-      "nodejs",
-      "article",
-      "astro"
-    ],
-    "example": {
-      "title": "Next.js PPR と比較して理解する Astro Server Islands",
-      "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
     }
   },
   {
@@ -3949,6 +3936,18 @@
     "example": {
       "title": "Termo - An Easy to use terminal for your browser",
       "url": "https://termo.rajnandan.com/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/morinokami/",
+    "tags": [
+      "astro",
+      "article"
+    ],
+    "example": {
+      "title": "Next.js PPR と比較して理解する Astro Server Islands",
+      "url": "https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr"
     }
   },
   {
@@ -7486,5 +7485,19 @@
       "url": "https://github.com/avajs/ava/releases/tag/v8.0.0"
     },
     "rssUrl": "https://github.com/avajs/ava/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jestjs/jest",
+    "tags": [
+      "jest",
+      "test",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v30.4.0 · jestjs/jest",
+      "url": "https://github.com/jestjs/jest/releases/tag/v30.4.0"
+    },
+    "rssUrl": "https://github.com/jestjs/jest/releases.atom"
   }
 ]
