@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
@@ -456,6 +450,12 @@
     "url": "https://github.com/chakra-ui/ark",
     "feeds": [
       "https://github.com/chakra-ui/ark/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
     ]
   },
   {
@@ -1725,6 +1725,12 @@
     ]
   },
   {
+    "url": "https://github.com/jestjs/jest",
+    "feeds": [
+      "https://github.com/jestjs/jest/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2506,12 +2512,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/morinokami/",
-    "feeds": [
-      "https://zenn.dev/morinokami/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/uhyo/",
     "feeds": [
       "https://zenn.dev/uhyo/feed"
@@ -2581,6 +2581,12 @@
     "url": "https://zenn.dev/thiry/",
     "feeds": [
       "https://zenn.dev/thiry/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/morinokami/",
+    "feeds": [
+      "https://zenn.dev/morinokami/feed"
     ]
   },
   {
