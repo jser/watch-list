@@ -417,6 +417,12 @@
     ]
   },
   {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
@@ -438,12 +444,6 @@
     "url": "https://github.com/google/zx",
     "feeds": [
       "https://github.com/google/zx/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {

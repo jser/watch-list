@@ -51,7 +51,7 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://developer.chrome.com",
     "tags": [
       "CSS",
@@ -69,8 +69,8 @@
       "news"
     ],
     "example": {
-      "title": "Chrome 148  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/148"
+      "title": "Chrome 149 beta  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -584,6 +584,25 @@
   },
   {
     "count": 6,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article",
+      "ReleaseNote",
+      "rollup",
+      "bundler",
+      "CLI",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing Rolldown 1.0 | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-rolldown-1-0"
+    },
+    "rssUrl": "https://voidzero.dev/feed.xml"
+  },
+  {
+    "count": 6,
     "url": "https://rspack.rs",
     "tags": [
       "rspack",
@@ -707,25 +726,6 @@
   },
   {
     "count": 5,
-    "url": "https://voidzero.dev",
-    "tags": [
-      "vite",
-      "Rust",
-      "article",
-      "ReleaseNote",
-      "rollup",
-      "bundler",
-      "CLI",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing Vite+ Alpha | VoidZero",
-      "url": "https://voidzero.dev/posts/announcing-vite-plus-alpha"
-    },
-    "rssUrl": "https://voidzero.dev/feed.xml"
-  },
-  {
-    "count": 5,
     "url": "https://www.firefox.com",
     "tags": [
       "Firefox",
@@ -752,6 +752,22 @@
       "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
     },
     "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "library",
+      "JavaScript",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v1.16.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.16.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 4,
@@ -899,22 +915,6 @@
       "url": "https://github.com/google/zx/releases/tag/8.5.0"
     },
     "rssUrl": "https://github.com/google/zx/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "JavaScript",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release Release v1.9.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.9.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 3,
