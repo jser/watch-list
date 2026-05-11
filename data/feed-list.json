@@ -519,12 +519,6 @@
     ]
   },
   {
-    "url": "https://github.com/mswjs/msw",
-    "feeds": [
-      "https://github.com/mswjs/msw/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/biomejs/biome",
     "feeds": [
       "https://github.com/biomejs/biome/releases.atom"
@@ -852,6 +846,12 @@
     "url": "https://github.com/pmndrs/zustand",
     "feeds": [
       "https://github.com/pmndrs/zustand/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/mswjs/msw",
+    "feeds": [
+      "https://github.com/mswjs/msw/releases.atom"
     ]
   },
   {
@@ -1731,6 +1731,12 @@
     ]
   },
   {
+    "url": "https://github.com/fabon-f/temporal-polyfill-lite",
+    "feeds": [
+      "https://github.com/fabon-f/temporal-polyfill-lite/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2545,12 +2551,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/knowledgework/",
-    "feeds": [
-      "https://zenn.dev/p/knowledgework/feed"
     ]
   },
   {
