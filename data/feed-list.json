@@ -603,12 +603,6 @@
     ]
   },
   {
-    "url": "https://github.com/sindresorhus/execa",
-    "feeds": [
-      "https://github.com/sindresorhus/execa/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jasonkuhrt/graphql-request",
     "feeds": [
       "https://github.com/jasonkuhrt/graphql-request/releases.atom"
@@ -1734,6 +1728,12 @@
     "url": "https://github.com/fabon-f/temporal-polyfill-lite",
     "feeds": [
       "https://github.com/fabon-f/temporal-polyfill-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/open-circle/formisch",
+    "feeds": [
+      "https://github.com/open-circle/formisch/releases.atom"
     ]
   },
   {

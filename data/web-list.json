@@ -1981,19 +1981,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/sindresorhus/execa",
-    "tags": [
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.0.0 · sindresorhus/execa",
-      "url": "https://github.com/sindresorhus/execa/releases/tag/v9.0.0"
-    },
-    "rssUrl": "https://github.com/sindresorhus/execa/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://www.bram.us",
     "tags": [
       "CSS",
@@ -7724,5 +7711,22 @@
       "url": "https://github.com/fabon-f/temporal-polyfill-lite"
     },
     "rssUrl": "https://github.com/fabon-f/temporal-polyfill-lite/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/open-circle/formisch",
+    "tags": [
+      "library",
+      "React",
+      "Vue",
+      "Svelte",
+      "Solid",
+      "TypeScript"
+    ],
+    "example": {
+      "title": "open-circle/formisch: The lightweight, schema-first, and fully type-safe form library for React, Solid, Vue, Svelte and more.",
+      "url": "https://github.com/open-circle/formisch"
+    },
+    "rssUrl": "https://github.com/open-circle/formisch/releases.atom"
   }
 ]
