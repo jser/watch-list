@@ -603,12 +603,6 @@
     ]
   },
   {
-    "url": "https://github.com/jasonkuhrt/graphql-request",
-    "feeds": [
-      "https://github.com/jasonkuhrt/graphql-request/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/farzher/fuzzysort",
     "feeds": [
       "https://github.com/farzher/fuzzysort/releases.atom"
@@ -2349,25 +2343,9 @@
     ]
   },
   {
-    "url": "https://www.bram.us",
-    "feeds": [
-      "https://www.bram.us/feed/",
-      "https://www.bram.us/comments/feed/",
-      "https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/feed/",
-      "https://www.bram.us/category/original-content/feed/",
-      "https://www.bram.us/category/elsewhere/feed/"
-    ]
-  },
-  {
     "url": "https://www.charpeni.com",
     "feeds": [
       "https://www.charpeni.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.checklyhq.com",
-    "feeds": [
-      "https://www.checklyhq.com/rss.xml"
     ]
   },
   {
