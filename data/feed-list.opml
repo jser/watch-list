@@ -102,7 +102,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/jasonkuhrt/graphql-request" title="github.com/jasonkuhrt/graphql-request" type="rss" xmlUrl="https://github.com/jasonkuhrt/graphql-request/releases.atom"/>
 <outline text="github.com/farzher/fuzzysort" title="github.com/farzher/fuzzysort" type="rss" xmlUrl="https://github.com/farzher/fuzzysort/releases.atom"/>
 <outline text="github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file" title="github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/twada/power-assert-monorepo" title="github.com/twada/power-assert-monorepo" type="rss" xmlUrl="https://github.com/twada/power-assert-monorepo/releases.atom"/>
@@ -386,9 +385,7 @@
 <outline text="www.angulararchitects.io" title="www.angulararchitects.io" type="rss" xmlUrl="https://www.angulararchitects.io/sample-page/feed/"/>
 <outline text="www.assetnote.io" title="www.assetnote.io" type="rss" xmlUrl="https://www.assetnote.io/resources/research/rss.xml"/>
 <outline text="www.better-auth.com" title="www.better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
-<outline text="www.bram.us" title="www.bram.us" type="rss" xmlUrl="https://www.bram.us/feed/"/>
 <outline text="www.charpeni.com" title="www.charpeni.com" type="rss" xmlUrl="https://www.charpeni.com/blog/rss.xml"/>
-<outline text="www.checklyhq.com" title="www.checklyhq.com" type="rss" xmlUrl="https://www.checklyhq.com/rss.xml"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
 <outline text="www.developerway.com" title="www.developerway.com" type="rss" xmlUrl="https://www.developerway.com/rss.xml"/>
 <outline text="www.electronjs.org" title="www.electronjs.org" type="rss" xmlUrl="https://www.electronjs.org/blog/rss.xml"/>

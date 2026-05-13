@@ -19,36 +19,17 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 25,
+    "count": 26,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 11 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.0.0"
+      "title": "Release pnpm 11.1 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.1.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 24,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bum",
-      "V8",
-      "webkit",
-      "C++",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 24,
@@ -73,6 +54,25 @@
       "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
+  },
+  {
+    "count": 23,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bum",
+      "V8",
+      "webkit",
+      "C++",
+      "article",
+      "css"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 22,
@@ -237,6 +237,20 @@
   },
   {
     "count": 12,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.60.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.60.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 12,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -250,20 +264,6 @@
       "url": "https://bun.com/blog/bun-v1.3.13"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 11,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.58.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.58.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -738,23 +738,6 @@
   },
   {
     "count": 4,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "css ",
-      "css",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
-    },
-    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
@@ -898,6 +881,29 @@
       "title": "Vitest 4.1 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-4-1.html"
     }
+  },
+  {
+    "count": 4,
+    "url": "https://tanstack.com",
+    "tags": [
+      "JavaScript",
+      "database",
+      "HTTP",
+      "article",
+      "React",
+      "Solid",
+      "ReleaseNote",
+      "RSC",
+      "TanStack",
+      "npm",
+      "security",
+      "Actions"
+    ],
+    "example": {
+      "title": "Postmortem: TanStack npm supply-chain compromise | TanStack Blog",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
+    },
+    "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
   },
   {
     "count": 3,
@@ -1174,6 +1180,22 @@
   },
   {
     "count": 3,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "css ",
+      "ReleaseNote",
+      "library",
+      "css",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+    },
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 3,
     "url": "https://github.com/chakra-ui/panda",
     "tags": [
       "pandacs",
@@ -1282,41 +1304,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://tanstack.com",
-    "tags": [
-      "JavaScript",
-      "database",
-      "HTTP",
-      "article",
-      "React",
-      "Solid",
-      "ReleaseNote",
-      "RSC",
-      "TanStack"
-    ],
-    "example": {
-      "title": "React Server Components Your Way | TanStack Blog",
-      "url": "https://tanstack.com/blog/react-server-components"
-    },
-    "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
-  },
-  {
-    "count": 2,
-    "url": "https://kettanaito.com",
-    "tags": [
-      "Fetch",
-      "JavaScript",
-      "article",
-      "opinion"
-    ],
-    "example": {
-      "title": "Don't Sleep on AbortController - kettanaito.com",
-      "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller"
-    },
-    "rssUrl": "https://kettanaito.com/blog/rss.xml"
   },
   {
     "count": 2,
@@ -1978,47 +1965,6 @@
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     },
     "rssUrl": "https://webpack.js.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.bram.us",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Misconceptions about CSS Specificity – Bram.us",
-      "url": "https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/"
-    },
-    "rssUrl": "https://www.bram.us/feed/"
-  },
-  {
-    "count": 1,
-    "url": "https://www.checklyhq.com",
-    "tags": [
-      "browser",
-      "test",
-      "article"
-    ],
-    "example": {
-      "title": "Monitor Third-Party Resources that Impact UX with Playwright",
-      "url": "https://www.checklyhq.com/blog/how-playwright-can-monitor-third-party-resources/"
-    },
-    "rssUrl": "https://www.checklyhq.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/jasonkuhrt/graphql-request",
-    "tags": [
-      "GraphQL",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · jasonkuhrt/graphql-request",
-      "url": "https://github.com/jasonkuhrt/graphql-request/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/jasonkuhrt/graphql-request/releases.atom"
   },
   {
     "count": 1,
@@ -3241,6 +3187,19 @@
       "url": "https://github.com/paulmillr/chokidar/releases/tag/4.0.0"
     },
     "rssUrl": "https://github.com/paulmillr/chokidar/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://kettanaito.com",
+    "tags": [
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Don't Sleep on AbortController - kettanaito.com",
+      "url": "https://kettanaito.com/blog/dont-sleep-on-abort-controller"
+    },
+    "rssUrl": "https://kettanaito.com/blog/rss.xml"
   },
   {
     "count": 1,
