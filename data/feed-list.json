@@ -1731,6 +1731,12 @@
     ]
   },
   {
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "feeds": [
+      "https://github.com/voidzero-dev/vite-plus/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
