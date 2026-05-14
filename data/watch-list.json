@@ -72,12 +72,12 @@
     }
   },
   {
-    "count": 22,
+    "count": 21,
     "url": "https://webkit.org",
     "tags": [
+      "webkit",
       "safari",
       "ReleaseNote",
-      "webkit",
       "privacy",
       "article",
       "css",
@@ -7484,5 +7484,20 @@
       "url": "https://github.com/open-circle/formisch"
     },
     "rssUrl": "https://github.com/open-circle/formisch/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "tags": [
+      "vite",
+      "CLI",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release vite-plus v0.1.21 — Create, Migrate & Local CLI Power-Up · voidzero-dev/vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.1.21"
+    },
+    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
   }
 ]

@@ -290,6 +290,7 @@
 <outline text="github.com/jestjs/jest" title="github.com/jestjs/jest" type="rss" xmlUrl="https://github.com/jestjs/jest/releases.atom"/>
 <outline text="github.com/fabon-f/temporal-polyfill-lite" title="github.com/fabon-f/temporal-polyfill-lite" type="rss" xmlUrl="https://github.com/fabon-f/temporal-polyfill-lite/releases.atom"/>
 <outline text="github.com/open-circle/formisch" title="github.com/open-circle/formisch" type="rss" xmlUrl="https://github.com/open-circle/formisch/releases.atom"/>
+<outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
