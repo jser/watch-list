@@ -2330,12 +2330,6 @@
     ]
   },
   {
-    "url": "https://www.angulararchitects.io",
-    "feeds": [
-      "https://www.angulararchitects.io/sample-page/feed/"
-    ]
-  },
-  {
     "url": "https://www.assetnote.io",
     "feeds": [
       "https://www.assetnote.io/resources/research/rss.xml"

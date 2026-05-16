@@ -361,22 +361,6 @@
   },
   {
     "count": 8,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "Remix",
-      "article",
-      "ReleaseNote",
-      "Conference"
-    ],
-    "example": {
-      "title": "Open Sourcing the Remix Store | Remix",
-      "url": "https://remix.run/blog/oss-remix-store"
-    },
-    "rssUrl": "https://remix.run/blog/rss.xml"
-  },
-  {
-    "count": 8,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
       "esbuild",
@@ -456,6 +440,22 @@
       "url": "https://stylexjs.com/blog/v0.18"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://remix.run",
+    "tags": [
+      "React",
+      "Remix",
+      "ReleaseNote",
+      "article",
+      "Conference"
+    ],
+    "example": {
+      "title": "Open Sourcing the Remix Store | Remix",
+      "url": "https://remix.run/blog/oss-remix-store"
+    },
+    "rssUrl": "https://remix.run/blog/rss.xml"
   },
   {
     "count": 6,
@@ -1965,19 +1965,6 @@
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     },
     "rssUrl": "https://webpack.js.org/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.angulararchitects.io",
-    "tags": [
-      "Angular",
-      "article"
-    ],
-    "example": {
-      "title": "Angular 17 Update: Control Flow & App Builder Migration - ANGULARarchitects",
-      "url": "https://www.angulararchitects.io/blog/angular-17-update-control-flow-app-builder-migration/"
-    },
-    "rssUrl": "https://www.angulararchitects.io/sample-page/feed/"
   },
   {
     "count": 1,
