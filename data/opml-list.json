@@ -400,6 +400,12 @@
     ]
   },
   {
+    "url": "https://jadjoubran.io",
+    "feeds": [
+      "https://jadjoubran.io/rss.xml"
+    ]
+  },
+  {
     "url": "https://jestjs.io",
     "feeds": [
       "https://jestjs.io/blog/rss.xml",

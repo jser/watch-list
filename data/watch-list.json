@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -160,6 +160,21 @@
     }
   },
   {
+    "count": 13,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news"
+    ],
+    "example": {
+      "title": "Bun v1.3.14 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.3.14"
+    }
+  },
+  {
     "count": 12,
     "url": "https://react.dev",
     "tags": [
@@ -237,21 +252,6 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.60.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 12,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun v1.3.13 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.13"
-    }
   },
   {
     "count": 11,
@@ -1894,18 +1894,6 @@
     "example": {
       "title": "Webpack 5.106 | webpack",
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://webstatus.dev",
-    "tags": [
-      "browser",
-      "webservice"
-    ],
-    "example": {
-      "title": "Web Platform Status",
-      "url": "https://webstatus.dev/"
     }
   },
   {
@@ -7487,5 +7475,35 @@
       "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.1.21"
     },
     "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://jadjoubran.io",
+    "tags": [
+      "WebPlatformAPI",
+      "JavaScript",
+      "library",
+      "history",
+      "article"
+    ],
+    "example": {
+      "title": "9 Times the Web Platform Was Influenced by Libraries | Jad Joubran",
+      "url": "https://jadjoubran.io/blog/web-platform-influenced-by-libraries"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tmikov/hermes-node",
+    "tags": [
+      "nodejs",
+      "JavaScript",
+      "TypeScript",
+      "library"
+    ],
+    "example": {
+      "title": "tmikov/hermes-node: Node.js built-in module compatibility layer for the Hermes JS engine",
+      "url": "https://github.com/tmikov/hermes-node"
+    },
+    "rssUrl": "https://github.com/tmikov/hermes-node/releases.atom"
   }
 ]

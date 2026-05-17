@@ -1737,6 +1737,12 @@
     ]
   },
   {
+    "url": "https://github.com/tmikov/hermes-node",
+    "feeds": [
+      "https://github.com/tmikov/hermes-node/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1753,6 +1759,12 @@
     "url": "https://ishadeed.com",
     "feeds": [
       "https://ishadeed.com/feed.xml"
+    ]
+  },
+  {
+    "url": "https://jadjoubran.io",
+    "feeds": [
+      "https://jadjoubran.io/rss.xml"
     ]
   },
   {
