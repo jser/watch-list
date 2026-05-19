@@ -59,7 +59,6 @@
 <outline text="evanhahn.com" title="evanhahn.com" type="rss" xmlUrl="https://evanhahn.com/blog/index.xml"/>
 <outline text="evilmartians.com" title="evilmartians.com" type="rss" xmlUrl="https://evilmartians.com/chronicles.atom"/>
 <outline text="expressjs.com" title="expressjs.com" type="rss" xmlUrl="https://expressjs.com/feed.xml"/>
-<outline text="firebase.blog" title="firebase.blog" type="rss" xmlUrl="https://firebase.blog/rss.xml"/>
 <outline text="forums.meteor.com" title="forums.meteor.com" type="rss" xmlUrl="https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
 <outline text="fumadocs.dev" title="fumadocs.dev" type="rss" xmlUrl="https://fumadocs.dev/blog/rss.xml"/>
@@ -157,7 +156,6 @@
 <outline text="webpack.js.org" title="webpack.js.org" type="rss" xmlUrl="https://webpack.js.org/feed.xml"/>
 <outline text="willybrauner.com" title="willybrauner.com" type="rss" xmlUrl="https://willybrauner.com/rss.xml"/>
 <outline text="workos.com" title="workos.com" type="rss" xmlUrl="https://workos.com/blog/rss.xml"/>
-<outline text="www.assetnote.io" title="www.assetnote.io" type="rss" xmlUrl="https://www.assetnote.io/resources/research/rss.xml"/>
 <outline text="www.better-auth.com" title="www.better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
 <outline text="www.charpeni.com" title="www.charpeni.com" type="rss" xmlUrl="https://www.charpeni.com/blog/rss.xml"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>
