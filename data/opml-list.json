@@ -344,12 +344,6 @@
     ]
   },
   {
-    "url": "https://firebase.blog",
-    "feeds": [
-      "https://firebase.blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://forums.meteor.com",
     "feeds": [
       "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"
@@ -971,12 +965,6 @@
     "url": "https://workos.com",
     "feeds": [
       "https://workos.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.assetnote.io",
-    "feeds": [
-      "https://www.assetnote.io/resources/research/rss.xml"
     ]
   },
   {
