@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -10,11 +10,13 @@
       "TypeScript",
       "news",
       "rlee",
-      "nodfe"
+      "nodfe",
+      "Fetch",
+      "HTTP"
     ],
     "example": {
-      "title": "Node.js — Node.js 26.1.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.1.0"
+      "title": "Node.js — Axios to WHATWG Fetch",
+      "url": "https://nodejs.org/en/blog/migrations/axios-to-fetch"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -30,30 +32,6 @@
       "url": "https://github.com/pnpm/pnpm/releases/tag/v11.1.3"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
-  },
-  {
-    "count": 24,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "CSS",
-      "article",
-      "Chrome",
-      "debug",
-      "LanguageModel",
-      "ReleaseNote",
-      "Firefox",
-      "puppeteer",
-      "HTML",
-      "css",
-      "MCP",
-      "browser",
-      "news"
-    ],
-    "example": {
-      "title": "Chrome 149 beta  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
-    },
-    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 23,
@@ -73,6 +51,29 @@
       "url": "https://bun.sh/blog/bun-v1.2.20"
     },
     "rssUrl": "https://bun.sh/rss.xml"
+  },
+  {
+    "count": 23,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "debug",
+      "LanguageModel",
+      "article",
+      "ReleaseNote",
+      "Firefox",
+      "puppeteer",
+      "HTML",
+      "css",
+      "MCP",
+      "browser",
+      "news"
+    ],
+    "example": {
+      "title": "Chrome 149 beta  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
+    },
+    "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
     "count": 21,
@@ -185,31 +186,6 @@
   },
   {
     "count": 12,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "babel",
-      "document",
-      "ReleaseNote",
-      "news",
-      "article",
-      "Native",
-      "Tools",
-      "Conference",
-      "Next.js",
-      "security",
-      "OpenSource",
-      "community",
-      "organization"
-    ],
-    "example": {
-      "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
-      "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
-    },
-    "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 12,
     "url": "https://www.mozilla.org",
     "tags": [
       "Firefox",
@@ -295,6 +271,30 @@
       "url": "https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/"
     },
     "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 11,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "ReleaseNote",
+      "news",
+      "article",
+      "document",
+      "Native",
+      "Tools",
+      "Conference",
+      "Next.js",
+      "security",
+      "OpenSource",
+      "community",
+      "organization"
+    ],
+    "example": {
+      "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
+      "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
+    },
+    "rssUrl": "https://react.dev/rss.xml"
   },
   {
     "count": 10,
@@ -738,22 +738,6 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "library",
-      "JavaScript",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v1.16.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.16.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 4,
     "url": "https://blog.platformatic.dev",
     "tags": [
       "nodejs",
@@ -1084,6 +1068,22 @@
       "url": "https://ishadeed.com/article/anchor-positioning/"
     },
     "rssUrl": "https://ishadeed.com/feed.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "HTTP",
+      "security",
+      "library",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release v1.16.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.16.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
   },
   {
     "count": 3,
@@ -1967,18 +1967,18 @@
     "rssUrl": "https://webpack.js.org/feed.xml"
   },
   {
-    "count": 1,
-    "url": "https://github.com/farzher/fuzzysort",
+    "count": 2,
+    "url": "https://www.stepsecurity.io",
     "tags": [
-      "JavaScript",
-      "search",
-      "library"
+      "npm",
+      "security",
+      "article"
     ],
     "example": {
-      "title": "farzher/fuzzysort: Fast SublimeText-like fuzzy search for JavaScript.",
-      "url": "https://github.com/farzher/fuzzysort"
+      "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
+      "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
-    "rssUrl": "https://github.com/farzher/fuzzysort/releases.atom"
+    "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
   },
   {
     "count": 1,
@@ -7342,20 +7342,6 @@
   },
   {
     "count": 1,
-    "url": "https://www.stepsecurity.io",
-    "tags": [
-      "npm",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
-    },
-    "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/Pagefind/pagefind",
     "tags": [
       "Rust",
@@ -7667,5 +7653,20 @@
       "url": "https://github.com/tmikov/hermes-node"
     },
     "rssUrl": "https://github.com/tmikov/hermes-node/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nkzw-tech/fate",
+    "tags": [
+      "React",
+      "library",
+      "TypeScript",
+      "GraphQL"
+    ],
+    "example": {
+      "title": "nkzw-tech/fate: fate is a modern data client for React.",
+      "url": "https://github.com/nkzw-tech/fate"
+    },
+    "rssUrl": "https://github.com/nkzw-tech/fate/releases.atom"
   }
 ]
