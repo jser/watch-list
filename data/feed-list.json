@@ -411,12 +411,6 @@
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/storybookjs/storybook",
     "feeds": [
       "https://github.com/storybookjs/storybook/releases.atom"
@@ -450,6 +444,12 @@
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -594,12 +594,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/farzher/fuzzysort",
-    "feeds": [
-      "https://github.com/farzher/fuzzysort/releases.atom"
     ]
   },
   {
@@ -1734,6 +1728,12 @@
     "url": "https://github.com/tmikov/hermes-node",
     "feeds": [
       "https://github.com/tmikov/hermes-node/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/nkzw-tech/fate",
+    "feeds": [
+      "https://github.com/nkzw-tech/fate/releases.atom"
     ]
   },
   {
