@@ -1911,21 +1911,6 @@
   },
   {
     "count": 1,
-    "url": "https://codeanlabs.com",
-    "tags": [
-      "PDF",
-      "JavaScript",
-      "security",
-      "Electron",
-      "article"
-    ],
-    "example": {
-      "title": "CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs",
-      "url": "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file",
     "tags": [
       "UI",
