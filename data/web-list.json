@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — Axios to WHATWG Fetch",
-      "url": "https://nodejs.org/en/blog/migrations/axios-to-fetch"
+      "title": "Node.js — Node.js 26.2.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.2.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -726,6 +726,20 @@
   },
   {
     "count": 5,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote",
+      "CLI"
+    ],
+    "example": {
+      "title": "Release v11.15.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
     "url": "https://www.firefox.com",
     "tags": [
       "Firefox",
@@ -808,19 +822,6 @@
       "url": "https://github.com/storybookjs/storybook/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v11.1.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v11.1.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 4,
