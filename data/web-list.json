@@ -35,25 +35,6 @@
   },
   {
     "count": 23,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bum",
-      "V8",
-      "webkit",
-      "C++",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -74,6 +55,25 @@
       "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
+  },
+  {
+    "count": 22,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "bum",
+      "V8",
+      "webkit",
+      "C++",
+      "article",
+      "css"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 21,
@@ -869,6 +869,21 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/apollographql/apollo-client",
+    "tags": [
+      "GraphQL",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @apollo/client@4.2.0 · apollographql/apollo-client",
+      "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.2.0"
+    },
+    "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://tanstack.com",
     "tags": [
       "JavaScript",
@@ -1241,21 +1256,6 @@
       "url": "https://reactnative.dev/blog/2025/10/08/react-native-0.82"
     },
     "rssUrl": "https://reactnative.dev/blog/rss.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/apollographql/apollo-client",
-    "tags": [
-      "GraphQL",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release @apollo/client@4.0.0 · apollographql/apollo-client",
-      "url": "https://github.com/apollographql/apollo-client/releases/tag/%40apollo%2Fclient%404.0.0"
-    },
-    "rssUrl": "https://github.com/apollographql/apollo-client/releases.atom"
   },
   {
     "count": 3,
