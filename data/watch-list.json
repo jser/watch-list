@@ -127,7 +127,7 @@
     }
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://deno.com",
     "tags": [
       "dneo",
@@ -140,8 +140,8 @@
       "vite"
     ],
     "example": {
-      "title": "Fresh 2.3: Zero JS by default, View Transitions, and Temporal support | Deno",
-      "url": "https://deno.com/blog/fresh-2.3"
+      "title": "Deno 2.8 | Deno",
+      "url": "https://deno.com/blog/v2.8"
     }
   },
   {
@@ -1243,6 +1243,20 @@
     }
   },
   {
+    "count": 3,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "pnpm 11.3 | pnpm",
+      "url": "https://pnpm.io/blog/releases/11.3"
+    }
+  },
+  {
     "count": 2,
     "url": "https://zenn.dev/uhyo/",
     "tags": [
@@ -1828,19 +1842,6 @@
   },
   {
     "count": 2,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "🚀 pnpm in 2025 | pnpm",
-      "url": "https://pnpm.io/blog/2025/12/29/pnpm-in-2025"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://calendar.perfplanet.com",
     "tags": [
       "URL",
@@ -1895,6 +1896,24 @@
     "example": {
       "title": "Webpack 5.106 | webpack",
       "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
+    }
+  },
+  {
+    "count": 2,
+    "url": "https://hacks.mozilla.org",
+    "tags": [
+      "Firefox",
+      "XSS",
+      "security",
+      "DOM",
+      "article",
+      "browser",
+      "WebAPI",
+      "Mozilla"
+    ],
+    "example": {
+      "title": "Announcing Web Serial Support in Firefox - Mozilla Hacks - the Web developer blog",
+      "url": "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/"
     }
   },
   {
@@ -6802,21 +6821,6 @@
     "example": {
       "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager | Adnan Khan - Security Research",
       "url": "https://adnanthekhan.com/posts/clinejection/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://hacks.mozilla.org",
-    "tags": [
-      "Firefox",
-      "XSS",
-      "security",
-      "DOM",
-      "article"
-    ],
-    "example": {
-      "title": "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148 - Mozilla Hacks - the Web developer blog",
-      "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
     }
   },
   {
