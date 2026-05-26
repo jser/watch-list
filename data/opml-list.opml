@@ -87,7 +87,6 @@
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
 <outline text="mui.com" title="mui.com" type="rss" xmlUrl="https://mui.com/feed/blog/rss.xml"/>
-<outline text="nanto.asablo.jp" title="nanto.asablo.jp" type="rss" xmlUrl="https://nanto.asablo.jp/blog/rss"/>
 <outline text="nextjs.org" title="nextjs.org" type="rss" xmlUrl="https://nextjs.org/feed.xml"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>

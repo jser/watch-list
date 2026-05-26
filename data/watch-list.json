@@ -870,23 +870,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/chakra-ui/ark",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote",
-      "Vue",
-      "Solid"
-    ],
-    "example": {
-      "title": "Release @ark-ui/react@5.0.0 · chakra-ui/ark",
-      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%405.0.0"
-    },
-    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://medium.com/airbnb-engineering/",
     "tags": [
       "accessibility",
@@ -1473,6 +1456,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/chakra-ui/ark",
+    "tags": [
+      "React",
+      "ReleaseNote",
+      "library",
+      "Vue",
+      "Solid"
+    ],
+    "example": {
+      "title": "Release @ark-ui/react@5.0.0 · chakra-ui/ark",
+      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%405.0.0"
+    },
+    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/facebook/react",
     "tags": [
       "ESLint",
@@ -1927,32 +1926,6 @@
     "example": {
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file",
-    "tags": [
-      "UI",
-      "document"
-    ],
-    "example": {
-      "title": "andrico1234/the-dilemmas-youll-face: The Dilemmas You'll Face When Creating Your First Component Library",
-      "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://nanto.asablo.jp",
-    "tags": [
-      "HTML",
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "CSSでチェックボックスやラジオボタンをカスタマイズする 2024年版: Days on the Moon",
-      "url": "https://nanto.asablo.jp/blog/2024/05/24/9686885"
     }
   },
   {

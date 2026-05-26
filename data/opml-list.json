@@ -521,12 +521,6 @@
     ]
   },
   {
-    "url": "https://nanto.asablo.jp",
-    "feeds": [
-      "https://nanto.asablo.jp/blog/rss"
-    ]
-  },
-  {
     "url": "https://nextjs.org",
     "feeds": [
       "https://nextjs.org/feed.xml"
