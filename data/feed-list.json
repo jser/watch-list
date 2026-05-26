@@ -435,12 +435,6 @@
     ]
   },
   {
-    "url": "https://github.com/chakra-ui/ark",
-    "feeds": [
-      "https://github.com/chakra-ui/ark/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vitest-dev/vitest",
     "feeds": [
       "https://github.com/vitest-dev/vitest/releases.atom"
@@ -537,6 +531,12 @@
     ]
   },
   {
+    "url": "https://github.com/chakra-ui/ark",
+    "feeds": [
+      "https://github.com/chakra-ui/ark/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/facebook/react",
     "feeds": [
       "https://github.com/facebook/react/releases.atom"
@@ -594,12 +594,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/andrico1234/the-dilemmas-youll-face?tab=readme-ov-file/releases.atom"
     ]
   },
   {
@@ -1880,12 +1874,6 @@
     "url": "https://mui.com",
     "feeds": [
       "https://mui.com/feed/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://nanto.asablo.jp",
-    "feeds": [
-      "https://nanto.asablo.jp/blog/rss"
     ]
   },
   {
