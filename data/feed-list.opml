@@ -290,6 +290,7 @@
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
 <outline text="github.com/tmikov/hermes-node" title="github.com/tmikov/hermes-node" type="rss" xmlUrl="https://github.com/tmikov/hermes-node/releases.atom"/>
 <outline text="github.com/nkzw-tech/fate" title="github.com/nkzw-tech/fate" type="rss" xmlUrl="https://github.com/nkzw-tech/fate/releases.atom"/>
+<outline text="github.com/microsoft/Webwright" title="github.com/microsoft/Webwright" type="rss" xmlUrl="https://github.com/microsoft/Webwright/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
