@@ -7588,5 +7588,21 @@
       "url": "https://github.com/nkzw-tech/fate"
     },
     "rssUrl": "https://github.com/nkzw-tech/fate/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/microsoft/Webwright",
+    "tags": [
+      "AI",
+      "browser",
+      "automation",
+      "playwright",
+      "library"
+    ],
+    "example": {
+      "title": "microsoft/Webwright: A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.",
+      "url": "https://github.com/microsoft/Webwright"
+    },
+    "rssUrl": "https://github.com/microsoft/Webwright/releases.atom"
   }
 ]
