@@ -1256,5 +1256,11 @@
     "feeds": [
       "https://zenn.dev/yamanoku/feed"
     ]
+  },
+  {
+    "url": "https://zenn.dev/yasse/",
+    "feeds": [
+      "https://zenn.dev/yasse/feed"
+    ]
   }
 ]

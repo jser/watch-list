@@ -7604,5 +7604,19 @@
       "url": "https://github.com/microsoft/Webwright"
     },
     "rssUrl": "https://github.com/microsoft/Webwright/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/yasse/",
+    "tags": [
+      "TypeScript",
+      "Conference",
+      "slide"
+    ],
+    "example": {
+      "title": "TSKaigi 2026 発表資料まとめ",
+      "url": "https://zenn.dev/yasse/articles/a7240304af804c"
+    },
+    "rssUrl": "https://zenn.dev/yasse/feed"
   }
 ]
