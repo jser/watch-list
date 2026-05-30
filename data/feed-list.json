@@ -1737,6 +1737,12 @@
     ]
   },
   {
+    "url": "https://github.com/pionxzh/wakaru",
+    "feeds": [
+      "https://github.com/pionxzh/wakaru/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
