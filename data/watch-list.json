@@ -20,15 +20,15 @@
     }
   },
   {
-    "count": 27,
+    "count": 28,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Release pnpm 11.1.3 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.1.3"
+      "title": "Release pnpm 11.5 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.5.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -7434,5 +7434,23 @@
       "url": "https://github.com/pionxzh/wakaru"
     },
     "rssUrl": "https://github.com/pionxzh/wakaru/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/SoraKumo001/satoru",
+    "tags": [
+      "WebAssembly",
+      "HTML",
+      "css",
+      "SVG",
+      "PDF",
+      "Image",
+      "library"
+    ],
+    "example": {
+      "title": "SoraKumo001/satoru",
+      "url": "https://github.com/SoraKumo001/satoru"
+    },
+    "rssUrl": "https://github.com/SoraKumo001/satoru/releases.atom"
   }
 ]
