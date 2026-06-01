@@ -112,26 +112,6 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 18,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "article",
-      "ReleaseNote",
-      "news",
-      "JSON",
-      "Markdown",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
-    },
-    "rssUrl": "https://eslint.org/feed.xml"
-  },
-  {
     "count": 17,
     "url": "https://deno.com",
     "tags": [
@@ -149,6 +129,26 @@
       "url": "https://deno.com/blog/v2.8"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 17,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "article",
+      "ReleaseNote",
+      "news",
+      "JSON",
+      "Markdown",
+      "TypeScript",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    },
+    "rssUrl": "https://eslint.org/feed.xml"
   },
   {
     "count": 14,
@@ -7652,5 +7652,19 @@
       "url": "https://github.com/SoraKumo001/satoru"
     },
     "rssUrl": "https://github.com/SoraKumo001/satoru/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/Shakya47/pip-it-up",
+    "tags": [
+      "JavaScript",
+      "React",
+      "library"
+    ],
+    "example": {
+      "title": "Shakya47/pip-it-up: Pop any UI component into a floating Picture-in-Picture window. Zero config. Auto-sizing. Framework-agnostic core.",
+      "url": "https://github.com/Shakya47/pip-it-up"
+    },
+    "rssUrl": "https://github.com/Shakya47/pip-it-up/releases.atom"
   }
 ]

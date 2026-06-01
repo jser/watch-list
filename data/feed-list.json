@@ -1749,6 +1749,12 @@
     ]
   },
   {
+    "url": "https://github.com/Shakya47/pip-it-up",
+    "feeds": [
+      "https://github.com/Shakya47/pip-it-up/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
