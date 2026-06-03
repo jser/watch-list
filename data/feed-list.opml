@@ -41,7 +41,6 @@
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
-<outline text="design.digital.go.jp" title="design.digital.go.jp" type="rss" xmlUrl="https://design.digital.go.jp/feed.xml"/>
 <outline text="dev.to/subu_hunter/" title="dev.to/subu_hunter/" type="rss" xmlUrl="https://dev.to/feed/subu_hunter"/>
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.chrome.com" title="developer.chrome.com" type="rss" xmlUrl="https://developer.chrome.com/static/blog/feed.xml"/>
@@ -67,14 +66,13 @@
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
-<outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
+<outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
 <outline text="github.com/axios/axios" title="github.com/axios/axios" type="rss" xmlUrl="https://github.com/axios/axios/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
@@ -89,6 +87,7 @@
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
 <outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
+<outline text="github.com/vitest-dev/vitest" title="github.com/vitest-dev/vitest" type="rss" xmlUrl="https://github.com/vitest-dev/vitest/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
@@ -351,6 +350,7 @@
 <outline text="speakerdeck.com/berlysia/" title="speakerdeck.com/berlysia/" type="rss" xmlUrl="https://speakerdeck.com/berlysia.atom"/>
 <outline text="speakerdeck.com/kirik/" title="speakerdeck.com/kirik/" type="rss" xmlUrl="https://speakerdeck.com/kirik.atom"/>
 <outline text="speakerdeck.com/dora1998/" title="speakerdeck.com/dora1998/" type="rss" xmlUrl="https://speakerdeck.com/dora1998.atom"/>
+<outline text="speakerdeck.com/syumai/" title="speakerdeck.com/syumai/" type="rss" xmlUrl="https://speakerdeck.com/syumai.atom"/>
 <outline text="spidermonkey.dev" title="spidermonkey.dev" type="rss" xmlUrl="https://spidermonkey.dev/feed.xml"/>
 <outline text="storybook.js.org" title="storybook.js.org" type="rss" xmlUrl="https://storybook.js.org/blog/rss/"/>
 <outline text="stylexjs.com" title="stylexjs.com" type="rss" xmlUrl="https://stylexjs.com/blog/rss.xml"/>
@@ -410,7 +410,6 @@
 <outline text="www.trevorlasn.com" title="www.trevorlasn.com" type="rss" xmlUrl="https://www.trevorlasn.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
-<outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
@@ -433,6 +432,7 @@
 <outline text="zenn.dev/qnighy/" title="zenn.dev/qnighy/" type="rss" xmlUrl="https://zenn.dev/qnighy/feed"/>
 <outline text="zenn.dev/exwzd/" title="zenn.dev/exwzd/" type="rss" xmlUrl="https://zenn.dev/p/exwzd/feed"/>
 <outline text="zenn.dev/yamachu/" title="zenn.dev/yamachu/" type="rss" xmlUrl="https://zenn.dev/yamachu/feed"/>
+<outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
 <outline text="zenn.dev/yamanoku/" title="zenn.dev/yamanoku/" type="rss" xmlUrl="https://zenn.dev/yamanoku/feed"/>
 <outline text="zenn.dev/yasse/" title="zenn.dev/yasse/" type="rss" xmlUrl="https://zenn.dev/yasse/feed"/>
 </body>

@@ -108,24 +108,6 @@
   },
   {
     "count": 17,
-    "url": "https://deno.com",
-    "tags": [
-      "dneo",
-      "ReleaseNote",
-      "deno",
-      "article",
-      "browser",
-      "JavaScript",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.8 | Deno",
-      "url": "https://deno.com/blog/v2.8"
-    }
-  },
-  {
-    "count": 17,
     "url": "https://eslint.org",
     "tags": [
       "ESLint",
@@ -141,6 +123,24 @@
     "example": {
       "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
+  },
+  {
+    "count": 16,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "dneo",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.8 | Deno",
+      "url": "https://deno.com/blog/v2.8"
     }
   },
   {
@@ -438,20 +438,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/honojs/hono",
-    "tags": [
-      "Hono",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v4.12.0 · honojs/hono",
-      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
-    },
-    "rssUrl": "https://github.com/honojs/hono/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://socket.dev",
     "tags": [
       "pnpm",
@@ -573,19 +559,6 @@
   },
   {
     "count": 5,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prettier 3.8: Support for Angular v21.1 · Prettier",
-      "url": "https://prettier.io/blog/2026/01/14/3.8.0"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://storybook.js.org",
     "tags": [
       "JavaScript",
@@ -677,6 +650,20 @@
       "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
     },
     "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/honojs/hono",
+    "tags": [
+      "Hono",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v4.12.0 · honojs/hono",
+      "url": "https://github.com/honojs/hono/releases/tag/v4.12.0"
+    },
+    "rssUrl": "https://github.com/honojs/hono/releases.atom"
   },
   {
     "count": 5,
@@ -832,6 +819,19 @@
   },
   {
     "count": 4,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Prettier 3.8: Support for Angular v21.1 · Prettier",
+      "url": "https://prettier.io/blog/2026/01/14/3.8.0"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/apollographql/apollo-client",
     "tags": [
       "GraphQL",
@@ -866,22 +866,6 @@
       "title": "Postmortem: TanStack npm supply-chain compromise | TanStack Blog",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/vitest-dev/vitest",
-    "tags": [
-      "vite",
-      "test",
-      "library",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v3.0.5 · vitest-dev/vitest",
-      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
-    },
-    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 3,
@@ -1223,32 +1207,6 @@
   },
   {
     "count": 2,
-    "url": "https://zenn.dev/uhyo/",
-    "tags": [
-      "React",
-      "book"
-    ],
-    "example": {
-      "title": "jotaiによるReact再入門",
-      "url": "https://zenn.dev/uhyo/books/learn-react-with-jotai"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "JavaScript",
-      "bundler",
-      "ReleaseNote",
-      "rspack"
-    ],
-    "example": {
-      "title": "Announcing Rspack v1.0 Alpha - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/biomejs/biome",
     "tags": [
       "JavaScript",
@@ -1352,6 +1310,21 @@
       "url": "https://github.com/nodejs/node/pull/60600"
     },
     "rssUrl": "https://github.com/nodejs/node/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/vitest-dev/vitest",
+    "tags": [
+      "vite",
+      "test",
+      "ReleaseNote",
+      "security"
+    ],
+    "example": {
+      "title": "Release v3.0.5 · vitest-dev/vitest",
+      "url": "https://github.com/vitest-dev/vitest/releases/tag/v3.0.5"
+    },
+    "rssUrl": "https://github.com/vitest-dev/vitest/releases.atom"
   },
   {
     "count": 2,
@@ -1927,20 +1900,6 @@
   },
   {
     "count": 1,
-    "url": "https://design.digital.go.jp",
-    "tags": [
-      "Design",
-      "accessibility",
-      "figma",
-      "document"
-    ],
-    "example": {
-      "title": "デジタル庁デザインシステムβ版",
-      "url": "https://design.digital.go.jp/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://colinhacks.com",
     "tags": [
       "TypeScript",
@@ -2120,6 +2079,18 @@
       "url": "https://github.com/es-tooling/eslint-plugin-depend"
     },
     "rssUrl": "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack v1.0 Alpha - Rspack",
+      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
+    }
   },
   {
     "count": 1,
@@ -6280,6 +6251,18 @@
   },
   {
     "count": 1,
+    "url": "https://zenn.dev/uhyo/",
+    "tags": [
+      "React",
+      "book"
+    ],
+    "example": {
+      "title": "jotaiによるReact再入門",
+      "url": "https://zenn.dev/uhyo/books/learn-react-with-jotai"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/vjeux/webcodecs-nodejs-10k-challenge",
     "tags": [
       "nodejs",
@@ -7466,5 +7449,19 @@
       "url": "https://github.com/Shakya47/pip-it-up"
     },
     "rssUrl": "https://github.com/Shakya47/pip-it-up/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://speakerdeck.com/syumai/",
+    "tags": [
+      "ESLint",
+      "Rust",
+      "slide",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Oxlintのカスタムルールの現況 - Speaker Deck",
+      "url": "https://speakerdeck.com/syumai/oxlint-custom-rule"
+    }
   }
 ]
