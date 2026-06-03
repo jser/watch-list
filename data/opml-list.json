@@ -230,12 +230,6 @@
     ]
   },
   {
-    "url": "https://design.digital.go.jp",
-    "feeds": [
-      "https://design.digital.go.jp/feed.xml"
-    ]
-  },
-  {
     "url": "https://dev.to/subu_hunter/",
     "feeds": [
       "https://dev.to/feed/subu_hunter"
@@ -736,6 +730,13 @@
     ]
   },
   {
+    "url": "https://speakerdeck.com/syumai/",
+    "feeds": [
+      "https://speakerdeck.com/syumai.atom",
+      "https://speakerdeck.com/syumai.rss"
+    ]
+  },
+  {
     "url": "https://spidermonkey.dev",
     "feeds": [
       "https://spidermonkey.dev/feed.xml"
@@ -1114,12 +1115,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/uhyo/",
-    "feeds": [
-      "https://zenn.dev/uhyo/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/mizchi/",
     "feeds": [
       "https://zenn.dev/mizchi/feed"
@@ -1249,6 +1244,12 @@
     "url": "https://zenn.dev/yamachu/",
     "feeds": [
       "https://zenn.dev/yamachu/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/uhyo/",
+    "feeds": [
+      "https://zenn.dev/uhyo/feed"
     ]
   },
   {
