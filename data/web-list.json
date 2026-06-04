@@ -1970,33 +1970,6 @@
   },
   {
     "count": 1,
-    "url": "https://colinhacks.com",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "Live types in a TypeScript monorepo",
-      "url": "https://colinhacks.com/essays/live-types-typescript-monorepo"
-    },
-    "rssUrl": "https://colinhacks.com/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.1password.com",
-    "tags": [
-      "TypeScript",
-      "esbuild",
-      "article"
-    ],
-    "example": {
-      "title": "How 1Password Used Esbuild to Cut Browser Extension Build Times | 1Password",
-      "url": "https://blog.1password.com/new-extension-build-system/"
-    },
-    "rssUrl": "https://blog.1password.com/index.xml"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/twada/power-assert-monorepo",
     "tags": [
       "nodejs",

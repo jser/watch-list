@@ -54,12 +54,6 @@
     ]
   },
   {
-    "url": "https://blog.1password.com",
-    "feeds": [
-      "https://blog.1password.com/index.xml"
-    ]
-  },
-  {
     "url": "https://blog.angular.dev",
     "feeds": [
       "https://blog.angular.dev/feed"
@@ -196,12 +190,6 @@
     "url": "https://codspeed.io",
     "feeds": [
       "https://codspeed.io/blog/feed/rss.xml"
-    ]
-  },
-  {
-    "url": "https://colinhacks.com",
-    "feeds": [
-      "https://colinhacks.com/rss.xml"
     ]
   },
   {
