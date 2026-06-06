@@ -1,6 +1,6 @@
 [
   {
-    "count": 70,
+    "count": 71,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — Node.js 26.3.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.3.0"
+      "title": "Node.js — Node.js 24.16.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.16.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
