@@ -33,7 +33,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 22,
+    "count": 24,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -46,11 +46,14 @@
       "debug",
       "MCP",
       "browser",
-      "news"
+      "news",
+      "WebAPI",
+      "DOM",
+      "stream"
     ],
     "example": {
-      "title": "Chrome 149 beta  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
+      "title": "Declarative partial updates  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/declarative-partial-updates"
     }
   },
   {
@@ -92,7 +95,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -231,6 +234,30 @@
   },
   {
     "count": 11,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "article",
+      "nodejs",
+      "Hono",
+      "JavaScript",
+      "Next.js",
+      "astro",
+      "news",
+      "vite",
+      "CMS",
+      "TypeScript",
+      "security",
+      "OpenSource",
+      "wordpress"
+    ],
+    "example": {
+      "title": "VoidZero is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -280,30 +307,6 @@
     "example": {
       "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
       "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "article",
-      "nodejs",
-      "Hono",
-      "JavaScript",
-      "Next.js",
-      "astro",
-      "news",
-      "vite",
-      "CMS",
-      "TypeScript",
-      "security",
-      "OpenSource",
-      "wordpress"
-    ],
-    "example": {
-      "title": "Introducing EmDash — the spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/"
     }
   },
   {
@@ -7437,6 +7440,21 @@
     "example": {
       "title": "Oxlintのカスタムルールの現況 - Speaker Deck",
       "url": "https://speakerdeck.com/syumai/oxlint-custom-rule"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://pierre.computer",
+    "tags": [
+      "JavaScript",
+      "performance",
+      "diff",
+      "library",
+      "article"
+    ],
+    "example": {
+      "title": "On Rendering Diffs :: Pierre Computer Company",
+      "url": "https://pierre.computer/writing/on-rendering-diffs"
     }
   }
 ]

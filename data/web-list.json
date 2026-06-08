@@ -34,7 +34,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 22,
+    "count": 24,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -47,11 +47,14 @@
       "debug",
       "MCP",
       "browser",
-      "news"
+      "news",
+      "WebAPI",
+      "DOM",
+      "stream"
     ],
     "example": {
-      "title": "Chrome 149 beta  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/chrome-149-beta?hl=en"
+      "title": "Declarative partial updates  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/declarative-partial-updates"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -96,7 +99,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -242,6 +245,31 @@
   },
   {
     "count": 11,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "article",
+      "nodejs",
+      "Hono",
+      "JavaScript",
+      "Next.js",
+      "astro",
+      "news",
+      "vite",
+      "CMS",
+      "TypeScript",
+      "security",
+      "OpenSource",
+      "wordpress"
+    ],
+    "example": {
+      "title": "VoidZero is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 11,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -294,31 +322,6 @@
       "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
     },
     "rssUrl": "https://react.dev/rss.xml"
-  },
-  {
-    "count": 10,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "article",
-      "nodejs",
-      "Hono",
-      "JavaScript",
-      "Next.js",
-      "astro",
-      "news",
-      "vite",
-      "CMS",
-      "TypeScript",
-      "security",
-      "OpenSource",
-      "wordpress"
-    ],
-    "example": {
-      "title": "Introducing EmDash — the spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 10,
@@ -7636,5 +7639,20 @@
       "url": "https://speakerdeck.com/syumai/oxlint-custom-rule"
     },
     "rssUrl": "https://speakerdeck.com/syumai.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://pierre.computer",
+    "tags": [
+      "JavaScript",
+      "performance",
+      "diff",
+      "library",
+      "article"
+    ],
+    "example": {
+      "title": "On Rendering Diffs :: Pierre Computer Company",
+      "url": "https://pierre.computer/writing/on-rendering-diffs"
+    }
   }
 ]
