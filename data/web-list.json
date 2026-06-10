@@ -244,32 +244,7 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
-    "count": 11,
-    "url": "https://blog.cloudflare.com",
-    "tags": [
-      "cloudflare",
-      "article",
-      "nodejs",
-      "Hono",
-      "JavaScript",
-      "Next.js",
-      "astro",
-      "news",
-      "vite",
-      "CMS",
-      "TypeScript",
-      "security",
-      "OpenSource",
-      "wordpress"
-    ],
-    "example": {
-      "title": "VoidZero is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
-    },
-    "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 11,
+    "count": 12,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -294,10 +269,35 @@
       "Tools"
     ],
     "example": {
-      "title": "Manage agent skills with GitHub CLI - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/"
+      "title": "Upcoming breaking changes for npm v12 - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
     },
     "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 11,
+    "url": "https://blog.cloudflare.com",
+    "tags": [
+      "cloudflare",
+      "article",
+      "nodejs",
+      "Hono",
+      "JavaScript",
+      "Next.js",
+      "astro",
+      "news",
+      "vite",
+      "CMS",
+      "TypeScript",
+      "security",
+      "OpenSource",
+      "wordpress"
+    ],
+    "example": {
+      "title": "VoidZero is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+    },
+    "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
     "count": 11,
