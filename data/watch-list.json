@@ -562,27 +562,6 @@
   },
   {
     "count": 5,
-    "url": "https://storybook.js.org",
-    "tags": [
-      "JavaScript",
-      "UI",
-      "test",
-      "ReleaseNote",
-      "storybook",
-      "debug",
-      "Tools",
-      "article",
-      "security",
-      "MCP",
-      "React"
-    ],
-    "example": {
-      "title": "Storybook MCP for React",
-      "url": "https://storybook.js.org/blog/storybook-mcp-for-react/"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://2ality.com",
     "tags": [
       "ECMAScript",
@@ -791,6 +770,25 @@
     "example": {
       "title": "Introducing Phased Package Installations",
       "url": "https://blog.vlt.sh/blog/vlt-build"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://storybook.js.org",
+    "tags": [
+      "storybook",
+      "ReleaseNote",
+      "debug",
+      "JavaScript",
+      "Tools",
+      "article",
+      "security",
+      "MCP",
+      "React"
+    ],
+    "example": {
+      "title": "Storybook MCP for React",
+      "url": "https://storybook.js.org/blog/storybook-mcp-for-react/"
     }
   },
   {
@@ -1206,36 +1204,6 @@
     "example": {
       "title": "pnpm 11.3 | pnpm",
       "url": "https://pnpm.io/blog/releases/11.3"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/biomejs/biome",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "biome"
-    ],
-    "example": {
-      "title": "Release Biome CLI v2.2.0 · biomejs/biome",
-      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.2.0"
-    },
-    "rssUrl": "https://github.com/biomejs/biome/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://martinfowler.com",
-    "tags": [
-      "React",
-      "article",
-      "Design",
-      "UI",
-      "architecture"
-    ],
-    "example": {
-      "title": "Design Token-Based UI Architecture",
-      "url": "https://martinfowler.com/articles/design-token-based-ui-architecture.html"
     }
   },
   {
@@ -1899,62 +1867,6 @@
     "example": {
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/twada/power-assert-monorepo",
-    "tags": [
-      "nodejs",
-      "JavaScript",
-      "test",
-      "library"
-    ],
-    "example": {
-      "title": "power-assert-monorepo/packages/node at main · twada/power-assert-monorepo",
-      "url": "https://github.com/twada/power-assert-monorepo/tree/main/packages/node"
-    },
-    "rssUrl": "https://github.com/twada/power-assert-monorepo/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/slevithan/regex",
-    "tags": [
-      "JavaScript",
-      "RegExp",
-      "library"
-    ],
-    "example": {
-      "title": "slevithan/regex: Context-aware regex template tag with best practices built-in and advanced features",
-      "url": "https://github.com/slevithan/regex"
-    },
-    "rssUrl": "https://github.com/slevithan/regex/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/tinylibs/tinypool",
-    "tags": [
-      "nodejs",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v1.0.0 · tinylibs/tinypool",
-      "url": "https://github.com/tinylibs/tinypool/releases/tag/v1.0.0"
-    },
-    "rssUrl": "https://github.com/tinylibs/tinypool/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://pavel-romanov.com",
-    "tags": [
-      "nodejs",
-      "performance",
-      "article"
-    ],
-    "example": {
-      "title": "Mastering Node.js Performance Hooks",
-      "url": "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model"
     }
   },
   {
@@ -3722,6 +3634,20 @@
   },
   {
     "count": 1,
+    "url": "https://martinfowler.com",
+    "tags": [
+      "Design",
+      "UI",
+      "architecture",
+      "article"
+    ],
+    "example": {
+      "title": "Design Token-Based UI Architecture",
+      "url": "https://martinfowler.com/articles/design-token-based-ui-architecture.html"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://2024.stateofjs.com",
     "tags": [
       "JavaScript",
@@ -5347,6 +5273,19 @@
       "title": "If I Wrote a Linter, Part 1: Architecture | Goldblog",
       "url": "https://www.joshuakgoldberg.com/blog/if-i-wrote-a-linter-part-1-architecture/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/biomejs/biome",
+    "tags": [
+      "biome",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Biome CLI v2.2.0 · biomejs/biome",
+      "url": "https://github.com/biomejs/biome/releases/tag/%40biomejs%2Fbiome%402.2.0"
+    },
+    "rssUrl": "https://github.com/biomejs/biome/releases.atom"
   },
   {
     "count": 1,

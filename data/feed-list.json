@@ -477,12 +477,6 @@
     ]
   },
   {
-    "url": "https://github.com/biomejs/biome",
-    "feeds": [
-      "https://github.com/biomejs/biome/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
@@ -576,24 +570,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/twada/power-assert-monorepo",
-    "feeds": [
-      "https://github.com/twada/power-assert-monorepo/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/slevithan/regex",
-    "feeds": [
-      "https://github.com/slevithan/regex/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tinylibs/tinypool",
-    "feeds": [
-      "https://github.com/tinylibs/tinypool/releases.atom"
     ]
   },
   {
@@ -1254,6 +1230,12 @@
     "url": "https://github.com/web-infra-dev/rslint",
     "feeds": [
       "https://github.com/web-infra-dev/rslint/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/biomejs/biome",
+    "feeds": [
+      "https://github.com/biomejs/biome/releases.atom"
     ]
   },
   {
@@ -1924,13 +1906,6 @@
     "feeds": [
       "https://oxc.rs/feeds/blog-en.rss",
       "https://oxc.rs/feeds/blog-en.atom"
-    ]
-  },
-  {
-    "url": "https://pavel-romanov.com",
-    "feeds": [
-      "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml",
-      "https://pavel-romanov.com/rss.xml"
     ]
   },
   {
