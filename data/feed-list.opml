@@ -81,7 +81,6 @@
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
-<outline text="github.com/biomejs/biome" title="github.com/biomejs/biome" type="rss" xmlUrl="https://github.com/biomejs/biome/releases.atom"/>
 <outline text="github.com/acornjs/acorn" title="github.com/acornjs/acorn" type="rss" xmlUrl="https://github.com/acornjs/acorn/releases.atom"/>
 <outline text="github.com/facebook/relay" title="github.com/facebook/relay" type="rss" xmlUrl="https://github.com/facebook/relay/releases.atom"/>
 <outline text="github.com/nodejs/node" title="github.com/nodejs/node" type="rss" xmlUrl="https://github.com/nodejs/node/releases.atom"/>
@@ -98,9 +97,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/twada/power-assert-monorepo" title="github.com/twada/power-assert-monorepo" type="rss" xmlUrl="https://github.com/twada/power-assert-monorepo/releases.atom"/>
-<outline text="github.com/slevithan/regex" title="github.com/slevithan/regex" type="rss" xmlUrl="https://github.com/slevithan/regex/releases.atom"/>
-<outline text="github.com/tinylibs/tinypool" title="github.com/tinylibs/tinypool" type="rss" xmlUrl="https://github.com/tinylibs/tinypool/releases.atom"/>
 <outline text="github.com/e18e/e18e" title="github.com/e18e/e18e" type="rss" xmlUrl="https://github.com/e18e/e18e/releases.atom"/>
 <outline text="github.com/es-tooling/eslint-plugin-depend" title="github.com/es-tooling/eslint-plugin-depend" type="rss" xmlUrl="https://github.com/es-tooling/eslint-plugin-depend/releases.atom"/>
 <outline text="github.com/nodejs/loaders" title="github.com/nodejs/loaders" type="rss" xmlUrl="https://github.com/nodejs/loaders/releases.atom"/>
@@ -211,6 +207,7 @@
 <outline text="github.com/sveltejs/kit" title="github.com/sveltejs/kit" type="rss" xmlUrl="https://github.com/sveltejs/kit/releases.atom"/>
 <outline text="github.com/shuding/bidc" title="github.com/shuding/bidc" type="rss" xmlUrl="https://github.com/shuding/bidc/releases.atom"/>
 <outline text="github.com/web-infra-dev/rslint" title="github.com/web-infra-dev/rslint" type="rss" xmlUrl="https://github.com/web-infra-dev/rslint/releases.atom"/>
+<outline text="github.com/biomejs/biome" title="github.com/biomejs/biome" type="rss" xmlUrl="https://github.com/biomejs/biome/releases.atom"/>
 <outline text="github.com/redwoodjs/sdk" title="github.com/redwoodjs/sdk" type="rss" xmlUrl="https://github.com/redwoodjs/sdk/releases.atom"/>
 <outline text="github.com/sidequestjs/sidequest" title="github.com/sidequestjs/sidequest" type="rss" xmlUrl="https://github.com/sidequestjs/sidequest/releases.atom"/>
 <outline text="github.com/adamhl8/filterql" title="github.com/adamhl8/filterql" type="rss" xmlUrl="https://github.com/adamhl8/filterql/releases.atom"/>
@@ -321,7 +318,6 @@
 <outline text="nx.dev" title="nx.dev" type="rss" xmlUrl="https://nx.dev/blog/rss.xml"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
-<outline text="pavel-romanov.com" title="pavel-romanov.com" type="rss" xmlUrl="https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml"/>
 <outline text="philipwalton.com" title="philipwalton.com" type="rss" xmlUrl="https://feeds.feedburner.com/philipwalton"/>
 <outline text="piccalil.li" title="piccalil.li" type="rss" xmlUrl="https://piccalil.li/feed.xml"/>
 <outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>

@@ -547,13 +547,6 @@
     ]
   },
   {
-    "url": "https://pavel-romanov.com",
-    "feeds": [
-      "https://pavel-romanov.com/nodejs-performance-hooks-mastering-the-mental-model/rss.xml",
-      "https://pavel-romanov.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://philipwalton.com",
     "feeds": [
       "https://feeds.feedburner.com/philipwalton"
