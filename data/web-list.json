@@ -172,6 +172,39 @@
   },
   {
     "count": 13,
+    "url": "https://github.blog",
+    "tags": [
+      "nodejs",
+      "github",
+      "Actions",
+      "news",
+      "pnpm",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security",
+      "AI",
+      "python",
+      "golang",
+      ".net",
+      "library",
+      "GitHub",
+      "React",
+      "performance",
+      "CLI",
+      "Tools",
+      "deno",
+      "package"
+    ],
+    "example": {
+      "title": "Dependabot version updates now support the Deno ecosystem - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-06-09-dependabot-version-updates-now-support-the-deno-ecosystem/"
+    },
+    "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 13,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -185,18 +218,6 @@
       "url": "https://bun.com/blog/bun-v1.3.14"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
   },
   {
     "count": 12,
@@ -244,35 +265,16 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
-    "count": 12,
-    "url": "https://github.blog",
+    "count": 11,
+    "url": "https://www.mozilla.org",
     "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security",
-      "AI",
-      "python",
-      "golang",
-      ".net",
-      "library",
-      "GitHub",
-      "React",
-      "performance",
-      "CLI",
-      "Tools"
+      "Firefox",
+      "ReleaseNote"
     ],
     "example": {
-      "title": "Upcoming breaking changes for npm v12 - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
-    },
-    "rssUrl": "https://github.blog/feed/"
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 11,
@@ -906,35 +908,20 @@
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
   },
   {
-    "count": 3,
-    "url": "https://turbo.build",
+    "count": 4,
+    "url": "https://pnpm.io",
     "tags": [
-      "JavaScript",
-      "monorepo",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Turborepo 2.5 | Turborepo",
-      "url": "https://turbo.build/blog/turbo-2-5"
-    },
-    "rssUrl": "https://turbo.build/feed.xml"
-  },
-  {
-    "count": 3,
-    "url": "https://v8.dev",
-    "tags": [
-      "WebAssembly",
-      "Promises",
+      "pnpm",
+      "security",
       "article",
-      "JavaScript",
-      "V8"
+      "ReleaseNote",
+      "npm"
     ],
     "example": {
-      "title": "How we made JSON.stringify more than twice as fast · V8",
-      "url": "https://v8.dev/blog/json-stringify"
+      "title": "Why pnpm no longer expands environment variables in a repository's .npmrc | pnpm",
+      "url": "https://pnpm.io/blog/2026/06/11/env-variables-in-repository-npmrc"
     },
-    "rssUrl": "https://v8.dev/blog.atom"
+    "rssUrl": "https://pnpm.io/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1239,21 +1226,6 @@
     }
   },
   {
-    "count": 3,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "pnpm 11.3 | pnpm",
-      "url": "https://pnpm.io/blog/releases/11.3"
-    },
-    "rssUrl": "https://pnpm.io/blog/rss.xml"
-  },
-  {
     "count": 2,
     "url": "https://zenn.dev/mizchi/",
     "tags": [
@@ -1491,6 +1463,21 @@
       "url": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer"
     },
     "rssUrl": "https://zenn.dev/uki00a/feed"
+  },
+  {
+    "count": 2,
+    "url": "https://turbo.build",
+    "tags": [
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Turborepo 2.5 | Turborepo",
+      "url": "https://turbo.build/blog/turbo-2-5"
+    },
+    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 2,
@@ -1771,6 +1758,20 @@
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     },
     "rssUrl": "https://lynxjs.org/rss/blog-rss.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://v8.dev",
+    "tags": [
+      "JavaScript",
+      "V8",
+      "article"
+    ],
+    "example": {
+      "title": "How we made JSON.stringify more than twice as fast · V8",
+      "url": "https://v8.dev/blog/json-stringify"
+    },
+    "rssUrl": "https://v8.dev/blog.atom"
   },
   {
     "count": 2,
