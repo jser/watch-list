@@ -75,15 +75,15 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://webkit.org",
     "tags": [
-      "webkit",
       "safari",
-      "ReleaseNote",
       "privacy",
       "article",
+      "ReleaseNote",
       "css",
+      "webkit",
       "browser",
       "CSS",
       "WebTransport",
@@ -1178,21 +1178,6 @@
     "example": {
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/mizchi/",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "article",
-      "Chrome",
-      "debug"
-    ],
-    "example": {
-      "title": "DevTools の使い方を可能な限りスクショ付きで解説してみる",
-      "url": "https://zenn.dev/mizchi/scraps/c72e6a55deca18"
     }
   },
   {
@@ -3461,6 +3446,19 @@
     "example": {
       "title": "JavaScriptのモジュール解決の相互運用性 / JSConf JP 2024 - Interoperability of Module Resolutions in JavaScript - Speaker Deck",
       "url": "https://speakerdeck.com/berlysia/interoperability-of-module-resolutions-in-javascript"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/mizchi/",
+    "tags": [
+      "Chrome",
+      "debug",
+      "article"
+    ],
+    "example": {
+      "title": "DevTools の使い方を可能な限りスクショ付きで解説してみる",
+      "url": "https://zenn.dev/mizchi/scraps/c72e6a55deca18"
     }
   },
   {
