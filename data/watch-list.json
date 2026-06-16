@@ -33,14 +33,14 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 24,
+    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
-      "ReleaseNote",
       "article",
       "Firefox",
       "puppeteer",
+      "ReleaseNote",
       "HTML",
       "css",
       "debug",
@@ -211,35 +211,6 @@
   },
   {
     "count": 12,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "news",
-      "ReleaseNote",
-      "Nuxt",
-      "library",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt 4.4 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-4"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 42 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-42-0"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -262,6 +233,18 @@
     "example": {
       "title": "Firefox 140.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 42 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-42-0"
     }
   },
   {
@@ -313,6 +296,22 @@
   },
   {
     "count": 10,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "Nuxt",
+      "library",
+      "ReleaseNote",
+      "article",
+      "UI"
+    ],
+    "example": {
+      "title": "Nuxt 4.4 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-4"
+    }
+  },
+  {
+    "count": 10,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -345,21 +344,6 @@
     "example": {
       "title": "Announcing Baseline in action  |  Blog  |  web.dev",
       "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    }
-  },
-  {
-    "count": 8,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "proposal",
-      "article",
-      "news",
-      "TC39"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
     }
   },
   {
@@ -407,6 +391,20 @@
     "example": {
       "title": "CascadiaJS 2025 - YouTube",
       "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "news",
+      "proposal",
+      "TC39"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
     }
   },
   {
