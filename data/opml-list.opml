@@ -11,6 +11,7 @@
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
+<outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="benhowdle.im" title="benhowdle.im" type="rss" xmlUrl="https://benhowdle.im/feed.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
@@ -39,7 +40,6 @@
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
-<outline text="dev.to/subu_hunter/" title="dev.to/subu_hunter/" type="rss" xmlUrl="https://dev.to/feed/subu_hunter"/>
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.chrome.com" title="developer.chrome.com" type="rss" xmlUrl="https://developer.chrome.com/static/blog/feed.xml"/>
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
