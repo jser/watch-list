@@ -57,7 +57,7 @@
     }
   },
   {
-    "count": 22,
+    "count": 21,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -409,6 +409,24 @@
   },
   {
     "count": 7,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Rust",
+      "Tools",
+      "ReleaseNote",
+      "biome",
+      "article",
+      "ESLint",
+      "css"
+    ],
+    "example": {
+      "title": "Biome v2.5—500 Lint Rules, Plugin Code Fix, and Cross-File Linting | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-5/"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://stylexjs.com",
     "tags": [
       "css ",
@@ -513,22 +531,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 6,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "Tools",
-      "ReleaseNote",
-      "biome",
-      "article"
-    ],
-    "example": {
-      "title": "Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-4/"
-    }
   },
   {
     "count": 6,
@@ -1177,21 +1179,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/acornjs/acorn",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release Version 8.14.0 · acornjs/acorn",
-      "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
-    },
-    "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
   },
   {
     "count": 2,
@@ -1865,30 +1852,6 @@
     "example": {
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://codemod.com",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Codemod partnering with the React team",
-      "url": "https://codemod.com/blog/react-announcement"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://dev.to/subu_hunter/",
-    "tags": [
-      "CSS",
-      "article"
-    ],
-    "example": {
-      "title": "Build Stunning Responsive Card Tables with CSS4 & CSS5 - DEV Community",
-      "url": "https://dev.to/subu_hunter/build-stunning-responsive-card-tables-with-css4-css5-1fai"
     }
   },
   {
@@ -3130,6 +3093,21 @@
       "title": "Homepage » Jeasx - JSX with Ease",
       "url": "https://www.jeasx.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/acornjs/acorn",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release Version 8.14.0 · acornjs/acorn",
+      "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
+    },
+    "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
   },
   {
     "count": 1,
@@ -7392,6 +7370,21 @@
     "example": {
       "title": "On Rendering Diffs :: Pierre Computer Company",
       "url": "https://pierre.computer/writing/on-rendering-diffs"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://babeljs.io",
+    "tags": [
+      "babel",
+      "ReleaseNote",
+      "ECMAScript",
+      "nodejs",
+      "polyfill"
+    ],
+    "example": {
+      "title": "Releasing Babel 8 today: ESM-only, drop ES5 default, and a smooth migration path · Babel",
+      "url": "https://babeljs.io/blog/2026/06/16/8.0.0/"
     }
   }
 ]

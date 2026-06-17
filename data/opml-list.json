@@ -42,6 +42,13 @@
     ]
   },
   {
+    "url": "https://babeljs.io",
+    "feeds": [
+      "https://babeljs.io/blog/rss.xml",
+      "https://babeljs.io/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://benhowdle.im",
     "feeds": [
       "https://benhowdle.im/feed.xml"
@@ -215,12 +222,6 @@
     "url": "https://deno.com",
     "feeds": [
       "https://deno.com/feed"
-    ]
-  },
-  {
-    "url": "https://dev.to/subu_hunter/",
-    "feeds": [
-      "https://dev.to/feed/subu_hunter"
     ]
   },
   {
