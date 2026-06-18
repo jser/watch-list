@@ -412,6 +412,32 @@
   },
   {
     "count": 7,
+    "url": "https://vercel.com",
+    "tags": [
+      "google",
+      "SEO",
+      "JavaScript",
+      "article",
+      "React",
+      "vercel",
+      "document",
+      "AI",
+      "Hono",
+      "express",
+      "TypeScript",
+      "news",
+      "Next.js",
+      "security",
+      "library"
+    ],
+    "example": {
+      "title": "Introducing eve - Vercel",
+      "url": "https://vercel.com/blog/introducing-eve"
+    },
+    "rssUrl": "https://vercel.com/atom"
+  },
+  {
+    "count": 7,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -515,31 +541,6 @@
       "url": "https://frontendmasters.com/blog/perfectly-pointed-tooltips-a-foundation/"
     },
     "rssUrl": "https://frontendmasters.com/blog/feed/"
-  },
-  {
-    "count": 6,
-    "url": "https://vercel.com",
-    "tags": [
-      "google",
-      "SEO",
-      "JavaScript",
-      "article",
-      "React",
-      "vercel",
-      "document",
-      "AI",
-      "Hono",
-      "express",
-      "TypeScript",
-      "news",
-      "Next.js",
-      "security"
-    ],
-    "example": {
-      "title": "Summary of CVE-2026-23869 - Vercel",
-      "url": "https://vercel.com/changelog/summary-of-cve-2026-23869"
-    },
-    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 6,
@@ -703,6 +704,45 @@
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote",
+      "npm"
+    ],
+    "example": {
+      "title": "pnpm 11.7 | pnpm",
+      "url": "https://pnpm.io/blog/releases/11.7"
+    },
+    "rssUrl": "https://pnpm.io/blog/rss.xml"
+  },
+  {
+    "count": 4,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "JavaScript",
+      "ECMAScript",
+      "article",
+      "HTML",
+      "browser",
+      "css",
+      "mdn",
+      "WebComponents",
+      "architecture",
+      "MCP",
+      "document",
+      "AI"
+    ],
+    "example": {
+      "title": "Introducing the MDN MCP server",
+      "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/"
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 4,
@@ -908,22 +948,6 @@
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
   },
   {
-    "count": 4,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote",
-      "npm"
-    ],
-    "example": {
-      "title": "Why pnpm no longer expands environment variables in a repository's .npmrc | pnpm",
-      "url": "https://pnpm.io/blog/2026/06/11/env-variables-in-repository-npmrc"
-    },
-    "rssUrl": "https://pnpm.io/blog/rss.xml"
-  },
-  {
     "count": 3,
     "url": "https://openjsf.org",
     "tags": [
@@ -940,26 +964,6 @@
       "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
       "url": "https://openjsf.org/blog/lodash-security-overhaul"
     }
-  },
-  {
-    "count": 3,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "article",
-      "HTML",
-      "browser",
-      "css",
-      "mdn",
-      "WebComponents",
-      "architecture"
-    ],
-    "example": {
-      "title": "Under the hood of MDN's new frontend",
-      "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/"
-    },
-    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 3,
