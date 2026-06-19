@@ -172,6 +172,20 @@
   },
   {
     "count": 13,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.61.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.61.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 13,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -218,20 +232,6 @@
       "url": "https://bun.com/blog/bun-v1.3.14"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.60.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.60.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -377,6 +377,22 @@
     }
   },
   {
+    "count": 8,
+    "url": "https://remix.run",
+    "tags": [
+      "React",
+      "Remix",
+      "ReleaseNote",
+      "article",
+      "Conference"
+    ],
+    "example": {
+      "title": "React Router v8 | Remix",
+      "url": "https://remix.run/blog/react-router-v8"
+    },
+    "rssUrl": "https://remix.run/blog/rss.xml"
+  },
+  {
     "count": 7,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
@@ -487,22 +503,6 @@
       "url": "https://stylexjs.com/blog/v0.18"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 7,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "Remix",
-      "ReleaseNote",
-      "article",
-      "Conference"
-    ],
-    "example": {
-      "title": "Open Sourcing the Remix Store | Remix",
-      "url": "https://remix.run/blog/oss-remix-store"
-    },
-    "rssUrl": "https://remix.run/blog/rss.xml"
   },
   {
     "count": 6,
@@ -946,24 +946,6 @@
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     },
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
-  },
-  {
-    "count": 3,
-    "url": "https://openjsf.org",
-    "tags": [
-      "nodejs",
-      "article",
-      "JavaScript",
-      "library",
-      "news",
-      "lodash",
-      "security",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
-      "url": "https://openjsf.org/blog/lodash-security-overhaul"
-    }
   },
   {
     "count": 3,
@@ -1804,6 +1786,22 @@
       "url": "https://github.com/colinhacks/zod/releases/tag/v4.3.0"
     },
     "rssUrl": "https://github.com/colinhacks/zod/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://openjsf.org",
+    "tags": [
+      "JavaScript",
+      "library",
+      "news",
+      "lodash",
+      "security",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Lodash Rolls Out Major Security Overhaul | OpenJS Foundation",
+      "url": "https://openjsf.org/blog/lodash-security-overhaul"
+    }
   },
   {
     "count": 2,
@@ -7587,5 +7585,19 @@
       "url": "https://babeljs.io/blog/2026/06/16/8.0.0/"
     },
     "rssUrl": "https://babeljs.io/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/nubjs/nub",
+    "tags": [
+      "nodejs",
+      "Rust",
+      "Tools"
+    ],
+    "example": {
+      "title": "nubjs/nub: The all-in-one Node.js toolkit",
+      "url": "https://github.com/nubjs/nub"
+    },
+    "rssUrl": "https://github.com/nubjs/nub/releases.atom"
   }
 ]
