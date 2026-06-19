@@ -1720,6 +1720,12 @@
     ]
   },
   {
+    "url": "https://github.com/nubjs/nub",
+    "feeds": [
+      "https://github.com/nubjs/nub/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
