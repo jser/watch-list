@@ -21,15 +21,17 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 28,
+    "count": 29,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
-      "ReleaseNote"
+      "ReleaseNote",
+      "Rust",
+      "issue"
     ],
     "example": {
-      "title": "Release pnpm 11.5 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.5.0"
+      "title": "Rust Roadmap · Issue #11633 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/issues/11633"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
@@ -1925,18 +1927,6 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://2023.stateofjs.com",
-    "tags": [
-      "JavaScript",
-      "Survey"
-    ],
-    "example": {
-      "title": "State of JavaScript 2023",
-      "url": "https://2023.stateofjs.com/en-US/"
-    }
   },
   {
     "count": 1,
