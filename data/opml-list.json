@@ -509,12 +509,6 @@
     ]
   },
   {
-    "url": "https://nodered.org",
-    "feeds": [
-      "https://nodered.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://nuejs.org",
     "feeds": [
       "https://nuejs.org/feed.xml"
@@ -1097,12 +1091,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "feeds": [
-      "https://zenn.dev/p/cybozu_frontend/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/yumemi_inc/",
     "feeds": [
       "https://zenn.dev/p/yumemi_inc/feed"
@@ -1118,6 +1106,12 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "feeds": [
+      "https://zenn.dev/p/cybozu_frontend/feed"
     ]
   },
   {
