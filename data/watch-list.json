@@ -77,7 +77,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -89,11 +89,12 @@
       "browser",
       "CSS",
       "WebTransport",
-      "WebAuthentication"
+      "WebAuthentication",
+      "JavaScript"
     ],
     "example": {
-      "title": "WebKit Features for Safari 26.4 | WebKit",
-      "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/"
+      "title": "News from WWDC26: WebKit in Safari 27 beta | WebKit",
+      "url": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/"
     }
   },
   {
@@ -104,11 +105,12 @@
       "ReleaseNote",
       "article",
       "performance",
-      "golang"
+      "golang",
+      "go"
     ],
     "example": {
-      "title": "Announcing TypeScript 6.0 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/"
+      "title": "Announcing TypeScript 7.0 RC - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/"
     }
   },
   {
@@ -1170,22 +1172,6 @@
   },
   {
     "count": 2,
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "tags": [
-      "TypeScript",
-      "RegExp",
-      "article",
-      "browser",
-      "Extension",
-      "library"
-    ],
-    "example": {
-      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
-      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/facebook/relay",
     "tags": [
       "GraphQL",
@@ -1860,18 +1846,6 @@
   },
   {
     "count": 1,
-    "url": "https://nodered.org",
-    "tags": [
-      "nodejs",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Version 4.0 released : Node-RED",
-      "url": "https://nodered.org/blog/2024/06/20/version-4-0-released"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://product.st.inc",
     "tags": [
       "TypeScript",
@@ -2221,6 +2195,20 @@
       "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
     },
     "rssUrl": "https://gist.github.com/azu.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "tags": [
+      "browser",
+      "Extension",
+      "article",
+      "library"
+    ],
+    "example": {
+      "title": "【2024年夏】ブラウザ拡張機能開発を加速するフレームワーク・ツール3選をコードベース付きで紹介！",
+      "url": "https://zenn.dev/cybozu_frontend/articles/introduction-browser-extensions-tools"
+    }
   },
   {
     "count": 1,

@@ -85,7 +85,6 @@
 <outline text="mui.com" title="mui.com" type="rss" xmlUrl="https://mui.com/feed/blog/rss.xml"/>
 <outline text="nextjs.org" title="nextjs.org" type="rss" xmlUrl="https://nextjs.org/feed.xml"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
-<outline text="nodered.org" title="nodered.org" type="rss" xmlUrl="https://nodered.org/feed.xml"/>
 <outline text="nuejs.org" title="nuejs.org" type="rss" xmlUrl="https://nuejs.org/feed.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="nx.dev" title="nx.dev" type="rss" xmlUrl="https://nx.dev/blog/rss.xml"/>
@@ -176,10 +175,10 @@
 <outline text="www.trevorlasn.com" title="www.trevorlasn.com" type="rss" xmlUrl="https://www.trevorlasn.com/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
-<outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
+<outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 <outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
