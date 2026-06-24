@@ -3917,7 +3917,8 @@
     "example": {
       "title": "Node.js Type Stripping Explained",
       "url": "https://satanacchio.hashnode.dev/everything-you-need-to-know-about-nodejs-type-stripping"
-    }
+    },
+    "rssUrl": "https://satanacchio.hashnode.dev/rss.xml"
   },
   {
     "count": 1,

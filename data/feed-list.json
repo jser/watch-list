@@ -2015,6 +2015,12 @@
     ]
   },
   {
+    "url": "https://satanacchio.hashnode.dev",
+    "feeds": [
+      "https://satanacchio.hashnode.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://scrapbox.io",
     "feeds": [
       "https://scrapbox.io/api/feed/yamanoku"
