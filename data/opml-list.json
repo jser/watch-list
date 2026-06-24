@@ -647,6 +647,12 @@
     ]
   },
   {
+    "url": "https://satanacchio.hashnode.dev",
+    "feeds": [
+      "https://satanacchio.hashnode.dev/rss.xml"
+    ]
+  },
+  {
     "url": "https://servo.org",
     "feeds": [
       "https://servo.org/blog/feed.xml"
