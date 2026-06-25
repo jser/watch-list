@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 70,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — Node.js 24.16.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.16.0"
+      "title": "Node.js — Node.js 24.18.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.18.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -509,6 +509,25 @@
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
   },
   {
+    "count": 7,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote",
+      "npm",
+      "Rust",
+      "server",
+      "document"
+    ],
+    "example": {
+      "title": "Introduction | pnpm",
+      "url": "https://pnpm.io/pnpr/"
+    },
+    "rssUrl": "https://pnpm.io/blog/rss.xml"
+  },
+  {
     "count": 6,
     "url": "https://socket.dev",
     "tags": [
@@ -708,22 +727,6 @@
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
     }
-  },
-  {
-    "count": 5,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote",
-      "npm"
-    ],
-    "example": {
-      "title": "pnpm 11.7 | pnpm",
-      "url": "https://pnpm.io/blog/releases/11.7"
-    },
-    "rssUrl": "https://pnpm.io/blog/rss.xml"
   },
   {
     "count": 4,
@@ -7577,5 +7580,34 @@
       "url": "https://github.com/nubjs/nub"
     },
     "rssUrl": "https://github.com/nubjs/nub/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/astryx",
+    "tags": [
+      "React",
+      "Design",
+      "Tools",
+      "library"
+    ],
+    "example": {
+      "title": "facebook/astryx: An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/facebook/astryx"
+    },
+    "rssUrl": "https://github.com/facebook/astryx/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://medium.com/flow-type/",
+    "tags": [
+      "JavaScript",
+      "flowtype",
+      "Rust",
+      "article"
+    ],
+    "example": {
+      "title": "Flow has been ported to Rust | Flow",
+      "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9"
+    }
   }
 ]

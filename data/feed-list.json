@@ -1726,6 +1726,12 @@
     ]
   },
   {
+    "url": "https://github.com/facebook/astryx",
+    "feeds": [
+      "https://github.com/facebook/astryx/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
