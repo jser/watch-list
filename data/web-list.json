@@ -5803,7 +5803,8 @@
     "example": {
       "title": "cleaning house in nx monorepo, how i removed 120 unused deps safely",
       "url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely"
-    }
+    },
+    "rssUrl": "https://blog-on-cf.john-usa-james.workers.dev/rss.xml"
   },
   {
     "count": 1,
