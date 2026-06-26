@@ -390,6 +390,13 @@
     ]
   },
   {
+    "url": "https://johnjames.blog",
+    "feeds": [
+      "https://blog-on-cf.john-usa-james.workers.dev/rss.xml",
+      "https://johnjames.blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://jross.me",
     "feeds": [
       "https://jross.me/rss/"
