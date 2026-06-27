@@ -99,7 +99,6 @@
 <outline text="polypane.app" title="polypane.app" type="rss" xmlUrl="https://polypane.app/rss.xml"/>
 <outline text="prettier.io" title="prettier.io" type="rss" xmlUrl="https://prettier.io/blog/atom.xml"/>
 <outline text="product.hubspot.com" title="product.hubspot.com" type="rss" xmlUrl="https://product.hubspot.com/blog/rss.xml"/>
-<outline text="product.st.inc" title="product.st.inc" type="rss" xmlUrl="https://product.st.inc/feed"/>
 <outline text="react.dev" title="react.dev" type="rss" xmlUrl="https://react.dev/rss.xml"/>
 <outline text="reactnative.dev" title="reactnative.dev" type="rss" xmlUrl="https://reactnative.dev/blog/rss.xml"/>
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>

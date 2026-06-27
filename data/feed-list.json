@@ -418,12 +418,6 @@
     ]
   },
   {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/axios/axios",
     "feeds": [
       "https://github.com/axios/axios/releases.atom"
@@ -547,6 +541,12 @@
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tc39/ecma262",
+    "feeds": [
+      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -1975,13 +1975,6 @@
     "url": "https://product.hubspot.com",
     "feeds": [
       "https://product.hubspot.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://product.st.inc",
-    "feeds": [
-      "https://product.st.inc/feed",
-      "https://product.st.inc/rss"
     ]
   },
   {

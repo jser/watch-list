@@ -614,21 +614,6 @@
   },
   {
     "count": 5,
-    "url": "https://2ality.com",
-    "tags": [
-      "ECMAScript",
-      "article",
-      "TypeScript",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Converting values to strings in JavaScript has pitfalls",
-      "url": "https://2ality.com/2025/04/stringification-javascript.html"
-    },
-    "rssUrl": "https://2ality.com/feeds/posts.atom"
-  },
-  {
-    "count": 5,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -727,29 +712,6 @@
       "title": "Firefox 147.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
     }
-  },
-  {
-    "count": 4,
-    "url": "https://developer.mozilla.org",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "article",
-      "HTML",
-      "browser",
-      "css",
-      "mdn",
-      "WebComponents",
-      "architecture",
-      "MCP",
-      "document",
-      "AI"
-    ],
-    "example": {
-      "title": "Introducing the MDN MCP server",
-      "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/"
-    },
-    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 4,
@@ -904,6 +866,20 @@
   },
   {
     "count": 4,
+    "url": "https://2ality.com",
+    "tags": [
+      "TypeScript",
+      "article",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Converting values to strings in JavaScript has pitfalls",
+      "url": "https://2ality.com/2025/04/stringification-javascript.html"
+    },
+    "rssUrl": "https://2ality.com/feeds/posts.atom"
+  },
+  {
+    "count": 4,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -953,21 +929,6 @@
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     },
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "news",
-      "ReleaseNote",
-      "spec"
-    ],
-    "example": {
-      "title": "Release ES2026 Candidate March 31st 2026 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2026-candidate-2026-03-31"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 3,
@@ -1201,6 +1162,27 @@
       "url": "https://github.com/nuxt/nuxt/releases/tag/v4.2.0"
     },
     "rssUrl": "https://github.com/nuxt/nuxt/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://developer.mozilla.org",
+    "tags": [
+      "HTML",
+      "article",
+      "browser",
+      "css",
+      "mdn",
+      "WebComponents",
+      "architecture",
+      "MCP",
+      "document",
+      "AI"
+    ],
+    "example": {
+      "title": "Introducing the MDN MCP server",
+      "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/"
+    },
+    "rssUrl": "https://developer.mozilla.org/en-US/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1706,6 +1688,20 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote",
+      "spec"
+    ],
+    "example": {
+      "title": "Release ES2026 Candidate March 31st 2026 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2026-candidate-2026-03-31"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://v8.dev",
     "tags": [
       "JavaScript",
@@ -1915,19 +1911,6 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://product.st.inc",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "TypeScript v4.9からv5.5で追加された機能のおさらい - STORES Product Blog",
-      "url": "https://product.st.inc/entry/2024/06/24/152109"
-    },
-    "rssUrl": "https://product.st.inc/feed"
   },
   {
     "count": 1,
