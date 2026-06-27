@@ -604,13 +604,6 @@
     ]
   },
   {
-    "url": "https://product.st.inc",
-    "feeds": [
-      "https://product.st.inc/feed",
-      "https://product.st.inc/rss"
-    ]
-  },
-  {
     "url": "https://react.dev",
     "feeds": [
       "https://react.dev/rss.xml"
