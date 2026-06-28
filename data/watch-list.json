@@ -133,7 +133,7 @@
     }
   },
   {
-    "count": 16,
+    "count": 17,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -146,8 +146,8 @@
       "vite"
     ],
     "example": {
-      "title": "Deno 2.8 | Deno",
-      "url": "https://deno.com/blog/v2.8"
+      "title": "Deno 2.9 | Deno",
+      "url": "https://deno.com/blog/v2.9"
     }
   },
   {
@@ -488,6 +488,18 @@
   },
   {
     "count": 7,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 2.1 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-2-1"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://pnpm.io",
     "tags": [
       "pnpm",
@@ -571,18 +583,6 @@
     "example": {
       "title": "Announcing Rolldown 1.0 | VoidZero",
       "url": "https://voidzero.dev/posts/announcing-rolldown-1-0"
-    }
-  },
-  {
-    "count": 6,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 2.0 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-2-0"
     }
   },
   {
@@ -671,6 +671,21 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "TypeScript",
+      "css"
+    ],
+    "example": {
+      "title": "Prettier 3.9: Major parser upgrades and Formatting improvements · Prettier",
+      "url": "https://prettier.io/blog/2026/06/27/3.9.0"
+    }
   },
   {
     "count": 5,
@@ -844,19 +859,6 @@
   },
   {
     "count": 4,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Prettier 3.8: Support for Angular v21.1 · Prettier",
-      "url": "https://prettier.io/blog/2026/01/14/3.8.0"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://github.com/apollographql/apollo-client",
     "tags": [
       "GraphQL",
@@ -1025,6 +1027,19 @@
       "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
     },
     "rssUrl": "https://github.com/nrwl/nx/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://vite.dev",
+    "tags": [
+      "vite",
+      "ReleaseNote",
+      "serverless"
+    ],
+    "example": {
+      "title": "Vite 8.1 is out! | Vite",
+      "url": "https://vite.dev/blog/announcing-vite8-1"
+    }
   },
   {
     "count": 3,
@@ -1442,19 +1457,6 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://vite.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote",
-      "serverless"
-    ],
-    "example": {
-      "title": "Vite 7.0 is out! | Vite",
-      "url": "https://vite.dev/blog/announcing-vite7.html"
-    }
   },
   {
     "count": 2,
