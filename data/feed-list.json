@@ -1732,6 +1732,12 @@
     ]
   },
   {
+    "url": "https://github.com/hunvreus/basecoat",
+    "feeds": [
+      "https://github.com/hunvreus/basecoat/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",

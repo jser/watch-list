@@ -151,7 +151,7 @@
     }
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -162,8 +162,8 @@
       "React"
     ],
     "example": {
-      "title": "Next.js 16.2 | Next.js",
-      "url": "https://nextjs.org/blog/next-16-2"
+      "title": "Next.js 16.3: Instant Navigations | Next.js",
+      "url": "https://nextjs.org/blog/next-16-3-instant-navigations"
     }
   },
   {
@@ -7398,5 +7398,21 @@
       "title": "Flow has been ported to Rust | Flow",
       "url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/hunvreus/basecoat",
+    "tags": [
+      "JavaScript",
+      "css",
+      "HTML",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 1.0.0 🎉 · hunvreus/basecoat",
+      "url": "https://github.com/hunvreus/basecoat/releases/tag/1.0.0"
+    },
+    "rssUrl": "https://github.com/hunvreus/basecoat/releases.atom"
   }
 ]
