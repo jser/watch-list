@@ -1916,19 +1916,6 @@
   },
   {
     "count": 1,
-    "url": "https://scrapbox.io",
-    "tags": [
-      "Bun",
-      "article"
-    ],
-    "example": {
-      "title": "Bun の非互換な拡張 API - moriken's project",
-      "url": "https://scrapbox.io/petamoriken/Bun_%E3%81%AE%E9%9D%9E%E4%BA%92%E6%8F%9B%E3%81%AA%E6%8B%A1%E5%BC%B5_API"
-    },
-    "rssUrl": "https://scrapbox.io/api/feed/yamanoku"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/e18e/e18e",
     "tags": [
       "JavaScript",

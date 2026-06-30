@@ -2033,12 +2033,6 @@
     ]
   },
   {
-    "url": "https://scrapbox.io",
-    "feeds": [
-      "https://scrapbox.io/api/feed/yamanoku"
-    ]
-  },
-  {
     "url": "https://servo.org",
     "feeds": [
       "https://servo.org/blog/feed.xml"
