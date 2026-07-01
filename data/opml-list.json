@@ -925,12 +925,6 @@
     ]
   },
   {
-    "url": "https://workos.com",
-    "feeds": [
-      "https://workos.com/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.aikido.dev",
     "feeds": [
       "https://www.aikido.dev/blog/rss.xml"
@@ -1035,12 +1029,6 @@
     "url": "https://www.projectwallace.com",
     "feeds": [
       "https://www.projectwallace.com/blog/feed.xml"
-    ]
-  },
-  {
-    "url": "https://www.rspack.dev",
-    "feeds": [
-      "https://www.rspack.dev/rss/blog-en.rss"
     ]
   },
   {

@@ -472,12 +472,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/relay",
-    "feeds": [
-      "https://github.com/facebook/relay/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/node",
     "feeds": [
       "https://github.com/nodejs/node/releases.atom"
@@ -565,18 +559,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/e18e/e18e",
-    "feeds": [
-      "https://github.com/e18e/e18e/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/es-tooling/eslint-plugin-depend",
-    "feeds": [
-      "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
     ]
   },
   {
@@ -1081,6 +1063,12 @@
     "url": "https://github.com/pulsar-edit/pulsar",
     "feeds": [
       "https://github.com/pulsar-edit/pulsar/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/relay",
+    "feeds": [
+      "https://github.com/facebook/relay/releases.atom"
     ]
   },
   {
@@ -2305,12 +2293,6 @@
     ]
   },
   {
-    "url": "https://workos.com",
-    "feeds": [
-      "https://workos.com/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://www.aikido.dev",
     "feeds": [
       "https://www.aikido.dev/blog/rss.xml"
@@ -2415,12 +2397,6 @@
     "url": "https://www.projectwallace.com",
     "feeds": [
       "https://www.projectwallace.com/blog/feed.xml"
-    ]
-  },
-  {
-    "url": "https://www.rspack.dev",
-    "feeds": [
-      "https://www.rspack.dev/rss/blog-en.rss"
     ]
   },
   {
