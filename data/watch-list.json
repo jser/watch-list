@@ -1172,21 +1172,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/facebook/relay",
-    "tags": [
-      "GraphQL",
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v19.0.0 · facebook/relay",
-      "url": "https://github.com/facebook/relay/releases/tag/v19.0.0"
-    },
-    "rssUrl": "https://github.com/facebook/relay/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://github.com/nodejs/node",
     "tags": [
       "nodejs",
@@ -1843,59 +1828,6 @@
     "example": {
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/e18e/e18e",
-    "tags": [
-      "JavaScript",
-      "npm",
-      "performance",
-      "document"
-    ],
-    "example": {
-      "title": "e18e/e18e",
-      "url": "https://github.com/e18e/e18e"
-    },
-    "rssUrl": "https://github.com/e18e/e18e/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/es-tooling/eslint-plugin-depend",
-    "tags": [
-      "ESLint",
-      "plugin",
-      "npm"
-    ],
-    "example": {
-      "title": "es-tooling/eslint-plugin-depend: An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.",
-      "url": "https://github.com/es-tooling/eslint-plugin-depend"
-    },
-    "rssUrl": "https://github.com/es-tooling/eslint-plugin-depend/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack v1.0 Alpha - Rspack",
-      "url": "https://www.rspack.dev/blog/announcing-1-0-alpha"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://workos.com",
-    "tags": [
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "Migrating to Next.js App Router with zero downtime — WorkOS",
-      "url": "https://workos.com/blog/migrating-to-next-js-app-router-with-zero-downtime"
     }
   },
   {
@@ -4569,6 +4501,21 @@
       "title": "Design Tokens Course with Brad Frost and Ian Frost",
       "url": "https://designtokenscourse.com/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/relay",
+    "tags": [
+      "GraphQL",
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v19.0.0 · facebook/relay",
+      "url": "https://github.com/facebook/relay/releases/tag/v19.0.0"
+    },
+    "rssUrl": "https://github.com/facebook/relay/releases.atom"
   },
   {
     "count": 1,
