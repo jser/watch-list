@@ -176,20 +176,6 @@
   },
   {
     "count": 13,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.61.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.61.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 13,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -236,6 +222,20 @@
       "url": "https://bun.com/blog/bun-v1.3.14"
     },
     "rssUrl": "https://bun.com/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.61.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.61.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 11,
@@ -934,23 +934,6 @@
   },
   {
     "count": 3,
-    "url": "https://lea.verou.me",
-    "tags": [
-      "CSS",
-      "article",
-      "WebComponents",
-      "opinion",
-      "JavaScript",
-      "module"
-    ],
-    "example": {
-      "title": "External import maps, today! • Lea Verou",
-      "url": "https://lea.verou.me/blog/2026/external-import-maps-today/"
-    },
-    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
-  },
-  {
-    "count": 3,
     "url": "https://blog.jquery.com",
     "tags": [
       "jQuery",
@@ -1364,6 +1347,22 @@
       "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%405.0.0"
     },
     "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://lea.verou.me",
+    "tags": [
+      "WebComponents",
+      "article",
+      "opinion",
+      "JavaScript",
+      "module"
+    ],
+    "example": {
+      "title": "External import maps, today! • Lea Verou",
+      "url": "https://lea.verou.me/blog/2026/external-import-maps-today/"
+    },
+    "rssUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"
   },
   {
     "count": 2,
@@ -1898,48 +1897,6 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://tkdodo.eu",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "React 19 and Suspense - A Drama in 3 Acts | TkDodo's blog",
-      "url": "https://tkdodo.eu/blog/react-19-and-suspense-a-drama-in-3-acts"
-    },
-    "rssUrl": "https://tkdodo.eu/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://marmelab.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing React-Admin V5",
-      "url": "https://marmelab.com/blog/2024/06/20/react-admin-v5.html"
-    },
-    "rssUrl": "https://marmelab.com/atom.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://sansec.io",
-    "tags": [
-      "JavaScript",
-      "polyfill",
-      "security",
-      "news"
-    ],
-    "example": {
-      "title": "Polyfill supply chain attack hits 100K+ sites",
-      "url": "https://sansec.io/research/polyfill-supply-chain-attack"
-    },
-    "rssUrl": "https://sansec.io/atom.xml"
   },
   {
     "count": 1,
@@ -5148,7 +5105,8 @@
     "example": {
       "title": "The world’s longest React hooks migration | by Chris Krogh | Jul, 2025 | The Craft",
       "url": "https://craft.faire.com/the-worlds-longest-react-hooks-migration-8f357cdcdbe9"
-    }
+    },
+    "rssUrl": "https://craft.faire.com/feed"
   },
   {
     "count": 1,
