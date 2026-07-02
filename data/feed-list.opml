@@ -36,6 +36,7 @@
 <outline text="calendar.perfplanet.com" title="calendar.perfplanet.com" type="rss" xmlUrl="https://calendar.perfplanet.com/feed/"/>
 <outline text="ckeditor.com" title="ckeditor.com" type="rss" xmlUrl="https://ckeditor.com/rss.xml"/>
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
+<outline text="craft.faire.com" title="craft.faire.com" type="rss" xmlUrl="https://craft.faire.com/feed"/>
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
 <outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
@@ -307,7 +308,6 @@
 <outline text="main.vite.dev" title="main.vite.dev" type="rss" xmlUrl="https://main.vite.dev/blog.rss"/>
 <outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="mametter.hatenablog.com" title="mametter.hatenablog.com" type="rss" xmlUrl="https://mametter.hatenablog.com/feed"/>
-<outline text="marmelab.com" title="marmelab.com" type="rss" xmlUrl="https://marmelab.com/atom.xml"/>
 <outline text="martijnhols.nl" title="martijnhols.nl" type="rss" xmlUrl="https://martijnhols.nl/rss.xml"/>
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>
 <outline text="moonrepo.dev" title="moonrepo.dev" type="rss" xmlUrl="https://moonrepo.dev/blog/rss.xml"/>
@@ -332,7 +332,6 @@
 <outline text="remix.run" title="remix.run" type="rss" xmlUrl="https://remix.run/blog/rss.xml"/>
 <outline text="rspack.dev" title="rspack.dev" type="rss" xmlUrl="https://rspack.dev/rss/blog-rss.xml"/>
 <outline text="rspack.rs" title="rspack.rs" type="rss" xmlUrl="https://rspack.rs/rss/blog-rss.xml"/>
-<outline text="sansec.io" title="sansec.io" type="rss" xmlUrl="https://sansec.io/atom.xml"/>
 <outline text="sass-lang.com" title="sass-lang.com" type="rss" xmlUrl="https://sass-lang.com/feed.xml"/>
 <outline text="satanacchio.hashnode.dev" title="satanacchio.hashnode.dev" type="rss" xmlUrl="https://satanacchio.hashnode.dev/rss.xml"/>
 <outline text="servo.org" title="servo.org" type="rss" xmlUrl="https://servo.org/blog/feed.xml"/>
@@ -358,7 +357,6 @@
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="techblog.lycorp.co.jp" title="techblog.lycorp.co.jp" type="rss" xmlUrl="https://techblog.lycorp.co.jp/ja/feed/index.xml"/>
-<outline text="tkdodo.eu" title="tkdodo.eu" type="rss" xmlUrl="https://tkdodo.eu/blog/rss.xml"/>
 <outline text="tonyalicea.dev" title="tonyalicea.dev" type="rss" xmlUrl="https://tonyalicea.dev/feed/feed.xml"/>
 <outline text="trynova.dev" title="trynova.dev" type="rss" xmlUrl="https://trynova.dev/blog/feed.rss"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>

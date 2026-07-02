@@ -200,6 +200,12 @@
     ]
   },
   {
+    "url": "https://craft.faire.com",
+    "feeds": [
+      "https://craft.faire.com/feed"
+    ]
+  },
+  {
     "url": "https://css-tricks.com",
     "feeds": [
       "https://css-tricks.com/feed/",
@@ -1841,12 +1847,6 @@
     ]
   },
   {
-    "url": "https://marmelab.com",
-    "feeds": [
-      "https://marmelab.com/atom.xml"
-    ]
-  },
-  {
     "url": "https://martijnhols.nl",
     "feeds": [
       "https://martijnhols.nl/rss.xml"
@@ -2000,12 +2000,6 @@
     "url": "https://rspack.rs",
     "feeds": [
       "https://rspack.rs/rss/blog-rss.xml"
-    ]
-  },
-  {
-    "url": "https://sansec.io",
-    "feeds": [
-      "https://sansec.io/atom.xml"
     ]
   },
   {
@@ -2170,12 +2164,6 @@
     "url": "https://techblog.lycorp.co.jp",
     "feeds": [
       "https://techblog.lycorp.co.jp/ja/feed/index.xml"
-    ]
-  },
-  {
-    "url": "https://tkdodo.eu",
-    "feeds": [
-      "https://tkdodo.eu/blog/rss.xml"
     ]
   },
   {
