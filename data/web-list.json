@@ -398,19 +398,6 @@
   },
   {
     "count": 7,
-    "url": "https://github.com/evanw/esbuild",
-    "tags": [
-      "esbuild",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v0.25.11 · evanw/esbuild",
-      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
-    },
-    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 7,
     "url": "https://www.youtube.com",
     "tags": [
       "JavaScript",
@@ -592,6 +579,19 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://github.com/evanw/esbuild",
+    "tags": [
+      "esbuild",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v0.25.11 · evanw/esbuild",
+      "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
+    },
+    "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
   },
   {
     "count": 6,
