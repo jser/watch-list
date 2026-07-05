@@ -59,7 +59,30 @@
     }
   },
   {
-    "count": 21,
+    "count": 22,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "privacy",
+      "article",
+      "ReleaseNote",
+      "css",
+      "webkit",
+      "browser",
+      "CSS",
+      "WebTransport",
+      "WebAuthentication",
+      "JavaScript",
+      "MCP",
+      "Tools"
+    ],
+    "example": {
+      "title": "Introducing the Safari MCP server for web developers | WebKit",
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/"
+    }
+  },
+  {
+    "count": 20,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -74,27 +97,6 @@
     "example": {
       "title": "Bun v1.2.20 | Bun Blog",
       "url": "https://bun.sh/blog/bun-v1.2.20"
-    }
-  },
-  {
-    "count": 21,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "privacy",
-      "article",
-      "ReleaseNote",
-      "css",
-      "webkit",
-      "browser",
-      "CSS",
-      "WebTransport",
-      "WebAuthentication",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "News from WWDC26: WebKit in Safari 27 beta | WebKit",
-      "url": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/"
     }
   },
   {
@@ -475,6 +477,24 @@
   },
   {
     "count": 7,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article",
+      "ReleaseNote",
+      "rollup",
+      "bundler",
+      "CLI",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing Vite+ Beta | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta"
+    }
+  },
+  {
+    "count": 7,
     "url": "https://rspack.rs",
     "tags": [
       "rspack",
@@ -566,24 +586,6 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
-  },
-  {
-    "count": 6,
-    "url": "https://voidzero.dev",
-    "tags": [
-      "vite",
-      "Rust",
-      "article",
-      "ReleaseNote",
-      "rollup",
-      "bundler",
-      "CLI",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing Rolldown 1.0 | VoidZero",
-      "url": "https://voidzero.dev/posts/announcing-rolldown-1-0"
-    }
   },
   {
     "count": 5,
@@ -1120,6 +1122,21 @@
   },
   {
     "count": 3,
+    "url": "https://github.com/tc39/ecma262",
+    "tags": [
+      "ECMAScript",
+      "ReleaseNote",
+      "spec",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Release ES2026 · tc39/ecma262",
+      "url": "https://github.com/tc39/ecma262/releases/tag/es2026"
+    },
+    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
+  },
+  {
+    "count": 3,
     "url": "https://developer.mozilla.org",
     "tags": [
       "HTML",
@@ -1153,21 +1170,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/nodejs/node",
-    "tags": [
-      "nodejs",
-      "ReleaseNote",
-      "TypeScript",
-      "issue"
-    ],
-    "example": {
-      "title": "module: mark type stripping as stable by marco-ippolito · Pull Request #60600 · nodejs/node",
-      "url": "https://github.com/nodejs/node/pull/60600"
-    },
-    "rssUrl": "https://github.com/nodejs/node/releases.atom"
   },
   {
     "count": 2,
@@ -1610,20 +1612,6 @@
       "title": "Lynx: Unlock Native for More - Lynx",
       "url": "https://lynxjs.org/blog/lynx-unlock-native-for-more.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/tc39/ecma262",
-    "tags": [
-      "ECMAScript",
-      "ReleaseNote",
-      "spec"
-    ],
-    "example": {
-      "title": "Release ES2026 Candidate March 31st 2026 · tc39/ecma262",
-      "url": "https://github.com/tc39/ecma262/releases/tag/es2026-candidate-2026-03-31"
-    },
-    "rssUrl": "https://github.com/tc39/ecma262/releases.atom"
   },
   {
     "count": 2,
@@ -5668,6 +5656,20 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/nodejs/node",
+    "tags": [
+      "nodejs",
+      "TypeScript",
+      "issue"
+    ],
+    "example": {
+      "title": "module: mark type stripping as stable by marco-ippolito · Pull Request #60600 · nodejs/node",
+      "url": "https://github.com/nodejs/node/pull/60600"
+    },
+    "rssUrl": "https://github.com/nodejs/node/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
     "tags": [
       "JavaScript",
@@ -7309,5 +7311,20 @@
       "url": "https://github.com/hunvreus/basecoat/releases/tag/1.0.0"
     },
     "rssUrl": "https://github.com/hunvreus/basecoat/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jayu/rev-dep",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "CLI",
+      "Tools"
+    ],
+    "example": {
+      "title": "jayu/rev-dep: Dependency analysis and optimization toolkit for modern JavaScript and TypeScript codebases. Enforce dependency graph hygiene and remove unused code with a very fast CLI.",
+      "url": "https://github.com/jayu/rev-dep"
+    },
+    "rssUrl": "https://github.com/jayu/rev-dep/releases.atom"
   }
 ]

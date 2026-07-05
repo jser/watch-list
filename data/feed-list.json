@@ -478,9 +478,9 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/node",
+    "url": "https://github.com/tc39/ecma262",
     "feeds": [
-      "https://github.com/nodejs/node/releases.atom"
+      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -541,12 +541,6 @@
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/tc39/ecma262",
-    "feeds": [
-      "https://github.com/tc39/ecma262/releases.atom"
     ]
   },
   {
@@ -1330,6 +1324,12 @@
     ]
   },
   {
+    "url": "https://github.com/nodejs/node",
+    "feeds": [
+      "https://github.com/nodejs/node/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
     "feeds": [
       "https://github.com/stepwisehq/prosemirror-collab-commit/releases.atom"
@@ -1729,6 +1729,12 @@
     "url": "https://github.com/hunvreus/basecoat",
     "feeds": [
       "https://github.com/hunvreus/basecoat/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jayu/rev-dep",
+    "feeds": [
+      "https://github.com/jayu/rev-dep/releases.atom"
     ]
   },
   {
