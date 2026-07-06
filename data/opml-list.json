@@ -1033,12 +1033,6 @@
     ]
   },
   {
-    "url": "https://www.speedcurve.com",
-    "feeds": [
-      "https://www.speedcurve.com/blog/rss/"
-    ]
-  },
-  {
     "url": "https://www.stepsecurity.io",
     "feeds": [
       "https://www.stepsecurity.io/blog/rss.xml"
