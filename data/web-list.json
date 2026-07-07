@@ -7505,5 +7505,20 @@
       "url": "https://github.com/jayu/rev-dep"
     },
     "rssUrl": "https://github.com/jayu/rev-dep/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/samchon/ttsc",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "nodejs",
+      "lint"
+    ],
+    "example": {
+      "title": "samchon/ttsc: A `typescript-go` toolchain for compiler-powered plugins and type-safe execution + 500x faster lint integrated into compiler",
+      "url": "https://github.com/samchon/ttsc"
+    },
+    "rssUrl": "https://github.com/samchon/ttsc/releases.atom"
   }
 ]
