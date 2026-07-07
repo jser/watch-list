@@ -1738,6 +1738,12 @@
     ]
   },
   {
+    "url": "https://github.com/samchon/ttsc",
+    "feeds": [
+      "https://github.com/samchon/ttsc/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
