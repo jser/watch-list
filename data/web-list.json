@@ -21,7 +21,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 29,
+    "count": 30,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -30,13 +30,13 @@
       "issue"
     ],
     "example": {
-      "title": "Rust Roadmap · Issue #11633 · pnpm/pnpm",
-      "url": "https://github.com/pnpm/pnpm/issues/11633"
+      "title": "Release pnpm 11.10 · pnpm/pnpm",
+      "url": "https://github.com/pnpm/pnpm/releases/tag/v11.10.0"
     },
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 23,
+    "count": 24,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -52,11 +52,12 @@
       "news",
       "WebAPI",
       "DOM",
-      "stream"
+      "stream",
+      "WebGPU"
     ],
     "example": {
-      "title": "Declarative partial updates  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/declarative-partial-updates"
+      "title": "Chrome 150  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/150"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -227,6 +228,19 @@
   },
   {
     "count": 12,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 43 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-43-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
+  },
+  {
+    "count": 12,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -250,19 +264,6 @@
       "title": "Firefox 140.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
-  },
-  {
-    "count": 11,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 42 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-42-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 11,
