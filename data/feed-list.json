@@ -562,12 +562,6 @@
     ]
   },
   {
-    "url": "https://github.com/nodejs/loaders",
-    "feeds": [
-      "https://github.com/nodejs/loaders/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file",
     "feeds": [
       "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
@@ -1805,12 +1799,6 @@
     "url": "https://kurtextrem.de",
     "feeds": [
       "https://kurtextrem.de/rss.xml"
-    ]
-  },
-  {
-    "url": "https://ladybird.org",
-    "feeds": [
-      "https://ladybird.org/posts.xml"
     ]
   },
   {

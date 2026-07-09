@@ -20,7 +20,7 @@
     }
   },
   {
-    "count": 30,
+    "count": 29,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -101,7 +101,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -112,27 +112,8 @@
       "go"
     ],
     "example": {
-      "title": "Announcing TypeScript 7.0 RC - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-rc/"
-    }
-  },
-  {
-    "count": 17,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "article",
-      "ReleaseNote",
-      "news",
-      "JSON",
-      "Markdown",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+      "title": "Announcing TypeScript 7.0 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
     }
   },
   {
@@ -151,6 +132,25 @@
     "example": {
       "title": "Deno 2.9 | Deno",
       "url": "https://deno.com/blog/v2.9"
+    }
+  },
+  {
+    "count": 16,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "news",
+      "JSON",
+      "Markdown",
+      "article",
+      "TypeScript",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
     }
   },
   {
@@ -1816,32 +1816,6 @@
     "example": {
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/nodejs/loaders",
-    "tags": [
-      "nodejs",
-      "TypeScript",
-      "issue"
-    ],
-    "example": {
-      "title": "Support typescript with --experimental-strip-types · Issue #208 · nodejs/loaders",
-      "url": "https://github.com/nodejs/loaders/issues/208"
-    },
-    "rssUrl": "https://github.com/nodejs/loaders/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://ladybird.org",
-    "tags": [
-      "browser",
-      "article"
-    ],
-    "example": {
-      "title": "Ladybird",
-      "url": "https://ladybird.org/announcement/"
     }
   },
   {

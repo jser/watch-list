@@ -95,7 +95,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/nodejs/loaders" title="github.com/nodejs/loaders" type="rss" xmlUrl="https://github.com/nodejs/loaders/releases.atom"/>
 <outline text="github.com/toss/es-toolkit?tab=readme-ov-file" title="github.com/toss/es-toolkit?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/mjackson/fetch-super-headers" title="github.com/mjackson/fetch-super-headers" type="rss" xmlUrl="https://github.com/mjackson/fetch-super-headers/releases.atom"/>
 <outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
@@ -302,7 +301,6 @@
 <outline text="kaminashi-developer.hatenablog.jp" title="kaminashi-developer.hatenablog.jp" type="rss" xmlUrl="https://kaminashi-developer.hatenablog.jp/feed"/>
 <outline text="kettanaito.com" title="kettanaito.com" type="rss" xmlUrl="https://kettanaito.com/blog/rss.xml"/>
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
-<outline text="ladybird.org" title="ladybird.org" type="rss" xmlUrl="https://ladybird.org/posts.xml"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
 <outline text="leanrada.com" title="leanrada.com" type="rss" xmlUrl="https://leanrada.com/rss.xml"/>
 <outline text="leaysgur.github.io" title="leaysgur.github.io" type="rss" xmlUrl="https://leaysgur.github.io/posts/rss.xml"/>
