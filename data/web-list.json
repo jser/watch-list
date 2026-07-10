@@ -1,13 +1,13 @@
 [
   {
-    "count": 70,
+    "count": 69,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
-      "security",
       "ReleaseNote",
       "article",
       "TypeScript",
+      "security",
       "news",
       "rlee",
       "nodfe",
