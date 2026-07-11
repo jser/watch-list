@@ -335,25 +335,6 @@
     }
   },
   {
-    "count": 9,
-    "url": "https://web.dev",
-    "tags": [
-      "CSS",
-      "article",
-      "css ",
-      "browser",
-      "performance",
-      "Unicode",
-      "JavaScript",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    }
-  },
-  {
     "count": 8,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
@@ -365,6 +346,24 @@
     "example": {
       "title": "October 2, 2025 Release – React Spectrum Releases",
       "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://web.dev",
+    "tags": [
+      "css ",
+      "article",
+      "browser",
+      "performance",
+      "Unicode",
+      "JavaScript",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
     }
   },
   {
@@ -526,26 +525,6 @@
   },
   {
     "count": 6,
-    "url": "https://socket.dev",
-    "tags": [
-      "pnpm",
-      "article",
-      "security",
-      "npm",
-      "news",
-      "python",
-      "Rust",
-      "TC39",
-      "ECMAScript",
-      "proposal"
-    ],
-    "example": {
-      "title": "TC39 Advances Temporal to Stage 4 Alongside Several ECMAScri...",
-      "url": "https://socket.dev/blog/tc39-advances-temporal-to-stage-4?utm_medium=feed"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://frontendmasters.com",
     "tags": [
       "DOM",
@@ -674,6 +653,26 @@
       "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
     },
     "rssUrl": "https://github.com/npm/cli/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://socket.dev",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "npm",
+      "news",
+      "python",
+      "Rust",
+      "TC39",
+      "ECMAScript",
+      "proposal"
+    ],
+    "example": {
+      "title": "TC39 Advances Temporal to Stage 4 Alongside Several ECMAScri...",
+      "url": "https://socket.dev/blog/tc39-advances-temporal-to-stage-4?utm_medium=feed"
+    }
   },
   {
     "count": 5,
@@ -1816,45 +1815,6 @@
     "example": {
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://poteboy.dev",
-    "tags": [
-      "ECMAScript",
-      "module",
-      "article"
-    ],
-    "example": {
-      "title": "ESModules プラットフォームとエコシステムの狭間で | poteboy",
-      "url": "https://poteboy.dev/posts/20240708-esm-platform-and-ecosystem"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://openapi-ts.dev",
-    "tags": [
-      "TypeScript",
-      "OpenAPI",
-      "Tools",
-      "library"
-    ],
-    "example": {
-      "title": "OpenAPI TypeScript",
-      "url": "https://openapi-ts.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tonyalicea.dev",
-    "tags": [
-      "React",
-      "article"
-    ],
-    "example": {
-      "title": "Understanding React Compiler | Tony Alicea",
-      "url": "https://tonyalicea.dev/blog/understanding-react-compiler/"
     }
   },
   {

@@ -793,12 +793,6 @@
     ]
   },
   {
-    "url": "https://tonyalicea.dev",
-    "feeds": [
-      "https://tonyalicea.dev/feed/feed.xml"
-    ]
-  },
-  {
     "url": "https://trynova.dev",
     "feeds": [
       "https://trynova.dev/blog/feed.rss",
