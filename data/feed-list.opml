@@ -13,6 +13,7 @@
 <outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
 <outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="benhowdle.im" title="benhowdle.im" type="rss" xmlUrl="https://benhowdle.im/feed.xml"/>
+<outline text="better-auth.com" title="better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
 <outline text="blog.calm.com" title="blog.calm.com" type="rss" xmlUrl="https://blog.calm.com/engineering?format=rss"/>
@@ -291,6 +292,7 @@
 <outline text="github.com/hunvreus/basecoat" title="github.com/hunvreus/basecoat" type="rss" xmlUrl="https://github.com/hunvreus/basecoat/releases.atom"/>
 <outline text="github.com/jayu/rev-dep" title="github.com/jayu/rev-dep" type="rss" xmlUrl="https://github.com/jayu/rev-dep/releases.atom"/>
 <outline text="github.com/samchon/ttsc" title="github.com/samchon/ttsc" type="rss" xmlUrl="https://github.com/samchon/ttsc/releases.atom"/>
+<outline text="github.com/theMackabu/ant" title="github.com/theMackabu/ant" type="rss" xmlUrl="https://github.com/theMackabu/ant/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

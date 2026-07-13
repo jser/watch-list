@@ -55,6 +55,12 @@
     ]
   },
   {
+    "url": "https://better-auth.com",
+    "feeds": [
+      "https://better-auth.com/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"
@@ -904,13 +910,6 @@
     "url": "https://www.aikido.dev",
     "feeds": [
       "https://www.aikido.dev/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://www.better-auth.com",
-    "feeds": [
-      "https://better-auth.com/blog/rss.xml",
-      "https://www.better-auth.com/blog/rss.xml"
     ]
   },
   {

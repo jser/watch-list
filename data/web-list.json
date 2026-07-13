@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 70,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — Node.js 24.18.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.18.0"
+      "title": "Node.js — Node.js 26.5.0 (Current)",
+      "url": "https://nodejs.org/en/blog/release/v26.5.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -178,7 +178,7 @@
     "rssUrl": "https://nextjs.org/feed.xml"
   },
   {
-    "count": 13,
+    "count": 14,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -202,11 +202,12 @@
       "CLI",
       "Tools",
       "deno",
-      "package"
+      "package",
+      "ReleaseNote"
     ],
     "example": {
-      "title": "Dependabot version updates now support the Deno ecosystem - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-06-09-dependabot-version-updates-now-support-the-deno-ecosystem/"
+      "title": "npm install-time security and GAT bypass2fa deprecation - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/"
     },
     "rssUrl": "https://github.blog/feed/"
   },
@@ -254,19 +255,7 @@
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
-    "count": 11,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 11,
+    "count": 12,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "cloudflare",
@@ -285,10 +274,22 @@
       "wordpress"
     ],
     "example": {
-      "title": "VoidZero is joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+      "title": "Your Worker can now have its own cache in front of it",
+      "url": "https://blog.cloudflare.com/workers-cache/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 11,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 11,
@@ -7453,5 +7454,49 @@
       "url": "https://github.com/samchon/ttsc"
     },
     "rssUrl": "https://github.com/samchon/ttsc/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/theMackabu/ant",
+    "tags": [
+      "JavaScript",
+      "C",
+      "TypeScript",
+      "Tools"
+    ],
+    "example": {
+      "title": "theMackabu/ant: javascript for 🐜's, a tiny runtime with big ambitions",
+      "url": "https://github.com/theMackabu/ant"
+    },
+    "rssUrl": "https://github.com/theMackabu/ant/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://better-auth.com",
+    "tags": [
+      "TypeScript",
+      "vercel",
+      "news",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Better Auth is joining Vercel",
+      "url": "https://better-auth.com/blog/better-auth-joins-vercel"
+    },
+    "rssUrl": "https://better-auth.com/blog/rss.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://wordgard.net",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "editor",
+      "library"
+    ],
+    "example": {
+      "title": "Wordgard",
+      "url": "https://wordgard.net/"
+    }
   }
 ]
