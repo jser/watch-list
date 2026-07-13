@@ -55,6 +55,12 @@
     ]
   },
   {
+    "url": "https://better-auth.com",
+    "feeds": [
+      "https://better-auth.com/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://biomejs.dev",
     "feeds": [
       "https://biomejs.dev/feed.xml"
@@ -1735,6 +1741,12 @@
     "url": "https://github.com/samchon/ttsc",
     "feeds": [
       "https://github.com/samchon/ttsc/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/theMackabu/ant",
+    "feeds": [
+      "https://github.com/theMackabu/ant/releases.atom"
     ]
   },
   {
