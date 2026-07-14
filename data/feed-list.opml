@@ -93,10 +93,10 @@
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
 <outline text="github.com/nodejs/corepack" title="github.com/nodejs/corepack" type="rss" xmlUrl="https://github.com/nodejs/corepack/releases.atom"/>
+<outline text="github.com/inokawa/virtua" title="github.com/inokawa/virtua" type="rss" xmlUrl="https://github.com/inokawa/virtua/releases.atom"/>
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/toss/es-toolkit?tab=readme-ov-file" title="github.com/toss/es-toolkit?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/mjackson/fetch-super-headers" title="github.com/mjackson/fetch-super-headers" type="rss" xmlUrl="https://github.com/mjackson/fetch-super-headers/releases.atom"/>
 <outline text="github.com/versotile-org/verso" title="github.com/versotile-org/verso" type="rss" xmlUrl="https://github.com/versotile-org/verso/releases.atom"/>
 <outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
@@ -162,7 +162,6 @@
 <outline text="github.com/microsoft/typescript-go" title="github.com/microsoft/typescript-go" type="rss" xmlUrl="https://github.com/microsoft/typescript-go/releases.atom"/>
 <outline text="github.com/nodejs/TSC" title="github.com/nodejs/TSC" type="rss" xmlUrl="https://github.com/nodejs/TSC/releases.atom"/>
 <outline text="github.com/advisories/GHSA-f82v-jwr5-mffw" title="github.com/advisories/GHSA-f82v-jwr5-mffw" type="rss" xmlUrl="https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"/>
-<outline text="github.com/inokawa/virtua" title="github.com/inokawa/virtua" type="rss" xmlUrl="https://github.com/inokawa/virtua/releases.atom"/>
 <outline text="github.com/harrysolovay/standard-json-schema" title="github.com/harrysolovay/standard-json-schema" type="rss" xmlUrl="https://github.com/harrysolovay/standard-json-schema/releases.atom"/>
 <outline text="github.com/tailwindlabs/tailwindcss" title="github.com/tailwindlabs/tailwindcss" type="rss" xmlUrl="https://github.com/tailwindlabs/tailwindcss/releases.atom"/>
 <outline text="github.com/bytecodealliance/StarlingMonkey" title="github.com/bytecodealliance/StarlingMonkey" type="rss" xmlUrl="https://github.com/bytecodealliance/StarlingMonkey/releases.atom"/>
@@ -308,7 +307,6 @@
 <outline text="leaysgur.github.io" title="leaysgur.github.io" type="rss" xmlUrl="https://leaysgur.github.io/posts/rss.xml"/>
 <outline text="lynxjs.org" title="lynxjs.org" type="rss" xmlUrl="https://lynxjs.org/rss/blog-rss.xml"/>
 <outline text="main.vite.dev" title="main.vite.dev" type="rss" xmlUrl="https://main.vite.dev/blog.rss"/>
-<outline text="makojs.dev" title="makojs.dev" type="rss" xmlUrl="https://makojs.dev/rss.xml"/>
 <outline text="mametter.hatenablog.com" title="mametter.hatenablog.com" type="rss" xmlUrl="https://mametter.hatenablog.com/feed"/>
 <outline text="martijnhols.nl" title="martijnhols.nl" type="rss" xmlUrl="https://martijnhols.nl/rss.xml"/>
 <outline text="medium.com/airbnb-engineering/" title="medium.com/airbnb-engineering/" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering"/>

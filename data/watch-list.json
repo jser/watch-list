@@ -84,24 +84,6 @@
   },
   {
     "count": 20,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "bum",
-      "V8",
-      "webkit",
-      "C++",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    }
-  },
-  {
-    "count": 20,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -117,21 +99,21 @@
     }
   },
   {
-    "count": 17,
-    "url": "https://deno.com",
+    "count": 19,
+    "url": "https://bun.sh",
     "tags": [
-      "deno",
+      "Bun",
       "ReleaseNote",
-      "dneo",
+      "bum",
+      "V8",
+      "webkit",
+      "C++",
       "article",
-      "browser",
-      "JavaScript",
-      "history",
-      "vite"
+      "css"
     ],
     "example": {
-      "title": "Deno 2.9 | Deno",
-      "url": "https://deno.com/blog/v2.9"
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
     }
   },
   {
@@ -151,6 +133,24 @@
     "example": {
       "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
+  },
+  {
+    "count": 16,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "dneo",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.9 | Deno",
+      "url": "https://deno.com/blog/v2.9"
     }
   },
   {
@@ -269,18 +269,6 @@
   },
   {
     "count": 11,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -300,6 +288,18 @@
     "example": {
       "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
       "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
+    }
+  },
+  {
+    "count": 10,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
@@ -1616,6 +1616,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/inokawa/virtua",
+    "tags": [
+      "React",
+      "Vue",
+      "Solid",
+      "Svelte",
+      "library"
+    ],
+    "example": {
+      "title": "inokawa/virtua: A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.",
+      "url": "https://github.com/inokawa/virtua/"
+    },
+    "rssUrl": "https://github.com/inokawa/virtua/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://v8.dev",
     "tags": [
       "JavaScript",
@@ -1817,34 +1833,6 @@
       "title": "Introducing Secure Registry: install-time defense for the npm supply chain - StepSecurity",
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://makojs.dev",
-    "tags": [
-      "webpack",
-      "bundler",
-      "Rust",
-      "Tools",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Mako - Extremely fast, Production-grade web bundler",
-      "url": "https://makojs.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file",
-    "tags": [
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "toss/es-toolkit: A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
-      "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
   },
   {
     "count": 1,
@@ -3954,22 +3942,6 @@
       "title": "Introducing Motion for Vue - Motion Blog",
       "url": "https://motion.dev/blog/introducing-motion-for-vue"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/inokawa/virtua",
-    "tags": [
-      "React",
-      "Vue",
-      "Solid",
-      "Svelte",
-      "library"
-    ],
-    "example": {
-      "title": "inokawa/virtua: A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.",
-      "url": "https://github.com/inokawa/virtua"
-    },
-    "rssUrl": "https://github.com/inokawa/virtua/releases.atom"
   },
   {
     "count": 1,
