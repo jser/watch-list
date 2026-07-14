@@ -466,12 +466,6 @@
     ]
   },
   {
-    "url": "https://makojs.dev",
-    "feeds": [
-      "https://makojs.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://mametter.hatenablog.com",
     "feeds": [
       "https://mametter.hatenablog.com/feed",

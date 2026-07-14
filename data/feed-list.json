@@ -550,6 +550,12 @@
     ]
   },
   {
+    "url": "https://github.com/inokawa/virtua",
+    "feeds": [
+      "https://github.com/inokawa/virtua/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
@@ -565,12 +571,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/toss/es-toolkit?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/toss/es-toolkit?tab=readme-ov-file/releases.atom"
     ]
   },
   {
@@ -961,12 +961,6 @@
     "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw",
     "feeds": [
       "https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/inokawa/virtua",
-    "feeds": [
-      "https://github.com/inokawa/virtua/releases.atom"
     ]
   },
   {
@@ -1843,12 +1837,6 @@
     "url": "https://main.vite.dev",
     "feeds": [
       "https://main.vite.dev/blog.rss"
-    ]
-  },
-  {
-    "url": "https://makojs.dev",
-    "feeds": [
-      "https://makojs.dev/rss.xml"
     ]
   },
   {
