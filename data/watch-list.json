@@ -1836,18 +1836,6 @@
   },
   {
     "count": 1,
-    "url": "https://blog.val.town",
-    "tags": [
-      "nodejs",
-      "article"
-    ],
-    "example": {
-      "title": "Moving from express to fastify, pt 1",
-      "url": "https://blog.val.town/blog/fastify/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/mjackson/fetch-super-headers",
     "tags": [
       "TypeScript",
