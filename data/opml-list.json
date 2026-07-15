@@ -127,12 +127,6 @@
     ]
   },
   {
-    "url": "https://blog.val.town",
-    "feeds": [
-      "https://blog.val.town/rss.xml"
-    ]
-  },
-  {
     "url": "https://blog.vjeux.com",
     "feeds": [
       "https://blog.vjeux.com/feed",
