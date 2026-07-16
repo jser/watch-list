@@ -291,6 +291,7 @@
 <outline text="github.com/jayu/rev-dep" title="github.com/jayu/rev-dep" type="rss" xmlUrl="https://github.com/jayu/rev-dep/releases.atom"/>
 <outline text="github.com/samchon/ttsc" title="github.com/samchon/ttsc" type="rss" xmlUrl="https://github.com/samchon/ttsc/releases.atom"/>
 <outline text="github.com/theMackabu/ant" title="github.com/theMackabu/ant" type="rss" xmlUrl="https://github.com/theMackabu/ant/releases.atom"/>
+<outline text="github.com/unjs/httpxy" title="github.com/unjs/httpxy" type="rss" xmlUrl="https://github.com/unjs/httpxy/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
