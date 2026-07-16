@@ -7456,5 +7456,34 @@
       "title": "Wordgard",
       "url": "https://wordgard.net/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/unjs/httpxy",
+    "tags": [
+      "nodejs",
+      "HTTP",
+      "WebSocket",
+      "library"
+    ],
+    "example": {
+      "title": "unjs/httpxy: 🔀 A Full-Featured HTTP and WebSocket Proxy for Node.js",
+      "url": "https://github.com/unjs/httpxy"
+    },
+    "rssUrl": "https://github.com/unjs/httpxy/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://useblume.dev",
+    "tags": [
+      "Tools",
+      "Markdown",
+      "document",
+      "AI"
+    ],
+    "example": {
+      "title": "Blume — fast, AI-ready, markdown-first docs",
+      "url": "https://useblume.dev/"
+    }
   }
 ]

@@ -1738,6 +1738,12 @@
     ]
   },
   {
+    "url": "https://github.com/unjs/httpxy",
+    "feeds": [
+      "https://github.com/unjs/httpxy/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
