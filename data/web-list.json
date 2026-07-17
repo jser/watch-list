@@ -161,7 +161,7 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
-    "count": 15,
+    "count": 16,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -172,8 +172,8 @@
       "React"
     ],
     "example": {
-      "title": "Next.js 16.3: Instant Navigations | Next.js",
-      "url": "https://nextjs.org/blog/next-16-3-instant-navigations"
+      "title": "Next.js Security Release and Our Next Patch Release | Next.js",
+      "url": "https://nextjs.org/blog/next-security-release-program"
     },
     "rssUrl": "https://nextjs.org/feed.xml"
   },
