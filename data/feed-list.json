@@ -484,12 +484,6 @@
     ]
   },
   {
-    "url": "https://github.com/vitest-dev/vitest",
-    "feeds": [
-      "https://github.com/vitest-dev/vitest/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -565,12 +559,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mjackson/fetch-super-headers",
-    "feeds": [
-      "https://github.com/mjackson/fetch-super-headers/releases.atom"
     ]
   },
   {
@@ -913,6 +901,12 @@
     "url": "https://github.com/vitejs/vite",
     "feeds": [
       "https://github.com/vitejs/vite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vitest-dev/vitest",
+    "feeds": [
+      "https://github.com/vitest-dev/vitest/releases.atom"
     ]
   },
   {
