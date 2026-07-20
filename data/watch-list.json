@@ -268,6 +268,24 @@
   },
   {
     "count": 11,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "Nuxt",
+      "library",
+      "ReleaseNote",
+      "article",
+      "UI",
+      "vite",
+      "rspack"
+    ],
+    "example": {
+      "title": "Nuxt 4.5 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-5"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -299,22 +317,6 @@
     "example": {
       "title": "Firefox 140.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "Nuxt",
-      "library",
-      "ReleaseNote",
-      "article",
-      "UI"
-    ],
-    "example": {
-      "title": "Nuxt 4.4 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-4"
     }
   },
   {
@@ -379,6 +381,24 @@
     "example": {
       "title": "React Router v8 | Remix",
       "url": "https://remix.run/blog/react-router-v8"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote",
+      "npm",
+      "Rust",
+      "server",
+      "document"
+    ],
+    "example": {
+      "title": "pnpm 11.11-11.14 | pnpm",
+      "url": "https://pnpm.io/blog/releases/11.11-11.14"
     }
   },
   {
@@ -503,24 +523,6 @@
     "example": {
       "title": "Announcing Rspack 2.1 - Rspack",
       "url": "https://rspack.rs/blog/announcing-2-1"
-    }
-  },
-  {
-    "count": 7,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote",
-      "npm",
-      "Rust",
-      "server",
-      "document"
-    ],
-    "example": {
-      "title": "Introduction | pnpm",
-      "url": "https://pnpm.io/pnpr/"
     }
   },
   {
@@ -7252,6 +7254,18 @@
     "example": {
       "title": "Blume — fast, AI-ready, markdown-first docs",
       "url": "https://useblume.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://nostics.dev",
+    "tags": [
+      "TypeScript",
+      "library"
+    ],
+    "example": {
+      "title": "Errors worth reading - nostics",
+      "url": "https://nostics.dev/"
     }
   }
 ]
