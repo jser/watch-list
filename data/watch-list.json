@@ -1,6 +1,6 @@
 [
   {
-    "count": 69,
+    "count": 68,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -403,26 +403,6 @@
   },
   {
     "count": 7,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "JavaScript",
-      "Conference",
-      "video",
-      "vite",
-      "Angular",
-      "history",
-      "React",
-      "slide",
-      "DOM",
-      "Native"
-    ],
-    "example": {
-      "title": "CascadiaJS 2025 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://vercel.com",
     "tags": [
       "google",
@@ -568,6 +548,26 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "vite",
+      "Conference",
+      "video",
+      "Angular",
+      "history",
+      "React",
+      "slide",
+      "JavaScript",
+      "DOM",
+      "Native"
+    ],
+    "example": {
+      "title": "CascadiaJS 2025 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
   },
   {
     "count": 5,
