@@ -21,7 +21,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 29,
+    "count": 28,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -917,20 +917,6 @@
   },
   {
     "count": 3,
-    "url": "https://ishadeed.com",
-    "tags": [
-      "CSS",
-      "article",
-      "css"
-    ],
-    "example": {
-      "title": "The Basics of Anchor Positioning",
-      "url": "https://ishadeed.com/article/anchor-positioning/"
-    },
-    "rssUrl": "https://ishadeed.com/feed.xml"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/axios/axios",
     "tags": [
       "HTTP",
@@ -1201,19 +1187,6 @@
     "example": {
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://exploringjs.com",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "book"
-    ],
-    "example": {
-      "title": "Exploring JavaScript (ES2025 Edition)",
-      "url": "https://exploringjs.com/js/"
     }
   },
   {
@@ -1664,6 +1637,19 @@
   },
   {
     "count": 2,
+    "url": "https://ishadeed.com",
+    "tags": [
+      "css",
+      "article"
+    ],
+    "example": {
+      "title": "The Basics of Anchor Positioning",
+      "url": "https://ishadeed.com/article/anchor-positioning/"
+    },
+    "rssUrl": "https://ishadeed.com/feed.xml"
+  },
+  {
+    "count": 2,
     "url": "https://v8.dev",
     "tags": [
       "JavaScript",
@@ -1887,21 +1873,6 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://forums.meteor.com",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "It's official, Meteor 3.0 Official Release is out! - announce - Meteor.js forums",
-      "url": "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860"
-    },
-    "rssUrl": "https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860.rss"
   },
   {
     "count": 1,
@@ -4713,6 +4684,18 @@
       "url": "https://github.com/svg/svgo/releases/tag/v4.0.0"
     },
     "rssUrl": "https://github.com/svg/svgo/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://exploringjs.com",
+    "tags": [
+      "ECMAScript",
+      "book"
+    ],
+    "example": {
+      "title": "Exploring JavaScript (ES2025 Edition)",
+      "url": "https://exploringjs.com/js/"
+    }
   },
   {
     "count": 1,
