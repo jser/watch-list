@@ -286,6 +286,23 @@
   },
   {
     "count": 11,
+    "url": "https://oxc.rs",
+    "tags": [
+      "TypeScript",
+      "Tools",
+      "Rust",
+      "ReleaseNote",
+      "ESLint",
+      "JavaScript",
+      "article"
+    ],
+    "example": {
+      "title": "Type-Aware Linting Stable | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-07-22-type-aware-linting-stable"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://react.dev",
     "tags": [
       "React",
@@ -317,23 +334,6 @@
     "example": {
       "title": "Firefox 140.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Oxfmt Beta | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2026-02-24-oxfmt-beta"
     }
   },
   {
