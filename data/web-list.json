@@ -353,20 +353,6 @@
   },
   {
     "count": 8,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "October 2, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://web.dev",
     "tags": [
       "css ",
@@ -478,6 +464,20 @@
       "url": "https://biomejs.dev/blog/biome-v2-5/"
     },
     "rssUrl": "https://biomejs.dev/feed.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "October 2, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
+    }
   },
   {
     "count": 7,

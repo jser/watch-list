@@ -338,20 +338,6 @@
   },
   {
     "count": 8,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "library",
-      "ReleaseNote",
-      "UI"
-    ],
-    "example": {
-      "title": "October 2, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://web.dev",
     "tags": [
       "css ",
@@ -456,6 +442,20 @@
     "example": {
       "title": "Biome v2.5—500 Lint Rules, Plugin Code Fix, and Cross-File Linting | Biome",
       "url": "https://biomejs.dev/blog/biome-v2-5/"
+    }
+  },
+  {
+    "count": 7,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote",
+      "UI"
+    ],
+    "example": {
+      "title": "October 2, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
     }
   },
   {
