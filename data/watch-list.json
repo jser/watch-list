@@ -1147,6 +1147,19 @@
     }
   },
   {
+    "count": 3,
+    "url": "https://webpack.js.org",
+    "tags": [
+      "webpack",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Webpack 5.109 | webpack",
+      "url": "https://webpack.js.org/blog/2026-07-24-webpack-5-109/"
+    }
+  },
+  {
     "count": 2,
     "url": "https://www.mizdra.net",
     "tags": [
@@ -1759,19 +1772,6 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://webpack.js.org",
-    "tags": [
-      "webpack",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Webpack 5.106 | webpack",
-      "url": "https://webpack.js.org/blog/2026-04-08-webpack-5-106/"
     }
   },
   {
