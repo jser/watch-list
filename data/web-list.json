@@ -228,6 +228,26 @@
   },
   {
     "count": 12,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Vue",
+      "Nuxt",
+      "library",
+      "ReleaseNote",
+      "article",
+      "UI",
+      "vite",
+      "rspack",
+      "security"
+    ],
+    "example": {
+      "title": "Nuxt Security Patch Releases · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-5-security"
+    },
+    "rssUrl": "https://nuxt.com/blog/rss.xml"
+  },
+  {
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -277,25 +297,6 @@
       "url": "https://blog.cloudflare.com/workers-cache/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 11,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "Nuxt",
-      "library",
-      "ReleaseNote",
-      "article",
-      "UI",
-      "vite",
-      "rspack"
-    ],
-    "example": {
-      "title": "Nuxt 4.5 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-5"
-    },
-    "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
     "count": 11,
@@ -1873,33 +1874,6 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://privacysandbox.com",
-    "tags": [
-      "Chrome",
-      "privacy",
-      "news"
-    ],
-    "example": {
-      "title": "A new path for Privacy Sandbox on the web",
-      "url": "https://privacysandbox.com/news/privacy-sandbox-update/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://sass-lang.com",
-    "tags": [
-      "nodejs",
-      "Sass",
-      "news"
-    ],
-    "example": {
-      "title": "Sass: Node Sass is end-of-life",
-      "url": "https://sass-lang.com/blog/node-sass-is-end-of-life/"
-    },
-    "rssUrl": "https://sass-lang.com/feed.xml"
   },
   {
     "count": 1,
@@ -3979,7 +3953,8 @@
     "example": {
       "title": "Introducing Motion for Vue - Motion Blog",
       "url": "https://motion.dev/blog/introducing-motion-for-vue"
-    }
+    },
+    "rssUrl": "https://motion.dev/magazine/rss.xml"
   },
   {
     "count": 1,
@@ -7438,5 +7413,19 @@
       "title": "Errors worth reading - nostics",
       "url": "https://nostics.dev/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/octanejs/octane",
+    "tags": [
+      "React",
+      "JavaScript",
+      "library"
+    ],
+    "example": {
+      "title": "octanejs/octane: Octane is an incredibly efficient React replacement UI library with improved developer ergonomics",
+      "url": "https://github.com/octanejs/octane"
+    },
+    "rssUrl": "https://github.com/octanejs/octane/releases.atom"
   }
 ]
