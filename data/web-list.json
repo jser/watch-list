@@ -1,6 +1,6 @@
 [
   {
-    "count": 68,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -85,7 +85,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -102,7 +102,7 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 19,
+    "count": 18,
     "url": "https://bun.sh",
     "tags": [
       "Bun",
@@ -598,22 +598,6 @@
   },
   {
     "count": 5,
-    "url": "https://astro.build",
-    "tags": [
-      "astro",
-      "ReleaseNote",
-      "cloudflare",
-      "Rust",
-      "Vite"
-    ],
-    "example": {
-      "title": "Astro 6.0 | Astro",
-      "url": "https://astro.build/blog/astro-6/"
-    },
-    "rssUrl": "https://astro.build/rss.xml"
-  },
-  {
-    "count": 5,
     "url": "https://rspack.dev",
     "tags": [
       "rspack",
@@ -785,6 +769,22 @@
       "url": "https://github.com/storybookjs/storybook/releases/tag/v10.0.0"
     },
     "rssUrl": "https://github.com/storybookjs/storybook/releases.atom"
+  },
+  {
+    "count": 4,
+    "url": "https://astro.build",
+    "tags": [
+      "astro",
+      "ReleaseNote",
+      "cloudflare",
+      "Rust",
+      "Vite"
+    ],
+    "example": {
+      "title": "Astro 6.0 | Astro",
+      "url": "https://astro.build/blog/astro-6/"
+    },
+    "rssUrl": "https://astro.build/rss.xml"
   },
   {
     "count": 4,
@@ -1874,45 +1874,6 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://2023.stateofreact.com",
-    "tags": [
-      "React",
-      "Survey"
-    ],
-    "example": {
-      "title": "State of React 2023",
-      "url": "https://2023.stateofreact.com/en-US"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/sajikix/",
-    "tags": [
-      "ECMAScript",
-      "i18n",
-      "slide"
-    ],
-    "example": {
-      "title": "Temporalを取り巻く仕様を整理する - Speaker Deck",
-      "url": "https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru"
-    },
-    "rssUrl": "https://speakerdeck.com/sajikix.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://gist.github.com/azu",
-    "tags": [
-      "nodejs",
-      "TypeScript"
-    ],
-    "example": {
-      "title": "Node.jsのTypeScriptサポートについて",
-      "url": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250"
-    },
-    "rssUrl": "https://gist.github.com/azu.atom"
   },
   {
     "count": 1,

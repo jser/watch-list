@@ -345,12 +345,6 @@
     ]
   },
   {
-    "url": "https://gist.github.com/azu",
-    "feeds": [
-      "https://gist.github.com/azu.atom"
-    ]
-  },
-  {
     "url": "https://github.blog",
     "feeds": [
       "https://github.blog/feed/",
@@ -2031,13 +2025,6 @@
     "url": "https://socket.dev",
     "feeds": [
       "https://socket.dev/api/feed.atom"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/sajikix/",
-    "feeds": [
-      "https://speakerdeck.com/sajikix.atom",
-      "https://speakerdeck.com/sajikix.rss"
     ]
   },
   {
