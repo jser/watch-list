@@ -212,6 +212,20 @@
   },
   {
     "count": 13,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.62.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.62.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 13,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -258,20 +272,6 @@
       "url": "https://www.electronjs.org/blog/electron-43-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.61.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.61.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 12,
