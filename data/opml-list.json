@@ -67,6 +67,12 @@
     ]
   },
   {
+    "url": "https://blackboard.sh",
+    "feeds": [
+      "https://blackboard.sh/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://blog.angular.dev",
     "feeds": [
       "https://blog.angular.dev/feed"

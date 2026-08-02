@@ -67,6 +67,12 @@
     ]
   },
   {
+    "url": "https://blackboard.sh",
+    "feeds": [
+      "https://blackboard.sh/blog/rss.xml"
+    ]
+  },
+  {
     "url": "https://blog.angular.dev",
     "feeds": [
       "https://blog.angular.dev/feed"
@@ -1729,6 +1735,12 @@
     "url": "https://github.com/octanejs/octane",
     "feeds": [
       "https://github.com/octanejs/octane/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vercel-labs/scriptc",
+    "feeds": [
+      "https://github.com/vercel-labs/scriptc/releases.atom"
     ]
   },
   {

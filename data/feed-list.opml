@@ -15,6 +15,7 @@
 <outline text="benhowdle.im" title="benhowdle.im" type="rss" xmlUrl="https://benhowdle.im/feed.xml"/>
 <outline text="better-auth.com" title="better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
 <outline text="biomejs.dev" title="biomejs.dev" type="rss" xmlUrl="https://biomejs.dev/feed.xml"/>
+<outline text="blackboard.sh" title="blackboard.sh" type="rss" xmlUrl="https://blackboard.sh/blog/rss.xml"/>
 <outline text="blog.angular.dev" title="blog.angular.dev" type="rss" xmlUrl="https://blog.angular.dev/feed"/>
 <outline text="blog.calm.com" title="blog.calm.com" type="rss" xmlUrl="https://blog.calm.com/engineering?format=rss"/>
 <outline text="blog.cloudflare.com" title="blog.cloudflare.com" type="rss" xmlUrl="https://blog.cloudflare.com/rss"/>
@@ -290,6 +291,7 @@
 <outline text="github.com/theMackabu/ant" title="github.com/theMackabu/ant" type="rss" xmlUrl="https://github.com/theMackabu/ant/releases.atom"/>
 <outline text="github.com/unjs/httpxy" title="github.com/unjs/httpxy" type="rss" xmlUrl="https://github.com/unjs/httpxy/releases.atom"/>
 <outline text="github.com/octanejs/octane" title="github.com/octanejs/octane" type="rss" xmlUrl="https://github.com/octanejs/octane/releases.atom"/>
+<outline text="github.com/vercel-labs/scriptc" title="github.com/vercel-labs/scriptc" type="rss" xmlUrl="https://github.com/vercel-labs/scriptc/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
