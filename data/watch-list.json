@@ -169,7 +169,7 @@
     }
   },
   {
-    "count": 14,
+    "count": 15,
     "url": "https://github.blog",
     "tags": [
       "nodejs",
@@ -197,8 +197,8 @@
       "ReleaseNote"
     ],
     "example": {
-      "title": "npm install-time security and GAT bypass2fa deprecation - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation/"
+      "title": "npm publish-time malware scanning and dual-use metadata - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/"
     }
   },
   {
@@ -1162,18 +1162,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.mizdra.net",
-    "tags": [
-      "TypeScript",
-      "article"
-    ],
-    "example": {
-      "title": "tsx と Node.js Type Stripping の違い - mizdra's blog",
-      "url": "https://www.mizdra.net/entry/2025/08/28/122040"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://medium.com/airbnb-engineering/",
     "tags": [
       "React",
@@ -1715,6 +1703,18 @@
       "url": "https://github.com/sindresorhus/got/releases/tag/v15.0.0"
     },
     "rssUrl": "https://github.com/sindresorhus/got/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://blog.emberjs.com",
+    "tags": [
+      "Ember",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ember 7.1 Released",
+      "url": "https://blog.emberjs.com/ember-released-7-1/"
+    }
   },
   {
     "count": 2,
@@ -5000,6 +5000,18 @@
   },
   {
     "count": 1,
+    "url": "https://www.mizdra.net",
+    "tags": [
+      "TypeScript",
+      "article"
+    ],
+    "example": {
+      "title": "tsx と Node.js Type Stripping の違い - mizdra's blog",
+      "url": "https://www.mizdra.net/entry/2025/08/28/122040"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://www.epicweb.dev",
     "tags": [
       "JavaScript",
@@ -5339,18 +5351,6 @@
       "url": "https://github.com/cedarjs/cedar"
     },
     "rssUrl": "https://github.com/cedarjs/cedar/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://blog.emberjs.com",
-    "tags": [
-      "Ember",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Ember 6.8 Released",
-      "url": "https://blog.emberjs.com/ember-released-6-8/"
-    }
   },
   {
     "count": 1,
@@ -7202,5 +7202,19 @@
       "url": "https://github.com/octanejs/octane"
     },
     "rssUrl": "https://github.com/octanejs/octane/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel-labs/scriptc",
+    "tags": [
+      "TypeScript",
+      "compiler",
+      "Tools"
+    ],
+    "example": {
+      "title": "vercel-labs/scriptc: TypeScript-to-Native Compiler",
+      "url": "https://github.com/vercel-labs/scriptc"
+    },
+    "rssUrl": "https://github.com/vercel-labs/scriptc/releases.atom"
   }
 ]
