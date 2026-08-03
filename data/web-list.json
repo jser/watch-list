@@ -353,6 +353,25 @@
     }
   },
   {
+    "count": 9,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote",
+      "npm",
+      "Rust",
+      "server",
+      "document"
+    ],
+    "example": {
+      "title": "pnpm 11.15-11.19 | pnpm",
+      "url": "https://pnpm.io/blog/releases/11.15-11.19"
+    },
+    "rssUrl": "https://pnpm.io/blog/rss.xml"
+  },
+  {
     "count": 8,
     "url": "https://web.dev",
     "tags": [
@@ -386,25 +405,6 @@
       "url": "https://remix.run/blog/react-router-v8"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
-  },
-  {
-    "count": 8,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote",
-      "npm",
-      "Rust",
-      "server",
-      "document"
-    ],
-    "example": {
-      "title": "pnpm 11.11-11.14 | pnpm",
-      "url": "https://pnpm.io/blog/releases/11.11-11.14"
-    },
-    "rssUrl": "https://pnpm.io/blog/rss.xml"
   },
   {
     "count": 7,
