@@ -741,13 +741,6 @@
     ]
   },
   {
-    "url": "https://tduyng.com",
-    "feeds": [
-      "https://tduyng.com/atom.xml",
-      "https://tduyng.com/tags/rss/"
-    ]
-  },
-  {
     "url": "https://tech.legalforce.co.jp",
     "feeds": [
       "https://tech.legalforce.co.jp/feed",
@@ -791,13 +784,6 @@
     "url": "https://turborepo.com",
     "feeds": [
       "https://turborepo.com/feed.xml"
-    ]
-  },
-  {
-    "url": "https://typescript-eslint.io",
-    "feeds": [
-      "https://typescript-eslint.io/blog/rss.xml",
-      "https://typescript-eslint.io/blog/atom.xml"
     ]
   },
   {
@@ -1048,12 +1034,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/cybozu_frontend/",
-    "feeds": [
-      "https://zenn.dev/p/cybozu_frontend/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/akfm/",
     "feeds": [
       "https://zenn.dev/akfm/feed"
@@ -1177,6 +1157,12 @@
     "url": "https://zenn.dev/yasse/",
     "feeds": [
       "https://zenn.dev/yasse/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/cybozu_frontend/",
+    "feeds": [
+      "https://zenn.dev/p/cybozu_frontend/feed"
     ]
   }
 ]

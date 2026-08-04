@@ -120,7 +120,6 @@
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tanstack.com" title="tanstack.com" type="rss" xmlUrl="https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"/>
-<outline text="tduyng.com" title="tduyng.com" type="rss" xmlUrl="https://tduyng.com/atom.xml"/>
 <outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
@@ -128,7 +127,6 @@
 <outline text="trynova.dev" title="trynova.dev" type="rss" xmlUrl="https://trynova.dev/blog/feed.rss"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
 <outline text="turborepo.com" title="turborepo.com" type="rss" xmlUrl="https://turborepo.com/feed.xml"/>
-<outline text="typescript-eslint.io" title="typescript-eslint.io" type="rss" xmlUrl="https://typescript-eslint.io/blog/rss.xml"/>
 <outline text="v2.tauri.app" title="v2.tauri.app" type="rss" xmlUrl="https://v2.tauri.app/blog/rss.xml"/>
 <outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
@@ -168,7 +166,6 @@
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
 <outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 <outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
@@ -190,5 +187,6 @@
 <outline text="zenn.dev/uhyo/" title="zenn.dev/uhyo/" type="rss" xmlUrl="https://zenn.dev/uhyo/feed"/>
 <outline text="zenn.dev/yamanoku/" title="zenn.dev/yamanoku/" type="rss" xmlUrl="https://zenn.dev/yamanoku/feed"/>
 <outline text="zenn.dev/yasse/" title="zenn.dev/yasse/" type="rss" xmlUrl="https://zenn.dev/yasse/feed"/>
+<outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
 </body>
 </opml>
