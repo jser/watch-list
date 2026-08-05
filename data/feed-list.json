@@ -532,6 +532,12 @@
     ]
   },
   {
+    "url": "https://github.com/solidjs/solid-start",
+    "feeds": [
+      "https://github.com/solidjs/solid-start/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/inokawa/virtua",
     "feeds": [
       "https://github.com/inokawa/virtua/releases.atom"
@@ -877,12 +883,6 @@
     "url": "https://github.com/plotly/plotly.js",
     "feeds": [
       "https://github.com/plotly/plotly.js/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/solidjs/solid-start",
-    "feeds": [
-      "https://github.com/solidjs/solid-start/releases.atom"
     ]
   },
   {
@@ -2396,6 +2396,12 @@
     "url": "https://www.trevorlasn.com",
     "feeds": [
       "https://www.trevorlasn.com/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.vlt.io",
+    "feeds": [
+      "https://www.vlt.io/rss.xml"
     ]
   },
   {
