@@ -391,20 +391,6 @@
   },
   {
     "count": 7,
-    "url": "https://ecmascript-daily.github.io",
-    "tags": [
-      "ECMAScript",
-      "news",
-      "proposal",
-      "TC39"
-    ],
-    "example": {
-      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
-      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -484,21 +470,6 @@
   },
   {
     "count": 6,
-    "url": "https://github.com/zloirock/core-js",
-    "tags": [
-      "polyfill",
-      "JavaScript",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release 3.46.0 - 2025.10.09 · zloirock/core-js",
-      "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
-    },
-    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 6,
     "url": "https://vercel.com",
     "tags": [
       "React",
@@ -551,6 +522,20 @@
     "example": {
       "title": "CascadiaJS 2025 - YouTube",
       "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
+  },
+  {
+    "count": 6,
+    "url": "https://ecmascript-daily.github.io",
+    "tags": [
+      "ECMAScript",
+      "proposal",
+      "news",
+      "TC39"
+    ],
+    "example": {
+      "title": "ECMAScript proposal updates @ 2026-03 | ECMAScript Daily",
+      "url": "https://ecmascript-daily.github.io/ecmascript/2026/03/16/ecmascript-proposal-update"
     }
   },
   {
@@ -658,6 +643,21 @@
       "title": "TC39 Advances Temporal to Stage 4 Alongside Several ECMAScri...",
       "url": "https://socket.dev/blog/tc39-advances-temporal-to-stage-4?utm_medium=feed"
     }
+  },
+  {
+    "count": 5,
+    "url": "https://github.com/zloirock/core-js",
+    "tags": [
+      "JavaScript",
+      "polyfill",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release 3.46.0 - 2025.10.09 · zloirock/core-js",
+      "url": "https://github.com/zloirock/core-js/releases/tag/v3.46.0"
+    },
+    "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
     "count": 5,
@@ -1816,31 +1816,6 @@
     "example": {
       "title": "v1.20.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-20-0"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.jqueryui.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "jQuery UI 1.14.0 released | jQuery UI Blog",
-      "url": "https://blog.jqueryui.com/2024/08/jquery-ui-1-14-0-released/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tech.legalforce.co.jp",
-    "tags": [
-      "Datadog",
-      "browser",
-      "article"
-    ],
-    "example": {
-      "title": "フロントエンド開発に役立つ Datadog 活用法 - LegalOn Technologies Engineering Blog",
-      "url": "https://tech.legalforce.co.jp/entry/2024/08/05/154617"
     }
   },
   {

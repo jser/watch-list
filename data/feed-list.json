@@ -111,13 +111,6 @@
     ]
   },
   {
-    "url": "https://blog.jqueryui.com",
-    "feeds": [
-      "https://blog.jqueryui.com/feed/",
-      "https://blog.jqueryui.com/comments/feed/"
-    ]
-  },
-  {
     "url": "https://blog.nginx.org",
     "feeds": [
       "https://blog.nginx.org/feed",
@@ -370,12 +363,6 @@
     ]
   },
   {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
@@ -397,6 +384,12 @@
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -2130,13 +2123,6 @@
     "url": "https://tanstack.com",
     "feeds": [
       "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
-    ]
-  },
-  {
-    "url": "https://tech.legalforce.co.jp",
-    "feeds": [
-      "https://tech.legalforce.co.jp/feed",
-      "https://tech.legalforce.co.jp/rss"
     ]
   },
   {

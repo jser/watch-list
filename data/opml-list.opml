@@ -22,7 +22,6 @@
 <outline text="blog.emberjs.com" title="blog.emberjs.com" type="rss" xmlUrl="https://blog.emberjs.com/rss.xml"/>
 <outline text="blog.jetbrains.com" title="blog.jetbrains.com" type="rss" xmlUrl="https://blog.jetbrains.com/blog/feed/"/>
 <outline text="blog.jquery.com" title="blog.jquery.com" type="rss" xmlUrl="https://blog.jquery.com/feed/"/>
-<outline text="blog.jqueryui.com" title="blog.jqueryui.com" type="rss" xmlUrl="https://blog.jqueryui.com/feed/"/>
 <outline text="blog.nginx.org" title="blog.nginx.org" type="rss" xmlUrl="https://blog.nginx.org/feed"/>
 <outline text="blog.platformatic.dev" title="blog.platformatic.dev" type="rss" xmlUrl="https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams/rss.xml"/>
 <outline text="blog.vjeux.com" title="blog.vjeux.com" type="rss" xmlUrl="https://blog.vjeux.com/feed"/>
@@ -120,7 +119,6 @@
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tanstack.com" title="tanstack.com" type="rss" xmlUrl="https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"/>
-<outline text="tech.legalforce.co.jp" title="tech.legalforce.co.jp" type="rss" xmlUrl="https://tech.legalforce.co.jp/feed"/>
 <outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="tech.plaid.co.jp" title="tech.plaid.co.jp" type="rss" xmlUrl="https://tech.plaid.co.jp/rss.xml"/>
 <outline text="techblog.lycorp.co.jp" title="techblog.lycorp.co.jp" type="rss" xmlUrl="https://techblog.lycorp.co.jp/ja/feed/index.xml"/>
