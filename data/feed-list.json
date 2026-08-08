@@ -1821,12 +1821,6 @@
     ]
   },
   {
-    "url": "https://leaysgur.github.io",
-    "feeds": [
-      "https://leaysgur.github.io/posts/rss.xml"
-    ]
-  },
-  {
     "url": "https://lynxjs.org",
     "feeds": [
       "https://lynxjs.org/rss/blog-rss.xml"

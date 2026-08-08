@@ -1820,20 +1820,6 @@
   },
   {
     "count": 1,
-    "url": "https://leaysgur.github.io",
-    "tags": [
-      "JavaScript",
-      "RegExp",
-      "AST",
-      "article"
-    ],
-    "example": {
-      "title": "JSで書かれたECMAScript RegExpパーサーの比較 | Memory ice cubes",
-      "url": "https://leaysgur.github.io/posts/2024/08/05/143855/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/versotile-org/verso",
     "tags": [
       "Rust",
