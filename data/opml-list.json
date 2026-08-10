@@ -306,6 +306,12 @@
     ]
   },
   {
+    "url": "https://eliocapella.com",
+    "feeds": [
+      "https://eliocapella.com/feed.xml"
+    ]
+  },
+  {
     "url": "https://eslint.org",
     "feeds": [
       "https://eslint.org/feed.xml"
