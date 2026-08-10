@@ -21,7 +21,7 @@
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
   {
-    "count": 28,
+    "count": 27,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -6222,7 +6222,8 @@
     "example": {
       "title": "Blog > Writing Good Unit Tests",
       "url": "https://eliocapella.com/blog/writing-good-unit-tests/"
-    }
+    },
+    "rssUrl": "https://eliocapella.com/feed.xml"
   },
   {
     "count": 1,
