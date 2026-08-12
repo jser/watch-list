@@ -1820,19 +1820,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/versotile-org/verso",
-    "tags": [
-      "Rust",
-      "browser"
-    ],
-    "example": {
-      "title": "versotile-org/verso: A web browser that plays old world blues to build new world hope",
-      "url": "https://github.com/versotile-org/verso"
-    },
-    "rssUrl": "https://github.com/versotile-org/verso/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "tags": [
       "nodejs",
@@ -7158,5 +7145,23 @@
       "title": "vlt 1.0 & Hosted Package Registries | vlt /vōlt/",
       "url": "https://www.vlt.io/blog/1-0"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/firecrawl/anydoc",
+    "tags": [
+      "Rust",
+      "Markdown",
+      "PDF",
+      "nodejs",
+      "python",
+      "library",
+      "WebAssembly"
+    ],
+    "example": {
+      "title": "firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "url": "https://github.com/firecrawl/anydoc"
+    },
+    "rssUrl": "https://github.com/firecrawl/anydoc/releases.atom"
   }
 ]
