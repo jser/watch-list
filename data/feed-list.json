@@ -561,12 +561,6 @@
     ]
   },
   {
-    "url": "https://github.com/versotile-org/verso",
-    "feeds": [
-      "https://github.com/versotile-org/verso/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "feeds": [
       "https://github.com/goldbergyoni/nodebestpractices/releases.atom"
@@ -1746,6 +1740,12 @@
     "url": "https://github.com/TanStack/charts",
     "feeds": [
       "https://github.com/TanStack/charts/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/firecrawl/anydoc",
+    "feeds": [
+      "https://github.com/firecrawl/anydoc/releases.atom"
     ]
   },
   {
