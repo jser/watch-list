@@ -95,7 +95,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/goldbergyoni/nodebestpractices" title="github.com/goldbergyoni/nodebestpractices" type="rss" xmlUrl="https://github.com/goldbergyoni/nodebestpractices/releases.atom"/>
 <outline text="github.com/stackblitz-labs/pkg.pr.new" title="github.com/stackblitz-labs/pkg.pr.new" type="rss" xmlUrl="https://github.com/stackblitz-labs/pkg.pr.new/releases.atom"/>
 <outline text="github.com/capricorn86/happy-dom" title="github.com/capricorn86/happy-dom" type="rss" xmlUrl="https://github.com/capricorn86/happy-dom/releases.atom"/>
 <outline text="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" title="github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"/>
