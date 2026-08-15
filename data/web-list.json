@@ -36,15 +36,13 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 23,
+    "count": 22,
     "url": "https://developer.chrome.com",
     "tags": [
-      "Firefox",
-      "puppeteer",
-      "article",
       "Chrome",
       "ReleaseNote",
       "HTML",
+      "article",
       "css",
       "debug",
       "MCP",
@@ -914,22 +912,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/axios/axios",
-    "tags": [
-      "HTTP",
-      "security",
-      "library",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Release v1.16.0 · axios/axios",
-      "url": "https://github.com/axios/axios/releases/tag/v1.16.0"
-    },
-    "rssUrl": "https://github.com/axios/axios/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/vueuse/vueuse",
     "tags": [
       "Vue",
@@ -1648,6 +1630,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/axios/axios",
+    "tags": [
+      "JavaScript",
+      "HTTP",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.16.0 · axios/axios",
+      "url": "https://github.com/axios/axios/releases/tag/v1.16.0"
+    },
+    "rssUrl": "https://github.com/axios/axios/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://v8.dev",
     "tags": [
       "JavaScript",
@@ -1884,50 +1881,6 @@
       "title": "v1.20.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-20-0"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://supabase.com",
-    "tags": [
-      "PostgreSQL",
-      "browser",
-      "article"
-    ],
-    "example": {
-      "title": "postgres.new: In-browser Postgres with an AI interface",
-      "url": "https://supabase.com/blog/postgres-new"
-    },
-    "rssUrl": "https://supabase.com/feed.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://www.oligo.security",
-    "tags": [
-      "browser",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "0.0.0.0 Day: Exploiting Localhost APIs From the Browser | Oligo Security",
-      "url": "https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tech.plaid.co.jp",
-    "tags": [
-      "TypeScript",
-      "JavaScript",
-      "Design",
-      "React",
-      "Tools",
-      "article"
-    ],
-    "example": {
-      "title": "ソースコードを解析して社内向けUIライブラリの使用状況を自動で集計する",
-      "url": "https://tech.plaid.co.jp/analyze-internal-ui-library-usage"
-    },
-    "rssUrl": "https://tech.plaid.co.jp/rss.xml"
   },
   {
     "count": 1,
