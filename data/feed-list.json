@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/axios/axios",
-    "feeds": [
-      "https://github.com/axios/axios/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
@@ -540,6 +534,12 @@
     "url": "https://github.com/inokawa/virtua",
     "feeds": [
       "https://github.com/inokawa/virtua/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/axios/axios",
+    "feeds": [
+      "https://github.com/axios/axios/releases.atom"
     ]
   },
   {
@@ -2087,13 +2087,6 @@
     ]
   },
   {
-    "url": "https://supabase.com",
-    "feeds": [
-      "https://supabase.com/feed.xml",
-      "https://supabase.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://susisu.hatenablog.com",
     "feeds": [
       "https://susisu.hatenablog.com/feed",
@@ -2124,13 +2117,6 @@
     "feeds": [
       "https://tech.newmo.me/feed",
       "https://tech.newmo.me/rss"
-    ]
-  },
-  {
-    "url": "https://tech.plaid.co.jp",
-    "feeds": [
-      "https://tech.plaid.co.jp/rss.xml",
-      "https://tech.plaid.co.jp/atom.xml"
     ]
   },
   {
