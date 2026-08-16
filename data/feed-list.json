@@ -375,6 +375,12 @@
     ]
   },
   {
+    "url": "https://github.com/zloirock/core-js",
+    "feeds": [
+      "https://github.com/zloirock/core-js/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/webpack/webpack",
     "feeds": [
       "https://github.com/webpack/webpack/releases.atom"
@@ -390,12 +396,6 @@
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/zloirock/core-js",
-    "feeds": [
-      "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
@@ -441,6 +441,12 @@
     ]
   },
   {
+    "url": "https://github.com/solidjs/solid",
+    "feeds": [
+      "https://github.com/solidjs/solid/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nrwl/nx",
     "feeds": [
       "https://github.com/nrwl/nx/releases.atom"
@@ -468,12 +474,6 @@
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/solidjs/solid",
-    "feeds": [
-      "https://github.com/solidjs/solid/releases.atom"
     ]
   },
   {
@@ -1740,6 +1740,12 @@
     "url": "https://github.com/firecrawl/anydoc",
     "feeds": [
       "https://github.com/firecrawl/anydoc/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/video-dev/hls.js",
+    "feeds": [
+      "https://github.com/video-dev/hls.js/releases.atom"
     ]
   },
   {
