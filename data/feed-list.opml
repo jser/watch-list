@@ -357,6 +357,7 @@
 <outline text="turborepo.com" title="turborepo.com" type="rss" xmlUrl="https://turborepo.com/feed.xml"/>
 <outline text="v2.tauri.app" title="v2.tauri.app" type="rss" xmlUrl="https://v2.tauri.app/blog/rss.xml"/>
 <outline text="v8.dev" title="v8.dev" type="rss" xmlUrl="https://v8.dev/blog.atom"/>
+<outline text="valibot.dev" title="valibot.dev" type="rss" xmlUrl="https://valibot.dev/feed.xml"/>
 <outline text="vercel.com" title="vercel.com" type="rss" xmlUrl="https://vercel.com/atom"/>
 <outline text="vite.dev" title="vite.dev" type="rss" xmlUrl="https://vite.dev/blog.rss"/>
 <outline text="voidzero.dev" title="voidzero.dev" type="rss" xmlUrl="https://voidzero.dev/feed.xml"/>
