@@ -60,7 +60,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -77,8 +77,8 @@
       "Tools"
     ],
     "example": {
-      "title": "Introducing the Safari MCP server for web developers | WebKit",
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/"
+      "title": "Release Notes for Safari Technology Preview 250 | WebKit",
+      "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -1582,7 +1582,8 @@
     "example": {
       "title": "Valibot v1 - The 1 kB schema library | Valibot",
       "url": "https://valibot.dev/blog/valibot-v1-the-1-kb-schema-library/"
-    }
+    },
+    "rssUrl": "https://valibot.dev/feed.xml"
   },
   {
     "count": 2,
@@ -7302,5 +7303,18 @@
       "url": "https://github.com/video-dev/hls.js/releases/tag/v1.7.0"
     },
     "rssUrl": "https://github.com/video-dev/hls.js/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://plumeria.dev",
+    "tags": [
+      "React",
+      "css",
+      "library"
+    ],
+    "example": {
+      "title": "Plumeria - Zero-cost abstraction layer",
+      "url": "https://plumeria.dev/"
+    }
   }
 ]

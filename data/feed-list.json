@@ -2165,6 +2165,12 @@
     ]
   },
   {
+    "url": "https://valibot.dev",
+    "feeds": [
+      "https://valibot.dev/feed.xml"
+    ]
+  },
+  {
     "url": "https://vercel.com",
     "feeds": [
       "https://vercel.com/atom"
