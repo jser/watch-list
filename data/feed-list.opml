@@ -71,7 +71,6 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/web-infra-dev/rspack" title="github.com/web-infra-dev/rspack" type="rss" xmlUrl="https://github.com/web-infra-dev/rspack/releases.atom"/>
 <outline text="github.com/jsdom/jsdom" title="github.com/jsdom/jsdom" type="rss" xmlUrl="https://github.com/jsdom/jsdom/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
@@ -84,6 +83,7 @@
 <outline text="github.com/chakra-ui/ark" title="github.com/chakra-ui/ark" type="rss" xmlUrl="https://github.com/chakra-ui/ark/releases.atom"/>
 <outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
+<outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
@@ -365,7 +365,6 @@
 <outline text="web-platform-dx.github.io" title="web-platform-dx.github.io" type="rss" xmlUrl="https://web-platform-dx.github.io/web-features-explorer/release-notes.xml"/>
 <outline text="web.dev" title="web.dev" type="rss" xmlUrl="https://web.dev/static/blog/feed.xml"/>
 <outline text="webassembly.org" title="webassembly.org" type="rss" xmlUrl="https://webassembly.org/feed.xml"/>
-<outline text="webdriver.io" title="webdriver.io" type="rss" xmlUrl="https://webdriver.io/blog/rss.xml"/>
 <outline text="webkit.org" title="webkit.org" type="rss" xmlUrl="https://webkit.org/feed/"/>
 <outline text="webpack.js.org" title="webpack.js.org" type="rss" xmlUrl="https://webpack.js.org/feed.xml"/>
 <outline text="willybrauner.com" title="willybrauner.com" type="rss" xmlUrl="https://willybrauner.com/rss.xml"/>
