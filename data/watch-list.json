@@ -875,20 +875,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/vueuse/vueuse",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v12.3.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/web-infra-dev/rspack",
     "tags": [
       "bundler",
@@ -1340,6 +1326,20 @@
       "title": "Group Note: CSS Snapshot 2025 | 2025 | News | W3C",
       "url": "https://www.w3.org/news/2025/group-note-css-snapshot-2025/"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v12.3.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 2,
@@ -1813,19 +1813,6 @@
     "example": {
       "title": "v1.20.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-20-0"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://webdriver.io",
-    "tags": [
-      "webdriver",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "WebdriverIO v9 Released | WebdriverIO",
-      "url": "https://webdriver.io/blog/2024/08/15/webdriverio-v9-release/"
     }
   },
   {

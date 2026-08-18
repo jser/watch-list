@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
@@ -492,6 +486,12 @@
     "url": "https://github.com/tinylibs/tinybench",
     "feeds": [
       "https://github.com/tinylibs/tinybench/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {
@@ -2210,13 +2210,6 @@
     "url": "https://webassembly.org",
     "feeds": [
       "https://webassembly.org/feed.xml"
-    ]
-  },
-  {
-    "url": "https://webdriver.io",
-    "feeds": [
-      "https://webdriver.io/blog/rss.xml",
-      "https://webdriver.io/blog/atom.xml"
     ]
   },
   {
