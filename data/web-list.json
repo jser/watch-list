@@ -576,6 +576,21 @@
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
   },
   {
+    "count": 6,
+    "url": "https://www.firefox.com",
+    "tags": [
+      "Firefox",
+      "ReleaseNote",
+      "browser",
+      "css",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Firefox 154.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/154.0/releasenotes/"
+    }
+  },
+  {
     "count": 5,
     "url": "https://rspack.dev",
     "tags": [
@@ -699,18 +714,6 @@
       "url": "https://prettier.io/blog/2026/06/27/3.9.0"
     },
     "rssUrl": "https://prettier.io/blog/atom.xml"
-  },
-  {
-    "count": 5,
-    "url": "https://www.firefox.com",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 147.0, See All New Features, Updates and Fixes",
-      "url": "https://www.firefox.com/en-US/firefox/147.0/releasenotes/"
-    }
   },
   {
     "count": 4,
@@ -843,6 +846,22 @@
       "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b"
     },
     "rssUrl": "https://blog.angular.dev/feed"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/lerna-lite/lerna-lite",
+    "tags": [
+      "npm",
+      "monorepo",
+      "Tools",
+      "ReleaseNote",
+      "nodejs"
+    ],
+    "example": {
+      "title": "Release v5.6.0 - npm staged publishing · lerna-lite/lerna-lite",
+      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v5.6.0"
+    },
+    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 4,
@@ -1034,22 +1053,6 @@
       "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%401.8.0"
     },
     "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/lerna-lite/lerna-lite",
-    "tags": [
-      "npm",
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · lerna-lite/lerna-lite",
-      "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
   },
   {
     "count": 3,
@@ -1883,6 +1886,25 @@
       "title": "v1.20.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-20-0"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://better-auth.com",
+    "tags": [
+      "TypeScript",
+      "vercel",
+      "news",
+      "nodejs",
+      "library",
+      "ReleaseNote",
+      "OAuth",
+      "MCP"
+    ],
+    "example": {
+      "title": "Better Auth 1.7",
+      "url": "https://better-auth.com/blog/1-7"
+    },
+    "rssUrl": "https://better-auth.com/blog/rss.xml"
   },
   {
     "count": 1,
@@ -7115,21 +7137,6 @@
   },
   {
     "count": 1,
-    "url": "https://better-auth.com",
-    "tags": [
-      "TypeScript",
-      "vercel",
-      "news",
-      "nodejs"
-    ],
-    "example": {
-      "title": "Better Auth is joining Vercel",
-      "url": "https://better-auth.com/blog/better-auth-joins-vercel"
-    },
-    "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
     "url": "https://wordgard.net",
     "tags": [
       "JavaScript",
@@ -7301,6 +7308,21 @@
     "example": {
       "title": "Plumeria - Zero-cost abstraction layer",
       "url": "https://plumeria.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://celld.dev",
+    "tags": [
+      "cloudflare",
+      "JavaScript",
+      "server",
+      "database",
+      "OpenSource"
+    ],
+    "example": {
+      "title": "celld: self-hosted, distributed Durable Objects",
+      "url": "https://celld.dev/"
     }
   }
 ]
