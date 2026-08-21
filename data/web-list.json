@@ -209,6 +209,23 @@
     "rssUrl": "https://github.blog/feed/"
   },
   {
+    "count": 14,
+    "url": "https://bun.com",
+    "tags": [
+      "Bun",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "news",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Bun 1.4 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.4"
+    },
+    "rssUrl": "https://bun.com/rss.xml"
+  },
+  {
     "count": 13,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
@@ -247,22 +264,6 @@
       "url": "https://blog.cloudflare.com/grpc-workers/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 13,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news"
-    ],
-    "example": {
-      "title": "Bun v1.3.14 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.3.14"
-    },
-    "rssUrl": "https://bun.com/rss.xml"
   },
   {
     "count": 12,
