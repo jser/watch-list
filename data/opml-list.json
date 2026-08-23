@@ -212,12 +212,6 @@
     ]
   },
   {
-    "url": "https://csswizardry.com",
-    "feeds": [
-      "https://feeds.feedburner.com/csswizardry"
-    ]
-  },
-  {
     "url": "https://deezer.io",
     "feeds": [
       "https://deezer.io/feed"
@@ -514,6 +508,12 @@
     "feeds": [
       "https://nx.dev/blog/rss.xml",
       "https://nx.dev/blog/atom.xml"
+    ]
+  },
+  {
+    "url": "https://onestack.dev",
+    "feeds": [
+      "https://onestack.dev/blog/rss.xml"
     ]
   },
   {

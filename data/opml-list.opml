@@ -38,7 +38,6 @@
 <outline text="codspeed.io" title="codspeed.io" type="rss" xmlUrl="https://codspeed.io/blog/feed/rss.xml"/>
 <outline text="craft.faire.com" title="craft.faire.com" type="rss" xmlUrl="https://craft.faire.com/feed"/>
 <outline text="css-tricks.com" title="css-tricks.com" type="rss" xmlUrl="https://css-tricks.com/feed/"/>
-<outline text="csswizardry.com" title="csswizardry.com" type="rss" xmlUrl="https://feeds.feedburner.com/csswizardry"/>
 <outline text="deezer.io" title="deezer.io" type="rss" xmlUrl="https://deezer.io/feed"/>
 <outline text="deno.com" title="deno.com" type="rss" xmlUrl="https://deno.com/feed"/>
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
@@ -86,6 +85,7 @@
 <outline text="nuejs.org" title="nuejs.org" type="rss" xmlUrl="https://nuejs.org/feed.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="nx.dev" title="nx.dev" type="rss" xmlUrl="https://nx.dev/blog/rss.xml"/>
+<outline text="onestack.dev" title="onestack.dev" type="rss" xmlUrl="https://onestack.dev/blog/rss.xml"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
 <outline text="philipwalton.com" title="philipwalton.com" type="rss" xmlUrl="https://feeds.feedburner.com/philipwalton"/>
