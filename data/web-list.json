@@ -299,7 +299,7 @@
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -308,11 +308,12 @@
       "ReleaseNote",
       "ESLint",
       "JavaScript",
-      "article"
+      "article",
+      "React"
     ],
     "example": {
-      "title": "Type-Aware Linting Stable | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2026-07-22-type-aware-linting-stable"
+      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
