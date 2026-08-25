@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/web-infra-dev/rspack",
-    "feeds": [
-      "https://github.com/web-infra-dev/rspack/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/jsdom/jsdom",
     "feeds": [
       "https://github.com/jsdom/jsdom/releases.atom"
@@ -513,6 +507,12 @@
     ]
   },
   {
+    "url": "https://github.com/web-infra-dev/rspack",
+    "feeds": [
+      "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/nodejs/corepack",
     "feeds": [
       "https://github.com/nodejs/corepack/releases.atom"
@@ -552,12 +552,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"
     ]
   },
   {

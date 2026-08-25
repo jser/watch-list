@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 18,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -130,24 +130,6 @@
     }
   },
   {
-    "count": 16,
-    "url": "https://deno.com",
-    "tags": [
-      "deno",
-      "ReleaseNote",
-      "dneo",
-      "article",
-      "browser",
-      "JavaScript",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.9 | Deno",
-      "url": "https://deno.com/blog/v2.9"
-    }
-  },
-  {
     "count": 15,
     "url": "https://eslint.org",
     "tags": [
@@ -164,6 +146,24 @@
     "example": {
       "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
       "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
+  },
+  {
+    "count": 15,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "dneo",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.9 | Deno",
+      "url": "https://deno.com/blog/v2.9"
     }
   },
   {
@@ -256,37 +256,6 @@
   },
   {
     "count": 12,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Vue",
-      "Nuxt",
-      "library",
-      "ReleaseNote",
-      "article",
-      "UI",
-      "vite",
-      "rspack",
-      "security"
-    ],
-    "example": {
-      "title": "Nuxt Security Patch Releases · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-5-security"
-    }
-  },
-  {
-    "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 43 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-43-0"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://oxc.rs",
     "tags": [
       "TypeScript",
@@ -301,6 +270,37 @@
     "example": {
       "title": "React Compiler Support | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 43 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-43-0"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Nuxt",
+      "ReleaseNote",
+      "article",
+      "Vue",
+      "UI",
+      "library",
+      "vite",
+      "rspack",
+      "security"
+    ],
+    "example": {
+      "title": "Nuxt Security Patch Releases · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-5-security"
     }
   },
   {
@@ -690,24 +690,6 @@
   },
   {
     "count": 4,
-    "url": "https://efcl.info",
-    "tags": [
-      "nodejs",
-      "TypeScript",
-      "article",
-      "JavaScript",
-      "ReleaseNote",
-      "book",
-      "npm",
-      "security"
-    ],
-    "example": {
-      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
-      "url": "https://efcl.info/2025/09/07/npm-oidc/"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://www.debugbear.com",
     "tags": [
       "article",
@@ -896,22 +878,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/web-infra-dev/rspack",
-    "tags": [
-      "bundler",
-      "ReleaseNote",
-      "rspack",
-      "security",
-      "issue"
-    ],
-    "example": {
-      "title": "Planned breaking changes for Rspack 2.0 · web-infra-dev/rspack · Discussion #9270",
-      "url": "https://github.com/web-infra-dev/rspack/discussions/9270"
-    },
-    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/jsdom/jsdom",
     "tags": [
       "JavaScript",
@@ -939,6 +905,22 @@
       "url": "https://github.com/prisma/prisma/releases/tag/7.0.0"
     },
     "rssUrl": "https://github.com/prisma/prisma/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "ReleaseNote",
+      "book",
+      "npm",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
+      "url": "https://efcl.info/2025/09/07/npm-oidc/"
+    }
   },
   {
     "count": 3,
@@ -1444,6 +1426,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/web-infra-dev/rspack",
+    "tags": [
+      "rspack",
+      "security",
+      "ReleaseNote",
+      "issue"
+    ],
+    "example": {
+      "title": "Planned breaking changes for Rspack 2.0 · web-infra-dev/rspack · Discussion #9270",
+      "url": "https://github.com/web-infra-dev/rspack/discussions/9270"
+    },
+    "rssUrl": "https://github.com/web-infra-dev/rspack/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://e18e.dev",
     "tags": [
       "performance",
@@ -1837,20 +1834,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file",
-    "tags": [
-      "test",
-      "ESLint",
-      "plugin"
-    ],
-    "example": {
-      "title": "vitest-dev/eslint-plugin-vitest: eslint plugin for vitest",
-      "url": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/vitest-dev/eslint-plugin-vitest?tab=readme-ov-file/releases.atom"
   },
   {
     "count": 1,
