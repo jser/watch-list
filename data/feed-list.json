@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/jsdom/jsdom",
-    "feeds": [
-      "https://github.com/jsdom/jsdom/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/prisma/prisma",
     "feeds": [
       "https://github.com/prisma/prisma/releases.atom"
@@ -510,6 +504,12 @@
     "url": "https://github.com/web-infra-dev/rspack",
     "feeds": [
       "https://github.com/web-infra-dev/rspack/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/jsdom/jsdom",
+    "feeds": [
+      "https://github.com/jsdom/jsdom/releases.atom"
     ]
   },
   {

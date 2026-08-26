@@ -36,29 +36,6 @@
   },
   {
     "count": 22,
-    "url": "https://developer.chrome.com",
-    "tags": [
-      "Chrome",
-      "ReleaseNote",
-      "HTML",
-      "article",
-      "css",
-      "debug",
-      "MCP",
-      "browser",
-      "news",
-      "WebAPI",
-      "DOM",
-      "stream",
-      "WebGPU"
-    ],
-    "example": {
-      "title": "Chrome 150  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/150"
-    }
-  },
-  {
-    "count": 22,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -77,6 +54,29 @@
     "example": {
       "title": "Release Notes for Safari Technology Preview 250 | WebKit",
       "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/"
+    }
+  },
+  {
+    "count": 21,
+    "url": "https://developer.chrome.com",
+    "tags": [
+      "Chrome",
+      "HTML",
+      "article",
+      "ReleaseNote",
+      "css",
+      "debug",
+      "MCP",
+      "browser",
+      "news",
+      "WebAPI",
+      "DOM",
+      "stream",
+      "WebGPU"
+    ],
+    "example": {
+      "title": "Chrome 150  |  Release notes  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/release-notes/150"
     }
   },
   {
@@ -878,21 +878,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/jsdom/jsdom",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "Release Version 27.0.0 · jsdom/jsdom",
-      "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0"
-    },
-    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/prisma/prisma",
     "tags": [
       "prisma",
@@ -1468,6 +1453,21 @@
       "title": "Ecma International approves new standards - Ecma International",
       "url": "https://ecma-international.org/news/ecma-international-approves-new-standards-11/"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/jsdom/jsdom",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "Release Version 27.0.0 · jsdom/jsdom",
+      "url": "https://github.com/jsdom/jsdom/releases/tag/27.0.0"
+    },
+    "rssUrl": "https://github.com/jsdom/jsdom/releases.atom"
   },
   {
     "count": 2,
