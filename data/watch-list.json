@@ -327,19 +327,7 @@
     }
   },
   {
-    "count": 9,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 9,
+    "count": 10,
     "url": "https://pnpm.io",
     "tags": [
       "pnpm",
@@ -352,8 +340,20 @@
       "document"
     ],
     "example": {
-      "title": "pnpm 11.15-11.19 | pnpm",
-      "url": "https://pnpm.io/blog/releases/11.15-11.19"
+      "title": "pnpm 12.0 | pnpm",
+      "url": "https://pnpm.io/blog/releases/12.0"
+    }
+  },
+  {
+    "count": 9,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
@@ -1834,19 +1834,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file",
-    "tags": [
-      "Vue",
-      "mail"
-    ],
-    "example": {
-      "title": "vue-email/vue-email: 💌 Write email templates with vue",
-      "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"
   },
   {
     "count": 1,
