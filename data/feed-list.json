@@ -555,12 +555,6 @@
     ]
   },
   {
-    "url": "https://github.com/vue-email/vue-email?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/vue-email/vue-email?tab=readme-ov-file/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pmndrs/valtio",
     "feeds": [
       "https://github.com/pmndrs/valtio/releases.atom"
