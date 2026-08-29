@@ -569,21 +569,6 @@
   },
   {
     "count": 5,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "webpack",
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "Rspack joins the Next.js ecosystem - Rspack",
-      "url": "https://rspack.dev/blog/rspack-next-partner"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://survey.devographics.com",
     "tags": [
       "css ",
@@ -762,6 +747,20 @@
     "example": {
       "title": "Introducing Phased Package Installations",
       "url": "https://blog.vlt.sh/blog/vlt-build"
+    }
+  },
+  {
+    "count": 4,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "Rspack joins the Next.js ecosystem - Rspack",
+      "url": "https://rspack.dev/blog/rspack-next-partner"
     }
   },
   {
