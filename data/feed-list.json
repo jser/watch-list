@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/prisma/prisma",
-    "feeds": [
-      "https://github.com/prisma/prisma/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -480,6 +474,12 @@
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/prisma/prisma",
+    "feeds": [
+      "https://github.com/prisma/prisma/releases.atom"
     ]
   },
   {

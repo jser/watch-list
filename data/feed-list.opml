@@ -71,7 +71,6 @@
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
@@ -82,6 +81,7 @@
 <outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
+<outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
 <outline text="github.com/remix-run/react-router" title="github.com/remix-run/react-router" type="rss" xmlUrl="https://github.com/remix-run/react-router/releases.atom"/>
 <outline text="github.com/google/zx" title="github.com/google/zx" type="rss" xmlUrl="https://github.com/google/zx/releases.atom"/>
