@@ -594,21 +594,6 @@
   },
   {
     "count": 5,
-    "url": "https://survey.devographics.com",
-    "tags": [
-      "css ",
-      "Survey",
-      "JavaScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "State of JavaScript 2025",
-      "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
-    }
-  },
-  {
-    "count": 5,
     "url": "https://github.com/webpack/webpack",
     "tags": [
       "webpack",
@@ -831,6 +816,20 @@
   },
   {
     "count": 4,
+    "url": "https://survey.devographics.com",
+    "tags": [
+      "JavaScript",
+      "Survey",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "State of JavaScript 2025",
+      "url": "https://survey.devographics.com/ja-JP/survey/state-of-js/2025"
+    }
+  },
+  {
+    "count": 4,
     "url": "https://github.com/lerna-lite/lerna-lite",
     "tags": [
       "npm",
@@ -910,21 +909,6 @@
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     },
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
-  },
-  {
-    "count": 3,
-    "url": "https://github.com/prisma/prisma",
-    "tags": [
-      "prisma",
-      "MySQL",
-      "TypeScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release 7.0.0 · prisma/prisma",
-      "url": "https://github.com/prisma/prisma/releases/tag/7.0.0"
-    },
-    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 3,
@@ -1381,6 +1365,20 @@
       "url": "https://github.com/nodejs/undici/releases/tag/v7.1.0"
     },
     "rssUrl": "https://github.com/nodejs/undici/releases.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/prisma/prisma",
+    "tags": [
+      "prisma",
+      "TypeScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 7.0.0 · prisma/prisma",
+      "url": "https://github.com/prisma/prisma/releases/tag/7.0.0"
+    },
+    "rssUrl": "https://github.com/prisma/prisma/releases.atom"
   },
   {
     "count": 2,
