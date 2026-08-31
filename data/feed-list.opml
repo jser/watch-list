@@ -94,7 +94,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/pmndrs/valtio" title="github.com/pmndrs/valtio" type="rss" xmlUrl="https://github.com/pmndrs/valtio/releases.atom"/>
 <outline text="github.com/bramus/style-observer" title="github.com/bramus/style-observer" type="rss" xmlUrl="https://github.com/bramus/style-observer/releases.atom"/>
 <outline text="github.com/advisories/GHSA-8266-84wp-wv5c" title="github.com/advisories/GHSA-8266-84wp-wv5c" type="rss" xmlUrl="https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"/>
 <outline text="github.com/hoppergee/heic-to?tab=readme-ov-file" title="github.com/hoppergee/heic-to?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"/>

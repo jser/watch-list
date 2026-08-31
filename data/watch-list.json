@@ -1834,21 +1834,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/pmndrs/valtio",
-    "tags": [
-      "React",
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · pmndrs/valtio",
-      "url": "https://github.com/pmndrs/valtio/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/pmndrs/valtio/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://tech.newmo.me",
     "tags": [
       "npm",

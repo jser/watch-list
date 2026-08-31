@@ -555,12 +555,6 @@
     ]
   },
   {
-    "url": "https://github.com/pmndrs/valtio",
-    "feeds": [
-      "https://github.com/pmndrs/valtio/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/bramus/style-observer",
     "feeds": [
       "https://github.com/bramus/style-observer/releases.atom"
