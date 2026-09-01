@@ -242,12 +242,6 @@
     ]
   },
   {
-    "url": "https://developers.cyberagent.co.jp",
-    "feeds": [
-      "https://developers.cyberagent.co.jp/blog/feed/"
-    ]
-  },
-  {
     "url": "https://developers.prtimes.jp",
     "feeds": [
       "https://developers.prtimes.jp/feed/",
@@ -727,13 +721,6 @@
     ]
   },
   {
-    "url": "https://tech.newmo.me",
-    "feeds": [
-      "https://tech.newmo.me/feed",
-      "https://tech.newmo.me/rss"
-    ]
-  },
-  {
     "url": "https://techblog.lycorp.co.jp",
     "feeds": [
       "https://techblog.lycorp.co.jp/ja/feed/index.xml"
@@ -993,12 +980,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/yumemi_inc/",
-    "feeds": [
-      "https://zenn.dev/p/yumemi_inc/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/uki00a/",
     "feeds": [
       "https://zenn.dev/uki00a/feed"
@@ -1011,12 +992,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/akfm/",
-    "feeds": [
-      "https://zenn.dev/akfm/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/yuneco/",
     "feeds": [
       "https://zenn.dev/yuneco/feed"
@@ -1026,6 +1001,12 @@
     "url": "https://zenn.dev/ryo_kawamata/",
     "feeds": [
       "https://zenn.dev/ryo_kawamata/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/yumemi_inc/",
+    "feeds": [
+      "https://zenn.dev/p/yumemi_inc/feed"
     ]
   },
   {

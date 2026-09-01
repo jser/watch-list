@@ -43,7 +43,6 @@
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.chrome.com" title="developer.chrome.com" type="rss" xmlUrl="https://developer.chrome.com/static/blog/feed.xml"/>
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
-<outline text="developers.cyberagent.co.jp" title="developers.cyberagent.co.jp" type="rss" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/"/>
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
 <outline text="digital-agency-news.digital.go.jp" title="digital-agency-news.digital.go.jp" type="rss" xmlUrl="https://digital-agency-news.digital.go.jp/rss/articles.xml"/>
 <outline text="dlhck.com" title="dlhck.com" type="rss" xmlUrl="https://dlhck.com/rss.xml"/>
@@ -118,7 +117,6 @@
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tanstack.com" title="tanstack.com" type="rss" xmlUrl="https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"/>
-<outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="techblog.lycorp.co.jp" title="techblog.lycorp.co.jp" type="rss" xmlUrl="https://techblog.lycorp.co.jp/ja/feed/index.xml"/>
 <outline text="trynova.dev" title="trynova.dev" type="rss" xmlUrl="https://trynova.dev/blog/feed.rss"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
@@ -160,12 +158,11 @@
 <outline text="www.vlt.io" title="www.vlt.io" type="rss" xmlUrl="https://www.vlt.io/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
-<outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 <outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
+<outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>
 <outline text="zenn.dev/thiry/" title="zenn.dev/thiry/" type="rss" xmlUrl="https://zenn.dev/thiry/feed"/>

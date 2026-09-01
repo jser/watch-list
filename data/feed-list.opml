@@ -43,7 +43,6 @@
 <outline text="devblogs.microsoft.com" title="devblogs.microsoft.com" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"/>
 <outline text="developer.chrome.com" title="developer.chrome.com" type="rss" xmlUrl="https://developer.chrome.com/static/blog/feed.xml"/>
 <outline text="developer.mozilla.org" title="developer.mozilla.org" type="rss" xmlUrl="https://developer.mozilla.org/en-US/blog/rss.xml"/>
-<outline text="developers.cyberagent.co.jp" title="developers.cyberagent.co.jp" type="rss" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/"/>
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
 <outline text="digital-agency-news.digital.go.jp" title="digital-agency-news.digital.go.jp" type="rss" xmlUrl="https://digital-agency-news.digital.go.jp/rss/articles.xml"/>
 <outline text="dlhck.com" title="dlhck.com" type="rss" xmlUrl="https://dlhck.com/rss.xml"/>
@@ -64,12 +63,12 @@
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
-<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
+<outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
@@ -94,8 +93,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/bramus/style-observer" title="github.com/bramus/style-observer" type="rss" xmlUrl="https://github.com/bramus/style-observer/releases.atom"/>
-<outline text="github.com/advisories/GHSA-8266-84wp-wv5c" title="github.com/advisories/GHSA-8266-84wp-wv5c" type="rss" xmlUrl="https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"/>
 <outline text="github.com/hoppergee/heic-to?tab=readme-ov-file" title="github.com/hoppergee/heic-to?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"/>
 <outline text="github.com/faker-js/faker" title="github.com/faker-js/faker" type="rss" xmlUrl="https://github.com/faker-js/faker/releases.atom"/>
 <outline text="github.com/ymrl/a11y-visualizer?tab=readme-ov-file" title="github.com/ymrl/a11y-visualizer?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"/>
@@ -345,7 +342,6 @@
 <outline text="svelte.dev" title="svelte.dev" type="rss" xmlUrl="https://svelte.dev/blog/rss.xml"/>
 <outline text="tailwindcss.com" title="tailwindcss.com" type="rss" xmlUrl="https://tailwindcss.com/feeds/feed.xml"/>
 <outline text="tanstack.com" title="tanstack.com" type="rss" xmlUrl="https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"/>
-<outline text="tech.newmo.me" title="tech.newmo.me" type="rss" xmlUrl="https://tech.newmo.me/feed"/>
 <outline text="techblog.lycorp.co.jp" title="techblog.lycorp.co.jp" type="rss" xmlUrl="https://techblog.lycorp.co.jp/ja/feed/index.xml"/>
 <outline text="trynova.dev" title="trynova.dev" type="rss" xmlUrl="https://trynova.dev/blog/feed.rss"/>
 <outline text="turbo.build" title="turbo.build" type="rss" xmlUrl="https://turbo.build/feed.xml"/>
@@ -388,12 +384,11 @@
 <outline text="www.vlt.io" title="www.vlt.io" type="rss" xmlUrl="https://www.vlt.io/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
-<outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/akfm/" title="zenn.dev/akfm/" type="rss" xmlUrl="https://zenn.dev/akfm/feed"/>
 <outline text="zenn.dev/yuneco/" title="zenn.dev/yuneco/" type="rss" xmlUrl="https://zenn.dev/yuneco/feed"/>
 <outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
+<outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>
 <outline text="zenn.dev/thiry/" title="zenn.dev/thiry/" type="rss" xmlUrl="https://zenn.dev/thiry/feed"/>
