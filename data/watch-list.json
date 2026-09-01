@@ -35,7 +35,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 22,
+    "count": 21,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -373,23 +373,6 @@
   },
   {
     "count": 7,
-    "url": "https://web.dev",
-    "tags": [
-      "browser",
-      "performance",
-      "article",
-      "Unicode",
-      "JavaScript",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    }
-  },
-  {
-    "count": 7,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -539,6 +522,22 @@
   },
   {
     "count": 6,
+    "url": "https://web.dev",
+    "tags": [
+      "Unicode",
+      "JavaScript",
+      "article",
+      "browser",
+      "ECMAScript",
+      "JSON"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://github.com/zloirock/core-js",
     "tags": [
       "JavaScript",
@@ -566,20 +565,6 @@
       "title": "Firefox 154.0, See All New Features, Updates and Fixes",
       "url": "https://www.firefox.com/en-US/firefox/154.0/releasenotes/"
     }
-  },
-  {
-    "count": 5,
-    "url": "https://github.com/webpack/webpack",
-    "tags": [
-      "webpack",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "Release v5.103.0 · webpack/webpack",
-      "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
-    },
-    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
   },
   {
     "count": 5,
@@ -839,6 +824,19 @@
   },
   {
     "count": 4,
+    "url": "https://github.com/webpack/webpack",
+    "tags": [
+      "webpack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v5.103.0 · webpack/webpack",
+      "url": "https://github.com/webpack/webpack/releases/tag/v5.103.0"
+    },
+    "rssUrl": "https://github.com/webpack/webpack/releases.atom"
+  },
+  {
+    "count": 4,
     "url": "https://github.com/apollographql/apollo-client",
     "tags": [
       "GraphQL",
@@ -1093,36 +1091,6 @@
     "example": {
       "title": "Webpack 5.109 | webpack",
       "url": "https://webpack.js.org/blog/2026-07-24-webpack-5-109/"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://zenn.dev/yumemi_inc/",
-    "tags": [
-      "Conference",
-      "slide",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "JSConf JP 2024 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://mui.com",
-    "tags": [
-      "React",
-      "UI",
-      "library",
-      "ReleaseNote",
-      "GUI",
-      "JavaScript",
-      "css"
-    ],
-    "example": {
-      "title": "Material UI v7 is here 🚀 - MUI",
-      "url": "https://mui.com/blog/material-ui-v7-is-here/"
     }
   },
   {
@@ -1830,74 +1798,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://tech.newmo.me",
-    "tags": [
-      "npm",
-      "pnpm",
-      "monorepo",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "monorepo内でのパッケージのバージョンを1つだけに統一するOne Version Ruleをpnpm catalogで実装する - newmo 技術ブログ",
-      "url": "https://tech.newmo.me/entry/one-version-rule-built-on-pnpm-catalog"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/bramus/style-observer",
-    "tags": [
-      "css ",
-      "JavaScript",
-      "library"
-    ],
-    "example": {
-      "title": "bramus/style-observer: MutationObserver for CSS. Get notified when the computed value of a CSS property changes.",
-      "url": "https://github.com/bramus/style-observer"
-    },
-    "rssUrl": "https://github.com/bramus/style-observer/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/advisories/GHSA-8266-84wp-wv5c",
-    "tags": [
-      "Svelte",
-      "security",
-      "ReleaseNote",
-      "XSS"
-    ],
-    "example": {
-      "title": "Svelte has a potential mXSS vulnerability due to improper HTML escaping · CVE-2024-45047 · GitHub Advisory Database",
-      "url": "https://github.com/advisories/GHSA-8266-84wp-wv5c"
-    },
-    "rssUrl": "https://github.com/advisories/GHSA-8266-84wp-wv5c/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://developers.cyberagent.co.jp",
-    "tags": [
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "ジャンプTOON Next.js App Router の活用〜得られた恩恵と課題〜 | CyberAgent Developers Blog",
-      "url": "https://developers.cyberagent.co.jp/blog/archives/49429/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/akfm/",
-    "tags": [
-      "Next.js",
-      "book"
-    ],
-    "example": {
-      "title": "Next.jsの考え方",
-      "url": "https://zenn.dev/akfm/books/nextjs-basic-principle"
     }
   },
   {
@@ -2688,6 +2588,19 @@
     "example": {
       "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
       "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/yumemi_inc/",
+    "tags": [
+      "JavaScript",
+      "Conference",
+      "slide"
+    ],
+    "example": {
+      "title": "JSConf JP 2024 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/yumemi_inc/articles/2024-11-24-jsconf-jp-2024"
     }
   },
   {
@@ -3677,6 +3590,21 @@
       "url": "https://github.com/toss/es-git"
     },
     "rssUrl": "https://github.com/toss/es-git/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://mui.com",
+    "tags": [
+      "GUI",
+      "library",
+      "JavaScript",
+      "css",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Material UI v7 is here 🚀 - MUI",
+      "url": "https://mui.com/blog/material-ui-v7-is-here/"
+    }
   },
   {
     "count": 1,
