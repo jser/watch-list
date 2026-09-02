@@ -261,13 +261,6 @@
     ]
   },
   {
-    "url": "https://docs.timetime.in",
-    "feeds": [
-      "https://docs.timetime.in/blog/rss.xml",
-      "https://docs.timetime.in/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://e18e.dev",
     "feeds": [
       "https://e18e.dev/blog.rss"
@@ -323,6 +316,13 @@
     "feeds": [
       "https://expressjs.com/feed.xml",
       "https://expressjs.com/vulnerabilities.xml"
+    ]
+  },
+  {
+    "url": "https://four.htmx.org",
+    "feeds": [
+      "https://four.htmx.org/atom.xml",
+      "https://four.htmx.org/rss.xml"
     ]
   },
   {
@@ -1121,6 +1121,12 @@
     "url": "https://zenn.dev/cybozu_frontend/",
     "feeds": [
       "https://zenn.dev/p/cybozu_frontend/feed"
+    ]
+  },
+  {
+    "url": "https://zod.dev",
+    "feeds": [
+      "https://zod.dev/blog/rss.xml"
     ]
   }
 ]
