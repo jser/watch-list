@@ -46,7 +46,6 @@
 <outline text="developers.prtimes.jp" title="developers.prtimes.jp" type="rss" xmlUrl="https://developers.prtimes.jp/feed/"/>
 <outline text="digital-agency-news.digital.go.jp" title="digital-agency-news.digital.go.jp" type="rss" xmlUrl="https://digital-agency-news.digital.go.jp/rss/articles.xml"/>
 <outline text="dlhck.com" title="dlhck.com" type="rss" xmlUrl="https://dlhck.com/rss.xml"/>
-<outline text="docs.timetime.in" title="docs.timetime.in" type="rss" xmlUrl="https://docs.timetime.in/blog/rss.xml"/>
 <outline text="e18e.dev" title="e18e.dev" type="rss" xmlUrl="https://e18e.dev/blog.rss"/>
 <outline text="ecma-international.org" title="ecma-international.org" type="rss" xmlUrl="https://ecma-international.org/feed/"/>
 <outline text="ecmascript-daily.github.io" title="ecmascript-daily.github.io" type="rss" xmlUrl="https://ecmascript-daily.github.io/atom.xml"/>
@@ -56,6 +55,7 @@
 <outline text="evanhahn.com" title="evanhahn.com" type="rss" xmlUrl="https://evanhahn.com/blog/index.xml"/>
 <outline text="evilmartians.com" title="evilmartians.com" type="rss" xmlUrl="https://evilmartians.com/chronicles.atom"/>
 <outline text="expressjs.com" title="expressjs.com" type="rss" xmlUrl="https://expressjs.com/feed.xml"/>
+<outline text="four.htmx.org" title="four.htmx.org" type="rss" xmlUrl="https://four.htmx.org/atom.xml"/>
 <outline text="frontendmasters.com" title="frontendmasters.com" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/"/>
 <outline text="fumadocs.dev" title="fumadocs.dev" type="rss" xmlUrl="https://fumadocs.dev/blog/rss.xml"/>
 <outline text="github.blog" title="github.blog" type="rss" xmlUrl="https://github.blog/feed/"/>
@@ -182,5 +182,6 @@
 <outline text="zenn.dev/yamanoku/" title="zenn.dev/yamanoku/" type="rss" xmlUrl="https://zenn.dev/yamanoku/feed"/>
 <outline text="zenn.dev/yasse/" title="zenn.dev/yasse/" type="rss" xmlUrl="https://zenn.dev/yasse/feed"/>
 <outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
+<outline text="zod.dev" title="zod.dev" type="rss" xmlUrl="https://zod.dev/blog/rss.xml"/>
 </body>
 </opml>

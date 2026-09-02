@@ -1,6 +1,6 @@
 [
   {
-    "count": 66,
+    "count": 67,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — Node.js 24.19.0 (LTS)",
-      "url": "https://nodejs.org/en/blog/release/v24.19.0"
+      "title": "Node.js — Node.js 24.20.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.20.0"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -389,6 +389,19 @@
     "rssUrl": "https://remix.run/blog/rss.xml"
   },
   {
+    "count": 8,
+    "url": "https://rspack.rs",
+    "tags": [
+      "rspack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Rspack 2.2 - Rspack",
+      "url": "https://rspack.rs/blog/announcing-2-2"
+    },
+    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
+  },
+  {
     "count": 7,
     "url": "https://biomejs.dev",
     "tags": [
@@ -457,19 +470,6 @@
       "url": "https://voidzero.dev/posts/announcing-vite-plus-beta"
     },
     "rssUrl": "https://voidzero.dev/feed.xml"
-  },
-  {
-    "count": 7,
-    "url": "https://rspack.rs",
-    "tags": [
-      "rspack",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Rspack 2.1 - Rspack",
-      "url": "https://rspack.rs/blog/announcing-2-1"
-    },
-    "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
   },
   {
     "count": 6,
@@ -1522,6 +1522,23 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/plotly/plotly.js",
+    "tags": [
+      "JavaScript",
+      "graphic",
+      "chart",
+      "library",
+      "Azure",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v4.0.0 · plotly/plotly.js",
+      "url": "https://github.com/plotly/plotly.js/releases/tag/v4.0.0"
+    },
+    "rssUrl": "https://github.com/plotly/plotly.js/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://github.com/solidjs/solid-start",
     "tags": [
       "Solid",
@@ -1623,6 +1640,22 @@
       "url": "https://v8.dev/blog/json-stringify"
     },
     "rssUrl": "https://v8.dev/blog.atom"
+  },
+  {
+    "count": 2,
+    "url": "https://zod.dev",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Zod 4.5",
+      "url": "https://zod.dev/blog/zod-4-5"
+    },
+    "rssUrl": "https://zod.dev/blog/rss.xml"
   },
   {
     "count": 2,
@@ -1867,35 +1900,6 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/hoppergee/heic-to?tab=readme-ov-file",
-    "tags": [
-      "JavaScript",
-      "browser",
-      "Image",
-      "library"
-    ],
-    "example": {
-      "title": "hoppergee/heic-to: Convert HEIC/HEIF images to JPEG, PNG in browser",
-      "url": "https://github.com/hoppergee/heic-to?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://docs.timetime.in",
-    "tags": [
-      "ECMAScript",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "JS Dates Are About to Be Fixed | TimeTime",
-      "url": "https://docs.timetime.in/blog/js-dates-finally-fixed/"
-    },
-    "rssUrl": "https://docs.timetime.in/blog/rss.xml"
   },
   {
     "count": 1,
@@ -3284,22 +3288,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/plotly/plotly.js",
-    "tags": [
-      "JavaScript",
-      "graphic",
-      "chart",
-      "library",
-      "Azure"
-    ],
-    "example": {
-      "title": "Release v3.0.0 · plotly/plotly.js",
-      "url": "https://github.com/plotly/plotly.js/releases/tag/v3.0.0"
-    },
-    "rssUrl": "https://github.com/plotly/plotly.js/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/antfu/node-modules-inspector?tab=readme-ov-file",
     "tags": [
       "nodejs",
@@ -4062,21 +4050,6 @@
       "url": "https://github.com/aidenybai/bippy"
     },
     "rssUrl": "https://github.com/aidenybai/bippy/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://zod.dev",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "library",
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Introducing Zod 4 | Zod",
-      "url": "https://zod.dev/v4"
-    }
   },
   {
     "count": 1,
@@ -7160,6 +7133,51 @@
     "example": {
       "title": "celld: self-hosted, distributed Durable Objects",
       "url": "https://celld.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/jdx/aube",
+    "tags": [
+      "nodejs",
+      "package",
+      "Rust",
+      "Tools"
+    ],
+    "example": {
+      "title": "Release v2.0.1: Aube's own global home, leaner resolver, and dramatically lower install memory · jdx/aube",
+      "url": "https://github.com/jdx/aube/releases/tag/v2.0.1"
+    },
+    "rssUrl": "https://github.com/jdx/aube/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://four.htmx.org",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "htmx 4.0.0 has been released! ~ htmx",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+    },
+    "rssUrl": "https://four.htmx.org/atom.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://typeset.jp",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "library",
+      "PDF",
+      "japanese"
+    ],
+    "example": {
+      "title": "minitype – TypeScript ライブラリとして動作するヘッドレス組版エンジン",
+      "url": "https://typeset.jp/"
     }
   }
 ]

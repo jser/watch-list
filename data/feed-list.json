@@ -261,13 +261,6 @@
     ]
   },
   {
-    "url": "https://docs.timetime.in",
-    "feeds": [
-      "https://docs.timetime.in/blog/rss.xml",
-      "https://docs.timetime.in/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://e18e.dev",
     "feeds": [
       "https://e18e.dev/blog.rss"
@@ -323,6 +316,13 @@
     "feeds": [
       "https://expressjs.com/feed.xml",
       "https://expressjs.com/vulnerabilities.xml"
+    ]
+  },
+  {
+    "url": "https://four.htmx.org",
+    "feeds": [
+      "https://four.htmx.org/atom.xml",
+      "https://four.htmx.org/rss.xml"
     ]
   },
   {
@@ -513,6 +513,12 @@
     ]
   },
   {
+    "url": "https://github.com/plotly/plotly.js",
+    "feeds": [
+      "https://github.com/plotly/plotly.js/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/solidjs/solid-start",
     "feeds": [
       "https://github.com/solidjs/solid-start/releases.atom"
@@ -546,12 +552,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/hoppergee/heic-to?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/hoppergee/heic-to?tab=readme-ov-file/releases.atom"
     ]
   },
   {
@@ -810,12 +810,6 @@
     "url": "https://github.com/irsyadadl/justd",
     "feeds": [
       "https://github.com/irsyadadl/justd/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/plotly/plotly.js",
-    "feeds": [
-      "https://github.com/plotly/plotly.js/releases.atom"
     ]
   },
   {
@@ -1695,6 +1689,12 @@
     ]
   },
   {
+    "url": "https://github.com/jdx/aube",
+    "feeds": [
+      "https://github.com/jdx/aube/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2478,6 +2478,12 @@
     "url": "https://zenn.dev/cybozu_frontend/",
     "feeds": [
       "https://zenn.dev/p/cybozu_frontend/feed"
+    ]
+  },
+  {
+    "url": "https://zod.dev",
+    "feeds": [
+      "https://zod.dev/blog/rss.xml"
     ]
   }
 ]
