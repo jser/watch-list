@@ -285,15 +285,15 @@
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
-    "count": 11,
+    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
       "ReleaseNote"
     ],
     "example": {
-      "title": "Electron 43 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-43-0"
+      "title": "Electron 44 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-44-0"
     },
     "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
@@ -373,18 +373,19 @@
     }
   },
   {
-    "count": 8,
+    "count": 9,
     "url": "https://remix.run",
     "tags": [
       "React",
       "Remix",
       "ReleaseNote",
       "article",
-      "Conference"
+      "Conference",
+      "JavaScript"
     ],
     "example": {
-      "title": "React Router v8 | Remix",
-      "url": "https://remix.run/blog/react-router-v8"
+      "title": "Remix 3 Release Candidate | Remix",
+      "url": "https://remix.run/blog/remix-3-release-candidate"
     },
     "rssUrl": "https://remix.run/blog/rss.xml"
   },
@@ -907,23 +908,6 @@
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     },
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
-  },
-  {
-    "count": 3,
-    "url": "https://efcl.info",
-    "tags": [
-      "JavaScript",
-      "ReleaseNote",
-      "book",
-      "npm",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
-      "url": "https://efcl.info/2025/09/07/npm-oidc/"
-    },
-    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 3,
@@ -1713,6 +1697,23 @@
       "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
     },
     "rssUrl": "https://blog.jquery.com/feed/"
+  },
+  {
+    "count": 2,
+    "url": "https://efcl.info",
+    "tags": [
+      "JavaScript",
+      "book",
+      "ReleaseNote",
+      "npm",
+      "security",
+      "article"
+    ],
+    "example": {
+      "title": "npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する | Web Scratch",
+      "url": "https://efcl.info/2025/09/07/npm-oidc/"
+    },
+    "rssUrl": "https://efcl.info/feed/"
   },
   {
     "count": 2,
