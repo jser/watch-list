@@ -100,6 +100,25 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
+    "count": 18,
+    "url": "https://nextjs.org",
+    "tags": [
+      "Next.js",
+      "ReleaseNote",
+      "article",
+      "security",
+      "document",
+      "React",
+      "JavaScript",
+      "performance"
+    ],
+    "example": {
+      "title": "How Turbopack chunks your JavaScript | Next.js",
+      "url": "https://nextjs.org/blog/turbopack-chunking"
+    },
+    "rssUrl": "https://nextjs.org/feed.xml"
+  },
+  {
     "count": 17,
     "url": "https://bun.sh",
     "tags": [
@@ -117,23 +136,6 @@
       "url": "https://bun.sh/blog/bun-v1.2.20"
     },
     "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 17,
-    "url": "https://nextjs.org",
-    "tags": [
-      "Next.js",
-      "ReleaseNote",
-      "article",
-      "security",
-      "document",
-      "React"
-    ],
-    "example": {
-      "title": "Next.js 16.3 | Next.js",
-      "url": "https://nextjs.org/blog/next-16-3"
-    },
-    "rssUrl": "https://nextjs.org/feed.xml"
   },
   {
     "count": 15,
@@ -658,6 +660,22 @@
   },
   {
     "count": 5,
+    "url": "https://vitest.dev",
+    "tags": [
+      "vite",
+      "test",
+      "library",
+      "ReleaseNote",
+      "JavaScript",
+      "testing"
+    ],
+    "example": {
+      "title": "Vitest 5.0 is out! | Vitest",
+      "url": "https://vitest.dev/blog/vitest-5.html"
+    }
+  },
+  {
+    "count": 5,
     "url": "https://prettier.io",
     "tags": [
       "JavaScript",
@@ -829,20 +847,6 @@
       "url": "https://github.com/lerna-lite/lerna-lite/releases/tag/v5.6.0"
     },
     "rssUrl": "https://github.com/lerna-lite/lerna-lite/releases.atom"
-  },
-  {
-    "count": 4,
-    "url": "https://vitest.dev",
-    "tags": [
-      "vite",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Vitest 4.1 is out! | Vitest",
-      "url": "https://vitest.dev/blog/vitest-4-1.html"
-    }
   },
   {
     "count": 4,
