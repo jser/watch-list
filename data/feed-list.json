@@ -555,12 +555,6 @@
     ]
   },
   {
-    "url": "https://github.com/faker-js/faker",
-    "feeds": [
-      "https://github.com/faker-js/faker/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file",
     "feeds": [
       "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
