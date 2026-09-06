@@ -1,6 +1,6 @@
 [
   {
-    "count": 67,
+    "count": 66,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -1905,20 +1905,6 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/faker-js/faker",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v9.0.0 · faker-js/faker",
-      "url": "https://github.com/faker-js/faker/releases/tag/v9.0.0"
-    },
-    "rssUrl": "https://github.com/faker-js/faker/releases.atom"
   },
   {
     "count": 1,
