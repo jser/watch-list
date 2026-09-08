@@ -139,12 +139,6 @@
     ]
   },
   {
-    "url": "https://blog.vuejs.org",
-    "feeds": [
-      "https://blog.vuejs.org/feed.rss"
-    ]
-  },
-  {
     "url": "https://blogs.windows.com",
     "feeds": [
       "https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/feed/"
