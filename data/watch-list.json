@@ -133,25 +133,6 @@
   },
   {
     "count": 15,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "news",
-      "JSON",
-      "Markdown",
-      "article",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
-    }
-  },
-  {
-    "count": 15,
     "url": "https://deno.com",
     "tags": [
       "deno",
@@ -203,6 +184,25 @@
   },
   {
     "count": 14,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "news",
+      "JSON",
+      "Markdown",
+      "article",
+      "ReleaseNote",
+      "TypeScript",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
+  },
+  {
+    "count": 14,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -216,20 +216,6 @@
       "title": "Bun 1.4 | Bun Blog",
       "url": "https://bun.com/blog/bun-v1.4"
     }
-  },
-  {
-    "count": 13,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.62.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.62.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 13,
@@ -273,6 +259,20 @@
       "title": "React Compiler Support | The JavaScript Oxidation Compiler",
       "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
     }
+  },
+  {
+    "count": 12,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.62.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.62.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 12,
@@ -348,18 +348,6 @@
   },
   {
     "count": 9,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 9,
     "url": "https://remix.run",
     "tags": [
       "React",
@@ -372,6 +360,18 @@
     "example": {
       "title": "Remix 3 Release Candidate | Remix",
       "url": "https://remix.run/blog/remix-3-release-candidate"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
     }
   },
   {
@@ -1835,18 +1835,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://blog.vuejs.org",
-    "tags": [
-      "Vue",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Vue 3.5 | The Vue Point",
-      "url": "https://blog.vuejs.org/posts/vue-3-5"
     }
   },
   {
@@ -6990,5 +6978,20 @@
       "title": "minitype – TypeScript ライブラリとして動作するヘッドレス組版エンジン",
       "url": "https://typeset.jp/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/davideast/pyric",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "vite",
+      "MCP"
+    ],
+    "example": {
+      "title": "davideast/pyric: Firebase tooling for the agent era",
+      "url": "https://github.com/davideast/pyric"
+    },
+    "rssUrl": "https://github.com/davideast/pyric/releases.atom"
   }
 ]
