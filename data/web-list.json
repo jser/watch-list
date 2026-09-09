@@ -119,17 +119,16 @@
     "rssUrl": "https://nextjs.org/feed.xml"
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://bun.sh",
     "tags": [
-      "bum",
-      "ReleaseNote",
       "Bun",
       "V8",
       "webkit",
       "C++",
       "article",
-      "css"
+      "css",
+      "ReleaseNote"
     ],
     "example": {
       "title": "Bun v1.2.20 | Bun Blog",
@@ -254,6 +253,20 @@
     "rssUrl": "https://blog.cloudflare.com/rss"
   },
   {
+    "count": 13,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.63.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
     "count": 12,
     "url": "https://oxc.rs",
     "tags": [
@@ -271,20 +284,6 @@
       "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
     },
     "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
-  },
-  {
-    "count": 12,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.62.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.62.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 12,
@@ -473,30 +472,6 @@
       "url": "https://voidzero.dev/posts/announcing-vite-plus-beta"
     },
     "rssUrl": "https://voidzero.dev/feed.xml"
-  },
-  {
-    "count": 6,
-    "url": "https://vercel.com",
-    "tags": [
-      "React",
-      "article",
-      "vercel",
-      "document",
-      "AI",
-      "JavaScript",
-      "Hono",
-      "express",
-      "TypeScript",
-      "news",
-      "Next.js",
-      "security",
-      "library"
-    ],
-    "example": {
-      "title": "Introducing eve - Vercel",
-      "url": "https://vercel.com/blog/introducing-eve"
-    },
-    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 6,
@@ -691,21 +666,28 @@
     "rssUrl": "https://prettier.io/blog/atom.xml"
   },
   {
-    "count": 4,
-    "url": "https://www.debugbear.com",
+    "count": 5,
+    "url": "https://vercel.com",
     "tags": [
+      "vercel",
+      "document",
+      "AI",
       "article",
-      "fonts",
-      "performance",
-      "Chrome",
-      "Vue",
-      "debug"
+      "React",
+      "JavaScript",
+      "Hono",
+      "express",
+      "TypeScript",
+      "news",
+      "Next.js",
+      "security",
+      "library"
     ],
     "example": {
-      "title": "How To Throttle Specific Requests In Chrome DevTools | DebugBear",
-      "url": "https://www.debugbear.com/blog/chrome-devtools-throttle-individual-request"
+      "title": "Introducing eve - Vercel",
+      "url": "https://vercel.com/blog/introducing-eve"
     },
-    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
+    "rssUrl": "https://vercel.com/atom"
   },
   {
     "count": 4,
@@ -912,6 +894,22 @@
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     },
     "rssUrl": "https://tanstack.com/feed/github%3Atanstack%2Fdb%3A%40tanstack%2Fquery-db-collection%401.0.8"
+  },
+  {
+    "count": 3,
+    "url": "https://www.debugbear.com",
+    "tags": [
+      "Chrome",
+      "performance",
+      "article",
+      "Vue",
+      "debug"
+    ],
+    "example": {
+      "title": "How To Throttle Specific Requests In Chrome DevTools | DebugBear",
+      "url": "https://www.debugbear.com/blog/chrome-devtools-throttle-individual-request"
+    },
+    "rssUrl": "https://www.debugbear.com/blog/rss.xml"
   },
   {
     "count": 3,
@@ -1905,35 +1903,6 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file",
-    "tags": [
-      "accessibility",
-      "Firefox",
-      "Chrome",
-      "Extension"
-    ],
-    "example": {
-      "title": "ymrl/a11y-visualizer: A Browser Extension for Enhanced Web Accessibility Checking",
-      "url": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file"
-    },
-    "rssUrl": "https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/redwoodjs/redwood",
-    "tags": [
-      "nodejs",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v8.0.0 · redwoodjs/redwood",
-      "url": "https://github.com/redwoodjs/redwood/releases/tag/v8.0.0"
-    },
-    "rssUrl": "https://github.com/redwoodjs/redwood/releases.atom"
   },
   {
     "count": 1,
