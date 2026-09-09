@@ -93,8 +93,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/ymrl/a11y-visualizer?tab=readme-ov-file" title="github.com/ymrl/a11y-visualizer?tab=readme-ov-file" type="rss" xmlUrl="https://github.com/ymrl/a11y-visualizer?tab=readme-ov-file/releases.atom"/>
-<outline text="github.com/redwoodjs/redwood" title="github.com/redwoodjs/redwood" type="rss" xmlUrl="https://github.com/redwoodjs/redwood/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/jimp-dev/jimp" title="github.com/jimp-dev/jimp" type="rss" xmlUrl="https://github.com/jimp-dev/jimp/releases.atom"/>
 <outline text="github.com/govuk-vue/govuk-vue" title="github.com/govuk-vue/govuk-vue" type="rss" xmlUrl="https://github.com/govuk-vue/govuk-vue/releases.atom"/>
