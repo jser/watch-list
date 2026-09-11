@@ -36,7 +36,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -53,8 +53,8 @@
       "Tools"
     ],
     "example": {
-      "title": "Release Notes for Safari Technology Preview 250 | WebKit",
-      "url": "https://webkit.org/blog/18191/release-notes-for-safari-technology-preview-250/"
+      "title": "Fixing Top-Level Await in Safari | WebKit",
+      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -474,6 +474,24 @@
     "rssUrl": "https://voidzero.dev/feed.xml"
   },
   {
+    "count": 7,
+    "url": "https://www.firefox.com",
+    "tags": [
+      "Firefox",
+      "ReleaseNote",
+      "browser",
+      "css",
+      "JavaScript",
+      "WebAssembly",
+      "HTTP3",
+      "WebRTC"
+    ],
+    "example": {
+      "title": "Firefox 155.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/155.0/releasenotes/"
+    }
+  },
+  {
     "count": 6,
     "url": "https://github.com/evanw/esbuild",
     "tags": [
@@ -553,21 +571,6 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.50.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
-  },
-  {
-    "count": 6,
-    "url": "https://www.firefox.com",
-    "tags": [
-      "Firefox",
-      "ReleaseNote",
-      "browser",
-      "css",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Firefox 154.0, See All New Features, Updates and Fixes",
-      "url": "https://www.firefox.com/en-US/firefox/154.0/releasenotes/"
-    }
   },
   {
     "count": 5,
@@ -802,6 +805,24 @@
   },
   {
     "count": 4,
+    "url": "https://tailwindcss.com",
+    "tags": [
+      "css ",
+      "ReleaseNote",
+      "library",
+      "css",
+      "JavaScript",
+      "OpenSource",
+      "news"
+    ],
+    "example": {
+      "title": "Tailwind Labs is joining Shopify - Tailwind CSS",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
+    },
+    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
+  },
+  {
+    "count": 4,
     "url": "https://survey.devographics.com",
     "tags": [
       "JavaScript",
@@ -956,22 +977,6 @@
       "url": "https://vite.dev/blog/announcing-vite8-1"
     },
     "rssUrl": "https://vite.dev/blog.rss"
-  },
-  {
-    "count": 3,
-    "url": "https://tailwindcss.com",
-    "tags": [
-      "css ",
-      "ReleaseNote",
-      "library",
-      "css",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Vanilla JavaScript support for Tailwind Plus - Tailwind CSS",
-      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
-    },
-    "rssUrl": "https://tailwindcss.com/feeds/feed.xml"
   },
   {
     "count": 3,
