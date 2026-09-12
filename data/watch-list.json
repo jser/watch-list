@@ -286,6 +286,30 @@
     }
   },
   {
+    "count": 12,
+    "url": "https://react.dev",
+    "tags": [
+      "React",
+      "ReleaseNote",
+      "news",
+      "article",
+      "document",
+      "Native",
+      "Tools",
+      "Conference",
+      "Next.js",
+      "security",
+      "OpenSource",
+      "community",
+      "organization",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "React 19.3 – React",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3"
+    }
+  },
+  {
     "count": 11,
     "url": "https://nuxt.com",
     "tags": [
@@ -302,29 +326,6 @@
     "example": {
       "title": "Nuxt Security Patch Releases · Nuxt Blog",
       "url": "https://nuxt.com/blog/v4-5-security"
-    }
-  },
-  {
-    "count": 11,
-    "url": "https://react.dev",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "news",
-      "article",
-      "document",
-      "Native",
-      "Tools",
-      "Conference",
-      "Next.js",
-      "security",
-      "OpenSource",
-      "community",
-      "organization"
-    ],
-    "example": {
-      "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation – React",
-      "url": "https://react.dev/blog/2026/02/24/the-react-foundation"
     }
   },
   {
