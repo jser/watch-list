@@ -84,23 +84,6 @@
   },
   {
     "count": 18,
-    "url": "https://devblogs.microsoft.com",
-    "tags": [
-      "TypeScript",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "golang",
-      "go"
-    ],
-    "example": {
-      "title": "Announcing TypeScript 7.0 - TypeScript",
-      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
-    },
-    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
-  },
-  {
-    "count": 18,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -117,6 +100,23 @@
       "url": "https://nextjs.org/blog/turbopack-chunking"
     },
     "rssUrl": "https://nextjs.org/feed.xml"
+  },
+  {
+    "count": 17,
+    "url": "https://devblogs.microsoft.com",
+    "tags": [
+      "TypeScript",
+      "ReleaseNote",
+      "article",
+      "performance",
+      "golang",
+      "go"
+    ],
+    "example": {
+      "title": "Announcing TypeScript 7.0 - TypeScript",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
+    },
+    "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
     "count": 16,
@@ -344,7 +344,7 @@
     "rssUrl": "https://nuxt.com/blog/rss.xml"
   },
   {
-    "count": 10,
+    "count": 11,
     "url": "https://pnpm.io",
     "tags": [
       "pnpm",
@@ -357,8 +357,8 @@
       "document"
     ],
     "example": {
-      "title": "pnpm 12.0 | pnpm",
-      "url": "https://pnpm.io/blog/releases/12.0"
+      "title": "pnpm 12.4 | pnpm",
+      "url": "https://pnpm.io/blog/releases/12.4"
     },
     "rssUrl": "https://pnpm.io/blog/rss.xml"
   },
@@ -403,25 +403,6 @@
       "url": "https://rspack.rs/blog/announcing-2-2"
     },
     "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
-  },
-  {
-    "count": 7,
-    "url": "https://biomejs.dev",
-    "tags": [
-      "JavaScript",
-      "Rust",
-      "Tools",
-      "ReleaseNote",
-      "biome",
-      "article",
-      "ESLint",
-      "css"
-    ],
-    "example": {
-      "title": "Biome v2.5—500 Lint Rules, Plugin Code Fix, and Cross-File Linting | Biome",
-      "url": "https://biomejs.dev/blog/biome-v2-5/"
-    },
-    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 7,
@@ -572,6 +553,24 @@
       "url": "https://github.com/zloirock/core-js/releases/tag/v3.50.0"
     },
     "rssUrl": "https://github.com/zloirock/core-js/releases.atom"
+  },
+  {
+    "count": 6,
+    "url": "https://biomejs.dev",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "biome",
+      "article",
+      "ESLint",
+      "css"
+    ],
+    "example": {
+      "title": "Biome v2.5—500 Lint Rules, Plugin Code Fix, and Cross-File Linting | Biome",
+      "url": "https://biomejs.dev/blog/biome-v2-5/"
+    },
+    "rssUrl": "https://biomejs.dev/feed.xml"
   },
   {
     "count": 5,
