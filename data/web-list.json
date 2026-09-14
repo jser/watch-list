@@ -1100,6 +1100,22 @@
   },
   {
     "count": 3,
+    "url": "https://zod.dev",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Zod 4.6",
+      "url": "https://zod.dev/blog/zod-4-6"
+    },
+    "rssUrl": "https://zod.dev/blog/rss.xml"
+  },
+  {
+    "count": 3,
     "url": "https://devongovett.me",
     "tags": [
       "JavaScript",
@@ -1631,22 +1647,6 @@
       "url": "https://v8.dev/blog/json-stringify"
     },
     "rssUrl": "https://v8.dev/blog.atom"
-  },
-  {
-    "count": 2,
-    "url": "https://zod.dev",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "library",
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Zod 4.5",
-      "url": "https://zod.dev/blog/zod-4-5"
-    },
-    "rssUrl": "https://zod.dev/blog/rss.xml"
   },
   {
     "count": 2,
