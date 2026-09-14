@@ -1058,6 +1058,21 @@
   },
   {
     "count": 3,
+    "url": "https://zod.dev",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "library",
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Zod 4.6",
+      "url": "https://zod.dev/blog/zod-4-6"
+    }
+  },
+  {
+    "count": 3,
     "url": "https://devongovett.me",
     "tags": [
       "JavaScript",
@@ -1572,21 +1587,6 @@
     "example": {
       "title": "How we made JSON.stringify more than twice as fast · V8",
       "url": "https://v8.dev/blog/json-stringify"
-    }
-  },
-  {
-    "count": 2,
-    "url": "https://zod.dev",
-    "tags": [
-      "JavaScript",
-      "TypeScript",
-      "library",
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Zod 4.5",
-      "url": "https://zod.dev/blog/zod-4-5"
     }
   },
   {
