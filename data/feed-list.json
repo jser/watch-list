@@ -1677,6 +1677,12 @@
     ]
   },
   {
+    "url": "https://github.com/shadcn-ui/lint",
+    "feeds": [
+      "https://github.com/shadcn-ui/lint/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2460,6 +2466,12 @@
     "url": "https://zenn.dev/cybozu_frontend/",
     "feeds": [
       "https://zenn.dev/p/cybozu_frontend/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/h_yoshikawa0724/",
+    "feeds": [
+      "https://zenn.dev/h_yoshikawa0724/feed"
     ]
   },
   {

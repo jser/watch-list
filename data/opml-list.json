@@ -1118,6 +1118,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/h_yoshikawa0724/",
+    "feeds": [
+      "https://zenn.dev/h_yoshikawa0724/feed"
+    ]
+  },
+  {
     "url": "https://zod.dev",
     "feeds": [
       "https://zod.dev/blog/rss.xml"

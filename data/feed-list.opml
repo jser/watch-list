@@ -281,6 +281,7 @@
 <outline text="github.com/video-dev/hls.js" title="github.com/video-dev/hls.js" type="rss" xmlUrl="https://github.com/video-dev/hls.js/releases.atom"/>
 <outline text="github.com/jdx/aube" title="github.com/jdx/aube" type="rss" xmlUrl="https://github.com/jdx/aube/releases.atom"/>
 <outline text="github.com/davideast/pyric" title="github.com/davideast/pyric" type="rss" xmlUrl="https://github.com/davideast/pyric/releases.atom"/>
+<outline text="github.com/shadcn-ui/lint" title="github.com/shadcn-ui/lint" type="rss" xmlUrl="https://github.com/shadcn-ui/lint/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -405,6 +406,7 @@
 <outline text="zenn.dev/yamanoku/" title="zenn.dev/yamanoku/" type="rss" xmlUrl="https://zenn.dev/yamanoku/feed"/>
 <outline text="zenn.dev/yasse/" title="zenn.dev/yasse/" type="rss" xmlUrl="https://zenn.dev/yasse/feed"/>
 <outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
+<outline text="zenn.dev/h_yoshikawa0724/" title="zenn.dev/h_yoshikawa0724/" type="rss" xmlUrl="https://zenn.dev/h_yoshikawa0724/feed"/>
 <outline text="zod.dev" title="zod.dev" type="rss" xmlUrl="https://zod.dev/blog/rss.xml"/>
 </body>
 </opml>

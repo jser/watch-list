@@ -183,25 +183,6 @@
   },
   {
     "count": 14,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "news",
-      "JSON",
-      "Markdown",
-      "article",
-      "ReleaseNote",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
-    }
-  },
-  {
-    "count": 14,
     "url": "https://bun.com",
     "tags": [
       "Bun",
@@ -239,6 +220,24 @@
     "example": {
       "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC | The Cloudflare Blog",
       "url": "https://blog.cloudflare.com/grpc-workers/"
+    }
+  },
+  {
+    "count": 13,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "JSON",
+      "Markdown",
+      "article",
+      "ReleaseNote",
+      "TypeScript",
+      "css",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
     }
   },
   {
@@ -881,6 +880,19 @@
     }
   },
   {
+    "count": 4,
+    "url": "https://webpack.js.org",
+    "tags": [
+      "webpack",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Webpack 5.111 | webpack",
+      "url": "https://webpack.js.org/blog/2026-09-14-webpack-5-111/"
+    }
+  },
+  {
     "count": 3,
     "url": "https://www.debugbear.com",
     "tags": [
@@ -1085,19 +1097,6 @@
     "example": {
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
-    }
-  },
-  {
-    "count": 3,
-    "url": "https://webpack.js.org",
-    "tags": [
-      "webpack",
-      "article",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Webpack 5.109 | webpack",
-      "url": "https://webpack.js.org/blog/2026-07-24-webpack-5-109/"
     }
   },
   {
@@ -6967,5 +6966,33 @@
       "url": "https://github.com/davideast/pyric"
     },
     "rssUrl": "https://github.com/davideast/pyric/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://zenn.dev/h_yoshikawa0724/",
+    "tags": [
+      "JavaScript",
+      "web",
+      "Conference",
+      "slide"
+    ],
+    "example": {
+      "title": "フロントエンドカンファレンス福岡 2026 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-09-13-frontend-conf-fukuoka-2026"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/shadcn-ui/lint",
+    "tags": [
+      "css",
+      "ESLint",
+      "Tools"
+    ],
+    "example": {
+      "title": "shadcn-ui/lint: An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+      "url": "https://github.com/shadcn-ui/lint"
+    },
+    "rssUrl": "https://github.com/shadcn-ui/lint/releases.atom"
   }
 ]
