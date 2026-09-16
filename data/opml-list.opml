@@ -86,7 +86,6 @@
 <outline text="onestack.dev" title="onestack.dev" type="rss" xmlUrl="https://onestack.dev/blog/rss.xml"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>
-<outline text="philipwalton.com" title="philipwalton.com" type="rss" xmlUrl="https://feeds.feedburner.com/philipwalton"/>
 <outline text="piccalil.li" title="piccalil.li" type="rss" xmlUrl="https://piccalil.li/feed.xml"/>
 <outline text="pikku.dev" title="pikku.dev" type="rss" xmlUrl="https://pikku.dev/blog/rss.xml"/>
 <outline text="playfulprogramming.com" title="playfulprogramming.com" type="rss" xmlUrl="https://playfulprogramming.com/atom.xml"/>

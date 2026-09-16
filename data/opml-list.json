@@ -519,12 +519,6 @@
     ]
   },
   {
-    "url": "https://philipwalton.com",
-    "feeds": [
-      "https://feeds.feedburner.com/philipwalton"
-    ]
-  },
-  {
     "url": "https://piccalil.li",
     "feeds": [
       "https://piccalil.li/feed.xml",

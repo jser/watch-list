@@ -375,12 +375,6 @@
     ]
   },
   {
-    "url": "https://github.com/storybookjs/storybook",
-    "feeds": [
-      "https://github.com/storybookjs/storybook/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
@@ -420,6 +414,12 @@
     "url": "https://github.com/chakra-ui/panda",
     "feeds": [
       "https://github.com/chakra-ui/panda/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/storybookjs/storybook",
+    "feeds": [
+      "https://github.com/storybookjs/storybook/releases.atom"
     ]
   },
   {
@@ -546,24 +546,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/expressjs/express",
-    "feeds": [
-      "https://github.com/expressjs/express/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/jimp-dev/jimp",
-    "feeds": [
-      "https://github.com/jimp-dev/jimp/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/govuk-vue/govuk-vue",
-    "feeds": [
-      "https://github.com/govuk-vue/govuk-vue/releases.atom"
     ]
   },
   {
@@ -1860,12 +1842,6 @@
     "feeds": [
       "https://oxc.rs/feeds/blog-en.rss",
       "https://oxc.rs/feeds/blog-en.atom"
-    ]
-  },
-  {
-    "url": "https://philipwalton.com",
-    "feeds": [
-      "https://feeds.feedburner.com/philipwalton"
     ]
   },
   {
