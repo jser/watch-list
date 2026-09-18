@@ -549,12 +549,6 @@
     ]
   },
   {
-    "url": "https://github.com/date-fns/date-fns",
-    "feeds": [
-      "https://github.com/date-fns/date-fns/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/fastify/fastify",
     "feeds": [
       "https://github.com/fastify/fastify/releases.atom"
