@@ -93,7 +93,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/date-fns/date-fns" title="github.com/date-fns/date-fns" type="rss" xmlUrl="https://github.com/date-fns/date-fns/releases.atom"/>
 <outline text="github.com/fastify/fastify" title="github.com/fastify/fastify" type="rss" xmlUrl="https://github.com/fastify/fastify/releases.atom"/>
 <outline text="github.com/bloomberg/ts-blank-space" title="github.com/bloomberg/ts-blank-space" type="rss" xmlUrl="https://github.com/bloomberg/ts-blank-space/releases.atom"/>
 <outline text="github.com/line/ts-remove-unused" title="github.com/line/ts-remove-unused" type="rss" xmlUrl="https://github.com/line/ts-remove-unused/releases.atom"/>

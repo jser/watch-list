@@ -1893,20 +1893,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/date-fns/date-fns",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v4.0.0 · date-fns/date-fns",
-      "url": "https://github.com/date-fns/date-fns/releases/tag/v4.0.0"
-    },
-    "rssUrl": "https://github.com/date-fns/date-fns/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/fastify/fastify",
     "tags": [
       "nodejs",
