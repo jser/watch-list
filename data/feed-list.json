@@ -549,12 +549,6 @@
     ]
   },
   {
-    "url": "https://github.com/fastify/fastify",
-    "feeds": [
-      "https://github.com/fastify/fastify/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/bloomberg/ts-blank-space",
     "feeds": [
       "https://github.com/bloomberg/ts-blank-space/releases.atom"
