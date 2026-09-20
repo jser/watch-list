@@ -1893,21 +1893,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/fastify/fastify",
-    "tags": [
-      "nodejs",
-      "server",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · fastify/fastify",
-      "url": "https://github.com/fastify/fastify/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/fastify/fastify/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/bloomberg/ts-blank-space",
     "tags": [
       "nodejs",
