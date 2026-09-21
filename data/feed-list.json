@@ -549,12 +549,6 @@
     ]
   },
   {
-    "url": "https://github.com/bloomberg/ts-blank-space",
-    "feeds": [
-      "https://github.com/bloomberg/ts-blank-space/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/line/ts-remove-unused",
     "feeds": [
       "https://github.com/line/ts-remove-unused/releases.atom"
@@ -1650,6 +1644,12 @@
     "url": "https://github.com/shadcn-ui/lint",
     "feeds": [
       "https://github.com/shadcn-ui/lint/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/fallow-rs/fallow",
+    "feeds": [
+      "https://github.com/fallow-rs/fallow/releases.atom"
     ]
   },
   {

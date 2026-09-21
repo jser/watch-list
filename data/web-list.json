@@ -1893,20 +1893,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/bloomberg/ts-blank-space",
-    "tags": [
-      "nodejs",
-      "TypeScript",
-      "library"
-    ],
-    "example": {
-      "title": "bloomberg/ts-blank-space: A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.",
-      "url": "https://github.com/bloomberg/ts-blank-space"
-    },
-    "rssUrl": "https://github.com/bloomberg/ts-blank-space/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/line/ts-remove-unused",
     "tags": [
       "TypeScript",
@@ -7085,5 +7071,20 @@
       "url": "https://github.com/shadcn-ui/lint"
     },
     "rssUrl": "https://github.com/shadcn-ui/lint/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/fallow-rs/fallow",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "Tools",
+      "lint"
+    ],
+    "example": {
+      "title": "fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift. Optional paid runtime layer (Fallow Runtime): hot-path review and cold-path deletion evidence from real production traffic.",
+      "url": "https://github.com/fallow-rs/fallow"
+    },
+    "rssUrl": "https://github.com/fallow-rs/fallow/releases.atom"
   }
 ]
