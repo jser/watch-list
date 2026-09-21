@@ -93,7 +93,6 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
-<outline text="github.com/bloomberg/ts-blank-space" title="github.com/bloomberg/ts-blank-space" type="rss" xmlUrl="https://github.com/bloomberg/ts-blank-space/releases.atom"/>
 <outline text="github.com/line/ts-remove-unused" title="github.com/line/ts-remove-unused" type="rss" xmlUrl="https://github.com/line/ts-remove-unused/releases.atom"/>
 <outline text="github.com/paulmillr/chokidar" title="github.com/paulmillr/chokidar" type="rss" xmlUrl="https://github.com/paulmillr/chokidar/releases.atom"/>
 <outline text="github.com/unjs/jiti" title="github.com/unjs/jiti" type="rss" xmlUrl="https://github.com/unjs/jiti/releases.atom"/>
@@ -277,6 +276,7 @@
 <outline text="github.com/jdx/aube" title="github.com/jdx/aube" type="rss" xmlUrl="https://github.com/jdx/aube/releases.atom"/>
 <outline text="github.com/davideast/pyric" title="github.com/davideast/pyric" type="rss" xmlUrl="https://github.com/davideast/pyric/releases.atom"/>
 <outline text="github.com/shadcn-ui/lint" title="github.com/shadcn-ui/lint" type="rss" xmlUrl="https://github.com/shadcn-ui/lint/releases.atom"/>
+<outline text="github.com/fallow-rs/fallow" title="github.com/fallow-rs/fallow" type="rss" xmlUrl="https://github.com/fallow-rs/fallow/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
