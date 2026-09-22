@@ -1653,6 +1653,18 @@
     ]
   },
   {
+    "url": "https://github.com/pmndrs/jotai",
+    "feeds": [
+      "https://github.com/pmndrs/jotai/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/lovablelabs/oj",
+    "feeds": [
+      "https://github.com/lovablelabs/oj/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -2132,6 +2144,13 @@
     "url": "https://www.aikido.dev",
     "feeds": [
       "https://www.aikido.dev/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://www.apollographql.com",
+    "feeds": [
+      "https://www.apollographql.com/blog/rss.xml",
+      "https://www.apollographql.com/blog/rss-security.xml"
     ]
   },
   {
