@@ -821,6 +821,13 @@
     ]
   },
   {
+    "url": "https://www.apollographql.com",
+    "feeds": [
+      "https://www.apollographql.com/blog/rss.xml",
+      "https://www.apollographql.com/blog/rss-security.xml"
+    ]
+  },
+  {
     "url": "https://www.charpeni.com",
     "feeds": [
       "https://www.charpeni.com/blog/rss.xml"

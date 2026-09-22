@@ -277,6 +277,8 @@
 <outline text="github.com/davideast/pyric" title="github.com/davideast/pyric" type="rss" xmlUrl="https://github.com/davideast/pyric/releases.atom"/>
 <outline text="github.com/shadcn-ui/lint" title="github.com/shadcn-ui/lint" type="rss" xmlUrl="https://github.com/shadcn-ui/lint/releases.atom"/>
 <outline text="github.com/fallow-rs/fallow" title="github.com/fallow-rs/fallow" type="rss" xmlUrl="https://github.com/fallow-rs/fallow/releases.atom"/>
+<outline text="github.com/pmndrs/jotai" title="github.com/pmndrs/jotai" type="rss" xmlUrl="https://github.com/pmndrs/jotai/releases.atom"/>
+<outline text="github.com/lovablelabs/oj" title="github.com/lovablelabs/oj" type="rss" xmlUrl="https://github.com/lovablelabs/oj/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -352,6 +354,7 @@
 <outline text="webpack.js.org" title="webpack.js.org" type="rss" xmlUrl="https://webpack.js.org/feed.xml"/>
 <outline text="willybrauner.com" title="willybrauner.com" type="rss" xmlUrl="https://willybrauner.com/rss.xml"/>
 <outline text="www.aikido.dev" title="www.aikido.dev" type="rss" xmlUrl="https://www.aikido.dev/blog/rss.xml"/>
+<outline text="www.apollographql.com" title="www.apollographql.com" type="rss" xmlUrl="https://www.apollographql.com/blog/rss.xml"/>
 <outline text="www.better-auth.com" title="www.better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
 <outline text="www.charpeni.com" title="www.charpeni.com" type="rss" xmlUrl="https://www.charpeni.com/blog/rss.xml"/>
 <outline text="www.debugbear.com" title="www.debugbear.com" type="rss" xmlUrl="https://www.debugbear.com/blog/rss.xml"/>

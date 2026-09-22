@@ -6907,5 +6907,49 @@
       "url": "https://github.com/fallow-rs/fallow"
     },
     "rssUrl": "https://github.com/fallow-rs/fallow/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/pmndrs/jotai",
+    "tags": [
+      "React",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · pmndrs/jotai",
+      "url": "https://github.com/pmndrs/jotai/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/pmndrs/jotai/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.apollographql.com",
+    "tags": [
+      "JavaScript",
+      "GraphQL",
+      "TypeScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "What's New in Apollo Client 4.3 - Apollo GraphQL Blog",
+      "url": "https://www.apollographql.com/blog/whats-new-in-apollo-client-4-3"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/lovablelabs/oj",
+    "tags": [
+      "Rust",
+      "React",
+      "Tools",
+      "vite"
+    ],
+    "example": {
+      "title": "lovablelabs/oj: An experimental Rust-native build tool for React apps.",
+      "url": "https://github.com/lovablelabs/oj"
+    },
+    "rssUrl": "https://github.com/lovablelabs/oj/releases.atom"
   }
 ]
