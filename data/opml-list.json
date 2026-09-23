@@ -391,12 +391,6 @@
     ]
   },
   {
-    "url": "https://kettanaito.com",
-    "feeds": [
-      "https://kettanaito.com/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://kurtextrem.de",
     "feeds": [
       "https://kurtextrem.de/rss.xml"

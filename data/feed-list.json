@@ -351,27 +351,21 @@
     ]
   },
   {
-    "url": "https://github.com/evanw/esbuild",
-    "feeds": [
-      "https://github.com/evanw/esbuild/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/zloirock/core-js",
     "feeds": [
       "https://github.com/zloirock/core-js/releases.atom"
     ]
   },
   {
-    "url": "https://github.com/honojs/hono",
-    "feeds": [
-      "https://github.com/honojs/hono/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/evanw/esbuild",
+    "feeds": [
+      "https://github.com/evanw/esbuild/releases.atom"
     ]
   },
   {
@@ -384,6 +378,12 @@
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/honojs/hono",
+    "feeds": [
+      "https://github.com/honojs/hono/releases.atom"
     ]
   },
   {
@@ -546,18 +546,6 @@
     "url": "https://github.com/sindresorhus/got",
     "feeds": [
       "https://github.com/sindresorhus/got/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/line/ts-remove-unused",
-    "feeds": [
-      "https://github.com/line/ts-remove-unused/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/paulmillr/chokidar",
-    "feeds": [
-      "https://github.com/paulmillr/chokidar/releases.atom"
     ]
   },
   {
@@ -1714,12 +1702,6 @@
     "feeds": [
       "https://kaminashi-developer.hatenablog.jp/feed",
       "https://kaminashi-developer.hatenablog.jp/rss"
-    ]
-  },
-  {
-    "url": "https://kettanaito.com",
-    "feeds": [
-      "https://kettanaito.com/blog/rss.xml"
     ]
   },
   {
