@@ -309,6 +309,24 @@
     }
   },
   {
+    "count": 12,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote",
+      "npm",
+      "Rust",
+      "server",
+      "document"
+    ],
+    "example": {
+      "title": "pnpm 12.6 | pnpm",
+      "url": "https://pnpm.io/blog/releases/12.6"
+    }
+  },
+  {
     "count": 11,
     "url": "https://nuxt.com",
     "tags": [
@@ -325,24 +343,6 @@
     "example": {
       "title": "Nuxt Security Patch Releases · Nuxt Blog",
       "url": "https://nuxt.com/blog/v4-5-security"
-    }
-  },
-  {
-    "count": 11,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote",
-      "npm",
-      "Rust",
-      "server",
-      "document"
-    ],
-    "example": {
-      "title": "pnpm 12.4 | pnpm",
-      "url": "https://pnpm.io/blog/releases/12.4"
     }
   },
   {
@@ -1804,6 +1804,22 @@
       "title": "v1.20.0 | React Aria",
       "url": "https://react-aria.adobe.com/releases/v1-20-0"
     }
+  },
+  {
+    "count": 2,
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "tags": [
+      "vite",
+      "CLI",
+      "Tools",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release vite-plus v1.0.0-rc.0: Vitest 5 migration and npm provenance checks · voidzero-dev/vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.0.0-rc.0"
+    },
+    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
   },
   {
     "count": 2,
@@ -6281,21 +6297,6 @@
       "url": "https://github.com/open-circle/formisch"
     },
     "rssUrl": "https://github.com/open-circle/formisch/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/voidzero-dev/vite-plus",
-    "tags": [
-      "vite",
-      "CLI",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release vite-plus v0.1.21 — Create, Migrate & Local CLI Power-Up · voidzero-dev/vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.1.21"
-    },
-    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
   },
   {
     "count": 1,

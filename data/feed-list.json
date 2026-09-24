@@ -549,6 +549,12 @@
     ]
   },
   {
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "feeds": [
+      "https://github.com/voidzero-dev/vite-plus/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/unjs/jiti",
     "feeds": [
       "https://github.com/unjs/jiti/releases.atom"
@@ -1500,12 +1506,6 @@
     "url": "https://github.com/open-circle/formisch",
     "feeds": [
       "https://github.com/open-circle/formisch/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/voidzero-dev/vite-plus",
-    "feeds": [
-      "https://github.com/voidzero-dev/vite-plus/releases.atom"
     ]
   },
   {
