@@ -863,22 +863,6 @@
   },
   {
     "count": 3,
-    "url": "https://github.com/solidjs/solid",
-    "tags": [
-      "Solid",
-      "ReleaseNote",
-      "JavaScript",
-      "library",
-      "vite"
-    ],
-    "example": {
-      "title": "Release v2.0.0 RC - The Big <Reveal> · solidjs/solid",
-      "url": "https://github.com/solidjs/solid/releases/tag/v2.0.0-rc.0"
-    },
-    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
-  },
-  {
-    "count": 3,
     "url": "https://github.com/nrwl/nx",
     "tags": [
       "nodejs",
@@ -1780,6 +1764,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/solidjs/solid",
+    "tags": [
+      "Solid",
+      "JavaScript",
+      "ReleaseNote",
+      "library",
+      "vite"
+    ],
+    "example": {
+      "title": "Release v2.0.0 RC - The Big <Reveal> · solidjs/solid",
+      "url": "https://github.com/solidjs/solid/releases/tag/v2.0.0-rc.0"
+    },
+    "rssUrl": "https://github.com/solidjs/solid/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://www.stepsecurity.io",
     "tags": [
       "npm",
@@ -1838,22 +1838,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/unjs/jiti",
-    "tags": [
-      "nodejs",
-      "JavaScript",
-      "library",
-      "TypeScript",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.0.0 · unjs/jiti",
-      "url": "https://github.com/unjs/jiti/releases/tag/v2.0.0"
-    },
-    "rssUrl": "https://github.com/unjs/jiti/releases.atom"
   },
   {
     "count": 1,

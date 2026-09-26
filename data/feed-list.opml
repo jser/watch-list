@@ -68,7 +68,6 @@
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
 <outline text="github.com/apollographql/apollo-client" title="github.com/apollographql/apollo-client" type="rss" xmlUrl="https://github.com/apollographql/apollo-client/releases.atom"/>
-<outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/nrwl/nx" title="github.com/nrwl/nx" type="rss" xmlUrl="https://github.com/nrwl/nx/releases.atom"/>
 <outline text="github.com/chakra-ui/panda" title="github.com/chakra-ui/panda" type="rss" xmlUrl="https://github.com/chakra-ui/panda/releases.atom"/>
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
@@ -93,8 +92,8 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
+<outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
-<outline text="github.com/unjs/jiti" title="github.com/unjs/jiti" type="rss" xmlUrl="https://github.com/unjs/jiti/releases.atom"/>
 <outline text="github.com/mieszkosabo/tartak" title="github.com/mieszkosabo/tartak" type="rss" xmlUrl="https://github.com/mieszkosabo/tartak/releases.atom"/>
 <outline text="github.com/helmetjs/helmet" title="github.com/helmetjs/helmet" type="rss" xmlUrl="https://github.com/helmetjs/helmet/releases.atom"/>
 <outline text="github.com/dimdenGD/ultimate-express" title="github.com/dimdenGD/ultimate-express" type="rss" xmlUrl="https://github.com/dimdenGD/ultimate-express/releases.atom"/>
