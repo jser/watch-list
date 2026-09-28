@@ -35,7 +35,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -49,11 +49,12 @@
       "WebAuthentication",
       "JavaScript",
       "MCP",
-      "Tools"
+      "Tools",
+      "WebAssembly"
     ],
     "example": {
-      "title": "Fixing Top-Level Await in Safari | WebKit",
-      "url": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari/"
+      "title": "WebKit Features for Safari 27.0 | WebKit",
+      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/"
     }
   },
   {
