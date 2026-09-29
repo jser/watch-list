@@ -549,18 +549,6 @@
     ]
   },
   {
-    "url": "https://github.com/voidzero-dev/vite-plus",
-    "feeds": [
-      "https://github.com/voidzero-dev/vite-plus/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mieszkosabo/tartak",
-    "feeds": [
-      "https://github.com/mieszkosabo/tartak/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/helmetjs/helmet",
     "feeds": [
       "https://github.com/helmetjs/helmet/releases.atom"
@@ -1503,6 +1491,12 @@
     ]
   },
   {
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "feeds": [
+      "https://github.com/voidzero-dev/vite-plus/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/tmikov/hermes-node",
     "feeds": [
       "https://github.com/tmikov/hermes-node/releases.atom"
@@ -1644,6 +1638,12 @@
     "url": "https://github.com/lovablelabs/oj",
     "feeds": [
       "https://github.com/lovablelabs/oj/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/unjs/upm",
+    "feeds": [
+      "https://github.com/unjs/upm/releases.atom"
     ]
   },
   {

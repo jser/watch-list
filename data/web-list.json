@@ -138,40 +138,6 @@
     "rssUrl": "https://bun.sh/rss.xml"
   },
   {
-    "count": 15,
-    "url": "https://github.blog",
-    "tags": [
-      "nodejs",
-      "github",
-      "Actions",
-      "news",
-      "pnpm",
-      "Github",
-      "accessibility",
-      "article",
-      "npm",
-      "security",
-      "AI",
-      "python",
-      "golang",
-      ".net",
-      "library",
-      "GitHub",
-      "React",
-      "performance",
-      "CLI",
-      "Tools",
-      "deno",
-      "package",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "npm publish-time malware scanning and dual-use metadata - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/"
-    },
-    "rssUrl": "https://github.blog/feed/"
-  },
-  {
     "count": 14,
     "url": "https://deno.com",
     "tags": [
@@ -189,6 +155,40 @@
       "url": "https://deno.com/blog/v2.9"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 14,
+    "url": "https://github.blog",
+    "tags": [
+      "github",
+      "pnpm",
+      "news",
+      "Github",
+      "accessibility",
+      "article",
+      "npm",
+      "security",
+      "AI",
+      "nodejs",
+      "python",
+      "golang",
+      ".net",
+      "library",
+      "GitHub",
+      "React",
+      "performance",
+      "CLI",
+      "Tools",
+      "deno",
+      "package",
+      "Actions",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "npm publish-time malware scanning and dual-use metadata - GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/"
+    },
+    "rssUrl": "https://github.blog/feed/"
   },
   {
     "count": 14,
@@ -393,6 +393,25 @@
   },
   {
     "count": 8,
+    "url": "https://voidzero.dev",
+    "tags": [
+      "vite",
+      "Rust",
+      "article",
+      "ReleaseNote",
+      "rollup",
+      "bundler",
+      "CLI",
+      "Tools"
+    ],
+    "example": {
+      "title": "Announcing Vite+ 1.0 | VoidZero",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-1-0"
+    },
+    "rssUrl": "https://voidzero.dev/feed.xml"
+  },
+  {
+    "count": 8,
     "url": "https://rspack.rs",
     "tags": [
       "rspack",
@@ -435,25 +454,6 @@
       "url": "https://stylexjs.com/blog/v0.18"
     },
     "rssUrl": "https://stylexjs.com/blog/rss.xml"
-  },
-  {
-    "count": 7,
-    "url": "https://voidzero.dev",
-    "tags": [
-      "vite",
-      "Rust",
-      "article",
-      "ReleaseNote",
-      "rollup",
-      "bundler",
-      "CLI",
-      "Tools"
-    ],
-    "example": {
-      "title": "Announcing Vite+ Beta | VoidZero",
-      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta"
-    },
-    "rssUrl": "https://voidzero.dev/feed.xml"
   },
   {
     "count": 7,
@@ -1875,22 +1875,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/voidzero-dev/vite-plus",
-    "tags": [
-      "vite",
-      "CLI",
-      "Tools",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release vite-plus v1.0.0-rc.0: Vitest 5 migration and npm provenance checks · voidzero-dev/vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.0.0-rc.0"
-    },
-    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://better-auth.com",
     "tags": [
       "TypeScript",
@@ -1907,34 +1891,6 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mieszkosabo/tartak",
-    "tags": [
-      "TypeScript",
-      "language",
-      "Tools"
-    ],
-    "example": {
-      "title": "mieszkosabo/tartak: Tartak is a functional programming language that compiles to TypeScript types.",
-      "url": "https://github.com/mieszkosabo/tartak"
-    },
-    "rssUrl": "https://github.com/mieszkosabo/tartak/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://opennext.js.org",
-    "tags": [
-      "Next.js",
-      "cloudflare",
-      "aws",
-      "library"
-    ],
-    "example": {
-      "title": "OpenNext - OpenNext",
-      "url": "https://opennext.js.org/"
-    }
   },
   {
     "count": 1,
@@ -6455,6 +6411,21 @@
   },
   {
     "count": 1,
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "tags": [
+      "vite",
+      "CLI",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release vite-plus v0.1.21 — Create, Migrate & Local CLI Power-Up · voidzero-dev/vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.1.21"
+    },
+    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
+  },
+  {
+    "count": 1,
     "url": "https://jadjoubran.io",
     "tags": [
       "WebPlatformAPI",
@@ -7079,5 +7050,19 @@
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/unjs/upm",
+    "tags": [
+      "TypeScript",
+      "npm",
+      "Tools"
+    ],
+    "example": {
+      "title": "unjs/upm: 📦 A fast, tiny package manager for the npm registry, written in TypeScript.",
+      "url": "https://github.com/unjs/upm"
+    },
+    "rssUrl": "https://github.com/unjs/upm/releases.atom"
   }
 ]
