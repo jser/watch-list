@@ -549,12 +549,6 @@
     ]
   },
   {
-    "url": "https://github.com/helmetjs/helmet",
-    "feeds": [
-      "https://github.com/helmetjs/helmet/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/dimdenGD/ultimate-express",
     "feeds": [
       "https://github.com/dimdenGD/ultimate-express/releases.atom"
@@ -2253,12 +2247,6 @@
     "url": "https://www.taekim.dev",
     "feeds": [
       "https://www.taekim.dev/feed.xml"
-    ]
-  },
-  {
-    "url": "https://www.trevorlasn.com",
-    "feeds": [
-      "https://www.trevorlasn.com/rss.xml"
     ]
   },
   {

@@ -232,24 +232,6 @@
   },
   {
     "count": 12,
-    "url": "https://oxc.rs",
-    "tags": [
-      "TypeScript",
-      "Tools",
-      "Rust",
-      "ReleaseNote",
-      "ESLint",
-      "JavaScript",
-      "article",
-      "React"
-    ],
-    "example": {
-      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -325,6 +307,24 @@
     "example": {
       "title": "pnpm 12.6 | pnpm",
       "url": "https://pnpm.io/blog/releases/12.6"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://oxc.rs",
+    "tags": [
+      "ESLint",
+      "Tools",
+      "ReleaseNote",
+      "JavaScript",
+      "TypeScript",
+      "article",
+      "Rust",
+      "React"
+    ],
+    "example": {
+      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
     }
   },
   {
@@ -1822,45 +1822,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/helmetjs/helmet",
-    "tags": [
-      "nodejs",
-      "security",
-      "library"
-    ],
-    "example": {
-      "title": "helmet/CHANGELOG.md at main · helmetjs/helmet",
-      "url": "https://github.com/helmetjs/helmet/blob/main/CHANGELOG.md#800"
-    },
-    "rssUrl": "https://github.com/helmetjs/helmet/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://www.trevorlasn.com",
-    "tags": [
-      "nodejs",
-      "express",
-      "article"
-    ],
-    "example": {
-      "title": "What's New in Express.js v5.0",
-      "url": "https://www.trevorlasn.com/blog/whats-new-in-express-5"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://www.platformatichq.com",
-    "tags": [
-      "nodejs",
-      "document"
-    ],
-    "example": {
-      "title": "The Nine Node Pillars",
-      "url": "https://www.platformatichq.com/node-principles"
     }
   },
   {
