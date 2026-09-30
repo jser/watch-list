@@ -93,7 +93,6 @@
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
-<outline text="github.com/helmetjs/helmet" title="github.com/helmetjs/helmet" type="rss" xmlUrl="https://github.com/helmetjs/helmet/releases.atom"/>
 <outline text="github.com/dimdenGD/ultimate-express" title="github.com/dimdenGD/ultimate-express" type="rss" xmlUrl="https://github.com/dimdenGD/ultimate-express/releases.atom"/>
 <outline text="github.com/facebook/metro" title="github.com/facebook/metro" type="rss" xmlUrl="https://github.com/facebook/metro/releases.atom"/>
 <outline text="github.com/trynova/nova" title="github.com/trynova/nova" type="rss" xmlUrl="https://github.com/trynova/nova/releases.atom"/>
@@ -371,7 +370,6 @@
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
 <outline text="www.stepsecurity.io" title="www.stepsecurity.io" type="rss" xmlUrl="https://www.stepsecurity.io/blog/rss.xml"/>
 <outline text="www.taekim.dev" title="www.taekim.dev" type="rss" xmlUrl="https://www.taekim.dev/feed.xml"/>
-<outline text="www.trevorlasn.com" title="www.trevorlasn.com" type="rss" xmlUrl="https://www.trevorlasn.com/rss.xml"/>
 <outline text="www.vlt.io" title="www.vlt.io" type="rss" xmlUrl="https://www.vlt.io/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
