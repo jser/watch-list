@@ -35,7 +35,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 22,
+    "count": 21,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -1068,22 +1068,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/chakra-ui/ark",
-    "tags": [
-      "React",
-      "ReleaseNote",
-      "library",
-      "Vue",
-      "Solid"
-    ],
-    "example": {
-      "title": "Release @ark-ui/react@5.0.0 · chakra-ui/ark",
-      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%405.0.0"
-    },
-    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://lea.verou.me",
     "tags": [
       "WebComponents",
@@ -1822,31 +1806,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/yuneco/",
-    "tags": [
-      "React",
-      "test",
-      "article"
-    ],
-    "example": {
-      "title": "Jotaiのatomを自由にテストしたいときに見る記事",
-      "url": "https://zenn.dev/yuneco/articles/jotai-atom-testing"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://deezer.io",
-    "tags": [
-      "nodejs",
-      "article"
-    ],
-    "example": {
-      "title": "Node.js 20 upgrade: a journey through unexpected HEAP issues with Kubernetes | by Ztec | Sep, 2024 | Deezer I/O",
-      "url": "https://deezer.io/node-js-20-upgrade-a-journey-through-unexpected-heap-issues-with-kubernetes-27ae3d325646"
     }
   },
   {
@@ -3080,6 +3039,22 @@
       "title": "oxlint で eslint を高速化させる",
       "url": "https://zenn.dev/hiruno_tarte/articles/how-to-use-oxlint"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/chakra-ui/ark",
+    "tags": [
+      "React",
+      "Vue",
+      "Solid",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release @ark-ui/react@5.0.0 · chakra-ui/ark",
+      "url": "https://github.com/chakra-ui/ark/releases/tag/%40ark-ui%2Freact%405.0.0"
+    },
+    "rssUrl": "https://github.com/chakra-ui/ark/releases.atom"
   },
   {
     "count": 1,
