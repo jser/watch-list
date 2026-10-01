@@ -206,12 +206,6 @@
     ]
   },
   {
-    "url": "https://deezer.io",
-    "feeds": [
-      "https://deezer.io/feed"
-    ]
-  },
-  {
     "url": "https://deno.com",
     "feeds": [
       "https://deno.com/feed"
@@ -426,12 +420,6 @@
     "url": "https://github.com/tc39/ecma262",
     "feeds": [
       "https://github.com/tc39/ecma262/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/chakra-ui/ark",
-    "feeds": [
-      "https://github.com/chakra-ui/ark/releases.atom"
     ]
   },
   {
@@ -762,6 +750,12 @@
     "url": "https://github.com/typescript-eslint/typescript-eslint",
     "feeds": [
       "https://github.com/typescript-eslint/typescript-eslint/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/chakra-ui/ark",
+    "feeds": [
+      "https://github.com/chakra-ui/ark/releases.atom"
     ]
   },
   {
@@ -2281,12 +2275,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/yuneco/",
-    "feeds": [
-      "https://zenn.dev/yuneco/feed"
     ]
   },
   {
