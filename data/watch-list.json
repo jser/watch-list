@@ -6808,5 +6808,19 @@
       "url": "https://github.com/unjs/upm"
     },
     "rssUrl": "https://github.com/unjs/upm/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://preactjs.com",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "React"
+    ],
+    "example": {
+      "title": "Preact 11 – Preact",
+      "url": "https://preactjs.com/blog/preact-11/"
+    }
   }
 ]
