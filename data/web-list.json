@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 64,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -60,7 +60,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -78,8 +78,8 @@
       "WebGPU"
     ],
     "example": {
-      "title": "Chrome 150  |  Release notes  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/release-notes/150"
+      "title": "Responsive iframes in Chrome 154  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/responsive-iframes?hl=en"
     },
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
@@ -561,20 +561,6 @@
   },
   {
     "count": 5,
-    "url": "https://github.com/npm/cli",
-    "tags": [
-      "npm",
-      "ReleaseNote",
-      "CLI"
-    ],
-    "example": {
-      "title": "Release v11.15.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
-    },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
-  },
-  {
-    "count": 5,
     "url": "https://socket.dev",
     "tags": [
       "pnpm",
@@ -741,6 +727,20 @@
       "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b"
     },
     "rssUrl": "https://blog.angular.dev/feed"
+  },
+  {
+    "count": 4,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote",
+      "CLI"
+    ],
+    "example": {
+      "title": "Release v11.15.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 4,
@@ -6998,5 +6998,40 @@
       "url": "https://preactjs.com/blog/preact-11/"
     },
     "rssUrl": "https://preactjs.com/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tester-army/e2e",
+    "tags": [
+      "E2E",
+      "testing",
+      "library",
+      "web",
+      "mobile",
+      "AI"
+    ],
+    "example": {
+      "title": "tester-army/e2e: Next generation e2e testing framework for web and mobile apps.",
+      "url": "https://github.com/tester-army/e2e"
+    },
+    "rssUrl": "https://github.com/tester-army/e2e/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tarwin/tinyjsapp",
+    "tags": [
+      "JavaScript",
+      "app",
+      "Tools",
+      "webview",
+      "macOS",
+      "windows",
+      "linux"
+    ],
+    "example": {
+      "title": "tarwin/tinyjsapp: Build native apps in JS. Backend, frontend. ~5Mb.",
+      "url": "https://github.com/tarwin/tinyjsapp"
+    },
+    "rssUrl": "https://github.com/tarwin/tinyjsapp/releases.atom"
   }
 ]
