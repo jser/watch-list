@@ -60,9 +60,9 @@
 <outline text="github.com/pnpm/pnpm" title="github.com/pnpm/pnpm" type="rss" xmlUrl="https://github.com/pnpm/pnpm/releases.atom"/>
 <outline text="github.com/microsoft/playwright" title="github.com/microsoft/playwright" type="rss" xmlUrl="https://github.com/microsoft/playwright/releases.atom"/>
 <outline text="github.com/zloirock/core-js" title="github.com/zloirock/core-js" type="rss" xmlUrl="https://github.com/zloirock/core-js/releases.atom"/>
-<outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/evanw/esbuild" title="github.com/evanw/esbuild" type="rss" xmlUrl="https://github.com/evanw/esbuild/releases.atom"/>
 <outline text="github.com/reduxjs/redux-toolkit" title="github.com/reduxjs/redux-toolkit" type="rss" xmlUrl="https://github.com/reduxjs/redux-toolkit/releases.atom"/>
+<outline text="github.com/npm/cli" title="github.com/npm/cli" type="rss" xmlUrl="https://github.com/npm/cli/releases.atom"/>
 <outline text="github.com/lerna-lite/lerna-lite" title="github.com/lerna-lite/lerna-lite" type="rss" xmlUrl="https://github.com/lerna-lite/lerna-lite/releases.atom"/>
 <outline text="github.com/honojs/hono" title="github.com/honojs/hono" type="rss" xmlUrl="https://github.com/honojs/hono/releases.atom"/>
 <outline text="github.com/webpack/webpack" title="github.com/webpack/webpack" type="rss" xmlUrl="https://github.com/webpack/webpack/releases.atom"/>
@@ -274,6 +274,8 @@
 <outline text="github.com/pmndrs/jotai" title="github.com/pmndrs/jotai" type="rss" xmlUrl="https://github.com/pmndrs/jotai/releases.atom"/>
 <outline text="github.com/lovablelabs/oj" title="github.com/lovablelabs/oj" type="rss" xmlUrl="https://github.com/lovablelabs/oj/releases.atom"/>
 <outline text="github.com/unjs/upm" title="github.com/unjs/upm" type="rss" xmlUrl="https://github.com/unjs/upm/releases.atom"/>
+<outline text="github.com/tester-army/e2e" title="github.com/tester-army/e2e" type="rss" xmlUrl="https://github.com/tester-army/e2e/releases.atom"/>
+<outline text="github.com/tarwin/tinyjsapp" title="github.com/tarwin/tinyjsapp" type="rss" xmlUrl="https://github.com/tarwin/tinyjsapp/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>

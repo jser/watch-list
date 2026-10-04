@@ -351,12 +351,6 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/evanw/esbuild",
     "feeds": [
       "https://github.com/evanw/esbuild/releases.atom"
@@ -366,6 +360,12 @@
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
@@ -1632,6 +1632,18 @@
     "url": "https://github.com/unjs/upm",
     "feeds": [
       "https://github.com/unjs/upm/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tester-army/e2e",
+    "feeds": [
+      "https://github.com/tester-army/e2e/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tarwin/tinyjsapp",
+    "feeds": [
+      "https://github.com/tarwin/tinyjsapp/releases.atom"
     ]
   },
   {
