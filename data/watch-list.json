@@ -6857,5 +6857,20 @@
       "url": "https://github.com/tarwin/tinyjsapp"
     },
     "rssUrl": "https://github.com/tarwin/tinyjsapp/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/rauchg/gdp-ts",
+    "tags": [
+      "TypeScript",
+      "security",
+      "library",
+      "lint"
+    ],
+    "example": {
+      "title": "rauchg/gdp-ts",
+      "url": "https://github.com/rauchg/gdp-ts/tree/main"
+    },
+    "rssUrl": "https://github.com/rauchg/gdp-ts/releases.atom"
   }
 ]

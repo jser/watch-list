@@ -1647,6 +1647,12 @@
     ]
   },
   {
+    "url": "https://github.com/rauchg/gdp-ts",
+    "feeds": [
+      "https://github.com/rauchg/gdp-ts/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
