@@ -276,6 +276,7 @@
 <outline text="github.com/unjs/upm" title="github.com/unjs/upm" type="rss" xmlUrl="https://github.com/unjs/upm/releases.atom"/>
 <outline text="github.com/tester-army/e2e" title="github.com/tester-army/e2e" type="rss" xmlUrl="https://github.com/tester-army/e2e/releases.atom"/>
 <outline text="github.com/tarwin/tinyjsapp" title="github.com/tarwin/tinyjsapp" type="rss" xmlUrl="https://github.com/tarwin/tinyjsapp/releases.atom"/>
+<outline text="github.com/rauchg/gdp-ts" title="github.com/rauchg/gdp-ts" type="rss" xmlUrl="https://github.com/rauchg/gdp-ts/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
