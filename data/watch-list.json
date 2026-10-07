@@ -81,7 +81,7 @@
     }
   },
   {
-    "count": 18,
+    "count": 19,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -94,8 +94,8 @@
       "performance"
     ],
     "example": {
-      "title": "How Turbopack chunks your JavaScript | Next.js",
-      "url": "https://nextjs.org/blog/turbopack-chunking"
+      "title": "Next.js 16.4 | Next.js",
+      "url": "https://nextjs.org/blog/next-16-4"
     }
   },
   {
@@ -200,24 +200,6 @@
   },
   {
     "count": 13,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "JSON",
-      "Markdown",
-      "article",
-      "ReleaseNote",
-      "TypeScript",
-      "css",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
-    }
-  },
-  {
-    "count": 13,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -229,6 +211,22 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 12,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "ReleaseNote",
+      "TypeScript",
+      "css",
+      "article",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
   },
   {
     "count": 12,
@@ -455,26 +453,6 @@
   },
   {
     "count": 6,
-    "url": "https://www.youtube.com",
-    "tags": [
-      "vite",
-      "Conference",
-      "video",
-      "Angular",
-      "history",
-      "React",
-      "slide",
-      "JavaScript",
-      "DOM",
-      "Native"
-    ],
-    "example": {
-      "title": "CascadiaJS 2025 - YouTube",
-      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://ecmascript-daily.github.io",
     "tags": [
       "ECMAScript",
@@ -598,6 +576,25 @@
       "url": "https://github.com/evanw/esbuild/releases/tag/v0.25.11"
     },
     "rssUrl": "https://github.com/evanw/esbuild/releases.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://www.youtube.com",
+    "tags": [
+      "Angular",
+      "video",
+      "history",
+      "React",
+      "slide",
+      "JavaScript",
+      "DOM",
+      "Native",
+      "Conference"
+    ],
+    "example": {
+      "title": "CascadiaJS 2025 - YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
   },
   {
     "count": 5,
@@ -1806,20 +1803,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://v2.tauri.app",
-    "tags": [
-      "Rust",
-      "JavaScript",
-      "GUI",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Tauri 2.0 Stable Release | Tauri",
-      "url": "https://v2.tauri.app/blog/tauri-20/"
     }
   },
   {
