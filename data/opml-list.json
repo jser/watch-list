@@ -507,6 +507,12 @@
     ]
   },
   {
+    "url": "https://panda-css.com",
+    "feeds": [
+      "https://panda-css.com/rss.xml"
+    ]
+  },
+  {
     "url": "https://piccalil.li",
     "feeds": [
       "https://piccalil.li/feed.xml",
