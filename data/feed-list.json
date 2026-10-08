@@ -393,12 +393,6 @@
     ]
   },
   {
-    "url": "https://github.com/nrwl/nx",
-    "feeds": [
-      "https://github.com/nrwl/nx/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/chakra-ui/panda",
     "feeds": [
       "https://github.com/chakra-ui/panda/releases.atom"
@@ -513,6 +507,12 @@
     ]
   },
   {
+    "url": "https://github.com/nrwl/nx",
+    "feeds": [
+      "https://github.com/nrwl/nx/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/oxc-project/oxc",
     "feeds": [
       "https://github.com/oxc-project/oxc/releases.atom"
@@ -534,12 +534,6 @@
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/dimdenGD/ultimate-express",
-    "feeds": [
-      "https://github.com/dimdenGD/ultimate-express/releases.atom"
     ]
   },
   {
@@ -1824,6 +1818,12 @@
     "feeds": [
       "https://oxc.rs/feeds/blog-en.rss",
       "https://oxc.rs/feeds/blog-en.atom"
+    ]
+  },
+  {
+    "url": "https://panda-css.com",
+    "feeds": [
+      "https://panda-css.com/rss.xml"
     ]
   },
   {
