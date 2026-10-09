@@ -120,20 +120,6 @@
     "rssUrl": "https://devblogs.microsoft.com/typescript/author/danielrosenwasser/feed/"
   },
   {
-    "count": 15,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "css",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
     "count": 14,
     "url": "https://deno.com",
     "tags": [
@@ -151,6 +137,19 @@
       "url": "https://deno.com/blog/v2.9"
     },
     "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 14,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 14,
@@ -1729,6 +1728,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/qunitjs/qunit",
+    "tags": [
+      "JavaScript",
+      "library",
+      "ReleaseNote",
+      "test"
+    ],
+    "example": {
+      "title": "Release 3.0.0 · qunitjs/qunit",
+      "url": "https://github.com/qunitjs/qunit/releases/tag/3.0.0"
+    },
+    "rssUrl": "https://github.com/qunitjs/qunit/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://www.manning.com",
     "tags": [
       "WebAssembly",
@@ -1851,20 +1865,6 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://zenn.dev/ryo_kawamata/",
-    "tags": [
-      "webpack",
-      "rspack",
-      "article"
-    ],
-    "example": {
-      "title": "webpack to Rspack ~ Rspack移行の結果と注意点 ~",
-      "url": "https://zenn.dev/ryo_kawamata/articles/b2df9989fe2c6e"
-    },
-    "rssUrl": "https://zenn.dev/ryo_kawamata/feed"
   },
   {
     "count": 1,
@@ -5290,21 +5290,6 @@
       "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957"
     },
     "rssUrl": "https://github.com/tailwindlabs/tailwindcss.com/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/qunitjs/qunit",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote",
-      "test"
-    ],
-    "example": {
-      "title": "Release 3.0.0-rc1 · qunitjs/qunit",
-      "url": "https://github.com/qunitjs/qunit/releases/tag/3.0.0-rc1"
-    },
-    "rssUrl": "https://github.com/qunitjs/qunit/releases.atom"
   },
   {
     "count": 1,

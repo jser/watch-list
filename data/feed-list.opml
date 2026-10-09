@@ -90,6 +90,7 @@
 <outline text="github.com/oxc-project/oxc" title="github.com/oxc-project/oxc" type="rss" xmlUrl="https://github.com/oxc-project/oxc/releases.atom"/>
 <outline text="github.com/colinhacks/zod" title="github.com/colinhacks/zod" type="rss" xmlUrl="https://github.com/colinhacks/zod/releases.atom"/>
 <outline text="github.com/sindresorhus/got" title="github.com/sindresorhus/got" type="rss" xmlUrl="https://github.com/sindresorhus/got/releases.atom"/>
+<outline text="github.com/qunitjs/qunit" title="github.com/qunitjs/qunit" type="rss" xmlUrl="https://github.com/qunitjs/qunit/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/facebook/metro" title="github.com/facebook/metro" type="rss" xmlUrl="https://github.com/facebook/metro/releases.atom"/>
 <outline text="github.com/trynova/nova" title="github.com/trynova/nova" type="rss" xmlUrl="https://github.com/trynova/nova/releases.atom"/>
@@ -206,7 +207,6 @@
 <outline text="github.com/jiftechnify/eject-enum" title="github.com/jiftechnify/eject-enum" type="rss" xmlUrl="https://github.com/jiftechnify/eject-enum/releases.atom"/>
 <outline text="github.com/vjeux/webcodecs-nodejs-10k-challenge" title="github.com/vjeux/webcodecs-nodejs-10k-challenge" type="rss" xmlUrl="https://github.com/vjeux/webcodecs-nodejs-10k-challenge/releases.atom"/>
 <outline text="github.com/tailwindlabs/tailwindcss.com" title="github.com/tailwindlabs/tailwindcss.com" type="rss" xmlUrl="https://github.com/tailwindlabs/tailwindcss.com/releases.atom"/>
-<outline text="github.com/qunitjs/qunit" title="github.com/qunitjs/qunit" type="rss" xmlUrl="https://github.com/qunitjs/qunit/releases.atom"/>
 <outline text="github.com/MotiaDev/motia" title="github.com/MotiaDev/motia" type="rss" xmlUrl="https://github.com/MotiaDev/motia/releases.atom"/>
 <outline text="github.com/VibiumDev/vibium" title="github.com/VibiumDev/vibium" type="rss" xmlUrl="https://github.com/VibiumDev/vibium/releases.atom"/>
 <outline text="github.com/vercel-labs/agent-browser" title="github.com/vercel-labs/agent-browser" type="rss" xmlUrl="https://github.com/vercel-labs/agent-browser/releases.atom"/>
@@ -376,7 +376,6 @@
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="zenn.dev/uki00a/" title="zenn.dev/uki00a/" type="rss" xmlUrl="https://zenn.dev/uki00a/feed"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
-<outline text="zenn.dev/ryo_kawamata/" title="zenn.dev/ryo_kawamata/" type="rss" xmlUrl="https://zenn.dev/ryo_kawamata/feed"/>
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>
