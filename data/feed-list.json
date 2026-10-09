@@ -531,6 +531,12 @@
     ]
   },
   {
+    "url": "https://github.com/qunitjs/qunit",
+    "feeds": [
+      "https://github.com/qunitjs/qunit/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -1224,12 +1230,6 @@
     "url": "https://github.com/tailwindlabs/tailwindcss.com",
     "feeds": [
       "https://github.com/tailwindlabs/tailwindcss.com/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/qunitjs/qunit",
-    "feeds": [
-      "https://github.com/qunitjs/qunit/releases.atom"
     ]
   },
   {
@@ -2287,12 +2287,6 @@
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/ryo_kawamata/",
-    "feeds": [
-      "https://zenn.dev/ryo_kawamata/feed"
     ]
   },
   {
