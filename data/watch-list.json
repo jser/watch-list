@@ -115,21 +115,20 @@
     }
   },
   {
-    "count": 14,
-    "url": "https://deno.com",
+    "count": 15,
+    "url": "https://bun.com",
     "tags": [
-      "deno",
+      "Bun",
       "ReleaseNote",
-      "dneo",
       "article",
-      "browser",
+      "performance",
+      "news",
       "JavaScript",
-      "history",
-      "vite"
+      "TypeScript"
     ],
     "example": {
-      "title": "Deno 2.9 | Deno",
-      "url": "https://deno.com/blog/v2.9"
+      "title": "Bun v1.4.3 | Bun Blog",
+      "url": "https://bun.com/blog/bun-v1.4.3"
     }
   },
   {
@@ -178,22 +177,6 @@
     }
   },
   {
-    "count": 14,
-    "url": "https://bun.com",
-    "tags": [
-      "Bun",
-      "ReleaseNote",
-      "article",
-      "performance",
-      "news",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Bun 1.4 | Bun Blog",
-      "url": "https://bun.com/blog/bun-v1.4"
-    }
-  },
-  {
     "count": 13,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
@@ -206,6 +189,24 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 13,
+    "url": "https://deno.com",
+    "tags": [
+      "dneo",
+      "ReleaseNote",
+      "deno",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite"
+    ],
+    "example": {
+      "title": "Deno 2.9 | Deno",
+      "url": "https://deno.com/blog/v2.9"
+    }
   },
   {
     "count": 12,
