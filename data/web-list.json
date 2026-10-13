@@ -37,30 +37,6 @@
   },
   {
     "count": 21,
-    "url": "https://webkit.org",
-    "tags": [
-      "safari",
-      "ReleaseNote",
-      "css",
-      "article",
-      "webkit",
-      "browser",
-      "CSS",
-      "WebTransport",
-      "WebAuthentication",
-      "JavaScript",
-      "MCP",
-      "Tools",
-      "WebAssembly"
-    ],
-    "example": {
-      "title": "WebKit Features for Safari 27.0 | WebKit",
-      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/"
-    },
-    "rssUrl": "https://webkit.org/feed/"
-  },
-  {
-    "count": 21,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -84,6 +60,30 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
+    "count": 20,
+    "url": "https://webkit.org",
+    "tags": [
+      "safari",
+      "ReleaseNote",
+      "css",
+      "article",
+      "webkit",
+      "browser",
+      "CSS",
+      "WebTransport",
+      "WebAuthentication",
+      "JavaScript",
+      "MCP",
+      "Tools",
+      "WebAssembly"
+    ],
+    "example": {
+      "title": "WebKit Features for Safari 27.0 | WebKit",
+      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/"
+    },
+    "rssUrl": "https://webkit.org/feed/"
+  },
+  {
     "count": 19,
     "url": "https://nextjs.org",
     "tags": [
@@ -103,7 +103,7 @@
     "rssUrl": "https://nextjs.org/feed.xml"
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -186,20 +186,6 @@
   },
   {
     "count": 13,
-    "url": "https://github.com/microsoft/playwright",
-    "tags": [
-      "playwright",
-      "ReleaseNote",
-      "testing"
-    ],
-    "example": {
-      "title": "Release v1.63.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0"
-    },
-    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
-  },
-  {
-    "count": 13,
     "url": "https://deno.com",
     "tags": [
       "dneo",
@@ -272,6 +258,20 @@
       "url": "https://blog.cloudflare.com/grpc-workers/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
+  },
+  {
+    "count": 12,
+    "url": "https://github.com/microsoft/playwright",
+    "tags": [
+      "playwright",
+      "ReleaseNote",
+      "testing"
+    ],
+    "example": {
+      "title": "Release v1.63.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0"
+    },
+    "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
   {
     "count": 12,
@@ -1084,20 +1084,6 @@
       "title": "How to compile JavaScript to C with Static Hermes",
       "url": "https://devongovett.me/blog/static-hermes.html"
     }
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/facebook/react",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "React"
-    ],
-    "example": {
-      "title": "Release 19.1.0 (March 28, 2025) · facebook/react",
-      "url": "https://github.com/facebook/react/releases/tag/v19.1.0"
-    },
-    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 2,
@@ -3186,6 +3172,19 @@
       "url": "https://css-tricks.com/functions-in-css/"
     },
     "rssUrl": "https://css-tricks.com/feed/"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/facebook/react",
+    "tags": [
+      "React",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release 19.1.0 (March 28, 2025) · facebook/react",
+      "url": "https://github.com/facebook/react/releases/tag/v19.1.0"
+    },
+    "rssUrl": "https://github.com/facebook/react/releases.atom"
   },
   {
     "count": 1,
