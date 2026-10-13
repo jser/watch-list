@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/facebook/react",
-    "feeds": [
-      "https://github.com/facebook/react/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tinylibs/tinybench",
     "feeds": [
       "https://github.com/tinylibs/tinybench/releases.atom"
@@ -774,6 +768,12 @@
     "url": "https://github.com/advisories/GHSA-f82v-jwr5-mffw",
     "feeds": [
       "https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/facebook/react",
+    "feeds": [
+      "https://github.com/facebook/react/releases.atom"
     ]
   },
   {

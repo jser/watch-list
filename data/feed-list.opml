@@ -71,7 +71,6 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
-<outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/tinylibs/tinybench" title="github.com/tinylibs/tinybench" type="rss" xmlUrl="https://github.com/tinylibs/tinybench/releases.atom"/>
 <outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
@@ -131,6 +130,7 @@
 <outline text="github.com/microsoft/typescript-go" title="github.com/microsoft/typescript-go" type="rss" xmlUrl="https://github.com/microsoft/typescript-go/releases.atom"/>
 <outline text="github.com/nodejs/TSC" title="github.com/nodejs/TSC" type="rss" xmlUrl="https://github.com/nodejs/TSC/releases.atom"/>
 <outline text="github.com/advisories/GHSA-f82v-jwr5-mffw" title="github.com/advisories/GHSA-f82v-jwr5-mffw" type="rss" xmlUrl="https://github.com/advisories/GHSA-f82v-jwr5-mffw/releases.atom"/>
+<outline text="github.com/facebook/react" title="github.com/facebook/react" type="rss" xmlUrl="https://github.com/facebook/react/releases.atom"/>
 <outline text="github.com/harrysolovay/standard-json-schema" title="github.com/harrysolovay/standard-json-schema" type="rss" xmlUrl="https://github.com/harrysolovay/standard-json-schema/releases.atom"/>
 <outline text="github.com/tailwindlabs/tailwindcss" title="github.com/tailwindlabs/tailwindcss" type="rss" xmlUrl="https://github.com/tailwindlabs/tailwindcss/releases.atom"/>
 <outline text="github.com/bytecodealliance/StarlingMonkey" title="github.com/bytecodealliance/StarlingMonkey" type="rss" xmlUrl="https://github.com/bytecodealliance/StarlingMonkey/releases.atom"/>
