@@ -152,6 +152,27 @@
   },
   {
     "count": 14,
+    "url": "https://deno.com",
+    "tags": [
+      "dneo",
+      "ReleaseNote",
+      "deno",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite",
+      "cloudflare",
+      "news"
+    ],
+    "example": {
+      "title": "Deno is joining Cloudflare | Deno",
+      "url": "https://deno.com/blog/cloudflare"
+    },
+    "rssUrl": "https://deno.com/feed"
+  },
+  {
+    "count": 14,
     "url": "https://github.blog",
     "tags": [
       "github",
@@ -183,25 +204,6 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/"
     },
     "rssUrl": "https://github.blog/feed/"
-  },
-  {
-    "count": 13,
-    "url": "https://deno.com",
-    "tags": [
-      "dneo",
-      "ReleaseNote",
-      "deno",
-      "article",
-      "browser",
-      "JavaScript",
-      "history",
-      "vite"
-    ],
-    "example": {
-      "title": "Deno 2.9 | Deno",
-      "url": "https://deno.com/blog/v2.9"
-    },
-    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 12,
