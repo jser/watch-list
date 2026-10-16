@@ -357,12 +357,6 @@
     ]
   },
   {
-    "url": "https://github.com/reduxjs/redux-toolkit",
-    "feeds": [
-      "https://github.com/reduxjs/redux-toolkit/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/npm/cli",
     "feeds": [
       "https://github.com/npm/cli/releases.atom"
@@ -390,6 +384,12 @@
     "url": "https://github.com/apollographql/apollo-client",
     "feeds": [
       "https://github.com/apollographql/apollo-client/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/reduxjs/redux-toolkit",
+    "feeds": [
+      "https://github.com/reduxjs/redux-toolkit/releases.atom"
     ]
   },
   {
@@ -1635,6 +1635,18 @@
     ]
   },
   {
+    "url": "https://github.com/expressjs/express",
+    "feeds": [
+      "https://github.com/expressjs/express/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/QwikDev/partytown",
+    "feeds": [
+      "https://github.com/QwikDev/partytown/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1868,6 +1880,12 @@
     "url": "https://product.hubspot.com",
     "feeds": [
       "https://product.hubspot.com/blog/rss.xml"
+    ]
+  },
+  {
+    "url": "https://react-aria.adobe.com",
+    "feeds": [
+      "https://react-aria.adobe.com/blog.xml"
     ]
   },
   {
@@ -2266,12 +2284,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/uki00a/",
-    "feeds": [
-      "https://zenn.dev/uki00a/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
@@ -2347,6 +2359,12 @@
     "url": "https://zenn.dev/mehm8128/",
     "feeds": [
       "https://zenn.dev/mehm8128/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/uki00a/",
+    "feeds": [
+      "https://zenn.dev/uki00a/feed"
     ]
   },
   {
