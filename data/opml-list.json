@@ -569,6 +569,12 @@
     ]
   },
   {
+    "url": "https://react-aria.adobe.com",
+    "feeds": [
+      "https://react-aria.adobe.com/blog.xml"
+    ]
+  },
+  {
     "url": "https://react.dev",
     "feeds": [
       "https://react.dev/rss.xml"
@@ -957,12 +963,6 @@
     ]
   },
   {
-    "url": "https://zenn.dev/uki00a/",
-    "feeds": [
-      "https://zenn.dev/uki00a/feed"
-    ]
-  },
-  {
     "url": "https://zenn.dev/dinii/",
     "feeds": [
       "https://zenn.dev/p/dinii/feed"
@@ -1038,6 +1038,12 @@
     "url": "https://zenn.dev/mehm8128/",
     "feeds": [
       "https://zenn.dev/mehm8128/feed"
+    ]
+  },
+  {
+    "url": "https://zenn.dev/uki00a/",
+    "feeds": [
+      "https://zenn.dev/uki00a/feed"
     ]
   },
   {
