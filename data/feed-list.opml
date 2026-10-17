@@ -276,6 +276,7 @@
 <outline text="github.com/rauchg/gdp-ts" title="github.com/rauchg/gdp-ts" type="rss" xmlUrl="https://github.com/rauchg/gdp-ts/releases.atom"/>
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/QwikDev/partytown" title="github.com/QwikDev/partytown" type="rss" xmlUrl="https://github.com/QwikDev/partytown/releases.atom"/>
+<outline text="github.com/vercel-labs/tsc-ts" title="github.com/vercel-labs/tsc-ts" type="rss" xmlUrl="https://github.com/vercel-labs/tsc-ts/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -299,7 +300,6 @@
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
 <outline text="nuejs.org" title="nuejs.org" type="rss" xmlUrl="https://nuejs.org/feed.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
-<outline text="nx.dev" title="nx.dev" type="rss" xmlUrl="https://nx.dev/blog/rss.xml"/>
 <outline text="onestack.dev" title="onestack.dev" type="rss" xmlUrl="https://onestack.dev/blog/rss.xml"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>
 <outline text="oxc.rs" title="oxc.rs" type="rss" xmlUrl="https://oxc.rs/feeds/blog-en.rss"/>

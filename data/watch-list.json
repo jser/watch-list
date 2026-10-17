@@ -1782,20 +1782,6 @@
   },
   {
     "count": 1,
-    "url": "https://nx.dev",
-    "tags": [
-      "nodejs",
-      "Tools",
-      "monorepo",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Announcing Nx 20 | Nx Blog",
-      "url": "https://nx.dev/blog/announcing-nx-20"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://pkg-graph.info",
     "tags": [
       "npm",
@@ -6814,5 +6800,19 @@
       "url": "https://github.com/QwikDev/partytown/releases/tag/v1.0.0"
     },
     "rssUrl": "https://github.com/QwikDev/partytown/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vercel-labs/tsc-ts",
+    "tags": [
+      "TypeScript",
+      "compiler",
+      "Tools"
+    ],
+    "example": {
+      "title": "vercel-labs/tsc-ts: TypeScript written in TypeScript",
+      "url": "https://github.com/vercel-labs/tsc-ts"
+    },
+    "rssUrl": "https://github.com/vercel-labs/tsc-ts/releases.atom"
   }
 ]

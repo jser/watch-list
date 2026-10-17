@@ -1647,6 +1647,12 @@
     ]
   },
   {
+    "url": "https://github.com/vercel-labs/tsc-ts",
+    "feeds": [
+      "https://github.com/vercel-labs/tsc-ts/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1791,13 +1797,6 @@
     "url": "https://nuxt.com",
     "feeds": [
       "https://nuxt.com/blog/rss.xml"
-    ]
-  },
-  {
-    "url": "https://nx.dev",
-    "feeds": [
-      "https://nx.dev/blog/rss.xml",
-      "https://nx.dev/blog/atom.xml"
     ]
   },
   {

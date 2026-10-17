@@ -480,13 +480,6 @@
     ]
   },
   {
-    "url": "https://nx.dev",
-    "feeds": [
-      "https://nx.dev/blog/rss.xml",
-      "https://nx.dev/blog/atom.xml"
-    ]
-  },
-  {
     "url": "https://onestack.dev",
     "feeds": [
       "https://onestack.dev/blog/rss.xml"
