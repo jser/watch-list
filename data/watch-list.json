@@ -35,7 +35,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 21,
+    "count": 22,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -50,11 +50,12 @@
       "WebAPI",
       "DOM",
       "stream",
-      "WebGPU"
+      "WebGPU",
+      "JavaScript"
     ],
     "example": {
-      "title": "Responsive iframes in Chrome 154  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/responsive-iframes?hl=en"
+      "title": "Unload event deprecated in Chrome  |  Blog  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/unload-deprecated-in-chrome"
     }
   },
   {
@@ -198,22 +199,6 @@
   },
   {
     "count": 12,
-    "url": "https://eslint.org",
-    "tags": [
-      "ESLint",
-      "ReleaseNote",
-      "TypeScript",
-      "css",
-      "article",
-      "HTML"
-    ],
-    "example": {
-      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
-      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://www.electronjs.org",
     "tags": [
       "Electron",
@@ -307,24 +292,6 @@
   },
   {
     "count": 11,
-    "url": "https://oxc.rs",
-    "tags": [
-      "ESLint",
-      "Tools",
-      "ReleaseNote",
-      "JavaScript",
-      "TypeScript",
-      "article",
-      "Rust",
-      "React"
-    ],
-    "example": {
-      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://nuxt.com",
     "tags": [
       "Nuxt",
@@ -340,6 +307,40 @@
     "example": {
       "title": "Nuxt Security Patch Releases · Nuxt Blog",
       "url": "https://nuxt.com/blog/v4-5-security"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://eslint.org",
+    "tags": [
+      "ESLint",
+      "TypeScript",
+      "ReleaseNote",
+      "css",
+      "article",
+      "HTML"
+    ],
+    "example": {
+      "title": "ESLint v10.0.0-rc.0 released - ESLint - Pluggable JavaScript Linter",
+      "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
+    }
+  },
+  {
+    "count": 10,
+    "url": "https://oxc.rs",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "TypeScript",
+      "article",
+      "Rust",
+      "React"
+    ],
+    "example": {
+      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
     }
   },
   {
