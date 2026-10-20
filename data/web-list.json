@@ -1,6 +1,6 @@
 [
   {
-    "count": 65,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -208,19 +208,6 @@
   },
   {
     "count": 12,
-    "url": "https://www.electronjs.org",
-    "tags": [
-      "Electron",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Electron 44 | Electron",
-      "url": "https://www.electronjs.org/blog/electron-44-0"
-    },
-    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
-  },
-  {
-    "count": 12,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "Hono",
@@ -339,6 +326,19 @@
       "url": "https://eslint.org/blog/2026/01/eslint-v10.0.0-rc.0-released/"
     },
     "rssUrl": "https://eslint.org/feed.xml"
+  },
+  {
+    "count": 11,
+    "url": "https://www.electronjs.org",
+    "tags": [
+      "Electron",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Electron 44 | Electron",
+      "url": "https://www.electronjs.org/blog/electron-44-0"
+    },
+    "rssUrl": "https://www.electronjs.org/blog/rss.xml"
   },
   {
     "count": 10,
@@ -1106,21 +1106,6 @@
       "url": "https://react-aria.adobe.com/blog/sheet"
     },
     "rssUrl": "https://react-aria.adobe.com/blog.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://turbo.build",
-    "tags": [
-      "monorepo",
-      "Tools",
-      "ReleaseNote",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Turborepo 2.5 | Turborepo",
-      "url": "https://turbo.build/blog/turbo-2-5"
-    },
-    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 2,
@@ -3190,6 +3175,20 @@
       "url": "https://github.com/bytecodealliance/StarlingMonkey"
     },
     "rssUrl": "https://github.com/bytecodealliance/StarlingMonkey/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://turbo.build",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Turborepo 2.5 | Turborepo",
+      "url": "https://turbo.build/blog/turbo-2-5"
+    },
+    "rssUrl": "https://turbo.build/feed.xml"
   },
   {
     "count": 1,
