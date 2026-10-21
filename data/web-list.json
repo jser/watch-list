@@ -85,7 +85,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 19,
+    "count": 18,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -137,19 +137,6 @@
       "url": "https://bun.com/blog/bun-v1.4.3"
     },
     "rssUrl": "https://bun.com/rss.xml"
-  },
-  {
-    "count": 14,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 14,
@@ -205,6 +192,19 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/"
     },
     "rssUrl": "https://github.blog/feed/"
+  },
+  {
+    "count": 13,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 12,
