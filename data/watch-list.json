@@ -82,7 +82,7 @@
     }
   },
   {
-    "count": 19,
+    "count": 18,
     "url": "https://nextjs.org",
     "tags": [
       "Next.js",
@@ -130,18 +130,6 @@
     "example": {
       "title": "Bun v1.4.3 | Bun Blog",
       "url": "https://bun.com/blog/bun-v1.4.3"
-    }
-  },
-  {
-    "count": 14,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
     }
   },
   {
@@ -195,6 +183,18 @@
     "example": {
       "title": "npm publish-time malware scanning and dual-use metadata - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/"
+    }
+  },
+  {
+    "count": 13,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
     }
   },
   {
