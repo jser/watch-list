@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file",
-    "feeds": [
-      "https://github.com/gosub-io/gosub-engine?tab=readme-ov-file/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/pmndrs/zustand",
     "feeds": [
       "https://github.com/pmndrs/zustand/releases.atom"
