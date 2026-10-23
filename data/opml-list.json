@@ -690,12 +690,6 @@
     ]
   },
   {
-    "url": "https://svelte.dev",
-    "feeds": [
-      "https://svelte.dev/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://tailwindcss.com",
     "feeds": [
       "https://tailwindcss.com/feeds/feed.xml",
