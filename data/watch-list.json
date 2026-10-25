@@ -420,22 +420,6 @@
   },
   {
     "count": 6,
-    "url": "https://web.dev",
-    "tags": [
-      "Unicode",
-      "JavaScript",
-      "article",
-      "browser",
-      "ECMAScript",
-      "JSON"
-    ],
-    "example": {
-      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
-      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://react-spectrum.adobe.com",
     "tags": [
       "React",
@@ -591,6 +575,21 @@
     "example": {
       "title": "CascadiaJS 2025 - YouTube",
       "url": "https://www.youtube.com/playlist?list=PLLiioAbFTbKP4JVMijrNRRrNccfauPko8#cascadiajs"
+    }
+  },
+  {
+    "count": 5,
+    "url": "https://web.dev",
+    "tags": [
+      "browser",
+      "article",
+      "ECMAScript",
+      "JSON",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Announcing Baseline in action  |  Blog  |  web.dev",
+      "url": "https://web.dev/blog/announcing-baseline-in-action?hl=en"
     }
   },
   {
@@ -1753,21 +1752,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/pmndrs/zustand",
-    "tags": [
-      "JavaScript",
-      "React",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · pmndrs/zustand",
-      "url": "https://github.com/pmndrs/zustand/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/pmndrs/zustand/releases.atom"
   },
   {
     "count": 1,
