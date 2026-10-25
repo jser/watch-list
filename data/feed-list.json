@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/pmndrs/zustand",
-    "feeds": [
-      "https://github.com/pmndrs/zustand/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
