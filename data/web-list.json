@@ -1,6 +1,6 @@
 [
   {
-    "count": 63,
+    "count": 64,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — Node.js 26.11.0 (Current)",
-      "url": "https://nodejs.org/en/blog/release/v26.11.0"
+      "title": "Node.js — 2026年10月21日（水）セキュリティリリース",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
     },
     "rssUrl": "https://nodejs.org/en/feed/blog.xml"
   },
@@ -61,7 +61,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 20,
+    "count": 21,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -76,11 +76,12 @@
       "JavaScript",
       "MCP",
       "Tools",
-      "WebAssembly"
+      "WebAssembly",
+      "WebAPI"
     ],
     "example": {
-      "title": "WebKit Features for Safari 27.0 | WebKit",
-      "url": "https://webkit.org/blog/18325/webkit-features-for-safari-27-0/"
+      "title": "WebKit Features for Safari 27.1 | WebKit",
+      "url": "https://webkit.org/blog/18486/webkit-features-for-safari-27-1/"
     },
     "rssUrl": "https://webkit.org/feed/"
   },
@@ -6934,5 +6935,20 @@
       "url": "https://github.com/vercel-labs/tsc-ts"
     },
     "rssUrl": "https://github.com/vercel-labs/tsc-ts/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/obsidianmd/pele",
+    "tags": [
+      "JavaScript",
+      "library",
+      "diagram",
+      "SVG"
+    ],
+    "example": {
+      "title": "obsidianmd/pele: Renders Mermaid diagrams faster than you'd run from a volcano! 🌋",
+      "url": "https://github.com/obsidianmd/pele"
+    },
+    "rssUrl": "https://github.com/obsidianmd/pele/releases.atom"
   }
 ]

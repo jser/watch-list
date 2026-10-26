@@ -275,6 +275,7 @@
 <outline text="github.com/expressjs/express" title="github.com/expressjs/express" type="rss" xmlUrl="https://github.com/expressjs/express/releases.atom"/>
 <outline text="github.com/QwikDev/partytown" title="github.com/QwikDev/partytown" type="rss" xmlUrl="https://github.com/QwikDev/partytown/releases.atom"/>
 <outline text="github.com/vercel-labs/tsc-ts" title="github.com/vercel-labs/tsc-ts" type="rss" xmlUrl="https://github.com/vercel-labs/tsc-ts/releases.atom"/>
+<outline text="github.com/obsidianmd/pele" title="github.com/obsidianmd/pele" type="rss" xmlUrl="https://github.com/obsidianmd/pele/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
