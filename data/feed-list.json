@@ -1641,6 +1641,12 @@
     ]
   },
   {
+    "url": "https://github.com/obsidianmd/pele",
+    "feeds": [
+      "https://github.com/obsidianmd/pele/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
