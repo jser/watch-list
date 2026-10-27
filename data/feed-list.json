@@ -1794,12 +1794,6 @@
     ]
   },
   {
-    "url": "https://onestack.dev",
-    "feeds": [
-      "https://onestack.dev/blog/rss.xml"
-    ]
-  },
-  {
     "url": "https://overreacted.io",
     "feeds": [
       "https://overreacted.io/atom.xml",
