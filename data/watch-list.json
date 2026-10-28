@@ -1721,6 +1721,21 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "tags": [
+      "vite",
+      "CLI",
+      "Tools",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release vite-plus v1.4.0 · voidzero-dev/vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.4.0"
+    },
+    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://better-auth.com",
     "tags": [
       "TypeScript",
@@ -5966,21 +5981,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/voidzero-dev/vite-plus",
-    "tags": [
-      "vite",
-      "CLI",
-      "Tools",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release vite-plus v0.1.21 — Create, Migrate & Local CLI Power-Up · voidzero-dev/vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.1.21"
-    },
-    "rssUrl": "https://github.com/voidzero-dev/vite-plus/releases.atom"
-  },
-  {
-    "count": 1,
     "url": "https://jadjoubran.io",
     "tags": [
       "WebPlatformAPI",
@@ -6745,5 +6745,19 @@
       "url": "https://github.com/obsidianmd/pele"
     },
     "rssUrl": "https://github.com/obsidianmd/pele/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/TypeStrong/ts-loader",
+    "tags": [
+      "TypeScript",
+      "webpack",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v10.0.0-beta.0 · TypeStrong/ts-loader",
+      "url": "https://github.com/TypeStrong/ts-loader/releases/tag/v10.0.0-beta.0"
+    },
+    "rssUrl": "https://github.com/TypeStrong/ts-loader/releases.atom"
   }
 ]
