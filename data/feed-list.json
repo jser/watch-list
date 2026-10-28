@@ -537,6 +537,12 @@
     ]
   },
   {
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "feeds": [
+      "https://github.com/voidzero-dev/vite-plus/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/acornjs/acorn",
     "feeds": [
       "https://github.com/acornjs/acorn/releases.atom"
@@ -1449,12 +1455,6 @@
     ]
   },
   {
-    "url": "https://github.com/voidzero-dev/vite-plus",
-    "feeds": [
-      "https://github.com/voidzero-dev/vite-plus/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/tmikov/hermes-node",
     "feeds": [
       "https://github.com/tmikov/hermes-node/releases.atom"
@@ -1644,6 +1644,12 @@
     "url": "https://github.com/obsidianmd/pele",
     "feeds": [
       "https://github.com/obsidianmd/pele/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/TypeStrong/ts-loader",
+    "feeds": [
+      "https://github.com/TypeStrong/ts-loader/releases.atom"
     ]
   },
   {
