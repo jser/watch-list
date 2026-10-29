@@ -20,7 +20,7 @@
     }
   },
   {
-    "count": 27,
+    "count": 26,
     "url": "https://github.com/pnpm/pnpm",
     "tags": [
       "pnpm",
@@ -1064,21 +1064,6 @@
   },
   {
     "count": 2,
-    "url": "https://github.com/tinylibs/tinybench",
-    "tags": [
-      "JavaScript",
-      "benchmark",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v6.0.0 · tinylibs/tinybench",
-      "url": "https://github.com/tinylibs/tinybench/releases/tag/v6.0.0"
-    },
-    "rssUrl": "https://github.com/tinylibs/tinybench/releases.atom"
-  },
-  {
-    "count": 2,
     "url": "https://piccalil.li",
     "tags": [
       "css ",
@@ -1750,33 +1735,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/acornjs/acorn",
-    "tags": [
-      "JavaScript",
-      "ECMAScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release Version 8.14.0 · acornjs/acorn",
-      "url": "https://github.com/acornjs/acorn/releases/tag/8.14.0"
-    },
-    "rssUrl": "https://github.com/acornjs/acorn/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://2024.stateofcss.com",
-    "tags": [
-      "css ",
-      "Survey"
-    ],
-    "example": {
-      "title": "State of CSS 2024",
-      "url": "https://2024.stateofcss.com/en-US/"
     }
   },
   {
@@ -4739,6 +4697,21 @@
       "title": "Moving Mountains: How We Migrated from Enzyme to React Testing Library",
       "url": "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/tinylibs/tinybench",
+    "tags": [
+      "JavaScript",
+      "benchmark",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v6.0.0 · tinylibs/tinybench",
+      "url": "https://github.com/tinylibs/tinybench/releases/tag/v6.0.0"
+    },
+    "rssUrl": "https://github.com/tinylibs/tinybench/releases.atom"
   },
   {
     "count": 1,
