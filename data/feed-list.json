@@ -417,12 +417,6 @@
     ]
   },
   {
-    "url": "https://github.com/tinylibs/tinybench",
-    "feeds": [
-      "https://github.com/tinylibs/tinybench/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/vueuse/vueuse",
     "feeds": [
       "https://github.com/vueuse/vueuse/releases.atom"
@@ -540,12 +534,6 @@
     "url": "https://github.com/voidzero-dev/vite-plus",
     "feeds": [
       "https://github.com/voidzero-dev/vite-plus/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/acornjs/acorn",
-    "feeds": [
-      "https://github.com/acornjs/acorn/releases.atom"
     ]
   },
   {
@@ -1152,6 +1140,12 @@
     "url": "https://github.com/3ru/eslint-plugin-baseline-js",
     "feeds": [
       "https://github.com/3ru/eslint-plugin-baseline-js/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/tinylibs/tinybench",
+    "feeds": [
+      "https://github.com/tinylibs/tinybench/releases.atom"
     ]
   },
   {
