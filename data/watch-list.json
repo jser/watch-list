@@ -1,6 +1,6 @@
 [
   {
-    "count": 63,
+    "count": 65,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -15,8 +15,8 @@
       "HTTP"
     ],
     "example": {
-      "title": "Node.js — 2026年10月21日（水）セキュリティリリース",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+      "title": "Node.js — Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+      "url": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0"
     }
   },
   {
@@ -59,7 +59,7 @@
     }
   },
   {
-    "count": 21,
+    "count": 20,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -1736,21 +1736,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mswjs/msw",
-    "tags": [
-      "JavaScript",
-      "test",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.6.0 · mswjs/msw",
-      "url": "https://github.com/mswjs/msw/releases/tag/v2.6.0"
-    },
-    "rssUrl": "https://github.com/mswjs/msw/releases.atom"
   },
   {
     "count": 1,

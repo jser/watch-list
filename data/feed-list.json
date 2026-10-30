@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/mswjs/msw",
-    "feeds": [
-      "https://github.com/mswjs/msw/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/astahmer/atomic-css-devtools",
     "feeds": [
       "https://github.com/astahmer/atomic-css-devtools/releases.atom"
@@ -2240,6 +2234,12 @@
     "url": "https://www.taekim.dev",
     "feeds": [
       "https://www.taekim.dev/feed.xml"
+    ]
+  },
+  {
+    "url": "https://www.viget.com",
+    "feeds": [
+      "https://www.viget.com/articles/feed.xml"
     ]
   },
   {
