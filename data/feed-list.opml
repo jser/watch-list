@@ -91,7 +91,6 @@
 <outline text="github.com/qunitjs/qunit" title="github.com/qunitjs/qunit" type="rss" xmlUrl="https://github.com/qunitjs/qunit/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
-<outline text="github.com/mswjs/msw" title="github.com/mswjs/msw" type="rss" xmlUrl="https://github.com/mswjs/msw/releases.atom"/>
 <outline text="github.com/astahmer/atomic-css-devtools" title="github.com/astahmer/atomic-css-devtools" type="rss" xmlUrl="https://github.com/astahmer/atomic-css-devtools/releases.atom"/>
 <outline text="github.com/immutable-js/immutable-js" title="github.com/immutable-js/immutable-js" type="rss" xmlUrl="https://github.com/immutable-js/immutable-js/releases.atom"/>
 <outline text="github.com/mylesmmurphy/prettify-ts" title="github.com/mylesmmurphy/prettify-ts" type="rss" xmlUrl="https://github.com/mylesmmurphy/prettify-ts/releases.atom"/>
@@ -369,6 +368,7 @@
 <outline text="www.smashingmagazine.com" title="www.smashingmagazine.com" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/"/>
 <outline text="www.stepsecurity.io" title="www.stepsecurity.io" type="rss" xmlUrl="https://www.stepsecurity.io/blog/rss.xml"/>
 <outline text="www.taekim.dev" title="www.taekim.dev" type="rss" xmlUrl="https://www.taekim.dev/feed.xml"/>
+<outline text="www.viget.com" title="www.viget.com" type="rss" xmlUrl="https://www.viget.com/articles/feed.xml"/>
 <outline text="www.vlt.io" title="www.vlt.io" type="rss" xmlUrl="https://www.vlt.io/rss.xml"/>
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>

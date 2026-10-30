@@ -922,6 +922,12 @@
     ]
   },
   {
+    "url": "https://www.viget.com",
+    "feeds": [
+      "https://www.viget.com/articles/feed.xml"
+    ]
+  },
+  {
     "url": "https://www.vlt.io",
     "feeds": [
       "https://www.vlt.io/rss.xml"
