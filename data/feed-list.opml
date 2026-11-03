@@ -50,7 +50,6 @@
 <outline text="efcl.info" title="efcl.info" type="rss" xmlUrl="https://efcl.info/feed/"/>
 <outline text="eliocapella.com" title="eliocapella.com" type="rss" xmlUrl="https://eliocapella.com/feed.xml"/>
 <outline text="eslint.org" title="eslint.org" type="rss" xmlUrl="https://eslint.org/feed.xml"/>
-<outline text="evanhahn.com" title="evanhahn.com" type="rss" xmlUrl="https://evanhahn.com/blog/index.xml"/>
 <outline text="evilmartians.com" title="evilmartians.com" type="rss" xmlUrl="https://evilmartians.com/chronicles.atom"/>
 <outline text="expressjs.com" title="expressjs.com" type="rss" xmlUrl="https://expressjs.com/feed.xml"/>
 <outline text="four.htmx.org" title="four.htmx.org" type="rss" xmlUrl="https://four.htmx.org/atom.xml"/>
@@ -91,7 +90,6 @@
 <outline text="github.com/qunitjs/qunit" title="github.com/qunitjs/qunit" type="rss" xmlUrl="https://github.com/qunitjs/qunit/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
-<outline text="github.com/astahmer/atomic-css-devtools" title="github.com/astahmer/atomic-css-devtools" type="rss" xmlUrl="https://github.com/astahmer/atomic-css-devtools/releases.atom"/>
 <outline text="github.com/immutable-js/immutable-js" title="github.com/immutable-js/immutable-js" type="rss" xmlUrl="https://github.com/immutable-js/immutable-js/releases.atom"/>
 <outline text="github.com/mylesmmurphy/prettify-ts" title="github.com/mylesmmurphy/prettify-ts" type="rss" xmlUrl="https://github.com/mylesmmurphy/prettify-ts/releases.atom"/>
 <outline text="github.com/advisories/GHSA-96g7-g7g9-jxw8" title="github.com/advisories/GHSA-96g7-g7g9-jxw8" type="rss" xmlUrl="https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"/>
