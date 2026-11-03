@@ -287,12 +287,6 @@
     ]
   },
   {
-    "url": "https://evanhahn.com",
-    "feeds": [
-      "https://evanhahn.com/blog/index.xml"
-    ]
-  },
-  {
     "url": "https://evilmartians.com",
     "feeds": [
       "https://evilmartians.com/chronicles.atom",

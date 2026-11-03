@@ -287,12 +287,6 @@
     ]
   },
   {
-    "url": "https://evanhahn.com",
-    "feeds": [
-      "https://evanhahn.com/blog/index.xml"
-    ]
-  },
-  {
     "url": "https://evilmartians.com",
     "feeds": [
       "https://evilmartians.com/chronicles.atom",
@@ -534,12 +528,6 @@
     "url": "https://github.com/voidzero-dev/vite-plus",
     "feeds": [
       "https://github.com/voidzero-dev/vite-plus/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/astahmer/atomic-css-devtools",
-    "feeds": [
-      "https://github.com/astahmer/atomic-css-devtools/releases.atom"
     ]
   },
   {

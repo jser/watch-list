@@ -1064,19 +1064,6 @@
   },
   {
     "count": 2,
-    "url": "https://piccalil.li",
-    "tags": [
-      "css ",
-      "article",
-      "fonts"
-    ],
-    "example": {
-      "title": "Why I’m excited about text-box-trim as a designer - Piccalilli",
-      "url": "https://piccalil.li/blog/why-im-excited-about-text-box-trim-as-a-designer/"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://www.w3.org",
     "tags": [
       "web ",
@@ -1739,34 +1726,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/astahmer/atomic-css-devtools",
-    "tags": [
-      "css ",
-      "debug",
-      "browser",
-      "Extension"
-    ],
-    "example": {
-      "title": "astahmer/atomic-css-devtools: A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox",
-      "url": "https://github.com/astahmer/atomic-css-devtools"
-    },
-    "rssUrl": "https://github.com/astahmer/atomic-css-devtools/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://evanhahn.com",
-    "tags": [
-      "ECMAScript",
-      "JavaScript",
-      "article"
-    ],
-    "example": {
-      "title": "Re-implementing JavaScript's == in JavaScript",
-      "url": "https://evanhahn.com/re-implementing-javascript-double-equals-in-javascript/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://leanrada.com",
     "tags": [
       "css ",
@@ -2301,6 +2260,19 @@
     "example": {
       "title": "Zero Docs",
       "url": "https://zero.rocicorp.dev/"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://piccalil.li",
+    "tags": [
+      "css ",
+      "article",
+      "fonts"
+    ],
+    "example": {
+      "title": "Why I’m excited about text-box-trim as a designer - Piccalilli",
+      "url": "https://piccalil.li/blog/why-im-excited-about-text-box-trim-as-a-designer/"
     }
   },
   {
