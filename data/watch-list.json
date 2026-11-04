@@ -1726,19 +1726,6 @@
   },
   {
     "count": 1,
-    "url": "https://leanrada.com",
-    "tags": [
-      "css ",
-      "animation",
-      "article"
-    ],
-    "example": {
-      "title": "CSS sprite sheet animations · leanrada.com",
-      "url": "https://leanrada.com/notes/css-sprite-sheets/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://github.com/immutable-js/immutable-js",
     "tags": [
       "JavaScript",
