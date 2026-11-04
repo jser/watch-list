@@ -1695,12 +1695,6 @@
     ]
   },
   {
-    "url": "https://leanrada.com",
-    "feeds": [
-      "https://leanrada.com/rss.xml"
-    ]
-  },
-  {
     "url": "https://lynxjs.org",
     "feeds": [
       "https://lynxjs.org/rss/blog-rss.xml"
