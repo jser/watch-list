@@ -519,6 +519,12 @@
     ]
   },
   {
+    "url": "https://github.com/dy/jz",
+    "feeds": [
+      "https://github.com/dy/jz/releases.atom"
+    ]
+  },
+  {
     "url": "https://github.com/solidjs/solid",
     "feeds": [
       "https://github.com/solidjs/solid/releases.atom"
@@ -1236,12 +1242,6 @@
     "url": "https://github.com/anomalyco/opentui",
     "feeds": [
       "https://github.com/anomalyco/opentui/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/dy/jz",
-    "feeds": [
-      "https://github.com/dy/jz/releases.atom"
     ]
   },
   {
