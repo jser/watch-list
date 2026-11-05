@@ -1678,6 +1678,22 @@
   },
   {
     "count": 2,
+    "url": "https://github.com/dy/jz",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "library",
+      "compiler",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v1.0.0 · dy/jz",
+      "url": "https://github.com/dy/jz/releases/tag/v1.0.0"
+    },
+    "rssUrl": "https://github.com/dy/jz/releases.atom"
+  },
+  {
+    "count": 2,
     "url": "https://bytecodealliance.org",
     "tags": [
       "WebAssembly",
@@ -5212,20 +5228,6 @@
       "url": "https://github.com/anomalyco/opentui/tree/main"
     },
     "rssUrl": "https://github.com/anomalyco/opentui/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/dy/jz",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "library"
-    ],
-    "example": {
-      "title": "dy/jz: Minimal JS subset compiling to WASM",
-      "url": "https://github.com/dy/jz"
-    },
-    "rssUrl": "https://github.com/dy/jz/releases.atom"
   },
   {
     "count": 1,
