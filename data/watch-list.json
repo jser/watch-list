@@ -200,25 +200,6 @@
   },
   {
     "count": 12,
-    "url": "https://nuxt.com",
-    "tags": [
-      "Nuxt",
-      "ReleaseNote",
-      "article",
-      "Vue",
-      "UI",
-      "library",
-      "vite",
-      "rspack",
-      "security"
-    ],
-    "example": {
-      "title": "Nuxt 4.6 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-6"
-    }
-  },
-  {
-    "count": 12,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -271,6 +252,25 @@
     "example": {
       "title": "pnpm 12.6 | pnpm",
       "url": "https://pnpm.io/blog/releases/12.6"
+    }
+  },
+  {
+    "count": 11,
+    "url": "https://nuxt.com",
+    "tags": [
+      "Nuxt",
+      "article",
+      "ReleaseNote",
+      "Vue",
+      "UI",
+      "library",
+      "vite",
+      "rspack",
+      "security"
+    ],
+    "example": {
+      "title": "Nuxt 4.6 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-6"
     }
   },
   {
@@ -1739,34 +1739,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/immutable-js/immutable-js",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v5.0.0 · immutable-js/immutable-js",
-      "url": "https://github.com/immutable-js/immutable-js/releases/tag/v5.0.0"
-    },
-    "rssUrl": "https://github.com/immutable-js/immutable-js/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/mylesmmurphy/prettify-ts",
-    "tags": [
-      "TypeScript",
-      "VSCode",
-      "Extension"
-    ],
-    "example": {
-      "title": "mylesmmurphy/prettify-ts: Prettify TypeScript: Better Type Previews",
-      "url": "https://github.com/mylesmmurphy/prettify-ts"
-    },
-    "rssUrl": "https://github.com/mylesmmurphy/prettify-ts/releases.atom"
   },
   {
     "count": 1,
@@ -6678,5 +6650,20 @@
       "url": "https://github.com/TypeStrong/ts-loader/releases/tag/v10.0.0-beta.0"
     },
     "rssUrl": "https://github.com/TypeStrong/ts-loader/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://blog.x.com",
+    "tags": [
+      "React",
+      "SSR",
+      "performance",
+      "AI",
+      "article"
+    ],
+    "example": {
+      "title": "Rebuilding the global town square from scratch",
+      "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch"
+    }
   }
 ]

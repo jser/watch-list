@@ -537,18 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/immutable-js/immutable-js",
-    "feeds": [
-      "https://github.com/immutable-js/immutable-js/releases.atom"
-    ]
-  },
-  {
-    "url": "https://github.com/mylesmmurphy/prettify-ts",
-    "feeds": [
-      "https://github.com/mylesmmurphy/prettify-ts/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8",
     "feeds": [
       "https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"
