@@ -91,7 +91,6 @@
 <outline text="github.com/dy/jz" title="github.com/dy/jz" type="rss" xmlUrl="https://github.com/dy/jz/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
-<outline text="github.com/advisories/GHSA-96g7-g7g9-jxw8" title="github.com/advisories/GHSA-96g7-g7g9-jxw8" type="rss" xmlUrl="https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"/>
 <outline text="github.com/drogus/jawsm" title="github.com/drogus/jawsm" type="rss" xmlUrl="https://github.com/drogus/jawsm/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/ysk8hori/typescript-graph" title="github.com/ysk8hori/typescript-graph" type="rss" xmlUrl="https://github.com/ysk8hori/typescript-graph/releases.atom"/>
@@ -271,6 +270,7 @@
 <outline text="github.com/vercel-labs/tsc-ts" title="github.com/vercel-labs/tsc-ts" type="rss" xmlUrl="https://github.com/vercel-labs/tsc-ts/releases.atom"/>
 <outline text="github.com/obsidianmd/pele" title="github.com/obsidianmd/pele" type="rss" xmlUrl="https://github.com/obsidianmd/pele/releases.atom"/>
 <outline text="github.com/TypeStrong/ts-loader" title="github.com/TypeStrong/ts-loader" type="rss" xmlUrl="https://github.com/TypeStrong/ts-loader/releases.atom"/>
+<outline text="github.com/whatwg/html" title="github.com/whatwg/html" type="rss" xmlUrl="https://github.com/whatwg/html/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
@@ -315,7 +315,6 @@
 <outline text="shopify.engineering" title="shopify.engineering" type="rss" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline text="simonwillison.net" title="simonwillison.net" type="rss" xmlUrl="https://simonwillison.net/atom/everything/"/>
 <outline text="socket.dev" title="socket.dev" type="rss" xmlUrl="https://socket.dev/api/feed.atom"/>
-<outline text="speakerdeck.com/zaru_sakuraba/" title="speakerdeck.com/zaru_sakuraba/" type="rss" xmlUrl="https://speakerdeck.com/zaru_sakuraba.atom"/>
 <outline text="speakerdeck.com/berlysia/" title="speakerdeck.com/berlysia/" type="rss" xmlUrl="https://speakerdeck.com/berlysia.atom"/>
 <outline text="speakerdeck.com/kirik/" title="speakerdeck.com/kirik/" type="rss" xmlUrl="https://speakerdeck.com/kirik.atom"/>
 <outline text="speakerdeck.com/dora1998/" title="speakerdeck.com/dora1998/" type="rss" xmlUrl="https://speakerdeck.com/dora1998.atom"/>

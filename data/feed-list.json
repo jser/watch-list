@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8",
-    "feeds": [
-      "https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/drogus/jawsm",
     "feeds": [
       "https://github.com/drogus/jawsm/releases.atom"
@@ -1617,6 +1611,12 @@
     ]
   },
   {
+    "url": "https://github.com/whatwg/html",
+    "feeds": [
+      "https://github.com/whatwg/html/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
@@ -1898,13 +1898,6 @@
     "url": "https://socket.dev",
     "feeds": [
       "https://socket.dev/api/feed.atom"
-    ]
-  },
-  {
-    "url": "https://speakerdeck.com/zaru_sakuraba/",
-    "feeds": [
-      "https://speakerdeck.com/zaru_sakuraba.atom",
-      "https://speakerdeck.com/zaru_sakuraba.rss"
     ]
   },
   {

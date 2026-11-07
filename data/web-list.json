@@ -668,21 +668,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.vlt.sh",
-    "tags": [
-      "npm",
-      "article",
-      "JavaScript",
-      "vlt"
-    ],
-    "example": {
-      "title": "Introducing Phased Package Installations",
-      "url": "https://blog.vlt.sh/blog/vlt-build"
-    },
-    "rssUrl": "https://blog.vlt.sh/feed.xml"
-  },
-  {
-    "count": 4,
     "url": "https://rspack.dev",
     "tags": [
       "rspack",
@@ -1070,6 +1055,21 @@
       "url": "https://zod.dev/blog/zod-4-6"
     },
     "rssUrl": "https://zod.dev/blog/rss.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.vlt.sh",
+    "tags": [
+      "JavaScript",
+      "npm",
+      "article",
+      "vlt"
+    ],
+    "example": {
+      "title": "Introducing Phased Package Installations",
+      "url": "https://blog.vlt.sh/blog/vlt-build"
+    },
+    "rssUrl": "https://blog.vlt.sh/feed.xml"
   },
   {
     "count": 3,
@@ -1802,48 +1802,6 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
-  },
-  {
-    "count": 1,
-    "url": "https://npm.chart.dev",
-    "tags": [
-      "npm",
-      "webservice"
-    ],
-    "example": {
-      "title": "NPM Chart",
-      "url": "https://npm.chart.dev/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8",
-    "tags": [
-      "JavaScript",
-      "DOM",
-      "nodejs",
-      "ReleaseNote",
-      "security"
-    ],
-    "example": {
-      "title": "happy-dom allows for server side code to be executed by a <script> tag · CVE-2024-51757 · GitHub Advisory Database",
-      "url": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8"
-    },
-    "rssUrl": "https://github.com/advisories/GHSA-96g7-g7g9-jxw8/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://speakerdeck.com/zaru_sakuraba/",
-    "tags": [
-      "Next.js",
-      "security",
-      "slide"
-    ],
-    "example": {
-      "title": "Next.js App Router セキュリティ - Speaker Deck",
-      "url": "https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei"
-    },
-    "rssUrl": "https://speakerdeck.com/zaru_sakuraba.atom"
   },
   {
     "count": 1,
@@ -6837,5 +6795,21 @@
       "title": "Rebuilding the global town square from scratch",
       "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/whatwg/html",
+    "tags": [
+      "HTML",
+      "DOM",
+      "WebAPI",
+      "WHATWG",
+      "spec"
+    ],
+    "example": {
+      "title": "Add streaming HTML insertion methods by noamr · Pull Request #12758 · whatwg/html",
+      "url": "https://github.com/whatwg/html/pull/12758?overview=true"
+    },
+    "rssUrl": "https://github.com/whatwg/html/releases.atom"
   }
 ]
