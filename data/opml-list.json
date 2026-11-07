@@ -611,13 +611,6 @@
     ]
   },
   {
-    "url": "https://speakerdeck.com/zaru_sakuraba/",
-    "feeds": [
-      "https://speakerdeck.com/zaru_sakuraba.atom",
-      "https://speakerdeck.com/zaru_sakuraba.rss"
-    ]
-  },
-  {
     "url": "https://speakerdeck.com/berlysia/",
     "feeds": [
       "https://speakerdeck.com/berlysia.atom",
