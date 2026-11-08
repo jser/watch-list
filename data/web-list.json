@@ -1718,7 +1718,8 @@
     "example": {
       "title": "Announcing npmx: a fast, modern browser for the npm registry",
       "url": "https://npmx.dev/blog/alpha-release"
-    }
+    },
+    "rssUrl": "https://npmx.dev/blog/rss.xml"
   },
   {
     "count": 2,
