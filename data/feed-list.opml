@@ -291,6 +291,7 @@
 <outline text="mui.com" title="mui.com" type="rss" xmlUrl="https://mui.com/feed/blog/rss.xml"/>
 <outline text="nextjs.org" title="nextjs.org" type="rss" xmlUrl="https://nextjs.org/feed.xml"/>
 <outline text="nodejs.org" title="nodejs.org" type="rss" xmlUrl="https://nodejs.org/en/feed/blog.xml"/>
+<outline text="npmx.dev" title="npmx.dev" type="rss" xmlUrl="https://npmx.dev/blog/rss.xml"/>
 <outline text="nuejs.org" title="nuejs.org" type="rss" xmlUrl="https://nuejs.org/feed.xml"/>
 <outline text="nuxt.com" title="nuxt.com" type="rss" xmlUrl="https://nuxt.com/blog/rss.xml"/>
 <outline text="overreacted.io" title="overreacted.io" type="rss" xmlUrl="https://overreacted.io/atom.xml"/>

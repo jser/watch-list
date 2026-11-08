@@ -456,6 +456,13 @@
     ]
   },
   {
+    "url": "https://npmx.dev",
+    "feeds": [
+      "https://npmx.dev/blog/rss.xml",
+      "https://npmx.dev/blog/atom.xml"
+    ]
+  },
+  {
     "url": "https://nuejs.org",
     "feeds": [
       "https://nuejs.org/feed.xml"
