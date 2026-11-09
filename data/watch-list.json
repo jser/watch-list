@@ -199,7 +199,7 @@
     }
   },
   {
-    "count": 12,
+    "count": 13,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -207,8 +207,8 @@
       "testing"
     ],
     "example": {
-      "title": "Release v1.63.0 · microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright/releases/tag/v1.63.0"
+      "title": "Release v1.65.0 · microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
   },
