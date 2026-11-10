@@ -1617,6 +1617,12 @@
     ]
   },
   {
+    "url": "https://github.com/expo/exact",
+    "feeds": [
+      "https://github.com/expo/exact/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
