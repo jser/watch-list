@@ -6812,5 +6812,21 @@
       "url": "https://github.com/whatwg/html/pull/12758?overview=true"
     },
     "rssUrl": "https://github.com/whatwg/html/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/expo/exact",
+    "tags": [
+      "Rust",
+      "TypeScript",
+      "UI",
+      "AI",
+      "Tools"
+    ],
+    "example": {
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact"
+    },
+    "rssUrl": "https://github.com/expo/exact/releases.atom"
   }
 ]

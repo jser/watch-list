@@ -271,6 +271,7 @@
 <outline text="github.com/obsidianmd/pele" title="github.com/obsidianmd/pele" type="rss" xmlUrl="https://github.com/obsidianmd/pele/releases.atom"/>
 <outline text="github.com/TypeStrong/ts-loader" title="github.com/TypeStrong/ts-loader" type="rss" xmlUrl="https://github.com/TypeStrong/ts-loader/releases.atom"/>
 <outline text="github.com/whatwg/html" title="github.com/whatwg/html" type="rss" xmlUrl="https://github.com/whatwg/html/releases.atom"/>
+<outline text="github.com/expo/exact" title="github.com/expo/exact" type="rss" xmlUrl="https://github.com/expo/exact/releases.atom"/>
 <outline text="hacks.mozilla.org" title="hacks.mozilla.org" type="rss" xmlUrl="https://hacks.mozilla.org/feed/"/>
 <outline text="ics.media" title="ics.media" type="rss" xmlUrl="https://ics.media/feed/atom.xml"/>
 <outline text="ishadeed.com" title="ishadeed.com" type="rss" xmlUrl="https://ishadeed.com/feed.xml"/>
