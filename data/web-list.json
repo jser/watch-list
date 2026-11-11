@@ -61,7 +61,7 @@
     "rssUrl": "https://developer.chrome.com/static/blog/feed.xml"
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -86,7 +86,7 @@
     "rssUrl": "https://webkit.org/feed/"
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -668,21 +668,6 @@
   },
   {
     "count": 4,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "Rspack joins the Next.js ecosystem - Rspack",
-      "url": "https://rspack.dev/blog/rspack-next-partner"
-    },
-    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
-  },
-  {
-    "count": 4,
     "url": "https://storybook.js.org",
     "tags": [
       "storybook",
@@ -953,6 +938,21 @@
       "url": "https://shopify.engineering/react-native-new-architecture"
     },
     "rssUrl": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "Rspack joins the Next.js ecosystem - Rspack",
+      "url": "https://rspack.dev/blog/rspack-next-partner"
+    },
+    "rssUrl": "https://rspack.dev/rss/blog-rss.xml"
   },
   {
     "count": 3,
