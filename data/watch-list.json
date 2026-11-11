@@ -59,7 +59,7 @@
     }
   },
   {
-    "count": 20,
+    "count": 19,
     "url": "https://webkit.org",
     "tags": [
       "safari",
@@ -83,7 +83,7 @@
     }
   },
   {
-    "count": 17,
+    "count": 16,
     "url": "https://devblogs.microsoft.com",
     "tags": [
       "TypeScript",
@@ -640,20 +640,6 @@
   },
   {
     "count": 4,
-    "url": "https://rspack.dev",
-    "tags": [
-      "rspack",
-      "ReleaseNote",
-      "Next.js",
-      "article"
-    ],
-    "example": {
-      "title": "Rspack joins the Next.js ecosystem - Rspack",
-      "url": "https://rspack.dev/blog/rspack-next-partner"
-    }
-  },
-  {
-    "count": 4,
     "url": "https://storybook.js.org",
     "tags": [
       "storybook",
@@ -914,6 +900,20 @@
     "example": {
       "title": "React Nativeの新アーキテクチャへの移行（2025年） - Shopify",
       "url": "https://shopify.engineering/react-native-new-architecture"
+    }
+  },
+  {
+    "count": 3,
+    "url": "https://rspack.dev",
+    "tags": [
+      "rspack",
+      "ReleaseNote",
+      "Next.js",
+      "article"
+    ],
+    "example": {
+      "title": "Rspack joins the Next.js ecosystem - Rspack",
+      "url": "https://rspack.dev/blog/rspack-next-partner"
     }
   },
   {
