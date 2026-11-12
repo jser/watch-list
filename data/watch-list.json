@@ -1,6 +1,6 @@
 [
   {
-    "count": 64,
+    "count": 63,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -35,7 +35,7 @@
     "rssUrl": "https://github.com/pnpm/pnpm/releases.atom"
   },
   {
-    "count": 22,
+    "count": 23,
     "url": "https://developer.chrome.com",
     "tags": [
       "Chrome",
@@ -51,11 +51,15 @@
       "DOM",
       "stream",
       "WebGPU",
-      "JavaScript"
+      "JavaScript",
+      "AI",
+      "Tools",
+      "web",
+      "document"
     ],
     "example": {
-      "title": "Unload event deprecated in Chrome  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/unload-deprecated-in-chrome"
+      "title": "Modern Web Guidance  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/modern-web-guidance?hl=ja"
     }
   },
   {
@@ -466,6 +470,22 @@
   },
   {
     "count": 6,
+    "url": "https://prettier.io",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "TypeScript",
+      "css",
+      "flowtype"
+    ],
+    "example": {
+      "title": "Prettier 3.10: New Flow syntax, new JavaScript syntax, and new plugin powered by Yuku · Prettier",
+      "url": "https://prettier.io/blog/2026/11/11/3.10.0"
+    }
+  },
+  {
+    "count": 6,
     "url": "https://biomejs.dev",
     "tags": [
       "JavaScript",
@@ -529,21 +549,6 @@
     "example": {
       "title": "Vitest 5.0 is out! | Vitest",
       "url": "https://vitest.dev/blog/vitest-5.html"
-    }
-  },
-  {
-    "count": 5,
-    "url": "https://prettier.io",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "TypeScript",
-      "css"
-    ],
-    "example": {
-      "title": "Prettier 3.9: Major parser upgrades and Formatting improvements · Prettier",
-      "url": "https://prettier.io/blog/2026/06/27/3.9.0"
     }
   },
   {
@@ -1739,20 +1744,6 @@
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
     }
-  },
-  {
-    "count": 1,
-    "url": "https://github.com/drogus/jawsm",
-    "tags": [
-      "JavaScript",
-      "WebAssembly",
-      "Tools"
-    ],
-    "example": {
-      "title": "drogus/jawsm: JavaScript to WASM compiler",
-      "url": "https://github.com/drogus/jawsm"
-    },
-    "rssUrl": "https://github.com/drogus/jawsm/releases.atom"
   },
   {
     "count": 1,
