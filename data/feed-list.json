@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/drogus/jawsm",
-    "feeds": [
-      "https://github.com/drogus/jawsm/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/parcel-bundler/parcel",
     "feeds": [
       "https://github.com/parcel-bundler/parcel/releases.atom"

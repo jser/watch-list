@@ -91,7 +91,6 @@
 <outline text="github.com/dy/jz" title="github.com/dy/jz" type="rss" xmlUrl="https://github.com/dy/jz/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
-<outline text="github.com/drogus/jawsm" title="github.com/drogus/jawsm" type="rss" xmlUrl="https://github.com/drogus/jawsm/releases.atom"/>
 <outline text="github.com/parcel-bundler/parcel" title="github.com/parcel-bundler/parcel" type="rss" xmlUrl="https://github.com/parcel-bundler/parcel/releases.atom"/>
 <outline text="github.com/ysk8hori/typescript-graph" title="github.com/ysk8hori/typescript-graph" type="rss" xmlUrl="https://github.com/ysk8hori/typescript-graph/releases.atom"/>
 <outline text="github.com/eslint/css" title="github.com/eslint/css" type="rss" xmlUrl="https://github.com/eslint/css/releases.atom"/>
