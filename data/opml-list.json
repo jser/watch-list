@@ -463,12 +463,6 @@
     ]
   },
   {
-    "url": "https://nuejs.org",
-    "feeds": [
-      "https://nuejs.org/feed.xml"
-    ]
-  },
-  {
     "url": "https://nuxt.com",
     "feeds": [
       "https://nuxt.com/blog/rss.xml"

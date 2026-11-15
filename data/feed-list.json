@@ -537,12 +537,6 @@
     ]
   },
   {
-    "url": "https://github.com/parcel-bundler/parcel",
-    "feeds": [
-      "https://github.com/parcel-bundler/parcel/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/ysk8hori/typescript-graph",
     "feeds": [
       "https://github.com/ysk8hori/typescript-graph/releases.atom"
@@ -1750,12 +1744,6 @@
     "feeds": [
       "https://npmx.dev/blog/rss.xml",
       "https://npmx.dev/blog/atom.xml"
-    ]
-  },
-  {
-    "url": "https://nuejs.org",
-    "feeds": [
-      "https://nuejs.org/feed.xml"
     ]
   },
   {
