@@ -1731,45 +1731,6 @@
   },
   {
     "count": 1,
-    "url": "https://github.com/parcel-bundler/parcel",
-    "tags": [
-      "parcel",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v2.13.0 · parcel-bundler/parcel",
-      "url": "https://github.com/parcel-bundler/parcel/releases/tag/v2.13.0"
-    },
-    "rssUrl": "https://github.com/parcel-bundler/parcel/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://nuejs.org",
-    "tags": [
-      "JavaScript",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "A better Next.js? • Nue 1.0 (RC) is out - Nue",
-      "url": "https://nuejs.org/blog/nue-release-candidate/"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://react-querybuilder.js.org",
-    "tags": [
-      "React",
-      "library",
-      "GUI"
-    ],
-    "example": {
-      "title": "React Query Builder",
-      "url": "https://react-querybuilder.js.org/"
-    }
-  },
-  {
-    "count": 1,
     "url": "https://mizu.re",
     "tags": [
       "XSS",
