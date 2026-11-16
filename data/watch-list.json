@@ -1069,21 +1069,6 @@
   },
   {
     "count": 2,
-    "url": "https://www.debugbear.com",
-    "tags": [
-      "Vue",
-      "performance",
-      "article",
-      "Chrome",
-      "debug"
-    ],
-    "example": {
-      "title": "How To Throttle Specific Requests In Chrome DevTools | DebugBear",
-      "url": "https://www.debugbear.com/blog/chrome-devtools-throttle-individual-request"
-    }
-  },
-  {
-    "count": 2,
     "url": "https://github.com/vueuse/vueuse",
     "tags": [
       "Vue",
@@ -1727,21 +1712,6 @@
     "example": {
       "title": "Better Auth 1.7",
       "url": "https://better-auth.com/blog/1-7"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://mizu.re",
-    "tags": [
-      "XSS",
-      "JavaScript",
-      "DOM",
-      "security",
-      "article"
-    ],
-    "example": {
-      "title": "Exploring the DOMPurify library: Bypasses and Fixes | mizu.re",
-      "url": "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes"
     }
   },
   {
@@ -4362,6 +4332,19 @@
   },
   {
     "count": 1,
+    "url": "https://www.debugbear.com",
+    "tags": [
+      "Chrome",
+      "debug",
+      "article"
+    ],
+    "example": {
+      "title": "How To Throttle Specific Requests In Chrome DevTools | DebugBear",
+      "url": "https://www.debugbear.com/blog/chrome-devtools-throttle-individual-request"
+    }
+  },
+  {
+    "count": 1,
     "url": "https://github.com/stepwisehq/prosemirror-collab-commit",
     "tags": [
       "JavaScript",
@@ -6591,5 +6574,21 @@
       "url": "https://github.com/expo/exact"
     },
     "rssUrl": "https://github.com/expo/exact/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://www.arshad.fyi",
+    "tags": [
+      "JavaScript",
+      "TypeScript",
+      "Zig",
+      "AST",
+      "performance",
+      "article"
+    ],
+    "example": {
+      "title": "Data-Oriented Design in Yuku's Parser - Arshad Yaseen",
+      "url": "https://www.arshad.fyi/posts/yuku-parser.html"
+    }
   }
 ]

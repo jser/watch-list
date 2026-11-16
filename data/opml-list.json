@@ -785,6 +785,12 @@
     ]
   },
   {
+    "url": "https://www.arshad.fyi",
+    "feeds": [
+      "https://www.arshad.fyi/feed.xml"
+    ]
+  },
+  {
     "url": "https://www.charpeni.com",
     "feeds": [
       "https://www.charpeni.com/blog/rss.xml"
