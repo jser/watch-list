@@ -321,6 +321,27 @@
   },
   {
     "count": 11,
+    "url": "https://oxc.rs",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "TypeScript",
+      "article",
+      "Rust",
+      "React",
+      "lint",
+      "performance"
+    ],
+    "example": {
+      "title": "Faster type-aware linting with tsrs | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs"
+    },
+    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
+  },
+  {
+    "count": 11,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "nodejs",
@@ -343,25 +364,6 @@
       "url": "https://blog.cloudflare.com/grpc-workers/"
     },
     "rssUrl": "https://blog.cloudflare.com/rss"
-  },
-  {
-    "count": 10,
-    "url": "https://oxc.rs",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "TypeScript",
-      "article",
-      "Rust",
-      "React"
-    ],
-    "example": {
-      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
-    },
-    "rssUrl": "https://oxc.rs/feeds/blog-en.rss"
   },
   {
     "count": 9,
@@ -6761,5 +6763,18 @@
       "url": "https://www.arshad.fyi/posts/yuku-parser.html"
     },
     "rssUrl": "https://www.arshad.fyi/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://www.solidjs.com",
+    "tags": [
+      "Solid",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Solid 2.0 - The Long Hold | Solid",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+    }
   }
 ]
