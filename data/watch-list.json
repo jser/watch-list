@@ -307,6 +307,26 @@
   },
   {
     "count": 11,
+    "url": "https://oxc.rs",
+    "tags": [
+      "JavaScript",
+      "Tools",
+      "ReleaseNote",
+      "ESLint",
+      "TypeScript",
+      "article",
+      "Rust",
+      "React",
+      "lint",
+      "performance"
+    ],
+    "example": {
+      "title": "Faster type-aware linting with tsrs | The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs"
+    }
+  },
+  {
+    "count": 11,
     "url": "https://blog.cloudflare.com",
     "tags": [
       "nodejs",
@@ -327,24 +347,6 @@
     "example": {
       "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC | The Cloudflare Blog",
       "url": "https://blog.cloudflare.com/grpc-workers/"
-    }
-  },
-  {
-    "count": 10,
-    "url": "https://oxc.rs",
-    "tags": [
-      "JavaScript",
-      "Tools",
-      "ReleaseNote",
-      "ESLint",
-      "TypeScript",
-      "article",
-      "Rust",
-      "React"
-    ],
-    "example": {
-      "title": "React Compiler Support | The JavaScript Oxidation Compiler",
-      "url": "https://oxc.rs/blog/2026-08-18-react-compiler-support"
     }
   },
   {
@@ -6589,6 +6591,19 @@
     "example": {
       "title": "Data-Oriented Design in Yuku's Parser - Arshad Yaseen",
       "url": "https://www.arshad.fyi/posts/yuku-parser.html"
+    }
+  },
+  {
+    "count": 1,
+    "url": "https://www.solidjs.com",
+    "tags": [
+      "Solid",
+      "JavaScript",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Solid 2.0 - The Long Hold | Solid",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
     }
   }
 ]
