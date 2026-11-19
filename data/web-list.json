@@ -1096,6 +1096,20 @@
   },
   {
     "count": 3,
+    "url": "https://blog.jquery.com",
+    "tags": [
+      "jQuery",
+      "ReleaseNote",
+      "library"
+    ],
+    "example": {
+      "title": "jQuery 4.1.0 and 3.8.0 Released: Passing the Torch | Official jQuery Blog",
+      "url": "https://blog.jquery.com/2026/11/17/jquery-4-1-0-and-3-8-0-released-passing-the-torch/"
+    },
+    "rssUrl": "https://blog.jquery.com/feed/"
+  },
+  {
+    "count": 3,
     "url": "https://react-aria.adobe.com",
     "tags": [
       "React",
@@ -1513,20 +1527,6 @@
   },
   {
     "count": 2,
-    "url": "https://blog.jquery.com",
-    "tags": [
-      "jQuery",
-      "ReleaseNote",
-      "library"
-    ],
-    "example": {
-      "title": "jQuery 4.0.0 | Official jQuery Blog",
-      "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
-    },
-    "rssUrl": "https://blog.jquery.com/feed/"
-  },
-  {
-    "count": 2,
     "url": "https://efcl.info",
     "tags": [
       "JavaScript",
@@ -1743,6 +1743,23 @@
       "url": "https://www.stepsecurity.io/blog/introducing-secure-registry-install-time-defense-for-the-npm-supply-chain"
     },
     "rssUrl": "https://www.stepsecurity.io/blog/rss.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://diffs.com",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "library",
+      "diff",
+      "Markdown",
+      "WebAssembly",
+      "React"
+    ],
+    "example": {
+      "title": "Words, from Pierre",
+      "url": "https://diffs.com/words"
+    }
   },
   {
     "count": 2,
@@ -5684,20 +5701,6 @@
       "url": "https://github.com/yuku-toolchain/yuku"
     },
     "rssUrl": "https://github.com/yuku-toolchain/yuku/releases.atom"
-  },
-  {
-    "count": 1,
-    "url": "https://diffs.com",
-    "tags": [
-      "JavaScript",
-      "CSS",
-      "library",
-      "diff"
-    ],
-    "example": {
-      "title": "Diffs, from Pierre",
-      "url": "https://diffs.com/"
-    }
   },
   {
     "count": 1,
