@@ -1,6 +1,6 @@
 [
   {
-    "count": 63,
+    "count": 62,
     "url": "https://nodejs.org",
     "tags": [
       "nodejs",
@@ -200,19 +200,6 @@
   },
   {
     "count": 13,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    },
-    "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 13,
     "url": "https://github.com/microsoft/playwright",
     "tags": [
       "playwright",
@@ -249,6 +236,19 @@
       "url": "https://react.dev/blog/2026/09/09/react-19-3"
     },
     "rssUrl": "https://react.dev/rss.xml"
+  },
+  {
+    "count": 12,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
+    },
+    "rssUrl": "https://bun.sh/rss.xml"
   },
   {
     "count": 12,
@@ -675,20 +675,6 @@
   },
   {
     "count": 4,
-    "url": "https://blog.angular.dev",
-    "tags": [
-      "Angular",
-      "ReleaseNote",
-      "article"
-    ],
-    "example": {
-      "title": "Announcing Angular v21. Authors: Jens Kuehlers, Mark “Techson”… | by Angular | Nov, 2025 | Angular Blog",
-      "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b"
-    },
-    "rssUrl": "https://blog.angular.dev/feed"
-  },
-  {
-    "count": 4,
     "url": "https://github.com/npm/cli",
     "tags": [
       "npm",
@@ -895,6 +881,20 @@
       "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss%2Fdev%401.8.0"
     },
     "rssUrl": "https://github.com/chakra-ui/panda/releases.atom"
+  },
+  {
+    "count": 3,
+    "url": "https://blog.angular.dev",
+    "tags": [
+      "Angular",
+      "article",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Announcing Angular v21. Authors: Jens Kuehlers, Mark “Techson”… | by Angular | Nov, 2025 | Angular Blog",
+      "url": "https://blog.angular.dev/announcing-angular-v21-57946c34f14b"
+    },
+    "rssUrl": "https://blog.angular.dev/feed"
   },
   {
     "count": 3,
