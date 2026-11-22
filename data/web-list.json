@@ -145,27 +145,6 @@
   },
   {
     "count": 14,
-    "url": "https://deno.com",
-    "tags": [
-      "dneo",
-      "ReleaseNote",
-      "deno",
-      "article",
-      "browser",
-      "JavaScript",
-      "history",
-      "vite",
-      "cloudflare",
-      "news"
-    ],
-    "example": {
-      "title": "Deno is joining Cloudflare | Deno",
-      "url": "https://deno.com/blog/cloudflare"
-    },
-    "rssUrl": "https://deno.com/feed"
-  },
-  {
-    "count": 14,
     "url": "https://github.blog",
     "tags": [
       "github",
@@ -211,6 +190,26 @@
       "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.0"
     },
     "rssUrl": "https://github.com/microsoft/playwright/releases.atom"
+  },
+  {
+    "count": 13,
+    "url": "https://deno.com",
+    "tags": [
+      "deno",
+      "ReleaseNote",
+      "article",
+      "browser",
+      "JavaScript",
+      "history",
+      "vite",
+      "cloudflare",
+      "news"
+    ],
+    "example": {
+      "title": "Deno is joining Cloudflare | Deno",
+      "url": "https://deno.com/blog/cloudflare"
+    },
+    "rssUrl": "https://deno.com/feed"
   },
   {
     "count": 12,
@@ -446,20 +445,6 @@
   },
   {
     "count": 6,
-    "url": "https://react-spectrum.adobe.com",
-    "tags": [
-      "React",
-      "UI",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "October 2, 2025 Release – React Spectrum Releases",
-      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
-    }
-  },
-  {
-    "count": 6,
     "url": "https://stylexjs.com",
     "tags": [
       "React",
@@ -560,6 +545,19 @@
       "url": "https://socket.dev/blog/tc39-advances-temporal-to-stage-4?utm_medium=feed"
     },
     "rssUrl": "https://socket.dev/api/feed.atom"
+  },
+  {
+    "count": 5,
+    "url": "https://react-spectrum.adobe.com",
+    "tags": [
+      "React",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "October 2, 2025 Release – React Spectrum Releases",
+      "url": "https://react-spectrum.adobe.com/releases/2025-10-02.html"
+    }
   },
   {
     "count": 5,
@@ -6779,5 +6777,20 @@
       "title": "Solid 2.0 - The Long Hold | Solid",
       "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
     }
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/foliojs/fontkit",
+    "tags": [
+      "fonts",
+      "JavaScript",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v3.0.0 · foliojs/fontkit",
+      "url": "https://github.com/foliojs/fontkit/releases/tag/v3.0.0"
+    },
+    "rssUrl": "https://github.com/foliojs/fontkit/releases.atom"
   }
 ]
