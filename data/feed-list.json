@@ -1611,6 +1611,12 @@
     ]
   },
   {
+    "url": "https://github.com/foliojs/fontkit",
+    "feeds": [
+      "https://github.com/foliojs/fontkit/releases.atom"
+    ]
+  },
+  {
     "url": "https://hacks.mozilla.org",
     "feeds": [
       "https://hacks.mozilla.org/feed/",
