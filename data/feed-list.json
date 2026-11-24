@@ -1675,6 +1675,12 @@
     ]
   },
   {
+    "url": "https://ladybird.org",
+    "feeds": [
+      "https://ladybird.org/posts.rss"
+    ]
+  },
+  {
     "url": "https://lea.verou.me",
     "feeds": [
       "https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29",
@@ -2235,6 +2241,12 @@
     ]
   },
   {
+    "url": "https://zenn.dev/h_yoshikawa0724/",
+    "feeds": [
+      "https://zenn.dev/h_yoshikawa0724/feed"
+    ]
+  },
+  {
     "url": "https://zenn.dev/yumemi_inc/",
     "feeds": [
       "https://zenn.dev/p/yumemi_inc/feed"
@@ -2358,12 +2370,6 @@
     "url": "https://zenn.dev/cybozu_frontend/",
     "feeds": [
       "https://zenn.dev/p/cybozu_frontend/feed"
-    ]
-  },
-  {
-    "url": "https://zenn.dev/h_yoshikawa0724/",
-    "feeds": [
-      "https://zenn.dev/h_yoshikawa0724/feed"
     ]
   },
   {

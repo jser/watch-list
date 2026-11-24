@@ -212,6 +212,25 @@
     "rssUrl": "https://deno.com/feed"
   },
   {
+    "count": 13,
+    "url": "https://pnpm.io",
+    "tags": [
+      "pnpm",
+      "security",
+      "article",
+      "ReleaseNote",
+      "npm",
+      "Rust",
+      "server",
+      "document"
+    ],
+    "example": {
+      "title": "pnpm 12.23.0 | pnpm",
+      "url": "https://pnpm.io/blog/releases/12.23.0"
+    },
+    "rssUrl": "https://pnpm.io/blog/rss.xml"
+  },
+  {
     "count": 12,
     "url": "https://react.dev",
     "tags": [
@@ -248,25 +267,6 @@
       "url": "https://bun.sh/blog/bun-v1.2.20"
     },
     "rssUrl": "https://bun.sh/rss.xml"
-  },
-  {
-    "count": 12,
-    "url": "https://pnpm.io",
-    "tags": [
-      "pnpm",
-      "security",
-      "article",
-      "ReleaseNote",
-      "npm",
-      "Rust",
-      "server",
-      "document"
-    ],
-    "example": {
-      "title": "pnpm 12.6 | pnpm",
-      "url": "https://pnpm.io/blog/releases/12.6"
-    },
-    "rssUrl": "https://pnpm.io/blog/rss.xml"
   },
   {
     "count": 11,
@@ -1792,6 +1792,22 @@
       "url": "https://better-auth.com/blog/1-7"
     },
     "rssUrl": "https://better-auth.com/blog/rss.xml"
+  },
+  {
+    "count": 2,
+    "url": "https://zenn.dev/h_yoshikawa0724/",
+    "tags": [
+      "JavaScript",
+      "web",
+      "Conference",
+      "slide",
+      "video"
+    ],
+    "example": {
+      "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
+      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026"
+    },
+    "rssUrl": "https://zenn.dev/h_yoshikawa0724/feed"
   },
   {
     "count": 1,
@@ -6435,21 +6451,6 @@
   },
   {
     "count": 1,
-    "url": "https://zenn.dev/h_yoshikawa0724/",
-    "tags": [
-      "JavaScript",
-      "web",
-      "Conference",
-      "slide"
-    ],
-    "example": {
-      "title": "フロントエンドカンファレンス福岡 2026 公開資料・Xアカウントリンクまとめ",
-      "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-09-13-frontend-conf-fukuoka-2026"
-    },
-    "rssUrl": "https://zenn.dev/h_yoshikawa0724/feed"
-  },
-  {
-    "count": 1,
     "url": "https://github.com/shadcn-ui/lint",
     "tags": [
       "css",
@@ -6792,5 +6793,18 @@
       "url": "https://github.com/foliojs/fontkit/releases/tag/v3.0.0"
     },
     "rssUrl": "https://github.com/foliojs/fontkit/releases.atom"
+  },
+  {
+    "count": 1,
+    "url": "https://ladybird.org",
+    "tags": [
+      "browser",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Ladybird is now in alpha - Ladybird",
+      "url": "https://ladybird.org/posts/alpha/"
+    },
+    "rssUrl": "https://ladybird.org/posts.rss"
   }
 ]

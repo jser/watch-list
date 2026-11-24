@@ -280,6 +280,7 @@
 <outline text="jross.me" title="jross.me" type="rss" xmlUrl="https://jross.me/rss/"/>
 <outline text="kaminashi-developer.hatenablog.jp" title="kaminashi-developer.hatenablog.jp" type="rss" xmlUrl="https://kaminashi-developer.hatenablog.jp/feed"/>
 <outline text="kurtextrem.de" title="kurtextrem.de" type="rss" xmlUrl="https://kurtextrem.de/rss.xml"/>
+<outline text="ladybird.org" title="ladybird.org" type="rss" xmlUrl="https://ladybird.org/posts.rss"/>
 <outline text="lea.verou.me" title="lea.verou.me" type="rss" xmlUrl="https://www.linkedin.com/feed/update/urn:li:activity:7142948935676882945?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7142948935676882945%2C7145299080624103424%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287145299080624103424%2Curn%3Ali%3Aactivity%3A7142948935676882945%29"/>
 <outline text="lynxjs.org" title="lynxjs.org" type="rss" xmlUrl="https://lynxjs.org/rss/blog-rss.xml"/>
 <outline text="main.vite.dev" title="main.vite.dev" type="rss" xmlUrl="https://main.vite.dev/blog.rss"/>
@@ -367,6 +368,7 @@
 <outline text="www.w3.org" title="www.w3.org" type="rss" xmlUrl="https://www.w3.org/WAI/feed.xml"/>
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
+<outline text="zenn.dev/h_yoshikawa0724/" title="zenn.dev/h_yoshikawa0724/" type="rss" xmlUrl="https://zenn.dev/h_yoshikawa0724/feed"/>
 <outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>
@@ -388,7 +390,6 @@
 <outline text="zenn.dev/yamanoku/" title="zenn.dev/yamanoku/" type="rss" xmlUrl="https://zenn.dev/yamanoku/feed"/>
 <outline text="zenn.dev/yasse/" title="zenn.dev/yasse/" type="rss" xmlUrl="https://zenn.dev/yasse/feed"/>
 <outline text="zenn.dev/cybozu_frontend/" title="zenn.dev/cybozu_frontend/" type="rss" xmlUrl="https://zenn.dev/p/cybozu_frontend/feed"/>
-<outline text="zenn.dev/h_yoshikawa0724/" title="zenn.dev/h_yoshikawa0724/" type="rss" xmlUrl="https://zenn.dev/h_yoshikawa0724/feed"/>
 <outline text="zod.dev" title="zod.dev" type="rss" xmlUrl="https://zod.dev/blog/rss.xml"/>
 </body>
 </opml>
