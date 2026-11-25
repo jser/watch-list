@@ -36,12 +36,6 @@
     ]
   },
   {
-    "url": "https://azukiazusa.dev",
-    "feeds": [
-      "https://azukiazusa.dev/rss.xml"
-    ]
-  },
-  {
     "url": "https://babeljs.io",
     "feeds": [
       "https://babeljs.io/blog/rss.xml",
