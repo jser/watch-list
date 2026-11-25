@@ -247,18 +247,6 @@
   },
   {
     "count": 12,
-    "url": "https://bun.sh",
-    "tags": [
-      "Bun",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Bun v1.2.20 | Bun Blog",
-      "url": "https://bun.sh/blog/bun-v1.2.20"
-    }
-  },
-  {
-    "count": 11,
     "url": "https://nuxt.com",
     "tags": [
       "Nuxt",
@@ -272,8 +260,20 @@
       "security"
     ],
     "example": {
-      "title": "Nuxt 4.6 · Nuxt Blog",
-      "url": "https://nuxt.com/blog/v4-6"
+      "title": "Nuxt 4.7 · Nuxt Blog",
+      "url": "https://nuxt.com/blog/v4-7"
+    }
+  },
+  {
+    "count": 12,
+    "url": "https://bun.sh",
+    "tags": [
+      "Bun",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Bun v1.2.20 | Bun Blog",
+      "url": "https://bun.sh/blog/bun-v1.2.20"
     }
   },
   {
@@ -349,22 +349,6 @@
     }
   },
   {
-    "count": 9,
-    "url": "https://remix.run",
-    "tags": [
-      "React",
-      "Remix",
-      "ReleaseNote",
-      "article",
-      "Conference",
-      "JavaScript"
-    ],
-    "example": {
-      "title": "Remix 3 Release Candidate | Remix",
-      "url": "https://remix.run/blog/remix-3-release-candidate"
-    }
-  },
-  {
     "count": 8,
     "url": "https://www.mozilla.org",
     "tags": [
@@ -374,6 +358,22 @@
     "example": {
       "title": "Firefox 140.0, See All New Features, Updates and Fixes",
       "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
+  },
+  {
+    "count": 8,
+    "url": "https://remix.run",
+    "tags": [
+      "React",
+      "article",
+      "Remix",
+      "Conference",
+      "ReleaseNote",
+      "JavaScript"
+    ],
+    "example": {
+      "title": "Remix 3 Release Candidate | Remix",
+      "url": "https://remix.run/blog/remix-3-release-candidate"
     }
   },
   {
@@ -1744,20 +1744,6 @@
     "example": {
       "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
       "url": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026"
-    }
-  },
-  {
-    "count": 1,
-    "url": "https://azukiazusa.dev",
-    "tags": [
-      "playwright",
-      "article",
-      "test",
-      "accessibility"
-    ],
-    "example": {
-      "title": "アクセシビリティツリーを比較する Playwright の Aria snapshots がよさそう",
-      "url": "https://azukiazusa.dev/blog/playwright-aria-snapshot/"
     }
   },
   {

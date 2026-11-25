@@ -10,7 +10,6 @@
 <outline text="alfy.blog" title="alfy.blog" type="rss" xmlUrl="https://alfy.blog/feed.xml"/>
 <outline text="almanac.httparchive.org" title="almanac.httparchive.org" type="rss" xmlUrl="https://almanac.httparchive.org/en/rss.xml"/>
 <outline text="astro.build" title="astro.build" type="rss" xmlUrl="https://astro.build/rss.xml"/>
-<outline text="azukiazusa.dev" title="azukiazusa.dev" type="rss" xmlUrl="https://azukiazusa.dev/rss.xml"/>
 <outline text="babeljs.io" title="babeljs.io" type="rss" xmlUrl="https://babeljs.io/blog/rss.xml"/>
 <outline text="benhowdle.im" title="benhowdle.im" type="rss" xmlUrl="https://benhowdle.im/feed.xml"/>
 <outline text="better-auth.com" title="better-auth.com" type="rss" xmlUrl="https://better-auth.com/blog/rss.xml"/>
