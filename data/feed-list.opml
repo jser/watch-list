@@ -90,7 +90,6 @@
 <outline text="github.com/dy/jz" title="github.com/dy/jz" type="rss" xmlUrl="https://github.com/dy/jz/releases.atom"/>
 <outline text="github.com/solidjs/solid" title="github.com/solidjs/solid" type="rss" xmlUrl="https://github.com/solidjs/solid/releases.atom"/>
 <outline text="github.com/voidzero-dev/vite-plus" title="github.com/voidzero-dev/vite-plus" type="rss" xmlUrl="https://github.com/voidzero-dev/vite-plus/releases.atom"/>
-<outline text="github.com/ysk8hori/typescript-graph" title="github.com/ysk8hori/typescript-graph" type="rss" xmlUrl="https://github.com/ysk8hori/typescript-graph/releases.atom"/>
 <outline text="github.com/eslint/css" title="github.com/eslint/css" type="rss" xmlUrl="https://github.com/eslint/css/releases.atom"/>
 <outline text="github.com/litdb/litdb" title="github.com/litdb/litdb" type="rss" xmlUrl="https://github.com/litdb/litdb/releases.atom"/>
 <outline text="github.com/onlook-dev/onlook" title="github.com/onlook-dev/onlook" type="rss" xmlUrl="https://github.com/onlook-dev/onlook/releases.atom"/>
@@ -368,7 +367,6 @@
 <outline text="www.youtube.com" title="www.youtube.com" type="rss" xmlUrl="https://www.youtube.com/feed/subscriptions"/>
 <outline text="zenn.dev/dinii/" title="zenn.dev/dinii/" type="rss" xmlUrl="https://zenn.dev/p/dinii/feed"/>
 <outline text="zenn.dev/h_yoshikawa0724/" title="zenn.dev/h_yoshikawa0724/" type="rss" xmlUrl="https://zenn.dev/h_yoshikawa0724/feed"/>
-<outline text="zenn.dev/yumemi_inc/" title="zenn.dev/yumemi_inc/" type="rss" xmlUrl="https://zenn.dev/p/yumemi_inc/feed"/>
 <outline text="zenn.dev/mizchi/" title="zenn.dev/mizchi/" type="rss" xmlUrl="https://zenn.dev/mizchi/feed"/>
 <outline text="zenn.dev/okkun/" title="zenn.dev/okkun/" type="rss" xmlUrl="https://zenn.dev/okkun/feed"/>
 <outline text="zenn.dev/thiry/" title="zenn.dev/thiry/" type="rss" xmlUrl="https://zenn.dev/thiry/feed"/>
