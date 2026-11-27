@@ -345,12 +345,6 @@
     ]
   },
   {
-    "url": "https://github.com/npm/cli",
-    "feeds": [
-      "https://github.com/npm/cli/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/lerna-lite/lerna-lite",
     "feeds": [
       "https://github.com/lerna-lite/lerna-lite/releases.atom"
@@ -378,6 +372,12 @@
     "url": "https://github.com/reduxjs/redux-toolkit",
     "feeds": [
       "https://github.com/reduxjs/redux-toolkit/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/npm/cli",
+    "feeds": [
+      "https://github.com/npm/cli/releases.atom"
     ]
   },
   {
