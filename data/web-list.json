@@ -673,17 +673,17 @@
   },
   {
     "count": 4,
-    "url": "https://github.com/npm/cli",
+    "url": "https://vite.dev",
     "tags": [
-      "npm",
+      "vite",
       "ReleaseNote",
-      "CLI"
+      "serverless"
     ],
     "example": {
-      "title": "Release v11.15.0 · npm/cli",
-      "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
+      "title": "Vite 8.4 is out! | Vite",
+      "url": "https://vite.dev/blog/announcing-vite8-4"
     },
-    "rssUrl": "https://github.com/npm/cli/releases.atom"
+    "rssUrl": "https://vite.dev/blog.rss"
   },
   {
     "count": 4,
@@ -835,20 +835,6 @@
   },
   {
     "count": 3,
-    "url": "https://vite.dev",
-    "tags": [
-      "vite",
-      "ReleaseNote",
-      "serverless"
-    ],
-    "example": {
-      "title": "Vite 8.1 is out! | Vite",
-      "url": "https://vite.dev/blog/announcing-vite8-1"
-    },
-    "rssUrl": "https://vite.dev/blog.rss"
-  },
-  {
-    "count": 3,
     "url": "https://astro.build",
     "tags": [
       "astro",
@@ -862,6 +848,20 @@
       "url": "https://astro.build/blog/astro-6/"
     },
     "rssUrl": "https://astro.build/rss.xml"
+  },
+  {
+    "count": 3,
+    "url": "https://github.com/npm/cli",
+    "tags": [
+      "npm",
+      "ReleaseNote",
+      "CLI"
+    ],
+    "example": {
+      "title": "Release v11.15.0 · npm/cli",
+      "url": "https://github.com/npm/cli/releases/tag/v11.15.0"
+    },
+    "rssUrl": "https://github.com/npm/cli/releases.atom"
   },
   {
     "count": 3,
