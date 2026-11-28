@@ -69,7 +69,6 @@
 <outline text="github.com/storybookjs/storybook" title="github.com/storybookjs/storybook" type="rss" xmlUrl="https://github.com/storybookjs/storybook/releases.atom"/>
 <outline text="github.com/nuxt/nuxt" title="github.com/nuxt/nuxt" type="rss" xmlUrl="https://github.com/nuxt/nuxt/releases.atom"/>
 <outline text="github.com/tc39/ecma262" title="github.com/tc39/ecma262" type="rss" xmlUrl="https://github.com/tc39/ecma262/releases.atom"/>
-<outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/nodejs/undici" title="github.com/nodejs/undici" type="rss" xmlUrl="https://github.com/nodejs/undici/releases.atom"/>
 <outline text="github.com/prisma/prisma" title="github.com/prisma/prisma" type="rss" xmlUrl="https://github.com/prisma/prisma/releases.atom"/>
 <outline text="github.com/mui/base-ui" title="github.com/mui/base-ui" type="rss" xmlUrl="https://github.com/mui/base-ui/releases.atom"/>
@@ -97,6 +96,7 @@
 <outline text="github.com/nissy-dev/tenbin" title="github.com/nissy-dev/tenbin" type="rss" xmlUrl="https://github.com/nissy-dev/tenbin/releases.atom"/>
 <outline text="github.com/reduxjs/react-redux" title="github.com/reduxjs/react-redux" type="rss" xmlUrl="https://github.com/reduxjs/react-redux/releases.atom"/>
 <outline text="github.com/vercel/swr" title="github.com/vercel/swr" type="rss" xmlUrl="https://github.com/vercel/swr/releases.atom"/>
+<outline text="github.com/vueuse/vueuse" title="github.com/vueuse/vueuse" type="rss" xmlUrl="https://github.com/vueuse/vueuse/releases.atom"/>
 <outline text="github.com/facebookexperimental/Recoil" title="github.com/facebookexperimental/Recoil" type="rss" xmlUrl="https://github.com/facebookexperimental/Recoil/releases.atom"/>
 <outline text="github.com/open-source-labs/Reactime" title="github.com/open-source-labs/Reactime" type="rss" xmlUrl="https://github.com/open-source-labs/Reactime/releases.atom"/>
 <outline text="github.com/Automattic/node-canvas" title="github.com/Automattic/node-canvas" type="rss" xmlUrl="https://github.com/Automattic/node-canvas/releases.atom"/>
