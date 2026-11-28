@@ -366,18 +366,6 @@
   },
   {
     "count": 8,
-    "url": "https://www.mozilla.org",
-    "tags": [
-      "Firefox",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
-      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
-    }
-  },
-  {
-    "count": 8,
     "url": "https://remix.run",
     "tags": [
       "React",
@@ -424,6 +412,18 @@
       "url": "https://rspack.rs/blog/announcing-2-2"
     },
     "rssUrl": "https://rspack.rs/rss/blog-rss.xml"
+  },
+  {
+    "count": 7,
+    "url": "https://www.mozilla.org",
+    "tags": [
+      "Firefox",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Firefox 140.0, See All New Features, Updates and Fixes",
+      "url": "https://www.mozilla.org/en-US/firefox/140.0/releasenotes/"
+    }
   },
   {
     "count": 7,
@@ -1124,20 +1124,6 @@
       "url": "https://react-aria.adobe.com/blog/sheet"
     },
     "rssUrl": "https://react-aria.adobe.com/blog.xml"
-  },
-  {
-    "count": 2,
-    "url": "https://github.com/vueuse/vueuse",
-    "tags": [
-      "Vue",
-      "library",
-      "ReleaseNote"
-    ],
-    "example": {
-      "title": "Release v12.3.0 · vueuse/vueuse",
-      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
-    },
-    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 2,
@@ -2138,6 +2124,20 @@
       "url": "https://piccalil.li/blog/why-im-excited-about-text-box-trim-as-a-designer/"
     },
     "rssUrl": "https://piccalil.li/feed.xml"
+  },
+  {
+    "count": 1,
+    "url": "https://github.com/vueuse/vueuse",
+    "tags": [
+      "Vue",
+      "library",
+      "ReleaseNote"
+    ],
+    "example": {
+      "title": "Release v12.3.0 · vueuse/vueuse",
+      "url": "https://github.com/vueuse/vueuse/releases/tag/v12.3.0"
+    },
+    "rssUrl": "https://github.com/vueuse/vueuse/releases.atom"
   },
   {
     "count": 1,

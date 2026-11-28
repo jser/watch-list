@@ -405,12 +405,6 @@
     ]
   },
   {
-    "url": "https://github.com/vueuse/vueuse",
-    "feeds": [
-      "https://github.com/vueuse/vueuse/releases.atom"
-    ]
-  },
-  {
     "url": "https://github.com/nodejs/undici",
     "feeds": [
       "https://github.com/nodejs/undici/releases.atom"
@@ -570,6 +564,12 @@
     "url": "https://github.com/vercel/swr",
     "feeds": [
       "https://github.com/vercel/swr/releases.atom"
+    ]
+  },
+  {
+    "url": "https://github.com/vueuse/vueuse",
+    "feeds": [
+      "https://github.com/vueuse/vueuse/releases.atom"
     ]
   },
   {
